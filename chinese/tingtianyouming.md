@@ -1,5 +1,7 @@
 # 听天由命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingtianyouming.md)
+
 <p><span class="chinese">我听天由命，凡降临于我的都是公正的。</span><span class="english">You are the angel befallen the stage.</span></p>
 
 <p><span class="chinese">接近黄昏时，亚历克斯已经准备听天由命。</span><span class="english">By late afternoon Alex had become resigned.</span></p>

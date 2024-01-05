@@ -1,5 +1,7 @@
 # perusal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perusal.md)
+
 <p><span class="chinese">第二遍读起来效果就大不相同了。</span><span class="english">Widely different was the effect of a second perusal.</span></p>
 
 <p><span class="chinese">这是精读的第二层含义。</span><span class="english">And which is the second essential request of perusal.</span></p>

@@ -1,5 +1,7 @@
 # disposal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disposal.md)
+
 <p><span class="chinese">不要用免洗杯。</span><span class="english">Don't use disposal cups.</span></p>
 
 <p><span class="chinese">垃圾处理真是赚钱金矿?。</span><span class="english">GoldRush in Garbage Disposal?</span></p>

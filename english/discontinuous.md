@@ -1,5 +1,7 @@
 # discontinuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontinuous.md)
+
 <p><span class="chinese">叶背面具一不规则的不连续的毛被。</span><span class="english">Abaxial leaf surface with a patchy discontinuous indumentum.</span></p>
 
 <p><span class="chinese">那男孩受了很杂而不连续的教育。</span><span class="english">The boy received a very jumbled and discontinuous schooling.</span></p>

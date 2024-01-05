@@ -1,5 +1,7 @@
 # 阻隔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuge_1.md)
+
 <p><span class="chinese">多少道鸿沟将他与六翼天使阻隔！</span><span class="english">What gulfs between him and the seraphim!</span></p>
 
 <p><span class="chinese">但是罗渐渐觉得被这块布阻隔了。</span><span class="english">But Luo gradually felt restricted by the cloth.</span></p>

@@ -1,5 +1,7 @@
 # rage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rage.md)
+
 <p><span class="chinese">不要对我吹胡子瞪眼睛!</span><span class="english">Don't rage at me!</span></p>
 
 <p><span class="chinese">可能会引起公路暴怒。</span><span class="english">you could get road rage.</span></p>

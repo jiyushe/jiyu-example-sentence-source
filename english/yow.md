@@ -1,5 +1,7 @@
 # yow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yow.md)
+
 <p><span class="chinese">转回来！你走错路了。</span><span class="english">Yow are going the wrong way.</span></p>
 
 <p><span class="chinese">转回来！你走错路了。</span><span class="english">Turn around! Yow are going the wrong way.</span></p>

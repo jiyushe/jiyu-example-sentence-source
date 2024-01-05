@@ -1,5 +1,7 @@
 # cavity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavity.md)
+
 <p><span class="chinese">你的牙齿蛀了一个洞。</span><span class="english">Your toth has a cavity.</span></p>
 
 <p><span class="chinese">我的牙齿蛀了一个洞。</span><span class="english">I have a cavity in the tooth.</span></p>

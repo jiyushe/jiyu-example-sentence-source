@@ -1,5 +1,7 @@
 # disconnection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disconnection.md)
+
 <p><span class="chinese">哦，那‘断开’是什么？</span><span class="english">Well, what is disconnection?</span></p>
 
 <p><span class="chinese">断开连接具有其优点。</span><span class="english">Disconnection has its benefits.</span></p>

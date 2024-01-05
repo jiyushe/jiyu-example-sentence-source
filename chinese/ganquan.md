@@ -1,5 +1,7 @@
 # 甘泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganquan.md)
+
 <p><span class="chinese">我是一条小溪，你是我的甘泉。</span><span class="english">I am a bourn, you are my mellifluence.</span></p>
 
 <p><span class="chinese">我选择化为甘泉流入麦田。</span><span class="english">I choose change into the fresh-tasting spring water inflow wheat field.</span></p>

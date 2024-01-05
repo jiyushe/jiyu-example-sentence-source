@@ -1,5 +1,7 @@
 # 至亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqin_2.md)
+
 <p><span class="chinese">许多人失去了至亲的男性亲属。</span><span class="english">Many have lost close male relatives.</span></p>
 
 <p><span class="chinese">至爱至亲的阿格尼斯，我的义姐！</span><span class="english">Dear, sweet Agnes, my adopted sister!</span></p>

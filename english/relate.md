@@ -1,5 +1,7 @@
 # relate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relate.md)
+
 <p><span class="chinese">那么，它们是如何相关联的呢？</span><span class="english">So, how do they relate?</span></p>
 
 <p><span class="chinese">高中生帕克·艾文斯说”我将更好地建立联系。</span><span class="english">I just relate better to it.</span></p>

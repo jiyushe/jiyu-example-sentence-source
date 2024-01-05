@@ -1,5 +1,7 @@
 # austin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austin.md)
+
 <p><span class="chinese">我爱奥斯汀！</span><span class="english">I love Austin !</span></p>
 
 <p><span class="chinese">我们也在奥斯汀。</span><span class="english">We are also in Austin.</span></p>

@@ -1,5 +1,7 @@
 # 博大精深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bodajingshen.md)
+
 <p><span class="chinese">中国的史诗是博大精深的。</span><span class="english">Epic of china is broad and profound.</span></p>
 
 <p><span class="chinese">中国文学是博大精深的。</span><span class="english">The Chinese literature is broad and profound.</span></p>

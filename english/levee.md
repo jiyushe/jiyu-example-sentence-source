@@ -1,5 +1,7 @@
 # levee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levee.md)
+
 <p><span class="chinese">你看，就是那边的枯木长堤。</span><span class="english">Look at that long levee of logs.</span></p>
 
 <p><span class="chinese">我有个在堤上干活的女人。</span><span class="english">I got a woman who works on the levee.</span></p>

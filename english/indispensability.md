@@ -1,5 +1,7 @@
 # indispensability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indispensability.md)
+
 <p><span class="chinese">他把它们称为“不可或缺化”和“有形化”。</span><span class="english">He called them "indispensability" and " tangibility.</span></p>
 
 <p><span class="chinese">在文学作品、电影中也是不可缺少之物。</span><span class="english">It is also the thing of indispensability in the literature work, movie.</span></p>

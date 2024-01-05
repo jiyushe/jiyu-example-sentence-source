@@ -1,5 +1,7 @@
 # 烈火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liehuo.md)
+
 <p><span class="chinese">烈火试真金，困难炼壮士。</span><span class="english">Fire is the test of gold.</span></p>
 
 <p><span class="chinese">带给我烈火的战骑。</span><span class="english">Bring me my chariot of fire!</span></p>

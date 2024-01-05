@@ -1,5 +1,7 @@
 # 拥戴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongdai.md)
+
 <p><span class="chinese">大家欢呼拥戴他为国王。</span><span class="english">They hailed him as King.</span></p>
 
 <p><span class="chinese">他们拥戴他为英国国王。</span><span class="english">They made him king of England.</span></p>

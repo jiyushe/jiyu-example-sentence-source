@@ -1,5 +1,7 @@
 # lytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lytic.md)
+
 <p><span class="chinese">为了区分开两条路径，我们首先考虑裂解循环。</span><span class="english">To disentangle the two pathways, first consider just the lytic cycle.</span></p>
 
 <p><span class="chinese">后者通常伴有颅骨多发性囊性病变。</span><span class="english">The latter is usually accompanied by multiple lytic lesions of the skull.</span></p>

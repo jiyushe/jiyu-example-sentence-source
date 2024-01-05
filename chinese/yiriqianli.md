@@ -1,5 +1,7 @@
 # 一日千里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiriqianli.md)
+
 <p><span class="chinese">与科技发展一日千里，这是没有必要的。</span><span class="english">With advent of technology, this is not needed now.</span></p>
 
 <p><span class="chinese">过去十年，本港高等教育的发展一日千里。</span><span class="english">Higher education has developed very rapidly in the past 10 years.</span></p>

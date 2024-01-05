@@ -1,5 +1,7 @@
 # molehill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molehill.md)
+
 <p><span class="chinese">不要小题大做。</span><span class="english">Don't make a mountain out of molehill.</span></p>
 
 <p><span class="chinese">不要小题大做。</span><span class="english">Don‘t make a mountain out of a molehill.</span></p>

@@ -1,5 +1,7 @@
 # 定音鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyingu.md)
+
 <p><span class="chinese">定音鼓有著悠久的历史。</span><span class="english">The timpani have had a long history.</span></p>
 
 <p><span class="chinese">主音是由定音鼓演奏出来的，属音，主音，属音，主音，属音。</span><span class="english">The timpani played that tonic,dominant,tonic,dominant,tonic,dominant.</span></p>

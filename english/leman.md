@@ -1,5 +1,7 @@
 # leman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leman.md)
+
 <p><span class="chinese">为勒芒赛事，奥迪的V12发动机怪兽。</span><span class="english">The Audi V12 engine monster for Leman Race.</span></p>
 
 <p><span class="chinese">经理认为莱曼先生正好能胜任。</span><span class="english">The manager thinks Mr. Leman just can cut the mustard.</span></p>

@@ -1,5 +1,7 @@
 # 演说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshuo.md)
+
 <p><span class="chinese">写演说词。</span><span class="english">Writing speeches.</span></p>
 
 <p><span class="chinese">他是个慷慨激昂的演说者。</span><span class="english">He is a fervid orator.</span></p>

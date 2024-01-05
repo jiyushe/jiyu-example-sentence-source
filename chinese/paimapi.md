@@ -1,5 +1,7 @@
 # 拍马屁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paimapi.md)
+
 <p><span class="chinese">他只是一个乐于拍马屁的人。</span><span class="english">He's just a brown-noser.</span></p>
 
 <p><span class="chinese">他公开地对老板拍马屁。</span><span class="english">He openly crawled to the boss.</span></p>

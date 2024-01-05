@@ -1,5 +1,7 @@
 # wear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wear.md)
+
 <p><span class="chinese">穿好鞋子。</span><span class="english">Wear shoes.</span></p>
 
 <p><span class="chinese">将衣服穿好。</span><span class="english">Wear it well.</span></p>

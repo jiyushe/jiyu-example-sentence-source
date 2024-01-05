@@ -1,5 +1,7 @@
 # 恫吓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghe_1.md)
+
 <p><span class="chinese">他们的威胁后来证明全是虚声恫吓。</span><span class="english">Their threats proved to be hollow.</span></p>
 
 <p><span class="chinese">他的咆哮并非恫吓，而是召集。</span><span class="english">It growls not to threaten, but to summon.</span></p>

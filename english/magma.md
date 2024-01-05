@@ -1,5 +1,7 @@
 # magma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magma.md)
+
 <p><span class="chinese">岩浆驱动夏威夷？</span><span class="english">Magma to Power Hawaii?</span></p>
 
 <p><span class="chinese">那会儿，炽热的岩浆正从我们的身边奔腾而过。</span><span class="english">The blazing magma was surging by us.</span></p>

@@ -1,5 +1,7 @@
 # 危重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhong.md)
+
 <p><span class="chinese">两名患者都处在危重状态。</span><span class="english">Both patients are in critical conditions.</span></p>
 
 <p><span class="chinese">脓毒症是常见的危重病。</span><span class="english">Sepsis is one of common critical diseases.</span></p>

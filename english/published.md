@@ -1,5 +1,7 @@
 # published
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/published.md)
+
 <p><span class="chinese">出版哈尔伦纳德。</span><span class="english">Published by Hal Leonard.</span></p>
 
 <p><span class="chinese">她的译作得以出版。</span><span class="english">And she's getting it published.</span></p>

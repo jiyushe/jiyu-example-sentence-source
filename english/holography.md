@@ -1,5 +1,7 @@
 # holography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holography.md)
+
 <p><span class="chinese">全息术光源。</span><span class="english">Light sources for holography.</span></p>
 
 <p><span class="chinese">在全息非银进动。</span><span class="english">Non-silver precesses in holography.</span></p>

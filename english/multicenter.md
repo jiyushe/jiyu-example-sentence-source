@@ -1,5 +1,7 @@
 # multicenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicenter.md)
+
 <p><span class="chinese">如果其成功，多中心的实验将很可能随后进行。</span><span class="english">If it is successful, a multicenter trial will likely follow.</span></p>
 
 <p><span class="chinese">这项试验质疑了在孕期服用DHA补充剂的益处。</span><span class="english">This multicenter trial questions the benefits of DHA supplementation during pregnancy.</span></p>

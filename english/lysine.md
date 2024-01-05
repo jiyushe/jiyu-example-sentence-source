@@ -1,5 +1,7 @@
 # lysine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lysine.md)
+
 <p><span class="chinese">用氨水可将吸附的赖氨酸迅速解吸。</span><span class="english">The lysine can be desorbed rapidly with ammonia.</span></p>
 
 <p><span class="chinese">例如，米饭中的异亮氨酸和赖氨酸就非常少。</span><span class="english">For example rice is low in isoleucine and lysine.</span></p>

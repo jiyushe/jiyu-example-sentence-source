@@ -1,5 +1,7 @@
 # elocution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elocution.md)
+
 <p><span class="chinese">就连有“铁娘子”之称的撒切尔夫人也曾接受过朗诵课程，使自己的声音不那么尖锐。</span><span class="english">And "Iron Lady" Margaret Thatcher had elocution lessons to make her voice less shrill.</span></p>
 
 <p><span class="chinese">她所有的语言艺术课都是烟雾罢了，从她出生的那天起，她就是个骗子。</span><span class="english">All her elocution lessons were just a mask. She was a chiseler from the day she was born.</span></p>

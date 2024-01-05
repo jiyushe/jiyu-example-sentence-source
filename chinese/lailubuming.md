@@ -1,5 +1,7 @@
 # 来路不明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lailubuming.md)
+
 <p><span class="chinese">如果标本来路不明，就不能以此为鉴。</span><span class="english">If the unknown sample, not a lesson.</span></p>
 
 <p><span class="chinese">偶尔有一个来路不明的微小光点一闪而过。</span><span class="english">Occasionally, a tiny flicker of light passes quickly by , its source a mystery.</span></p>

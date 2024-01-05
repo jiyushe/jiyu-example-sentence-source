@@ -1,5 +1,7 @@
 # vantage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vantage.md)
+
 <p><span class="chinese">在亚洲展开您的双翅，同我们一起飞高望远。</span><span class="english">To spread your wings in Asia. Share our vantage point.</span></p>
 
 <p><span class="chinese">这就是“重庆华帝王朝华美达广场酒店”。</span><span class="english">This is the "Vantage Wang Zhaohua Metroplex Plaza Chongqing."</span></p>

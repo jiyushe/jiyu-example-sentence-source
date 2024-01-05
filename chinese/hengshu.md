@@ -1,5 +1,7 @@
 # 横竖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengshu.md)
+
 <p><span class="chinese">横竖我不来了。</span><span class="english">Anyway I am not coming.</span></p>
 
 <p><span class="chinese">横竖我还得像条狗似的要有人牵着。</span><span class="english">I'll have to be led like a dog, anyhow.</span></p>

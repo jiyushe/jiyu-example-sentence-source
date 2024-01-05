@@ -1,5 +1,7 @@
 # 火辣辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huolala.md)
+
 <p><span class="chinese">碘酒烧灼得伤口火辣辣的。</span><span class="english">The cuts Burn from the iodine.</span></p>
 
 <p><span class="chinese">他的脸因挨了耳光而感到火辣辣的。</span><span class="english">His cheek tingled from the slap.</span></p>

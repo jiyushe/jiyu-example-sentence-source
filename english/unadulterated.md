@@ -1,5 +1,7 @@
 # unadulterated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unadulterated.md)
+
 <p><span class="chinese">这是纯粹的胡扯。</span><span class="english">This is total unadulterated bullcrap.</span></p>
 
 <p><span class="chinese">现在，迎接我的是纯粹完全的欢乐。</span><span class="english">Now, I’m greeted by pure, unadulterated joy.</span></p>

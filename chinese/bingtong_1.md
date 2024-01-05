@@ -1,5 +1,7 @@
 # 病痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingtong_1.md)
+
 <p><span class="chinese">你正在经历的病痛？</span><span class="english">The illness you are going through?</span></p>
 
 <p><span class="chinese">如果病痛复发，就服这种药。</span><span class="english">If the pain recurs, take this medicine.</span></p>

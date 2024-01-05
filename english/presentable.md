@@ -1,5 +1,7 @@
 # presentable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presentable.md)
+
 <p><span class="chinese">做的不像样。</span><span class="english">Do not presentable.</span></p>
 
 <p><span class="chinese">我得使自己像点样。</span><span class="english">I have to make myself presentable.</span></p>

@@ -1,5 +1,7 @@
 # intermetallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermetallic.md)
+
 <p><span class="chinese">在极低的温度下，某些金属和金属化合物能转变成超…</span><span class="english">At low temperatures, some metals and intermetallic compounds become superconductors.</span></p>
 
 <p><span class="chinese">简要介绍了金属间化合物的熔炼与铸造工艺。</span><span class="english">Smelting and casting technology for intermetallic compounds were introduced briefly.</span></p>

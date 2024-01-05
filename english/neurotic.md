@@ -1,5 +1,7 @@
 # neurotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotic.md)
+
 <p><span class="chinese">是的，我有一点点的神经质。</span><span class="english">Yes, I’m a little neurotic.</span></p>
 
 <p><span class="chinese">不要和神经质的人结婚。</span><span class="english">Marry someone who's not neurotic.</span></p>

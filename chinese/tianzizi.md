@@ -1,5 +1,7 @@
 # 甜滋滋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzizi.md)
+
 <p><span class="chinese">我听了老师的话，心里甜滋滋的。</span><span class="english">I listened to the teacher, heart sweetness of.</span></p>
 
 <p><span class="chinese">小明心里甜滋滋的，高高兴兴地回家了。</span><span class="english">Xiao-Ming Zizi sweet heart, and happily go home.</span></p>

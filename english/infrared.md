@@ -1,5 +1,7 @@
 # infrared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infrared.md)
+
 <p><span class="chinese">这台望远镜拥有三台高灵敏度的红外照相机。</span><span class="english">sensitive infrared cameras.</span></p>
 
 <p><span class="chinese">红外信号和播放音乐出来的。</span><span class="english">Infrared signals and play them music.</span></p>

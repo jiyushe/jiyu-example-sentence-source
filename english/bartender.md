@@ -1,5 +1,7 @@
 # bartender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bartender.md)
+
 <p><span class="chinese">还要有一个酒保。</span><span class="english">Also a bartender too.</span></p>
 
 <p><span class="chinese">男侍把醉汉赶了出去。</span><span class="english">The bartender threw out the drunk.</span></p>

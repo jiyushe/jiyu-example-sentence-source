@@ -1,5 +1,7 @@
 # 断章取义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanzhangquyi.md)
+
 <p><span class="chinese">别断章取义地引用我的话。</span><span class="english">Don't quote my words out of context.</span></p>
 
 <p><span class="chinese">袋子是未加撚和灯泡是断章取义。</span><span class="english">The bag is untwisted and the bulb is taken out.</span></p>

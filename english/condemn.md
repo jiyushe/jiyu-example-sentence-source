@@ -1,5 +1,7 @@
 # condemn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condemn.md)
+
 <p><span class="chinese">大多数人都谴责战争。</span><span class="english">Most people condemn war.</span></p>
 
 <p><span class="chinese">我们谴责一切诽谤中伤的言论。</span><span class="english">We condemn all sorts of slanders.</span></p>

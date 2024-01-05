@@ -1,5 +1,7 @@
 # 蓝领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanling.md)
+
 <p><span class="chinese">哈斯勒姆可以做蓝领工作。</span><span class="english">Haslem can do the dirty work.</span></p>
 
 <p><span class="chinese">蓝领男孩和害羞的女孩。</span><span class="english">Blue collar boys and rednecks.</span></p>

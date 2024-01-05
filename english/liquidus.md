@@ -1,5 +1,7 @@
 # liquidus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquidus.md)
+
 <p><span class="chinese">用高效液相色谱法测定补骨脂素的含量。</span><span class="english">To be examined by high efficient liquidus spectrum.</span></p>
 
 <p><span class="chinese">基于此，提出了一种测量液相线温度下表面张力的方法。</span><span class="english">So a method to measure the surface tension at liquidus temperature was proposed.</span></p>

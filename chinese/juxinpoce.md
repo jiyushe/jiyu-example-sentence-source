@@ -1,5 +1,7 @@
 # 居心叵测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxinpoce.md)
+
 <p><span class="chinese">这条蛇真是居心叵测啊。</span><span class="english">The snake is up to no good.</span></p>
 
 <p><span class="chinese">他这一手是一个居心叵测的大阴谋。</span><span class="english">This maneuver of his is a diabolical conspiracy.</span></p>

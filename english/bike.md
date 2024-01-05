@@ -1,5 +1,7 @@
 # bike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bike.md)
+
 <p><span class="chinese">我将买辆自行车。</span><span class="english">I’ll get a bike.</span></p>
 
 <p><span class="chinese">来次自行车旅行？</span><span class="english">Take a bike trip?</span></p>

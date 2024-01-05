@@ -1,5 +1,7 @@
 # adaptability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaptability.md)
+
 <p><span class="chinese">适应力。</span><span class="english">Adaptability.</span></p>
 
 <p><span class="chinese">适应性和灵活性。</span><span class="english">A. Adaptability and flexibility.</span></p>

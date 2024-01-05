@@ -1,5 +1,7 @@
 # tho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tho.md)
+
 <p><span class="chinese">薰衣草的甜蜜，永不会凋去！</span><span class="english">Lavenders sweet , tho it wither !</span></p>
 
 <p><span class="chinese">我是这支队的第一名队员。</span><span class="english">I was the first member of tho team.</span></p>

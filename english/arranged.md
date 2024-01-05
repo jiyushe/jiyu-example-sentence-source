@@ -1,5 +1,7 @@
 # arranged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arranged.md)
+
 <p><span class="chinese">安排由保罗巴克马斯特。</span><span class="english">Arranged by Paul Buckmaster.</span></p>
 
 <p><span class="chinese">这件事好办。</span><span class="english">That can be easily arranged.</span></p>

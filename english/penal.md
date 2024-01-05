@@ -1,5 +1,7 @@
 # penal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penal.md)
+
 <p><span class="chinese">对地攻击机中队里有惩罚措施吗?。</span><span class="english">A. D. Were there penal ground attack squadrons?</span></p>
 
 <p><span class="chinese">他因犯了大窃案受过十九年的苦刑。</span><span class="english">He underwent nineteen years of penal servitude for theft.</span></p>

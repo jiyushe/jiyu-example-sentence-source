@@ -1,5 +1,7 @@
 # 奔走相告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benzouxianggao.md)
+
 <p><span class="chinese">人们奔走相告。</span><span class="english">People go around spreading the news.</span></p>
 
 <p><span class="chinese">在工厂里，工人都把这个好消息奔走相告。</span><span class="english">In the factories the workers shouted the good news to each other.</span></p>

@@ -1,5 +1,7 @@
 # lives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lives.md)
+
 <p><span class="chinese">他靠笔耕为生。</span><span class="english">He lives by pen.</span></p>
 
 <p><span class="chinese">他靠种稻为生。</span><span class="english">He lives on rice.</span></p>

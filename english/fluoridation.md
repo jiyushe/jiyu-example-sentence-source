@@ -1,5 +1,7 @@
 # fluoridation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluoridation.md)
+
 <p><span class="chinese">他们宣称氟化水是有害的。</span><span class="english">They Claim That Fluoridation Is Dangerous.</span></p>
 
 <p><span class="chinese">书中也没有对饮水加氟法进行阐述，在营养学方面也较少被提及。</span><span class="english">There is nothing on the fluoridation of water, and too little on nutrition.</span></p>

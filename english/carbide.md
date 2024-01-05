@@ -1,5 +1,7 @@
 # carbide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbide.md)
+
 <p><span class="chinese">自贡硬质合金有限责任公司。</span><span class="english">Zigong Cemented Carbide Corp. , Ltd.</span></p>
 
 <p><span class="chinese">随后，陶氏化学接手联合碳化物公司。</span><span class="english">Dow Chemicals later took over Union Carbide.</span></p>

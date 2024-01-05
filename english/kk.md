@@ -1,5 +1,7 @@
 # kk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kk.md)
+
 <p><span class="chinese">是否有任何其他的体育馆在晚上？</span><span class="english">Is there any other gym in KK ?</span></p>
 
 <p><span class="chinese">玥知荣为做善事被KK责备，支持荣。</span><span class="english">He was known to do good honor KK blame, support majesty.</span></p>

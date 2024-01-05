@@ -1,5 +1,7 @@
 # incorporeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorporeal.md)
+
 <p><span class="chinese">我想，这表示我们无形的思想导引着真实的人生。</span><span class="english">The real life is guided by our incorporeal intellection.</span></p>
 
 <p><span class="chinese">关于艾露恩，是一个没有物质形态的精神存在。</span><span class="english">A powerful and spiritual deity , she is fundamentally an incorporeal being.</span></p>

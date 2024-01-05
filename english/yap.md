@@ -1,5 +1,7 @@
 # yap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yap.md)
+
 <p><span class="chinese">吖，那是正确的答案。</span><span class="english">Yap , that's the right answer.</span></p>
 
 <p><span class="chinese">从不敢妄想的事情，就在我眼前，和我亲爱的叶先生。</span><span class="english">I never think that 1 day I could be here, with my darling Mr Yap.</span></p>

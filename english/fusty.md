@@ -1,5 +1,7 @@
 # fusty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fusty.md)
+
 <p><span class="chinese">厌倦了孟加拉国、尼日利亚和蒙古这样落后的边远小国？</span><span class="english">Tired of fusty old outposts such as Bangladesh, Nigeria or Mongolia?</span></p>
 
 <p><span class="chinese">这一古板的老旧机构拒绝承认人们对流行音乐的需求。</span><span class="english">The fusty old establishment refused to recognise the demand for popular music.</span></p>

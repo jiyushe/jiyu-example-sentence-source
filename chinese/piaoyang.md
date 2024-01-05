@@ -1,5 +1,7 @@
 # 飘扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoyang.md)
+
 <p><span class="chinese">旗子迎风飘扬。</span><span class="english">With flags aflutter.</span></p>
 
 <p><span class="chinese">为什么旗子会飘扬？</span><span class="english">Why does the flag wave?</span></p>

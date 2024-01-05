@@ -1,5 +1,7 @@
 # trust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trust.md)
+
 <p><span class="chinese">其一是信任。</span><span class="english">One is trust.</span></p>
 
 <p><span class="chinese">信任感很低。</span><span class="english">Trust is low.</span></p>

@@ -1,5 +1,7 @@
 # aware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aware.md)
+
 <p><span class="chinese">小右是有意识的。</span><span class="english">Righty is aware.</span></p>
 
 <p><span class="chinese">她在政治上有头脑。</span><span class="english">She is politically aware.</span></p>

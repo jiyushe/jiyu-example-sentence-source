@@ -1,5 +1,7 @@
 # aquifer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquifer.md)
+
 <p><span class="chinese">从头注入到含水层是不常见的。</span><span class="english">Re-injection to the aquifer is less common.</span></p>
 
 <p><span class="chinese">重锤试验是一种获得含水层水文地质参数的新方法。</span><span class="english">Slug test is a new method to obtain aquifer parameters.</span></p>

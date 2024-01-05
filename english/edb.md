@@ -1,5 +1,7 @@
 # edb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edb.md)
+
 <p><span class="chinese">此男导师为教育局准用教员。</span><span class="english">P. S. This is a male permitted teacher by EDB.</span></p>
 
 <p><span class="chinese">获取录者会由教育局于统一派位结果同时公布。</span><span class="english">Admission results will be announced by the EDB.</span></p>

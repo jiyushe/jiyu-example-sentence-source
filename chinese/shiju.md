@@ -1,5 +1,7 @@
 # 世局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiju.md)
+
 <p><span class="chinese">此事影响国运及世局及大。</span><span class="english">This influenced the country and world greatly.</span></p>
 
 <p><span class="chinese">他作了一系列有关世局的演讲。</span><span class="english">He delivered a course of lectures on world affairs.</span></p>

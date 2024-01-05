@@ -1,5 +1,7 @@
 # thoughtful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoughtful.md)
+
 <p><span class="chinese">你想的真周到.</span><span class="english">How thoughtful of you.</span></p>
 
 <p><span class="chinese">你真是太体贴人了。</span><span class="english">You are so thoughtful.</span></p>

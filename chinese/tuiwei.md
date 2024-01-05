@@ -1,5 +1,7 @@
 # 推诿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiwei.md)
+
 <p><span class="chinese">他们一直在推诿许多个星期。</span><span class="english">They've been prevaricating for many weeks.</span></p>
 
 <p><span class="chinese">他知道，推诿责任往往会自食其果。</span><span class="english">He learns that buck-passing acts as a boomerang.</span></p>

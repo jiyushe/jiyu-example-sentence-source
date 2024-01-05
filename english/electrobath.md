@@ -1,5 +1,7 @@
 # electrobath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrobath.md)
+
 <p><span class="chinese">电镀液杂质去除及电镀废水处理。</span><span class="english">Eleminate impurity in the Electrobath and treatment of wastewater from electrobath.</span></p>
 
 <p><span class="chinese">为了提高产量，必须将发生故障的极板尽早的发现并从电解槽中剔除。</span><span class="english">For the increase of produce yield, the trouble board must be found and picked from electrobath.</span></p>

@@ -1,5 +1,7 @@
 # 譬如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piru.md)
+
 <p><span class="chinese">譬如，玩轮盘赌。</span><span class="english">For example, I am playing roulette.</span></p>
 
 <p><span class="chinese">譬如你修呼吸禅定。</span><span class="english">Suppose you're focusing on the breath.</span></p>

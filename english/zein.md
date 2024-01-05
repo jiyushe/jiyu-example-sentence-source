@@ -1,5 +1,7 @@
 # zein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zein.md)
+
 <p><span class="chinese">玉米蛋白粉中所含蛋白质主要是玉米醇溶蛋白。</span><span class="english">The main protein in corn albumen powder is zein.</span></p>
 
 <p><span class="chinese">冷藏温度对玉米醇溶蛋白膜特性有一定影响。</span><span class="english">The properties of zein films were affected by cold storage temperature.</span></p>

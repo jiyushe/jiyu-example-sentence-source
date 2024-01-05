@@ -1,5 +1,7 @@
 # eld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eld.md)
+
 <p><span class="chinese">死亡动物中包括三只坡鹿。</span><span class="english">They included three Eld 's deer.</span></p>
 
 <p><span class="chinese">在老少最后的家中发白</span><span class="english">Amid the last homes of youth and eld</span></p>

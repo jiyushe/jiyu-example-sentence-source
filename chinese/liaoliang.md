@@ -1,5 +1,7 @@
 # 嘹亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoliang.md)
+
 <p><span class="chinese">歌声嘹亮。</span><span class="english">The singing is loud and clear.</span></p>
 
 <p><span class="chinese">鸟儿的歌声高亢嘹亮。</span><span class="english">The bird sang high and clearly.</span></p>

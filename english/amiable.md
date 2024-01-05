@@ -1,5 +1,7 @@
 # amiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amiable.md)
+
 <p><span class="chinese">和蔼可亲的机器人。</span><span class="english">The Amiable Robots.</span></p>
 
 <p><span class="chinese">那名领导人装出和蔼可亲的样子。</span><span class="english">The leader did the amiable.</span></p>

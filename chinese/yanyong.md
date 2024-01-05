@@ -1,5 +1,7 @@
 # 沿用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyong.md)
+
 <p><span class="chinese">生指数与新加坡海峡时报指数等沿用较久的亚洲股指.</span><span class="english">HSI and Singapore's Straits Times Index.</span></p>
 
 <p><span class="chinese">他一直沿用微粒这个概念。</span><span class="english">And, he kept referring to them as corpuscles.</span></p>

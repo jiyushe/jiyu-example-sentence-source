@@ -1,5 +1,7 @@
 # 图纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzhi.md)
+
 <p><span class="chinese">高层一号楼图纸。</span><span class="english">Top of a building drawings.</span></p>
 
 <p><span class="chinese">可以打印图纸空间布局。</span><span class="english">You can plot a Paper space layout.</span></p>

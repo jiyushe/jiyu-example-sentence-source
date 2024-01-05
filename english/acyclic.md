@@ -1,5 +1,7 @@
 # acyclic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acyclic.md)
+
 <p><span class="chinese">层次之间的关系是无回路的。</span><span class="english">The relationship among the layers is acyclic.</span></p>
 
 <p><span class="chinese">采用酰化的方法制备油溶型茶多酚。</span><span class="english">Oil-soluble type tea polyphenol is prepared by acyclic.</span></p>

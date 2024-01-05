@@ -1,5 +1,7 @@
 # madam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madam.md)
+
 <p><span class="chinese">夫人，你先请。</span><span class="english">After you, madam.</span></p>
 
 <p><span class="chinese">这是您的找头，夫人。</span><span class="english">Here's your change, madam.</span></p>

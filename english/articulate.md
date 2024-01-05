@@ -1,5 +1,7 @@
 # articulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/articulate.md)
+
 <p><span class="chinese">那个人口齿不十分清楚。</span><span class="english">The man is not very articulate.</span></p>
 
 <p><span class="chinese">那个人口齿不甚清楚。</span><span class="english">That man is not very articulate.</span></p>

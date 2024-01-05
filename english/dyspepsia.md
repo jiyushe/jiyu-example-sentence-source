@@ -1,5 +1,7 @@
 # dyspepsia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyspepsia.md)
+
 <p><span class="chinese">适当活动如果有消化不良的表现。</span><span class="english">If the suitable activity has the dyspepsia the performance.</span></p>
 
 <p><span class="chinese">对于舒缓消化不良的问以很有帮助。</span><span class="english">Asking by has the help very much regarding the affable dyspepsia.</span></p>

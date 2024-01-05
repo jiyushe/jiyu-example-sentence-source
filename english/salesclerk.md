@@ -1,5 +1,7 @@
 # salesclerk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salesclerk.md)
+
 <p><span class="chinese">这件衬衫并不全像售货员所吹嘘的那么好。</span><span class="english">The shirt wasn't all the salesclerk cracked it up to be.</span></p>
 
 <p><span class="chinese">但那聪明的店员马上明了我想要的东西。</span><span class="english">But the clever salesclerk soon realized which item I wanted.</span></p>

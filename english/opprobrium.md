@@ -1,5 +1,7 @@
 # opprobrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opprobrium.md)
+
 <p><span class="chinese">当人们形容那些善于拍马屁的人时，这些都是温和的贬义词。</span><span class="english">These are all terms of mild opprobrium when directed at the flatterer.</span></p>
 
 <p><span class="chinese">他招致的轻蔑和敌意是由于他出言过于粗率而造成的。</span><span class="english">The opprobrium and enmity he incurred were caused by his outspoken brashness.</span></p>

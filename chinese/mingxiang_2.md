@@ -1,5 +1,7 @@
 # 鸣响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxiang_2.md)
+
 <p><span class="chinese">钟在鸣响。</span><span class="english">The bells are chiming.</span></p>
 
 <p><span class="chinese">钟声开始鸣响了。</span><span class="english">The bell began pealing.</span></p>

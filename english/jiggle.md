@@ -1,5 +1,7 @@
 # jiggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiggle.md)
+
 <p><span class="chinese">但我看到地上的影子一伸一缩地跳，知道我有点滑稽。</span><span class="english">I know it from the jiggle of my shadow.</span></p>
 
 <p><span class="chinese">她试图轻轻转动锁里的钥匙。</span><span class="english">She tried to jiggle the key in the lock.</span></p>

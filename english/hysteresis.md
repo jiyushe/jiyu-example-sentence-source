@@ -1,5 +1,7 @@
 # hysteresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysteresis.md)
+
 <p><span class="chinese">磁滞损耗。</span><span class="english">Hysteresis losses.</span></p>
 
 <p><span class="chinese">一般说来，这些材料不显示磁滞现象。</span><span class="english">As a rule these materials do not show hysteresis.</span></p>

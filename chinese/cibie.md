@@ -1,5 +1,7 @@
 # 辞别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cibie.md)
+
 <p><span class="chinese">这是我们的辞别吗?。</span><span class="english">Is this our farewell?</span></p>
 
 <p><span class="chinese">本周一山口疆辞别了人世，享年93岁。</span><span class="english">Yamaguchi died Monday at the age of 93.</span></p>

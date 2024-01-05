@@ -1,5 +1,7 @@
 # fizz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fizz.md)
+
 <p><span class="chinese">伯顿呷了一口杜松子香槟酒。</span><span class="english">Burton sipped his gin fizz.</span></p>
 
 <p><span class="chinese">点击贝克和菲丝看看糖果飞出来。</span><span class="english">Click on Jake and Fizz to see the confetti fly!</span></p>

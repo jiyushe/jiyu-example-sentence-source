@@ -1,5 +1,7 @@
 # accumulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accumulator.md)
+
 <p><span class="chinese">我们也有称为蓄电池的东西。</span><span class="english">And we also have what is called an accumulator.</span></p>
 
 <p><span class="chinese">蓄电池在55秒之内会变空。</span><span class="english">The accumulator is empty in fifty five seconds.</span></p>

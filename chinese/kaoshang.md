@@ -1,5 +1,7 @@
 # 犒赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoshang.md)
+
 <p><span class="chinese">罗浮宫随时犒赏您的味蕾。</span><span class="english">Louvre rewards your taste in food.</span></p>
 
 <p><span class="chinese">不时犒赏自己在饮食和锻炼方面的坚持</span><span class="english">Rewarding yourself for dieting and exercising</span></p>

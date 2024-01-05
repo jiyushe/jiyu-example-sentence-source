@@ -1,5 +1,7 @@
 # punitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punitive.md)
+
 <p><span class="chinese">法律是补偿性的而非惩罚性的。</span><span class="english">The law is compensatory ratherthan punitive.</span></p>
 
 <p><span class="chinese">惩罚性赔偿本系英美法中的一项制度。</span><span class="english">Punitive damages is a legal system of Anglo-American law.</span></p>

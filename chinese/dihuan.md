@@ -1,5 +1,7 @@
 # 低缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dihuan.md)
+
 <p><span class="chinese">轻柔而低缓，是女人最好的优点。</span><span class="english">Gentle and low, an excellent thing in woman.</span></p>
 
 <p><span class="chinese">马路蜿蜒穿过这里所有的低缓丘陵。</span><span class="english">The road wound through all these soft hills.</span></p>

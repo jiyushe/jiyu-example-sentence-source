@@ -1,5 +1,7 @@
 # overweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overweight.md)
+
 <p><span class="chinese">你超重了吗？</span><span class="english">Are you overweight?</span></p>
 
 <p><span class="chinese">你想重仓投入黄金？</span><span class="english">Want to overweight gold?</span></p>

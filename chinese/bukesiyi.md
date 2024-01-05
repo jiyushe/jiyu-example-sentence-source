@@ -1,5 +1,7 @@
 # 不可思议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukesiyi.md)
+
 <p><span class="chinese">不可思议的吸引力</span><span class="english">Incredibly powerful.</span></p>
 
 <p><span class="chinese">你果真是一个不可思议的男孩。</span><span class="english">You're a real wonderboy.</span></p>

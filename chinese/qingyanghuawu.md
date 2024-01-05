@@ -1,5 +1,7 @@
 # 氢氧化物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyanghuawu.md)
+
 <p><span class="chinese">铬的氧化物及氢氧化物。</span><span class="english">Chromium oxides and hydroxides.</span></p>
 
 <p><span class="chinese">碱是金属的氢氧化物。</span><span class="english">A base is the hydroxide of a metal.</span></p>

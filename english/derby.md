@@ -1,5 +1,7 @@
 # derby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derby.md)
+
 <p><span class="chinese">他戴顶黑色圆顶礼帽。</span><span class="english">He wears a black derby.</span></p>
 
 <p><span class="chinese">米兰德比在第五轮？</span><span class="english">The derby on the fifth?</span></p>

@@ -1,5 +1,7 @@
 # 睡梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimeng.md)
+
 <p><span class="chinese">慢慢地他陷入睡梦之中。</span><span class="english">Gradually he sank into sleep.</span></p>
 
 <p><span class="chinese">年轻的弟弟却微笑于睡梦之中。</span><span class="english">The younger smiles as in a dream.</span></p>

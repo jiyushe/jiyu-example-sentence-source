@@ -1,5 +1,7 @@
 # absorbance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbance.md)
+
 <p><span class="chinese">主要指标吸光度，凋亡指数。</span><span class="english">Main Outcome Measures Absorbance and apoptosis index.</span></p>
 
 <p><span class="chinese">这是通过度量标准溶液的吸收度来完成的。</span><span class="english">This is accomplished by measuring the absorbance of standard solutions.</span></p>

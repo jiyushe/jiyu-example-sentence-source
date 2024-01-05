@@ -1,5 +1,7 @@
 # ulcerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulcerous.md)
+
 <p><span class="chinese">目的为促进白血病并发伤口溃烂患者的伤口愈合。</span><span class="english">Objective To improve the healing of ulcerous wound in the leukemia patients.</span></p>
 
 <p><span class="chinese">就近年来中医药治疗溃疡性结肠炎进展情况进行综述。</span><span class="english">Give a summarization about traditional chinese medicine's cure development of Ulcerous colon disease.</span></p>

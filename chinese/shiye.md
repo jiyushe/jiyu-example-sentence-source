@@ -1,5 +1,7 @@
 # 事业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiye.md)
+
 <p><span class="chinese">我要以事业为主。</span><span class="english">I want to business.</span></p>
 
 <p><span class="chinese">我的事业是登山。</span><span class="english">What I do is climb.</span></p>

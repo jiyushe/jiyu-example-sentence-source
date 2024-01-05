@@ -1,5 +1,7 @@
 # 赞歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zange.md)
+
 <p><span class="chinese">祭司唱起赞歌。</span><span class="english">The flamen chant their approval.</span></p>
 
 <p><span class="chinese">他唱着一首旧的赞歌出去了。</span><span class="english">Hymning an old hymn , he went out.</span></p>

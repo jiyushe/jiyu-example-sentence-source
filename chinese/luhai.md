@@ -1,5 +1,7 @@
 # 陆海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luhai.md)
+
 <p><span class="chinese">它是一个陆海复合国家。</span><span class="english">It is a land-sea power.</span></p>
 
 <p><span class="chinese">我们陆海军的官兵们！</span><span class="english">Men of our Army and Navy!</span></p>

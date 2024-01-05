@@ -1,5 +1,7 @@
 # carbazole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbazole.md)
+
 <p><span class="chinese">介绍了咔唑紫商品化处理的一种方法。</span><span class="english">A treatment method for carbazole violet commercialization is presented.</span></p>
 
 <p><span class="chinese">永固紫RL系二恶嗪类的高档有机颜料。</span><span class="english">Permanent violet RL is high-grade organic pigment of carbazole dioxathion.</span></p>

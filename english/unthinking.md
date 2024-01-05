@@ -1,5 +1,7 @@
 # unthinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unthinking.md)
+
 <p><span class="chinese">给我一个直截了当的答复。</span><span class="english">To this the unthinking will give an off-hand answer.</span></p>
 
 <p><span class="chinese">想了一会儿，她还是没有什么头绪，便将笔咬在嘴里。</span><span class="english">After an unthinking moment, she put the pen into her mouth.</span></p>

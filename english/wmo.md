@@ -1,5 +1,7 @@
 # wmo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wmo.md)
+
 <p><span class="chinese">这个后来成为WMO执行理事会的前身机构由此问世。</span><span class="english">Thus was born the predecessor of our WMO Executive Council.</span></p>
 
 <p><span class="chinese">这个新的小册子也在努力将WMO的历史留存于后世。</span><span class="english">The new booklet is also a renewed effort to preserve WMO history for future generations.</span></p>

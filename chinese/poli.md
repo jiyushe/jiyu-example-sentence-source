@@ -1,5 +1,7 @@
 # 魄力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poli.md)
+
 <p><span class="chinese">但是他还需要更大的魄力。</span><span class="english">But more boldness is needed.</span></p>
 
 <p><span class="chinese">人又是继承了竹的魄力。</span><span class="english">People who have inherited the courage bamboo.</span></p>

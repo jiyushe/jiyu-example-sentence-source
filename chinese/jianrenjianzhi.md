@@ -1,5 +1,7 @@
 # 见仁见智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrenjianzhi.md)
+
 <p><span class="chinese">这是个见仁见智的问题。</span><span class="english">This is a matter of debate.</span></p>
 
 <p><span class="chinese">克鲁格曼是否相信政府应该消费或投资乃见仁见智之事。</span><span class="english">Whether Krugman believes that government should consume or invest is for anybody to guess.</span></p>

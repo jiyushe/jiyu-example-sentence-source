@@ -1,5 +1,7 @@
 # 素日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suri.md)
+
 <p><span class="chinese">他素日不爱说话。</span><span class="english">He is usually very quiet.</span></p>
 
 <p><span class="chinese">在北京，交通梗塞不只发作在节假日期间，素日里这也是常有的事。</span><span class="english">In Beijing, traffic jams happen not only during holidays, but also on ordinary days.</span></p>

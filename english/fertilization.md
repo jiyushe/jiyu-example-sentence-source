@@ -1,5 +1,7 @@
 # fertilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fertilization.md)
+
 <p><span class="chinese">详细增肥方法。</span><span class="english">Fertilization methods in detail.</span></p>
 
 <p><span class="chinese">齿蕊十大功劳属珠孔受精。</span><span class="english">The fertilization of Mahonia leveilleana Schneid.</span></p>

@@ -1,5 +1,7 @@
 # sensed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensed.md)
+
 <p><span class="chinese">她觉察到他正在放弃求生。</span><span class="english">She sensed he was giving up.</span></p>
 
 <p><span class="chinese">大家都觉出他变了。</span><span class="english">Everybody sensed that he had changed.</span></p>

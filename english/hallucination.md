@@ -1,5 +1,7 @@
 # hallucination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallucination.md)
+
 <p><span class="chinese">但这种幻觉总是萦回不散。</span><span class="english">But the hallucination persisted.</span></p>
 
 <p><span class="chinese">高烧可使人产生幻觉。</span><span class="english">High temperatures can cause hallucination.</span></p>

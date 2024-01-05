@@ -1,5 +1,7 @@
 # turmeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turmeric.md)
+
 <p><span class="chinese">印度女人们打赌用姜黄就能解决。</span><span class="english">Indian women swear by turmeric.</span></p>
 
 <p><span class="chinese">我们的姜黄是从来没有的熏蒸或照射。</span><span class="english">Our Turmeric is never fumigated or irradiated.</span></p>

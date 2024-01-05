@@ -1,5 +1,7 @@
 # antipoverty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipoverty.md)
+
 <p><span class="chinese">反贫穷及财产再分配计划的破产</span><span class="english">The Failure of Antipoverty and Wealth-Redistribution Schemes</span></p>
 
 <p><span class="chinese">这个反对贫穷小组现在也被称作实际行动。</span><span class="english">This antipoverty anti-poverty group is now called Practical Action.</span></p>

@@ -1,5 +1,7 @@
 # disengage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disengage.md)
+
 <p><span class="chinese">脱开操纵联动机构。</span><span class="english">Disengage the maneuvering linkage.</span></p>
 
 <p><span class="chinese">使用一个专门工具来把它们脱开。</span><span class="english">Use a special tool to disengage them.</span></p>

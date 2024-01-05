@@ -1,5 +1,7 @@
 # 称羡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxian_2.md)
+
 <p><span class="chinese">世人对他真是称羡不已。</span><span class="english">He was very much admired indeed.</span></p>
 
 <p><span class="chinese">于是我们自问，我们何能如此耀眼、称羡、才华、美丽？</span><span class="english">We ask ourselves, Who am I to be brilliant, gorgeous, talented, fabulous?</span></p>

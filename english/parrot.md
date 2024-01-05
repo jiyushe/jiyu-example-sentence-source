@@ -1,5 +1,7 @@
 # parrot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parrot.md)
+
 <p><span class="chinese">我的鹦鹉会学人语。</span><span class="english">My parrot can talk.</span></p>
 
 <p><span class="chinese">鹦鹉是鸣鸟吗？</span><span class="english">Are parrot warblers?</span></p>

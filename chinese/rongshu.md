@@ -1,5 +1,7 @@
 # 榕树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongshu.md)
+
 <p><span class="chinese">那么为什么选榕树呢？</span><span class="english">So why Banyan?</span></p>
 
 <p><span class="chinese">之前见过有榕树气根被剪，或者被人「扎辫」，觉得好痛心。</span><span class="english">BTW, do you think the aerial roots have been cut?</span></p>

@@ -1,5 +1,7 @@
 # epidural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidural.md)
+
 <p><span class="chinese">假如你选择了硬膜外麻醉的话，绝对会用到留置针。</span><span class="english">You’ll definitely get an IV if an epidural is on the agenda.</span></p>
 
 <p><span class="chinese">椎板切除术后硬膜外有明显瘢痕生长。</span><span class="english">Severe epidural adhesion at the dogs after performed with laminectomy only.</span></p>

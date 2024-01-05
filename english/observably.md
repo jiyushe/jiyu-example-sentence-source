@@ -1,5 +1,7 @@
 # observably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observably.md)
+
 <p><span class="chinese">美国教育在培养学生数学方面明显滞后。</span><span class="english">The American education is observably slow in the pupils' mathematics training.</span></p>
 
 <p><span class="chinese">实践证明，这种技术可以显著减少网络冲突，降低存储带宽需求。</span><span class="english">It is proved that it can reduce the conflicts and bandwidth demands observably.</span></p>

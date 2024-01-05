@@ -1,5 +1,7 @@
 # 商船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangchuan.md)
+
 <p><span class="chinese">被帆船或是商船遇见。</span><span class="english">By frigate or by merchantman.</span></p>
 
 <p><span class="chinese">630年,这里大概有两千五百艘商船</span><span class="english">In the 1630s there are 2,500 trading ships.</span></p>

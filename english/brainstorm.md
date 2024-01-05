@@ -1,5 +1,7 @@
 # brainstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainstorm.md)
+
 <p><span class="chinese">突然我灵机一动。</span><span class="english">Then I had a brainstorm.</span></p>
 
 <p><span class="chinese">开动脑筋，为剧本想些点子。</span><span class="english">Brainstorm ideas for the script.</span></p>

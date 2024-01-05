@@ -1,5 +1,7 @@
 # 标点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaodian.md)
+
 <p><span class="chinese">在Swype上，打标点有些小奇怪。</span><span class="english">Punctuation is a little strange with Swype.</span></p>
 
 <p><span class="chinese">“第三天我则用来找一些备用的标点”。</span><span class="english">The third day is spent looking for back-ups.</span></p>

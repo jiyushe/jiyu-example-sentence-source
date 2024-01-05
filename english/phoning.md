@@ -1,5 +1,7 @@
 # phoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoning.md)
+
 <p><span class="chinese">对不起，漫给窿打电话。</span><span class="english">Sorry for not phoning you.</span></p>
 
 <p><span class="chinese">普拉特医生正打电话给警察。</span><span class="english">Dr Pratt is phoning the police.</span></p>

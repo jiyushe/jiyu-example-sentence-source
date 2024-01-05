@@ -1,5 +1,7 @@
 # iodometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iodometry.md)
+
 <p><span class="chinese">提出了用间接碘量法测定蒙古铁矿石中全铁的方法。</span><span class="english">The determination method of total iron in imported Mongolian iron ore by indirect iodometry was proposed.</span></p>
 
 <p><span class="chinese">并用溶度参数相近规则选择和解释试用溶剂。</span><span class="english">The solvent chosen in the iodometry method was explained by the "like dissolves like" and solubility parameter.</span></p>

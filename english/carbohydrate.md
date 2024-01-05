@@ -1,5 +1,7 @@
 # carbohydrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbohydrate.md)
+
 <p><span class="chinese">肌酸应该跟单醣一起服用。</span><span class="english">Creatine should be taken with a simple carbohydrate.</span></p>
 
 <p><span class="chinese">其血凝素受体为糖类。</span><span class="english">The receptor for hemagglutinin may be a carbohydrate.</span></p>

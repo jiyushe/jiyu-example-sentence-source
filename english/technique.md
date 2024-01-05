@@ -1,5 +1,7 @@
 # technique 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technique.md)
+
 <p><span class="chinese">诚然它有它的技巧。</span><span class="english">It has its technique.</span></p>
 
 <p><span class="chinese">他偷了我的技术。</span><span class="english">He stole my technique.</span></p>

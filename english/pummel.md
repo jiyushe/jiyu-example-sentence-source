@@ -1,5 +1,7 @@
 # pummel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pummel.md)
+
 <p><span class="chinese">我很想要有一个机会打那家伙。</span><span class="english">I am dying for a chance to pummel that guy.</span></p>
 
 <p><span class="chinese">强烈的飓风吹打着海岸。</span><span class="english">Intense hurricane winds pummel the shoreline.</span></p>

@@ -1,5 +1,7 @@
 # 闭塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bise.md)
+
 <p><span class="chinese">他思想闭塞僵化。</span><span class="english">He has a closed mind.</span></p>
 
 <p><span class="chinese">我们确实消息很闭塞。</span><span class="english">We have very little information indeed.</span></p>

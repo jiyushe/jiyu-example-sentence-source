@@ -1,5 +1,7 @@
 # cyanidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyanidation.md)
+
 <p><span class="chinese">因此，推荐采用全泥氰化浸出工艺处理该矿石。</span><span class="english">Hence, this cyanidation leaching process is recommended to treat this ore.</span></p>
 
 <p><span class="chinese">对于黄金矿山来说，氰化尾渣中尚有可回收的金、银、铜、铅等有价金属元素。</span><span class="english">There are many valuable metals in the cyanidation tailings, such as gold, silver, copper and lead.</span></p>

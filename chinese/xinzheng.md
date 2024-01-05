@@ -1,5 +1,7 @@
 # 新政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzheng.md)
+
 <p><span class="chinese">新政有什么好？</span><span class="english">What is it about the New Deal?</span></p>
 
 <p><span class="chinese">我们需要一个“全球食品政策新政”。</span><span class="english">We need a New Deal for Global Food Policy.</span></p>

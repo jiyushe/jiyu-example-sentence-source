@@ -1,5 +1,7 @@
 # biotech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotech.md)
+
 <p><span class="chinese">生物科技类股今天表现非常强势。</span><span class="english">Biotech stocks are really on fire today.</span></p>
 
 <p><span class="chinese">反对者还质疑生物技术食品的安全性。</span><span class="english">Opponents also question the safety of biotech foods.</span></p>

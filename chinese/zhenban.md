@@ -1,5 +1,7 @@
 # 砧板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenban.md)
+
 <p><span class="chinese">使用木制或竹制的砧板</span><span class="english">Use a wooden or bamboo chopping board</span></p>
 
 <p><span class="chinese">我比较喜欢的是竹制的砧板。</span><span class="english">My preferred option is a bamboo chopping board.</span></p>

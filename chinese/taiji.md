@@ -1,5 +1,7 @@
 # 台基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiji.md)
+
 <p><span class="chinese">在一个台基或者支撑物上竖直地站。</span><span class="english">The urn stands on a pedestal.</span></p>
 
 <p><span class="chinese">台基四周是用来自大渡河畔的枣红色花岗石彻起。</span><span class="english">Platform is surrounded by banks of the Dadu River from the date from the red granite thorough.</span></p>

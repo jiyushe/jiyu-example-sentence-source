@@ -1,5 +1,7 @@
 # coarsen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coarsen.md)
+
 <p><span class="chinese">优化的方法之一就是将锁粗化，以包含整个循环。</span><span class="english">One of the things we could do is coarsen the lock to include the loop.</span></p>
 
 <p><span class="chinese">同时，过大的界面厚度会导致主枝晶和二次枝晶粗化。</span><span class="english">Meanwhile, too great interface thickness would coarsen the secondary arms.</span></p>

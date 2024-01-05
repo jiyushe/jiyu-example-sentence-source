@@ -1,5 +1,7 @@
 # conceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceptive.md)
+
 <p><span class="chinese">离岸外包作为一种商业概念和企业战略，正在全球各个产业领域流行开来。</span><span class="english">As business conceptive and corporation policy. offshore-outsourcing is influencing in all kinds of property.</span></p>
 
 <p><span class="chinese">本文针对四位一体中的弱项“水生态”和“水景观”，提出了六个保护建议，并提供了具体思路性对策。</span><span class="english">In this paper, six approaches and conceptive countermeasures were put forward in respect of water ecology and landscape.</span></p>

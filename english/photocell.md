@@ -1,5 +1,7 @@
 # photocell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocell.md)
+
 <p><span class="chinese">我们必须用光电管作为探测器。</span><span class="english">We must use photocell as detectors.</span></p>
 
 <p><span class="chinese">这种闪烁由光电管所接收。</span><span class="english">This flicker is detected on a photocell.</span></p>

@@ -1,5 +1,7 @@
 # expansibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansibility.md)
+
 <p><span class="chinese">具有吸附性、膨胀性。</span><span class="english">Has the adsorbability, the expansibility.</span></p>
 
 <p><span class="chinese">系统具有分布性、自适应性、可扩展性等特点。</span><span class="english">The system has characteristics of distributing, adaptivity and expansibility.</span></p>

@@ -1,5 +1,7 @@
 # 云雾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunwu.md)
+
 <p><span class="chinese">宛若朔风冲着云雾。</span><span class="english">As the north wind to the clouds.</span></p>
 
 <p><span class="chinese">云雾笼罩着山顶。</span><span class="english">Clouds involve the mountain top.</span></p>

@@ -1,5 +1,7 @@
 # 行礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingli.md)
+
 <p><span class="chinese">他向女王躬身行礼。</span><span class="english">He bowed down to the Queen.</span></p>
 
 <p><span class="chinese">安塔芮丝人卫兵向他鞠躬行礼。</span><span class="english">The Antarian guard bowed low.</span></p>

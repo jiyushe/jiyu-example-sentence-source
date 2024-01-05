@@ -1,5 +1,7 @@
 # 日薄西山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riboxishan.md)
+
 <p><span class="chinese">人们说贵族阶级已是日薄西山了。</span><span class="english">People said the aristocracy was effete.</span></p>
 
 <p><span class="chinese">日薄西山。</span><span class="english">The sun is setting beyond the western hills.</span></p>

@@ -1,5 +1,7 @@
 # 反攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangong.md)
+
 <p><span class="chinese">他们通过挖掘地道进入，等待实施一次反攻。</span><span class="english">They were dug in, awaiting a counter-attack.</span></p>
 
 <p><span class="chinese">削球稳且反攻凶狠。</span><span class="english">Chopping stability and vicious counterattack.</span></p>

@@ -1,5 +1,7 @@
 # hundred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hundred.md)
+
 <p><span class="chinese">有三百年吗？</span><span class="english">Three hundred years?</span></p>
 
 <p><span class="chinese">数以百千立方公尺。</span><span class="english">A couple hundred kilos.</span></p>

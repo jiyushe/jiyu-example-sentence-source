@@ -1,5 +1,7 @@
 # amylum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amylum.md)
+
 <p><span class="chinese">几分钟之后，淀粉开始沉淀。</span><span class="english">After a few minutes,the amylum began to subside.</span></p>
 
 <p><span class="chinese">使用生粉。这样调料的的味道可以吸附在菜上。</span><span class="english">Use amylum , to let the fixings attach to the vegetable.</span></p>

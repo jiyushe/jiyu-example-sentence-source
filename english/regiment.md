@@ -1,5 +1,7 @@
 # regiment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regiment.md)
+
 <p><span class="chinese">该团正接受检阅。</span><span class="english">The regiment is on parade.</span></p>
 
 <p><span class="chinese">他被派往一个团。</span><span class="english">He was posted to a regiment.</span></p>

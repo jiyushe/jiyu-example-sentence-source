@@ -1,5 +1,7 @@
 # 猛然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengran_1.md)
+
 <p><span class="chinese">他猛然将门打开。</span><span class="english">Yanked the door open.</span></p>
 
 <p><span class="chinese">他从沙发上猛然跳了起来。</span><span class="english">He sprang up from the sofa.</span></p>

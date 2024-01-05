@@ -1,5 +1,7 @@
 # yon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yon.md)
+
 <p><span class="chinese">你能操作电传机吗？</span><span class="english">Are yon able to operate the telex?</span></p>
 
 <p><span class="chinese">你可以对我们的能力放心.</span><span class="english">Yon can rest assured of our ability.</span></p>

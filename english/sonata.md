@@ -1,5 +1,7 @@
 # sonata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonata.md)
+
 <p><span class="chinese">大调双钢琴奏鸣曲，作品448号，第一乐章。</span><span class="english">Sonata in D major for 2 Pianos, KV. 448</span></p>
 
 <p><span class="chinese">大调第二十一奏鸣曲，作品53，“华尔斯坦”</span><span class="english">Sonata No. 21 in C major, Op. 53, Waldstein.</span></p>

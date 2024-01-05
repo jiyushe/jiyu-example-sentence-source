@@ -1,5 +1,7 @@
 # oerlikon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oerlikon.md)
+
 <p><span class="chinese">中央军委一直与厄利空以来，光学媒体天。</span><span class="english">CMC has been working with Oerlikon since the optical media days.</span></p>
 
 <p><span class="chinese">再次，厄利空太阳能是表明它可以兑现其承诺。</span><span class="english">Once again, Oerlikon Solar is demonstrating that it can deliver on its promises.</span></p>

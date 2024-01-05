@@ -1,5 +1,7 @@
 # fortnight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortnight.md)
+
 <p><span class="chinese">我在两个星期前见过他。</span><span class="english">I saw him a fortnight ago.</span></p>
 
 <p><span class="chinese">航空信通常要两个星期。</span><span class="english">It usually takes fortnight by air.</span></p>

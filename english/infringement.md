@@ -1,5 +1,7 @@
 # infringement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infringement.md)
+
 <p><span class="chinese">专利产品，侵权必究Arriving！</span><span class="english">Patented product, no infringement allowed.</span></p>
 
 <p><span class="chinese">蛀虫豆受虫侵害的咖啡豆。</span><span class="english">Moth bean coffee by the infringement insects.</span></p>

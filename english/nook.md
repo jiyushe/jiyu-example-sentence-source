@@ -1,5 +1,7 @@
 # nook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nook.md)
+
 <p><span class="chinese">我们必须利用每个小角落。</span><span class="english">We have to use every little nook.</span></p>
 
 <p><span class="chinese">穿过每一条走廊，寻遍每一个角落。</span><span class="english">Go through every aisle and every nook and corner.</span></p>

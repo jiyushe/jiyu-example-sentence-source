@@ -1,5 +1,7 @@
 # artifice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artifice.md)
+
 <p><span class="chinese">善使诡计而又故作正经的女性。</span><span class="english">A woman of artifice and prudery.</span></p>
 
 <p><span class="chinese">假装晕倒只不过是个诡计。</span><span class="english">Pretending to faint was merely artifice.</span></p>

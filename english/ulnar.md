@@ -1,5 +1,7 @@
 # ulnar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulnar.md)
+
 <p><span class="chinese">单纯尺骨骨折组仅制备尺骨骨折模型。</span><span class="english">The only ulnar fracture group was only with ulnar fracture models.</span></p>
 
 <p><span class="chinese">尺骨茎突骨折是否需要手术治疗，国内外学者对此尚有争议。</span><span class="english">Currently there is controversy about the treatment of ulnar styloid fractures.</span></p>

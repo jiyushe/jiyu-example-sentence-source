@@ -1,5 +1,7 @@
 # tights
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tights.md)
+
 <p><span class="chinese">那个穿着紧身绸裤的男士曼声地独唱，然后她和唱。</span><span class="english">The man in the tights sang alone, then she sang alone.</span></p>
 
 <p><span class="chinese">她递给我一套闪着金光的彩虹纹紧身衣。</span><span class="english">She handed me a pair of rainbow tights with gold sparkles.</span></p>

@@ -1,5 +1,7 @@
 # 黏菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjun.md)
+
 <p><span class="chinese">最终，非细胞黏菌也会产生孢子。</span><span class="english">Eventually, acellular slime molds also make spores.</span></p>
 
 <p><span class="chinese">其他的黏菌则会形成庞大的、不停颤动的原生质网络。</span><span class="english">Others develop into gigantic, pulsating networks of protoplasm.</span></p>

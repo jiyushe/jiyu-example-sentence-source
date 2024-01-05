@@ -1,5 +1,7 @@
 # society
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/society.md)
+
 <p><span class="chinese">这就是我们的社会。</span><span class="english">This is our society.</span></p>
 
 <p><span class="chinese">还是踏入社会?。</span><span class="english">Or step into the society?</span></p>

@@ -1,5 +1,7 @@
 # 库存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kucun.md)
+
 <p><span class="chinese">我们的库存快要撑爆了。</span><span class="english">Our stock is about to explode.</span></p>
 
 <p><span class="chinese">库存已几乎卖完。</span><span class="english">The stock is nearly exhausted.</span></p>

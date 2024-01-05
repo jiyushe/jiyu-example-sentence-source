@@ -1,5 +1,7 @@
 # hangtag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hangtag.md)
+
 <p><span class="chinese">那一种服装挂咭，可使你有保存的意欲？</span><span class="english">Which kind of Hangtag you will keep longer?</span></p>
 
 <p><span class="chinese">我们需要有注明吸湿排干功能的吊牌。</span><span class="english">And need hangtag of this WICKING or BODY DRY.</span></p>

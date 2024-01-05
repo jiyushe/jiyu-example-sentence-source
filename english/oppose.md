@@ -1,5 +1,7 @@
 # oppose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppose.md)
+
 <p><span class="chinese">他们反对和平。</span><span class="english">They oppose peace.</span></p>
 
 <p><span class="chinese">他们反对民主。</span><span class="english">They oppose democracy.</span></p>

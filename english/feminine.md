@@ -1,5 +1,7 @@
 # feminine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feminine.md)
+
 <p><span class="chinese">同时它也是女性与浪漫的象征。</span><span class="english">It is also feminine and romantic.</span></p>
 
 <p><span class="chinese">齿痕，下摆是浓情蜜意女性化。</span><span class="english">Scalloped hem is sweetly feminine.</span></p>

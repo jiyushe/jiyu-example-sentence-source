@@ -1,5 +1,7 @@
 # 论点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lundian.md)
+
 <p><span class="chinese">我也赞同这一论点。</span><span class="english">I agree with this.</span></p>
 
 <p><span class="chinese">是这样的论点吗？</span><span class="english">Is that the argument?</span></p>

@@ -1,5 +1,7 @@
 # enliven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enliven.md)
+
 <p><span class="chinese">搞活你的屏幕！</span><span class="english">Enliven your screen!</span></p>
 
 <p><span class="chinese">我搞活谁我会的。</span><span class="english">And I enliven whom I will.</span></p>

@@ -1,5 +1,7 @@
 # 直接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijie_1.md)
+
 <p><span class="chinese">让我直接引述他的话。</span><span class="english">Let me just quote him.</span></p>
 
 <p><span class="chinese">直接烫个梨花头。</span><span class="english">Direct hot a pear head.</span></p>

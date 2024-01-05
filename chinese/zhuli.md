@@ -1,5 +1,7 @@
 # 主力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuli.md)
+
 <p><span class="chinese">还发现了非主力链的“聚焦”现象。</span><span class="english">Non-main force chains were observed.</span></p>
 
 <p><span class="chinese">托尼是我队的主力。</span><span class="english">Tony is the star player on our team.</span></p>

@@ -1,5 +1,7 @@
 # 因循守旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxunshoujiu.md)
+
 <p><span class="chinese">这些人因循守旧、拒绝作出改变。</span><span class="english">These same people are resistant to change.</span></p>
 
 <p><span class="chinese">生活黑客的想法和行为则不因循守旧。</span><span class="english">The life hacker thinks and acts unconventionally.</span></p>

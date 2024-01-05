@@ -1,5 +1,7 @@
 # hypnotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypnotic.md)
+
 <p><span class="chinese">欢送来到膀催眠的花园。</span><span class="english">Welcome to the hypnotic garden.</span></p>
 
 <p><span class="chinese">催眠的方法有哪些？</span><span class="english">What does hypnotic method have?</span></p>

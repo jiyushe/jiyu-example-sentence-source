@@ -1,5 +1,7 @@
 # warfare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warfare.md)
+
 <p><span class="chinese">接下来我们来讨论战争</span><span class="english">Then there's warfare.</span></p>
 
 <p><span class="chinese">游击战争是什么呢？</span><span class="english">What is guerrilla warfare?</span></p>

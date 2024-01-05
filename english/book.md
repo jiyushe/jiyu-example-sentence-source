@@ -1,5 +1,7 @@
 # book 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/book.md)
+
 <p><span class="chinese">电话薄？</span><span class="english">A phone book?</span></p>
 
 <p><span class="chinese">还是去买书看吧！</span><span class="english">Buy the book.</span></p>

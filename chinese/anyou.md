@@ -1,5 +1,7 @@
 # 案由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anyou.md)
+
 <p><span class="chinese">罢免案由主席团提请大会审议。</span><span class="english">The proposal of removal are submitted to the congresses by the presidiums.</span></p>
 
 <p><span class="chinese">议案应当有案由、案据和方案。</span><span class="english">Bills and proposals submitted shall consist of subjects, grounds and schemes.</span></p>

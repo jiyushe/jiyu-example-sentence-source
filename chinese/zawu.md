@@ -1,5 +1,7 @@
 # 杂务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zawu.md)
+
 <p><span class="chinese">让孩子做些杂务。</span><span class="english">Give kids chores.</span></p>
 
 <p><span class="chinese">从白天的杂务中抬起头来，停上一会儿</span><span class="english">From the day’s chores, pause a minute</span></p>

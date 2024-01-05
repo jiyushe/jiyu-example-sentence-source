@@ -1,5 +1,7 @@
 # squeegee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeegee.md)
+
 <p><span class="chinese">使用橡胶扫帚擦，比如窗户。</span><span class="english">Wipe with a squeegee as of a window.</span></p>
 
 <p><span class="chinese">在羰基合成刮刀是有用的几乎每一个在你家的空间。</span><span class="english">Squeegee is useful in almost every room in your home.</span></p>

@@ -1,5 +1,7 @@
 # carrick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrick.md)
+
 <p><span class="chinese">“这真是精彩的抽射，”卡里克这样说。</span><span class="english">"It was a tremendous volley, " Carrick said of his strike.</span></p>
 
 <p><span class="chinese">我们相信只要一有机会，我们就能进球。</span><span class="english">We believe that if we get a chance, we'll score, " Carrick said.</span></p>

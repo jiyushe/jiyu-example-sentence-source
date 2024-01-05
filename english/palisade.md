@@ -1,5 +1,7 @@
 # palisade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palisade.md)
+
 <p><span class="chinese">第二道，就是木栅。</span><span class="english">The second gate is a wooden palisade.</span></p>
 
 <p><span class="chinese">他们用篱笆把院子围起来了。</span><span class="english">They surrounded the yard with a palisade.</span></p>

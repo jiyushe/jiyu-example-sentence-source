@@ -1,5 +1,7 @@
 # 比分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bifen.md)
+
 <p><span class="chinese">现在比分多少／几比几了？</span><span class="english">What is the score?</span></p>
 
 <p><span class="chinese">比分交替上升。</span><span class="english">The score seesawed.</span></p>

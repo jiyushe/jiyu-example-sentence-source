@@ -1,5 +1,7 @@
 # 还本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanben.md)
+
 <p><span class="chinese">代理还本付息。代理登记开户。</span><span class="english">Acting servicing. Agents Registration accounts.</span></p>
 
 <p><span class="chinese">信用评价是对企业能否如约还本付息的能力和可信任程度的评估。</span><span class="english">Credit assessment is the evaluation of the likelihood for enterprise to repay their loans and interests.</span></p>

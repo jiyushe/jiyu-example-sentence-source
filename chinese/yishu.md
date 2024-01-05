@@ -1,5 +1,7 @@
 # 医书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishu.md)
+
 <p><span class="chinese">所刻医书在海内外流行，对中医学的发展做出贡献。</span><span class="english">He made great contributions to the development of TCM.</span></p>
 
 <p><span class="chinese">第四章、医书音注分析。</span><span class="english">Chapter 4, with the analysis of the pronunciation annotation.</span></p>

@@ -1,5 +1,7 @@
 # 木然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muran.md)
+
 <p><span class="chinese">拉尔夫木然地看着他。</span><span class="english">Ralph looked at him dumbly.</span></p>
 
 <p><span class="chinese">忧虑使她变得木然。</span><span class="english">The worries darkened her mind.</span></p>

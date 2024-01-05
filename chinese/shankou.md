@@ -1,5 +1,7 @@
 # 山口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shankou.md)
+
 <p><span class="chinese">本周一山口疆辞别了人世，享年93岁。</span><span class="english">Yamaguchi died Monday at the age of 93.</span></p>
 
 <p><span class="chinese">它看起来就像是山口，对吧？</span><span class="english">So, it looks like a mountain  pass, right?</span></p>

@@ -1,5 +1,7 @@
 # 撒腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/satui.md)
+
 <p><span class="chinese">见到狗不要撒腿就跑。</span><span class="english">Do not to run past a dog.</span></p>
 
 <p><span class="chinese">他们感到危险，撒腿就跑。</span><span class="english">Sensing danger, they started to run.</span></p>

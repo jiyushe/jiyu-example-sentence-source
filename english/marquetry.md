@@ -1,5 +1,7 @@
 # marquetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marquetry.md)
+
 <p><span class="chinese">椅子是意大利的镶嵌。</span><span class="english">The marquetry chairs are Italian.</span></p>
 
 <p><span class="chinese">棺材是紫檀木，黄铜和象牙镶嵌。</span><span class="english">Thecasket is in rosewood, brass and ivory marquetry.</span></p>

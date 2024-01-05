@@ -1,5 +1,7 @@
 # menelaus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menelaus.md)
+
 <p><span class="chinese">你不了解米奈劳斯和…</span><span class="english">You don't know Menelaus.</span></p>
 
 <p><span class="chinese">那“Menelaus“是常见犹太人名吗？</span><span class="english">"Menelaus" is that a good Jewish name?</span></p>

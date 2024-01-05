@@ -1,5 +1,7 @@
 # 同形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxing_1.md)
+
 <p><span class="chinese">其中有许多同形异义词，查检使用时须加分辨。</span><span class="english">There are many homonyms, so you have to distinguish.</span></p>
 
 <p><span class="chinese">这种外形相似的配子称为同形配子。</span><span class="english">Such similar-appearing gametes are called isogametes.</span></p>

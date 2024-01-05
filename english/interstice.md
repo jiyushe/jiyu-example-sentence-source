@@ -1,5 +1,7 @@
 # interstice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interstice.md)
+
 <p><span class="chinese">从门扉的缝隙投来一瞥。</span><span class="english">Glimpse through an interstice caught.</span></p>
 
 <p><span class="chinese">小件耐久货物可用作填隙货物来填充小缝和空位。</span><span class="english">Small pieces of durable cargo can be used as filler cargo to fill in the interstice and void space.</span></p>

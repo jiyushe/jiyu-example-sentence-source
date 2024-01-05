@@ -1,5 +1,7 @@
 # nottinghamshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nottinghamshire.md)
+
 <p><span class="chinese">英国演员唐纳德·沃尔菲特爵士出生于诺丁汉郡。</span><span class="english">Sir Donald Wolfit, English actor, was born in Nottinghamshire.</span></p>
 
 <p><span class="chinese">诺丁汉矿工曾希望他们的矿井不会被关闭，但这些矿井在1985-1994年期间也大多被关闭。</span><span class="english">Nottinghamshire miners had hoped that their pits were safe, but they too were mostly closed in the 1985-1994 period.</span></p>

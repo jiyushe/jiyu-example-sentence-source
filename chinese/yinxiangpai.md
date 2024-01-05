@@ -1,5 +1,7 @@
 # 印象派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxiangpai.md)
+
 <p><span class="chinese">印象派画家是谁？</span><span class="english">Who were the Impressionists?</span></p>
 
 <p><span class="chinese">它像是一幅印象派画作。</span><span class="english">It looks like an impressionistic painting.</span></p>

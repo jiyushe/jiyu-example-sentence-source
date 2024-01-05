@@ -1,5 +1,7 @@
 # 烟囱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yancong.md)
+
 <p><span class="chinese">烟囱通风良好。</span><span class="english">The chimney draws well.</span></p>
 
 <p><span class="chinese">烟囱里喷出一团黑烟。</span><span class="english">He is a black scientist.</span></p>

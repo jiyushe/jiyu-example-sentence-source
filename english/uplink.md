@@ -1,5 +1,7 @@
 # uplink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uplink.md)
+
 <p><span class="chinese">第一个图表标着“月球反射的上行链路”。</span><span class="english">The first chart is labeled "uplink reflected off the moon".</span></p>
 
 <p><span class="chinese">然后基于该结构提出了一种上下行链路的资源分配算法。</span><span class="english">Then, a resource allocation scheme in downlink and uplink is given.</span></p>

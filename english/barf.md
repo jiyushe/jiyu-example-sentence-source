@@ -1,5 +1,7 @@
 # barf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barf.md)
+
 <p><span class="chinese">给，呕吐袋在这儿。</span><span class="english">Here. Here's a barf bag.</span></p>
 
 <p><span class="chinese">我再吃一口就要吐了。</span><span class="english">I'll barf if I eat another bite.</span></p>

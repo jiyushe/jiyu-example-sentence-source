@@ -1,5 +1,7 @@
 # gushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gushy.md)
+
 <p><span class="chinese">有些人喜欢在获奖时发表一个深情的获奖感言。</span><span class="english">Some people like to make a gushy acceptance speech when they win awards.</span></p>
 
 <p><span class="chinese">尽管通常对过于装腔作势旳称赞会感到不快，但他们需要被称赞。</span><span class="english">They need to be praised, although they are usually uncomfortable with "gushy" praise.</span></p>

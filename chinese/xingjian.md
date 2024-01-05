@@ -1,5 +1,7 @@
 # 兴建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjian.md)
+
 <p><span class="chinese">不会再兴建居屋。</span><span class="english">No more HOS flats would be built.</span></p>
 
 <p><span class="chinese">荔景医院仍在兴建。</span><span class="english">Lai King Hospital was being built.</span></p>

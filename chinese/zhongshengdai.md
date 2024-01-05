@@ -1,5 +1,7 @@
 # 中生代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshengdai.md)
+
 <p><span class="chinese">中生代的陆地被恐龙统治着。</span><span class="english">THE Mesozoic land was dominated by dinosaurs.</span></p>
 
 <p><span class="chinese">但中生代本身便是以一次大灭绝开始的。</span><span class="english">But the Mesozoic, too, began with a mass extinction.</span></p>

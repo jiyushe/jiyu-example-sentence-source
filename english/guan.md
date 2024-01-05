@@ -1,5 +1,7 @@
 # guan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guan.md)
+
 <p><span class="chinese">管艺来自青岛。</span><span class="english">Guan Yi is from Qingdao.</span></p>
 
 <p><span class="chinese">他是中国著名的秦观。</span><span class="english">He's the famous Qin Guan.</span></p>

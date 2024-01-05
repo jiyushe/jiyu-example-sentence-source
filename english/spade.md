@@ -1,5 +1,7 @@
 # spade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spade.md)
+
 <p><span class="chinese">我用铁铲挖掘。</span><span class="english">I dug with a spade.</span></p>
 
 <p><span class="chinese">我只剩一张黑桃了。</span><span class="english">I've only one spade left.</span></p>

@@ -1,5 +1,7 @@
 # pronounced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronounced.md)
+
 <p><span class="chinese">这个字怎么念法?</span><span class="english">How is this word pronounced?</span></p>
 
 <p><span class="chinese">我向来观点鲜明。</span><span class="english">I'm a man of pronounced views.</span></p>

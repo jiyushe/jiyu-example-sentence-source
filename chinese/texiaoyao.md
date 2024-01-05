@@ -1,5 +1,7 @@
 # 特效药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/texiaoyao.md)
+
 <p><span class="chinese">你有特效药吗？</span><span class="english">Do you have any good medicines?</span></p>
 
 <p><span class="chinese">有治艾滋病的特效药吗?。</span><span class="english">Is there any wonder drug for Adis.</span></p>

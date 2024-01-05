@@ -1,5 +1,7 @@
 # account 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/account.md)
+
 <p><span class="chinese">我想开美元帐户。</span><span class="english">I prefer a USD account.</span></p>
 
 <p><span class="chinese">我怎么向他解释？</span><span class="english">How do I account for it?</span></p>

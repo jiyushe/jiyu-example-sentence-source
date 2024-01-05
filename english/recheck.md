@@ -1,5 +1,7 @@
 # recheck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recheck.md)
+
 <p><span class="chinese">海地宣布复检大选票数以抑制社会骚乱。</span><span class="english">Haiti announces vote tally recheck to stem unrest.</span></p>
 
 <p><span class="chinese">我们必须重新核对这些数字，那是没有害处的。</span><span class="english">It is no harm that we have to recheck the figures.</span></p>

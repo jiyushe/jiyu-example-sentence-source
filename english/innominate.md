@@ -1,5 +1,7 @@
 # innominate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innominate.md)
+
 <p><span class="chinese">作者报告三例无名动脉扭曲。</span><span class="english">This paper reports 3 patients with buckling of the innominate artery.</span></p>
 
 <p><span class="chinese">神自己，却是绝对不可知，不可名，无名。</span><span class="english">God Himself, however, is absolutely unknowable, unnamable , and innominate.</span></p>

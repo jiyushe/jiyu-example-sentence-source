@@ -1,5 +1,7 @@
 # 飞禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiqin.md)
+
 <p><span class="chinese">最后一题，裕廊飞禽公园在哪里？</span><span class="english">And finally, where is the Jurong Bird Park?</span></p>
 
 <p><span class="chinese">在裕廊飞禽公园有一个人工瀑布。</span><span class="english">There is a man-made waterfall in Yu Lang Bird Park.</span></p>

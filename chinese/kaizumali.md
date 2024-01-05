@@ -1,5 +1,7 @@
 # 开足马力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizumali.md)
+
 <p><span class="chinese">我们现在唯一能做的，就是开足马力往前冲。</span><span class="english">The only thing we can do is to move full-steam ahead.</span></p>
 
 <p><span class="chinese">中国本土的汽车制造商也在开足马力提高产能。</span><span class="english">China's own automakers are also revving up production.</span></p>

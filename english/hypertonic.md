@@ -1,5 +1,7 @@
 # hypertonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypertonic.md)
+
 <p><span class="chinese">海水对细胞质来说是高渗的。</span><span class="english">The sea water is said to be hypertonic to the cytoplasm.</span></p>
 
 <p><span class="chinese">目的研究高渗氯化钠右旋糖酐70注射液的稳定性。</span><span class="english">OBJECTIVE To study the stability of hypertonic sodium chloride dextran 70 injection.</span></p>

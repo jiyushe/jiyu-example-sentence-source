@@ -1,5 +1,7 @@
 # 风度翩翩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengdupianpian.md)
+
 <p><span class="chinese">我说他为人正派且风度翩翩。</span><span class="english">His decency and his grace?</span></p>
 
 <p><span class="chinese">他身穿黑色礼服，看上去帅气十足，风度翩翩。</span><span class="english">He looked so handsome in his tux.</span></p>

@@ -1,5 +1,7 @@
 # spinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinous.md)
+
 <p><span class="chinese">将C2棘突向腹侧推以达到理想复位。</span><span class="english">The C2 spinous process was pushed ventrally to achieve ideal reduction.</span></p>
 
 <p><span class="chinese">脊柱，椎骨脊突带尖刺的部位或结构，如脊椎动物的。</span><span class="english">A sharp spiny part or structure, such as the spinous process of a vertebra.</span></p>

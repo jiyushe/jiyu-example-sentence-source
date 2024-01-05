@@ -1,5 +1,7 @@
 # 怒容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nurong.md)
+
 <p><span class="chinese">他的脸上流露出怒容。</span><span class="english">Anger showed in his face.</span></p>
 
 <p><span class="chinese">海利站在门口怒容满面。</span><span class="english">They held up at the gate.</span></p>

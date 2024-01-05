@@ -1,5 +1,7 @@
 # 参半
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canban.md)
+
 <p><span class="chinese">他们仅仅是对错参半。</span><span class="english">They are only half-correct.</span></p>
 
 <p><span class="chinese">这是一个苦乐参半的时刻。</span><span class="english">It was a bittersweet moment.</span></p>

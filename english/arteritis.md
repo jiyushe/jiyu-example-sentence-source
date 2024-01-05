@@ -1,5 +1,7 @@
 # arteritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arteritis.md)
+
 <p><span class="chinese">结节性多动脉炎。</span><span class="english">Much arteritis of ⑩ nodal sex.</span></p>
 
 <p><span class="chinese">年过五旬的人若患上头痛，便可能是由颞动脉炎所致。</span><span class="english">Headaches in people over 50 can be due to temporal arteritis.</span></p>

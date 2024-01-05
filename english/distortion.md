@@ -1,5 +1,7 @@
 # distortion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distortion.md)
+
 <p><span class="chinese">现实扭曲引力场。</span><span class="english">A reality distortion field.</span></p>
 
 <p><span class="chinese">然而历史事实不容歪曲。</span><span class="english">But history tolerates no distortion.</span></p>

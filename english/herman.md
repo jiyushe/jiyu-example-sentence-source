@@ -1,5 +1,7 @@
 # herman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herman.md)
+
 <p><span class="chinese">赫尔曼得救了！</span><span class="english">Herman was saved!</span></p>
 
 <p><span class="chinese">霍曼叔叔什么时候走的?。</span><span class="english">What time did Uncle Herman leave?</span></p>

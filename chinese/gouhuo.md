@@ -1,5 +1,7 @@
 # 篝火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouhuo.md)
+
 <p><span class="chinese">篝火，雪堆。</span><span class="english">Campfires and snowdrifts.</span></p>
 
 <p><span class="chinese">我们燃起了一堆堆篝火。</span><span class="english">We had lit many bonfires.</span></p>

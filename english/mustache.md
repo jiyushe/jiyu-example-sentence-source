@@ -1,5 +1,7 @@
 # mustache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mustache.md)
+
 <p><span class="chinese">爸爸有一个梳小胡子的梳子。</span><span class="english">Dad has a comb for his mustache.</span></p>
 
 <p><span class="chinese">他的父亲剃了小胡子。</span><span class="english">His father shaved off his mustache.</span></p>

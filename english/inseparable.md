@@ -1,5 +1,7 @@
 # inseparable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inseparable.md)
+
 <p><span class="chinese">恩典与信心是不可分的。</span><span class="english">Grace and faith are inseparable.</span></p>
 
 <p><span class="chinese">两个朋友形影不离。</span><span class="english">The two friends were inseparable.</span></p>

@@ -1,5 +1,7 @@
 # pressingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressingly.md)
+
 <p><span class="chinese">这些形容词有一个共同的中心意思，即。十分必要的。</span><span class="english">The central meaning shared by these adjectives is . pressingly needed.</span></p>
 
 <p><span class="chinese">为降低测试费用，迫切需要高效率的测试方法。</span><span class="english">To decrease testing cost, highly efficient testing methods are pressingly needed.</span></p>

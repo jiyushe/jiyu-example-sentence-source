@@ -1,5 +1,7 @@
 # 狮身人面像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishenrenmianxiang.md)
+
 <p><span class="chinese">俄狄浦斯上遇到了狮身人面像悬崖。</span><span class="english">Oedipus met Sphinx on a cliff.</span></p>
 
 <p><span class="chinese">狮身人面像也被追溯至公元前10，500年。</span><span class="english">The Sphinx was also dated back to 10,500 B. C.</span></p>

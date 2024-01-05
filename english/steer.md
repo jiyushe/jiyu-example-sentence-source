@@ -1,5 +1,7 @@
 # steer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steer.md)
+
 <p><span class="chinese">你可以开那台拖拉机。</span><span class="english">You may steer the tractor.</span></p>
 
 <p><span class="chinese">那么就转舵向基督山。</span><span class="english">Then steer FOR Monte Cristo.</span></p>

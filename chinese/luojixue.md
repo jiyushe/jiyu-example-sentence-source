@@ -1,5 +1,7 @@
 # 逻辑学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luojixue.md)
+
 <p><span class="chinese">美国科学家和逻辑学家。</span><span class="english">U. S. scientist and logician.</span></p>
 
 <p><span class="chinese">创始人是美国著名的逻辑学家J。</span><span class="english">The founder is famous logician J.</span></p>

@@ -1,5 +1,7 @@
 # 娘家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangjia.md)
+
 <p><span class="chinese">她娘家姓李。</span><span class="english">Her maiden name is Li.</span></p>
 
 <p><span class="chinese">丹丝兰生气的分开了娘家。</span><span class="english">DanSi aram angry separated the home.</span></p>

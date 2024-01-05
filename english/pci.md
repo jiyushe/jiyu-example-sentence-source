@@ -1,5 +1,7 @@
 # pci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pci.md)
+
 <p><span class="chinese">南桥是PCI总线的重要部分。</span><span class="english">South Bridge is an important unit of PCI.</span></p>
 
 <p><span class="chinese">设计调试了基于PCI接口的位同步器。</span><span class="english">Design and implement the circuit board based PCI interface.</span></p>

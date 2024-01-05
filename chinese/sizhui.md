@@ -1,5 +1,7 @@
 # 丝锥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhui.md)
+
 <p><span class="chinese">可修磨丝锥整个前切削面。</span><span class="english">But before grinding taps the whole block.</span></p>
 
 <p><span class="chinese">螺旋烫发式看上去象是扭曲的螺丝锥。</span><span class="english">Spiral perm hairstyles look like twisted corkscrews.</span></p>

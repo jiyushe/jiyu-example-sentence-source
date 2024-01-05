@@ -1,5 +1,7 @@
 # 奇谈怪论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitanguailun.md)
+
 <p><span class="chinese">我很喜欢听他的奇谈怪论。</span><span class="english">I enjoy listening to his yarns.</span></p>
 
 <p><span class="chinese">我将介绍一下我在纽约听到的一些奇谈怪论。</span><span class="english">I shall report some of the strange remarks I heard in New York.</span></p>

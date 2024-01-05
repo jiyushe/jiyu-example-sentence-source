@@ -1,5 +1,7 @@
 # dnp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dnp.md)
+
 <p><span class="chinese">而DNP处理则降低交替呼吸途径容量。</span><span class="english">DNP treatment reduced the alternative respiration pathway capacity.</span></p>
 
 <p><span class="chinese">同时还对配电网规划GIS数据的来源及入库进行了研究。</span><span class="english">And the data origin and data warehousing of GIS for DNP are also introduced.</span></p>

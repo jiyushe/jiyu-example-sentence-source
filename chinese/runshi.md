@@ -1,5 +1,7 @@
 # 润湿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runshi.md)
+
 <p><span class="chinese">适当地保持润湿。</span><span class="english">To moisturize properly.</span></p>
 
 <p><span class="chinese">春雨，同样润湿著心灵。</span><span class="english">Also, it moistens your soul.</span></p>

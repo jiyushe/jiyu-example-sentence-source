@@ -1,5 +1,7 @@
 # 雀跃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queyue.md)
+
 <p><span class="chinese">我欢欣雀跃地宣布。</span><span class="english">I joyously announced.</span></p>
 
 <p><span class="chinese">那匹马一路雀跃。</span><span class="english">The horse was capering along.</span></p>

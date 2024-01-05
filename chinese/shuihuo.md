@@ -1,5 +1,7 @@
 # 水火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuihuo.md)
+
 <p><span class="chinese">水火不相容。</span><span class="english">Fire and water repel each other.</span></p>
 
 <p><span class="chinese">我将拯救你于水火之中。</span><span class="english">I'll save you the pain and nervousness.</span></p>

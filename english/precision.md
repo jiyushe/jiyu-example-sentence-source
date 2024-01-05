@@ -1,5 +1,7 @@
 # precision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precision.md)
+
 <p><span class="chinese">精密度亦佳。</span><span class="english">The precision is also good.</span></p>
 
 <p><span class="chinese">纹身的确是一件精密度很高的艺术工作。</span><span class="english">It's true precision art work.</span></p>

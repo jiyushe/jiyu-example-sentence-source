@@ -1,5 +1,7 @@
 # 坐落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoluo.md)
+
 <p><span class="chinese">他的房子坐落在一个小丘上。</span><span class="english">His house is on a hillock.</span></p>
 
 <p><span class="chinese">BNG坐落在阳光明媚的亚利桑那州。</span><span class="english">BNG is located in sunny Arizona.</span></p>

@@ -1,5 +1,7 @@
 # 警力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingli_3.md)
+
 <p><span class="chinese">最初派遣了蹩脚的领导人去那里运作警力不足的警察特派团。</span><span class="english">Duff leaders were sent at first to run the inadequate police mission.</span></p>
 
 <p><span class="chinese">专案组见时机成熟，马上调集警力展开围捕行动。</span><span class="english">Team see the time is ripe, immediately start mobilizing police officer.</span></p>

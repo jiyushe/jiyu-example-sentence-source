@@ -1,5 +1,7 @@
 # 醉生梦死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuishengmengsi.md)
+
 <p><span class="chinese">其实“醉生梦死”只不过是她跟我开的一个玩笑。</span><span class="english">That magic wine was just a joke she played on me.</span></p>
 
 <p><span class="chinese">让人馋涎欲滴，让舌头醉生梦死，让身体为之颤抖的食物啊！</span><span class="english">Mouth watering, tongue tantalizing, body trembling food!</span></p>

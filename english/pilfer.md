@@ -1,5 +1,7 @@
 # pilfer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilfer.md)
+
 <p><span class="chinese">骗子盗号再截图配音。</span><span class="english">Cheater pilfer date again check scheme dub.</span></p>
 
 <p><span class="chinese">你说偷意味着你仍然想要这些垃圾。</span><span class="english">To pilfer means that you still wanted the garbage.</span></p>

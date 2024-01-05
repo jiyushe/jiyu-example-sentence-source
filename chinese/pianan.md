@@ -1,5 +1,7 @@
 # 偏安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianan.md)
+
 <p><span class="chinese">你宁愿偏安一隅，而不愿在战火中驰骋吗？</span><span class="english">And did you exchange a walk on part in the war</span></p>
 
 <p><span class="chinese">偏安于我们的记忆之侧，偏安于贤哲长袍退色的下摆。</span><span class="english">Next to our memories, and pale hems of the masters' gown.</span></p>

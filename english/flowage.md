@@ -1,5 +1,7 @@
 # flowage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowage.md)
+
 <p><span class="chinese">人才聚集是人才流动的产物。</span><span class="english">Talent accumulation is the result of talent flowage.</span></p>
 
 <p><span class="chinese">其堆芯流动采用自然循环。</span><span class="english">Natural circulation is adopted in the flowage of reactor core.</span></p>

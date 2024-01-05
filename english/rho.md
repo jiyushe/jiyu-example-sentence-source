@@ -1,5 +1,7 @@
 # rho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rho.md)
+
 <p><span class="chinese">ρ是密度，对吗？</span><span class="english">Rho is a density, right?</span></p>
 
 <p><span class="chinese">球半径是ρ相当于。</span><span class="english">The sphere is rho equals one.</span></p>

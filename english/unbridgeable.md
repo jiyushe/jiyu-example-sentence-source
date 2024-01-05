@@ -1,5 +1,7 @@
 # unbridgeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbridgeable.md)
+
 <p><span class="chinese">这三个群体间存在不可逾越的鸿沟。</span><span class="english">Unbridgeable gaps existed between these three groups.</span></p>
 
 <p><span class="chinese">我们要么就适应，要么任其分化。</span><span class="english">We either all get along. Or an unbridgeable divide develops.</span></p>

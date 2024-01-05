@@ -1,5 +1,7 @@
 # liriodendron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liriodendron.md)
+
 <p><span class="chinese">此外，还探讨了鹅掌楸属种质资源的保护策略。</span><span class="english">The strategies of conservation of Liriodendron were also discussed in this paper.</span></p>
 
 <p><span class="chinese">在鹅掌楸的营养生长和生殖两方面，资源不平衡分配。</span><span class="english">Resources are evenly allocated between reproductive and vegetative growth for Liriodendron chinense.</span></p>

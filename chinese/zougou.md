@@ -1,5 +1,7 @@
 # 走狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zougou.md)
+
 <p><span class="chinese">买办，汉奸，走狗？</span><span class="english">Comprador, traitor, running dog?</span></p>
 
 <p><span class="chinese">你们这些异教徒的走狗。</span><span class="english">You are servants of unbelievers.</span></p>

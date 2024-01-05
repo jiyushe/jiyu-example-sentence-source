@@ -1,5 +1,7 @@
 # 百发百中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifabaizhong.md)
+
 <p><span class="chinese">还有炮手，那些百发百中的神枪手。</span><span class="english">And artillery-men, the deadliest that ever fired gun.</span></p>
 
 <p><span class="chinese">多加小心，避免万一失手胜过百发百中。</span><span class="english">Be more careful not to miss once than to hit a hundred times.</span></p>

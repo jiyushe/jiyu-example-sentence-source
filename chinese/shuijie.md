@@ -1,5 +1,7 @@
 # 水界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijie.md)
+
 <p><span class="chinese">本文首次提出了利用测井资料确定气水界面的方法。</span><span class="english">This paper proposes a method for determining gas-water contact with well logs.</span></p>
 
 <p><span class="chinese">以PE材料为过水界面，以金属为结构材料的复合管，将是发展的热点。</span><span class="english">Composite pipe of metal structure with PE wet surface will be hot point in developing recently.</span></p>

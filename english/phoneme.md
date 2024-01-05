@@ -1,5 +1,7 @@
 # phoneme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoneme.md)
+
 <p><span class="chinese">大于音位的口语单位。</span><span class="english">A unit of spoken language larger than a phoneme.</span></p>
 
 <p><span class="chinese">儿童早期对听到的所有音位都非常敏感</span><span class="english">Early on, children are sensitive to every phoneme there is.</span></p>

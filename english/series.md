@@ -1,5 +1,7 @@
 # series
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/series.md)
+
 <p><span class="chinese">这是一次漫长的系列赛。</span><span class="english">This is a long series.</span></p>
 
 <p><span class="chinese">吉汽的企业系列。</span><span class="english">JAC s enterprise series.</span></p>

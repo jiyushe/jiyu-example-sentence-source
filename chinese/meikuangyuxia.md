@@ -1,5 +1,7 @@
 # 每况愈下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meikuangyuxia.md)
+
 <p><span class="chinese">健康每况愈下使人志气衰退。</span><span class="english">Failing health dwindles ambition.</span></p>
 
 <p><span class="chinese">但是萨德拉的健康却每况愈下。</span><span class="english">But Sandra’s health began to decline.</span></p>

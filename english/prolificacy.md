@@ -1,5 +1,7 @@
 # prolificacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolificacy.md)
+
 <p><span class="chinese">母猪繁殖技术又是生产的重要指标。</span><span class="english">The prolificacy of sow is an important target.</span></p>
 
 <p><span class="chinese">济宁青山羊是我国独特的地方山羊品种，具有较高的产羔数。</span><span class="english">Jining Blue goat with high prolificacy is an exceptional local goat breed in China.</span></p>

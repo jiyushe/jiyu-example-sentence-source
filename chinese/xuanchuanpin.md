@@ -1,5 +1,7 @@
 # 宣传品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanchuanpin.md)
+
 <p><span class="chinese">拿宣传品和商务名片。</span><span class="english">Pick up literature and a business card.</span></p>
 
 <p><span class="chinese">这不过是许多针对儿童的宣传品中的一种。</span><span class="english">It was but one of many propaganda items aimed at children.</span></p>

@@ -1,5 +1,7 @@
 # 立意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyi_3.md)
+
 <p><span class="chinese">父母立意要她当网球运动员。</span><span class="english">The parents designed her for a tennist.</span></p>
 
 <p><span class="chinese">主题深刻、立意深远。</span><span class="english">A theme is deep and shows a far-reaching.</span></p>

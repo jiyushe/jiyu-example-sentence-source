@@ -1,5 +1,7 @@
 # exhibit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhibit.md)
+
 <p><span class="chinese">他们很不赞成新展品。</span><span class="english">They deprecated the new exhibit.</span></p>
 
 <p><span class="chinese">图6-6向我们展示了这些因素。</span><span class="english">Exhibit 6-6 shows us the factors.</span></p>

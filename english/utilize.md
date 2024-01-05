@@ -1,5 +1,7 @@
 # utilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilize.md)
+
 <p><span class="chinese">尽量使用免费资源。</span><span class="english">Utilize free resources.</span></p>
 
 <p><span class="chinese">选择一种网络通讯库。</span><span class="english">Choose the network library to utilize.</span></p>

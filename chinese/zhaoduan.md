@@ -1,5 +1,7 @@
 # 肇端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoduan.md)
+
 <p><span class="chinese">近现代地上权肇端于罗马法。</span><span class="english">The modern superficies systems stem from Roman Law.</span></p>
 
 <p><span class="chinese">这场内战肇端于种族之间的紧张状态。</span><span class="english">It was against this backdrop of racial tension that the civil war began.</span></p>

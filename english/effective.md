@@ -1,5 +1,7 @@
 # effective 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effective.md)
+
 <p><span class="chinese">为有效的门徒训练祷告。</span><span class="english">Pray for effective discipling.</span></p>
 
 <p><span class="chinese">这非常冷酷无情，但很有效果。</span><span class="english">Cold, heartless, but effective.</span></p>

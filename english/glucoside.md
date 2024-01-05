@@ -1,5 +1,7 @@
 # glucoside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glucoside.md)
+
 <p><span class="chinese">维他命C配糖体，持久保湿，加强肌肤免疫力。</span><span class="english">Vitamin C glucoside lasting moisture strengthen skin immunity.</span></p>
 
 <p><span class="chinese">何首乌中二苯乙烯苷的开发与应用。</span><span class="english">Development Studies on Stilbene Glucoside from Polygonum multiflorum Thunb.</span></p>

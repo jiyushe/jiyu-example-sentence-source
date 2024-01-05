@@ -1,5 +1,7 @@
 # occlusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occlusion.md)
+
 <p><span class="chinese">不要忘记做环境闭塞。</span><span class="english">Nao esquecer de fazer o ambient occlusion.</span></p>
 
 <p><span class="chinese">栓塞血管中由栓子形成的障碍或闭塞。</span><span class="english">Obstruction or occlusion of a blood vessel by an embolus.</span></p>

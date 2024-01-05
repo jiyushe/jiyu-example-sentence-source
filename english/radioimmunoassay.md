@@ -1,5 +1,7 @@
 # radioimmunoassay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radioimmunoassay.md)
+
 <p><span class="chinese">放免法测定血浆心钠素浓度。</span><span class="english">Plasma ANP concentration was measured by radioimmunoassay.</span></p>
 
 <p><span class="chinese">本文用放射免疫法测定血浆中的胃动素。</span><span class="english">Radioimmunoassay was used to determine the motilin content in plasma.</span></p>

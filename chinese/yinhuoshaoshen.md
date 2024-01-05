@@ -1,5 +1,7 @@
 # 引火烧身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhuoshaoshen.md)
+
 <p><span class="chinese">或许这就像手持热炭，你却引火烧身。</span><span class="english">Or it is like holding onto hot coals, but you're the one getting burned.</span></p>
 
 <p><span class="chinese">年底时，他们会找到一份魔术般的爱情，但这才是真正的引火烧身。</span><span class="english">At year-end, they will find love like a magic but it will be a real fire.</span></p>

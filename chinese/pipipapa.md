@@ -1,5 +1,7 @@
 # 噼噼啪啪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipipapa.md)
+
 <p><span class="chinese">火在炉中噼噼啪啪地响。</span><span class="english">A fire crackled on the hearth.</span></p>
 
 <p><span class="chinese">德鲁斯点着一支雪茄，这支雪茄发出火花，噼噼啪啪地响起来。</span><span class="english">Druce lit the cigar, which began to spark and crackle.</span></p>

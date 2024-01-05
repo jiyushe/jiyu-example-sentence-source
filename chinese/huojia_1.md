@@ -1,5 +1,7 @@
 # 货架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huojia_1.md)
+
 <p><span class="chinese">我在货架上看到过。</span><span class="english">I saw it on the rack.</span></p>
 
 <p><span class="chinese">它们都在何处的阿谁货架上。</span><span class="english">They are all there on the shelf.</span></p>

@@ -1,5 +1,7 @@
 # 虚荣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xurong.md)
+
 <p><span class="chinese">啊，你太，虚荣！</span><span class="english">Ah, you too, Vanity!</span></p>
 
 <p><span class="chinese">虚荣就是浪费。</span><span class="english">Vain-glory is waste.</span></p>

@@ -1,5 +1,7 @@
 # colossus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colossus.md)
+
 <p><span class="chinese">这些是“巨神像”。</span><span class="english">These are the Colossus.</span></p>
 
 <p><span class="chinese">他是一个泥足巨人。</span><span class="english">He is a colossus with feet of clay.</span></p>

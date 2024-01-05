@@ -1,5 +1,7 @@
 # 神仙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxian.md)
+
 <p><span class="chinese">尽是神仙流品。</span><span class="english">Goods flow to the gods.</span></p>
 
 <p><span class="chinese">基金落袋，恰似神仙。</span><span class="english">Fund pocket, like the gods.</span></p>

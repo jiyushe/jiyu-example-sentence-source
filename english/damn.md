@@ -1,5 +1,7 @@
 # damn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damn.md)
+
 <p><span class="chinese">一点也不在乎。</span><span class="english">Donnot care a damn.</span></p>
 
 <p><span class="chinese">房租太他妈高了！</span><span class="english">Rent too damn high!</span></p>

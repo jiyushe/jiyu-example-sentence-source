@@ -1,5 +1,7 @@
 # 军事科学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junshikexue.md)
+
 <p><span class="chinese">后勤是军事科学的一个分支。</span><span class="english">Logistics is a branch of military science.</span></p>
 
 <p><span class="chinese">他还在西弗吉尼亚大学教军事科学的课程。</span><span class="english">He also taught military science at West Virginia University.</span></p>

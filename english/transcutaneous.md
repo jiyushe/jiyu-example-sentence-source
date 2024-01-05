@@ -1,5 +1,7 @@
 # transcutaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcutaneous.md)
+
 <p><span class="chinese">本发明涉及一种医疗设备，包括经皮设备单元和处理单元。</span><span class="english">A medical device is provided comprising a transcutaneous device unit and a process unit.</span></p>
 
 <p><span class="chinese">经皮能量无接点传输是当今比较热门的话题，是植入电子系统能量供给的新型方式。</span><span class="english">Transcutaneous energy transmission is a popular topic today and it is a novel type of power supply for implantable device.</span></p>

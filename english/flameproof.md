@@ -1,5 +1,7 @@
 # flameproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flameproof.md)
+
 <p><span class="chinese">不燃性，重量轻，价格便宜。</span><span class="english">Flameproof , light weight low price.</span></p>
 
 <p><span class="chinese">增安型外壳，隔爆型开关。</span><span class="english">Increased safety enclosure, flameproof switch.</span></p>

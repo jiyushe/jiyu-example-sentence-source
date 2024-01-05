@@ -1,5 +1,7 @@
 # 思虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silv.md)
+
 <p><span class="chinese">他思虑着他的不幸之事。</span><span class="english">He broods over his misfortunes.</span></p>
 
 <p><span class="chinese">他思虑着这里的武力。</span><span class="english">He wondered about the show of force.</span></p>

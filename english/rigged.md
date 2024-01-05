@@ -1,5 +1,7 @@
 # rigged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigged.md)
+
 <p><span class="chinese">他们垄断了市场。</span><span class="english">They rigged the market.</span></p>
 
 <p><span class="chinese">递补选举看起来作弊了。</span><span class="english">The by-elections seemed rigged.</span></p>

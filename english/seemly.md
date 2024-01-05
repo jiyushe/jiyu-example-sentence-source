@@ -1,5 +1,7 @@
 # seemly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seemly.md)
+
 <p><span class="chinese">是我心衣饰的得体仪容。</span><span class="english">Is but the seemly raiment of my heart.</span></p>
 
 <p><span class="chinese">只是我胸中这颗心合适的衣裳。</span><span class="english">Is but the seemly raiment of my heart.</span></p>

@@ -1,5 +1,7 @@
 # solicitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solicitation.md)
+
 <p><span class="chinese">票数作了一次复算。</span><span class="english">A solicitation of votes or orders.</span></p>
 
 <p><span class="chinese">我公司对本征集活动保留最终解释权。</span><span class="english">Our company reserves right of final interpretation of this solicitation.</span></p>

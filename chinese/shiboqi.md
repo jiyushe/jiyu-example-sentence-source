@@ -1,5 +1,7 @@
 # 示波器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiboqi.md)
+
 <p><span class="chinese">示波器的频带宽度越宽，你将看到的越多。</span><span class="english">The higher the bandwidth, the more you will see.</span></p>
 
 <p><span class="chinese">用VB实现示波器功能的一个CAD设计，很好用。</span><span class="english">VB oscilloscope function of a CAD design, easy to use.</span></p>

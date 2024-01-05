@@ -1,5 +1,7 @@
 # out 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/out.md)
+
 <p><span class="chinese">滚出去。</span><span class="english">Get out.</span></p>
 
 <p><span class="chinese">少外出。</span><span class="english">Go out less.</span></p>

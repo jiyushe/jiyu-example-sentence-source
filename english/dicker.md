@@ -1,5 +1,7 @@
 # dicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicker.md)
+
 <p><span class="chinese">真的？你买东西经常讨价还价吗？</span><span class="english">Really? Do you always dicker over prices?</span></p>
 
 <p><span class="chinese">她要和他交换那支钢笔。</span><span class="english">She wanted to dicker with him for the pen.</span></p>

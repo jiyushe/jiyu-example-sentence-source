@@ -1,5 +1,7 @@
 # 花茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huacha.md)
+
 <p><span class="chinese">木槿花茶能降低血压吗？</span><span class="english">Can hibiscus tea lower blood pressure?</span></p>
 
 <p><span class="chinese">是的，但现在的时尚是喝花茶。</span><span class="english">Yeah, but scented tea is now in fashion.</span></p>

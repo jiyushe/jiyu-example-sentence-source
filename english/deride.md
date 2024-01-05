@@ -1,5 +1,7 @@
 # deride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deride.md)
+
 <p><span class="chinese">有些人可能会嘲笑这是社会主义。</span><span class="english">Some might deride this as socialism.</span></p>
 
 <p><span class="chinese">礼仪规矩快要成为我害怕和嘲笑的事了。</span><span class="english">Formal is to become an event I both dread and deride.</span></p>

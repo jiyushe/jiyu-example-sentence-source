@@ -1,5 +1,7 @@
 # mambo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mambo.md)
+
 <p><span class="chinese">曼波是拉丁舞的一种。</span><span class="english">Mambo is a kind of Latin dance.</span></p>
 
 <p><span class="chinese">曼波芽有机和天然券，更新！</span><span class="english">Mambo Sprouts organic and natural coupons, updated!</span></p>

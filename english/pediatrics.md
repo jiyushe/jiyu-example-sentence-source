@@ -1,5 +1,7 @@
 # pediatrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pediatrics.md)
+
 <p><span class="chinese">这个发现出自本月的小儿科日报。</span><span class="english">The findings appear this month in the Joual journal Pediatrics.</span></p>
 
 <p><span class="chinese">研究结果发表在这个月的小儿科杂志上。</span><span class="english">The study was published in this month’s issue of the journal Pediatrics.</span></p>

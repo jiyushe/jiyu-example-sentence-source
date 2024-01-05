@@ -1,5 +1,7 @@
 # enophthalmos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enophthalmos.md)
+
 <p><span class="chinese">对比观察手术前后眼球内陷程度及复视缓解情况。</span><span class="english">They were perioperatively surveyed for the degree of enophthalmos and the status of diplopia.</span></p>
 
 <p><span class="chinese">这篇文章提供了复杂的综述关于眼球内陷的病理生理，评估和治疗。</span><span class="english">This article provides a comprehensive review of the pathophysiology , evaluation, and management of enophthalmos.</span></p>

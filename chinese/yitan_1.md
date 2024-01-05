@@ -1,5 +1,7 @@
 # 艺坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitan_1.md)
+
 <p><span class="chinese">请与我们共赏如此艺坛盛事！</span><span class="english">Please join this territory-wide art event!</span></p>
 
 <p><span class="chinese">陈赟是出生于1980年代的艺坛新秀。</span><span class="english">Born in the 1980s, Chen Yun is an emerging Chinese artist.</span></p>

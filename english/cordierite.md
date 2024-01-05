@@ -1,5 +1,7 @@
 # cordierite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordierite.md)
+
 <p><span class="chinese">它是世界上矿产品种堇青石。</span><span class="english">It is one of the varieties of cordierite mineral.</span></p>
 
 <p><span class="chinese">应用烧结法成功地合成了高纯度低温堇青石。</span><span class="english">High-purity low Cordierite is produced by sintering.</span></p>

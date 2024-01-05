@@ -1,5 +1,7 @@
 # clinking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinking.md)
+
 <p><span class="chinese">硬币在他口袋里丁当作响。</span><span class="english">The coins are clinking in his pocket.</span></p>
 
 <p><span class="chinese">试着加入一点金色，华贵无比。</span><span class="english">Try to join aureate, showily and clinking.</span></p>

@@ -1,5 +1,7 @@
 # 修士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiushi_2.md)
+
 <p><span class="chinese">阿陀斯的隐修士都是些什么样的人呢？</span><span class="english">Who are the monks in Athos?</span></p>
 
 <p><span class="chinese">罔达修士当然是知道这个的。</span><span class="english">Of course, Brother Wanda knew this.</span></p>

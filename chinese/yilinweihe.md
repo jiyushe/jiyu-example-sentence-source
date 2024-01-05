@@ -1,5 +1,7 @@
 # 以邻为壑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilinweihe.md)
+
 <p><span class="chinese">这是一项以邻为壑的政策。</span><span class="english">This is a beggar-thy-neighbor policy.</span></p>
 
 <p><span class="chinese">最起码要避免采取以邻为壑的政策。</span><span class="english">At a minimum, both must avoid beggar-thy-neighbor policies.</span></p>

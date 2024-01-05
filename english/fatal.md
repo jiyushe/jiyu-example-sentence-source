@@ -1,5 +1,7 @@
 # fatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatal.md)
+
 <p><span class="chinese">犬瘟一般是致命的。</span><span class="english">Distemper is often fatal.</span></p>
 
 <p><span class="chinese">纯合子是致命的。</span><span class="english">The homozygous form is fatal.</span></p>

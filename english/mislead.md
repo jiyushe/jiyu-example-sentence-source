@@ -1,5 +1,7 @@
 # mislead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mislead.md)
+
 <p><span class="chinese">地点有根本性的误导作用。</span><span class="english">Location can mislead in fundamental ways.</span></p>
 
 <p><span class="chinese">影评经常会误导观众。</span><span class="english">Movie reviews often mislead the audience.</span></p>

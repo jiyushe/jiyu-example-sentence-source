@@ -1,5 +1,7 @@
 # burger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burger.md)
+
 <p><span class="chinese">此外还有汉堡王快餐厅。</span><span class="english">That and Burger King.</span></p>
 
 <p><span class="chinese">我给你个牛肉汉堡！</span><span class="english">I'll give you a beef burger.</span></p>

@@ -1,5 +1,7 @@
 # seakeeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seakeeping.md)
+
 <p><span class="chinese">常规滑行艇的耐波性能很差。</span><span class="english">Seakeeping capability of conventional planing hull is poor.</span></p>
 
 <p><span class="chinese">计算结果表明，该模型具有良好的工程使用价值，对船舶耐波性和操纵性研究有指导意义。</span><span class="english">The results show that the model has good engineering value, the ship seakeeping and maneuverability study guide.</span></p>

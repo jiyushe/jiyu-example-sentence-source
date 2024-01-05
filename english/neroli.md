@@ -1,5 +1,7 @@
 # neroli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neroli.md)
+
 <p><span class="chinese">薰衣草、乳香、橙花。</span><span class="english">Lavender, Frankincense and Neroli.</span></p>
 
 <p><span class="chinese">维C衍生物、紫苏提取精华、橙花精粹粉末。</span><span class="english">Vitamin C derivative, Perilla extracted essence, Neroli delicate powder.</span></p>

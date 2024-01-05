@@ -1,5 +1,7 @@
 # trailer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trailer.md)
+
 <p><span class="chinese">点击这里，可以观看预告片。</span><span class="english">You can see the trailer here.</span></p>
 
 <p><span class="chinese">同时，我的拖车是嫩黄色的。</span><span class="english">Also, my trailer is bright yellow.</span></p>

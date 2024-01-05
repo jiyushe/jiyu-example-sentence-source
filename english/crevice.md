@@ -1,5 +1,7 @@
 # crevice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crevice.md)
+
 <p><span class="chinese">裂缝是时间的作品。</span><span class="english">Crevice is the work of time.</span></p>
 
 <p><span class="chinese">还是黑白夹缝中沉闷的灰？</span><span class="english">Or in black and white crevice sad ash?</span></p>

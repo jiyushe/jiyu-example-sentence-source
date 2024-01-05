@@ -1,5 +1,7 @@
 # 胆敢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangan_2.md)
+
 <p><span class="chinese">有什么人胆敢数清他们？</span><span class="english">What man dares count them?</span></p>
 
 <p><span class="chinese">你胆敢偷我的花！</span><span class="english">How dare you steal my flowers!</span></p>

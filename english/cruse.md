@@ -1,5 +1,7 @@
 # cruse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruse.md)
+
 <p><span class="chinese">克鲁斯博士道出了一个自相矛盾的现象。</span><span class="english">Dr. Cruse said that creates a paradox.</span></p>
 
 <p><span class="chinese">他起来，发现了一块饼和一壶水。</span><span class="english">He arose and found a cake and a cruse of water.</span></p>

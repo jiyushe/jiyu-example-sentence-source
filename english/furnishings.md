@@ -1,5 +1,7 @@
 # furnishings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furnishings.md)
+
 <p><span class="chinese">老式风格的家具更有味道。</span><span class="english">Make vintage furnishings part of your style.</span></p>
 
 <p><span class="chinese">不同家具混搭的起居室。</span><span class="english">Detail of living room with eclectic furnishings.</span></p>

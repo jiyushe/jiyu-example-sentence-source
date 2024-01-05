@@ -1,5 +1,7 @@
 # 时评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiping.md)
+
 <p><span class="chinese">时评是当今中国最热门的文体，对当代社会影响甚大。</span><span class="english">As the hottest writing style, news review has a great influence on the current society.</span></p>
 
 <p><span class="chinese">本文分四个章节对抗战时期的“时评”作了一个基本评价和概括。</span><span class="english">Four chapters are arranged as following to give the fundamental evaluation and description on "PWS".</span></p>

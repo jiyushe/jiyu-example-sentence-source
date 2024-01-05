@@ -1,5 +1,7 @@
 # 反照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhao.md)
+
 <p><span class="chinese">带上一载电缆连上数字单反照相机。</span><span class="english">Bring a cable release and a digital SLR camera.</span></p>
 
 <p><span class="chinese">气候中地表反照率反馈影响。</span><span class="english">The Role of Surface Albedo Feedback in Climate.</span></p>

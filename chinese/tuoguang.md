@@ -1,5 +1,7 @@
 # 脱光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoguang.md)
+
 <p><span class="chinese">来吧，我会脱光的。</span><span class="english">Come and I'll peel off.</span></p>
 
 <p><span class="chinese">呵呵，我还没有脱光你的衣服呢！</span><span class="english">Oh, I do not do your clothes off!</span></p>

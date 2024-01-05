@@ -1,5 +1,7 @@
 # statistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statistic.md)
+
 <p><span class="chinese">我说个数据</span><span class="english">And throw this statistic up.</span></p>
 
 <p><span class="chinese">这是一个让人望而生畏的数据。</span><span class="english">That is a daunting enough statistic.</span></p>

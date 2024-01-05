@@ -1,5 +1,7 @@
 # graf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graf.md)
+
 <p><span class="chinese">“油类产品在这个年龄段的使用急剧下降，”格拉芙说道。</span><span class="english">"Oil production drops dramatically at this age, " says Graf.</span></p>
 
 <p><span class="chinese">格拉夫的狭窄工作室在一个重新装修过的仓库里。</span><span class="english">De Graf works in a cramped studio in a redecorated warehouse.</span></p>

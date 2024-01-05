@@ -1,5 +1,7 @@
 # 善人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanren.md)
+
 <p><span class="chinese">且看那帮善人和义士！</span><span class="english">Behold the good and just!</span></p>
 
 <p><span class="chinese">天道无亲，常与善人。</span><span class="english">It sides only with the good man.</span></p>

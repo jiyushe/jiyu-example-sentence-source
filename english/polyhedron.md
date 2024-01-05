@@ -1,5 +1,7 @@
 # polyhedron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyhedron.md)
+
 <p><span class="chinese">牌面有十个牌点的扑克牌。</span><span class="english">A polyhedron with ten faces.</span></p>
 
 <p><span class="chinese">可以说是一个多方面综合的多面体。</span><span class="english">It is like a polyhedron with many sides.</span></p>

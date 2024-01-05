@@ -1,5 +1,7 @@
 # 飘泊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaobo_1.md)
+
 <p><span class="chinese">这艘船在湖面上飘泊。</span><span class="english">The boat drifted on the lake.</span></p>
 
 <p><span class="chinese">我是飘泊的狐身。</span><span class="english">I am a lonely fox wondering solely around.</span></p>

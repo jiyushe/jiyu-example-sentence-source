@@ -1,5 +1,7 @@
 # harbin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harbin.md)
+
 <p><span class="chinese">他是哈尔滨人。</span><span class="english">He is from Harbin.</span></p>
 
 <p><span class="chinese">哈尔滨很冷。</span><span class="english">Harbin is very cold.</span></p>

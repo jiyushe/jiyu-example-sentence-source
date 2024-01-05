@@ -1,5 +1,7 @@
 # 星星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxing_3.md)
+
 <p><span class="chinese">我看见那颗星星了！</span><span class="english">I see the star!</span></p>
 
 <p><span class="chinese">找回星星。</span><span class="english">Recover tde star.</span></p>

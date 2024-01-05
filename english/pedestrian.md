@@ -1,5 +1,7 @@
 # pedestrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedestrian.md)
+
 <p><span class="chinese">一个新的人行横道。</span><span class="english">A new pedestrian crossing.</span></p>
 
 <p><span class="chinese">行人倒数计时显示器?。</span><span class="english">Count-down pedestrian signal?</span></p>

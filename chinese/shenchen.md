@@ -1,5 +1,7 @@
 # 深沉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenchen.md)
+
 <p><span class="chinese">深沉的暗紫色。</span><span class="english">Deep opaque purple.</span></p>
 
 <p><span class="chinese">深沉的红洋李色泽。</span><span class="english">Deep, plum red in color.</span></p>

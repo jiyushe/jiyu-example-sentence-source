@@ -1,5 +1,7 @@
 # hydronium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydronium.md)
+
 <p><span class="chinese">可促进老人对钙离子的吸收，是预防老年人骨质松的有效营养补剂。</span><span class="english">It will help the aging to absorb Cal hydronium , and prevent osteoporosis.</span></p>
 
 <p><span class="chinese">盐酸与水相互作用形成水合氢离子和氯离子。</span><span class="english">Hydrochloric acid interacts with water to form hydronium ions and chloride ions.</span></p>

@@ -1,5 +1,7 @@
 # 引渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yindu.md)
+
 <p><span class="chinese">法国提出引渡她的申请。</span><span class="english">France has applied to extradite her.</span></p>
 
 <p><span class="chinese">第二部分——政治犯罪不引渡原则的确立。</span><span class="english">Part III-The nature of the principle.</span></p>

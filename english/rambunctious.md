@@ -1,5 +1,7 @@
 # rambunctious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rambunctious.md)
+
 <p><span class="chinese">而感情较于经济投资更难控制。</span><span class="english">But the sentiment is more rambunctious in the economical investment.</span></p>
 
 <p><span class="chinese">在贫困地区，暴力犯罪尤其猖獗。</span><span class="english">Violent crimes are especially rambunctious in under-developed areas.</span></p>

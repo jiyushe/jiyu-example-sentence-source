@@ -1,5 +1,7 @@
 # interpenetration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpenetration.md)
+
 <p><span class="chinese">为了全部而快乐相融。</span><span class="english">With joyful interpenetration for all.</span></p>
 
 <p><span class="chinese">第五点，对大脑意识的解释。</span><span class="english">Fifth one, the interpenetration of consciousness of the mind.</span></p>

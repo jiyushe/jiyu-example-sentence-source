@@ -1,5 +1,7 @@
 # inaudible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaudible.md)
+
 <p><span class="chinese">他喃喃地，听不清他说什么。</span><span class="english">He muttered something inaudible.</span></p>
 
 <p><span class="chinese">这个男的摔倒了，发出了一声极其微弱的呻吟。</span><span class="english">The man fell down, and let out an almost inaudible moan.</span></p>

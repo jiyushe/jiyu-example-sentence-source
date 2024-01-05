@@ -1,5 +1,7 @@
 # sima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sima.md)
+
 <p><span class="chinese">而司马樨对前尘往事俱已忘却。</span><span class="english">But Sima Xi had forgot all the past.</span></p>
 
 <p><span class="chinese">江州司马叫不醒，叫得庐山分一觥。</span><span class="english">Jiangzhou Sima not wake, scream Lushan priced Gong.</span></p>

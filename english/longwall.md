@@ -1,5 +1,7 @@
 # longwall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longwall.md)
+
 <p><span class="chinese">这是长壁开采的开始。</span><span class="english">This is the beginning of longwall mining.</span></p>
 
 <p><span class="chinese">生产的密封主要用于长壁工作面液压支架上。</span><span class="english">These seals are primarily used for Longwall Roof Supports.</span></p>

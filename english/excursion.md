@@ -1,5 +1,7 @@
 # excursion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excursion.md)
+
 <p><span class="chinese">我加入了他们的远足。</span><span class="english">I joined their excursion.</span></p>
 
 <p><span class="chinese">他有了一个充满磨砺的短途旅行。</span><span class="english">He had a painful excursion.</span></p>

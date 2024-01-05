@@ -1,5 +1,7 @@
 # 惹是生非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reshishengfei.md)
+
 <p><span class="chinese">我弟弟的脾气很暴躁，常惹是生非。</span><span class="english">My brother is ill-tempered, and always stirs up trouble.</span></p>
 
 <p><span class="chinese">他对权威的不敬使他成了一个惹是生非的刺儿头。</span><span class="english">His irreverence for authority marks him out as a troublemaker.</span></p>

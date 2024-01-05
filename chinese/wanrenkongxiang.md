@@ -1,5 +1,7 @@
 # 万人空巷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanrenkongxiang.md)
+
 <p><span class="chinese">这是全国最盛大的游行活动，而万人空巷的观看人群是其盛大规模的有力证明。</span><span class="english">It's the country's largest parade and the spectators lining the streets proved it.</span></p>
 
 <p><span class="chinese">万人空巷，叫好声不绝于耳，利物浦球迷给予香克利和他的队员无比的支持！</span><span class="english">The supporters were all cheering and showing their support for Shankly and his players.</span></p>

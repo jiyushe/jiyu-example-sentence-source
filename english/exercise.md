@@ -1,5 +1,7 @@
 # exercise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exercise.md)
+
 <p><span class="chinese">那就多运动吧！</span><span class="english">Exercise more!</span></p>
 
 <p><span class="chinese">锻炼你的爱犬。</span><span class="english">Exercise your dog.</span></p>

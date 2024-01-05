@@ -1,5 +1,7 @@
 # 石材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicai.md)
+
 <p><span class="chinese">建筑石材业。</span><span class="english">Building stone industry.</span></p>
 
 <p><span class="chinese">是石材行业的好火伴。</span><span class="english">It is stone industry's good partners.</span></p>

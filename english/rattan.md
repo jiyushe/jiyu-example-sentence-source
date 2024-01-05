@@ -1,5 +1,7 @@
 # rattan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rattan.md)
+
 <p><span class="chinese">他们正将一堆藤椅搬走。</span><span class="english">They were unpiling the rattan chairs.</span></p>
 
 <p><span class="chinese">一张中国五、六十年代的老式藤椅。</span><span class="english">Chinese old rattan chair in fifties and sixties age.</span></p>

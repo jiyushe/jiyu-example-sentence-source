@@ -1,5 +1,7 @@
 # 反应堆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyingdui.md)
+
 <p><span class="chinese">反应堆大厅。</span><span class="english">The reactor hall.</span></p>
 
 <p><span class="chinese">这是一个压力排管式的反应堆。</span><span class="english">It's a calandria type reactor.</span></p>

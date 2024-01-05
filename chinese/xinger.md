@@ -1,5 +1,7 @@
 # 幸而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinger.md)
+
 <p><span class="chinese">但是他的精神并不因这种种不幸而松懈。</span><span class="english">But his spirit was unstrung by his misfortunes.</span></p>
 
 <p><span class="chinese">幸而天无绝人之路——她的妈妈最终痊愈了。</span><span class="english">Forgot to say, her mother recovered in the end.</span></p>

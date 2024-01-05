@@ -1,5 +1,7 @@
 # 土鳖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tubie.md)
+
 <p><span class="chinese">土鳖还实行不公平的贸易政策。</span><span class="english">It engages in unfair trade practices.</span></p>
 
 <p><span class="chinese">你将成为地窖里的一只土鳖。</span><span class="english">You will be a wood-louse in a cellar.</span></p>

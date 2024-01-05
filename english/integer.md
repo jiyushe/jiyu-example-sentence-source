@@ -1,5 +1,7 @@
 # integer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integer.md)
+
 <p><span class="chinese">这是整数的除法。</span><span class="english">It's doing integer division.</span></p>
 
 <p><span class="chinese">所以我想要一个整型数。</span><span class="english">So I'd like an integer please.</span></p>

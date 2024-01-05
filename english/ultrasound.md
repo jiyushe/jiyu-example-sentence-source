@@ -1,5 +1,7 @@
 # ultrasound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrasound.md)
+
 <p><span class="chinese">她也做了超声波检查。</span><span class="english">She also had an ultrasound.</span></p>
 
 <p><span class="chinese">超声和未来的人工流产。</span><span class="english">Ultrasound and the future of abortion.</span></p>

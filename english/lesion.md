@@ -1,5 +1,7 @@
 # lesion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lesion.md)
+
 <p><span class="chinese">我有神经损伤。</span><span class="english">I got a neuroanatomic lesion.</span></p>
 
 <p><span class="chinese">病灶强化，室管膜不强化。</span><span class="english">C. Lesion enhances, ependyma does not.</span></p>

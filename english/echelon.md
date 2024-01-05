@@ -1,5 +1,7 @@
 # echelon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/echelon.md)
+
 <p><span class="chinese">美国可能减少对第三梯队的国家的援助。</span><span class="english">To arrange or take place in an echelon.</span></p>
 
 <p><span class="chinese">我很伤心，但是我不能连累梯队。</span><span class="english">I am very sad, but I can not incriminate echelon.</span></p>

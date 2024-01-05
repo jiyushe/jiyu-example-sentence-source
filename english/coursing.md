@@ -1,5 +1,7 @@
 # coursing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coursing.md)
+
 <p><span class="chinese">行深般若波罗蜜多时</span><span class="english">Was coursing in the deep Prajna Paramita</span></p>
 
 <p><span class="chinese">行深般若波罗蜜多时。</span><span class="english">Was coursing in the deep Prajna Paramita.</span></p>

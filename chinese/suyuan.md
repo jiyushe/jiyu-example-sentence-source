@@ -1,5 +1,7 @@
 # 宿怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suyuan.md)
+
 <p><span class="chinese">对他们过去敌人的一切旧恨宿怨顿时涌上心头。</span><span class="english">All the old hatred for their former enemy flared up.</span></p>
 
 <p><span class="chinese">时俊为解两镇宿怨，毅然答应。</span><span class="english">Million Shijun for solutions, resolutely promised two town antipathy.</span></p>

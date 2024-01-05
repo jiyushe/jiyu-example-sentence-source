@@ -1,5 +1,7 @@
 # perforation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perforation.md)
+
 <p><span class="chinese">网孔规格尺寸16和32是穿孔筒。</span><span class="english">Mesh sizes 16 and 32 are perforation cartridges.</span></p>
 
 <p><span class="chinese">机理是管涌和穿透。</span><span class="english">Penetration attributes to piping and perforation.</span></p>

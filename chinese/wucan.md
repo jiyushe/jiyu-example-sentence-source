@@ -1,5 +1,7 @@
 # 午餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wucan.md)
+
 <p><span class="chinese">在午餐时间。</span><span class="english">At lunchtime.</span></p>
 
 <p><span class="chinese">午餐是我付的账。</span><span class="english">I bought the lunch.</span></p>

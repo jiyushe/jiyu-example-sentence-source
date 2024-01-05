@@ -1,5 +1,7 @@
 # influencing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/influencing.md)
+
 <p><span class="chinese">为了实现这个目的你需要拥有一些影响技巧。</span><span class="english">For this you need to have some influencing skills.</span></p>
 
 <p><span class="chinese">从善如流的心灵影响力人物。</span><span class="english">He is a soul influencing person who is always kind.</span></p>

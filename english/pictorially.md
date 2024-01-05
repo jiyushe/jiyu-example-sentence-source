@@ -1,5 +1,7 @@
 # pictorially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pictorially.md)
+
 <p><span class="chinese">下面的图生动地展示了这一流程。</span><span class="english">The figure below shows this same flow pictorially.</span></p>
 
 <p><span class="chinese">这是一则充满活力、画面精美、现代感十足的广告。</span><span class="english">This pictorially exquisite advertisement is brimming with vitality and modernity.</span></p>

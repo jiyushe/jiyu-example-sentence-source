@@ -1,5 +1,7 @@
 # instigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instigate.md)
+
 <p><span class="chinese">但是它产生了政治化的社会力量，并且能够发动起政治变革。</span><span class="english">But it politicizedand generated social power that can instigate political change.</span></p>
 
 <p><span class="chinese">你觉得香港人有冇责任推动中国既经济发展？</span><span class="english">Do you think Hong Kong people have a responsibility to instigate economic development in China?</span></p>

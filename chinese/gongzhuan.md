@@ -1,5 +1,7 @@
 # 公转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhuan.md)
+
 <p><span class="chinese">好吧，这全都归结于地球沿着轨道绕太阳公转。</span><span class="english">Well, it's all down to the Earth's orbit around the sun.</span></p>
 
 <p><span class="chinese">地球绕地轴自转的方向和它绕太阳公转的一样。</span><span class="english">The earth spins around on its axis as it travels around the sun.</span></p>

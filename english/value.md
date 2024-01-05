@@ -1,5 +1,7 @@
 # value 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/value.md)
+
 <p><span class="chinese">那个值。</span><span class="english">That value.</span></p>
 
 <p><span class="chinese">牌的分值。</span><span class="english">Value of Cards.</span></p>

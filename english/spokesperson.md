@@ -1,5 +1,7 @@
 # spokesperson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spokesperson.md)
+
 <p><span class="chinese">梁洛施发言人表示无可奉告。</span><span class="english">Leong's spokesperson refused to comment.</span></p>
 
 <p><span class="chinese">Zynga的发言人拒绝置评。</span><span class="english">A Zynga spokesperson declined to comment.</span></p>

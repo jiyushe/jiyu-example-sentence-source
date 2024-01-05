@@ -1,5 +1,7 @@
 # unsuccessful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsuccessful.md)
+
 <p><span class="chinese">这个布道也没取得一点成功。</span><span class="english">The sermons were entirely unsuccessful.</span></p>
 
 <p><span class="chinese">母熊最终没能捕猎成功。</span><span class="english">The bear's hunt was ultimately unsuccessful.</span></p>

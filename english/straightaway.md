@@ -1,5 +1,7 @@
 # straightaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straightaway.md)
+
 <p><span class="chinese">她马上想起我对她说过的话。</span><span class="english">She remembered straightaway what I had said.</span></p>
 
 <p><span class="chinese">想向英语通的专家请教英语问题吗？</span><span class="english">Want to ask a question straightaway to our experts?</span></p>

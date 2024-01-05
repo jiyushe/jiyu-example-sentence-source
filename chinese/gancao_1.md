@@ -1,5 +1,7 @@
 # 甘草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gancao_1.md)
+
 <p><span class="chinese">埃及人还发明了甘草精。</span><span class="english">The Egyptians also invented licorice.</span></p>
 
 <p><span class="chinese">绿豆，薏苡仁，甘草，西谷米。</span><span class="english">Green Bean, Coix Seed, sweet root, sago.</span></p>

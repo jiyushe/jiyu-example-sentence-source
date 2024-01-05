@@ -1,5 +1,7 @@
 # 舞女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wunv_1.md)
+
 <p><span class="chinese">我曾找过情妇，比如赛林娜，那个法国舞女。</span><span class="english">I tried taking mistresses, like , the French dancer.</span></p>
 
 <p><span class="chinese">出现在他面前的是一个漂亮的穿得很少舞女。</span><span class="english">Standing before him is a gorgeous scantily-clad showgirl.</span></p>

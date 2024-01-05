@@ -1,5 +1,7 @@
 # 病势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingshi_1.md)
+
 <p><span class="chinese">我不认为他的病势会更坏的。</span><span class="english">I don't think his condition can be worse.</span></p>
 
 <p><span class="chinese">病势加剧。</span><span class="english">The patient's condition is getting worse.</span></p>

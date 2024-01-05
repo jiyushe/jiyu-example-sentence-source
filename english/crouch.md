@@ -1,5 +1,7 @@
 # crouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crouch.md)
+
 <p><span class="chinese">难道我们理应蜷伏在他们的墓穴上。</span><span class="english">And shall we crouch above these graves.</span></p>
 
 <p><span class="chinese">弯下你的头颈去接受人们的救济。</span><span class="english">Crouch low thy neck to eleemosynary gifts.</span></p>

@@ -1,5 +1,7 @@
 # tarragon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarragon.md)
+
 <p><span class="chinese">意大利香肠，菠菜洋葱，白豆，苹果，龙蒿汁。</span><span class="english">Salami, spanish onion, white beans, apple, tarragon dressing.</span></p>
 
 <p><span class="chinese">意大利香肠，菠菜洋葱，白豆，苹果，龙蒿汁。</span><span class="english">Salami, spanish onion, whellote beans, apple, tarragon dressing.</span></p>

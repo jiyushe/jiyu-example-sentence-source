@@ -1,5 +1,7 @@
 # 前额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiane.md)
+
 <p><span class="chinese">他的前额流血了。</span><span class="english">His forehead bleeds.</span></p>
 
 <p><span class="chinese">眉头一皱使他的前额出现很多皱纹。</span><span class="english">A frown creased his forehead.</span></p>

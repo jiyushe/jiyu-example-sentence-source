@@ -1,5 +1,7 @@
 # mikado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mikado.md)
+
 <p><span class="chinese">日本天皇的权利是象征性的。</span><span class="english">The power of Mikado in Japan is symbolic.</span></p>
 
 <p><span class="chinese">米卡多和田场在千叶能够获得更好的教育。</span><span class="english">Mikado and Tensei can get better educations in Chiba.</span></p>

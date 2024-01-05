@@ -1,5 +1,7 @@
 # 到位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daowei.md)
+
 <p><span class="chinese">目前，准备工作已经到位。</span><span class="english">All the preparation work is done.</span></p>
 
 <p><span class="chinese">将除冰设备移动到位。</span><span class="english">Put mobile equipment in position.</span></p>

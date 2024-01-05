@@ -1,5 +1,7 @@
 # 白昼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhou.md)
+
 <p><span class="chinese">白昼，黑夜，时间。</span><span class="english">No day, no night, no moment.</span></p>
 
 <p><span class="chinese">白昼来自于黑魆空间。</span><span class="english">Daylight came from in the night.</span></p>

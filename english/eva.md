@@ -1,5 +1,7 @@
 # eva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eva.md)
+
 <p><span class="chinese">伊娃,加油</span><span class="english">Go, Eva. Go.</span></p>
 
 <p><span class="chinese">伊娃·夕瑟,请上来</span><span class="english">Eva Heater, come on up.</span></p>

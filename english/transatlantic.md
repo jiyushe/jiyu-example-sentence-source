@@ -1,5 +1,7 @@
 # transatlantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transatlantic.md)
+
 <p><span class="chinese">大象Jumbo——大西洋两岸关系之殇</span><span class="english">Jumbo the elephant, scourge of transatlantic relations</span></p>
 
 <p><span class="chinese">我们毕竟既是一个跨大西洋大国，也是一个跨太平洋大国。</span><span class="english">We are, after all, both a transatlantic and a transpacific power.</span></p>

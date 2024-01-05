@@ -1,5 +1,7 @@
 # insofar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insofar.md)
+
 <p><span class="chinese">它已经发生了变化，严格说来华尔街已不复存在。</span><span class="english">It already has changed insofar as Wall Street proper no longer exists.</span></p>
 
 <p><span class="chinese">现在显然地，空无一物存在，就他们所说的存在而言。</span><span class="english">Now it is obvious that nothing is, if not insofar as it is said that it is.</span></p>

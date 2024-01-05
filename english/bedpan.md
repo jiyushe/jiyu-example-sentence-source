@@ -1,5 +1,7 @@
 # bedpan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedpan.md)
+
 <p><span class="chinese">巴姨，我来取那个便盆。</span><span class="english">Bai, I’ve come for the bedpan.</span></p>
 
 <p><span class="chinese">你要不要用便盆?。</span><span class="english">Would you like to use the bedpan?</span></p>

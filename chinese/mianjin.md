@@ -1,5 +1,7 @@
 # 面筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianjin.md)
+
 <p><span class="chinese">面筋，不论是否干制。</span><span class="english">Wheat gluten, whether or not dried.</span></p>
 
 <p><span class="chinese">无果油，面筋，大豆，燕麦或奶制品。</span><span class="english">No nut oils, gluten, soy, oat or dairy.</span></p>

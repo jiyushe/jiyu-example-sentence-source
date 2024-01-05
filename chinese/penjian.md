@@ -1,5 +1,7 @@
 # 喷溅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penjian.md)
+
 <p><span class="chinese">现在我们再来添加一些喷溅。</span><span class="english">Now we add the splashes again.</span></p>
 
 <p><span class="chinese">阀门定期从排气口喷溅。</span><span class="english">A. Valve spits periodically from the vent.</span></p>

@@ -1,5 +1,7 @@
 # flourish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flourish.md)
+
 <p><span class="chinese">他现在又开始嘻嘻哈哈了。</span><span class="english">He'll start to flourish now.</span></p>
 
 <p><span class="chinese">花里胡哨还是朴实无华？</span><span class="english">Fancy with a flourish or plain?</span></p>

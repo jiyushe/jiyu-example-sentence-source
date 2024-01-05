@@ -1,5 +1,7 @@
 # 喧嚷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanrang.md)
+
 <p><span class="chinese">前面人声喧嚷，后面一片混乱。</span><span class="english">Uproar reigns in front, tumult behind.</span></p>
 
 <p><span class="chinese">我也要吗“？站在树上的黑色乌鸦喧嚷着。”</span><span class="english">A black crow cawed from the trees above.</span></p>

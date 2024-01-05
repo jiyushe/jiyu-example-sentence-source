@@ -1,5 +1,7 @@
 # eyeliner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeliner.md)
+
 <p><span class="chinese">我只画眼线。</span><span class="english">I just wear eyeliner.</span></p>
 
 <p><span class="chinese">我真的很喜欢眼线笔。</span><span class="english">I really like eyeliner.</span></p>

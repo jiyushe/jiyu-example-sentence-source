@@ -1,5 +1,7 @@
 # lupine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lupine.md)
+
 <p><span class="chinese">一间小屋位于哈利法克斯的一片原野上。</span><span class="english">A shed stands in a field of lupine in Halifax.</span></p>
 
 <p><span class="chinese">欧洲植物，花黄色，用于饲料。</span><span class="english">Yellow flowered European lupine cultivated for forage.</span></p>

@@ -1,5 +1,7 @@
 # 原子弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzidan.md)
+
 <p><span class="chinese">该市曾遭受过原子弹的轰炸。</span><span class="english">The city was hit by an atomic bomb.</span></p>
 
 <p><span class="chinese">他画了原子弹头模型的草图。</span><span class="english">He drafted the model of the atomic warhead.</span></p>

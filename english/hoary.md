@@ -1,5 +1,7 @@
 # hoary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoary.md)
+
 <p><span class="chinese">等候，是终生最初的苍老。</span><span class="english">Wait, is the original hoary life.</span></p>
 
 <p><span class="chinese">古老的泰山越发显得崔嵬了。</span><span class="english">Hoary Mount Tai looked more precipitous.</span></p>

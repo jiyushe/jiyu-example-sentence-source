@@ -1,5 +1,7 @@
 # 拳头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quantou.md)
+
 <p><span class="chinese">他举起拳头。</span><span class="english">He upped with his fist.</span></p>
 
 <p><span class="chinese">握紧她的拳头。</span><span class="english">Sarah clenched her fists.</span></p>

@@ -1,5 +1,7 @@
 # 不置可否
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhikefou.md)
+
 <p><span class="chinese">他咬了咬嘴唇，不置可否。</span><span class="english">He pursed his lips noncommittally.</span></p>
 
 <p><span class="chinese">我不置可否，终于明白他对我被炒鱿鱼为什么这么豁达。</span><span class="english">I fudged, finally realized that he was fired for me why so open-minded.</span></p>

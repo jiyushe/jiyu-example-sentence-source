@@ -1,5 +1,7 @@
 # 投宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tousu.md)
+
 <p><span class="chinese">我们最快尽快停车投宿。</span><span class="english">We'd better stop and rest soon.</span></p>
 
 <p><span class="chinese">夜晚投宿在一个老农家里。</span><span class="english">Stay the night at a farmer's House.</span></p>

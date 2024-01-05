@@ -1,5 +1,7 @@
 # hydrophobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrophobia.md)
+
 <p><span class="chinese">这就是所谓的狂犬病。</span><span class="english">This is called hydrophobia.</span></p>
 
 <p><span class="chinese">狂犬病是也被称为狂犬病。</span><span class="english">Rabies is also known as hydrophobia.</span></p>

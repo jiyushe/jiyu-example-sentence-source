@@ -1,5 +1,7 @@
 # bleed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleed.md)
+
 <p><span class="chinese">我牙床出血。</span><span class="english">My gums bleed.</span></p>
 
 <p><span class="chinese">你把我嘴唇弄出血了。</span><span class="english">You made my lip bleed.</span></p>

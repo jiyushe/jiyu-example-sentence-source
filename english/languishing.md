@@ -1,5 +1,7 @@
 # languishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/languishing.md)
+
 <p><span class="chinese">她苦苦思念在国外的丈夫。</span><span class="english">She is languishing for her hushand abroad.</span></p>
 
 <p><span class="chinese">一蹶不振的迈凯轮仅以42分排在第三名。</span><span class="english">McLaren are languishing in third with 42 points.</span></p>

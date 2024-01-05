@@ -1,5 +1,7 @@
 # 迈出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maichu.md)
+
 <p><span class="chinese">这是沿着正确的方向迈出的一步。</span><span class="english">And that’s a step in the right direction.</span></p>
 
 <p><span class="chinese">而今年，跟任何一年一样，都是迈出新步伐的好时机。</span><span class="english">And this year is as good as any to do that.</span></p>

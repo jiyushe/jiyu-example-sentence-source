@@ -1,5 +1,7 @@
 # personage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personage.md)
+
 <p><span class="chinese">他扮演那一角色。</span><span class="english">He played that personage.</span></p>
 
 <p><span class="chinese">确实，一个新脚色登上了舞台。</span><span class="english">In fact, a new personage had entered on the scene.</span></p>

@@ -1,5 +1,7 @@
 # gym
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gym.md)
+
 <p><span class="chinese">我们一起去健身吧？</span><span class="english">Why don't we join a gym?</span></p>
 
 <p><span class="chinese">我过去常常不喜欢体操课。</span><span class="english">I used to hate gym class.</span></p>

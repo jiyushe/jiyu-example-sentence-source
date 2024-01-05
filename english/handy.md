@@ -1,5 +1,7 @@
 # handy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handy.md)
+
 <p><span class="chinese">手边有笔吗？</span><span class="english">Got a pen handy?</span></p>
 
 <p><span class="chinese">他动手能力很强。</span><span class="english">He was very handy.</span></p>

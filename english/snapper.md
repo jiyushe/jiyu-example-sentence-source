@@ -1,5 +1,7 @@
 # snapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snapper.md)
+
 <p><span class="chinese">真鲷会不会太辣？</span><span class="english">Is the red snapper too spicy?</span></p>
 
 <p><span class="chinese">这样的话，我就点真鲷。</span><span class="english">Then I'll have the red snapper.</span></p>

@@ -1,5 +1,7 @@
 # moralization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moralization.md)
+
 <p><span class="chinese">现代性生活是否在观念上已经“除道德化”？</span><span class="english">Has the modern life been "eliminated moralization" in idea?</span></p>
 
 <p><span class="chinese">罪责教化,根据我在这所建议的诠释。</span><span class="english">So let me now develop this interpretation of the moralization of guilt.</span></p>

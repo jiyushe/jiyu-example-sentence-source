@@ -1,5 +1,7 @@
 # hedonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedonist.md)
+
 <p><span class="chinese">那是享乐主义者的观点。</span><span class="english">That's what the hedonist says.</span></p>
 
 <p><span class="chinese">享乐主义者认为我们该那样思考问题。</span><span class="english">That's how the hedonist says we should think about it.</span></p>

@@ -1,5 +1,7 @@
 # 盘根错节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangencuojie.md)
+
 <p><span class="chinese">萧条和复苏的过程是盘根错节的。</span><span class="english">The process of recession and recovery are intricately intertwined.</span></p>
 
 <p><span class="chinese">地面盘根错节，树身枝干缠绕。</span><span class="english">Their roots bulked above the ground and the branches were twisted.</span></p>

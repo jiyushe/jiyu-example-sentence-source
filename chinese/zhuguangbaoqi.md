@@ -1,5 +1,7 @@
 # 珠光宝气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuguangbaoqi.md)
+
 <p><span class="chinese">她打扮得珠光宝气。</span><span class="english">She was tricked out in jewels.</span></p>
 
 <p><span class="chinese">她一身珠光宝气出现在招待会上。</span><span class="english">She appeared at the reception with splendid jewels.</span></p>

@@ -1,5 +1,7 @@
 # expressible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressible.md)
+
 <p><span class="chinese">等量的意思是“同一数量”。</span><span class="english">Expressed or expressible as a quantity.</span></p>
 
 <p><span class="chinese">很多现实的任务就是用这种方式解决的，这也是本文所要展示的。</span><span class="english">Many real world tasks are expressible in this model, as shown in the paper.</span></p>

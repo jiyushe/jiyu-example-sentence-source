@@ -1,5 +1,7 @@
 # homage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homage.md)
+
 <p><span class="chinese">向穆法沙的死亡场景致敬？</span><span class="english">An homage to the Mufasa death scene?</span></p>
 
 <p><span class="chinese">他们站立在她的墓的周围向她默哀。</span><span class="english">They stood in silent homage round her grave.</span></p>

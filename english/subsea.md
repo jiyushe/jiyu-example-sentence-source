@@ -1,5 +1,7 @@
 # subsea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsea.md)
+
 <p><span class="chinese">下水下电视观察钻头是否进入导向基板。</span><span class="english">Run subsea TV to observe bit entering the TGB.</span></p>
 
 <p><span class="chinese">发电机产生的电力将通过海底电缆输送到海岸。</span><span class="english">The electricity produced is then sent to shore through a subsea cable.</span></p>

@@ -1,5 +1,7 @@
 # 音速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinsu.md)
+
 <p><span class="chinese">还有，这是一个音速感应器。</span><span class="english">This is a subsonic impact sensor.</span></p>
 
 <p><span class="chinese">音速小子在路上堵车了。</span><span class="english">The Sonic Youth's stuck in traffic.</span></p>

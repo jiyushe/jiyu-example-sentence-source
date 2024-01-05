@@ -1,5 +1,7 @@
 # sequential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequential.md)
+
 <p><span class="chinese">连续进行的重排是允许的。</span><span class="english">Sequential rearrangements are allowed.</span></p>
 
 <p><span class="chinese">这更像是连续处理。</span><span class="english">This is more like sequential processing.</span></p>

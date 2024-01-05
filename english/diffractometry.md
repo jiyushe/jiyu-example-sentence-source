@@ -1,5 +1,7 @@
 # diffractometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffractometry.md)
+
 <p><span class="chinese">采用X射线衍射确定薄膜物相。</span><span class="english">Phase identification is performed by X-ray diffractometry.</span></p>
 
 <p><span class="chinese">利用X射线粉晶衍射仪对不同产地的萤石矿物药进行全谱扫描。</span><span class="english">Fluorite mineral medicines from different origins were analyzed by X-ray power diffractometry.</span></p>

@@ -1,5 +1,7 @@
 # 洋芋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyu_1.md)
+
 <p><span class="chinese">我会多带一些洋芋片。</span><span class="english">I'll bring more chips.</span></p>
 
 <p><span class="chinese">现在的我喜欢吃洋芋。</span><span class="english">Now I like eating potato.</span></p>

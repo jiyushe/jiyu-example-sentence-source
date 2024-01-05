@@ -1,5 +1,7 @@
 # entamoeba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entamoeba.md)
+
 <p><span class="chinese">阿米巴原虫大概是对人最容易引起疾病的变形虫。</span><span class="english">Entamoeba histolytica is, possibly, the most pathogenic amoeba for humans.</span></p>
 
 <p><span class="chinese">目的探索侵袭内阿米巴较好的培养和保种方法。</span><span class="english">Objective To look for a better methods for culture and preservation of Entamoeba invades.</span></p>

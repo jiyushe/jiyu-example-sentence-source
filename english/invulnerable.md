@@ -1,5 +1,7 @@
 # invulnerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invulnerable.md)
+
 <p><span class="chinese">潜艇固若金汤，海上攻击打不倒。</span><span class="english">The submarine is invulnerable to attack while at sea.</span></p>
 
 <p><span class="chinese">可以说，他是混战中的一个无懈可击的侏儒。</span><span class="english">He might have been called the invulnerable dwarf of the fray.</span></p>

@@ -1,5 +1,7 @@
 # 象声词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshengci.md)
+
 <p><span class="chinese">孩子对象声词很感兴趣。</span><span class="english">Children are very interested in words the sound object.</span></p>
 
 <p><span class="chinese">说道这个象声词。我们的外教发的那个音。</span><span class="english">Words that imitate sounds are called onomatopoeic words.</span></p>

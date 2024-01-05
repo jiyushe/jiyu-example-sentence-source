@@ -1,5 +1,7 @@
 # 记者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhe.md)
+
 <p><span class="chinese">她是电视台记者。</span><span class="english">She e's a TV reporter.</span></p>
 
 <p><span class="chinese">他告诉记者，“热狗就是热狗。</span><span class="english">Hot dog is hot dog lah.</span></p>

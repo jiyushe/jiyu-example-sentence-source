@@ -1,5 +1,7 @@
 # uppercut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uppercut.md)
+
 <p><span class="chinese">有直拳和上钩拳等，多种变化。</span><span class="english">Have the straight and uppercut , many changes.</span></p>
 
 <p><span class="chinese">学习如何扔在这个免费视频对妇女的跆拳道一勾拳冲床。</span><span class="english">Learn how to throw an uppercut punch in this free video on women's kickboxing.</span></p>

@@ -1,5 +1,7 @@
 # bum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bum.md)
+
 <p><span class="chinese">我能借支烟吗？</span><span class="english">Can I bum a smoke?</span></p>
 
 <p><span class="chinese">我能向你借五块钱吗？</span><span class="english">Can I bum 5 bucks from you?</span></p>

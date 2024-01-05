@@ -1,5 +1,7 @@
 # arbitral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitral.md)
+
 <p><span class="chinese">该书面更正构成裁决书的一部分。</span><span class="english">The correction in writing forms a part of the arbitral award.</span></p>
 
 <p><span class="chinese">仲裁裁决是终局的，对双方都有约束力。</span><span class="english">The arbitral award shall be final and binding upon both parties.</span></p>

@@ -1,5 +1,7 @@
 # 天涯海角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyahaijiao.md)
+
 <p><span class="chinese">让我随你天涯海角，爱我，这是我唯一的请求。</span><span class="english">Love me -that's all I ask of you.</span></p>
 
 <p><span class="chinese">愿春风把我吹送到天涯海角。</span><span class="english">My wish is to be sent to the sea.</span></p>

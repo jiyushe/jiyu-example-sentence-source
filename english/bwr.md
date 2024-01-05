@@ -1,5 +1,7 @@
 # bwr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bwr.md)
+
 <p><span class="chinese">本文介绍了一个实用的沸水堆热工一水力模型。</span><span class="english">A practical BWR thermal-hydraulic model has been introduced.</span></p>
 
 <p><span class="chinese">所以，我们有一个，2个障碍，相比于,沸水型反应堆的一个来说。</span><span class="english">So, we have one, two, barriers as compared to a single barrier for a BWR system.</span></p>

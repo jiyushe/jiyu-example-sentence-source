@@ -1,5 +1,7 @@
 # montana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/montana.md)
+
 <p><span class="chinese">汉娜蒙塔纳不再播映了？</span><span class="english">No more Hannah Montana?</span></p>
 
 <p><span class="chinese">蒙大拿州的大角羊。</span><span class="english">Bighorn sheep in Montana.</span></p>

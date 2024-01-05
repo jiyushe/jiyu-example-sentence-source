@@ -1,5 +1,7 @@
 # option 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/option.md)
+
 <p><span class="chinese">若此，我选择后者。</span><span class="english">I'll take Option B thanks.</span></p>
 
 <p><span class="chinese">立法是一种选择。</span><span class="english">Legislation is one option.</span></p>

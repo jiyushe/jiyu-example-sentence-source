@@ -1,5 +1,7 @@
 # fanny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanny.md)
+
 <p><span class="chinese">纽约芬妮水晶首饰店。</span><span class="english">Fanny Crystal Jewelry Co. Inc.</span></p>
 
 <p><span class="chinese">范妮来见约翰·济慈。</span><span class="english">Fanny comes to meet John Keats.</span></p>

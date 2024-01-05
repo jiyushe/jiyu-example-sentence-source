@@ -1,5 +1,7 @@
 # debrief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debrief.md)
+
 <p><span class="chinese">我在比赛之后将听取报告你。</span><span class="english">I'll debrief you after the game.</span></p>
 
 <p><span class="chinese">当他们听取你的汇报时，那就是你要讲述的故事。</span><span class="english">When they debrief you, that's the story you'll tell.</span></p>

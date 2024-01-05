@@ -1,5 +1,7 @@
 # 私宅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhai.md)
+
 <p><span class="chinese">“总蒜有了私宅，不错的一块地产，”博古特说。</span><span class="english">"I have a house nice property" Bogut said.</span></p>
 
 <p><span class="chinese">总算有了私宅，不错的一块地产，博古特说。</span><span class="english">"I have a house, nice property, " Bogut said.</span></p>

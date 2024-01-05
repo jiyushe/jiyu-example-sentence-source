@@ -1,5 +1,7 @@
 # photic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photic.md)
+
 <p><span class="chinese">海洋植物多半只能生活在透光层里。</span><span class="english">Most marine plants can live only in the photic zone.</span></p>
 
 <p><span class="chinese">目的建立大鼠视网膜光损伤模型。</span><span class="english">Objective To establish retinal photic injury model of rat.</span></p>

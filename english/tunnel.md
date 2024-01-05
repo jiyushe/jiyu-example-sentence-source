@@ -1,5 +1,7 @@
 # tunnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tunnel.md)
+
 <p><span class="chinese">尽管修通了隧道。</span><span class="english">Despite the new tunnel.</span></p>
 
 <p><span class="chinese">它一定通到这条隧道之上了。</span><span class="english">It must open onto a tunnel.</span></p>

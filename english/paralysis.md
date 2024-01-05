@@ -1,5 +1,7 @@
 # paralysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralysis.md)
+
 <p><span class="chinese">喜欢瘫痪和病魔缠身的题材？</span><span class="english">Prefer paralysis and disease?</span></p>
 
 <p><span class="chinese">更少的恐惧造成更少的麻痹。</span><span class="english">Less fear makes paralysis less likely.</span></p>

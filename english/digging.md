@@ -1,5 +1,7 @@
 # digging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digging.md)
+
 <p><span class="chinese">我爹在挖土。</span><span class="english">My father, digging.</span></p>
 
 <p><span class="chinese">于是我开始挖掘真相。</span><span class="english">So I began digging around.</span></p>

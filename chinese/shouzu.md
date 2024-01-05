@@ -1,5 +1,7 @@
 # 手足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzu.md)
+
 <p><span class="chinese">我们如同手足兄弟。</span><span class="english">We were like brothers.</span></p>
 
 <p><span class="chinese">他和他兄弟情如手足。</span><span class="english">Both hands and feet are bent.</span></p>

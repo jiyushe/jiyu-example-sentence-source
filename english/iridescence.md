@@ -1,5 +1,7 @@
 # iridescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iridescence.md)
+
 <p><span class="chinese">你可以看到他们脸上的彩虹色。</span><span class="english">You can see the iridescence on their faces.</span></p>
 
 <p><span class="chinese">彩虹色斑点是近年来发现存在于肉及肉制品中的一种非正常颜色。</span><span class="english">Iridescence was considered as a special color on meat and meat products.</span></p>

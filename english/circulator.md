@@ -1,5 +1,7 @@
 # circulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circulator.md)
+
 <p><span class="chinese">样品温度是由一个流动的循环器来控制的。</span><span class="english">The sample temperature is controlled with a fluid circulator.</span></p>
 
 <p><span class="chinese">本文论述了大功率环行器驱动电路的设计理论。</span><span class="english">The design theory of driver circuit of large power circulator is discussed.</span></p>

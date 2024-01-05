@@ -1,5 +1,7 @@
 # lockstitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lockstitch.md)
+
 <p><span class="chinese">介绍了一种用于电脑全自动工业平缝机的永磁交流伺服电机及其控制系统。</span><span class="english">Permanent AC servo motor control system of lockstitch sewing machine is introduced.</span></p>
 
 <p><span class="chinese">适用于薄料、中厚度料的双线锁式线缝缝纫。</span><span class="english">It is suitable for double thread lockstitch sewing of light or medium weight material.</span></p>

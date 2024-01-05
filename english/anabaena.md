@@ -1,5 +1,7 @@
 # anabaena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anabaena.md)
+
 <p><span class="chinese">通过凝聚、细胞裂解和生物降解作用能有效去除鱼腥藻细胞。</span><span class="english">It can effectively remove Anabaena by coagulation, cell lysis and biodegradation.</span></p>
 
 <p><span class="chinese">以水华鱼腥藻为材料研究了6种氨基甲酸酯类农药对藻类的毒性效应。</span><span class="english">The toxicity effect of 6 carbamic ester pesticides on Anabaena flos-aquae was studied.</span></p>

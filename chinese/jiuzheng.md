@@ -1,5 +1,7 @@
 # 就正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzheng.md)
+
 <p><span class="chinese">你的生活现在就正发生着什么。</span><span class="english">Your life is happening now.</span></p>
 
 <p><span class="chinese">在中国，80后出生的似乎就正处于这样一个浪子状态。</span><span class="english">In China, people born in 1980s are just rollin' stones.</span></p>

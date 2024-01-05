@@ -1,5 +1,7 @@
 # 文艺批评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyipiping.md)
+
 <p><span class="chinese">文学著作和文艺批评。</span><span class="english">Literary works and literary criticism.</span></p>
 
 <p><span class="chinese">主张文艺批评也是创作。</span><span class="english">Proposing that artistic commentary is also artistic creation.</span></p>

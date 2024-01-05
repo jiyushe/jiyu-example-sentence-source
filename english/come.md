@@ -1,5 +1,7 @@
 # come
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/come.md)
+
 <p><span class="chinese">来看阿嬷！</span><span class="english">Come see her.</span></p>
 
 <p><span class="chinese">婊子来啊！</span><span class="english">Come on bitch!</span></p>

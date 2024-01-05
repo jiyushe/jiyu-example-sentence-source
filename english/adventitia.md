@@ -1,5 +1,7 @@
 # adventitia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventitia.md)
+
 <p><span class="chinese">取大鼠主动脉，分离血管内膜、中膜和外膜。</span><span class="english">The intima, media and adventitia were separated from aorta.</span></p>
 
 <p><span class="chinese">曲张组肥大细胞外膜、中膜、内膜少量散在分布。</span><span class="english">Varicose group of intima and media, adventitia few scattered mast cells.</span></p>

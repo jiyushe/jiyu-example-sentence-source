@@ -1,5 +1,7 @@
 # 茫无头绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangwutouxu.md)
+
 <p><span class="chinese">在国家党治下，我们正茫无头绪地漂流。</span><span class="english">Under National we are drifting without a plan.</span></p>
 
 <p><span class="chinese">修行的道路其实是茫无头绪的。</span><span class="english">As a matter of fact, the way of practice is vague.</span></p>

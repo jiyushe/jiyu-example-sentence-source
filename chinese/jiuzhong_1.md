@@ -1,5 +1,7 @@
 # 就中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzhong_1.md)
+
 <p><span class="chinese">但是诗人多薄命，就中沦落不过君。</span><span class="english">But the poet more lives, medium, but Jun.</span></p>
 
 <p><span class="chinese">他于是关上电门，说话声音就中断了。</span><span class="english">Then he turned a switch and the voices stopped.</span></p>

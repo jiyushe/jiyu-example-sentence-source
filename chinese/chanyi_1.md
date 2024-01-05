@@ -1,5 +1,7 @@
 # 蝉翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyi_1.md)
+
 <p><span class="chinese">她穿著一件白色蝉翼纱上衣。</span><span class="english">She wore a white organdy blouse.</span></p>
 
 <p><span class="chinese">她穿着一件薄如蝉翼的绸服。</span><span class="english">She was wearing a dress of diaphanous silk.</span></p>

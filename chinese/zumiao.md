@@ -1,5 +1,7 @@
 # 祖庙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zumiao.md)
+
 <p><span class="chinese">又名吕祖庙。</span><span class="english">Also Minglv Zu Temple.</span></p>
 
 <p><span class="chinese">佛山的祖庙，你或许可以去看一看。</span><span class="english">Maybe you can have a look at Zu Temple in Foshan.</span></p>

@@ -1,5 +1,7 @@
 # 主讲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujiang_1.md)
+
 <p><span class="chinese">李嗣贵牧师用国语主讲。</span><span class="english">Preached by pastor milton lee using mandarin.</span></p>
 
 <p><span class="chinese">黄燊权长老用粤语主讲。</span><span class="english">Preached by Elder Milton Hwang using Cantonese.</span></p>

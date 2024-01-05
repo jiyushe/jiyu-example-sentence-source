@@ -1,5 +1,7 @@
 # arthrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthrosis.md)
+
 <p><span class="chinese">如果单纯MRI足以评估小关节突性关节炎，我们可以确诊。</span><span class="english">We sought to determine if the MRI alone is adequate to assess for the presence of facet arthrosis.</span></p>
 
 <p><span class="chinese">四足机器人爬行控制的关键是机器人稳定性的判断、步态的选择和关节位置姿态的确定。</span><span class="english">The key of quadruped robot walking control is stability, choice of gait and location and gesture of arthrosis.</span></p>

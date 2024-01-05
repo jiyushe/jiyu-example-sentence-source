@@ -1,5 +1,7 @@
 # serum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serum.md)
+
 <p><span class="chinese">血清胆红素是高的。</span><span class="english">Serum bilirubin levels are elevated.</span></p>
 
 <p><span class="chinese">治疗前后尿游离轻链水平变化不明显。</span><span class="english">The serum free light chain levels reduced.</span></p>

@@ -1,5 +1,7 @@
 # fail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fail.md)
+
 <p><span class="chinese">有负于她。</span><span class="english">Fail her.</span></p>
 
 <p><span class="chinese">我们都会失败。</span><span class="english">We all fail.</span></p>

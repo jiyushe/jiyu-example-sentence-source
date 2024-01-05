@@ -1,5 +1,7 @@
 # peripherally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peripherally.md)
+
 <p><span class="chinese">银行只是周边的参与者。</span><span class="english">Banks are only peripherally involved.</span></p>
 
 <p><span class="chinese">血流量会减少，视力失败外围第一。</span><span class="english">As blood flow diminishes, vision fails peripherally first.</span></p>

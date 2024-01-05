@@ -1,5 +1,7 @@
 # 生料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengliao.md)
+
 <p><span class="chinese">耐磨的外底回收再生料和天然树胶。</span><span class="english">Durable outsole of recycled regrind and natural gum.</span></p>
 
 <p><span class="chinese">生料带是一种新颖理想的密封材料。</span><span class="english">Raw material belt is a novel ideal sealing material.</span></p>

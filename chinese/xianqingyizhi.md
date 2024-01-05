@@ -1,5 +1,7 @@
 # 闲情逸致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqingyizhi.md)
+
 <p><span class="chinese">你倒闲情逸致到中国旅游！</span><span class="english">You're so relaxing making tourism to China!</span></p>
 
 <p><span class="chinese">本周日，你会有闲情逸致做些大胆的发现。</span><span class="english">This Sunday, set your thoughts free and make a bold discovery.</span></p>

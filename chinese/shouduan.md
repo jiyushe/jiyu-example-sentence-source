@@ -1,5 +1,7 @@
 # 手段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouduan.md)
+
 <p><span class="chinese">这是一种很利害的手段。</span><span class="english">This is a formidable move.</span></p>
 
 <p><span class="chinese">他以非法手段弄钱。</span><span class="english">He got the money illegally.</span></p>

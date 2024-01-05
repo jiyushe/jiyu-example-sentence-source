@@ -1,5 +1,7 @@
 # aquiline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquiline.md)
+
 <p><span class="chinese">该名男子有强大和鹰鼻子。</span><span class="english">The man has a strong and aquiline nose.</span></p>
 
 <p><span class="chinese">他拥有鹰钩鼻和深邃的棕色眼睛。</span><span class="english">He had a aquiline nose and deep-set brown eyes.</span></p>

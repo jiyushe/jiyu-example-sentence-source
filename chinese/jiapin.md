@@ -1,5 +1,7 @@
 # 佳品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiapin.md)
+
 <p><span class="chinese">精美的壁画，堪称绝代佳品。</span><span class="english">Exquisite frescos , can Jiapin peerless.</span></p>
 
 <p><span class="chinese">当然它也是出门在外馈赠之佳品。</span><span class="english">Of course, it is also out gift of taste.</span></p>

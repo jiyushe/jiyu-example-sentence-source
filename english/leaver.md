@@ -1,5 +1,7 @@
 # leaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaver.md)
+
 <p><span class="chinese">如我所料，今天离开的是谈。</span><span class="english">As expected, Tan is the leaver today.</span></p>
 
 <p><span class="chinese">行动时果实，言语只是叶子。</span><span class="english">Deeds are fruits, words are but leaver.</span></p>

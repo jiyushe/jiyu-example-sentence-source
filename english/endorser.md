@@ -1,5 +1,7 @@
 # endorser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endorser.md)
+
 <p><span class="chinese">你知不知道他的转让人将是谁？</span><span class="english">Do you know who is to be his endorser?</span></p>
 
 <p><span class="chinese">从品牌转让人到夏洛特山猫队的老板。</span><span class="english">From product endorser to Charlotte team executive.</span></p>

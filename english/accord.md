@@ -1,5 +1,7 @@
 # accord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accord.md)
+
 <p><span class="chinese">它能自发进行吗？</span><span class="english">Does it happen of its own accord?</span></p>
 
 <p><span class="chinese">他的言行一致。</span><span class="english">His actions accord with his words.</span></p>

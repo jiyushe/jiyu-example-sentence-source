@@ -1,5 +1,7 @@
 # misshapen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misshapen.md)
+
 <p><span class="chinese">他的膝盖有点正常，也不能动。</span><span class="english">His knee is misshapen or unequipped to move.</span></p>
 
 <p><span class="chinese">吸烟会导致精子畸形和移动缓慢。</span><span class="english">Smoking can cause sperm to be misshapen and move slowly.</span></p>

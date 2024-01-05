@@ -1,5 +1,7 @@
 # lutheran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lutheran.md)
+
 <p><span class="chinese">占统治地位的宗教是路德教会。</span><span class="english">The predominant religion is Lutheran.</span></p>
 
 <p><span class="chinese">我现在是我所在的路德教堂的副会长。</span><span class="english">I'm now the vice president of my Lutheran church.</span></p>

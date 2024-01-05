@@ -1,5 +1,7 @@
 # posture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posture.md)
+
 <p><span class="chinese">轻盈的是你的体态。</span><span class="english">Your posture acts airily.</span></p>
 
 <p><span class="chinese">同样，你的姿势是关键。</span><span class="english">Also, your posture is key.</span></p>

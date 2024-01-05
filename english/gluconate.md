@@ -1,5 +1,7 @@
 # gluconate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gluconate.md)
+
 <p><span class="chinese">分别用葡萄糖酸钠或醋酸钠作为缓冲液。</span><span class="english">Sodium gluconate or acetate buffer were selected as buffer.</span></p>
 
 <p><span class="chinese">应该考虑使用喷雾葡萄糖酸钙。</span><span class="english">Administration of nebulized calcium gluconate should be considered.</span></p>

@@ -1,5 +1,7 @@
 # 病房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfang.md)
+
 <p><span class="chinese">慈恩医院，218号病房。</span><span class="english">Mercy Hospital. Room 218.</span></p>
 
 <p><span class="chinese">他住在外科病房。</span><span class="english">He is in the surgical ward.</span></p>

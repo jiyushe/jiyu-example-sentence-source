@@ -1,5 +1,7 @@
 # 煎饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbing_2.md)
+
 <p><span class="chinese">你炒菜，煎饼都用炒菜锅。</span><span class="english">You're a wok user.</span></p>
 
 <p><span class="chinese">煎饼是什么东西？</span><span class="english">What's a flapjack ?</span></p>

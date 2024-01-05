@@ -1,5 +1,7 @@
 # meant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meant.md)
+
 <p><span class="chinese">我明白她的意思。</span><span class="english">I knew what she meant.</span></p>
 
 <p><span class="chinese">我另有所指。</span><span class="english">I meant something else.</span></p>

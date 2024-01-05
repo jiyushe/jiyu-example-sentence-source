@@ -1,5 +1,7 @@
 # 何首乌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshouwu.md)
+
 <p><span class="chinese">何首乌让头发变黑还是变白?。</span><span class="english">Does Fleece-Flower Turn Hair Black or Gray?</span></p>
 
 <p><span class="chinese">目的优化黑豆汁炖何首乌炮制工艺。</span><span class="english">ObjectiveTo optimize the technologies of processing in Heshouwu braised.</span></p>

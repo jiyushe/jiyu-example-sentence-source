@@ -1,5 +1,7 @@
 # absorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorption.md)
+
 <p><span class="chinese">甘露醇口服吸收很少。</span><span class="english">Little oral absorption of mannitol.</span></p>
 
 <p><span class="chinese">安静，吸收。</span><span class="english">Quietness and absorption bring the dew.</span></p>

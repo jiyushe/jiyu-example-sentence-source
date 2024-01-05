@@ -1,5 +1,7 @@
 # 变化多端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuaduoduan.md)
+
 <p><span class="chinese">他已经习惯了她变化多端的情绪了。</span><span class="english">He has got used to her varying moods.</span></p>
 
 <p><span class="chinese">各文本定位或变化多端。</span><span class="english">All texts are localizable or changeable.</span></p>

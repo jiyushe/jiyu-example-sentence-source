@@ -1,5 +1,7 @@
 # 年底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niandi.md)
+
 <p><span class="chinese">到年底会怎样？</span><span class="english">At the end of the year?</span></p>
 
 <p><span class="chinese">到了1961年年底，我们订了一个完成日期。</span><span class="english">By late 1961, we had a target date.</span></p>

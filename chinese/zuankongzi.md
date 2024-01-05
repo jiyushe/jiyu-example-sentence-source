@@ -1,5 +1,7 @@
 # 钻空子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuankongzi.md)
+
 <p><span class="chinese">法律就是用来钻空子的。</span><span class="english">Laws are made to be broken.</span></p>
 
 <p><span class="chinese">第二，新的资本准则必须让银行很难钻空子。</span><span class="english">Second, the new capital regime must be harder to game.</span></p>

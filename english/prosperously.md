@@ -1,5 +1,7 @@
 # prosperously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosperously.md)
+
 <p><span class="chinese">新时期是我国戏曲繁荣发展的阶段。</span><span class="english">In New Era, traditional opera develops prosperously in our country.</span></p>
 
 <p><span class="chinese">唐朝是我国封建经济繁荣发展的时期。</span><span class="english">The Tang Dynasty is a period in which Chinese feudal economy developed prosperously.</span></p>

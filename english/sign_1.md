@@ -1,5 +1,7 @@
 # sign 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sign_1.md)
+
 <p><span class="chinese">签这张支票。</span><span class="english">Sign the check.</span></p>
 
 <p><span class="chinese">我应在哪里签名？</span><span class="english">Where can I sign?</span></p>

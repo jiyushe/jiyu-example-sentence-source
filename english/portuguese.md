@@ -1,5 +1,7 @@
 # portuguese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portuguese.md)
+
 <p><span class="chinese">你会葡文吗？</span><span class="english">Do you know Portuguese?</span></p>
 
 <p><span class="chinese">大多数利斯塔消息在葡萄牙语。</span><span class="english">Most Lista messages are in Portuguese.</span></p>

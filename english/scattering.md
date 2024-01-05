@@ -1,5 +1,7 @@
 # scattering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scattering.md)
+
 <p><span class="chinese">你总是大把大把地花钱。</span><span class="english">Youve been scattering money.</span></p>
 
 <p><span class="chinese">她喜欢书中的零零星星的诗句。</span><span class="english">She liked the scattering of poems.</span></p>

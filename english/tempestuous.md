@@ -1,5 +1,7 @@
 # tempestuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempestuous.md)
+
 <p><span class="chinese">或许跌出，把我们的风雨之日照明。</span><span class="english">Burst to illumine our tempestuous day.</span></p>
 
 <p><span class="chinese">与巴基斯坦暴风骤雨般的关系？</span><span class="english">A tempestuous relationship with Pakistan?</span></p>

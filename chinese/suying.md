@@ -1,5 +1,7 @@
 # 宿营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suying.md)
+
 <p><span class="chinese">我们安排他们在湖畔宿营。</span><span class="english">We tented them by the lake.</span></p>
 
 <p><span class="chinese">他们在帐篷中宿营。</span><span class="english">They were encamped in the tents.</span></p>

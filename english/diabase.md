@@ -1,5 +1,7 @@
 # diabase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diabase.md)
+
 <p><span class="chinese">辉绿岩的特征是什么？</span><span class="english">What are the characteristics of diabase?</span></p>
 
 <p><span class="chinese">一种绿色的金绿宝石，用作宝石。</span><span class="english">A mottled green rock composed of diabase.</span></p>

@@ -1,5 +1,7 @@
 # 热诚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/recheng.md)
+
 <p><span class="chinese">我们给他以热诚的欢迎。</span><span class="english">We accorded him a hearty welcome.</span></p>
 
 <p><span class="chinese">他的朋友热诚拥抱他。</span><span class="english">His friends gave him a cordial hug.</span></p>

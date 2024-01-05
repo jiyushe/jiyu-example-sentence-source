@@ -1,5 +1,7 @@
 # orchid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchid.md)
+
 <p><span class="chinese">双蝴蝶兰最清香。</span><span class="english">Double orchid the fragrance.</span></p>
 
 <p><span class="chinese">槛菊愁烟兰泣露。</span><span class="english">The orchid weeps in the dew.</span></p>

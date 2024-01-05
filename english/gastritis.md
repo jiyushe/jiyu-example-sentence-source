@@ -1,5 +1,7 @@
 # gastritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastritis.md)
+
 <p><span class="chinese">如何治疗慢性胃炎？</span><span class="english">How to treat chronic gastritis?</span></p>
 
 <p><span class="chinese">慢性胃炎的症状？</span><span class="english">The symptom of chronic gastritis?</span></p>

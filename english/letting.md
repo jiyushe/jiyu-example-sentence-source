@@ -1,5 +1,7 @@
 # letting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letting.md)
+
 <p><span class="chinese">谢谢你允许我们前来致哀。</span><span class="english">Thank you for letting us come by.</span></p>
 
 <p><span class="chinese">这件女衫的腰身需要改小。</span><span class="english">The dress needs letting in at the waist.</span></p>

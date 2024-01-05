@@ -1,5 +1,7 @@
 # 游艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youting.md)
+
 <p><span class="chinese">买一艘14克拉的游艇！</span><span class="english">On your 14-karat yacht!</span></p>
 
 <p><span class="chinese">给你买一艘游艇，我还买得起。</span><span class="english">I can spring to  a yacht for you.</span></p>

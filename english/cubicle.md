@@ -1,5 +1,7 @@
 # cubicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubicle.md)
+
 <p><span class="chinese">我坐在最右边的格子间。</span><span class="english">I sit in the cubicle on right.</span></p>
 
 <p><span class="chinese">柜体战士的梦想成真！</span><span class="english">Cubicle warrior's dream come true!</span></p>

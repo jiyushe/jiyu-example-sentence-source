@@ -1,5 +1,7 @@
 # 产前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanqian.md)
+
 <p><span class="chinese">请寄大码的生产前办！</span><span class="english">Pls send PP sample in size large!</span></p>
 
 <p><span class="chinese">他花了他的童年在产前和祖鲁兰。</span><span class="english">He spent his childhood in Natal and Zululand.</span></p>

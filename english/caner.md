@@ -1,5 +1,7 @@
 # caner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caner.md)
+
 <p><span class="chinese">污染给我们的生存造成很大的威胁。</span><span class="english">Caner pose a great threat to our life.</span></p>
 
 <p><span class="chinese">你能像装罐头的人装罐头那样装一个罐头吗？</span><span class="english">Can you can a can as a caner can a can?</span></p>

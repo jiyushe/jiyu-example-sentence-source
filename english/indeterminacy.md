@@ -1,5 +1,7 @@
 # indeterminacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indeterminacy.md)
+
 <p><span class="chinese">艾伦成功地捕捉到了这个满片刻不息变化无常的灵魂。</span><span class="english">Allen has successfully captured a spirit of restless indeterminacy.</span></p>
 
 <p><span class="chinese">与传统测量方法相比，不再有测量距离的不确定及CCD定位等问题。</span><span class="english">There is not the question such as indeterminacy and orientation of CCD.</span></p>

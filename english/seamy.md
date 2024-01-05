@@ -1,5 +1,7 @@
 # seamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seamy.md)
+
 <p><span class="chinese">你的阴暗面告诉你什么？</span><span class="english">What does your seamy side tell you?</span></p>
 
 <p><span class="chinese">怎样解决心理的阴暗面？</span><span class="english">How to solve psychological the seamy side?</span></p>

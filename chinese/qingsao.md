@@ -1,5 +1,7 @@
 # 清扫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsao.md)
+
 <p><span class="chinese">她用吸尘器清扫地毯。</span><span class="english">She vacuumed the carpet.</span></p>
 
 <p><span class="chinese">你会清扫和整理？</span><span class="english">Do you clean and organize?</span></p>

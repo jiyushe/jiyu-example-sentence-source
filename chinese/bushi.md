@@ -1,5 +1,7 @@
 # 不时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushi.md)
+
 <p><span class="chinese">这鸟不时啼叫。</span><span class="english">The bird sometimes sings.</span></p>
 
 <p><span class="chinese">这鸟不时啼叫。</span><span class="english">The birds sometimes sings.</span></p>

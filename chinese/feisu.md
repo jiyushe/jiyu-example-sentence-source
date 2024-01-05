@@ -1,5 +1,7 @@
 # 飞速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feisu.md)
+
 <p><span class="chinese">他们飞速前进。</span><span class="english">They arrowed their way.</span></p>
 
 <p><span class="chinese">列车飞速驶过车站。</span><span class="english">The train dashed through the station.</span></p>

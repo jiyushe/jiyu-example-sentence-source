@@ -1,5 +1,7 @@
 # 土壤学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/turangxue.md)
+
 <p><span class="chinese">我们为什么要学习土壤学？</span><span class="english">Why do we study soil?</span></p>
 
 <p><span class="chinese">土壤矿物的研究是土壤学研究的前沿基础领域。</span><span class="english">Soil mineralogy belongs to the frontier and basis of pedology.</span></p>

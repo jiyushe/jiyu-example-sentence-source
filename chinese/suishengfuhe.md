@@ -1,5 +1,7 @@
 # 随声附和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishengfuhe.md)
+
 <p><span class="chinese">随声附和他上级的每一句话。</span><span class="english">He echoed every word of his superior.</span></p>
 
 <p><span class="chinese">他们随声附和他们首领的每一句话。</span><span class="english">They echoed every word of their leader.</span></p>

@@ -1,5 +1,7 @@
 # 作古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuogu.md)
+
 <p><span class="chinese">想找一位作古的人吗？</span><span class="english">Looking vor a dead person?</span></p>
 
 <p><span class="chinese">许多记录纷纷作古和持平。</span><span class="english">Many records were set or tied.</span></p>

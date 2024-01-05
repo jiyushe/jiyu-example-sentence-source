@@ -1,5 +1,7 @@
 # 误点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudian_1.md)
+
 <p><span class="chinese">那班飞机因浓雾而误点。</span><span class="english">The plane is late due to fog.</span></p>
 
 <p><span class="chinese">客船误点两小时。</span><span class="english">The passenger ship was two hours late.</span></p>

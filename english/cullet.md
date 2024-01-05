@@ -1,5 +1,7 @@
 # cullet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cullet.md)
+
 <p><span class="chinese">在使用碎玻璃为阿英法通常是自主生产。</span><span class="english">The cullet used for the AEF is normally self-produced.</span></p>
 
 <p><span class="chinese">玻璃沥青混凝土是在普通沥青混凝土中掺入部分碎玻璃作为集料的沥青混凝土。</span><span class="english">The glasphalt is defined as asphalt concrete containing glass cullet as part of the aggregate.</span></p>

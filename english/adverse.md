@@ -1,5 +1,7 @@
 # adverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adverse.md)
+
 <p><span class="chinese">没觉的有什么不良反应的。</span><span class="english">Did not feel any adverse reactions.</span></p>
 
 <p><span class="chinese">逆向选择是什么意思呢</span><span class="english">What do I mean by adverse selection?</span></p>

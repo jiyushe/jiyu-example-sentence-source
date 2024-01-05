@@ -1,5 +1,7 @@
 # 乐曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuequ.md)
+
 <p><span class="chinese">乐曲的主题回归了</span><span class="english">The theme comes back.</span></p>
 
 <p><span class="chinese">哪个来确定整个乐曲的拍</span><span class="english">Who is playing the beat?</span></p>

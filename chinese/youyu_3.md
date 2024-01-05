@@ -1,5 +1,7 @@
 # 鱿鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyu_3.md)
+
 <p><span class="chinese">巨头鲸靠吃鱿鱼为生。</span><span class="english">The sperm whale feeds on squid.</span></p>
 
 <p><span class="chinese">把杂菜酿入鱿鱼筒内。</span><span class="english">Stuff mixed vegetables in squid.</span></p>

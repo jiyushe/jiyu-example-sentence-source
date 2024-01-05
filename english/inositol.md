@@ -1,5 +1,7 @@
 # inositol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inositol.md)
+
 <p><span class="chinese">肌醇是需要正常的神经功能。</span><span class="english">Inositol is needed for normal nerve function.</span></p>
 
 <p><span class="chinese">维生素肌醇对菌丝生长有明显的促进作用。</span><span class="english">The vitamin inositol could obviously stimulate the growth of mycelium.</span></p>

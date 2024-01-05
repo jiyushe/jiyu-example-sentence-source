@@ -1,5 +1,7 @@
 # disband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disband.md)
+
 <p><span class="chinese">政府企图解散那个非法组织。</span><span class="english">The government tried to disband the illegal organization.</span></p>
 
 <p><span class="chinese">高校散伙饭安全套做纪念，你怎么看？</span><span class="english">"Disband Dinner" takes condoms as souvenir, what's your view?</span></p>

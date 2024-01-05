@@ -1,5 +1,7 @@
 # roar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roar.md)
+
 <p><span class="chinese">不要对我大吼大叫。</span><span class="english">Don't roar at me.</span></p>
 
 <p><span class="chinese">吼声非常重要。</span><span class="english">A roar is very important.</span></p>

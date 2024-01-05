@@ -1,5 +1,7 @@
 # veiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veiling.md)
+
 <p><span class="chinese">我意识到，我的窗没有被云雾遮蔽。</span><span class="english">I realized there was no fog veiling my window.</span></p>
 
 <p><span class="chinese">解释意味着掩饰，所以我不会说什么。</span><span class="english">Explanation means veiling so I have nothing to say.</span></p>

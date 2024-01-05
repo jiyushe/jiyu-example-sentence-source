@@ -1,5 +1,7 @@
 # 神甫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenfu_2.md)
+
 <p><span class="chinese">呵，好一个神甫！</span><span class="english">Oh, what a fine priest!</span></p>
 
 <p><span class="chinese">于是我们抄起枪，朝神甫家走了过去。</span><span class="english">So we took our guns and went over.</span></p>

@@ -1,5 +1,7 @@
 # ulf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulf.md)
+
 <p><span class="chinese">本文报道了船用超低频磁场的卫生学调查。</span><span class="english">This paper reports a hygienical survey of the ship ULF magnetic field.</span></p>
 
 <p><span class="chinese">派采尔正是在里奥哈茨教授的指导下提出了他的构想。</span><span class="english">Mr Perczel came up with the idea under the guidance of Professor Ulf Leonhardt.</span></p>

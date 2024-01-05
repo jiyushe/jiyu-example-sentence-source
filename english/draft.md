@@ -1,5 +1,7 @@
 # draft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draft.md)
+
 <p><span class="chinese">是初稿？</span><span class="english">A first draft?</span></p>
 
 <p><span class="chinese">将此作为草图保存。</span><span class="english">Save it as draft.</span></p>

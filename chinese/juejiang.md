@@ -1,5 +1,7 @@
 # 倔强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juejiang.md)
+
 <p><span class="chinese">他倔强得简直像头牛。</span><span class="english">He’s as stubborn as a mule.</span></p>
 
 <p><span class="chinese">她是一个脾气很倔强的老姑娘。</span><span class="english">She is a hardboiled old girl.</span></p>

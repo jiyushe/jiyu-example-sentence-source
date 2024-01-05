@@ -1,5 +1,7 @@
 # implore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implore.md)
+
 <p><span class="chinese">我恳请你现在就走。</span><span class="english">I implore you to go now.</span></p>
 
 <p><span class="chinese">你的膜拜者跪下双膝哀求你！</span><span class="english">Your devotees are on their knees to implore you !</span></p>

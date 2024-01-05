@@ -1,5 +1,7 @@
 # populism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/populism.md)
+
 <p><span class="chinese">平民主义对全球主义意味着什么</span><span class="english">What Populism Means for Globalism</span></p>
 
 <p><span class="chinese">日本政治带有利己主义和民粹主义的风气。</span><span class="english">Japanese politics is tainted with egoism and populism.</span></p>

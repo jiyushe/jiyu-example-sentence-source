@@ -1,5 +1,7 @@
 # faultiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faultiness.md)
+
 <p><span class="chinese">五脉山黧豆的传粉系统不完善和虫害是结实率低的主要原因。</span><span class="english">The faultiness of breeding system and pests destroying cause the low seed-set rate.</span></p>
 
 <p><span class="chinese">问题根源可能在基金的管理水平与我国证券市场制度的不完善性上。</span><span class="english">The reason of the problem could be the faultiness of security market system in China.</span></p>

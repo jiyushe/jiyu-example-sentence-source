@@ -1,5 +1,7 @@
 # rebel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebel.md)
+
 <p><span class="chinese">牧羊座需要反抗。</span><span class="english">Aries need to rebel.</span></p>
 
 <p><span class="chinese">一个回从高体的反水者！</span><span class="english">A rebel from the waist down!</span></p>

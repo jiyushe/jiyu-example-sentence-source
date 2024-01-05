@@ -1,5 +1,7 @@
 # curtly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curtly.md)
+
 <p><span class="chinese">这个请求被毫不客气地拒绝了。</span><span class="english">The request was curtly refused.</span></p>
 
 <p><span class="chinese">我简慢地驳回了这一抗议。</span><span class="english">I curtly dismissed this protest.</span></p>

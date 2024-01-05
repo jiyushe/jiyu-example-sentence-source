@@ -1,5 +1,7 @@
 # 天灾人祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzairenhuo.md)
+
 <p><span class="chinese">他的命真苦，遭遇了这样的天灾人祸。</span><span class="english">A nature disaster and man-made disaster.</span></p>
 
 <p><span class="chinese">天灾人祸，灾害频发。</span><span class="english">Natural disasters. Human-made disasters.</span></p>

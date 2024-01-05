@@ -1,5 +1,7 @@
 # 职官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiguan_2.md)
+
 <p><span class="chinese">廷尉是汉代掌管刑狱的最高职官。</span><span class="english">Tingwei is the main judicial officer in the Han Dynasty.</span></p>
 
 <p><span class="chinese">麟趾学士是北周明帝设置的文化著述职官。</span><span class="english">Linzhi Bachelor was the official position set up by Emperor Ming in Northern Zhou Dynasty.</span></p>

@@ -1,5 +1,7 @@
 # 斧头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/futou.md)
+
 <p><span class="chinese">于是穆那查到了斧头那里。</span><span class="english">He came to the axe.</span></p>
 
 <p><span class="chinese">他再次挥舞了他的斧头。</span><span class="english">Again he wielded his ax.</span></p>

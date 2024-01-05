@@ -1,5 +1,7 @@
 # plo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plo.md)
+
 <p><span class="chinese">普罗米修斯的名字即「深谋远虑」的意思。</span><span class="english">Plo Michel J is the name of "foresight".</span></p>
 
 <p><span class="chinese">以色列应该与巴勒斯坦解放组织一起缔造和平，战胜哈马斯。</span><span class="english">Israel should make peace with the PLO and crush Hammas.</span></p>

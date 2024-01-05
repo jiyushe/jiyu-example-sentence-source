@@ -1,5 +1,7 @@
 # npr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/npr.md)
+
 <p><span class="chinese">我从公共广播电台听到的。</span><span class="english">I got this off of NPR.</span></p>
 
 <p><span class="chinese">我是诺拉·劳姆，这里是NPR新闻。</span><span class="english">I'm Nora Raum, NPR News.</span></p>

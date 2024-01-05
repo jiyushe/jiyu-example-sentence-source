@@ -1,5 +1,7 @@
 # archaeopteryx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaeopteryx.md)
+
 <p><span class="chinese">有点像最早开始进化的始祖鸟。</span><span class="english">This is like the Archaeopteryx of primate evolution.</span></p>
 
 <p><span class="chinese">古生物学家还讨论了始祖鸟是否会飞的问题。</span><span class="english">Paleontologists also debated whether Archaeopteryx could fly.</span></p>

@@ -1,5 +1,7 @@
 # seropositive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seropositive.md)
+
 <p><span class="chinese">从血清学阳性羊的外周血白细胞未分离到OPPV。</span><span class="english">OPPV was not isolated from peripheral leucocytes of seropositive sheep.</span></p>
 
 <p><span class="chinese">在临床观察期间，实验羊仅出现轻微的与绵羊慢病毒有关的临床症状。</span><span class="english">There were slight clinical signs relevant to OvLV infection in 5 seropositive ewes.</span></p>

@@ -1,5 +1,7 @@
 # 台历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taili.md)
+
 <p><span class="chinese">你喜欢袖珍台历吗？</span><span class="english">Do you like pocket calendars?</span></p>
 
 <p><span class="chinese">是一本台历，上面列出了所有的社区活动。</span><span class="english">It's a calendar with all the community events on it.</span></p>

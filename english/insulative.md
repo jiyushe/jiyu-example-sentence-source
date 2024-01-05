@@ -1,5 +1,7 @@
 # insulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulative.md)
+
 <p><span class="chinese">研究了聚乙烯绝缘料的高速挤出特性。</span><span class="english">The property of insulative PE in high speed extrusion was studied in the paper.</span></p>
 
 <p><span class="chinese">优质绝缘阻燃保温层节能省电。</span><span class="english">High quality durable insulative and flame retardant layer saves electricity and energy.</span></p>

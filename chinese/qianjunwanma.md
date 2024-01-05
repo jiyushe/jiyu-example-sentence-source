@@ -1,5 +1,7 @@
 # 千军万马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjunwanma.md)
+
 <p><span class="chinese">我……，语言已经不能形容我此时此刻胸中千军万马的心情啦！</span><span class="english">I can't describe my complicated emotion by word now!</span></p>
 
 <p><span class="chinese">难怪这几年报考公务员的千军万马。</span><span class="english">No wonder millions of soldiers and civil servants sit in recent years.</span></p>

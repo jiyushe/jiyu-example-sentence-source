@@ -1,5 +1,7 @@
 # 焦点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodian_1.md)
+
 <p><span class="chinese">找到你的焦点。</span><span class="english">Find your focus.</span></p>
 
 <p><span class="chinese">所以缩小你的焦点。</span><span class="english">So narrow your focus.</span></p>

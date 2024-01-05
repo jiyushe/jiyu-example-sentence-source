@@ -1,5 +1,7 @@
 # tweezer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tweezer.md)
+
 <p><span class="chinese">怎样选出最好的眉夹？</span><span class="english">How to pick the best tweezer?</span></p>
 
 <p><span class="chinese">是镊取平面做细物体的理想工具。</span><span class="english">It is a tweezer ideal tool to clip flat Small objects.</span></p>

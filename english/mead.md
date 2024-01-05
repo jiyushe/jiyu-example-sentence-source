@@ -1,5 +1,7 @@
 # mead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mead.md)
+
 <p><span class="chinese">它是个“赛米德”。</span><span class="english">It is a "race Mead".</span></p>
 
 <p><span class="chinese">愿甜甜的蜜酒，赶走你的忧愁。</span><span class="english">Sweet mead is ready to drive away your gloom.</span></p>

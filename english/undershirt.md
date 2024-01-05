@@ -1,5 +1,7 @@
 # undershirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undershirt.md)
+
 <p><span class="chinese">穿汗衫。</span><span class="english">Wear an undershirt.</span></p>
 
 <p><span class="chinese">这件汗衫是薄布料制成的。</span><span class="english">This undershirt is made of thin fabric.</span></p>

@@ -1,5 +1,7 @@
 # 短期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanqi.md)
+
 <p><span class="chinese">短期行为。</span><span class="english">Short-lived.</span></p>
 
 <p><span class="chinese">短期失忆症。</span><span class="english">Short-term memory loss.</span></p>

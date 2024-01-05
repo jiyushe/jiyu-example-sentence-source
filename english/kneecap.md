@@ -1,5 +1,7 @@
 # kneecap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kneecap.md)
+
 <p><span class="chinese">膝盖周围疼痛，有时候在膝盖后面。</span><span class="english">Pain around and sometimes behind the kneecap.</span></p>
 
 <p><span class="chinese">膝部的骨由股骨胫骨、骸骨及排骨构成。</span><span class="english">The bone of knee joint consists of thighbone, shinbone, kneecap and fibula.</span></p>

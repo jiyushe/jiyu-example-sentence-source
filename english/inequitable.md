@@ -1,5 +1,7 @@
 # inequitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inequitable.md)
+
 <p><span class="chinese">都是经济快速增长,却分配不均的原因。</span><span class="english">It's this inequitable distribution of growth.</span></p>
 
 <p><span class="chinese">结果是加州的税务系统即不能体现平等，也不能实现稳定。</span><span class="english">The result was a tax system that is both inequitable and unstable.</span></p>

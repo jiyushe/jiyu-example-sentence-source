@@ -1,5 +1,7 @@
 # 讲究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangjiu.md)
+
 <p><span class="chinese">我需要讲究效率。</span><span class="english">I needed to be effcient.</span></p>
 
 <p><span class="chinese">我会少讲究些卫生。</span><span class="english">I would be less hygienic.</span></p>

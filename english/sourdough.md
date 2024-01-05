@@ -1,5 +1,7 @@
 # sourdough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sourdough.md)
+
 <p><span class="chinese">制作酵头时需要酵母。</span><span class="english">To make sourdough you need a starter.</span></p>
 
 <p><span class="chinese">这将开始一个拓荒者的味道。</span><span class="english">Which will have started to taste like a sourdough.</span></p>

@@ -1,5 +1,7 @@
 # dilatation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilatation.md)
+
 <p><span class="chinese">自然流产后必须刮宫吗？</span><span class="english">After natural abortion must dilatation and curettage ?</span></p>
 
 <p><span class="chinese">刮宫后13天发生性关系。刮宫后13天发生性关系。</span><span class="english">Have carnal knowledge of last 13 day the dilatation and curettage.</span></p>

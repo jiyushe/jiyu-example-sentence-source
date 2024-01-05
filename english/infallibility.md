@@ -1,5 +1,7 @@
 # infallibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infallibility.md)
+
 <p><span class="chinese">我不敢说这方法绝对有效。</span><span class="english">I can not claim infallibility for this method.</span></p>
 
 <p><span class="chinese">否认这一点，就是假定了我们自己的不可能错误性。</span><span class="english">If I did not trust the infallibility of mine own eyes, I would not believe it!</span></p>

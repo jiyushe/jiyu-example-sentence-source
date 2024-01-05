@@ -1,5 +1,7 @@
 # ligation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligation.md)
+
 <p><span class="chinese">切断结扎返流的交通支十分重要。</span><span class="english">Transection and ligation of the perforators are important.</span></p>
 
 <p><span class="chinese">方法将11580例输卵管结扎术中发生并发症23例原因进行分析。</span><span class="english">Method To analyse 23 of 11580 cases tubal ligation complications.</span></p>

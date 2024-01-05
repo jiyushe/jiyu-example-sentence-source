@@ -1,5 +1,7 @@
 # sickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sickle.md)
+
 <p><span class="chinese">对于镰状细胞性贫血。</span><span class="english">Sickle cell anemia.</span></p>
 
 <p><span class="chinese">利斧锋镰战旗红。</span><span class="english">Sharp sickle axe flag red.</span></p>

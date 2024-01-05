@@ -1,5 +1,7 @@
 # 须要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyao.md)
+
 <p><span class="chinese">这个必须要顶一下。</span><span class="english">Yes, I need one.</span></p>
 
 <p><span class="chinese">这里我们须要认真一些</span><span class="english">Let's be careful here.</span></p>

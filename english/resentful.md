@@ -1,5 +1,7 @@
 # resentful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resentful.md)
+
 <p><span class="chinese">他的女儿们愤愤不平。</span><span class="english">His daughters were resentful.</span></p>
 
 <p><span class="chinese">他似乎惹人生?和忿怨。</span><span class="english">He seems annoyed and resentful.</span></p>

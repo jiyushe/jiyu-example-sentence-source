@@ -1,5 +1,7 @@
 # risible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risible.md)
+
 <p><span class="chinese">人类是唯一能笑的动物。</span><span class="english">Man is the only risible animal.</span></p>
 
 <p><span class="chinese">这可真是一种缘分，我们都是那么的爱笑。</span><span class="english">It is fate that we are all the girls of risible.</span></p>

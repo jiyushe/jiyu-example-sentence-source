@@ -1,5 +1,7 @@
 # amphitheater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphitheater.md)
+
 <p><span class="chinese">罗马竞技场是卡斯特桥的代表物。</span><span class="english">The Roman Amphitheater is the symbol of Casterbridge.</span></p>
 
 <p><span class="chinese">图上所示就是庞贝城几座较大的剧场之一。</span><span class="english">This large amphitheater is one of several in Pompeii.</span></p>

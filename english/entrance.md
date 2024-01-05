@@ -1,5 +1,7 @@
 # entrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrance.md)
+
 <p><span class="chinese">工地入口，请慢行。</span><span class="english">Slow down.Site entrance.</span></p>
 
 <p><span class="chinese">上海野生动物园的入口处。</span><span class="english">The entrance of the zoon.</span></p>

@@ -1,5 +1,7 @@
 # lithosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithosphere.md)
+
 <p><span class="chinese">它的陆界与爱尔兰共和国接壤。</span><span class="english">Its lithosphere and the Republic of Ireland border on.</span></p>
 
 <p><span class="chinese">岩石圈形变是各种力源综合作用的结果。</span><span class="english">The deformation of lithosphere results from several force sources.</span></p>

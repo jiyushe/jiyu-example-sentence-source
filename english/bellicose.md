@@ -1,5 +1,7 @@
 # bellicose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellicose.md)
+
 <p><span class="chinese">我遇到的阿富汗人既不排外，也不好战。</span><span class="english">The Afghans I met were neither xenophobic nor bellicose.</span></p>
 
 <p><span class="chinese">好斗的言辞常常是无所作为的借口。</span><span class="english">Bellicose rhetoric most often serves as an excuse for inaction.</span></p>

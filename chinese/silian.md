@@ -1,5 +1,7 @@
 # 思恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silian.md)
+
 <p><span class="chinese">我的爱，我非常的思恋你。</span><span class="english">My love, I miss you so much.</span></p>
 
 <p><span class="chinese">对你的思恋。该如何忘记？</span><span class="english">Your Silian. How do I forget?</span></p>

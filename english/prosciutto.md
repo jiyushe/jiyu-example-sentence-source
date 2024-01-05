@@ -1,5 +1,7 @@
 # prosciutto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosciutto.md)
+
 <p><span class="chinese">生火腿如何个吃法呢？</span><span class="english">How to eat raw prosciutto?</span></p>
 
 <p><span class="chinese">如何制作生火腿呢？</span><span class="english">how to make raw prosciutto?</span></p>

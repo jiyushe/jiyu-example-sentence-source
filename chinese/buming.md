@@ -1,5 +1,7 @@
 # 不明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buming.md)
+
 <p><span class="chinese">那不明飞行物呢？</span><span class="english">And UFOs?</span></p>
 
 <p><span class="chinese">这是一个不明物体。</span><span class="english">It’s an unknown object.</span></p>

@@ -1,5 +1,7 @@
 # undistracted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undistracted.md)
+
 <p><span class="chinese">一个内心清净的人是一个自信的人。</span><span class="english">An undistracted person is a confident person.</span></p>
 
 <p><span class="chinese">我已经为你做好了这个工作，让你专注阅读。</span><span class="english">I've done the work for you, for undistracted reading.</span></p>

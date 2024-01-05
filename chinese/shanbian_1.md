@@ -1,5 +1,7 @@
 # 嬗变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanbian_1.md)
+
 <p><span class="chinese">消耗圣火可发动嬗变术。</span><span class="english">Pyros is expended to power Transmutations.</span></p>
 
 <p><span class="chinese">我害怕变化，直到我看到，即使最美丽的蝴蝶也是经过嬗变才振翅飞翔。</span><span class="english">Until I saw that even the most beautiful butterfly</span></p>

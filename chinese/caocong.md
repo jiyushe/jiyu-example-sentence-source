@@ -1,5 +1,7 @@
 # 草丛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caocong.md)
+
 <p><span class="chinese">蟋蟀在草丛中高声鸣叫。</span><span class="english">A cricket shrills in the grass.</span></p>
 
 <p><span class="chinese">一只蟋蟀在草丛中尖声歌唱。</span><span class="english">A cricket shrills in the grass.</span></p>

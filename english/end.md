@@ -1,5 +1,7 @@
 # end
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/end.md)
+
 <p><span class="chinese">小镇的尽头。</span><span class="english">End of town.</span></p>
 
 <p><span class="chinese">一个香烟头。</span><span class="english">A cigarette end.</span></p>

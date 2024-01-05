@@ -1,5 +1,7 @@
 # absenteeism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absenteeism.md)
+
 <p><span class="chinese">他的老板因他习惯性旷工而解雇了他。</span><span class="english">His boss discharged him for habitual absenteeism.</span></p>
 
 <p><span class="chinese">首先，机器人从不生病，从而旷工将会减少。</span><span class="english">First, robots never get sick, so absenteeism would be reduced.</span></p>

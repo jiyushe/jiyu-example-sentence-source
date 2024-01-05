@@ -1,5 +1,7 @@
 # endogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endogenous.md)
+
 <p><span class="chinese">在生根过程中，内源腐胺含量增加了。</span><span class="english">Endogenous level of putrescine increases during root formation.</span></p>
 
 <p><span class="chinese">提示NO可能有内源性致痫作用。</span><span class="english">It suggested that NO might have the endogenous convulsant effect.</span></p>

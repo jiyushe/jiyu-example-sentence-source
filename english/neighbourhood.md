@@ -1,5 +1,7 @@
 # neighbourhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighbourhood.md)
+
 <p><span class="chinese">我们通常到邻近的商店采买。</span><span class="english">We patronize our neighbourhood stores.</span></p>
 
 <p><span class="chinese">火灾使整个街坊邻里都惊恐起来。</span><span class="english">The whole neighbourhood talked about it.</span></p>

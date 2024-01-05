@@ -1,5 +1,7 @@
 # 亲密无间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinmiwujian.md)
+
 <p><span class="chinese">我们手足情深亲密无间。</span><span class="english">We are brothers as thick as thieves.</span></p>
 
 <p><span class="chinese">什么让双方亲密无间？</span><span class="english">What makes them want to be intimate?</span></p>

@@ -1,5 +1,7 @@
 # snagged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snagged.md)
+
 <p><span class="chinese">他的几句话使我的所有努力白费了。</span><span class="english">His remarks snagged all my efforts.</span></p>
 
 <p><span class="chinese">没人告诉她，她的裙子钩在钉子上了。</span><span class="english">No man told her that her skirt snagged on a nail.</span></p>

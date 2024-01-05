@@ -1,5 +1,7 @@
 # 狂风暴雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangfengbaoyu.md)
+
 <p><span class="chinese">接着他如狂风暴雨般大谈特谈了一通。</span><span class="english">He proceeded to talk up a storm.</span></p>
 
 <p><span class="chinese">地震之后又是一阵狂风暴雨。</span><span class="english">Storm supervened after the earthquake.</span></p>

@@ -1,5 +1,7 @@
 # hashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hashing.md)
+
 <p><span class="chinese">所以哈希到底是什么样的？</span><span class="english">So what in the world is hashing?</span></p>
 
 <p><span class="chinese">我老了，现在我常常回忆过去那些美好的日子。</span><span class="english">I'm old, now I'm often hashing over the old fine days.</span></p>

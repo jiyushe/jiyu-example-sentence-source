@@ -1,5 +1,7 @@
 # 西经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijing_1.md)
+
 <p><span class="chinese">悟空，你诸多借口，你根本就不想去取西经！</span><span class="english">You don't want to get scriptures in the west.</span></p>
 
 <p><span class="chinese">最早的中心靠近北纬5度，西经二十度。</span><span class="english">This one's earliest center was at approximately 5 degree north, 20 degree west.</span></p>

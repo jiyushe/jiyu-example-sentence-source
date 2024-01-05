@@ -1,5 +1,7 @@
 # 有鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yougui.md)
+
 <p><span class="chinese">哇！有鬼呀！</span><span class="english">Oh, on! A ghost!</span></p>
 
 <p><span class="chinese">我唔信有鬼依样嘢。</span><span class="english">I do believe in ghosts.</span></p>

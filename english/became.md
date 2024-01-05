@@ -1,5 +1,7 @@
 # became
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/became.md)
+
 <p><span class="chinese">我成为了一个实干家。</span><span class="english">I became a Doer.</span></p>
 
 <p><span class="chinese">他变成了我的英雄。</span><span class="english">He became my hero.</span></p>

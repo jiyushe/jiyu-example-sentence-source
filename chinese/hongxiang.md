@@ -1,5 +1,7 @@
 # 烘箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxiang.md)
+
 <p><span class="chinese">在烘箱的地方菜。</span><span class="english">Place the dish in the oven.</span></p>
 
 <p><span class="chinese">应该将烘箱调到烘干项。</span><span class="english">You should set the oven for baking.</span></p>

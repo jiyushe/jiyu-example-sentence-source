@@ -1,5 +1,7 @@
 # 海豚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haitun.md)
+
 <p><span class="chinese">海豚。白鹭。</span><span class="english">The dolphin. The egret.</span></p>
 
 <p><span class="chinese">一群海豚游来游去。</span><span class="english">The dolphins swim around.</span></p>

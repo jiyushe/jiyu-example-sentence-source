@@ -1,5 +1,7 @@
 # 单眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danyan.md)
+
 <p><span class="chinese">将单眼巨人移出游戏。</span><span class="english">Remove Cyclopean Giant from the game.</span></p>
 
 <p><span class="chinese">该场可以是单眼的或双眼的。</span><span class="english">The yield may be monocular or binocular.</span></p>

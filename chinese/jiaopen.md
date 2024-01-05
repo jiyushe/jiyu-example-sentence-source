@@ -1,5 +1,7 @@
 # 脚盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopen.md)
+
 <p><span class="chinese">“来吧，”他说，轻轻地将她的脚趾蘸了一下脚盆。</span><span class="english">"Come on, " he said, gently dipping her toes in the basin.</span></p>
 
 <p><span class="chinese">太行山、太岳山、中条山的中间，有一个脚盆，就是上党区。</span><span class="english">The Shangtang area, rimmed by the Taihang, Taiyueh and Chungtiao Mountains, is like a tub.</span></p>

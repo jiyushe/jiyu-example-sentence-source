@@ -1,5 +1,7 @@
 # woozy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woozy.md)
+
 <p><span class="chinese">他因喝了威士忌酒而头昏。</span><span class="english">He felt woozy from whisky.</span></p>
 
 <p><span class="chinese">吸血鬼咬过你后，开始眩晕了。</span><span class="english">Vampires get woozy after biting you.</span></p>

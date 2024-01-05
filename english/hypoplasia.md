@@ -1,5 +1,7 @@
 # hypoplasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoplasia.md)
+
 <p><span class="chinese">可伴子宫发育不良。</span><span class="english">May accompany the hypoplasia of uterus.</span></p>
 
 <p><span class="chinese">我有一个16个月大的孩子，视神经发育不全。</span><span class="english">I have a 16 month old with Optic Nerve Hypoplasia.</span></p>

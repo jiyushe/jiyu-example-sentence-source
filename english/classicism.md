@@ -1,5 +1,7 @@
 # classicism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classicism.md)
+
 <p><span class="chinese">属于或关于古典主义的。</span><span class="english">Of or relating to classicism.</span></p>
 
 <p><span class="chinese">坚持古典主义的艺术家。</span><span class="english">An artistic person who adheres to classicism.</span></p>

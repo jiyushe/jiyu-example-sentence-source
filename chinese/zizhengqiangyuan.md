@@ -1,5 +1,7 @@
 # 字正腔圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhengqiangyuan.md)
+
 <p><span class="chinese">优秀的播音员在主持节目时应字正腔圆。</span><span class="english">An excellent announcer should pronounce every word clearly when hosting a programme.</span></p>
 
 <p><span class="chinese">这想法就是，不必用电脑上网，更不用滑鼠，你只要说话字正腔圆。</span><span class="english">The idea you don't have to have a computer to access to Internet. Forget a mouse click.</span></p>

@@ -1,5 +1,7 @@
 # legit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legit.md)
+
 <p><span class="chinese">这是完全合法的。</span><span class="english">It was all legit.</span></p>
 
 <p><span class="chinese">他无可厚非是认真的。</span><span class="english">He was legit serious.</span></p>

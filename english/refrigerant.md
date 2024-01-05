@@ -1,5 +1,7 @@
 # refrigerant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refrigerant.md)
+
 <p><span class="chinese">因此，这是一个好的制冷剂。</span><span class="english">And so, this was good as a refrigerant.</span></p>
 
 <p><span class="chinese">第二步、要回收制冷剂。</span><span class="english">The second step, to recycle refrigerant.</span></p>

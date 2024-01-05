@@ -1,5 +1,7 @@
 # 姐儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieer.md)
+
 <p><span class="chinese">学习了，谢谢姐儿。</span><span class="english">Thanks my sister, good for you.</span></p>
 
 <p><span class="chinese">呵呵，说了那么多，姐儿们看懂了吧！</span><span class="english">Oh, said so much, you guys read it!</span></p>

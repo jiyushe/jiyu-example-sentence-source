@@ -1,5 +1,7 @@
 # 遗骸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihai.md)
+
 <p><span class="chinese">秃鹰尽情享用著一只兔子的遗骸。</span><span class="english">The vultures feasted on a rabbit carcass.</span></p>
 
 <p><span class="chinese">利西达斯溺死于大海，他的遗骸已经找不到了。</span><span class="english">Lycidas was drowned. His remains are unrecoverable.</span></p>

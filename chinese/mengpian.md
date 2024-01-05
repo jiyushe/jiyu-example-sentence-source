@@ -1,5 +1,7 @@
 # 蒙骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengpian.md)
+
 <p><span class="chinese">蒙骗，欺骗，诈取。</span><span class="english">To defraud, cheat, or swindle.</span></p>
 
 <p><span class="chinese">他用一套谎言蒙骗了那个女孩。</span><span class="english">He took the girl in with his story.</span></p>

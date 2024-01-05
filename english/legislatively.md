@@ -1,5 +1,7 @@
 # legislatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legislatively.md)
+
 <p><span class="chinese">根据现有立法，政府或疫苗生产企业是该责任的赔偿主体。</span><span class="english">Department of government and producer of vaccines are liable legislatively.</span></p>
 
 <p><span class="chinese">想也是白想，奥巴马的就业议案现在还生死未卜呢。</span><span class="english">No chance of that as President Obama's jobs bill now seems DOA legislatively.</span></p>

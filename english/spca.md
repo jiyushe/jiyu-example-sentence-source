@@ -1,5 +1,7 @@
 # spca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spca.md)
+
 <p><span class="chinese">SPCA帮动物找到新家。</span><span class="english">The SPCA helps animals to find new homes.</span></p>
 
 <p><span class="chinese">我们怎样能成为SPCA的小会员？</span><span class="english">How can we become junior members of the SPCA?</span></p>

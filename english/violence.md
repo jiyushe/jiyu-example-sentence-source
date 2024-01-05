@@ -1,5 +1,7 @@
 # violence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violence.md)
+
 <p><span class="chinese">暴力是什么？</span><span class="english">Violence is what?</span></p>
 
 <p><span class="chinese">暴力是什么。</span><span class="english">What is violence?</span></p>

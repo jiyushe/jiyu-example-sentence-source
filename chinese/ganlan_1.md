@@ -1,5 +1,7 @@
 # 橄榄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganlan_1.md)
+
 <p><span class="chinese">橄榄园。</span><span class="english">Olive Garden.</span></p>
 
 <p><span class="chinese">橄榄被泡在油中。</span><span class="english">The olives are steeped in oil.</span></p>

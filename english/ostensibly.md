@@ -1,5 +1,7 @@
 # ostensibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostensibly.md)
+
 <p><span class="chinese">菲尼明显是一个高调的反叛者。</span><span class="english">Mr Fini was ostensibly a high-minded mutineer.</span></p>
 
 <p><span class="chinese">第六世达赖死在路上青海，声称死于疾病。</span><span class="english">He died on the way, in Koko Nur, ostensibly from illness.</span></p>

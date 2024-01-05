@@ -1,5 +1,7 @@
 # 摒除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingchu_2.md)
+
 <p><span class="chinese">摒除所有杂念一分钟。</span><span class="english">Stop all your thoughts for a minute.</span></p>
 
 <p><span class="chinese">摒除种族的偏见，他是对的。</span><span class="english">The ethnic slag aside, he was right.</span></p>

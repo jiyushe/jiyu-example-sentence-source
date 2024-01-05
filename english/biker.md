@@ -1,5 +1,7 @@
 # biker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biker.md)
+
 <p><span class="chinese">到底什么是骑士？</span><span class="english">What is a biker?</span></p>
 
 <p><span class="chinese">我是一名狂热的山地车手。</span><span class="english">I'm an avid mountain biker.</span></p>

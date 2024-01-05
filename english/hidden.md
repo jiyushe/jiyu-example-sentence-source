@@ -1,5 +1,7 @@
 # hidden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hidden.md)
+
 <p><span class="chinese">藏著对尓深深的爱。</span><span class="english">Hidden deep love for you.</span></p>
 
 <p><span class="chinese">耐莉是我们暗藏的敌人。</span><span class="english">Nelly is my hidden enemy.</span></p>

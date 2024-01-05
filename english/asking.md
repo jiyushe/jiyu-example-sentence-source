@@ -1,5 +1,7 @@
 # asking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asking.md)
+
 <p><span class="chinese">练习提问。</span><span class="english">Practice asking.</span></p>
 
 <p><span class="chinese">我只是随便问问。</span><span class="english">I was just asking.</span></p>

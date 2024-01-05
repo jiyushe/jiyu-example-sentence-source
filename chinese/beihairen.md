@@ -1,5 +1,7 @@
 # 被害人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beihairen.md)
+
 <p><span class="chinese">第四点，不存在无被害人犯罪。</span><span class="english">Fourth, there is no victimless crime.</span></p>
 
 <p><span class="chinese">被害人被诱到一个荒僻的地方。</span><span class="english">The victim was lured to a deserted spot.</span></p>

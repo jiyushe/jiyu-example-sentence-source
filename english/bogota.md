@@ -1,5 +1,7 @@
 # bogota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bogota.md)
+
 <p><span class="chinese">现在世界上每天都有几十个城市——多伦多，波尔多，布达佩斯，德国柏林，甚至马尼拉和莫斯科，都在上演这样的场景。</span><span class="english">Budapest or Berlin, if not Bogota or Bordeaux. Even Manila or Moscow.</span></p>
 
 <p><span class="chinese">“你知道你是不可替代的，”萨姆告诉我，昨晚我在波哥大。</span><span class="english">"You know you're irreplaceable, " Sam told me on my last night in Bogotá.</span></p>

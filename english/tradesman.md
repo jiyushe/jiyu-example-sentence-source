@@ -1,5 +1,7 @@
 # tradesman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tradesman.md)
+
 <p><span class="chinese">欠镇上所有店主的钱。</span><span class="english">She owed money to every tradesman in the town.</span></p>
 
 <p><span class="chinese">这位买卖人十分急于卖掉他的钢笔。</span><span class="english">The tradesman was too anxious to sell his pens.</span></p>

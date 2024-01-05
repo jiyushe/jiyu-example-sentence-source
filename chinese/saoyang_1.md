@@ -1,5 +1,7 @@
 # 瘙痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoyang_1.md)
+
 <p><span class="chinese">我们憎恨瘙痒。</span><span class="english">We hate itchy.</span></p>
 
 <p><span class="chinese">挠抓那些瘙痒的。</span><span class="english">Scratch where it itches.</span></p>

@@ -1,5 +1,7 @@
 # 美不胜收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meibushengshou.md)
+
 <p><span class="chinese">到处银装素裹，美不胜收。</span><span class="english">Everywhere, silver-coated scene.</span></p>
 
 <p><span class="chinese">就饺子吃更是美不胜收。</span><span class="english">It is beauteous to eat dumplings.</span></p>

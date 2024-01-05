@@ -1,5 +1,7 @@
 # 玉质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_2.md)
+
 <p><span class="chinese">青玉玉质，雕一行走的胡人。</span><span class="english">Jade carved jade, much of a walk.</span></p>
 
 <p><span class="chinese">玉质的品种繁多，颜色各异。</span><span class="english">Different types of jade differ in color.</span></p>

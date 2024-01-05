@@ -1,5 +1,7 @@
 # irascible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irascible.md)
+
 <p><span class="chinese">你还是那么暴躁。</span><span class="english">You are still so irascible.</span></p>
 
 <p><span class="chinese">近侍们从未见过伯爵如此阴郁和气急败坏。</span><span class="english">His subordinates had never seen the count so gloomy and irascible.</span></p>

@@ -1,5 +1,7 @@
 # belated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belated.md)
+
 <p><span class="chinese">顺便对她说句迟到的生日快乐！</span><span class="english">So, Happy Belated B-day to her!</span></p>
 
 <p><span class="chinese">谢谢你放的马后炮。</span><span class="english">Thanks for your belated advice.</span></p>

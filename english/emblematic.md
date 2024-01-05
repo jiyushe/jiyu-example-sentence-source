@@ -1,5 +1,7 @@
 # emblematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emblematic.md)
+
 <p><span class="chinese">菲丽塞特是成长中的一代的代表。</span><span class="english">Felicite is emblematic of a growing trend.</span></p>
 
 <p><span class="chinese">这就是营口的标志性雕塑了。</span><span class="english">This is the emblematic sculpture of Yingkou.</span></p>

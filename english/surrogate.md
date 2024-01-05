@@ -1,5 +1,7 @@
 # surrogate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surrogate.md)
+
 <p><span class="chinese">你是怎样成为一个性代理的？</span><span class="english">How did you become a sex surrogate?</span></p>
 
 <p><span class="chinese">大多数代理伴侣住在南加州。</span><span class="english">Most surrogate partners live in Southern California.</span></p>

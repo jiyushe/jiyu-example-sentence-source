@@ -1,5 +1,7 @@
 # senior 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senior.md)
+
 <p><span class="chinese">鲍伯比我大两岁年长。</span><span class="english">Bob is two years senior to me.</span></p>
 
 <p><span class="chinese">她比我年长殚三岁。</span><span class="english">She is three years senior to me.</span></p>

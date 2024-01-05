@@ -1,5 +1,7 @@
 # indigestible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indigestible.md)
+
 <p><span class="chinese">炸洋葱有时很难消化。</span><span class="english">Fried onions can be indigestible.</span></p>
 
 <p><span class="chinese">忌吃猪肉和这一类不消化的东西。</span><span class="english">Avoid pork and suchlike indigestible food.</span></p>

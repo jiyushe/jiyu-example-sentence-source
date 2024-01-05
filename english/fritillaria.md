@@ -1,5 +1,7 @@
 # fritillaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fritillaria.md)
+
 <p><span class="chinese">新疆贝母属植物分类研究。</span><span class="english">A taxonomic study of Fritillaria from Xinjiang.</span></p>
 
 <p><span class="chinese">伊贝母生物碱成分的研究。</span><span class="english">Studies on the Alkaloid Constituents of Fritillaria pallidiflora Schrenk.</span></p>

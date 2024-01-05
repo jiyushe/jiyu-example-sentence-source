@@ -1,5 +1,7 @@
 # access
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/access.md)
+
 <p><span class="chinese">访问谷歌图书。</span><span class="english">Access Google Books.</span></p>
 
 <p><span class="chinese">基于门户的访问。</span><span class="english">Portal-based access.</span></p>

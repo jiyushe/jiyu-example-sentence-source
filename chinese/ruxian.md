@@ -1,5 +1,7 @@
 # 乳腺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxian.md)
+
 <p><span class="chinese">乳腺是属于第二性征器官。</span><span class="english">The breast is a secondary sex organ.</span></p>
 
 <p><span class="chinese">乳腺有肿物或肿块。</span><span class="english">There is a lump or mass in the breast.</span></p>

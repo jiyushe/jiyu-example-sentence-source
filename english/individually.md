@@ -1,5 +1,7 @@
 # individually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individually.md)
+
 <p><span class="chinese">老师给我们个别辅导。</span><span class="english">Our teacher helped us individually.</span></p>
 
 <p><span class="chinese">让我们看看每一个月食的情况。</span><span class="english">Let's lookat each eclipse individually.</span></p>

@@ -1,5 +1,7 @@
 # 奇数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishu.md)
+
 <p><span class="chinese">我们显示结果为奇数，然后我们继续。</span><span class="english">Again, wow.</span></p>
 
 <p><span class="chinese">它通常是奇数页。</span><span class="english">It is always a recto.</span></p>

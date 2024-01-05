@@ -1,5 +1,7 @@
 # 引路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinlu.md)
+
 <p><span class="chinese">导盲犬可以为盲主人引路。</span><span class="english">A guide dog can lead its blind owner.</span></p>
 
 <p><span class="chinese">他给那个人引路穿过街道到达车站。</span><span class="english">He guided the man through the streets to the station.</span></p>

@@ -1,5 +1,7 @@
 # 东方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongfang.md)
+
 <p><span class="chinese">风从东方吹来。</span><span class="english">The wind blows easterly.</span></p>
 
 <p><span class="chinese">天空东方变成了粉红色。</span><span class="english">The eastern sky pinkened.</span></p>

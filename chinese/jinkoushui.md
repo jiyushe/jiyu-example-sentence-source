@@ -1,5 +1,7 @@
 # 进口税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkoushui.md)
+
 <p><span class="chinese">你能帮我们算一下进口税吗？</span><span class="english">Can you help calculate our import duty?</span></p>
 
 <p><span class="chinese">不像是支付任何的进口税。</span><span class="english">It's not like it costs any import taxes.</span></p>

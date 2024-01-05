@@ -1,5 +1,7 @@
 # 站住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanzhu.md)
+
 <p><span class="chinese">我的钱！站住！</span><span class="english">My money! Stop!</span></p>
 
 <p><span class="chinese">你给我站住！</span><span class="english">You g ive me stop!</span></p>

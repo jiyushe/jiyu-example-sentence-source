@@ -1,5 +1,7 @@
 # activity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/activity.md)
+
 <p><span class="chinese">考虑任何一种活动。</span><span class="english">Think of any activity.</span></p>
 
 <p><span class="chinese">创建活动监视器。</span><span class="english">Create activity monitor.</span></p>

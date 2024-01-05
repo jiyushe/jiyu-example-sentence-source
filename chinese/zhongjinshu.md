@@ -1,5 +1,7 @@
 # 重金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjinshu.md)
+
 <p><span class="chinese">重金属是圣礼吗？</span><span class="english">Is heavy metal a sacrament?</span></p>
 
 <p><span class="chinese">为什么金和银是贵重金属？</span><span class="english">Why are gold and silver precious metals?</span></p>

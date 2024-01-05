@@ -1,5 +1,7 @@
 # 日日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riri.md)
+
 <p><span class="chinese">日日花前常病酒。</span><span class="english">Amid flowers I drink all day.</span></p>
 
 <p><span class="chinese">祝大家母亲节快乐。日日都快心。</span><span class="english">Happy mother's day to all ma ma.</span></p>

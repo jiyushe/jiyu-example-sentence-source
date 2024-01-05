@@ -1,5 +1,7 @@
 # earpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earpiece.md)
+
 <p><span class="chinese">耳塞和麦克风端不可小于4磅。</span><span class="english">The earpiece and microphone should not be less than 4lbs.</span></p>
 
 <p><span class="chinese">分离式耳机和话筒以消除回音。</span><span class="english">Acoustically isolated earpiece and microphone to eliminate echo.</span></p>

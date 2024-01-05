@@ -1,5 +1,7 @@
 # dinkum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinkum.md)
+
 <p><span class="chinese">简单得很纯粹，平静得很彻底。</span><span class="english">Get simply very dinkum , calm very thoroughly.</span></p>
 
 <p><span class="chinese">当然，如果您纯粹为了加群而加群，那就免了。</span><span class="english">Of course, if you are dinkum to add group and add group, that was avoided.</span></p>

@@ -1,5 +1,7 @@
 # gamelan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamelan.md)
+
 <p><span class="chinese">当荧光呼拉圈遭遇爪哇加麦兰。</span><span class="english">Glowing hula hoop meets Javanese Gamelan.</span></p>
 
 <p><span class="chinese">我们所做的是将我们的特色注入加麦兰的音乐里。</span><span class="english">What we're doing is infusing our personality into the gamelan.</span></p>

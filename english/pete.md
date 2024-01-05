@@ -1,5 +1,7 @@
 # pete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pete.md)
+
 <p><span class="chinese">还记得皮特•贝斯特吗？</span><span class="english">Remember Pete Best?</span></p>
 
 <p><span class="chinese">一个被来叁观彼得的家庭。</span><span class="english">A family come to visit Pete.</span></p>

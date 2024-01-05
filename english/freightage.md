@@ -1,5 +1,7 @@
 # freightage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freightage.md)
+
 <p><span class="chinese">我们肯定会说到做到，支付你们退回的从我处购买的商品的运费。</span><span class="english">We surely will live up to our words that we will pay the freightage for returning the goods that your buy from us.</span></p>
 
 <p><span class="chinese">铁路货物运输的集装箱化是提高铁路运输效率的重要手段。</span><span class="english">The containerization of railway freightage is an important means of enhancing the efficiency of railway transportation.</span></p>

@@ -1,5 +1,7 @@
 # 森严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/senyan.md)
+
 <p><span class="chinese">警戒森严。</span><span class="english">The caution is stern.</span></p>
 
 <p><span class="chinese">封建社会等级森严。</span><span class="english">Feudal society was rigidly stratified.</span></p>

@@ -1,5 +1,7 @@
 # seafloor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seafloor.md)
+
 <p><span class="chinese">长满刺的龙虾试探着爬过海底。</span><span class="english">A spiny lobster shyly crawls across the seafloor.</span></p>
 
 <p><span class="chinese">如果大地震发生在水下，海底有的地方上抬，有的地方下沉。</span><span class="english">When large quakes occur underwater, the seafloor may heave or sink.</span></p>

@@ -1,5 +1,7 @@
 # 谱曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puqu.md)
+
 <p><span class="chinese">鲁塞尔还开始去尝试谱曲。</span><span class="english">Roussel also began composing.</span></p>
 
 <p><span class="chinese">他为许多风行一时的音乐片谱曲。</span><span class="english">He wrote scores for many hit musicals.</span></p>

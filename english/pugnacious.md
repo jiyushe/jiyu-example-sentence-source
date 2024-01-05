@@ -1,5 +1,7 @@
 # pugnacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pugnacious.md)
+
 <p><span class="chinese">在球场上，姚明十分好胜，但从不令人反感。</span><span class="english">On court, Yao was pugnacious but never repugnant.</span></p>
 
 <p><span class="chinese">随后我到一个爱吵架的同事那里寻求建议。</span><span class="english">Afterwards I sought the advice of a pugnacious colleague.</span></p>

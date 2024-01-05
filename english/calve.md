@@ -1,5 +1,7 @@
 # calve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calve.md)
+
 <p><span class="chinese">冰山和冰川在瓦解。</span><span class="english">The icebergs and glaciers calve.</span></p>
 
 <p><span class="chinese">鲸鱼在每年的这个时候产仔。</span><span class="english">The whales calve at this time of year.</span></p>

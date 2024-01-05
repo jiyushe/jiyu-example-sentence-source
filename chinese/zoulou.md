@@ -1,5 +1,7 @@
 # 走漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoulou.md)
+
 <p><span class="chinese">消息走漏了。</span><span class="english">The news leaked out.</span></p>
 
 <p><span class="chinese">消息走漏出去了。</span><span class="english">The news filtered through.</span></p>

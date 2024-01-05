@@ -1,5 +1,7 @@
 # sing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sing.md)
+
 <p><span class="chinese">唱出来。</span><span class="english">Sing it.</span></p>
 
 <p><span class="chinese">预备,唱</span><span class="english">Ready, sing.</span></p>

@@ -1,5 +1,7 @@
 # plankton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plankton.md)
+
 <p><span class="chinese">生物学是对生物的研究。</span><span class="english">Plankton and nekton are pelagic organisms.</span></p>
 
 <p><span class="chinese">浮游生物和自游生物都是海面的生物。</span><span class="english">Plankton and nekton are pelagic organisms.</span></p>

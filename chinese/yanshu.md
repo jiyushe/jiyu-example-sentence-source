@@ -1,5 +1,7 @@
 # 眼熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshu.md)
+
 <p><span class="chinese">我们何曾见过只是觉得眼熟。</span><span class="english">We have seen just feel familiar.</span></p>
 
 <p><span class="chinese">这个女人看起来很眼熟。</span><span class="english">The woman looked vaguely familiar.</span></p>

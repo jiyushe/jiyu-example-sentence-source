@@ -1,5 +1,7 @@
 # blankly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blankly.md)
+
 <p><span class="chinese">他茫然的看着我。</span><span class="english">He looked at me blankly.</span></p>
 
 <p><span class="chinese">他一脸茫然地看着我。</span><span class="english">He looked at me blankly.</span></p>

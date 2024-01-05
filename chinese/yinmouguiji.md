@@ -1,5 +1,7 @@
 # 阴谋诡计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinmouguiji.md)
+
 <p><span class="chinese">你绝不会知道，他也许在搞阴谋诡计。</span><span class="english">You never know he may be foxing.</span></p>
 
 <p><span class="chinese">这座宫殿曾是阴谋诡计的策源地。</span><span class="english">The palace was a nest of intrigue.</span></p>

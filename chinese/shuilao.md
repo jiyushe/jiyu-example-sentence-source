@@ -1,5 +1,7 @@
 # 水涝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilao.md)
+
 <p><span class="chinese">喜鹊搭窝高，当年雨水涝。</span><span class="english">The magpies nest year high, waterlogging rain.</span></p>
 
 <p><span class="chinese">修筑了土墙和排水沟来防止风沙和水涝。</span><span class="english">Walls and drains have been built to keep out sand and water.</span></p>

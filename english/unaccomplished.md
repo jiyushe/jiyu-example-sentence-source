@@ -1,5 +1,7 @@
 # unaccomplished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaccomplished.md)
+
 <p><span class="chinese">他是个毫无成就的作家。</span><span class="english">He's an unaccomplished author.</span></p>
 
 <p><span class="chinese">而现实中常常见到农民不合作的案例。</span><span class="english">However, many cases of the unaccomplished cooperation often could be found.</span></p>

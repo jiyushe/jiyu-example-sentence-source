@@ -1,5 +1,7 @@
 # autumnal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autumnal.md)
+
 <p><span class="chinese">这就是弥尔顿得到“秋天般的“灵感的来源</span><span class="english">This is where Milton gets the "autumnal."</span></p>
 
 <p><span class="chinese">这就是弥尔顿得到“秋天般的“灵感的来源“</span><span class="english">This is where Milton gets the "autumnal."</span></p>

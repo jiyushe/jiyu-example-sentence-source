@@ -1,5 +1,7 @@
 # 一鸣惊人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimingjingren.md)
+
 <p><span class="chinese">有些人总是不鸣则已一鸣惊人。</span><span class="english">The quiet ones always sneak up on you.</span></p>
 
 <p><span class="chinese">从普通意义上来说，无名小卒的一鸣惊人能带来更大的惊喜，这也是他计划的一部分。</span><span class="english">That he came from nowhere in a lot of ways was part of the plan.</span></p>

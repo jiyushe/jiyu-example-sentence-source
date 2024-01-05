@@ -1,5 +1,7 @@
 # calvinist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calvinist.md)
+
 <p><span class="chinese">他是被一个严厉的喀尔文教徒家庭抚养长大。</span><span class="english">He was brought up in a strict Calvinist household.</span></p>
 
 <p><span class="chinese">早期的美国移民是卡尔文式禁欲主义的信民。</span><span class="english">The early settlers believed in Calvinist restraint.</span></p>

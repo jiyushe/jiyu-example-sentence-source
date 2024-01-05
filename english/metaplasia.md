@@ -1,5 +1,7 @@
 # metaplasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaplasia.md)
+
 <p><span class="chinese">再者，犀利哥又是现代人流浪情怀的托梦者。</span><span class="english">Furthermore, the sharp brother is metaplasia of wandering modern feelings.</span></p>
 
 <p><span class="chinese">嗜烟者喉部呼吸道上皮化生。</span><span class="english">Metaplasia of laryngeal reiratory epithelium has occurred here in a smoker.</span></p>

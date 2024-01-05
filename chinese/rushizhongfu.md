@@ -1,5 +1,7 @@
 # 如释重负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushizhongfu.md)
+
 <p><span class="chinese">我激动万分，如释重负。</span><span class="english">I was thrilled and relieved.</span></p>
 
 <p><span class="chinese">我有一总如释重负的感觉。</span><span class="english">I have a sense of completion.</span></p>

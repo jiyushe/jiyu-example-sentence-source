@@ -1,5 +1,7 @@
 # 第三者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/disanzhe.md)
+
 <p><span class="chinese">我猜测一定是有第三者插足。</span><span class="english">I gar there must be a third person involved.</span></p>
 
 <p><span class="chinese">于是我离开了，我不愿成为碍事的第三者。</span><span class="english">So I left, so that I wouldn't be in the way.</span></p>

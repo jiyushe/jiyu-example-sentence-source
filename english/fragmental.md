@@ -1,5 +1,7 @@
 # fragmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragmental.md)
+
 <p><span class="chinese">所得结论对控制和提高爆破破碎质量具有重要意义。</span><span class="english">The results obtained are important to controlling the fragmental quality under bench blasting.</span></p>
 
 <p><span class="chinese">近些年观荷画荷，似乎更多的注意力是在一种残缺的美上。</span><span class="english">In recent years' viewing and painting lotus, it seems paying more attention to its fragmental beauty.</span></p>

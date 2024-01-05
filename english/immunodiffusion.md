@@ -1,5 +1,7 @@
 # immunodiffusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunodiffusion.md)
+
 <p><span class="chinese">可使用免疫扩散法检测特异性。</span><span class="english">To test for specificity, radial immunodiffusion was employed.</span></p>
 
 <p><span class="chinese">利用单向免疫扩散试验测定有氧运动前后血清中C3、C4含量。</span><span class="english">C3 or C4 quantities of the students' sera were detected by single immunodiffusion.</span></p>

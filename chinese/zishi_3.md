@@ -1,5 +1,7 @@
 # 滋事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishi_3.md)
+
 <p><span class="chinese">约有20人因滋事被捕。</span><span class="english">About 20 were arrested for affray.</span></p>
 
 <p><span class="chinese">法兰克经常在学校打架滋事。</span><span class="english">Frank always gets into brawls at school.</span></p>

@@ -1,5 +1,7 @@
 # 描述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoshu.md)
+
 <p><span class="chinese">描述它。</span><span class="english">Describe it.</span></p>
 
 <p><span class="chinese">描述他。</span><span class="english">Describe him.</span></p>

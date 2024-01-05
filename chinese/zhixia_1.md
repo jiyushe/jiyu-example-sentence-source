@@ -1,5 +1,7 @@
 # 直辖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixia_1.md)
+
 <p><span class="chinese">1979年12月14日，安达市更名为大庆市，由黑龙江省直辖。</span><span class="english">December 14, 1979, Anda renamed Daqing City, Heilongjiang Province by the Territory.</span></p>
 
 <p><span class="chinese">沙巴民主行动党于周末在纳闽联邦直辖区进行新选民登记活动。</span><span class="english">Sabah DAP is in the FT Labuan for the weekends to register new voters. Sabah DAP Chief YB Dr.</span></p>

@@ -1,5 +1,7 @@
 # agribusiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agribusiness.md)
+
 <p><span class="chinese">目标我们的目标是成为最好的食品和农业公司。</span><span class="english">What we want to be is the best food and agribusiness company.</span></p>
 
 <p><span class="chinese">然而，当今的企业化农业却否认拒绝动物最基本的需求。</span><span class="english">Yet agribusiness today denies animals their most fundamental needs.</span></p>

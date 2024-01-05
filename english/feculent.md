@@ -1,5 +1,7 @@
 # feculent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feculent.md)
+
 <p><span class="chinese">另外，粉底稍有不洁，还会造成细菌感染，引发皮肤病。</span><span class="english">Additional, powdery bottom has a bit feculent , still can cause bacterial infection, cause skin disease.</span></p>
 
 <p><span class="chinese">禁忌是因对某种神秘或不洁事物的恐惧而以消极回避的方式所进行的自我抑制。</span><span class="english">The taboo is a negative self-repression for trepidation that come from some mystery or feculent something.</span></p>

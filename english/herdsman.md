@@ -1,5 +1,7 @@
 # herdsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herdsman.md)
+
 <p><span class="chinese">肥沃的草地吸引了牧人。</span><span class="english">Lush grasslands beckoned the herdsman.</span></p>
 
 <p><span class="chinese">你知道是谁发现牧夫星座的吗？</span><span class="english">Do you know who discovered the Herdsman ?</span></p>

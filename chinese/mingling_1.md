@@ -1,5 +1,7 @@
 # 明令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingling_1.md)
+
 <p><span class="chinese">公元393年，皇帝狄奥多西一世，一个基督教徒，把奥运会当作异教徒的表演出明令加以禁止。</span><span class="english">In 393 A. D. Emperor Theodosius I, who was a Christian, banned the Games as pagan shows.</span></p>
 
 <p><span class="chinese">甚至在一些不明令要求提供婚姻过失细节的大州，有些人们却得这麽做。</span><span class="english">Some people provide details when they seek divorces even in states where they are not legally obliged to.</span></p>

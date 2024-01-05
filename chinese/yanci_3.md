@@ -1,5 +1,7 @@
 # 言辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanci_3.md)
+
 <p><span class="chinese">他的虚夸的言辞并非新鲜。</span><span class="english">His rhetoric was not new.</span></p>
 
 <p><span class="chinese">这就是称为半真半假的言辞。</span><span class="english">That's called a half-truth.</span></p>

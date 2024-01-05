@@ -1,5 +1,7 @@
 # 遭难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaonan.md)
+
 <p><span class="chinese">如同个体一样，团体也会遭难。</span><span class="english">Communities as well as individuals suffer.</span></p>
 
 <p><span class="chinese">偷袭珍珠港是一次具有毁灭性的遭难。</span><span class="english">The attack on Pearl Harbor am a crushing calamity.</span></p>

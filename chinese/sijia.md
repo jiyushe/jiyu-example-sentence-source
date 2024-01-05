@@ -1,5 +1,7 @@
 # 私家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijia.md)
+
 <p><span class="chinese">我想要一辆大型的私家轿车。</span><span class="english">I want a big sedan.</span></p>
 
 <p><span class="chinese">我时常一小我私家生闷气。</span><span class="english">I often be in the sulks.</span></p>

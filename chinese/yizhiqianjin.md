@@ -1,5 +1,7 @@
 # 一掷千金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhiqianjin.md)
+
 <p><span class="chinese">真是一掷千金！这地方太奢侈，还有成年人的娱乐室。</span><span class="english">High rollers! The lavish space also has a playroom for adults.</span></p>
 
 <p><span class="chinese">他们或许很有生意头脑，但也很容易一掷千金。</span><span class="english">They may be business-minded, but they can also fritter money away!</span></p>

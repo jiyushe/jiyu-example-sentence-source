@@ -1,5 +1,7 @@
 # force 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/force.md)
+
 <p><span class="chinese">原力。</span><span class="english">The Force.</span></p>
 
 <p><span class="chinese">不要用蛮力。</span><span class="english">Don't force.</span></p>

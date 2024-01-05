@@ -1,5 +1,7 @@
 # eclecticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclecticism.md)
+
 <p><span class="chinese">这是一个重要的折衷主义的时期。</span><span class="english">This was a period of great eclecticism.</span></p>
 
 <p><span class="chinese">哲学课上，我们连续用折衷主义分析题目。</span><span class="english">In philosophy class, we're practicing eclecticism.</span></p>

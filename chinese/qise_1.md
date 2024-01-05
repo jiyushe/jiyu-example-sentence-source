@@ -1,5 +1,7 @@
 # 起色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qise_1.md)
+
 <p><span class="chinese">行业再有起色。</span><span class="english">The industry picked up again.</span></p>
 
 <p><span class="chinese">他在各方面都有起色。</span><span class="english">He has made progress in every aspect.</span></p>

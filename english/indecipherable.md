@@ -1,5 +1,7 @@
 # indecipherable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indecipherable.md)
+
 <p><span class="chinese">他声音很小，听不清楚。</span><span class="english">He uttered little indecipherable sounds.</span></p>
 
 <p><span class="chinese">玛吉的笔迹几乎无法辨认。</span><span class="english">Maggie'swriting was virtually indecipherable.</span></p>

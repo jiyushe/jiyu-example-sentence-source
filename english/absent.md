@@ -1,5 +1,7 @@
 # absent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absent.md)
+
 <p><span class="chinese">这里缺了谁呢？</span><span class="english">Who's absent?</span></p>
 
 <p><span class="chinese">下巴触须不存在。</span><span class="english">Chin barbel absent.</span></p>

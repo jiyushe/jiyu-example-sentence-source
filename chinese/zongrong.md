@@ -1,5 +1,7 @@
 # 纵容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongrong.md)
+
 <p><span class="chinese">他的母亲纵容他。</span><span class="english">His mother babied him.</span></p>
 
 <p><span class="chinese">我们不能纵容学生。</span><span class="english">Let's not mollycoddle our students!</span></p>

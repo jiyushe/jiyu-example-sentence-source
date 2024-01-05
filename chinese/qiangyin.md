@@ -1,5 +1,7 @@
 # 强音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangyin.md)
+
 <p><span class="chinese">时代的强音正在你的脚下踏响。</span><span class="english">Age is being sounded under your feet.</span></p>
 
 <p><span class="chinese">“性感”已经成为了社会的强音。</span><span class="english">"Sexiness" has become a social aspiration.</span></p>

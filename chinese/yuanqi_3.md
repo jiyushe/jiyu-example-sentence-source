@@ -1,5 +1,7 @@
 # 远期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqi_3.md)
+
 <p><span class="chinese">抱歉，我们不收远期支票。</span><span class="english">I'm sorry. We don't accept postdated checks.</span></p>
 
 <p><span class="chinese">远期日运载能力为100万人次。</span><span class="english">The long- term day carries the ability as 100.</span></p>

@@ -1,5 +1,7 @@
 # 租赁经营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zulinjingying.md)
+
 <p><span class="chinese">如家第二季度新开设了51家租赁经营酒店。</span><span class="english">If home the second quarter opened 51 new lease operating a hotel.</span></p>
 
 <p><span class="chinese">在新西兰租赁经营场所是很常见的。</span><span class="english">It is common in New Zealand for the premises used for the business to be leased.</span></p>

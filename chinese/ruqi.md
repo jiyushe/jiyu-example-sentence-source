@@ -1,5 +1,7 @@
 # 如期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruqi.md)
+
 <p><span class="chinese">她没有如期付款。</span><span class="english">She fell down on her payment.</span></p>
 
 <p><span class="chinese">货物已如期运到。</span><span class="english">The goods arrived on schedule.</span></p>

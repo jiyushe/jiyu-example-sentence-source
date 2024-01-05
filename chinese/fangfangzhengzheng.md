@@ -1,5 +1,7 @@
 # 方方正正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangfangzhengzheng.md)
+
 <p><span class="chinese">方方正正的水立方。</span><span class="english">Right-angled walls of Water Cube.</span></p>
 
 <p><span class="chinese">对男孩子们不要方方正正的像囚徒。</span><span class="english">Not squares for boys like prisoners.</span></p>

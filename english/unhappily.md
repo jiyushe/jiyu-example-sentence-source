@@ -1,5 +1,7 @@
 # unhappily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhappily.md)
+
 <p><span class="chinese">纯洁的信仰被不幸地抛弃。</span><span class="english">And purest faith unhappily forsworn.</span></p>
 
 <p><span class="chinese">我像往常一样不高兴地坐在书桌旁。</span><span class="english">I sat at my desk unhappily as usual.</span></p>

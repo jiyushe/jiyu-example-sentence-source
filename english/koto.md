@@ -1,5 +1,7 @@
 # koto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/koto.md)
+
 <p><span class="chinese">我能看见你的脚。</span><span class="english">I can see your feet, Koto.</span></p>
 
 <p><span class="chinese">Koto从安迪的手提袋里拿了本书。</span><span class="english">Koto took the book from Andy’s bag.</span></p>

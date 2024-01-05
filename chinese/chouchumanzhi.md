@@ -1,5 +1,7 @@
 # 踌躇满志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouchumanzhi.md)
+
 <p><span class="chinese">她踌躇满志，要在两年内完成高中学业。</span><span class="english">She is ambitious to get through high school in two years.</span></p>
 
 <p><span class="chinese">二度车网杭州负责人踌躇满志。</span><span class="english">Two degree vehicle net Hangzhou person in charge is smug.</span></p>

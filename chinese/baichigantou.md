@@ -1,5 +1,7 @@
 # 百尺竿头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baichigantou.md)
+
 <p><span class="chinese">百尺竿头更进一步。</span><span class="english">Make still further progress.</span></p>
 
 <p><span class="chinese">“百尺竿头更进一步”。</span><span class="english">"Still further progress in the".</span></p>

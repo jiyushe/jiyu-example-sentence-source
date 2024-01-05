@@ -1,5 +1,7 @@
 # anticholinergic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticholinergic.md)
+
 <p><span class="chinese">这些药物被称为抗胆碱能制剂和旨在阻止乙酰胆碱。</span><span class="english">These drugs are known as anticholinergic agents and are designed to block acetylcholine.</span></p>
 
 <p><span class="chinese">现阶段的处置以药物的症状治疗为主。</span><span class="english">Symptomatic treatment with dopaminergic and anticholinergic medications remains the mainstay at the present time.</span></p>

@@ -1,5 +1,7 @@
 # physiognomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physiognomic.md)
+
 <p><span class="chinese">植被图上的植被型是依空照图上的形相来辨识。</span><span class="english">Vegetation types were identified according to the physiognomic appearances in aerial photographs.</span></p>
 
 <p><span class="chinese">在面部感知方面，除了相貌的变化，一些诸如眼镜的配饰也会影响外表。</span><span class="english">In face perception, besides physiognomic changes, accessories like eyeglasses can influence facial appearance.</span></p>

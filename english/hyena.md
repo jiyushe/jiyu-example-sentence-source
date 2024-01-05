@@ -1,5 +1,7 @@
 # hyena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyena.md)
+
 <p><span class="chinese">你有去摸鬣狗吗？</span><span class="english">Did you pet a hyena?</span></p>
 
 <p><span class="chinese">他们告诉你了为什么我被叫做鬣狗吗?。</span><span class="english">They tell you why l was called The Hyena ?</span></p>

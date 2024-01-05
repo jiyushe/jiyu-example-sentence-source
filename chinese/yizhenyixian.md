@@ -1,5 +1,7 @@
 # 一针一线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhenyixian.md)
+
 <p><span class="chinese">连衣服上的花纹都是一针一线的杰作。</span><span class="english">Even the picture in the cloth is handmade!</span></p>
 
 <p><span class="chinese">法兰绒衬和反衬一针一线的细节。</span><span class="english">Flannel lining and contrasting stitch details.</span></p>

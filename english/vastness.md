@@ -1,5 +1,7 @@
 # vastness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vastness.md)
+
 <p><span class="chinese">我羡慕他的搏大。</span><span class="english">I admire her vastness and greatness.</span></p>
 
 <p><span class="chinese">人类总是受永久之宏壮的搅扰。</span><span class="english">Men are hmothered by the vastness of eternity.</span></p>

@@ -1,5 +1,7 @@
 # cavitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavitation.md)
+
 <p><span class="chinese">气穴可以由各种原因引起。</span><span class="english">Cavitation can be caused by a variety of reasons.</span></p>
 
 <p><span class="chinese">空化效应是超声的主要生物学效应之一。</span><span class="english">Cavitation is one of ultrasound chief bioeffects.</span></p>

@@ -1,5 +1,7 @@
 # 抓耳挠腮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuaernaosai.md)
+
 <p><span class="chinese">如果人一多，你就得抓耳挠腮了。他们会让你抓狂的。</span><span class="english">Because otherwise, you wanna pull your hair out. They drive you crazy.</span></p>
 
 <p><span class="chinese">这意味着你抓耳挠腮以使自己想起你遗忘的东西。</span><span class="english">It means to scratch your head in order to help you remember something you’ve forgotten.</span></p>

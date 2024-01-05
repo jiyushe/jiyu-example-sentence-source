@@ -1,5 +1,7 @@
 # beaverboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaverboard.md)
+
 <p><span class="chinese">密度板也叫纤维板。</span><span class="english">Density board also calls beaverboard.</span></p>
 
 <p><span class="chinese">密度板，也称纤维板。</span><span class="english">Density board, also weigh beaverboard.</span></p>

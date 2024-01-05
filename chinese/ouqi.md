@@ -1,5 +1,7 @@
 # 怄气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouqi.md)
+
 <p><span class="chinese">我很怄气。</span><span class="english">I'm so angry.</span></p>
 
 <p><span class="chinese">你会跟动物怄气吗？</span><span class="english">You angry with the animals?</span></p>

@@ -1,5 +1,7 @@
 # 校庆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqing_1.md)
+
 <p><span class="chinese">你们学校举办校庆日吗？</span><span class="english">Do you have a Sports Day at your school?</span></p>
 
 <p><span class="chinese">她的生日是九月十五号你们有校庆日吗？</span><span class="english">Her birthday is September 15th Do you have a School Day?</span></p>

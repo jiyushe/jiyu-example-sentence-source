@@ -1,5 +1,7 @@
 # gnarled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnarled.md)
+
 <p><span class="chinese">这些柳树的树干盘根错杂，仿佛盆景一般。</span><span class="english">Their trunks are as gnarled as bonsai.</span></p>
 
 <p><span class="chinese">苍凉的手指摹写温暖的留名。</span><span class="english">Gnarled fingers trace the signature of warmth.</span></p>

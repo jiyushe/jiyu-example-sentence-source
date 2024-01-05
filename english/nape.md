@@ -1,5 +1,7 @@
 # nape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nape.md)
+
 <p><span class="chinese">直接抹脖子死了岂不干净？</span><span class="english">Directly put above nape to die no wash?</span></p>
 
 <p><span class="chinese">我的手搂着他的脖子，目光注视着他的颈背。</span><span class="english">My gaze fell to the nape of his neck where my hand is.</span></p>

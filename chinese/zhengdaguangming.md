@@ -1,5 +1,7 @@
 # 正大光明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdaguangming.md)
+
 <p><span class="chinese">每个人都应该公正无私，正大光明。</span><span class="english">Everybody should be fair and square.</span></p>
 
 <p><span class="chinese">这笔交易完全是正大光明的。</span><span class="english">The deal was completely open and above board.</span></p>

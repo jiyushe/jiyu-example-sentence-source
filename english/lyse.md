@@ -1,5 +1,7 @@
 # lyse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyse.md)
+
 <p><span class="chinese">我们的记者从德黑兰发回报道。</span><span class="english">Our correspondent in Tehran Lyse Doucet.</span></p>
 
 <p><span class="chinese">加入950ul溶菌buffer到细胞中如步骤一再裂解一次。</span><span class="english">Add 950 ul lysis to the cell pellet and lyse again as step 1.</span></p>

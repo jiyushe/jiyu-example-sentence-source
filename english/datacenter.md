@@ -1,5 +1,7 @@
 # datacenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/datacenter.md)
+
 <p><span class="chinese">看看现在的数据中心。</span><span class="english">Look at a datacenter today.</span></p>
 
 <p><span class="chinese">几乎没有机构拥有完美的或近乎完美的数据中心正常运行时间。</span><span class="english">Very few organizations have perfect or near-perfect datacenter uptimes.</span></p>

@@ -1,5 +1,7 @@
 # 蹒跚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panshan.md)
+
 <p><span class="chinese">蹒跚而行还是一蹶不振？</span><span class="english">Stumble or slump?</span></p>
 
 <p><span class="chinese">我看见一位老太太蹒跚前进。</span><span class="english">I saw an old woman barging.</span></p>

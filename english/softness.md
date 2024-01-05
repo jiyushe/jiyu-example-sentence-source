@@ -1,5 +1,7 @@
 # softness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/softness.md)
+
 <p><span class="chinese">柔能克刚。</span><span class="english">Softness can overcome strength.</span></p>
 
 <p><span class="chinese">右膝保持柔软。</span><span class="english">Right knee to maintain softness.</span></p>

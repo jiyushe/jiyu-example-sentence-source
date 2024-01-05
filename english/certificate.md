@@ -1,5 +1,7 @@
 # certificate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certificate.md)
+
 <p><span class="chinese">死亡证书。</span><span class="english">A death certificate.</span></p>
 
 <p><span class="chinese">此证明无效。</span><span class="english">This certificate is invalid.</span></p>

@@ -1,5 +1,7 @@
 # handsaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handsaw.md)
+
 <p><span class="chinese">上边缘用金属加固的手锯。</span><span class="english">A handsaw stiffened by metal along upper edge.</span></p>
 
 <p><span class="chinese">别担心，他骗不了我，我还有起码的辨别能力。</span><span class="english">Don't worry. He won't fool me. I know a hawk from a handsaw.</span></p>

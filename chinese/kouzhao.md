@@ -1,5 +1,7 @@
 # 口罩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouzhao.md)
+
 <p><span class="chinese">你现在应戴只口罩么。</span><span class="english">You should be wearing a mask.</span></p>
 
 <p><span class="chinese">甚至没有装饰的口罩销售也在增加。</span><span class="english">Even unadorned masks are selling.</span></p>

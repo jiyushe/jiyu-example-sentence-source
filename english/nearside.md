@@ -1,5 +1,7 @@
 # nearside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nearside.md)
+
 <p><span class="chinese">从另一个角度看。</span><span class="english">Another nearside view of the bus.</span></p>
 
 <p><span class="chinese">汽车碰撞时左侧的翼自板夭坏了。</span><span class="english">The nearside wing was damaged in collision.</span></p>

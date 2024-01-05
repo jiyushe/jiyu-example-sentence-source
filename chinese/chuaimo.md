@@ -1,5 +1,7 @@
 # 揣摩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuaimo.md)
+
 <p><span class="chinese">去揣摩那人物的人性。</span><span class="english">Find the character's humanity.</span></p>
 
 <p><span class="chinese">西凤不解，和向南揣摩。</span><span class="english">West chicken, and ponder to the south.</span></p>

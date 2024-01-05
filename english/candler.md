@@ -1,5 +1,7 @@
 # candler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candler.md)
+
 <p><span class="chinese">实质上，阿萨·坎德勒想给全世界的人都买一杯可乐。</span><span class="english">In essence, Asa Candler wanted to buy the world a Coke.</span></p>
 
 <p><span class="chinese">现在，坎德勒想做的就是使可口可乐家喻户晓。</span><span class="english">Now Candler set about making Coca Cola a household word.</span></p>

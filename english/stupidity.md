@@ -1,5 +1,7 @@
 # stupidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupidity.md)
+
 <p><span class="chinese">他蠢得让人难以相信。</span><span class="english">His stupidity is past belief.</span></p>
 
 <p><span class="chinese">可能是我自己愚昧无知.</span><span class="english">It may just be my own stupidity.</span></p>

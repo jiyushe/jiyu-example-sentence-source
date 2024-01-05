@@ -1,5 +1,7 @@
 # 思绪万千
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixuwanqian.md)
+
 <p><span class="chinese">思绪万千，涌现在我的脑海。</span><span class="english">All kinds of thoughts raced through my mind.</span></p>
 
 <p><span class="chinese">Nick坐在他的公寓中，思绪万千。</span><span class="english">Nick sits in his apartment, his mind racing.</span></p>

@@ -1,5 +1,7 @@
 # disinfectant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinfectant.md)
+
 <p><span class="chinese">消毒剂灭杀细菌。</span><span class="english">Disinfectant kills germs.</span></p>
 
 <p><span class="chinese">安全的织物消毒液。</span><span class="english">Safe disinfectant for fabrics.</span></p>

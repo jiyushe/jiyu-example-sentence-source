@@ -1,5 +1,7 @@
 # certifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certifiable.md)
+
 <p><span class="chinese">朝鲜人发癫了？他们的领导人是个变态？</span><span class="english">Are North Koreans nuts? Is their leader a certifiable wacko?</span></p>
 
 <p><span class="chinese">转基因动物来源肥料不可被认证。</span><span class="english">Manure from genetically modified animals is not certifiable.</span></p>

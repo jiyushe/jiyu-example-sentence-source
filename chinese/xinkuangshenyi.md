@@ -1,5 +1,7 @@
 # 心旷神怡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkuangshenyi.md)
+
 <p><span class="chinese">在凉爽的天气里轻松地散步令人心旷神怡。</span><span class="english">A brisk walk in cool weather is invigorating.</span></p>
 
 <p><span class="chinese">日出的美景真令人心旷神怡。</span><span class="english">The beauty of the sunrise is really breathtaking.</span></p>

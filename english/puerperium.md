@@ -1,5 +1,7 @@
 # puerperium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puerperium.md)
+
 <p><span class="chinese">经过产褥期的休息和调养，产妇一般都能自我感觉良好。</span><span class="english">After puerperium rest and nursed back to health, maternal generally feel good.</span></p>
 
 <p><span class="chinese">方法回顾性分析22例患者的临床资料。</span><span class="english">Methods The clinical data in 22 patients with CVST in puerperium were retrospectively analyzed.</span></p>

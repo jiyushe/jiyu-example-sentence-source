@@ -1,5 +1,7 @@
 # longstanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longstanding.md)
+
 <p><span class="chinese">幽门螺杆菌的感染通常是长期存在的。</span><span class="english">H. pylori infection is often longstanding.</span></p>
 
 <p><span class="chinese">这种思想斗争广泛存在</span><span class="english">This is a longstanding conflict in our thinking.</span></p>

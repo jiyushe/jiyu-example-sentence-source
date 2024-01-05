@@ -1,5 +1,7 @@
 # hydrographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrographic.md)
+
 <p><span class="chinese">南海晚第四纪古水文之探讨I。</span><span class="english">Hydrographic Records from the South China Sea I.</span></p>
 
 <p><span class="chinese">南海晚第四纪古水文之探讨I。</span><span class="english">Late Quaternary Hydrographic Records from the South China Sea I.</span></p>

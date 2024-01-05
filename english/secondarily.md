@@ -1,5 +1,7 @@
 # secondarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secondarily.md)
+
 <p><span class="chinese">其次是什么呢？</span><span class="english">What about secondarily?</span></p>
 
 <p><span class="chinese">其次，则是对成功的挑战及不断进步。</span><span class="english">Secondarily , is a challenge of success and progressive.</span></p>

@@ -1,5 +1,7 @@
 # 厌烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanfan.md)
+
 <p><span class="chinese">好女人令我厌烦。</span><span class="english">Good women bore one.</span></p>
 
 <p><span class="chinese">他说话的腔调使我厌烦。</span><span class="english">His accent repels me.</span></p>

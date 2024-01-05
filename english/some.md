@@ -1,5 +1,7 @@
 # some 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/some.md)
+
 <p><span class="chinese">来点水吧。</span><span class="english">Some water.</span></p>
 
 <p><span class="chinese">部分面包。</span><span class="english">Some breads.</span></p>

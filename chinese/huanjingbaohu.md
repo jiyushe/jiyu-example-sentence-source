@@ -1,5 +1,7 @@
 # 环境保护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjingbaohu.md)
+
 <p><span class="chinese">——生态环境保护明显加强。</span><span class="english">Stronger protection of the environment.</span></p>
 
 <p><span class="chinese">扬州市环境保护局。</span><span class="english">Yangzhou Enviromental Protection Bureau.</span></p>

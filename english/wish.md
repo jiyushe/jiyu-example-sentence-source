@@ -1,5 +1,7 @@
 # wish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wish.md)
+
 <p><span class="chinese">祝我好运。</span><span class="english">Wish me luck.</span></p>
 
 <p><span class="chinese">真希望我能知道。</span><span class="english">I wish I knew.</span></p>

@@ -1,5 +1,7 @@
 # fortieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortieth.md)
+
 <p><span class="chinese">我办公室在第四十楼。</span><span class="english">My office is on the fortieth floor.</span></p>
 
 <p><span class="chinese">我的办公室在第四十楼。</span><span class="english">My office is on the fortieth floor.</span></p>

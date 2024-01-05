@@ -1,5 +1,7 @@
 # 殊死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shusi.md)
+
 <p><span class="chinese">一场与法西斯的殊死对决。</span><span class="english">This is a fight against fascism.</span></p>
 
 <p><span class="chinese">敌人因失败而进行殊死挣扎。</span><span class="english">The enemy became desperate at the defeat.</span></p>

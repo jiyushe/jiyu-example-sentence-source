@@ -1,5 +1,7 @@
 # fattiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fattiness.md)
+
 <p><span class="chinese">每天摄入的脂肪量最好不要超过65克。</span><span class="english">The fattiness of everyday is not more than 65G.</span></p>
 
 <p><span class="chinese">过了一个冬天，很多人开始为身上若隐若现的赘肉犯愁了。</span><span class="english">After this summer, many people begin to worry about their fattiness.</span></p>

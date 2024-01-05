@@ -1,5 +1,7 @@
 # plough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plough.md)
+
 <p><span class="chinese">犁耕过地面。</span><span class="english">The plough sliced the land.</span></p>
 
 <p><span class="chinese">农民给犁套上了牲口。</span><span class="english">The farmer yoked his plough.</span></p>

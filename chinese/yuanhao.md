@@ -1,5 +1,7 @@
 # 圆号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanhao.md)
+
 <p><span class="chinese">是这样，但是又有谁会把塔罗牌放在法国圆号下面呢？</span><span class="english">Yes, but who keeps a Tarot deck under a French horn ?</span></p>
 
 <p><span class="chinese">在他的职业生涯之初，他是家庭五重奏中的圆号演奏者。</span><span class="english">He began his career as a horn player in a family quintet.</span></p>

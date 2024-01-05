@@ -1,5 +1,7 @@
 # impermanent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impermanent.md)
+
 <p><span class="chinese">仪式上的不洁也是暂时的。</span><span class="english">Ritual impurity is also impermanent.</span></p>
 
 <p><span class="chinese">这个世界是虚幻和短暂的。</span><span class="english">This kind of world is illusory and impermanent.</span></p>

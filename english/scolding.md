@@ -1,5 +1,7 @@
 # scolding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scolding.md)
+
 <p><span class="chinese">我又干了他一顿。</span><span class="english">I gave him a scolding.</span></p>
 
 <p><span class="chinese">张嘴骂人之前先倒数十秒。</span><span class="english">Count to ten before scolding.</span></p>

@@ -1,5 +1,7 @@
 # 查勘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chakan_1.md)
+
 <p><span class="chinese">您对我们查勘员的电话满意吗？</span><span class="english">Members of our survey your telephone satisfaction?</span></p>
 
 <p><span class="chinese">在这场关于克隆的争论中，宗教是否能查勘最终的原因呢？</span><span class="english">In the debate over cloning, will religious views ultimately matter?</span></p>

@@ -1,5 +1,7 @@
 # 值日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiri.md)
+
 <p><span class="chinese">今天他值日。</span><span class="english">He's on duty today.</span></p>
 
 <p><span class="chinese">今天是我值日。</span><span class="english">Today is my on duty.</span></p>

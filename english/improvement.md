@@ -1,5 +1,7 @@
 # improvement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improvement.md)
+
 <p><span class="chinese">这是一个巨大的进步。</span><span class="english">So it's a big improvement.</span></p>
 
 <p><span class="chinese">是的，这是我改进的着法。</span><span class="english">Yes, it is my improvement.</span></p>

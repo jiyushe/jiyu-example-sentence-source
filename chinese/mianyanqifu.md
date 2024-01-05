@@ -1,5 +1,7 @@
 # 绵延起伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyanqifu.md)
+
 <p><span class="chinese">那片土地绵延起伏好几哩。</span><span class="english">The country went rolling by for miles and miles.</span></p>
 
 <p><span class="chinese">林木苍翠、绵延起伏的骊山。</span><span class="english">The undulating Lishan Mountain is covered with pine trees.</span></p>

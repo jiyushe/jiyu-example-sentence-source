@@ -1,5 +1,7 @@
 # ots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ots.md)
+
 <p><span class="chinese">对新产品开发工作在OTS阶段有独立处理权。</span><span class="english">Full responsibility of OTS develop phase in new project.</span></p>
 
 <p><span class="chinese">从沙士疫区前来的旅客将被隔离十天。</span><span class="english">Travelers from SARS hot ots are being isolated for 10 days.</span></p>

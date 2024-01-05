@@ -1,5 +1,7 @@
 # tumour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumour.md)
+
 <p><span class="chinese">垂体瘤的治疗？</span><span class="english">The cure of hypophysis tumour?</span></p>
 
 <p><span class="chinese">癌是一种恶性瘤。</span><span class="english">A cancer is a malignant tumour.</span></p>

@@ -1,5 +1,7 @@
 # 好吃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haochi.md)
+
 <p><span class="chinese">你好好吃行不行?。</span><span class="english">Will you pleasse eat?</span></p>
 
 <p><span class="chinese">生鱼好吃吗?。</span><span class="english">Is raw fish good eating?</span></p>

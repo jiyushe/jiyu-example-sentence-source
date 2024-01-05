@@ -1,5 +1,7 @@
 # hypercalcemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypercalcemia.md)
+
 <p><span class="chinese">如果风险监测血钙高血钙。</span><span class="english">Monitor serum calcium if risk of hypercalcemia.</span></p>
 
 <p><span class="chinese">钙过量也会导致高钙血症和软骨头。</span><span class="english">Excessive amounts of calcium can also lead to hypercalcemia and soft bones.</span></p>

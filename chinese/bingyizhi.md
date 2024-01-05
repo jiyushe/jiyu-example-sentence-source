@@ -1,5 +1,7 @@
 # 兵役制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyizhi.md)
+
 <p><span class="chinese">英国已不再实行国民兵役制。</span><span class="english">Britain no longer has national service.</span></p>
 
 <p><span class="chinese">德国开始实行义务兵役制为所有的公民。</span><span class="english">Germany began by imposing compulsory military service for all of its citizens.</span></p>

@@ -1,5 +1,7 @@
 # translate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translate.md)
+
 <p><span class="chinese">公司内部资料与文件的翻译。</span><span class="english">To translate the company files.</span></p>
 
 <p><span class="chinese">我朋友将给我当翻译。</span><span class="english">My friend will translate for me.</span></p>

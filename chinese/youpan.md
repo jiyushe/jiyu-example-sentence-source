@@ -1,5 +1,7 @@
 # 油盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youpan.md)
+
 <p><span class="chinese">机油再流下来回到油盘。</span><span class="english">The oil drains off and runs down into the pan.</span></p>
 
 <p><span class="chinese">油盘通常用的薄钢板冲压制成。</span><span class="english">The oil pan is usually formed of pressed steel.</span></p>

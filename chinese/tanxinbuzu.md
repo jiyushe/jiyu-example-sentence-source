@@ -1,5 +1,7 @@
 # 贪心不足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxinbuzu.md)
+
 <p><span class="chinese">贪心不足蛇吞象。</span><span class="english">Greed has no limits.</span></p>
 
 <p><span class="chinese">我恨这种贪心不足！</span><span class="english">I hate such greediness, " said he."</span></p>

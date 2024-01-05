@@ -1,5 +1,7 @@
 # 水陆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilu_1.md)
+
 <p><span class="chinese">水陆路还是航空？</span><span class="english">By sea or by air?</span></p>
 
 <p><span class="chinese">您想按水陆路邮寄还是按航空邮寄?。</span><span class="english">By surface mail or by airmail?</span></p>

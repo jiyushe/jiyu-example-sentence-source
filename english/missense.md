@@ -1,5 +1,7 @@
 # missense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missense.md)
+
 <p><span class="chinese">移码突变和异义突变都能被基因内抑制基因所抑制。</span><span class="english">Both frameshift and missense mutations can be suppressed by intragenic suppressors.</span></p>
 
 <p><span class="chinese">移码突变和异义突变都能被基因内抑制基因所抑制。</span><span class="english">Both frameshift and missense mutations can be suppressed by intragenic suppressors.</span></p>

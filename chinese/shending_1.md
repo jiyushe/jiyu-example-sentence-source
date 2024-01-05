@@ -1,5 +1,7 @@
 # 审订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shending_1.md)
+
 <p><span class="chinese">这部词典正在审订之中。</span><span class="english">The dictionary is under examination and revision.</span></p>
 
 <p><span class="chinese">重新审订美国的性犯罪法并不难。</span><span class="english">It would not be hard to redesign America's sex laws.</span></p>

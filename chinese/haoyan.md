@@ -1,5 +1,7 @@
 # 好言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoyan.md)
+
 <p><span class="chinese">你如果好言请求可以给你一些冰激淋。</span><span class="english">You can have some ice cream if you ask nicely.</span></p>
 
 <p><span class="chinese">好言劝慰使人宽心。</span><span class="english">The kind advice rests easily on one's conscience.</span></p>

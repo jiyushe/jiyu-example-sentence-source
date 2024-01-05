@@ -1,5 +1,7 @@
 # medicare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medicare.md)
+
 <p><span class="chinese">我们必须限制医疗保险和医疗补助。</span><span class="english">We have to limit Medicare and Medicaid.</span></p>
 
 <p><span class="chinese">让我先谈谈医疗费的一般情况。</span><span class="english">And let me talk about Medicare generally.</span></p>

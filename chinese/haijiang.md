@@ -1,5 +1,7 @@
 # 海疆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haijiang.md)
+
 <p><span class="chinese">这条船行驶在英国的海疆里。</span><span class="english">The ship is in British waters.</span></p>
 
 <p><span class="chinese">我们的军队还在守卫海疆。</span><span class="english">Our military still protects our shores.</span></p>

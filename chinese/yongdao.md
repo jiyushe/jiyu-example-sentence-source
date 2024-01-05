@@ -1,5 +1,7 @@
 # 甬道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongdao.md)
+
 <p><span class="chinese">当我走过婚礼甬道时，我目不转睛地看着基斯。</span><span class="english">I stared at Keith as I walked down the aisle.</span></p>
 
 <p><span class="chinese">这是那一对手套给予你狭小甬道神情！</span><span class="english">This is the one to glove give you that catwalk look!</span></p>

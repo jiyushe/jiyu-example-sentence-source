@@ -1,5 +1,7 @@
 # 浮力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuli.md)
+
 <p><span class="chinese">空气的福浮力和太阳的光焰</span><span class="english">The air’s buoyancy and the sum’s ray</span></p>
 
 <p><span class="chinese">穿救生服或者浮力背心。</span><span class="english">Wear a life jacket or buoyancy vest.</span></p>

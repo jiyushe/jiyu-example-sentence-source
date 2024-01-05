@@ -1,5 +1,7 @@
 # riba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riba.md)
+
 <p><span class="chinese">瑞芭指出，保密性是出了费用和承保范围之外需要考虑的问题。</span><span class="english">Confidentiality is another concern beyond costs and coverage, said Riba.</span></p>
 
 <p><span class="chinese">RIBA奖并非按规模大小评选，而是关注于那些为人们的生活增色的建筑作品。</span><span class="english">Far from being a size prize, the RIBA Awards are for buildings that offer value to peoples lives.</span></p>

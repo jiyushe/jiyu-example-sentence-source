@@ -1,5 +1,7 @@
 # anomalous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anomalous.md)
+
 <p><span class="chinese">针灸治疗色弱，真的吗？</span><span class="english">Acupuncture treats anomalous trichromatism, true?</span></p>
 
 <p><span class="chinese">柯帕乌太太的处境最是尴尬。</span><span class="english">The position of Mrs. Cowperwood was most anomalous.</span></p>

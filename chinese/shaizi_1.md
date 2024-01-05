@@ -1,5 +1,7 @@
 # 色子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaizi_1.md)
+
 <p><span class="chinese">为了好手气亲一下色子吧。</span><span class="english">Kiss the dice for good luck.</span></p>
 
 <p><span class="chinese">狄公和色子都有些迷惑了。</span><span class="english">Bosons are some of Di Gong and confused.</span></p>

@@ -1,5 +1,7 @@
 # saturation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturation.md)
+
 <p><span class="chinese">饱和度很值得关注</span><span class="english">The saturation is interesting.</span></p>
 
 <p><span class="chinese">亦称彩度，饱和度。</span><span class="english">Also known as Chroma, . Saturation.</span></p>

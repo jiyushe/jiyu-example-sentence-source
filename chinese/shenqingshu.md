@@ -1,5 +1,7 @@
 # 申请书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqingshu.md)
+
 <p><span class="chinese">我的申请书被压了一个月。</span><span class="english">My application was sat on for a week.</span></p>
 
 <p><span class="chinese">我们的申请书今早被撤回来了。</span><span class="english">Our application is withdrawed this morning.</span></p>

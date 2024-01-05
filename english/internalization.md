@@ -1,5 +1,7 @@
 # internalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internalization.md)
+
 <p><span class="chinese">这就是我所谓的自我内在化。</span><span class="english">This is what I call the internalization of man.</span></p>
 
 <p><span class="chinese">人民币国际化必须采取三步走战略。</span><span class="english">Internalization of RMB must take three-steps strategy.</span></p>

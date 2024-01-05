@@ -1,5 +1,7 @@
 # 阴险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxian_1.md)
+
 <p><span class="chinese">她阴险的笑了。</span><span class="english">She laughed nastily.</span></p>
 
 <p><span class="chinese">我知道你这人阴险狡猾。</span><span class="english">I know you are foxing.</span></p>

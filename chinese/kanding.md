@@ -1,5 +1,7 @@
 # 勘定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanding.md)
+
 <p><span class="chinese">中老边界全长505公里，于1993年正式勘定。</span><span class="english">China-Laos borderline, which lasts 505 kilometers, was officially demarcated in 1993.</span></p>
 
 <p><span class="chinese">我省重新勘定各市、区边界的工作进展顺利。</span><span class="english">The work of surveying and determining the frontier of all the cities and districts went on smoothly.</span></p>

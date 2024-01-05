@@ -1,5 +1,7 @@
 # dlp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dlp.md)
+
 <p><span class="chinese">有些投影模型使用300瓦的电灯把相当多的热量位扔在房间里。</span><span class="english">Some DLP models use 300-watt lamps which throw off quite a bit of heat in the room.</span></p>
 
 <p><span class="chinese">该混光光源可以提高LED光源的DLP微型投影机的光通量。</span><span class="english">The light flux of the DLP micro-projector used for the LED mixed light is increased.</span></p>

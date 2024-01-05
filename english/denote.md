@@ -1,5 +1,7 @@
 # denote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denote.md)
+
 <p><span class="chinese">我们常常用红字表示危险。</span><span class="english">We often denote danger by red letters.</span></p>
 
 <p><span class="chinese">这是用来表示一个部落社会。</span><span class="english">It was used to denote a tribal society.</span></p>

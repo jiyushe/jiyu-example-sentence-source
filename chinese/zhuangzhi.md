@@ -1,5 +1,7 @@
 # 壮志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzhi.md)
+
 <p><span class="chinese">壮志雄心地投入到食品营养的研发上。</span><span class="english">For its ambitious nutrition R&D.</span></p>
 
 <p><span class="chinese">壮志与热情是伟业的辅冀。</span><span class="english">Ambition and enthusiasm is great auxiliary ji.</span></p>

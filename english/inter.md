@@ -1,5 +1,7 @@
 # inter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inter.md)
+
 <p><span class="chinese">社青盟100周年，国际团结互助。</span><span class="english">Inter Solidarity at IUSY 100.</span></p>
 
 <p><span class="chinese">他们愿意看到我和国米获胜。</span><span class="english">They want to see me and Inter win.</span></p>

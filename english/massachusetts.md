@@ -1,5 +1,7 @@
 # massachusetts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massachusetts.md)
+
 <p><span class="chinese">我住在马萨诸塞州。</span><span class="english">I live in Massachusetts.</span></p>
 
 <p><span class="chinese">我母亲在马萨诸塞州长大。</span><span class="english">My mother grew up in Massachusetts.</span></p>

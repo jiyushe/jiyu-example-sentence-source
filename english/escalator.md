@@ -1,5 +1,7 @@
 # escalator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escalator.md)
+
 <p><span class="chinese">你看见那边的自动楼梯了吗？</span><span class="english">You see the escalator over there?</span></p>
 
 <p><span class="chinese">今天下行的自动楼梯不开。</span><span class="english">The down escalator is not running today.</span></p>

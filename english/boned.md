@@ -1,5 +1,7 @@
 # boned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boned.md)
+
 <p><span class="chinese">那位职员当当地打钟叫人。</span><span class="english">The clerk boned the call bell.</span></p>
 
 <p><span class="chinese">你朋友艾力克放你鸽子？</span><span class="english">Your friend Eric boned you, huh?</span></p>

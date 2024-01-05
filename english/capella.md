@@ -1,5 +1,7 @@
 # capella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capella.md)
+
 <p><span class="chinese">我们在较高的天空可以看到五车二是一颗金黄色的星星。</span><span class="english">Capella is a golden star when seen higher up in the sky.</span></p>
 
 <p><span class="chinese">它是基于马自达五车，其中主要是在日本售出。</span><span class="english">It was based on the Mazda Capella which was mainly sold in Japan.</span></p>

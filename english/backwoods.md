@@ -1,5 +1,7 @@
 # backwoods
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backwoods.md)
+
 <p><span class="chinese">落后地区乡巴佬的时代已成过去。</span><span class="english">The era of the backwoods rube is gone.</span></p>
 
 <p><span class="chinese">收集的鱼类食谱，从落后的约束。</span><span class="english">Collection of fish recipes from Backwoods Bound.</span></p>

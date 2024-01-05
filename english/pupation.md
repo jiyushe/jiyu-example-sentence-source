@@ -1,5 +1,7 @@
 # pupation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pupation.md)
+
 <p><span class="chinese">地面干燥的狗或猫的食物，鼓励化蛹。</span><span class="english">Ground dry dog or cat food encourages pupation.</span></p>
 
 <p><span class="chinese">在食物源外面隐蔽处化蛹。</span><span class="english">Pupation in hidden places outside the food material.</span></p>

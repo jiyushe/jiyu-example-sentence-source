@@ -1,5 +1,7 @@
 # epithelia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epithelia.md)
+
 <p><span class="chinese">粘膜上皮主要为单层柱状纤毛细胞。</span><span class="english">Most of the epithelia are ciliated columnar cells.</span></p>
 
 <p><span class="chinese">角质层是复扁平上皮细胞。</span><span class="english">Kertinocytes are the cells of stratified squamous epithelia.</span></p>

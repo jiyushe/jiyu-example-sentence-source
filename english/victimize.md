@@ -1,5 +1,7 @@
 # victimize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victimize.md)
+
 <p><span class="chinese">我已经声明，我不会伤害任何人。</span><span class="english">I have stated I will not victimize anybody.</span></p>
 
 <p><span class="chinese">是谁干的？-我知道你想牵怒于我，伙计。</span><span class="english">Who did it?- I knew you were gonna victimize me, man.</span></p>

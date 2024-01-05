@@ -1,5 +1,7 @@
 # inviting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inviting.md)
+
 <p><span class="chinese">朝鲜是在找死。</span><span class="english">N. korea is inviting its doom.</span></p>
 
 <p><span class="chinese">这些菜看起来真诱人。</span><span class="english">The dishes really look inviting.</span></p>

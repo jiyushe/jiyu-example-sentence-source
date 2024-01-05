@@ -1,5 +1,7 @@
 # 胳膊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gebo.md)
+
 <p><span class="chinese">还是左胳膊?。</span><span class="english">Or his left?</span></p>
 
 <p><span class="chinese">指向他的胳膊。</span><span class="english">Ponit to his arm.</span></p>

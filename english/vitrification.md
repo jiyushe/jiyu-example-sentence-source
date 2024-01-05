@@ -1,5 +1,7 @@
 # vitrification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitrification.md)
+
 <p><span class="chinese">通常来说，医生需要从患者那里得到12-14个卵子进行玻璃化。</span><span class="english">Generally, doctors need to retrieve 12 to 14 eggs from a patient for vitrification.</span></p>
 
 <p><span class="chinese">以常规的慢速冷冻法为对照，研究了玻璃化冷冻法保存绵羊体外受精囊胚的效果。</span><span class="english">Vitrification and slow freezing of sheep IVF blastocysts were compared in this study.</span></p>

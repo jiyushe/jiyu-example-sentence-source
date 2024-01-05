@@ -1,5 +1,7 @@
 # 搏动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bodong.md)
+
 <p><span class="chinese">感觉它如何为你搏动不停！</span><span class="english">Feel how it throbs for you!</span></p>
 
 <p><span class="chinese">我们应当按心脏的搏动来计算时间。</span><span class="english">We should count time by heart-throb.</span></p>

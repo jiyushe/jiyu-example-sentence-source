@@ -1,5 +1,7 @@
 # amplification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amplification.md)
+
 <p><span class="chinese">所有病例都发生了MDM2基因的缺失。</span><span class="english">Amplification for MDM2 was absent in all cases.</span></p>
 
 <p><span class="chinese">并对扩增产物进行了SSCP分析。</span><span class="english">And analyze the amplification products with SSCP.</span></p>

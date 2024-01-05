@@ -1,5 +1,7 @@
 # logarithm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logarithm.md)
+
 <p><span class="chinese">常用对数的小数部分。</span><span class="english">The fractional part of a logarithm.</span></p>
 
 <p><span class="chinese">减去EXP自然对数中的。</span><span class="english">e This is just base e, natural logarithm.</span></p>

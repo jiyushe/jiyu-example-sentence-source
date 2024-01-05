@@ -1,5 +1,7 @@
 # 比方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bifang.md)
+
 <p><span class="chinese">这个比方打得好。</span><span class="english">The analogy was well meant.</span></p>
 
 <p><span class="chinese">拿马赛中的赌博人做比方。</span><span class="english">Take bettors at a horse race.</span></p>

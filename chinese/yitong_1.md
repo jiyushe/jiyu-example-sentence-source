@@ -1,5 +1,7 @@
 # 异同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitong_1.md)
+
 <p><span class="chinese">这就是多样化的魅力，没有异同往往就是生活的痛苦之源。</span><span class="english">That’s the beauty of diversity. Homogeneity is the bane of life.</span></p>
 
 <p><span class="chinese">在此基础上，以互见的方法比较二者在接受、研究方面的异同。</span><span class="english">On this basis, compare the similarity and differences of the two.</span></p>

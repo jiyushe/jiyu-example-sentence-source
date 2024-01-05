@@ -1,5 +1,7 @@
 # antihypertensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antihypertensive.md)
+
 <p><span class="chinese">使用非甾体类抗炎药物或者抗高血压药物</span><span class="english">Use nonsteroidal anti-inflammatory drugs or antihypertensive drugs</span></p>
 
 <p><span class="chinese">结论口服拉西地平治疗轻中度原发性高血压病安全、有效。</span><span class="english">Conclusion Lacidipine is safe and effective as an antihypertensive drug.</span></p>

@@ -1,5 +1,7 @@
 # personnel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personnel.md)
+
 <p><span class="chinese">属学习、实干型的员工。</span><span class="english">A personnel of study and working.</span></p>
 
 <p><span class="chinese">接下来则是人事管理。</span><span class="english">Then there's personnel management.</span></p>

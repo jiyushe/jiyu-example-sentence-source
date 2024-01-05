@@ -1,5 +1,7 @@
 # microbicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microbicide.md)
+
 <p><span class="chinese">此前的候选杀微生物剂尚未被证明有效。</span><span class="english">Previous microbicide candidates have not proven effective.</span></p>
 
 <p><span class="chinese">药剂专家提供了模型与真实世界的一个关联课题。</span><span class="english">Microbicide experts took issue with the model's real-world relevance.</span></p>

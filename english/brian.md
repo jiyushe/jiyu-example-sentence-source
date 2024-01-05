@@ -1,5 +1,7 @@
 # brian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brian.md)
+
 <p><span class="chinese">布雷恩·布莱克先生已经到了。</span><span class="english">Mr Brian Black is here.</span></p>
 
 <p><span class="chinese">布里安主修经济。</span><span class="english">Brian majored in economics.</span></p>

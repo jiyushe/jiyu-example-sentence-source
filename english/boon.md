@@ -1,5 +1,7 @@
 # boon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boon.md)
+
 <p><span class="chinese">梵天给予了他这一神灵保佑。</span><span class="english">Brahma granted him the boon.</span></p>
 
 <p><span class="chinese">酒与杯恩恩爱爱!!</span><span class="english">Wine and cup boon conjugal love!!</span></p>

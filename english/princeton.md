@@ -1,5 +1,7 @@
 # princeton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/princeton.md)
+
 <p><span class="chinese">这是普林司顿进攻。</span><span class="english">It's the Princeton offense.</span></p>
 
 <p><span class="chinese">我是普林斯顿大学一年级的一名新生。</span><span class="english">I'm a freshman at Princeton.</span></p>

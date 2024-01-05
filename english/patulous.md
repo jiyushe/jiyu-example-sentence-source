@@ -1,5 +1,7 @@
 # patulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patulous.md)
+
 <p><span class="chinese">三是可以通过这个平台，扩展自己的人脉。</span><span class="english">It is to be able to adopt this platform, patulous oneself person arteries and veins.</span></p>
 
 <p><span class="chinese">说明纵缝目前仍是张开的和活动的。</span><span class="english">The results show clearly that the longitudinal joint still is patulous and kinetic at present.</span></p>

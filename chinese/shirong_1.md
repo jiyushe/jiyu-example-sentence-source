@@ -1,5 +1,7 @@
 # 市容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shirong_1.md)
+
 <p><span class="chinese">为欢度春节市容已修饰一新。</span><span class="english">The city has been painted up for the Spring Festival.</span></p>
 
 <p><span class="chinese">我们的一举手，一投足，都会给首都的市容环境带来影响。</span><span class="english">Any action we take will affect the appearance of the city.</span></p>

@@ -1,5 +1,7 @@
 # concussive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concussive.md)
+
 <p><span class="chinese">冲击力震荡着库尔特的内脏。</span><span class="english">The concussive force roiled though Kurt's insides.</span></p>
 
 <p><span class="chinese">您有是或在一个震荡性的事件附近的320，000个人。</span><span class="english">You have 320,000 people who have been in or around a concussive event.</span></p>

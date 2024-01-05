@@ -1,5 +1,7 @@
 # 在劫难逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaijienantao.md)
+
 <p><span class="chinese">然而这片森林大多在劫难逃。</span><span class="english">Yet much of this forest is doomed.</span></p>
 
 <p><span class="chinese">最开始，这个理论似乎在劫难逃。</span><span class="english">At first, the theory seemed doomed.</span></p>

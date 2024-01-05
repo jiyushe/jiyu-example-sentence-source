@@ -1,5 +1,7 @@
 # mage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mage.md)
+
 <p><span class="chinese">我用17级法师打战歌。</span><span class="english">Doing WSG with a 17 mage.</span></p>
 
 <p><span class="chinese">超乎其他的造型魔导士之上。</span><span class="english">Shape than the other top mage.</span></p>

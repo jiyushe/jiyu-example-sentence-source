@@ -1,5 +1,7 @@
 # sprinkler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprinkler.md)
+
 <p><span class="chinese">一起跑过洒水车.</span><span class="english">Run through the sprinkler together.</span></p>
 
 <p><span class="chinese">草坪淋水车把孩子们身上浇湿了。</span><span class="english">The lawn sprinkler showered the children.</span></p>

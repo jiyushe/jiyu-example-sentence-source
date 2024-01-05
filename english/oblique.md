@@ -1,5 +1,7 @@
 # oblique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblique.md)
+
 <p><span class="chinese">她向旁边斜看了一眼。</span><span class="english">She gave an oblique look to one side.</span></p>
 
 <p><span class="chinese">从而提出次髎穴斜刺法。</span><span class="english">Thus we got oblique needling method of Ciliao.</span></p>

@@ -1,5 +1,7 @@
 # 学前教育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqianjiaoyu.md)
+
 <p><span class="chinese">全面发展的学前教育。</span><span class="english">Round development of the pre-school education.</span></p>
 
 <p><span class="chinese">你还把它叫做一种学前教育编程语言，还记得吧？</span><span class="english">You called it a script kiddy language, remember?</span></p>

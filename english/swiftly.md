@@ -1,5 +1,7 @@
 # swiftly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swiftly.md)
+
 <p><span class="chinese">小男孩一溜烟儿跑了。</span><span class="english">The boy ran away swiftly.</span></p>
 
 <p><span class="chinese">一只蜈蚣飞快地爬开了。</span><span class="english">A centipede snaked swiftly away.</span></p>

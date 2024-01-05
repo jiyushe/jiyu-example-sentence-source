@@ -1,5 +1,7 @@
 # 草体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoti.md)
+
 <p><span class="chinese">学习草体字真的有必要吗？</span><span class="english">Was learning cursive really necessary?</span></p>
 
 <p><span class="chinese">邀请函使用草体亲笔书写的，塞丽娜。</span><span class="english">Invitation is handwritten. Serena, in cursive.</span></p>

@@ -1,5 +1,7 @@
 # 氯化钠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvhuana.md)
+
 <p><span class="chinese">如氯化钠。</span><span class="english">OK, sodium chloride works.</span></p>
 
 <p><span class="chinese">葡萄糖氯化钠注射液…</span><span class="english">Dextrose and Sodium Chloride Inj.</span></p>

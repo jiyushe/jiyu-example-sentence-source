@@ -1,5 +1,7 @@
 # infinitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infinitive.md)
+
 <p><span class="chinese">我可以拆分不定式吗？</span><span class="english">Can I split an infinitive?</span></p>
 
 <p><span class="chinese">将不定式分割永远是错误的。</span><span class="english">It is wrong to ever split an infinitive.</span></p>

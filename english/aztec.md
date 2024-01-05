@@ -1,5 +1,7 @@
 # aztec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aztec.md)
+
 <p><span class="chinese">阿兹台克农民配备战棍作战。</span><span class="english">Aztec peasants are armed with a simple club.</span></p>
 
 <p><span class="chinese">阿兹台克人的宗教信仰是一种嗜杀的宗教。</span><span class="english">The religion of the Aztec was a bloodthirsty one.</span></p>

@@ -1,5 +1,7 @@
 # 破浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/polang.md)
+
 <p><span class="chinese">破浪疾行于宁静海的地面。</span><span class="english">Scuttling across the floors of silent seas.</span></p>
 
 <p><span class="chinese">一旦过了破浪，记得要跟着涌浪移动。</span><span class="english">Once past the breakers, remember to move with the swells.</span></p>

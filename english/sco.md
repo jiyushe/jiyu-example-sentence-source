@@ -1,5 +1,7 @@
 # sco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sco.md)
+
 <p><span class="chinese">SCO数据包时隙长度始终是1时隙。</span><span class="english">SCO packets are always 1 slot in length.</span></p>
 
 <p><span class="chinese">上海合作组织反恐演习在哈萨克斯坦揭幕。</span><span class="english">SCO anti-terror drill kicks off in Kazakhstan.</span></p>

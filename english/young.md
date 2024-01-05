@@ -1,5 +1,7 @@
 # young
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/young.md)
+
 <p><span class="chinese">谁是西德尼·扬？</span><span class="english">Who's Sidney Young?</span></p>
 
 <p><span class="chinese">雷锋早逝。</span><span class="english">Lei Feng died young.</span></p>

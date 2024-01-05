@@ -1,5 +1,7 @@
 # 雪糕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuegao.md)
+
 <p><span class="chinese">在双胜吃雪糕休息一下。</span><span class="english">Have a break in Swensen.</span></p>
 
 <p><span class="chinese">一个雪糕品酒师怎么样?。</span><span class="english">How about an ice-Cream taster?</span></p>

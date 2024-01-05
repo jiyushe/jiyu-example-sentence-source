@@ -1,5 +1,7 @@
 # 出笼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulong.md)
+
 <p><span class="chinese">这是及早出笼的第二部分。</span><span class="english">This is the second half of launching fast.</span></p>
 
 <p><span class="chinese">反正一喝高，劣根性纷纷出笼。</span><span class="english">Anyway, a drink highBad quality have been brought out.</span></p>

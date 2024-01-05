@@ -1,5 +1,7 @@
 # infectious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infectious.md)
+
 <p><span class="chinese">我还处在传染期。</span><span class="english">I'm still infectious.</span></p>
 
 <p><span class="chinese">这病招人。</span><span class="english">This disease is infectious.</span></p>

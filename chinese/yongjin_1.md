@@ -1,5 +1,7 @@
 # 用劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongjin_1.md)
+
 <p><span class="chinese">医生说他必须避免做任何要用劲的事。</span><span class="english">The doctor says he must avoid all exertion.</span></p>
 
 <p><span class="chinese">这扇窗怎么用劲也打不开。</span><span class="english">The window resisted all efforts to open it.</span></p>

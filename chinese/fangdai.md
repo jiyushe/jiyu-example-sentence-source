@@ -1,5 +1,7 @@
 # 放贷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdai.md)
+
 <p><span class="chinese">银行家们会退缩不前，害怕放贷。</span><span class="english">Bankers will cower, afraid to lend.</span></p>
 
 <p><span class="chinese">这次放贷他是出于无奈。</span><span class="english">He is being forced into this borrowing.</span></p>

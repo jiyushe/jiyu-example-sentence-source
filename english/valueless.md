@@ -1,5 +1,7 @@
 # valueless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valueless.md)
+
 <p><span class="chinese">因为对不对都全无价值。</span><span class="english">It is all valueless anyway.</span></p>
 
 <p><span class="chinese">这些材料现在对我们毫无价值了。</span><span class="english">These materials are now valueless to us.</span></p>

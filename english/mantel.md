@@ -1,5 +1,7 @@
 # mantel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mantel.md)
+
 <p><span class="chinese">他把玻璃杯放在壁炉架上。</span><span class="english">He set the glass on the mantel.</span></p>
 
 <p><span class="chinese">他花400马克买了这件大衣。</span><span class="english">Er hat den Mantel für 400 Mark gekauft.</span></p>

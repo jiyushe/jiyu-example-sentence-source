@@ -1,5 +1,7 @@
 # 百折不回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhebuhui.md)
+
 <p><span class="chinese">活在人间我们的爱百折不回</span><span class="english">Then while we live, in love lets so persever</span></p>
 
 <p><span class="chinese">完成这项工作需要百折不回的毅力。</span><span class="english">It'll require indomitable will to accomplish the task.</span></p>

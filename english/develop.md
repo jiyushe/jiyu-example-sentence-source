@@ -1,5 +1,7 @@
 # develop 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/develop.md)
+
 <p><span class="chinese">我自已冲洗照片。</span><span class="english">I develop films myself.</span></p>
 
 <p><span class="chinese">运动锻炼臂力。</span><span class="english">Exercises develop muscle.</span></p>

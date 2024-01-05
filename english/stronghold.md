@@ -1,5 +1,7 @@
 # stronghold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stronghold.md)
+
 <p><span class="chinese">这要塞没设任何出入的门禁。</span><span class="english">No doors there are to this stronghold.</span></p>
 
 <p><span class="chinese">当你坐着时，要做真理的保垒。</span><span class="english">When you sit, be the stronghold of truth.</span></p>

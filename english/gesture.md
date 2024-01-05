@@ -1,5 +1,7 @@
 # gesture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gesture.md)
+
 <p><span class="chinese">他的姿势那么难看。</span><span class="english">His gesture is so awful.</span></p>
 
 <p><span class="chinese">他现在就会为此感到懊悔了。</span><span class="english">He could now regret that gesture.</span></p>

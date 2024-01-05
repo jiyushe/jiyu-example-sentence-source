@@ -1,5 +1,7 @@
 # 干酪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganlao.md)
+
 <p><span class="chinese">梨和布里干酪吗？</span><span class="english">Pears and Brie?</span></p>
 
 <p><span class="chinese">干酪成熟可吃了。</span><span class="english">The cheese was ripened.</span></p>

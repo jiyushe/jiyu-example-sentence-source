@@ -1,5 +1,7 @@
 # taiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taiz.md)
+
 <p><span class="chinese">全世界都正看着在塔伊兹的我们身上发生了什么。</span><span class="english">The whole world is watching this happen to us in Taiz.</span></p>
 
 <p><span class="chinese">据报导，亲政府的狙击手打死两名示威者。</span><span class="english">Pro-government snipers reportedly shot two demonstrators dead in Taiz.</span></p>

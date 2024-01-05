@@ -1,5 +1,7 @@
 # moot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moot.md)
+
 <p><span class="chinese">阿森纳门将位置至今悬而未决。</span><span class="english">The position of goalkeeper is moot.</span></p>
 
 <p><span class="chinese">不过，关于“何时”的问题将也是没有实际意义的。</span><span class="english">But then, too, the question of “when” will be moot.</span></p>

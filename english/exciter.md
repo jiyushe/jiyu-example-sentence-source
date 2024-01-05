@@ -1,5 +1,7 @@
 # exciter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exciter.md)
+
 <p><span class="chinese">然后他就到婚姻之外找刺激去了。</span><span class="english">Then he waddles out of marriage for exciter.</span></p>
 
 <p><span class="chinese">左上角，在点火励磁部分是可见的。</span><span class="english">Top left, part of the ignition exciter is visible.</span></p>

@@ -1,5 +1,7 @@
 # internuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internuclear.md)
+
 <p><span class="chinese">有时候它也叫核间轴。</span><span class="english">Sometimes it's also called the internuclear axis.</span></p>
 
 <p><span class="chinese">而当我说核间距的时候这里，我们其实还是用，r，来表示它。</span><span class="english">And when I say internuclear distance, we actually call this r here.</span></p>

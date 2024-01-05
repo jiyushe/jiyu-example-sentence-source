@@ -1,5 +1,7 @@
 # circus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circus.md)
+
 <p><span class="chinese">马戏团到了城里。</span><span class="english">The circus is in town.</span></p>
 
 <p><span class="chinese">他最后来到了马戏团。</span><span class="english">He ended up in the circus.</span></p>

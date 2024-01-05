@@ -1,5 +1,7 @@
 # rail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rail.md)
+
 <p><span class="chinese">我们将通过铁路运发这些货。</span><span class="english">We'll send the goods by rail.</span></p>
 
 <p><span class="chinese">门机轨道梁的设计。</span><span class="english">The design of crane rail beam.</span></p>

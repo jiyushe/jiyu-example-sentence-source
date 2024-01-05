@@ -1,5 +1,7 @@
 # 爱国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiguo.md)
+
 <p><span class="chinese">爱家的人才能爱国。</span><span class="english">Love the family to be patriotic.</span></p>
 
 <p><span class="chinese">果然是个勇敢的爱国猛士。</span><span class="english">It is a brave patriotic warriors.</span></p>

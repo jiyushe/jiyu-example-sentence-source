@@ -1,5 +1,7 @@
 # judge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judge.md)
+
 <p><span class="chinese">那个法官呢？</span><span class="english">And the judge?</span></p>
 
 <p><span class="chinese">哦，对了，那个法官。</span><span class="english">Yes, the judge.</span></p>

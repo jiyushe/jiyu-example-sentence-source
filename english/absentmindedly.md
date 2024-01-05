@@ -1,5 +1,7 @@
 # absentmindedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absentmindedly.md)
+
 <p><span class="chinese">他心不在焉地跟太太说话。</span><span class="english">He spoke to his wife absentmindedly.</span></p>
 
 <p><span class="chinese">她心不在焉地捲曲自己的头发。</span><span class="english">She was twirling her hair absentmindedly.</span></p>

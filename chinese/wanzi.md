@@ -1,5 +1,7 @@
 # 丸子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzi.md)
+
 <p><span class="chinese">我想吃肉丸子和煎饼。</span><span class="english">I want meatballs and pancakes.</span></p>
 
 <p><span class="chinese">用竹签把小丸子串起。</span><span class="english">Hold up with the bamboo skewers.</span></p>

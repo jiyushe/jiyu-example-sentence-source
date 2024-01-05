@@ -1,5 +1,7 @@
 # tyrosine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyrosine.md)
+
 <p><span class="chinese">本发明化合物是酪氨酸羟化酶诱导剂。</span><span class="english">The invention also relates to tyrosine hydroxylase revulsant.</span></p>
 
 <p><span class="chinese">苏尼替尼是一种新型的多靶点酪氨酸激酶抑制剂。</span><span class="english">Sunitinb is a novel multitargeted receptor tyrosine kinase inhibitor.</span></p>

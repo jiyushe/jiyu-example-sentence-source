@@ -1,5 +1,7 @@
 # multimedia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multimedia.md)
+
 <p><span class="chinese">小班制，多媒体。</span><span class="english">Small class system, multimedia.</span></p>
 
 <p><span class="chinese">我们买了一套多媒体百科全书。</span><span class="english">We bought a multimedia encyclopedia.</span></p>

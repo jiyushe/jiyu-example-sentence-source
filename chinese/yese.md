@@ -1,5 +1,7 @@
 # 夜色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yese.md)
+
 <p><span class="chinese">蓝夜色，铜锣湾。</span><span class="english">Blue night, Causeway.</span></p>
 
 <p><span class="chinese">她逃入茫茫夜色中。</span><span class="english">She fled into the night.</span></p>

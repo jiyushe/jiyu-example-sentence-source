@@ -1,5 +1,7 @@
 # inclining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inclining.md)
+
 <p><span class="chinese">那颜色是黄中带绿的。</span><span class="english">The colour is yellow inclining to green.</span></p>
 
 <p><span class="chinese">墙角的一个坐椅，倾斜着你的话语。</span><span class="english">A chair at the corner is inclining your words.</span></p>

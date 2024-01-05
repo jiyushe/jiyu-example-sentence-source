@@ -1,5 +1,7 @@
 # dynasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynasty.md)
+
 <p><span class="chinese">而自己和秦朝呢。</span><span class="english">But oneself and Qin Dynasty.</span></p>
 
 <p><span class="chinese">她曾建立了辽王朝。</span><span class="english">She has created Liao Dynasty.</span></p>

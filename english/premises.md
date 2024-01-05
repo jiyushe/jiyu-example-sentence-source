@@ -1,5 +1,7 @@
 # premises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premises.md)
+
 <p><span class="chinese">基本前提是什么？</span><span class="english">So what are the basic premises?</span></p>
 
 <p><span class="chinese">这里有五个基本前提。</span><span class="english">So here are the five basic premises.</span></p>

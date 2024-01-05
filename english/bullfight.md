@@ -1,5 +1,7 @@
 # bullfight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullfight.md)
+
 <p><span class="chinese">西班牙以斗牛出名。</span><span class="english">Spain is famous for its bullfight.</span></p>
 
 <p><span class="chinese">斗牛起源于西班牙。</span><span class="english">The bullfight originated in Spain.</span></p>

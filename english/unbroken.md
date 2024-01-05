@@ -1,5 +1,7 @@
 # unbroken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbroken.md)
+
 <p><span class="chinese">这是一匹未驯服的马。</span><span class="english">It's an unbroken horse.</span></p>
 
 <p><span class="chinese">这种媒质连绵不断地从一个星体扩展到另一个星体。</span><span class="english">The medium extends unbroken from star to star.</span></p>

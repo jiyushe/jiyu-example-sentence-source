@@ -1,5 +1,7 @@
 # oxfordshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxfordshire.md)
+
 <p><span class="chinese">座落在牛津郡的布福德是一个有趣的老地方。</span><span class="english">Burford in Oxfordshire is an interesting old place.</span></p>
 
 <p><span class="chinese">我驱车到牛津郡的法林登去探访乔治。</span><span class="english">I drove to Faringdon in Oxfordshire to meet George.</span></p>

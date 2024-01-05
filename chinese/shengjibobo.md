@@ -1,5 +1,7 @@
 # 生机勃勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengjibobo.md)
+
 <p><span class="chinese">欲望让人间生机勃勃。</span><span class="english">Desire animates the world.</span></p>
 
 <p><span class="chinese">这片地区生机勃勃。</span><span class="english">It's a pretty active area.</span></p>

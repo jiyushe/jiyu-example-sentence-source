@@ -1,5 +1,7 @@
 # 托管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoguan.md)
+
 <p><span class="chinese">这些托管机构都有保护区。</span><span class="english">All of them have reserves.</span></p>
 
 <p><span class="chinese">同时托管的冲突和问题</span><span class="english">Co-hosting conflicts and issues</span></p>

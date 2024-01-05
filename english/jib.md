@@ -1,5 +1,7 @@
 # jib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jib.md)
+
 <p><span class="chinese">她天生就是教书的料。</span><span class="english">She was born for teaching and does a great jib.</span></p>
 
 <p><span class="chinese">研究了臂架的动态特性。</span><span class="english">To study the jib structure's dynamic characters.</span></p>

@@ -1,5 +1,7 @@
 # 佣金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongjin.md)
+
 <p><span class="chinese">他以抽取佣金的方式销售汽车。</span><span class="english">He sells motorcars on commission.</span></p>
 
 <p><span class="chinese">我们的价格是净价，不含佣金。</span><span class="english">Our price is net without commission.</span></p>

@@ -1,5 +1,7 @@
 # 票据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoju.md)
+
 <p><span class="chinese">这张票据已到期。</span><span class="english">The bill is due.</span></p>
 
 <p><span class="chinese">按照日期为每叠票据排序。</span><span class="english">Sort each pile by date.</span></p>

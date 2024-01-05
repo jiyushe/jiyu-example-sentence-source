@@ -1,5 +1,7 @@
 # smiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smiling.md)
+
 <p><span class="chinese">他很爱笑。</span><span class="english">He likes smiling.</span></p>
 
 <p><span class="chinese">你们可以停止微笑了。</span><span class="english">You can stop  smiling.</span></p>

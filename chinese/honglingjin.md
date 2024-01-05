@@ -1,5 +1,7 @@
 # 红领巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honglingjin.md)
+
 <p><span class="chinese">我的红领巾呢？</span><span class="english">Where is my red scarf?</span></p>
 
 <p><span class="chinese">学生们在红领巾农场积极地劳动。</span><span class="english">Students are working on the Red Scarf Farm.</span></p>

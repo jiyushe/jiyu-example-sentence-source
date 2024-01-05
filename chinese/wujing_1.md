@@ -1,5 +1,7 @@
 # 物镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujing_1.md)
+
 <p><span class="chinese">物镜聚焦最靠近载片为何者?。</span><span class="english">Which objective focuses closest to the slide?</span></p>
 
 <p><span class="chinese">此物镜仅产生很小的散射光。</span><span class="english">This objective produces only very little scattered light.</span></p>

@@ -1,5 +1,7 @@
 # chilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chilly.md)
+
 <p><span class="chinese">我浑身发冷。</span><span class="english">I feel chilly.</span></p>
 
 <p><span class="chinese">今天冷飕飕的。</span><span class="english">It's chilly today.</span></p>

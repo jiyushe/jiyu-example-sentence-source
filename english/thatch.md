@@ -1,5 +1,7 @@
 # thatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thatch.md)
+
 <p><span class="chinese">他们给小屋盖上茅草屋顶。</span><span class="english">They topped off the hut with a straw thatch.</span></p>
 
 <p><span class="chinese">他住在用藤条和茅草搭成的单薄房子里。</span><span class="english">His habitation is flimsy affair of canes and thatch.</span></p>

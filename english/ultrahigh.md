@@ -1,5 +1,7 @@
 # ultrahigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrahigh.md)
+
 <p><span class="chinese">该公司利用超高温将骨灰熔化直至结晶。</span><span class="english">Cremated ashes are melted at ultrahigh temperatures until they are crystallized.</span></p>
 
 <p><span class="chinese">文中公式可供超高压管式反应器的工程设计参考。</span><span class="english">The formula is reference for engineering design of ultrahigh pressure tube reactor.</span></p>

@@ -1,5 +1,7 @@
 # porpoise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porpoise.md)
+
 <p><span class="chinese">几乎每天一只小海豚。</span><span class="english">Almost any day a young porpoise.</span></p>
 
 <p><span class="chinese">海豚嬉水，风暴要起。</span><span class="english">The porpoise plays before a storm.</span></p>

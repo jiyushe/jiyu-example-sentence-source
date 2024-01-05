@@ -1,5 +1,7 @@
 # upc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upc.md)
+
 <p><span class="chinese">她说她必须剪下产品代码。</span><span class="english">She said she had to cut out the UPC code.</span></p>
 
 <p><span class="chinese">事实上，UPC商品条码是更广义的EAN条码的子集。</span><span class="english">UPC is in fact a subset of the more general EAN code.</span></p>

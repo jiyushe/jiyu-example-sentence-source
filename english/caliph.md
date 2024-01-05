@@ -1,5 +1,7 @@
 # caliph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caliph.md)
+
 <p><span class="chinese">这封信是他给哈里发。</span><span class="english">The letter he sent to the caliph.</span></p>
 
 <p><span class="chinese">928年他自立为哈里发。</span><span class="english">In 928 he declared himself caliph.</span></p>

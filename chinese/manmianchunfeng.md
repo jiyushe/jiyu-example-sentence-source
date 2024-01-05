@@ -1,5 +1,7 @@
 # 满面春风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manmianchunfeng.md)
+
 <p><span class="chinese">你今天满面春风啊！</span><span class="english">You're very bright and breezy today!</span></p>
 
 <p><span class="chinese">那年轻的农夫满面春风地笑了。</span><span class="english">The young farmer smiled a springtime smile.</span></p>

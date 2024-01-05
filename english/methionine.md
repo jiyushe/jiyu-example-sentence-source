@@ -1,5 +1,7 @@
 # methionine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methionine.md)
+
 <p><span class="chinese">它的第一限制性氨基酸为蛋氨酸+胱氨酸。</span><span class="english">Its first limiting amino acid was methionine plus cystine.</span></p>
 
 <p><span class="chinese">粉缺乏赖氨酸，蛋氨酸和亮氨酸。</span><span class="english">Cottonseed meal is deficient in lysine , methionine and leucine.</span></p>

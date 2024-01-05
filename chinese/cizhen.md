@@ -1,5 +1,7 @@
 # 刺针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizhen.md)
+
 <p><span class="chinese">穿刺针是新的并且是第一次使用</span><span class="english">the needle being used is new and is being used for the first time</span></p>
 
 <p><span class="chinese">穿刺针在穿刺后会放入一个特殊密封容器中被妥善处理</span><span class="english">the needle is disposed of in a special sealed container after the piercing</span></p>

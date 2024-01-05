@@ -1,5 +1,7 @@
 # intruder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intruder.md)
+
 <p><span class="chinese">它是一个侵入者亦是一个窃贼。</span><span class="english">It is an intruder and a thief.</span></p>
 
 <p><span class="chinese">在这里，演员去不请自来。</span><span class="english">Here the actor is the intruder.</span></p>

@@ -1,5 +1,7 @@
 # discipline 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discipline_1.md)
+
 <p><span class="chinese">体操运动员有这么强的控制力和纪律性。</span><span class="english">control and discipline.</span></p>
 
 <p><span class="chinese">财政纪律松驰。</span><span class="english">Financial discipline is lax.</span></p>

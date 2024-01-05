@@ -1,5 +1,7 @@
 # 服服帖帖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fufutietie.md)
+
 <p><span class="chinese">上帝啊，我会对你服服帖帖。</span><span class="english">I'll be good, God.</span></p>
 
 <p><span class="chinese">那男孩给吓得服服帖帖。</span><span class="english">The boy was frightened into obedience.</span></p>

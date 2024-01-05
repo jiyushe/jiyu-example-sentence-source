@@ -1,5 +1,7 @@
 # 铅笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianbi_1.md)
+
 <p><span class="chinese">那是一只铅笔吗？</span><span class="english">Is that a pencil?</span></p>
 
 <p><span class="chinese">把那支铅笔给我。</span><span class="english">Give me the pencil.</span></p>

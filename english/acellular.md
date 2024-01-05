@@ -1,5 +1,7 @@
 # acellular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acellular.md)
+
 <p><span class="chinese">最终，非细胞黏菌也会产生孢子。</span><span class="english">Eventually, acellular slime molds also make spores.</span></p>
 
 <p><span class="chinese">将成骨细胞与脱细胞基质骨材料复合。</span><span class="english">Osteoblast group, which compounded the osteoblast with acellular matrix bone.</span></p>

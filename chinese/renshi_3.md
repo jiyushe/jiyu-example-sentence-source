@@ -1,5 +1,7 @@
 # 人氏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshi_3.md)
+
 <p><span class="chinese">此公名为咪咕尔，古巴人氏。</span><span class="english">This guy's name is Miguel and he is a Cuban.</span></p>
 
 <p><span class="chinese">他把取火的方法教给人民，人民便尊称他为燧人氏。</span><span class="english">He taught people the way and was titled Suirenshi honorificly.</span></p>

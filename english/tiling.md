@@ -1,5 +1,7 @@
 # tiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiling.md)
+
 <p><span class="chinese">工人在给地板贴瓷砖。</span><span class="english">The worker was tiling the floor.</span></p>
 
 <p><span class="chinese">让我们在我们的盖瓦发动机中实现它。</span><span class="english">Let's implement it in our tiling engine.</span></p>

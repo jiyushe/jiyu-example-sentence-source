@@ -1,5 +1,7 @@
 # insalubrious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insalubrious.md)
+
 <p><span class="chinese">想死的人心理是不健康的吗?。</span><span class="english">Is thinking dead person psychology insalubrious?</span></p>
 
 <p><span class="chinese">对人生迷失，是否心理不健康？</span><span class="english">To life loss, whether is psychology insalubrious?</span></p>

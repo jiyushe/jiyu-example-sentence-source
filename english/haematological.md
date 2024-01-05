@@ -1,5 +1,7 @@
 # haematological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haematological.md)
+
 <p><span class="chinese">获得了欧洲鳗鲡血液生理生化指标参考值。</span><span class="english">Haematological and biochemical values of European eel was provided.</span></p>
 
 <p><span class="chinese">所有这些患者均因严重的血液病而入院治疗。</span><span class="english">All of these patients were hospitalized because of severe haematological disorders.</span></p>

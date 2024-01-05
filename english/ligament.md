@@ -1,5 +1,7 @@
 # ligament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligament.md)
+
 <p><span class="chinese">他的拔牙器穿开了牙龈没有啊？</span><span class="english">Has he loosened the periodontal ligament yet?</span></p>
 
 <p><span class="chinese">可能仅仅是擦伤，或者是韧带扭伤。</span><span class="english">It could just be bruising, or a twisted ligament.</span></p>

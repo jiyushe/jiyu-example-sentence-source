@@ -1,5 +1,7 @@
 # 进而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiner_1.md)
+
 <p><span class="chinese">进而我认识了他的妻子，伊莎。</span><span class="english">Through him, I met his wife, Isa.</span></p>
 
 <p><span class="chinese">这让他进而贪求丰美的食物。</span><span class="english">This created a craving for rich food.</span></p>

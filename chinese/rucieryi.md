@@ -1,5 +1,7 @@
 # 如此而已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rucieryi.md)
+
 <p><span class="chinese">她将被再生，如此而已。</span><span class="english">She will be born once more, that's all.</span></p>
 
 <p><span class="chinese">马吕斯在帽子上缠了一条黑纱，仅如此而已。</span><span class="english">Marius wore crape on his hat. That was all.</span></p>

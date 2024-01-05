@@ -1,5 +1,7 @@
 # 卫兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibing.md)
+
 <p><span class="chinese">高格的卫兵有枪。</span><span class="english">guards have guns.</span></p>
 
 <p><span class="chinese">卫兵们朝扎达克开了枪。</span><span class="english">The guards shot Zadak.</span></p>

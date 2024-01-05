@@ -1,5 +1,7 @@
 # 何干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hegan.md)
+
 <p><span class="chinese">汉奸可恶，与狗何干？</span><span class="english">Traitors dammit, with a dog?</span></p>
 
 <p><span class="chinese">猪狗交友，与人何干？</span><span class="english">Pig dog makes friends, with people?</span></p>

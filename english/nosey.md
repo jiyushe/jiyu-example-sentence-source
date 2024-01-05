@@ -1,5 +1,7 @@
 # nosey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosey.md)
+
 <p><span class="chinese">她好管闲事。</span><span class="english">She is nosey.</span></p>
 
 <p><span class="chinese">她非常好管闲事。</span><span class="english">She is very nosey.</span></p>

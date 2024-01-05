@@ -1,5 +1,7 @@
 # bytecode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bytecode.md)
+
 <p><span class="chinese">获取待执行的下一个字节码。</span><span class="english">Fetches the next bytecode to execute.</span></p>
 
 <p><span class="chinese">这使对字节码的切片和切块变得容易。</span><span class="english">This makes slicing and dicing your bytecode easy.</span></p>

@@ -1,5 +1,7 @@
 # 粼粼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linlin_1.md)
+
 <p><span class="chinese">阳光下，年夜海波光粼粼。</span><span class="english">The sea sparkled in the sunlight.</span></p>
 
 <p><span class="chinese">密歇根湖在阳光下波光粼粼。</span><span class="english">Lake Michigan shimmers in the sun.</span></p>

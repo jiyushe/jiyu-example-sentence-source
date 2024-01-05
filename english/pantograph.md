@@ -1,5 +1,7 @@
 # pantograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pantograph.md)
+
 <p><span class="chinese">指在机器的缩放仪上做前后运动。</span><span class="english">Refers to front to back movement of the pantograph on the machine.</span></p>
 
 <p><span class="chinese">受电弓是城市轨道交通车辆的重要部件之一。</span><span class="english">Pantograph is one of the most important parts of urban rail vehicles.</span></p>

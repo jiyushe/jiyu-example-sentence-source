@@ -1,5 +1,7 @@
 # telecommunication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telecommunication.md)
+
 <p><span class="chinese">传送技术是电信网发展的关键技术之一。</span><span class="english">Transport technology is a key of telecommunication networks.</span></p>
 
 <p><span class="chinese">我的表是按电讯大楼的钟对的。</span><span class="english">I set my watch by the clock on the telecommunication building.</span></p>

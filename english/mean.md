@@ -1,5 +1,7 @@
 # mean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mean.md)
+
 <p><span class="chinese">我是指搭公车。</span><span class="english">I mean by bus.</span></p>
 
 <p><span class="chinese">结束意味着开始？</span><span class="english">Wut do u mean?</span></p>

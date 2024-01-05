@@ -1,5 +1,7 @@
 # 障碍赛跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangaisaipao.md)
+
 <p><span class="chinese">现在他们已准备进行障碍赛跑。</span><span class="english">Now they're ready for the steeple chase.</span></p>
 
 <p><span class="chinese">汽车在高速公路上走像障碍赛跑。</span><span class="english">Cars on the freeway go like a handicap race.</span></p>

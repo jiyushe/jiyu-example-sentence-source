@@ -1,5 +1,7 @@
 # celeste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celeste.md)
+
 <p><span class="chinese">你告诉赛勒丝我怀孕了？</span><span class="english">Did you tell Celeste I was pregnant?</span></p>
 
 <p><span class="chinese">玛丽•赛勒斯特号于1860年在新斯科舍启航。</span><span class="english">Mary Celeste was launched in Nova Scotia in 1860.</span></p>

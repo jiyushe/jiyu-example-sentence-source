@@ -1,5 +1,7 @@
 # 扭秧歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuyangge.md)
+
 <p><span class="chinese">那么扭秧歌怎样，我们以前跳过的。</span><span class="english">Then what about Yangge Dance which we did before.</span></p>
 
 <p><span class="chinese">扭秧歌是欢度节日的必备节目。</span><span class="english">Yang-ge dancing is a necessity of celebrating holidays.</span></p>

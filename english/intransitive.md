@@ -1,5 +1,7 @@
 # intransitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intransitive.md)
+
 <p><span class="chinese">有及物动词没有宾语。</span><span class="english">Intransitive verbs do not have an object.</span></p>
 
 <p><span class="chinese">不及物动词之后不须带宾语。</span><span class="english">Intransitive verbs do not require an object.</span></p>

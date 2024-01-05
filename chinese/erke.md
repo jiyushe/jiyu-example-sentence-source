@@ -1,5 +1,7 @@
 # 儿科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erke.md)
+
 <p><span class="chinese">是的，儿科医生。</span><span class="english">Yes, a pediatrician.</span></p>
 
 <p><span class="chinese">儿科医生苏珊是这些研究员之一。</span><span class="english">Swedo was one of those fellows.</span></p>

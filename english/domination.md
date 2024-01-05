@@ -1,5 +1,7 @@
 # domination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domination.md)
+
 <p><span class="chinese">生活没有教她顾盼自得。</span><span class="english">Life had not taught her domination.</span></p>
 
 <p><span class="chinese">受术者遵从你的意志。</span><span class="english">Domination. Subject obeys your will.</span></p>

@@ -1,5 +1,7 @@
 # crunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crunch.md)
+
 <p><span class="chinese">汉莎航空公司希望用数字来说明问题。</span><span class="english">Lufthansa wanted to crunch numbers.</span></p>
 
 <p><span class="chinese">在他咬苹果时，发出嘎扎一响。</span><span class="english">There was a crunch as he bit the apple.</span></p>

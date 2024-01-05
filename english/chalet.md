@@ -1,5 +1,7 @@
 # chalet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalet.md)
+
 <p><span class="chinese">滑雪板在农舍堆了一堆。</span><span class="english">The skis are stacked outside the chalet.</span></p>
 
 <p><span class="chinese">欢迎光临“木屋”进口食品专营店！</span><span class="english">Welcome to " Le Chalet" Imported Food Store!</span></p>

@@ -1,5 +1,7 @@
 # manuka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manuka.md)
+
 <p><span class="chinese">麦卢卡树和我。</span><span class="english">Manuka and me.</span></p>
 
 <p><span class="chinese">进行这一研究的科学家们选取了新西兰的国宝麦卢卡蜂蜜作为研究材料。</span><span class="english">The researchers focused on manuka honey from New Zealand.</span></p>

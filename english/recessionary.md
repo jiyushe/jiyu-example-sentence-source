@@ -1,5 +1,7 @@
 # recessionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recessionary.md)
+
 <p><span class="chinese">因此，当美国陷入衰退后，美国会出台反衰退政策。</span><span class="english">So when America goes into recession, you have anti- recessionary policies.</span></p>
 
 <p><span class="chinese">但现在时机歹歹，她倾向避免这类公开突袭式的采购行为。</span><span class="english">But now, in these recessionary times, she tends to avoid such public sorties.</span></p>

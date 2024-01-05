@@ -1,5 +1,7 @@
 # arbitrary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitrary.md)
+
 <p><span class="chinese">那挺武断的。</span><span class="english">Well, that is arbitrary.</span></p>
 
 <p><span class="chinese">这种联系是任意的</span><span class="english">And the link is arbitrary.</span></p>

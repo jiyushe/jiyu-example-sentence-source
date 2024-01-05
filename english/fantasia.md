@@ -1,5 +1,7 @@
 # fantasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantasia.md)
+
 <p><span class="chinese">小提琴、大提琴弦乐三重奏。</span><span class="english">Barocco Fantasia string trio violin viola cello.</span></p>
 
 <p><span class="chinese">引起了共鸣，我像是从这儿去了亚洲，跳跃吧，翻腾吧</span><span class="english">Feel the vibe from here to Asia, dip trip, flip fantasia</span></p>

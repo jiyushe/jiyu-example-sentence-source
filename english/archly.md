@@ -1,5 +1,7 @@
 # archly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archly.md)
+
 <p><span class="chinese">“就像你对我那样，”我简短地说。</span><span class="english">Sort of the way you do me, " I said archly."</span></p>
 
 <p><span class="chinese">风间欣吾狡猾地看了水上三太一眼。</span><span class="english">Breeze Xin I archly saw aquatic three too one eye.</span></p>

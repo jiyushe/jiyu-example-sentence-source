@@ -1,5 +1,7 @@
 # drench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drench.md)
+
 <p><span class="chinese">他遇上一场倾盆大雨。</span><span class="english">He met a drench of rain.</span></p>
 
 <p><span class="chinese">一阵骤雨把露营者都淋湿了。</span><span class="english">A heavy shower drench the camp ers.</span></p>

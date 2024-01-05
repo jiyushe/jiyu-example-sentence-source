@@ -1,5 +1,7 @@
 # wetland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wetland.md)
+
 <p><span class="chinese">那沼泽也应该算是湿地的一种吧？</span><span class="english">So marshland should also be a kind of wetland.</span></p>
 
 <p><span class="chinese">湿地利用适宜性评价。</span><span class="english">Wetland suitability assessment for utilizations.</span></p>

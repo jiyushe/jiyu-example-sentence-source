@@ -1,5 +1,7 @@
 # wayfarer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wayfarer.md)
+
 <p><span class="chinese">请在人生的路程中暂停一下，旅人。</span><span class="english">Pause for a moment, Wayfarer , on life's journey.</span></p>
 
 <p><span class="chinese">医生们起先嘲笑这个来历不明的旅行者。</span><span class="english">The physicians at first laughed at the unknown wayfarer.</span></p>

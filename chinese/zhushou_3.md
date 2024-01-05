@@ -1,5 +1,7 @@
 # 驻守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushou_3.md)
+
 <p><span class="chinese">该镇由一营士兵驻守。</span><span class="english">The town was garrisoned by a battalion.</span></p>
 
 <p><span class="chinese">驻守在那里的几个士兵仓皇地撤走了。</span><span class="english">The few soldiers there withdrew in panic.</span></p>

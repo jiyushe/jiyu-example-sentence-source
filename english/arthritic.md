@@ -1,5 +1,7 @@
 # arthritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthritic.md)
+
 <p><span class="chinese">反对者则把他说成是关节炎患者和文盲。</span><span class="english">Defectors have described him as arthritic and illiterate.</span></p>
 
 <p><span class="chinese">他对后来确定关节炎地区纹身。</span><span class="english">He had tattoos over areas later determined to be arthritic.</span></p>

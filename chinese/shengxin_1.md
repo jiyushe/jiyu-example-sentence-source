@@ -1,5 +1,7 @@
 # 省心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxin_1.md)
+
 <p><span class="chinese">我绝不会说2010年是个省心年。</span><span class="english">I've never said 2010 was going to be easy.</span></p>
 
 <p><span class="chinese">我这一生都很省心。</span><span class="english">I have nothing to worry about in this life.</span></p>

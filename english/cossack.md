@@ -1,5 +1,7 @@
 # cossack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cossack.md)
+
 <p><span class="chinese">第二年，哥萨克在巴托格取得胜利。</span><span class="english">The following year saw Cossack victory at Batoh.</span></p>
 
 <p><span class="chinese">哥萨克兵死去了，马还在挣扎。</span><span class="english">The Cossack was dead, the horse was still struggling.</span></p>

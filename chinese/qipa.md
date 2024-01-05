@@ -1,5 +1,7 @@
 # 奇葩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipa.md)
+
 <p><span class="chinese">让时间去揭露它的奇葩。</span><span class="english">Time will reveal the calyxes of gold.</span></p>
 
 <p><span class="chinese">你的成熟概念还真是奇葩。</span><span class="english">Your concept of maturity is pretty strange.</span></p>

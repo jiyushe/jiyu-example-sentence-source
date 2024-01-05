@@ -1,5 +1,7 @@
 # 信以为真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyiweizhen.md)
+
 <p><span class="chinese">我们信以为真。</span><span class="english">We believed him.</span></p>
 
 <p><span class="chinese">不谙世事的谭小燕信以为真。</span><span class="english">Xiao-yan tan of believe.</span></p>

@@ -1,5 +1,7 @@
 # fleet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleet.md)
+
 <p><span class="chinese">该舰队停在岬角外。</span><span class="english">The fleet lay off the headland.</span></p>
 
 <p><span class="chinese">风暴使舰队的半数舰只搁浅。</span><span class="english">The storm beached half the fleet.</span></p>

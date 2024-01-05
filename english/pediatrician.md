@@ -1,5 +1,7 @@
 # pediatrician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pediatrician.md)
+
 <p><span class="chinese">是的，儿科医生。</span><span class="english">Yes, a pediatrician.</span></p>
 
 <p><span class="chinese">一个萨那儿科医生这么告诉我。</span><span class="english">a Sanaa pediatrician told me.</span></p>

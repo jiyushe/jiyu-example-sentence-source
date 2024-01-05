@@ -1,5 +1,7 @@
 # tortuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tortuous.md)
+
 <p><span class="chinese">人生即是一段艰难曲折的旅程。</span><span class="english">Life is but a hard and tortuous journey.</span></p>
 
 <p><span class="chinese">但谈判还是转弯抹角地拖了很久。</span><span class="english">But the negotiations proved long and tortuous.</span></p>

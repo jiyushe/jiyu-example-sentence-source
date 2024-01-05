@@ -1,5 +1,7 @@
 # 斧子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzi_1.md)
+
 <p><span class="chinese">你的斧子别伤著它。</span><span class="english">Thy axe shall hurt it not.</span></p>
 
 <p><span class="chinese">他捞了一把金斧子出来。</span><span class="english">He came out with a gold ax.</span></p>

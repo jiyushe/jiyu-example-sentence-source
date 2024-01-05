@@ -1,5 +1,7 @@
 # macroscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macroscopic.md)
+
 <p><span class="chinese">而宏观量与微观量之间。</span><span class="english">Between the macroscopic and the microscopic.</span></p>
 
 <p><span class="chinese">量子理论构成大部分宏观物理学的基础。</span><span class="english">Quantum theory underlies much of macroscopic physics.</span></p>

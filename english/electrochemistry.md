@@ -1,5 +1,7 @@
 # electrochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrochemistry.md)
+
 <p><span class="chinese">我的研究是电化学。</span><span class="english">So, my research is electrochemistry.</span></p>
 
 <p><span class="chinese">我对非水溶剂电化学感兴趣。</span><span class="english">So, I'm interested in nonaqueous electrochemistry.</span></p>

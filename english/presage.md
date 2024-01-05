@@ -1,5 +1,7 @@
 # presage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presage.md)
+
 <p><span class="chinese">一个人能从梦中预感将来。</span><span class="english">In dreams one may presage the future.</span></p>
 
 <p><span class="chinese">根据某些迹象，我们可以预告酷热和下雨。</span><span class="english">By certain signs we may presage of heats and rains.</span></p>

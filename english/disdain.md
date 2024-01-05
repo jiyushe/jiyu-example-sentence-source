@@ -1,5 +1,7 @@
 # disdain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disdain.md)
+
 <p><span class="chinese">他轻蔑地撇了撇嘴唇。</span><span class="english">He curled his lips in disdain.</span></p>
 
 <p><span class="chinese">他恨遭人白眼。</span><span class="english">He hates being treated with disdain.</span></p>

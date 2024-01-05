@@ -1,5 +1,7 @@
 # infuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infuse.md)
+
 <p><span class="chinese">让茶浸泡一会儿。</span><span class="english">Let the tea infuse for a while.</span></p>
 
 <p><span class="chinese">杜松子在伏特加里浸过夜。</span><span class="english">Infuse juniper in the vodka overnight.</span></p>

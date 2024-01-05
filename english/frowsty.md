@@ -1,5 +1,7 @@
 # frowsty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frowsty.md)
+
 <p><span class="chinese">最近胸闷、心慌、头晕、想吐，是怎么了啊？</span><span class="english">The closest bosom frowsty , flustered, giddy, keck, be how ah?</span></p>
 
 <p><span class="chinese">生气也会肚子，胃，胸口连锁反应的痛。闷么?。</span><span class="english">Life also is met abdomen, stomach, of wind chain-reacting painful. Frowsty?</span></p>

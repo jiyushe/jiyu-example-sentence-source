@@ -1,5 +1,7 @@
 # 驱使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qushi_3.md)
+
 <p><span class="chinese">是什么驱使我这样？</span><span class="english">What was driving this?</span></p>
 
 <p><span class="chinese">他受好奇心的驱使。</span><span class="english">He yielded to curiosity.</span></p>

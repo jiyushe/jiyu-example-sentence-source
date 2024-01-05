@@ -1,5 +1,7 @@
 # monopolize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monopolize.md)
+
 <p><span class="chinese">她想独占他的时间。</span><span class="english">She tried to monopolize his time.</span></p>
 
 <p><span class="chinese">实物期权具有先占性和非独占性。</span><span class="english">Real option has personal and monopolize.</span></p>

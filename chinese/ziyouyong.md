@@ -1,5 +1,7 @@
 # 自由泳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyouyong.md)
+
 <p><span class="chinese">从标准单臂自由泳。</span><span class="english">Start with standard single-arm freestyle.</span></p>
 
 <p><span class="chinese">约翰会游自由泳、仰泳、蛙泳和蝶泳。</span><span class="english">He can swim breaststroke backstroke and crawl.</span></p>

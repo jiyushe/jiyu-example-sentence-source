@@ -1,5 +1,7 @@
 # 偷窃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touqie.md)
+
 <p><span class="chinese">他以偷窃为生。</span><span class="english">He lives by thieving.</span></p>
 
 <p><span class="chinese">像艺术家一样偷窃。</span><span class="english">Steal like an artist.</span></p>

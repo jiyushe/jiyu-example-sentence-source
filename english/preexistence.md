@@ -1,5 +1,7 @@
 # preexistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preexistence.md)
+
 <p><span class="chinese">男人们的前世是蜜蜂。</span><span class="english">The preexistence of man ia the bee.</span></p>
 
 <p><span class="chinese">在阴阳界双方，我的前世。</span><span class="english">Across the Yin and Yang of the two circles, my preexistence.</span></p>

@@ -1,5 +1,7 @@
 # guarantor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guarantor.md)
+
 <p><span class="chinese">担保人通讯联系地址发生变更。</span><span class="english">The Guarantor changes the communication address.</span></p>
 
 <p><span class="chinese">既然你们没有担保物，也许可以找个担保人。</span><span class="english">Since you don't have any collateral, perhaps you could get a guarantor.</span></p>

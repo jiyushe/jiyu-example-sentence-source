@@ -1,5 +1,7 @@
 # 硝酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosuan.md)
+
 <p><span class="chinese">硝酸—愈合流血处和开裂处</span><span class="english">Nitric acid – helps heal bleeding and cracking</span></p>
 
 <p><span class="chinese">硝酸咪康唑可用于妊娠期感染。</span><span class="english">Miconazole nitrate may be used during pregnancy.</span></p>

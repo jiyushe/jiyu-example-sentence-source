@@ -1,5 +1,7 @@
 # assist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assist.md)
+
 <p><span class="chinese">帮帮你的老板。</span><span class="english">Assist your employer.</span></p>
 
 <p><span class="chinese">协助在MGH进行扫描。</span><span class="english">Assist with Scanning at MGH.</span></p>

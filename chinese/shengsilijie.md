@@ -1,5 +1,7 @@
 # 声嘶力竭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsilijie.md)
+
 <p><span class="chinese">歌手声嘶力竭地演唱，连嗓子都喊哑了。</span><span class="english">The singer screamed herself hoarse.</span></p>
 
 <p><span class="chinese">她声嘶力竭对听众唱出她那无意义的小曲。</span><span class="english">She bawled her senseless ditties to the audience.</span></p>

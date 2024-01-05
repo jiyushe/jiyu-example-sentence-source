@@ -1,5 +1,7 @@
 # feature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feature.md)
+
 <p><span class="chinese">新学期，新面貌。</span><span class="english">New semester, new feature.</span></p>
 
 <p><span class="chinese">这是一个高级特性。</span><span class="english">This is an advanced feature.</span></p>

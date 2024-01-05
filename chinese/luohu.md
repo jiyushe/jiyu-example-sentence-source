@@ -1,5 +1,7 @@
 # 落户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luohu.md)
+
 <p><span class="chinese">他10年前在这里落户的。</span><span class="english">He settled down here ten years ago.</span></p>
 
 <p><span class="chinese">你在心理上落户于你内心的错误想法上。</span><span class="english">You are mentally dwelling with error in your mind.</span></p>

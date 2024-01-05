@@ -1,5 +1,7 @@
 # synesthesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synesthesia.md)
+
 <p><span class="chinese">那到底是什么造成了共感觉高红血球细胞和心脏病发？</span><span class="english">So does cause synesthesia high red blood cell count and heart attack?</span></p>
 
 <p><span class="chinese">李贺是中国古代诗人中将通感艺术运用最多、运用最妙的一位。</span><span class="english">Li He, a Chinese ancient poet, adopted synesthesia most and applied it excellently.</span></p>

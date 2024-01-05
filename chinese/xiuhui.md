@@ -1,5 +1,7 @@
 # 休会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuhui.md)
+
 <p><span class="chinese">在正午休会。</span><span class="english">The adjourn at midday.</span></p>
 
 <p><span class="chinese">我提议现在休会。</span><span class="english">Move for an adjournment.</span></p>

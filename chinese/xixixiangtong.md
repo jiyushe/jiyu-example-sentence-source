@@ -1,5 +1,7 @@
 # 息息相通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixixiangtong.md)
+
 <p><span class="chinese">他酷爱生活，渴望融入所有人的生活，与他们息息相通。</span><span class="english">He enters eagerly into the life of man, all men. He becomes all men in himself.</span></p>
 
 <p><span class="chinese">他深感自己与大自然是息息相通的。</span><span class="english">He have a great feeling of the communion between himself and the hill and lake.</span></p>

@@ -1,5 +1,7 @@
 # 上车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangche.md)
+
 <p><span class="chinese">她耸耸肩，然后上车。</span><span class="english">She shrugs and gets in.</span></p>
 
 <p><span class="chinese">对不起，我可以上车吗？</span><span class="english">Excuse me. May I get by?</span></p>

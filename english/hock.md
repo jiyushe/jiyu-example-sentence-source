@@ -1,5 +1,7 @@
 # hock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hock.md)
+
 <p><span class="chinese">为了搞到钱去我要把表当掉。</span><span class="english">To get dough I'll put my watch in hock.</span></p>
 
 <p><span class="chinese">尾巴长，尾骨延伸至飞节或以下。</span><span class="english">Tail Long with bone reaching at least to hock joint.</span></p>

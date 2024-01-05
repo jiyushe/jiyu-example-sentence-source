@@ -1,5 +1,7 @@
 # 生产率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchanlv.md)
+
 <p><span class="chinese">引取零滑动设计，生产率高。</span><span class="english">Nil-pulley design, high effeciency.</span></p>
 
 <p><span class="chinese">它能提高士气和生产率。</span><span class="english">It increases morale and productivity.</span></p>

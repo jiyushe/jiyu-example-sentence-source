@@ -1,5 +1,7 @@
 # episiotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/episiotomy.md)
+
 <p><span class="chinese">如果你还没有准备好，和医生讨论一下关于会阴侧切的问题。</span><span class="english">If you haven’t already, discuss the episiotomy issue with your practitioner.</span></p>
 
 <p><span class="chinese">术带来愈合不良、住院时间延长等。</span><span class="english">Routine episiotomy is associated with poor healing, and longer hospital stays.</span></p>

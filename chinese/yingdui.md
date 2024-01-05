@@ -1,5 +1,7 @@
 # 应对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingdui.md)
+
 <p><span class="chinese">我们有什么应对良策吗？</span><span class="english">How well are we doing?</span></p>
 
 <p><span class="chinese">酒店经营者应如何应对？</span><span class="english">What Should Hoteliers Do?</span></p>

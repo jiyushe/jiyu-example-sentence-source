@@ -1,5 +1,7 @@
 # optimistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimistic.md)
+
 <p><span class="chinese">他是个乐观的生态旅游者。</span><span class="english">He is a optimistic ecotourist.</span></p>
 
 <p><span class="chinese">那是很乐观的行动。</span><span class="english">That’s an optimistic approach.</span></p>

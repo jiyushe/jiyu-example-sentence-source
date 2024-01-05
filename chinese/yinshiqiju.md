@@ -1,5 +1,7 @@
 # 饮食起居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshiqiju.md)
+
 <p><span class="chinese">医生强制一套严格的饮食起居制度。</span><span class="english">The doctor enforced a strict dietary regimen.</span></p>
 
 <p><span class="chinese">他认为他的健康是注意饮食起居的结果。</span><span class="english">He attributes his good health to careful living.</span></p>

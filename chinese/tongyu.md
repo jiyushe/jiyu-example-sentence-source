@@ -1,5 +1,7 @@
 # 统御
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyu.md)
+
 <p><span class="chinese">欲领导他人的人必须先统御自己。</span><span class="english">He who would lead must first command himself.</span></p>
 
 <p><span class="chinese">这个危机源自于统御领导的失败吗？</span><span class="english">Did this crisis stem from a governance failure?</span></p>

@@ -1,5 +1,7 @@
 # 眼睑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjian_1.md)
+
 <p><span class="chinese">仅只是眼睑，如此琐细。</span><span class="english">Merely lid. How trivial it is.</span></p>
 
 <p><span class="chinese">绷紧你的上下眼睑。</span><span class="english">Tense your lower and upper eyelids.</span></p>

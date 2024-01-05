@@ -1,5 +1,7 @@
 # muck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muck.md)
+
 <p><span class="chinese">她的部份工作就是清扫马廐。</span><span class="english">Part of her job was to muck out the stables.</span></p>
 
 <p><span class="chinese">矿工每隔一天清除一次矸石。</span><span class="english">The miners muck the waste rock every other day.</span></p>

@@ -1,5 +1,7 @@
 # 齐声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qisheng.md)
+
 <p><span class="chinese">突然齐声发出喊叫。</span><span class="english">A chorus of shouts broke out.</span></p>
 
 <p><span class="chinese">“阿门！”其他人齐声道。</span><span class="english">"Amen! " the others chorused.</span></p>

@@ -1,5 +1,7 @@
 # eddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eddy.md)
+
 <p><span class="chinese">贝蒂正向埃迪暗送秋波。</span><span class="english">Betty was making sheep 's eyes at Eddy.</span></p>
 
 <p><span class="chinese">他们使用涡流检测。</span><span class="english">And they used what they called eddy current testing.</span></p>

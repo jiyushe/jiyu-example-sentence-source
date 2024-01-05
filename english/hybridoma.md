@@ -1,5 +1,7 @@
 # hybridoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hybridoma.md)
+
 <p><span class="chinese">筛选共得到一株阳性杂交瘤细胞，命名为4D11。</span><span class="english">At last, we got one positive hybridoma cells named 4D11.</span></p>
 
 <p><span class="chinese">杂种细胞的分泌能力较强。</span><span class="english">It suggests that the hybridoma has a stronger secretory ability.</span></p>

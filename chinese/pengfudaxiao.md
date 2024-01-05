@@ -1,5 +1,7 @@
 # 捧腹大笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengfudaxiao.md)
+
 <p><span class="chinese">观众捧腹大笑。</span><span class="english">Big audience laugh.</span></p>
 
 <p><span class="chinese">那个故事真使我捧腹大笑。</span><span class="english">That story really cracked me up.</span></p>

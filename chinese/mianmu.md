@@ -1,5 +1,7 @@
 # 面目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmu.md)
+
 <p><span class="chinese">我迷失了方向，我被逼用徦面目视人。</span><span class="english">I lose my way, Im forced to fake.</span></p>
 
 <p><span class="chinese">我迷失ㄋ方向，我被逼用徦面目视人。</span><span class="english">I lose my way, Im forced to fake.</span></p>

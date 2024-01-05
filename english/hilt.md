@@ -1,5 +1,7 @@
 # hilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilt.md)
+
 <p><span class="chinese">他拍了拍他的剑柄。</span><span class="english">He patted his sword hilt.</span></p>
 
 <p><span class="chinese">他完全卷进了政治。</span><span class="english">He was involver in politics to the hilt.</span></p>

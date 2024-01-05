@@ -1,5 +1,7 @@
 # unintentional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unintentional.md)
+
 <p><span class="chinese">语言是一种无心的话语。</span><span class="english">Language is an unintentional speech.</span></p>
 
 <p><span class="chinese">街道的陡度并非刻意为之。</span><span class="english">The street's steepness was unintentional.</span></p>

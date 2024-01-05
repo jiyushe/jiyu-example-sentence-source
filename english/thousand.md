@@ -1,5 +1,7 @@
 # thousand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thousand.md)
+
 <p><span class="chinese">年薪六千美元！</span><span class="english">Six thousand a year!</span></p>
 
 <p><span class="chinese">有一千个刎。</span><span class="english">There are a thousand.</span></p>

@@ -1,5 +1,7 @@
 # 金橘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinju.md)
+
 <p><span class="chinese">我的朋友喜欢吃小金橘。</span><span class="english">My friend likes to eat kumquats.</span></p>
 
 <p><span class="chinese">不管怎么样你喜欢“金橘”这个词吗？</span><span class="english">Anyway, do you like the word "cumquat"?</span></p>

@@ -1,5 +1,7 @@
 # familiarize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/familiarize.md)
+
 <p><span class="chinese">熟悉目的地当地的情况和法律。</span><span class="english">Familiarize yourself with local conditions and laws.</span></p>
 
 <p><span class="chinese">我们应该从现在开始就去熟悉考试。</span><span class="english">We must familiarize ourselves with the exam from now on.</span></p>

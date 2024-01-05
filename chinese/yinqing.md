@@ -1,5 +1,7 @@
 # 引擎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqing.md)
+
 <p><span class="chinese">风魂引擎。</span><span class="english">Wind Spirit engine.</span></p>
 
 <p><span class="chinese">他修正了这台引擎。</span><span class="english">He trued the engine.</span></p>

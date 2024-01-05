@@ -1,5 +1,7 @@
 # 低能儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinenger.md)
+
 <p><span class="chinese">消费者并非低能儿。</span><span class="english">The consumer is not a moron.</span></p>
 
 <p><span class="chinese">阿甘是个智商只有75的低能儿。</span><span class="english">Forrest gump's IQ only 75 moron.</span></p>

@@ -1,5 +1,7 @@
 # rousing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rousing.md)
+
 <p><span class="chinese">我们的历险热热闹闹的开幕了。</span><span class="english">Our adventure kicked off with a rousing start.</span></p>
 
 <p><span class="chinese">他走遍全楼，把大家叫醒。</span><span class="english">He went all around the building, rousing everybody.</span></p>

@@ -1,5 +1,7 @@
 # 接任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieren.md)
+
 <p><span class="chinese">乔治接任爱德华当队长。</span><span class="english">George replaced Edward as captain.</span></p>
 
 <p><span class="chinese">普京副手索比亚宁接任莫斯科市长。</span><span class="english">Sobyanin confirmed as new Moscow mayor.</span></p>

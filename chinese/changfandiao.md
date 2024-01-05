@@ -1,5 +1,7 @@
 # 唱反调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changfandiao.md)
+
 <p><span class="chinese">别在你的网站上唱反调。</span><span class="english">Do not neglect this on your site.</span></p>
 
 <p><span class="chinese">我们哪敢跟中央政府唱反调。</span><span class="english">We dare not oppose the central government.</span></p>

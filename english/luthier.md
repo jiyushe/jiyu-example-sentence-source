@@ -1,5 +1,7 @@
 # luthier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luthier.md)
+
 <p><span class="chinese">你听说这个在法国的意大利人琴师吗？</span><span class="english">Have you heard this Italian French luthier?</span></p>
 
 <p><span class="chinese">每个制琴师都说自己的方法很好。</span><span class="english">Each luthier claiming that his method works very well.</span></p>

@@ -1,5 +1,7 @@
 # 如若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruruo.md)
+
 <p><span class="chinese">如若你没有被诱惑。</span><span class="english">When nothing tempts you to stray.</span></p>
 
 <p><span class="chinese">当然，如若需要，我们必定相互帮助。</span><span class="english">Of course we help each other if necessary.</span></p>

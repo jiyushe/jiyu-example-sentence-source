@@ -1,5 +1,7 @@
 # frit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frit.md)
+
 <p><span class="chinese">用玻璃料制成的一个独立进口暴露在灌流液中。</span><span class="english">A separate inlet with a ceramic frit is used to aerate the perfusate.</span></p>
 
 <p><span class="chinese">对于弗里茨D不可能建立这种对比。</span><span class="english">For frit D it was not possible to establish this type of correlation.</span></p>

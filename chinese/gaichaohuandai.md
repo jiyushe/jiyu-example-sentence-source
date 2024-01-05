@@ -1,5 +1,7 @@
 # 改朝换代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaichaohuandai.md)
+
 <p><span class="chinese">改朝换代枪杆子可比选票可靠得多。</span><span class="english">Bullets change governments far surer than votes.</span></p>
 
 <p><span class="chinese">改朝换代后，另一个王朝又重复这样的周期。</span><span class="english">Then, it is replaced by another dynasty repeating the same cycle.</span></p>

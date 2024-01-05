@@ -1,5 +1,7 @@
 # 硕士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoshi_1.md)
+
 <p><span class="chinese">我没有硕士学位，但</span><span class="english">I don't have a master's degree but</span></p>
 
 <p><span class="chinese">博士、硕士研究生6400余人。</span><span class="english">Dr. , graduate student 6400 people.</span></p>

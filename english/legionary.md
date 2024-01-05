@@ -1,5 +1,7 @@
 # legionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legionary.md)
+
 <p><span class="chinese">泰特斯·波罗的刀尝到的第一滴血！</span><span class="english">It was legionary Titus Pullo who drew first blood!</span></p>
 
 <p><span class="chinese">也就是说，任何网络上关于军队医院的广告都是假的。</span><span class="english">That is to say, the about legionary hospital advertisement on any networks is false.</span></p>

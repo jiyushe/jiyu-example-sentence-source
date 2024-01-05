@@ -1,5 +1,7 @@
 # swift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swift.md)
+
 <p><span class="chinese">水流湍急。</span><span class="english">The current is swift.</span></p>
 
 <p><span class="chinese">你要拒绝来是会得罪人的。</span><span class="english">He is swift to take offence.</span></p>

@@ -1,5 +1,7 @@
 # intractability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intractability.md)
+
 <p><span class="chinese">我们可以认为，腐化难以消除，但我们仍积极要求获得尊严。</span><span class="english">We can admit the intractability of depravation, and still strive for dignity.</span></p>
 
 <p><span class="chinese">两种方案的安全性都是基于椭圆曲线离散对数问题的难解性。</span><span class="english">Both of their security are based on the intractability of elliptic curve discrete logarithm problem.</span></p>

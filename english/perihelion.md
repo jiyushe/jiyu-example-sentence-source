@@ -1,5 +1,7 @@
 # perihelion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perihelion.md)
+
 <p><span class="chinese">近日点方向使每个轨道改变了多少？</span><span class="english">How much does the direction of perihelion change each orbit?</span></p>
 
 <p><span class="chinese">如果大写M是太阳,就叫“远日点“和“近日点</span><span class="english">If capital M were the Sun, we would call that "aphelion" and "perihelion."</span></p>

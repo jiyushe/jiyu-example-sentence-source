@@ -1,5 +1,7 @@
 # puerperal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puerperal.md)
+
 <p><span class="chinese">比较两组产褥感染的情况。</span><span class="english">The incidence of puerperal infection in the 2 groups was compared.</span></p>
 
 <p><span class="chinese">所有以上这些措施都能有效降低孕产妇及新生儿病死率。</span><span class="english">All the above can degrade the case fatality rate of puerperal and neonatus.</span></p>

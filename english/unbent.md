@@ -1,5 +1,7 @@
 # unbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbent.md)
+
 <p><span class="chinese">小草的叶片没有弯曲。</span><span class="english">Blades of grass are unbent.</span></p>
 
 <p><span class="chinese">法官松弛了下来，举止像个小男孩。</span><span class="english">The judge unbent and behaved like a boy.</span></p>

@@ -1,5 +1,7 @@
 # 张贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangtie.md)
+
 <p><span class="chinese">张贴在尉蓝里。</span><span class="english">Posted in the blue sky.</span></p>
 
 <p><span class="chinese">不许你在校园里张贴招聘海报。</span><span class="english">You will not list on this campus.</span></p>

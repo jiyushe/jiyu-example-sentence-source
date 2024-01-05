@@ -1,5 +1,7 @@
 # 敲门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaomen.md)
+
 <p><span class="chinese">死神在敲门，接近死亡。</span><span class="english">He banged at the door.</span></p>
 
 <p><span class="chinese">进来前先敲门。</span><span class="english">Knock before you enter.</span></p>

@@ -1,5 +1,7 @@
 # bone 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bone.md)
+
 <p><span class="chinese">答案是骨头传导科技。</span><span class="english">Bone conduction.</span></p>
 
 <p><span class="chinese">我是个懒骨头。</span><span class="english">I'm a lazy bone.</span></p>

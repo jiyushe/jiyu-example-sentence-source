@@ -1,5 +1,7 @@
 # 期票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipiao.md)
+
 <p><span class="chinese">即期票据在提示时即付款。</span><span class="english">Demand note that the prompt payment.</span></p>
 
 <p><span class="chinese">期票通常不予接纳。</span><span class="english">Post-dated cheques are normally not accepted.</span></p>

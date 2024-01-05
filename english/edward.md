@@ -1,5 +1,7 @@
 # edward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edward.md)
+
 <p><span class="chinese">爱德华·卡伦。</span><span class="english">Edward Cullen.</span></p>
 
 <p><span class="chinese">那是爱德华。</span><span class="english">That's Edward.</span></p>

@@ -1,5 +1,7 @@
 # down
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/down.md)
+
 <p><span class="chinese">滑下来。</span><span class="english">Slide down.</span></p>
 
 <p><span class="chinese">放下撞槌。</span><span class="english">Hammer down.</span></p>

@@ -1,5 +1,7 @@
 # crappie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crappie.md)
+
 <p><span class="chinese">在冬天莓鲈翻车鱼移动深深。</span><span class="english">In winter crappie move deep.</span></p>
 
 <p><span class="chinese">大多数克拉皮陷入半至1磅之间。</span><span class="english">Most crappie caught are in the half- to 1-pound range.</span></p>

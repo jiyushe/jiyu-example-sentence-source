@@ -1,5 +1,7 @@
 # fourscore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fourscore.md)
+
 <p><span class="chinese">八十岁时我回家来。</span><span class="english">At fourscore I came home.</span></p>
 
 <p><span class="chinese">管家说，拿你的账写八十。</span><span class="english">And he said unto him, Take thy bill, and write fourscore.</span></p>

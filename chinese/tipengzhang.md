@@ -1,5 +1,7 @@
 # 体膨胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tipengzhang.md)
+
 <p><span class="chinese">如果以太体膨胀，物质身体也将如此。</span><span class="english">If the etheric body puffs, so will the physical form.</span></p>
 
 <p><span class="chinese">材料相变屈服准则包含了体膨胀和剪切应变的作用。</span><span class="english">The transformation yield condition includes the dilatantional and shear effect.</span></p>

@@ -1,5 +1,7 @@
 # 海损
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haisun.md)
+
 <p><span class="chinese">并非一切的破碎险都属于单独海损。</span><span class="english">Not every breakage is a particular average.</span></p>
 
 <p><span class="chinese">险是属于一种单独海损，对吗？</span><span class="english">Risk of Breakage is classified under extraneous risks.</span></p>

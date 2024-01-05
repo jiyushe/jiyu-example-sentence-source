@@ -1,5 +1,7 @@
 # teller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teller.md)
+
 <p><span class="chinese">要不要我去把出纳员叫来？</span><span class="english">Shall I call the teller?</span></p>
 
 <p><span class="chinese">银行“起用”她当出纳员。</span><span class="english">The bank started her as a teller.</span></p>

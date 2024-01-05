@@ -1,5 +1,7 @@
 # 樱桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingtao.md)
+
 <p><span class="chinese">还是樱桃小嘴呢。</span><span class="english">Or cherry small mouth.</span></p>
 
 <p><span class="chinese">她有一张樱桃小嘴。</span><span class="english">She has a small mouth.</span></p>

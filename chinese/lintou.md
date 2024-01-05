@@ -1,5 +1,7 @@
 # 临头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lintou.md)
+
 <p><span class="chinese">大祸临头。</span><span class="english">Disaster strikes one's head.</span></p>
 
 <p><span class="chinese">灾祸临头。</span><span class="english">A great disaster is befalling.</span></p>

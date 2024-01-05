@@ -1,5 +1,7 @@
 # 篆书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanshu_2.md)
+
 <p><span class="chinese">篆书又分为大篆和小篆，是汉字书体发的主要阶段。</span><span class="english">Seal is divided into Dazhuan and Xiaozhuan, is a Chinese book-an important stage.</span></p>
 
 <p><span class="chinese">两汉时期的碑额是我们研究篆书在两汉时期发展情况的重要资料。</span><span class="english">It is the important material for us to study the development of the seal script in that period.</span></p>

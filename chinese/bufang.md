@@ -1,5 +1,7 @@
 # 不妨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufang.md)
+
 <p><span class="chinese">不妨这样想一想。</span><span class="english">Think of it like this.</span></p>
 
 <p><span class="chinese">不妨从零钱开始。</span><span class="english">Start with loose change.</span></p>

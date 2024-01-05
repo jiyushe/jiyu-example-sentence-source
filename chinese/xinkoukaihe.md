@@ -1,5 +1,7 @@
 # 信口开河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkoukaihe.md)
+
 <p><span class="chinese">他信口开河地作完了他的演说。</span><span class="english">He floundered through his speech.</span></p>
 
 <p><span class="chinese">信口开河可真能带来麻烦。</span><span class="english">Loose lips really can cause trouble.</span></p>

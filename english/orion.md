@@ -1,5 +1,7 @@
 # orion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orion.md)
+
 <p><span class="chinese">没有船帆座，没有猎户座。</span><span class="english">No Vela no Orion.</span></p>
 
 <p><span class="chinese">那个是猎户座。</span><span class="english">That's Orion there.</span></p>

@@ -1,5 +1,7 @@
 # azathioprine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azathioprine.md)
+
 <p><span class="chinese">免疫抑制剂包括环孢霉素、硫唑嘌呤和强的松龙。</span><span class="english">The immunosuppression consisted of cyclosporine, azathioprine , and prednisolone.</span></p>
 
 <p><span class="chinese">这些患者同时接受了硫唑嘌呤或巯基嘌呤治疗。</span><span class="english">These patients also were receiving drugs known as azathioprine or 6-mercaptopurine.</span></p>

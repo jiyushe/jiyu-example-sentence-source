@@ -1,5 +1,7 @@
 # borrow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borrow.md)
+
 <p><span class="chinese">我可以借支笔吗？</span><span class="english">May I borrow a pen?</span></p>
 
 <p><span class="chinese">能借给我五英镑吗?。</span><span class="english">Can I borrow a fiver ?</span></p>

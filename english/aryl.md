@@ -1,5 +1,7 @@
 # aryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aryl.md)
+
 <p><span class="chinese">例如芳基二硫化物可抑制聚烯烃的氧化。</span><span class="english">Aryl disulfides, for example, inhibit polyolefin oxidation.</span></p>
 
 <p><span class="chinese">研究了碳酸铯催化酚与卤代烃反应制备烷基芳醚。</span><span class="english">Cesium carbonate catalyzed O-alkylation of phenol to synthesize alkyl aryl ethers.</span></p>

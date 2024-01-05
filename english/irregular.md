@@ -1,5 +1,7 @@
 # irregular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irregular.md)
+
 <p><span class="chinese">规则还是不规则？</span><span class="english">Regular or irregular?</span></p>
 
 <p><span class="chinese">规则还是不规则的，嗯？</span><span class="english">Regular or irregular?Hmm?</span></p>

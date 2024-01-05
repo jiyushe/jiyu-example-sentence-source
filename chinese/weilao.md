@@ -1,5 +1,7 @@
 # 慰劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilao.md)
+
 <p><span class="chinese">我们带着礼物慰劳士兵。</span><span class="english">We comforted soldiers with gifts.</span></p>
 
 <p><span class="chinese">还说要去家乐福给他们买好吃的慰劳一下。</span><span class="english">She also said she would go to Carrefour to get some good food for them.</span></p>

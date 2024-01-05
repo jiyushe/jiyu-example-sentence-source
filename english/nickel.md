@@ -1,5 +1,7 @@
 # nickel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nickel.md)
+
 <p><span class="chinese">镍是一种金属元素。</span><span class="english">Nickel is a metallic element.</span></p>
 
 <p><span class="chinese">镍矿砂及其精矿。</span><span class="english">Nickel ores and concentrates.</span></p>

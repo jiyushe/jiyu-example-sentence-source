@@ -1,5 +1,7 @@
 # 前哨战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshaozhan.md)
+
 <p><span class="chinese">前哨战开始了，地球变成了二元性的地方。</span><span class="english">Skirmishes took place, and Earth became a place of duality.</span></p>
 
 <p><span class="chinese">到当时为止，边境上的攻击只是些零散的前哨战。</span><span class="english">So far the border attacks were only scattered outpost actions.</span></p>

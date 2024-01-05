@@ -1,5 +1,7 @@
 # 诲人不倦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huirenbujuan.md)
+
 <p><span class="chinese">谢谢王老师，诲人不倦！</span><span class="english">Thank you ! Teacher Wang!</span></p>
 
 <p><span class="chinese">循循善诱，诲人不倦的是老师。</span><span class="english">Coaxing, teaching is a teacher.</span></p>

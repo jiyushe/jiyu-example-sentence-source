@@ -1,5 +1,7 @@
 # annihilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annihilation.md)
+
 <p><span class="chinese">毁灭之球的法力消耗从20提高到25。</span><span class="english">Orb of Annihilation mana cost increased to 25 from 20.</span></p>
 
 <p><span class="chinese">公司曾经借贷给她，最后她被公司辞退。</span><span class="english">This company has to be given credit for her ultimate annihilation.</span></p>

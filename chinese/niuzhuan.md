@@ -1,5 +1,7 @@
 # 扭转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuzhuan.md)
+
 <p><span class="chinese">常合并肠扭转。</span><span class="english">Often merges the volvulus.</span></p>
 
 <p><span class="chinese">呼气进入新月扭转式。</span><span class="english">Exhale into Reverse Half Moon.</span></p>

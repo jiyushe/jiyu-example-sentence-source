@@ -1,5 +1,7 @@
 # 侍应生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyingsheng.md)
+
 <p><span class="chinese">回去做侍应生？</span><span class="english">Going back to waitressing?</span></p>
 
 <p><span class="chinese">这家餐馆一开始雇我作侍应生。</span><span class="english">The restaurant started me in as a waiter.</span></p>

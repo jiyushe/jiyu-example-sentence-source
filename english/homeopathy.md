@@ -1,5 +1,7 @@
 # homeopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeopathy.md)
+
 <p><span class="chinese">你认为你的工作也有些顺势疗法的意思？</span><span class="english">Do you think there's something to homeopathy as well?</span></p>
 
 <p><span class="chinese">我想试一下顺势疗法或灵气疗法，尽管我他们是荒谬的。</span><span class="english">I'd go for homeopathy or reiki except I think they're nonsense.</span></p>

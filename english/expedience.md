@@ -1,5 +1,7 @@
 # expedience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expedience.md)
+
 <p><span class="chinese">实例证明，此方法简单、方便和有效。</span><span class="english">It was proved briefness, expedience and efficiency.</span></p>
 
 <p><span class="chinese">需要所至无法律，而”为目的不择手段”经常是一种需要。</span><span class="english">Necessity has no law, and expedience is often one form of necessity.</span></p>

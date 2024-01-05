@@ -1,5 +1,7 @@
 # skip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skip.md)
+
 <p><span class="chinese">跳过它。</span><span class="english">Skip it.</span></p>
 
 <p><span class="chinese">我跳过这一段了。</span><span class="english">I'll skip that.</span></p>

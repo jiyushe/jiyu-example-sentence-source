@@ -1,5 +1,7 @@
 # scuffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scuffle.md)
+
 <p><span class="chinese">他们的殴斗被防暴警察制止了。</span><span class="english">Their scuffle was stopped by the riot police.</span></p>
 
 <p><span class="chinese">这两个人先是争吵起来，接着又扭打在一起。</span><span class="english">The two men quarrelled and there was a scuffle.</span></p>

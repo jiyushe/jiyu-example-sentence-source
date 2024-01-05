@@ -1,5 +1,7 @@
 # laity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laity.md)
+
 <p><span class="chinese">如果向俗人把我们的爱情倾诉。</span><span class="english">To tell the laity our love.</span></p>
 
 <p><span class="chinese">新的建议与神职人员和俗人都有关系。</span><span class="english">The new proposals affect both clergy and laity.</span></p>

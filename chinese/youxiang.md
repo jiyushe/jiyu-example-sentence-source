@@ -1,5 +1,7 @@
 # 油箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxiang.md)
+
 <p><span class="chinese">移动式的盛屑盘和油箱。</span><span class="english">Removable chip tray and tank.</span></p>
 
 <p><span class="chinese">油箱里的汽油正往外漏。</span><span class="english">The petrol in the tank is leaking out.</span></p>

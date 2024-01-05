@@ -1,5 +1,7 @@
 # employed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/employed.md)
+
 <p><span class="chinese">刀是用来削东西的。</span><span class="english">Knives are employed to cut stuffs.</span></p>
 
 <p><span class="chinese">他们雇用他为垂问。</span><span class="english">They employed him as a consultant.</span></p>

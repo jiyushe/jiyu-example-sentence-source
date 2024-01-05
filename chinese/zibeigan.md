@@ -1,5 +1,7 @@
 # 自卑感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibeigan.md)
+
 <p><span class="chinese">我有严重的自卑感！</span><span class="english">I have serious Self-contempt.</span></p>
 
 <p><span class="chinese">自卑感会有，但仍旧是充满希望。</span><span class="english">humbler, but still, just about, hopeful.</span></p>

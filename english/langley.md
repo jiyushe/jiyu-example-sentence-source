@@ -1,5 +1,7 @@
 # langley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/langley.md)
+
 <p><span class="chinese">惣流·明日香·兰格雷是无所畏惧的！</span><span class="english">Sohryu Asuka Langley is afraid of nothing!</span></p>
 
 <p><span class="chinese">兰利机场仍然包括了另外九个风洞实验室。</span><span class="english">But Langley is still home to nine other wind tunnels.</span></p>

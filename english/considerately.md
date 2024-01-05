@@ -1,5 +1,7 @@
 # considerately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/considerately.md)
+
 <p><span class="chinese">他会在她下车时，总是体贴地替她开车门。</span><span class="english">He can get off in her when, always open door considerately for her.</span></p>
 
 <p><span class="chinese">我们的服务有如阳光般温暖、周到、照耀着每一个学员！</span><span class="english">Our service is just like the sunshine shine on every student warmly considerately.</span></p>

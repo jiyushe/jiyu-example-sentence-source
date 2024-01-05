@@ -1,5 +1,7 @@
 # 打入冷宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/darulenggong.md)
+
 <p><span class="chinese">2003年被金正日当作潜在威胁被打入冷宫后他于2006年又回到权力中心。</span><span class="english">Purged in 2003 as a potential rival, he bounced back in 2006.</span></p>
 
 <p><span class="chinese">迷你裙迅即流行，但是很快就被打入冷宫。</span><span class="english">The mini-skirt caught on quickly but disappeared equally fast.</span></p>

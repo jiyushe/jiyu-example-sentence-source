@@ -1,5 +1,7 @@
 # 巧手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoshou.md)
+
 <p><span class="chinese">巧手儿什么都会做。</span><span class="english">A deft hand can do just about anything.</span></p>
 
 <p><span class="chinese">从前有一个小村子，村里有一个巧手的裁缝。</span><span class="english">Once upon a time, in a small village, a great tailor lived.</span></p>

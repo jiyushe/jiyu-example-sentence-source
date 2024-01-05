@@ -1,5 +1,7 @@
 # croydon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croydon.md)
+
 <p><span class="chinese">诺比和我向克罗伊登方向出发。</span><span class="english">Nobby and I set out for Croydon.</span></p>
 
 <p><span class="chinese">到路易斯和东克罗伊登转车。</span><span class="english">You change at Lewes and East Croydon.</span></p>

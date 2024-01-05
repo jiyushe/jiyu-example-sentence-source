@@ -1,5 +1,7 @@
 # yawp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yawp.md)
+
 <p><span class="chinese">“站在世界屋脊上，我喊出我野性的狂叫”。</span><span class="english">I sound my barbaric yawp over the rooftops of the world.</span></p>
 
 <p><span class="chinese">高速公路对周边环境的噪声污染是较严重的。</span><span class="english">The yawp pollution of freeway to the ambience is rather severe.</span></p>

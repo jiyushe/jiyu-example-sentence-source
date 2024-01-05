@@ -1,5 +1,7 @@
 # unbleached
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbleached.md)
+
 <p><span class="chinese">用于内衣的棉布制成的纤维。</span><span class="english">A knitted, unbleached cotton fabric for underwear.</span></p>
 
 <p><span class="chinese">妈妈让她买两尺本白布回家。</span><span class="english">Her mother asks her to buy two chi of unbleached cloth.</span></p>

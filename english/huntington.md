@@ -1,5 +1,7 @@
 # huntington
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huntington.md)
+
 <p><span class="chinese">塞缪尔·亨廷顿是美国最伟大的政治理论学家之一。</span><span class="english">Samuel Huntington was one of America’s greatest political scientists.</span></p>
 
 <p><span class="chinese">最后，我还有说亨廷顿误解了历史变革的性质。</span><span class="english">Finally, I’d say Huntington misunderstood the nature of historical change.</span></p>

@@ -1,5 +1,7 @@
 # 红红火火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honghonghuohuo.md)
+
 <p><span class="chinese">当我们离开时，晚会正进行得红红火火。</span><span class="english">The party was jumping when we left.</span></p>
 
 <p><span class="chinese">清真寺后面的清真小吃排档生意红红火火。</span><span class="english">Behind the mosque, halal snack stalls do brisk business.</span></p>

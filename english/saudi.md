@@ -1,5 +1,7 @@
 # saudi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saudi.md)
+
 <p><span class="chinese">沙特想象设备传统。公司。</span><span class="english">Saudi Imaging Equipment Trad . Corp.</span></p>
 
 <p><span class="chinese">沙特亲王遭遇自杀式爆炸袭击受伤。</span><span class="english">Suicide bomber injures senior Saudi prince.</span></p>

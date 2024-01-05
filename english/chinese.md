@@ -1,5 +1,7 @@
 # chinese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinese.md)
+
 <p><span class="chinese">他是中国人。</span><span class="english">He is  Chinese.</span></p>
 
 <p><span class="chinese">现在轮到学汉语了”。</span><span class="english">Now it's Chinese.</span></p>

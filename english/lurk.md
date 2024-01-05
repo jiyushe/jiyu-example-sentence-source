@@ -1,5 +1,7 @@
 # lurk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lurk.md)
+
 <p><span class="chinese">面对光明，或藏伏在黑暗里。</span><span class="english">Face the light or lurk in darkness.</span></p>
 
 <p><span class="chinese">杂草丛中还潜伏着其它棘手的问题。</span><span class="english">Other thorny issues lurk in the weeds.</span></p>

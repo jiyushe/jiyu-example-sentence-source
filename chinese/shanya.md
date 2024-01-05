@@ -1,5 +1,7 @@
 # 山崖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanya.md)
+
 <p><span class="chinese">它正好悬挂在山崖上方。</span><span class="english">It just hung over the cliff.</span></p>
 
 <p><span class="chinese">两座高大山崖使天空变成了一条缝。</span><span class="english">The sky is necked by the two high cliffs.</span></p>

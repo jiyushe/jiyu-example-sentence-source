@@ -1,5 +1,7 @@
 # 够意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouyisi.md)
+
 <p><span class="chinese">林炎，你真够意思！</span><span class="english">Lin Yan, you really sufficient definition!</span></p>
 
 <p><span class="chinese">乔，你说你不会说出去，这才够意思啊。</span><span class="english">Say you won't tell, Joe—that's a good feller.</span></p>

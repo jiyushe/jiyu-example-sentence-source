@@ -1,5 +1,7 @@
 # pacify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacify.md)
+
 <p><span class="chinese">官方正在努力稳定他们，只是在最近的劳工争端上没有特别的评论。</span><span class="english">Officials are now trying to pacify them.</span></p>
 
 <p><span class="chinese">“债券市场保卫团”却不容易上钩。</span><span class="english">Bond vigilantes, however, are not easy to pacify.</span></p>

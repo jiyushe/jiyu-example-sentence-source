@@ -1,5 +1,7 @@
 # 洗劫一空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijieyikong.md)
+
 <p><span class="chinese">侵略者把城中的财物洗劫一空。</span><span class="english">Invaders gutted the city.</span></p>
 
 <p><span class="chinese">汤姆被一个流浪汉洗劫一空。</span><span class="english">Tom was sacked by a robber.</span></p>

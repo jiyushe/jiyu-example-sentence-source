@@ -1,5 +1,7 @@
 # memo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memo.md)
+
 <p><span class="chinese">银行送笔记簿。</span><span class="english">Banks send memo books.</span></p>
 
 <p><span class="chinese">好的，这是兑换水单。</span><span class="english">This is exchange memo.</span></p>

@@ -1,5 +1,7 @@
 # deranged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deranged.md)
+
 <p><span class="chinese">我很快就要和他一块走，我们的家庭将会一团糟。</span><span class="english">Our family will be deranged as I must soon follow him.</span></p>
 
 <p><span class="chinese">歌手会因为经历太多大场面而精神错乱。巡回演出就是我的一个问题。</span><span class="english">There's been a lot of hoo-ha about singers being deranged.</span></p>

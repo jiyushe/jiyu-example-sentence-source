@@ -1,5 +1,7 @@
 # korfball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/korfball.md)
+
 <p><span class="chinese">同学们十分雀跃地享受合球。</span><span class="english">The students enjoy very good time with Korfball.</span></p>
 
 <p><span class="chinese">由俱乐部来推展合球特别是在小学里推展。</span><span class="english">The clubs promote korfball especially on the elementary schools.</span></p>

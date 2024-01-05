@@ -1,5 +1,7 @@
 # fever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fever.md)
+
 <p><span class="chinese">什么是“花粉热”？</span><span class="english">What is hay fever?</span></p>
 
 <p><span class="chinese">我发着高烧。</span><span class="english">I had a high fever.</span></p>

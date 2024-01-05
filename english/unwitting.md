@@ -1,5 +1,7 @@
 # unwitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwitting.md)
+
 <p><span class="chinese">飞机噪音是旅客不明智所至。</span><span class="english">Aircraft noise is unwitting of passengers.</span></p>
 
 <p><span class="chinese">陪着不知情的杰姬在医院等候音讯。</span><span class="english">Accompany unwitting Jackie in hospital waiting for thereafter.</span></p>

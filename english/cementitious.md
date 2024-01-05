@@ -1,5 +1,7 @@
 # cementitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cementitious.md)
+
 <p><span class="chinese">地质聚合物是一种新型高性能胶凝材料。</span><span class="english">Geopolymer is a new kind of cementitious material with high performances.</span></p>
 
 <p><span class="chinese">试验证明，经过活化的煤矸石可以改善复合水泥的胶凝性能。</span><span class="english">It is proved that activated coal gangue can improve the cementitious behaviour of compound cement.</span></p>

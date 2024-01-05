@@ -1,5 +1,7 @@
 # midwifery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midwifery.md)
+
 <p><span class="chinese">终于我结束了我为期九周的护理及助产的实习。</span><span class="english">Finally, I have finished my 9-week placement for both nursing and midwifery.</span></p>
 
 <p><span class="chinese">亨特的弟子威廉·希彭成功地将男性助产士引入北美。</span><span class="english">Hunter’s pupil William Shippen successfully introduced male midwifery to America.</span></p>

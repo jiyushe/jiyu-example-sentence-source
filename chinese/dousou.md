@@ -1,5 +1,7 @@
 # 抖擞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dousou.md)
+
 <p><span class="chinese">听到这个消息，男孩暗自兴抖擞来。</span><span class="english">Hearing the news, the boy laughed in his sleeves.</span></p>
 
 <p><span class="chinese">听大鼓在演奏，我精神多抖擞。</span><span class="english">Listen! The torn-torn is playing. How energetic I am!</span></p>

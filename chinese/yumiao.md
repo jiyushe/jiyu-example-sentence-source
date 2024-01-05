@@ -1,5 +1,7 @@
 # 育苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumiao.md)
+
 <p><span class="chinese">初春育苗成了一大苦事。</span><span class="english">Growing seedlings in early spring was another hard job.</span></p>
 
 <p><span class="chinese">头花蓼种子育苗技术研究。</span><span class="english">Study on raising seedling technology of polygonum capitatum.</span></p>

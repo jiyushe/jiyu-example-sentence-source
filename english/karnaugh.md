@@ -1,5 +1,7 @@
 # karnaugh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karnaugh.md)
+
 <p><span class="chinese">三变量卡诺图有八个方格。</span><span class="english">The three-variable Karnaugh map has eight squares.</span></p>
 
 <p><span class="chinese">探讨了卡诺图化简异或逻辑函数的原理，提出了化简异或逻辑函数的新方法。</span><span class="english">The principle of using karnaugh maps to simplify XOR logical functions is explored.</span></p>

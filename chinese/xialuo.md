@@ -1,5 +1,7 @@
 # 下落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialuo.md)
+
 <p><span class="chinese">树丛使他下落的坠势稍缓。</span><span class="english">The trees broke his fall.</span></p>
 
 <p><span class="chinese">有多少自由下落的时间是安全的？</span><span class="english">How much free-fall time is safe?</span></p>

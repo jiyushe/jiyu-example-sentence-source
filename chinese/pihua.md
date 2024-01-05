@@ -1,5 +1,7 @@
 # 屁话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pihua.md)
+
 <p><span class="chinese">“他们的承诺像屁话”。</span><span class="english">"they all promise the moon".</span></p>
 
 <p><span class="chinese">还是说，这只是一句听上去像诗的屁话？</span><span class="english">Or it was just poetic bullshit?</span></p>

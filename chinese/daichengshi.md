@@ -1,5 +1,7 @@
 # 大城市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daichengshi.md)
+
 <p><span class="chinese">在大城市冬泳。</span><span class="english">Big city winter swimming.</span></p>
 
 <p><span class="chinese">哈尔滨市是一个大城市结束。</span><span class="english">The city of Harbin is a big city.</span></p>

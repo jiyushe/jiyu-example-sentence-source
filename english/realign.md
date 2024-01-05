@@ -1,5 +1,7 @@
 # realign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realign.md)
+
 <p><span class="chinese">戴尔宣称他能校政苏的汽车轮胎。</span><span class="english">Dale claimed that he could realign Sue's car wheels.</span></p>
 
 <p><span class="chinese">然后用新数值重新调整打印头，单击“应用”。</span><span class="english">Then realign the print head using the new values by clicking Apply.</span></p>

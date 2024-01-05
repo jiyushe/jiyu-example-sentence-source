@@ -1,5 +1,7 @@
 # 性气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqi_2.md)
+
 <p><span class="chinese">你们两个，这样性气下去，如何是好？</span><span class="english">You are two, so sex spirit base goes, how is good?</span></p>
 
 <p><span class="chinese">张力性气胸的表现是什么？</span><span class="english">The performance of tension pneumothorax What is this?</span></p>

@@ -1,5 +1,7 @@
 # jack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jack.md)
+
 <p><span class="chinese">李杰克。</span><span class="english">Jack Lee.</span></p>
 
 <p><span class="chinese">杰克和汤姆。</span><span class="english">Jack and Tom.</span></p>

@@ -1,5 +1,7 @@
 # growth 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/growth.md)
+
 <p><span class="chinese">自治领的兴起。</span><span class="english">The growth of dominions.</span></p>
 
 <p><span class="chinese">艺术之苗，卓然成长。</span><span class="english">Art Miller, stand growth.</span></p>

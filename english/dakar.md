@@ -1,5 +1,7 @@
 # dakar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dakar.md)
+
 <p><span class="chinese">在达喀尔塞内加尔的这里稍微热地挖掘。</span><span class="english">Mine a little hot over here in Dakar Senegal.</span></p>
 
 <p><span class="chinese">达喀尔由于异乎寻常的滂沱大雨受影响最严重。</span><span class="english">Dakar is most affected, due to the unusually heavy rains.</span></p>

@@ -1,5 +1,7 @@
 # squish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squish.md)
+
 <p><span class="chinese">把它水平地压扁。</span><span class="english">Let's squish it horizontally.</span></p>
 
 <p><span class="chinese">挤椭圆约一半大小。</span><span class="english">Squish the ellipse to about half the size.</span></p>

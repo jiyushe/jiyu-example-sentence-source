@@ -1,5 +1,7 @@
 # collusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collusive.md)
+
 <p><span class="chinese">串通式价格领导具有寡占市场的特征。</span><span class="english">Collusive price leadership characterizes oligopolistic markets.</span></p>
 
 <p><span class="chinese">卡特尔是寡头垄断市场中厂商的一种重要勾结形式。</span><span class="english">Cartel was an important collusive way of firms in the oligopoly market.</span></p>

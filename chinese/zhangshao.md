@@ -1,5 +1,7 @@
 # 掌勺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangshao.md)
+
 <p><span class="chinese">烧烤大师掌勺KGC烤鸡</span><span class="english">KFC "Grill Sergeants" Master Kentucky Grilled Chicken</span></p>
 
 <p><span class="chinese">我是周日早上家庭传统早饭的掌勺。</span><span class="english">I am also the chef for the family's traditional Sunday breakfast.</span></p>

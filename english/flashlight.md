@@ -1,5 +1,7 @@
 # flashlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flashlight.md)
+
 <p><span class="chinese">我需要一个手电筒。</span><span class="english">Now I need a flashlight.</span></p>
 
 <p><span class="chinese">谁有手电？</span><span class="english">Does anyone have a flashlight?</span></p>

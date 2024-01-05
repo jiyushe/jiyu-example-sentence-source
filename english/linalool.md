@@ -1,5 +1,7 @@
 # linalool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linalool.md)
+
 <p><span class="chinese">结论柳茶的主成分为E-罗勒烯酮和芳樟醇。</span><span class="english">CONCLUSION The main constituents are E-ocimenone and Linalool.</span></p>
 
 <p><span class="chinese">研究了芳樟醇与乙酸酐酯化反应动力学。</span><span class="english">The kinetics of esterification of linalool with acetic anhydride was studied.</span></p>

@@ -1,5 +1,7 @@
 # offbeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offbeat.md)
+
 <p><span class="chinese">女孩喜欢那些有点独特的男人。</span><span class="english">Girls like men who are a little offbeat.</span></p>
 
 <p><span class="chinese">来点古怪而又恶搞的东西怎么样？</span><span class="english">Well, what about something wickedly funny and totally offbeat?</span></p>

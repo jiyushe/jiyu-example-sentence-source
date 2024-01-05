@@ -1,5 +1,7 @@
 # phosphorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphorous.md)
+
 <p><span class="chinese">北约飞行员向拜尼沃利德投掷白磷。</span><span class="english">NATO pilots throwing white phosphorous on Beni Walid.</span></p>
 
 <p><span class="chinese">大母猪吃仔猪，因为它们缺少磷质。</span><span class="english">Sows eat their young because they need the phosphorous.</span></p>

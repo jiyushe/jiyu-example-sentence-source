@@ -1,5 +1,7 @@
 # philadelphia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philadelphia.md)
+
 <p><span class="chinese">而且，我喜欢费城。</span><span class="english">And I loved Philadelphia.</span></p>
 
 <p><span class="chinese">该项工作将在费城执行。</span><span class="english">The work will be performed in Philadelphia.</span></p>

@@ -1,5 +1,7 @@
 # ooa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ooa.md)
+
 <p><span class="chinese">UML是一种可视化的建模语言，是面向对象分析与设计的重要工具。</span><span class="english">UML is a visual modeling language, and is an important tool of OOA &OOD.</span></p>
 
 <p><span class="chinese">是一种图形化的建模语言，是面向对象分析与设计的一种标准表示。</span><span class="english">The UML is a kind of graphical modeling language, supporting OOA and OOD.</span></p>

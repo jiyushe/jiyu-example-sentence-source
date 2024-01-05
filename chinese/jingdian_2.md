@@ -1,5 +1,7 @@
 # 静电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdian_2.md)
+
 <p><span class="chinese">静电消除器“，”</span><span class="english">Static Electricity Eliminator.</span></p>
 
 <p><span class="chinese">这台静电复印机是新买的。</span><span class="english">This is a new xerographic printer.</span></p>

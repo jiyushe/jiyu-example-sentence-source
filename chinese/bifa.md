@@ -1,5 +1,7 @@
 # 笔法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bifa.md)
+
 <p><span class="chinese">毕加索的笔法精妙绝伦。</span><span class="english">Picasso's brushwork is particularly fine.</span></p>
 
 <p><span class="chinese">笔法松散粗略。</span><span class="english">The brushwork is loose and undescriptive.</span></p>

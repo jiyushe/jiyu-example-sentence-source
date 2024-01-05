@@ -1,5 +1,7 @@
 # lemon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemon.md)
+
 <p><span class="chinese">绝佳的柠檬味！</span><span class="english">Great Lemon Taste!</span></p>
 
 <p><span class="chinese">加入擦成细丝的柠檬皮。</span><span class="english">Add the lemon zest.</span></p>

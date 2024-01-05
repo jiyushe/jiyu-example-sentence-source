@@ -1,5 +1,7 @@
 # nigerian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nigerian.md)
+
 <p><span class="chinese">海伦·哈比拉是尼日利亚诗人和小说家。</span><span class="english">Helon Habila is a Nigerian poet and novelist.</span></p>
 
 <p><span class="chinese">同时，Dangote还是尼日利亚有史以来第一位亿万富翁。</span><span class="english">Dangote is also the first-ever Nigerian billionaire.</span></p>

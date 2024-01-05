@@ -1,5 +1,7 @@
 # 庸碌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonglu.md)
+
 <p><span class="chinese">他庸碌无能，不值得留用。</span><span class="english">He's incompetent and not worth keeping on.</span></p>
 
 <p><span class="chinese">这种强调「团队合作」的论调其实是欺人之谈—是平凡庸碌之辈的阴谋。</span><span class="english">This emphasis on "teamwork"is bunkum-a conspiracy of the mediocre majority.</span></p>

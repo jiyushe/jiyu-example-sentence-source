@@ -1,5 +1,7 @@
 # unessential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unessential.md)
+
 <p><span class="chinese">汞是有毒、人体非必需元素。</span><span class="english">Mercury is known as a toxic and unessential element.</span></p>
 
 <p><span class="chinese">这种信仰怎样扫除了生命中所有不重要的东西？</span><span class="english">In what manner has such a belief swept away all the unessential things of life?</span></p>

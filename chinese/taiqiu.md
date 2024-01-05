@@ -1,5 +1,7 @@
 # 台球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiqiu.md)
+
 <p><span class="chinese">昨天我把我的台球杆弄弯了。</span><span class="english">I sprang  my cue yesterday.</span></p>
 
 <p><span class="chinese">你有两个台球。</span><span class="english">You have two billiard balls.</span></p>

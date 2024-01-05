@@ -1,5 +1,7 @@
 # 源源不断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyuanbuduan.md)
+
 <p><span class="chinese">外来词源源不断地进入英语。</span><span class="english">Foreign words keep coming into English.</span></p>
 
 <p><span class="chinese">她有一座无底的井，对我源源不断流出爱。</span><span class="english">She had a bottomless well of love for me.</span></p>

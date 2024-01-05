@@ -1,5 +1,7 @@
 # 现成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiancheng_1.md)
+
 <p><span class="chinese">关于这一点，社交名媛帕里斯•希尔顿就是现成的例子。</span><span class="english">Just ask Paris Hilton.</span></p>
 
 <p><span class="chinese">大多数人宁愿买现成的衣服而不自己缝制了。</span><span class="english">Most people prefer buying to sewing.</span></p>

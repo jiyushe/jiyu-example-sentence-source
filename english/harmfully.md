@@ -1,5 +1,7 @@
 # harmfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmfully.md)
+
 <p><span class="chinese">其次，这种补贴有害于市场公平原则。</span><span class="english">Next, this kind of subsidy harmfully in market fair principle.</span></p>
 
 <p><span class="chinese">频繁过多地使用就会对使用者造成内在的危害。</span><span class="english">Frequent undue consumption tin harmfully mediate with the user's well-being.</span></p>

@@ -1,5 +1,7 @@
 # 用户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonghu.md)
+
 <p><span class="chinese">作为根用户登录。</span><span class="english">Log in as root.</span></p>
 
 <p><span class="chinese">这个用户是谁？</span><span class="english">Who is the user?</span></p>

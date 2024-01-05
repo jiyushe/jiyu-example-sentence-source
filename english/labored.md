@@ -1,5 +1,7 @@
 # labored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labored.md)
+
 <p><span class="chinese">你能听到他费力的呼吸声。</span><span class="english">You can hear his labored breathing.</span></p>
 
 <p><span class="chinese">但是，我们松懈了，他们努力了。</span><span class="english">But we slacked off, and they labored on.</span></p>

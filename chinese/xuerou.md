@@ -1,5 +1,7 @@
 # 血肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuerou.md)
+
 <p><span class="chinese">水族，血肉，和羽禽整个夏天。</span><span class="english">Fish, flesh, or fowl, commend all summer long.</span></p>
 
 <p><span class="chinese">自然一直在用她的血肉供养着人类。</span><span class="english">Nature has all along yielded her flesh to humans.</span></p>

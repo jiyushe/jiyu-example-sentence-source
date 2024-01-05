@@ -1,5 +1,7 @@
 # 和诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshi_5.md)
+
 <p><span class="chinese">阿波罗是月神和诗神。</span><span class="english">Apollo was the god of music and poetry.</span></p>
 
 <p><span class="chinese">爱尔兰人非常喜欢音乐和诗。</span><span class="english">The Irish are very found of music and poems.</span></p>

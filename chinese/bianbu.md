@@ -1,5 +1,7 @@
 # 遍布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianbu.md)
+
 <p><span class="chinese">它是四处遍布的。</span><span class="english">It's pervasive.</span></p>
 
 <p><span class="chinese">我是遍布伤痕。</span><span class="english">I was all over welts.</span></p>

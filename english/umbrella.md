@@ -1,5 +1,7 @@
 # umbrella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umbrella.md)
+
 <p><span class="chinese">伞形？</span><span class="english">umbrella?</span></p>
 
 <p><span class="chinese">这儿有一把雨伞。</span><span class="english">Here is an umbrella.</span></p>

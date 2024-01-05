@@ -1,5 +1,7 @@
 # crucible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crucible.md)
+
 <p><span class="chinese">这是新的和改进的坩埚。</span><span class="english">Here is the new and improved crucible.</span></p>
 
 <p><span class="chinese">坩锅钢是另外一种伍兹钢。</span><span class="english">Crucible steel is another term for wootz.</span></p>

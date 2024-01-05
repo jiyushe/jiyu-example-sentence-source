@@ -1,5 +1,7 @@
 # 区别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qubie.md)
+
 <p><span class="chinese">没有区别！</span><span class="english">No difference!</span></p>
 
 <p><span class="chinese">区别不大。</span><span class="english">Sometimes not large.</span></p>

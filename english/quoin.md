@@ -1,5 +1,7 @@
 # quoin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quoin.md)
+
 <p><span class="chinese">第二大问题是华盛顿的现状。</span><span class="english">The second problem is the status quoin Washington, DC.</span></p>
 
 <p><span class="chinese">我开始在遗憾的世界寻找着完美的角落。</span><span class="english">I start in the regrettable world to seek the perfect quoin.</span></p>

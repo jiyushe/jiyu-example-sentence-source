@@ -1,5 +1,7 @@
 # mannequin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannequin.md)
+
 <p><span class="chinese">我们还以为那是个模特而已。</span><span class="english">We thought it was just a mannequin.</span></p>
 
 <p><span class="chinese">这模特儿看上去像真人一样。</span><span class="english">The mannequin seems like a real person.</span></p>

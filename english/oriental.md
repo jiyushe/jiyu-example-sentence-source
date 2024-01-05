@@ -1,5 +1,7 @@
 # oriental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oriental.md)
+
 <p><span class="chinese">东方之珠，拥抱着你。</span><span class="english">The Oriental Pearl, we embrace you.</span></p>
 
 <p><span class="chinese">陶瓷品，东方艺术的明珠。</span><span class="english">Ceramics, the pearls of oriental art.</span></p>

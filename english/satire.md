@@ -1,5 +1,7 @@
 # satire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satire.md)
+
 <p><span class="chinese">汤姆的讥讽令他十分窘迫。</span><span class="english">He was hazed by Tom's satire.</span></p>
 
 <p><span class="chinese">讽刺针对现代贪婪。</span><span class="english">The satire aimed at modern greed.</span></p>

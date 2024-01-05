@@ -1,5 +1,7 @@
 # 无地自容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudizirong.md)
+
 <p><span class="chinese">她对他的嘲笑使他无地自容。</span><span class="english">She withered him with derision.</span></p>
 
 <p><span class="chinese">讲真话就会使魔鬼无地自容。</span><span class="english">Say the truth and shame the devil.</span></p>

@@ -1,5 +1,7 @@
 # unlighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlighted.md)
+
 <p><span class="chinese">闪光吧，海浪，在幽暗的沙滩四周。</span><span class="english">Glimmer, ye waves, round else unlighted sands.</span></p>
 
 <p><span class="chinese">他全神贯注地整理那盏没有点亮的灯上的绒毛灯罩。</span><span class="english">He set straight the fluffy shade on the unlighted lamp.</span></p>

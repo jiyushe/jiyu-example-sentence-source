@@ -1,5 +1,7 @@
 # placid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placid.md)
+
 <p><span class="chinese">我一般都很平静的。</span><span class="english">I’m usually quite placid.</span></p>
 
 <p><span class="chinese">它使人想起一条平静的溪流。</span><span class="english">It reminds you of a placid rivulet.</span></p>

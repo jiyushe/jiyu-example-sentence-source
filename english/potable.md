@@ -1,5 +1,7 @@
 # potable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potable.md)
+
 <p><span class="chinese">所用的硅胶是饮用水安全型硅胶。</span><span class="english">This type of silicone is safe for potable water.</span></p>
 
 <p><span class="chinese">他能够被他可以被浇水，但必须是可饮用的水。</span><span class="english">He could be doused in water but it had to be potable.</span></p>

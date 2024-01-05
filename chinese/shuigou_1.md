@@ -1,5 +1,7 @@
 # 水沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuigou_1.md)
+
 <p><span class="chinese">帕特拉斯基躺在水沟里。</span><span class="english">Patrasche lay in the ditch.</span></p>
 
 <p><span class="chinese">他越过一条小水沟抄近道。</span><span class="english">He leapt over a ditch for a shortcut.</span></p>

@@ -1,5 +1,7 @@
 # 求救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiujiu.md)
+
 <p><span class="chinese">我们听到的求救信号?。</span><span class="english">That distress signal we heard.</span></p>
 
 <p><span class="chinese">我听到疯狂的求救哭叫声。</span><span class="english">I heard frantic cries for help.</span></p>

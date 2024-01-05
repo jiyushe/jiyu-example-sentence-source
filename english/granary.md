@@ -1,5 +1,7 @@
 # granary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granary.md)
+
 <p><span class="chinese">粮食满仓。</span><span class="english">The granary is bursting with grain.</span></p>
 
 <p><span class="chinese">一个新谷仓在乡村建造起来。</span><span class="english">A new granary was built in the village.</span></p>

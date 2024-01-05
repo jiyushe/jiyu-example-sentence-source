@@ -1,5 +1,7 @@
 # 不合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhe.md)
+
 <p><span class="chinese">我认为你是不合纰缪的。</span><span class="english">I don't think you re right.</span></p>
 
 <p><span class="chinese">这篇散文不合标准。</span><span class="english">The essay is below the mark.</span></p>

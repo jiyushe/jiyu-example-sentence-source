@@ -1,5 +1,7 @@
 # 坦克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanke.md)
+
 <p><span class="chinese">卡拉曼利斯或者坦克。</span><span class="english">Karamanlis or tanks.</span></p>
 
 <p><span class="chinese">停住那辆坦克！</span><span class="english">Hold the Friggin' tank!</span></p>

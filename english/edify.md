@@ -1,5 +1,7 @@
 # edify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edify.md)
+
 <p><span class="chinese">电视应当试着去启迪大众。</span><span class="english">T. V. should attempt to edify the masses.</span></p>
 
 <p><span class="chinese">他们试图用音乐陶冶这孩子。</span><span class="english">They tried to edify the child with music.</span></p>

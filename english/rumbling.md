@@ -1,5 +1,7 @@
 # rumbling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumbling.md)
+
 <p><span class="chinese">吊车发出隆隆的响声。</span><span class="english">The crane made rumbling sound.</span></p>
 
 <p><span class="chinese">我听见他在后面直嘟囔。</span><span class="english">I heard him rumbling at the back.</span></p>

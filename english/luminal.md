@@ -1,5 +1,7 @@
 # luminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminal.md)
+
 <p><span class="chinese">并讨论其喷流中的子源的视超光速运动。</span><span class="english">The super luminal motion of the jet component is discussed.</span></p>
 
 <p><span class="chinese">结果所有病例均显示肠壁增厚和肠腔狭窄。</span><span class="english">Results All cases were shown as bowel wall thickening, with luminal narrowing.</span></p>

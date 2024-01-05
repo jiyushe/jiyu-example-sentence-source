@@ -1,5 +1,7 @@
 # tunable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tunable.md)
+
 <p><span class="chinese">我该怎样编写可性能调优的软件呢？</span><span class="english">How do I make software tunable?</span></p>
 
 <p><span class="chinese">在这个目录中，有许多可调的设置。</span><span class="english">Inside this directory are many tunable settings.</span></p>

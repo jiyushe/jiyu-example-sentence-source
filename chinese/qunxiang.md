@@ -1,5 +1,7 @@
 # 群像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunxiang.md)
+
 <p><span class="chinese">你该怎样与这群像家人一样共事了超过22年的同事告别呢？</span><span class="english">How do you say goodbye to the people that had become family over 22 years?</span></p>
 
 <p><span class="chinese">这位艺术家因拍摄时常令人震惊的裸体群像而闻名。</span><span class="english">The artist is well known for his sometimes startling images of nude people.</span></p>

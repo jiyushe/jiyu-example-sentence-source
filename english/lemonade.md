@@ -1,5 +1,7 @@
 # lemonade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemonade.md)
+
 <p><span class="chinese">柠檬水是我的最爱。</span><span class="english">Lemonade is my favorite.</span></p>
 
 <p><span class="chinese">他喝光一杯柠檬水。</span><span class="english">He tossed down a lemonade.</span></p>

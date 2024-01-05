@@ -1,5 +1,7 @@
 # 啁啾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoujiu.md)
+
 <p><span class="chinese">鸟儿继续啁啾。</span><span class="english">The bird continued to warble.</span></p>
 
 <p><span class="chinese">百灵鸟儿在空中欢快啁啾哟。</span><span class="english">When the lark in the sky sings joyfully.</span></p>

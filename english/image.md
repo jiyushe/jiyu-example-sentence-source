@@ -1,5 +1,7 @@
 # image
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/image.md)
+
 <p><span class="chinese">创建一个映像。</span><span class="english">Create an image.</span></p>
 
 <p><span class="chinese">删除一个映像。</span><span class="english">Delete an image.</span></p>

@@ -1,5 +1,7 @@
 # generalisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalisation.md)
+
 <p><span class="chinese">那些反对或支持转基因作物的人本身就造成了一种无益的观念。</span><span class="english">Those who oppose or support GM crops per se make an unhelpful generalisation.</span></p>
 
 <p><span class="chinese">那只是一种大概的说法，因为早在1900年，还是无声电影时代时就有特技了。</span><span class="english">That is a generalisation , as there have been effects since the silents in 1900.</span></p>

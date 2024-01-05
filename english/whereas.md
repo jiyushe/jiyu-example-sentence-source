@@ -1,5 +1,7 @@
 # whereas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereas.md)
+
 <p><span class="chinese">而我们为了不输而去比赛时。</span><span class="english">Whereas when we play not to lose.</span></p>
 
 <p><span class="chinese">但在英国，人们并不这样。</span><span class="english">Whereas in the UK, people don't do that.</span></p>

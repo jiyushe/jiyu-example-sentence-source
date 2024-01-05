@@ -1,5 +1,7 @@
 # scientifically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scientifically.md)
+
 <p><span class="chinese">你可以用科学方法阐释。</span><span class="english">And you could illustrate this scientifically.</span></p>
 
 <p><span class="chinese">问题是我们怎样科学地检验它。</span><span class="english">The problem is how to test it scientifically.</span></p>

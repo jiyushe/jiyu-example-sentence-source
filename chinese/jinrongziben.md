@@ -1,5 +1,7 @@
 # 金融资本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinrongziben.md)
+
 <p><span class="chinese">这项评估对于估算你的金融资本是至关重要。</span><span class="english">This assessment is crucial to calculating your financial capital.</span></p>
 
 <p><span class="chinese">关键是要确保你的人力资本和金融资本相互之间没有关联。</span><span class="english">The key is to make sure your human and financial capital are not correlated.</span></p>

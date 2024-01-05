@@ -1,5 +1,7 @@
 # busily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busily.md)
+
 <p><span class="chinese">缝纫机忙碌地轧轧响着。</span><span class="english">The sewing machine hums busily.</span></p>
 
 <p><span class="chinese">他正忙着答考试卷。</span><span class="english">He is answering the test paper busily.</span></p>

@@ -1,5 +1,7 @@
 # aragon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aragon.md)
+
 <p><span class="chinese">阿拉贡表示，这张专辑里的歌曲很符合她的年纪──没有爱情歌曲。</span><span class="english">Ms. Aragon said the songs will reflect her age ─ no love songs.</span></p>
 
 <p><span class="chinese">亨利八世欲与阿拉贡的凯瑟琳离婚，但是教皇拒绝了。</span><span class="english">Henry VIII wanted to divorce Catherine of Aragon but the Pope refused.</span></p>

@@ -1,5 +1,7 @@
 # sufism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sufism.md)
+
 <p><span class="chinese">苏菲反对激进主义并且帮助提升伊斯兰。</span><span class="english">Sufism is opposed to radicalism and helps to promote Islam.</span></p>
 
 <p><span class="chinese">苏菲是神秘的并遵循着伊斯兰的重要的启示精神。</span><span class="english">Sufism is mystical and follows the central current of the Revelation of Islam.</span></p>

@@ -1,5 +1,7 @@
 # 动迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongqian.md)
+
 <p><span class="chinese">最后，破屋还是动迁了。</span><span class="english">Finally, broken houses or resettlement.</span></p>
 
 <p><span class="chinese">已经有近100万户居民因为旧城改造项目而动迁了。</span><span class="english">Urban renewal projects have uprooted nearly a million households.</span></p>

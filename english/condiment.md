@@ -1,5 +1,7 @@
 # condiment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condiment.md)
+
 <p><span class="chinese">也许我们可以把它当作我们生活的调味剂。</span><span class="english">Maybe we can treat it as condiment of our life.</span></p>
 
 <p><span class="chinese">所以它不仅是一种营养丰富的食品，而且是一种上好的调味品。</span><span class="english">So it is not only a nutrient-rich foods, and is a good condiment on.</span></p>

@@ -1,5 +1,7 @@
 # tempt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempt.md)
+
 <p><span class="chinese">你讨厌试手气么？</span><span class="english">Do you hate to tempt fate?</span></p>
 
 <p><span class="chinese">求你了，别勾引我。</span><span class="english">Please don't tempt me. Please!</span></p>

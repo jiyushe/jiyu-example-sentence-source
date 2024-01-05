@@ -1,5 +1,7 @@
 # signpost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signpost.md)
+
 <p><span class="chinese">一个主要的路标就是改变。</span><span class="english">The one major signpost is change.</span></p>
 
 <p><span class="chinese">这个路标说明去动物园的道路。</span><span class="english">This signpost tells the way to the zoo.</span></p>

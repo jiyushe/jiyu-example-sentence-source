@@ -1,5 +1,7 @@
 # 节奏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezou.md)
+
 <p><span class="chinese">节奏和鼓点</span><span class="english">Rhythm and beat.</span></p>
 
 <p><span class="chinese">这是一首节奏慢的歌。</span><span class="english">It's a slow song.</span></p>

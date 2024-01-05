@@ -1,5 +1,7 @@
 # durham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durham.md)
+
 <p><span class="chinese">达勒姆希尔法姆斯湾岸边。</span><span class="english">Durham Hill Farms Bay Beach.</span></p>
 
 <p><span class="chinese">这样你就搬到杜伦姆来了。</span><span class="english">So then you moved to Durham.</span></p>

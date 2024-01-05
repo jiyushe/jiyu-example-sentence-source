@@ -1,5 +1,7 @@
 # 瞳孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongkong.md)
+
 <p><span class="chinese">瞳孔转动和膝盖弯屈正常吗？</span><span class="english">Are papillary and knee reflexes normal?</span></p>
 
 <p><span class="chinese">他深红色的瞳孔被粉红色的虹膜包裹着。</span><span class="english">His irises were pink with dark red pupils.</span></p>

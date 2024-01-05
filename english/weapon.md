@@ -1,5 +1,7 @@
 # weapon 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weapon.md)
+
 <p><span class="chinese">绣花针是她的武器。</span><span class="english">His weapon is needle.</span></p>
 
 <p><span class="chinese">那简直就是一件凶器。</span><span class="english">It looked like a weapon.</span></p>

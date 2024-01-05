@@ -1,5 +1,7 @@
 # knobby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knobby.md)
+
 <p><span class="chinese">快转那个会卷的东西！</span><span class="english">Turn the knobby thing!</span></p>
 
 <p><span class="chinese">现在表面略有诺比，感觉有点粒状。</span><span class="english">The surface is now slightly knobby and feels a bit grainy.</span></p>

@@ -1,5 +1,7 @@
 # compulsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compulsive.md)
+
 <p><span class="chinese">而强迫性说谎是可以借由心理疗法及谘商来治疗。</span><span class="english">Therapy and counseling can cure compulsive lying.</span></p>
 
 <p><span class="chinese">其他赌徒可能更加不理性。</span><span class="english">Other compulsive bettors may be even less rational.</span></p>

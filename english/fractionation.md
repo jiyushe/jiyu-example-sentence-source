@@ -1,5 +1,7 @@
 # fractionation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fractionation.md)
+
 <p><span class="chinese">这就是所谓的真空分馏。</span><span class="english">This is known as vacuum fractionation.</span></p>
 
 <p><span class="chinese">运移分馏作用可以产生衍生凝析油和残余油。</span><span class="english">Migration fractionation can form derived condensate and residual oil.</span></p>

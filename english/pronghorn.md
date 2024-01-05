@@ -1,5 +1,7 @@
 # pronghorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronghorn.md)
+
 <p><span class="chinese">叉角羚羊是美洲跑得最快的哺乳动物。</span><span class="english">The pronghorn is America's fastest mammal.</span></p>
 
 <p><span class="chinese">黄石公园的草地上最常见的叉角羚。</span><span class="english">Pronghorn are commonly found on the grasslands in the park.</span></p>

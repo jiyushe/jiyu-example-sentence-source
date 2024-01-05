@@ -1,5 +1,7 @@
 # amido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amido.md)
+
 <p><span class="chinese">该法可用于烷基酰胺磷酸酯的定量分析。</span><span class="english">This method can be used for quantitative analysis of the alkyl amido phosphate ester.</span></p>
 
 <p><span class="chinese">方法选择14种常见客体，制作潜血足迹样本，用氨基黑进行显现。</span><span class="english">Method The latent blood footprints on 14 kinds of common surfaces were developed by amido black.</span></p>

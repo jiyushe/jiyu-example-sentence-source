@@ -1,5 +1,7 @@
 # jul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jul.md)
+
 <p><span class="chinese">2007年6月26日由陆地卫星5号拍摄</span><span class="english">Image taken by Landsat 5 on Jul. 26, 2007</span></p>
 
 <p><span class="chinese">这本书的及时出版有以下几个理由。</span><span class="english">Jul 8th 2010This is a timely book for several reasons.</span></p>

@@ -1,5 +1,7 @@
 # 历历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lili.md)
+
 <p><span class="chinese">还能唤回你前尘历历。</span><span class="english">Thus much of thee can still restore.</span></p>
 
 <p><span class="chinese">生命的脉络才历历可见。</span><span class="english">In the context of life takes visible.</span></p>

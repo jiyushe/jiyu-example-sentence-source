@@ -1,5 +1,7 @@
 # grown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grown.md)
+
 <p><span class="chinese">我已经长大了！</span><span class="english">I have grown up!</span></p>
 
 <p><span class="chinese">埃里希雷德尔已经成长了。</span><span class="english">Erich Raeder had grown.</span></p>

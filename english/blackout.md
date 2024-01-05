@@ -1,5 +1,7 @@
 # blackout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackout.md)
+
 <p><span class="chinese">能言是银，缄默是金。</span><span class="english">Speech is argent, blackout is gold.</span></p>
 
 <p><span class="chinese">涂黑诗作就是一个编外项目。</span><span class="english">The blackout poems were a side project.</span></p>

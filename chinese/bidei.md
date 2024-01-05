@@ -1,5 +1,7 @@
 # 必得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bidei.md)
+
 <p><span class="chinese">你必得去一趟。</span><span class="english">You simply must go.</span></p>
 
 <p><span class="chinese">咱们必得弄清事实。</span><span class="english">we must make certain of facts.</span></p>

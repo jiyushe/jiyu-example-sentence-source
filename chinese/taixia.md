@@ -1,5 +1,7 @@
 # 台下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taixia.md)
+
 <p><span class="chinese">台下评判员如何记分？</span><span class="english">How do the judges score a bout?</span></p>
 
 <p><span class="chinese">士兵们在台下鼓噪。</span><span class="english">The soldiers are rising in a hubub.</span></p>

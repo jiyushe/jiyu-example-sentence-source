@@ -1,5 +1,7 @@
 # comparably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparably.md)
+
 <p><span class="chinese">双方都是同等的重要。</span><span class="english">Both of them are important comparably.</span></p>
 
 <p><span class="chinese">较耐低温、耐热、耐湿、抗病，适应性广，产量高。</span><span class="english">Comparably resistant to cool, heat, wet and diseases. Wide adaptability and high yield.</span></p>

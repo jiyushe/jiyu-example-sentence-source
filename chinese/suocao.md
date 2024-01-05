@@ -1,5 +1,7 @@
 # 莎草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suocao.md)
+
 <p><span class="chinese">随后，伯克利莎草开始不停地长啊，长啊。</span><span class="english">Then the Berkeley Sedge grew, and grew.</span></p>
 
 <p><span class="chinese">欧洲的一种莎草，具有小的、可食用的坚果状块茎。</span><span class="english">European sedge having small edible nut like tubers.</span></p>

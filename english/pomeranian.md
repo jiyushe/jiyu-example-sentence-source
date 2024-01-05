@@ -1,5 +1,7 @@
 # pomeranian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomeranian.md)
+
 <p><span class="chinese">出生于2002年的俊介是一只博美犬。</span><span class="english">Born in 2002, Shunsuke is a Pomeranian.</span></p>
 
 <p><span class="chinese">年老的Rose有一个博美犬。</span><span class="english">Rose, in her old age, owns a Pomeranian.</span></p>

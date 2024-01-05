@@ -1,5 +1,7 @@
 # 分居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenju_2.md)
+
 <p><span class="chinese">我分居了。</span><span class="english">I'm separated.</span></p>
 
 <p><span class="chinese">单位里两地分居的人很多呢！</span><span class="english">The unit of separation many!</span></p>

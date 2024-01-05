@@ -1,5 +1,7 @@
 # 五毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudu.md)
+
 <p><span class="chinese">高强度，环保五毒。</span><span class="english">High strength, environmental protection not-toxic.</span></p>
 
 <p><span class="chinese">五毒是真正改变我们心意的终极杀手。</span><span class="english">Five Poisons is the killer who ultimately manipulates our mind.</span></p>

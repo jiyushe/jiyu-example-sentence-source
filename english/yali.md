@@ -1,5 +1,7 @@
 # yali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yali.md)
+
 <p><span class="chinese">陶冷月获聘为长沙雅礼大学艺术教授。</span><span class="english">Tao Lengyue is appointed art professor at the Yali University in Changsha.</span></p>
 
 <p><span class="chinese">衙里，因明、清时有太湖营游击衙署设在此而得名。</span><span class="english">Yali , the Ming and Qing at a guerrilla camp in Taihu Lake in this Yashu named.</span></p>

@@ -1,5 +1,7 @@
 # 雪中送炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezhongsongtan.md)
+
 <p><span class="chinese">说出三位曾为你雪中送炭的朋友的名字。</span><span class="english">Name three friends who helped you through a difficult time.</span></p>
 
 <p><span class="chinese">很多人认为一个真正的朋友只会雪中送炭。</span><span class="english">Many believe a true friend does not abandon in the time of need.</span></p>

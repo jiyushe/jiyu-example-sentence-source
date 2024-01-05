@@ -1,5 +1,7 @@
 # bona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bona.md)
+
 <p><span class="chinese">人家怀疑他的诚意。</span><span class="english">His bona fides was questioned.</span></p>
 
 <p><span class="chinese">博纳自然漆的溶剂含量是多少？</span><span class="english">What is the solvent content of Bona Naturale?</span></p>

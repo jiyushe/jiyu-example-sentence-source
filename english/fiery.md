@@ -1,5 +1,7 @@
 # fiery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiery.md)
+
 <p><span class="chinese">射手座是火相星座。</span><span class="english">Sagittarius is a fiery sign.</span></p>
 
 <p><span class="chinese">所有这些都走火辣辣的过激之作。</span><span class="english">All this is fiery radical writing.</span></p>

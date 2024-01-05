@@ -1,5 +1,7 @@
 # Philharmonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philharmonic.md)
+
 <p><span class="chinese">这个城市有它的高雅之处，也有它贫穷的另一面。</span><span class="english">The city has it philharmonic but also it poverty.</span></p>
 
 <p><span class="chinese">国家爱乐乐团，1971年录制，伦敦。</span><span class="english">National Philharmonic Orchestra, Recorded September 9, 1971, London.</span></p>

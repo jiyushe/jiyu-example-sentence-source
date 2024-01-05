@@ -1,5 +1,7 @@
 # equip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equip.md)
+
 <p><span class="chinese">装备长杆武器，如果有的话，。</span><span class="english">Equip polearm weapons. If any.</span></p>
 
 <p><span class="chinese">可配专用偏转线圈。</span><span class="english">It can equip with deflection coil.</span></p>

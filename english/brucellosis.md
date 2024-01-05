@@ -1,5 +1,7 @@
 # brucellosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brucellosis.md)
+
 <p><span class="chinese">公犬也同样应当检测布鲁氏菌病。</span><span class="english">Males should also be tested for brucellosis.</span></p>
 
 <p><span class="chinese">目的探讨布鲁菌病误诊的原因。</span><span class="english">Objective To discuss misdiagnosis of brucellosis.</span></p>

@@ -1,5 +1,7 @@
 # 监护人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianhuren.md)
+
 <p><span class="chinese">然而瓦肖的监护人不同意。</span><span class="english">Yet Washoe's keepers disagree.</span></p>
 
 <p><span class="chinese">我想我们不需要监护人。</span><span class="english">I don't think we need a chaperon.</span></p>

@@ -1,5 +1,7 @@
 # diaspora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaspora.md)
+
 <p><span class="chinese">一个国家在改变，旅居国外的人总是最后知道的。</span><span class="english">When a country changes things, the diaspora can be the last to know.</span></p>
 
 <p><span class="chinese">这些定居异乡、聪明睿智的印度人如同早前离散的犹太人，正在形成一股极具强势的人才力量。</span><span class="english">These clever NRI men and women now form a very powerful diaspora indeed.</span></p>

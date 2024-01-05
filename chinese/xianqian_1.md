@@ -1,5 +1,7 @@
 # 先遣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqian_1.md)
+
 <p><span class="chinese">目前，Blix已带领30名先遣队员进入伊拉克。</span><span class="english">Blix and his initial team of 30 are now in Iraq.</span></p>
 
 <p><span class="chinese">他们被派作主力部队的先遣小组，去探明敌人的阵地。</span><span class="english">They were sent ahead of the main troops to examine the enemy's position.</span></p>

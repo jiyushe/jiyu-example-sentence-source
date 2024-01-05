@@ -1,5 +1,7 @@
 # anastomose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anastomose.md)
+
 <p><span class="chinese">中脑动脉在表面形成的吻合，平均每例为3.6支。</span><span class="english">There are 3.6 anastomose branches in each midbrain.</span></p>
 
 <p><span class="chinese">实验室试验数据与仿真结果比较，二者基本吻合。</span><span class="english">Compare the two values we found that they are anastomose essentially.</span></p>

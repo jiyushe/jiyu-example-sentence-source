@@ -1,5 +1,7 @@
 # spaceport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaceport.md)
+
 <p><span class="chinese">艺术家设想的美国航天港</span><span class="english">Artist's sketch of Spaceport America.</span></p>
 
 <p><span class="chinese">我和我丈夫住在太空船发射降落场附近。</span><span class="english">My husband and I live near Spaceport.</span></p>

@@ -1,5 +1,7 @@
 # commandeer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commandeer.md)
+
 <p><span class="chinese">朋友们霸占道路列车。</span><span class="english">The friends commandeer the road train.</span></p>
 
 <p><span class="chinese">政府只会在战争期间征募船只。</span><span class="english">The government will commandeer ships only in wartime.</span></p>

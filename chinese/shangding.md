@@ -1,5 +1,7 @@
 # 商定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangding.md)
+
 <p><span class="chinese">我们必须商定共同的方向。</span><span class="english">We must agree common directions.</span></p>
 
 <p><span class="chinese">从整体上复审和商定最终的项目。</span><span class="english">Chunk up to review and agree the project.</span></p>

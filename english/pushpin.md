@@ -1,5 +1,7 @@
 # pushpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pushpin.md)
+
 <p><span class="chinese">什么是针戏？</span><span class="english">What was pushpin?</span></p>
 
 <p><span class="chinese">针戏与诗一样好，边沁说。</span><span class="english">Pushpin is as good as poetry", Bentham says.</span></p>

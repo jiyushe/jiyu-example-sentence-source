@@ -1,5 +1,7 @@
 # 怨气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqi_1.md)
+
 <p><span class="chinese">我感到一种刻毒的怨气。</span><span class="english">I felt a sour hatefulness.</span></p>
 
 <p><span class="chinese">他喊叫着向我撒怨气。</span><span class="english">He hooted his complaints to me.</span></p>

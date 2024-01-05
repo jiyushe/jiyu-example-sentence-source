@@ -1,5 +1,7 @@
 # taint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taint.md)
+
 <p><span class="chinese">炎热的天气使食物腐烂变质。</span><span class="english">The hot weather will taint food.</span></p>
 
 <p><span class="chinese">坏书会毒害年青人的思想。</span><span class="english">Bad books will taint the young mind.</span></p>

@@ -1,5 +1,7 @@
 # 套间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taojian.md)
+
 <p><span class="chinese">他们住在一个逼仄的小套间里。</span><span class="english">They live in a poky little flat.</span></p>
 
 <p><span class="chinese">请给我留一个两间房的套间。</span><span class="english">Please reserve me a suite of two rooms.</span></p>

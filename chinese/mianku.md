@@ -1,5 +1,7 @@
 # 棉裤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianku.md)
+
 <p><span class="chinese">要是他掉进水里，他还有新棉裤，还有老羊皮袄。</span><span class="english">If he dropped into water, he had a new wadded pants, and one sheepskin coat.</span></p>
 
 <p><span class="chinese">我努力想穿上我的羊毛棉裤，但是因为我的外套不大合适所以显得很费力。</span><span class="english">I managed to get into my wool snow pants. But I struggled with my jacket because it didn't fit well.</span></p>

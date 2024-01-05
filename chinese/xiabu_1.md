@@ -1,5 +1,7 @@
 # 夏布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabu_1.md)
+
 <p><span class="chinese">一瓶夏布利葡萄酒。</span><span class="english">A bottle of Chablis, please.</span></p>
 
 <p><span class="chinese">夏布利葡萄酒色泽呈浅禾秆色，微泛绿色。</span><span class="english">The colour of Chablis is pale straw with green tinges.</span></p>

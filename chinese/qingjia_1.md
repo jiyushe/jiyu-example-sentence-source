@@ -1,5 +1,7 @@
 # 请假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjia_1.md)
+
 <p><span class="chinese">这星期五我可以请假吗?</span><span class="english">Can I take this Friday off?</span></p>
 
 <p><span class="chinese">只允许5次未请假的缺席。</span><span class="english">Only 5 unexcused absences are permitted.</span></p>

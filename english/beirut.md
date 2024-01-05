@@ -1,5 +1,7 @@
 # beirut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beirut.md)
+
 <p><span class="chinese">贝鲁特是黎巴嫩的首都。</span><span class="english">Beirut is like the capital of Lebanon.</span></p>
 
 <p><span class="chinese">NPR新闻，妮可·比姆斯特博贝鲁特报道。</span><span class="english">Nicole Beemsterboer, NPR news, Beirut.</span></p>

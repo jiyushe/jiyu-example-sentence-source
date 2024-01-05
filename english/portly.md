@@ -1,5 +1,7 @@
 # portly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portly.md)
+
 <p><span class="chinese">那位将军是位身材魁梧的老人。</span><span class="english">The general is a portly old man.</span></p>
 
 <p><span class="chinese">他要饱餐一顿肥猪肉。</span><span class="english">He would make a feast of the portly grunter.</span></p>

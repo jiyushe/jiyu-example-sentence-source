@@ -1,5 +1,7 @@
 # isro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isro.md)
+
 <p><span class="chinese">ISRO的大多数导航芯片是进口的！</span><span class="english">No, most of navigation chips ISRO uses are imported! !</span></p>
 
 <p><span class="chinese">ISRO能把泰米尔纳德邦和比哈尔邦的政客一次性送上去吧?。</span><span class="english">Can ISRO take all the TN and Bihar politicians at ONE GO ?</span></p>

@@ -1,5 +1,7 @@
 # bootleg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bootleg.md)
+
 <p><span class="chinese">未经审查的盗版碟在街头就能买到。</span><span class="english">Uncensored bootleg copies are peddled on the streets.</span></p>
 
 <p><span class="chinese">没有。我买的是盗版，没有使用手册？</span><span class="english">No, I bought a bootleg version, so I don't have a manual.</span></p>

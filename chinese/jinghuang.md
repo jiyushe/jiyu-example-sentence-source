@@ -1,5 +1,7 @@
 # 惊慌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghuang.md)
+
 <p><span class="chinese">不必惊慌！</span><span class="english">No panic!</span></p>
 
 <p><span class="chinese">沉住气！不要惊慌。</span><span class="english">Take it easy! Don't panic.</span></p>

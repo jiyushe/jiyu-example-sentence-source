@@ -1,5 +1,7 @@
 # sally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sally.md)
+
 <p><span class="chinese">我说我要找萨莉。</span><span class="english">I asked for Sally.</span></p>
 
 <p><span class="chinese">我坐在沙莉后面。</span><span class="english">I sit behind Sally.</span></p>

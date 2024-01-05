@@ -1,5 +1,7 @@
 # rippling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rippling.md)
+
 <p><span class="chinese">淡淡的香气，荡漾在心尖之上。</span><span class="english">Faint aroma, rippling over the apex.</span></p>
 
 <p><span class="chinese">整个沙丘波浪式地向前移动。</span><span class="english">The whole sand due moves forward rippling.</span></p>

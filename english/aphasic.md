@@ -1,5 +1,7 @@
 # aphasic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphasic.md)
+
 <p><span class="chinese">他们对女孩说他患了失语症。</span><span class="english">He was aphasic , they explained to the girl.</span></p>
 
 <p><span class="chinese">用患者所熟悉的歌曲旋律对患者进行训练可以起到较好的训练效果。</span><span class="english">Using familiar songs in the treatment can promote the recovery of aphasic patients.</span></p>

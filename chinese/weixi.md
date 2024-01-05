@@ -1,5 +1,7 @@
 # 微细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixi.md)
+
 <p><span class="chinese">轻质混合土微细观特征的研究。</span><span class="english">Research on micro-meso-scopic properties of BTS.</span></p>
 
 <p><span class="chinese">远洋沉积物包含了微细物质颗粒。</span><span class="english">Pelagic sediment contains tiny grain of material.</span></p>

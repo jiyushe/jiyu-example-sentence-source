@@ -1,5 +1,7 @@
 # logjam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logjam.md)
+
 <p><span class="chinese">但这种僵局并不存在。</span><span class="english">Such a logjam does not exist.</span></p>
 
 <p><span class="chinese">以色列或许也能帮忙打破黎巴嫩的僵局。</span><span class="english">Israel may be able to help break the logjam in Lebanon too.</span></p>

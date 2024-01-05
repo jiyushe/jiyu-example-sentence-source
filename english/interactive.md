@@ -1,5 +1,7 @@
 # interactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interactive.md)
+
 <p><span class="chinese">下面的图表是交互式的。</span><span class="english">The chart below is interactive.</span></p>
 
 <p><span class="chinese">填鸭式授课还是互动式教学？</span><span class="english">Lecture or Interactive Teaching?</span></p>

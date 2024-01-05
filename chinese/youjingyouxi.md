@@ -1,5 +1,7 @@
 # 又惊又喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjingyouxi.md)
+
 <p><span class="chinese">他真是又惊又喜。</span><span class="english">He was both happy and surprised.</span></p>
 
 <p><span class="chinese">丹尼尔不禁又惊又喜地大叫起来。</span><span class="english">A cry of joy and surprise escaped Daniel.</span></p>

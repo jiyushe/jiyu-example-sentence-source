@@ -1,5 +1,7 @@
 # unforgiving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unforgiving.md)
+
 <p><span class="chinese">但是石板是无情的。</span><span class="english">But stone flags are unforgiving.</span></p>
 
 <p><span class="chinese">嘴巴看起来有种不饶人的感觉。</span><span class="english">Mouth looks a kind of unforgiving feeling.</span></p>

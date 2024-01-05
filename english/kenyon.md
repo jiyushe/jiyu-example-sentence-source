@@ -1,5 +1,7 @@
 # kenyon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kenyon.md)
+
 <p><span class="chinese">肯扬在里昂谈判。</span><span class="english">Kenyon is in Lyon negotiating.</span></p>
 
 <p><span class="chinese">他们是不同种类的球员。凯尼恩说。</span><span class="english">He's a different type of player, said Kenyon.</span></p>

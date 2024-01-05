@@ -1,5 +1,7 @@
 # microelectrode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microelectrode.md)
+
 <p><span class="chinese">探讨了微电极技术用于环境工程领域的发展前景和趋势。</span><span class="english">At last, the prospect and developing trend of microelectrode technique are also discussed.</span></p>
 
 <p><span class="chinese">方法采用标准微电极及双微电极电压钳技术。</span><span class="english">METHODS standard microelectrode and two microelectrodes voltage clamp techniques were used.</span></p>

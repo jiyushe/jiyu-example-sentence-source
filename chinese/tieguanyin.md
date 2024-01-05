@@ -1,5 +1,7 @@
 # 铁观音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieguanyin.md)
+
 <p><span class="chinese">女人喝铁观音茶好吗？</span><span class="english">Tie Guan Yin tea okay to drink a woman?</span></p>
 
 <p><span class="chinese">铁观音茶香高而持久，可谓“七泡有余香”。</span><span class="english">Rich in flavor, the Tieguanyin Tan can dunk seven times.</span></p>

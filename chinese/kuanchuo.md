@@ -1,5 +1,7 @@
 # 宽绰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanchuo.md)
+
 <p><span class="chinese">屋子宽绰。</span><span class="english">The room is spacious.</span></p>
 
 <p><span class="chinese">他们有一个既宽绰又舒适的客厅。</span><span class="english">They have a spacious and comfortable living room.</span></p>

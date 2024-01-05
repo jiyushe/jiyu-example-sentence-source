@@ -1,5 +1,7 @@
 # 史实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_4.md)
+
 <p><span class="chinese">你在书上都可以读到这些史实</span><span class="english">You can read about that.</span></p>
 
 <p><span class="chinese">让我引述一些史实然后摆出我的观点。</span><span class="english">Let me premise my argument with a bit of history.</span></p>

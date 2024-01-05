@@ -1,5 +1,7 @@
 # multinuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multinuclear.md)
+
 <p><span class="chinese">应用多核细胞法检测外周血淋巴细胞HPRT基因突变率。</span><span class="english">Methods HPRT gene mutation frequency was examined by the technique of multinuclear cell assay.</span></p>
 
 <p><span class="chinese">三是合成新的多核过渡金属化合物并测量它们的磁性质。</span><span class="english">Third is to synthesize new multinuclear transition-metal compounds and characterize their magnetic properties.</span></p>

@@ -1,5 +1,7 @@
 # correlator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correlator.md)
+
 <p><span class="chinese">光学相关器的研究进展及军事应用。</span><span class="english">Research and military application of optical correlator.</span></p>
 
 <p><span class="chinese">相关处理机是VLBI数据预处理的核心设备。</span><span class="english">The VLBI correlator is one of the key data-preprocessing device.</span></p>

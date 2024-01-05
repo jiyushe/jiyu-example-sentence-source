@@ -1,5 +1,7 @@
 # 微小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixiao.md)
+
 <p><span class="chinese">它就像一个微小的数据中转驱动。</span><span class="english">It looks like a tiny jump drive.</span></p>
 
 <p><span class="chinese">在捉到微小的动物后。</span><span class="english">After catching the small animals.</span></p>

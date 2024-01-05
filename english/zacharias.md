@@ -1,5 +1,7 @@
 # zacharias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zacharias.md)
+
 <p><span class="chinese">伊丽莎白是萨迦利亚的妻子。</span><span class="english">Elizabeth is the wife of Zacharias.</span></p>
 
 <p><span class="chinese">你注意到天使对对撒迦利亚说甚麽吗？</span><span class="english">Did you notice what the angel said to Zacharias?</span></p>

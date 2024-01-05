@@ -1,5 +1,7 @@
 # reduced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reduced.md)
+
 <p><span class="chinese">减少投入市场的时间。</span><span class="english">Reduced time-to-market.</span></p>
 
 <p><span class="chinese">车价降下来了。</span><span class="english">The price for cars reduced.</span></p>

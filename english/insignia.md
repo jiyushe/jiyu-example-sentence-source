@@ -1,5 +1,7 @@
 # insignia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insignia.md)
+
 <p><span class="chinese">捕风塔是IAA的标志。</span><span class="english">The wind towers are the insignia of the IAA.</span></p>
 
 <p><span class="chinese">约瑟夫菲尔普斯徽章是一种美味和红色的融合。</span><span class="english">Joseph Phelps Insignia is a delicious red blend.</span></p>

@@ -1,5 +1,7 @@
 # 坚实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshi.md)
+
 <p><span class="chinese">河面已变得坚实了。</span><span class="english">The river has hardened up.</span></p>
 
 <p><span class="chinese">从松软的土地到坚实的岩坻。</span><span class="english">from hollow ground to sturdy.</span></p>

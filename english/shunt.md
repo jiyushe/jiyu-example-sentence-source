@@ -1,5 +1,7 @@
 # shunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shunt.md)
+
 <p><span class="chinese">采用小晶片分流原理。</span><span class="english">Using small-chip shunt theorem.</span></p>
 
 <p><span class="chinese">求分流器的电阻。</span><span class="english">Find the resistance of the shunt.</span></p>

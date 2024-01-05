@@ -1,5 +1,7 @@
 # estimator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estimator.md)
+
 <p><span class="chinese">然而，这个费用估计工具只能应用于美国的国内机票。</span><span class="english">But, the fee estimator only appears to work for domestic tickets in the US.</span></p>
 
 <p><span class="chinese">我们还将尝试改进逐路径估计量，以求减小标准误差。</span><span class="english">We also try to improve pathwise estimator in order to reduce standard error.</span></p>

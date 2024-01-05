@@ -1,5 +1,7 @@
 # hypothetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothetical.md)
+
 <p><span class="chinese">一个很假设性的情况。</span><span class="english">So a hypothetical condition.</span></p>
 
 <p><span class="chinese">这里是一个假设性的例子。</span><span class="english">Here is a hypothetical example.</span></p>

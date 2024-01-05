@@ -1,5 +1,7 @@
 # borate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borate.md)
+
 <p><span class="chinese">多钒硼酸盐是金属氧簇化合物研究的一个新领域。</span><span class="english">Polyoxovanadium borate is a new field of polyoxometalate chemistry.</span></p>
 
 <p><span class="chinese">本文研究了以碳酸镍合成硼酰化镍的新方法。</span><span class="english">This paper reports a new synthetic method of nickel borate acylate.</span></p>

@@ -1,5 +1,7 @@
 # dicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicky.md)
+
 <p><span class="chinese">那梯子看起来不太结实。</span><span class="english">That ladder looks a bit dicky.</span></p>
 
 <p><span class="chinese">两只小鸟坐在墙头上。</span><span class="english">Two little dicky birds sitting on a wall.</span></p>

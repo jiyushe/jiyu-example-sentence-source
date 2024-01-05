@@ -1,5 +1,7 @@
 # licit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licit.md)
+
 <p><span class="chinese">他用正当的手段挣了一些钱。</span><span class="english">She made some money by licit means.</span></p>
 
 <p><span class="chinese">这样一来，损失就可视作为博取将来利润而进行的合法投资。</span><span class="english">Losses would then be a licit investment in future profits.</span></p>

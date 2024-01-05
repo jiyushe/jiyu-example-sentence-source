@@ -1,5 +1,7 @@
 # 眉峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meifeng_1.md)
+
 <p><span class="chinese">给眉毛粘出小小的眉峰。</span><span class="english">Eyebrows glued up into tiny peaks.</span></p>
 
 <p><span class="chinese">北野烈的眉峰，顿时更是皱紧。</span><span class="english">North the wild strong eyebrow Feng is quickly extra wrinkly tight.</span></p>

@@ -1,5 +1,7 @@
 # inflexible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflexible.md)
+
 <p><span class="chinese">硬性指不灵活或非常严格。</span><span class="english">Rigid means inflexible or very strict.</span></p>
 
 <p><span class="chinese">他做事情就是一根筋，不灵活。</span><span class="english">He is inflexible in dealing with things.</span></p>

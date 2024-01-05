@@ -1,5 +1,7 @@
 # 出力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuli.md)
+
 <p><span class="chinese">他已被说服出力帮助卖票。</span><span class="english">He's been roped in to help sell the tickets.</span></p>
 
 <p><span class="chinese">我们要的是为自己过上更好的生活出力。</span><span class="english">And we want to contribute to our better life.</span></p>

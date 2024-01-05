@@ -1,5 +1,7 @@
 # 板车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banche.md)
+
 <p><span class="chinese">那个推着板车的商贩正在卖西瓜。</span><span class="english">The trader pushing small dray is selling watermelon.</span></p>
 
 <p><span class="chinese">不一会儿猴子跟雷子枫拉着板车出现。</span><span class="english">Not and in a short while the monkey with LeiZiFeng took handjack appear.</span></p>

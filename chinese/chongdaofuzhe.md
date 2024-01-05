@@ -1,5 +1,7 @@
 # 重蹈覆辙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongdaofuzhe.md)
+
 <p><span class="chinese">否则，你就注定会重蹈覆辙。</span><span class="english">Otherwise, you are doomed to repeat it.</span></p>
 
 <p><span class="chinese">不向历史学习的人注定要重蹈覆辙。</span><span class="english">He who does not learn from history dooms to repeat it.</span></p>

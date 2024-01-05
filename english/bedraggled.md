@@ -1,5 +1,7 @@
 # bedraggled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedraggled.md)
+
 <p><span class="chinese">他们满身泥污且并未携带武器。</span><span class="english">They were bedraggled and unarmed.</span></p>
 
 <p><span class="chinese">她淋着雨回来使她显得蓬头垢面。</span><span class="english">She was bedraggled when she came in out of the rain.</span></p>

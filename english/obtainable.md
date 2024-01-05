@@ -1,5 +1,7 @@
 # obtainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obtainable.md)
+
 <p><span class="chinese">起初他没有脉搏，血压无法量出。</span><span class="english">He was initially pulseless with no obtainable blood pressure.</span></p>
 
 <p><span class="chinese">卖弄风情的女子被发出黑色、板栗、沙子和感觉。</span><span class="english">The Coquette is obtainable in Black, Chestnut, Sand and Felt.</span></p>

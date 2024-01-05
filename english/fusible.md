@@ -1,5 +1,7 @@
 # fusible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fusible.md)
+
 <p><span class="chinese">易熔金属及热处理件的钎焊…</span><span class="english">Soldering of fusible metals and heat-treated part.</span></p>
 
 <p><span class="chinese">前幅的衬要分开沿伸至胸及前翻驳位？</span><span class="english">Split Front Fusible with Extended Chest Piece and Padded Lapel.</span></p>

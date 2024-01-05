@@ -1,5 +1,7 @@
 # hastily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hastily.md)
+
 <p><span class="chinese">雷斯上校急躁地骂开了。</span><span class="english">Colonel Race swore hastily.</span></p>
 
 <p><span class="chinese">不要匆促对人做出判断。</span><span class="english">Don't judge others hastily.</span></p>

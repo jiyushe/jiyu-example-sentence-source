@@ -1,5 +1,7 @@
 # ld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ld.md)
+
 <p><span class="chinese">列出材料盒子地面类型和LD增加了对NEC和编辑。</span><span class="english">List-boxes for ground-types and LD materials added for Nec-Edit.</span></p>
 
 <p><span class="chinese">建立自闭症症候群及学习障碍孩子及其家庭的信息和资讯中心。</span><span class="english">Establish an information and resource center for ASD and LD families.</span></p>

@@ -1,5 +1,7 @@
 # 小茴香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohuixiang.md)
+
 <p><span class="chinese">加小茴香的鸡蛋是传统的仲夏节食品。</span><span class="english">Eggs with dill are a traditional Midsummer food.</span></p>
 
 <p><span class="chinese">准备1/4茶匙香菜籽，1/4茶匙的小茴香和1/4茶匙的茴香籽，混合1.5升的热水，饮用一整天。</span><span class="english">Mix with 1.5 litres of hot water. Sip throughout the day.</span></p>

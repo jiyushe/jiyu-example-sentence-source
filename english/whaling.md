@@ -1,5 +1,7 @@
 # whaling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whaling.md)
+
 <p><span class="chinese">一般捕鲸的季节要持续到三月中旬。</span><span class="english">The whaling season typically runs until mid-March.</span></p>
 
 <p><span class="chinese">另一系列中，积极人士对抗捕鲸船。</span><span class="english">In another series, activists go up against whaling ships.</span></p>

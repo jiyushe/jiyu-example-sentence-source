@@ -1,5 +1,7 @@
 # precedents
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precedents.md)
+
 <p><span class="chinese">不乏先例。</span><span class="english">There is no lack of precedents.</span></p>
 
 <p><span class="chinese">这种现实主义做法确实有先例可循。</span><span class="english">Such realism does have precedents.</span></p>

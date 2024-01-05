@@ -1,5 +1,7 @@
 # 赏玩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangwan.md)
+
 <p><span class="chinese">的办公窗口供行人赏玩。</span><span class="english">office window for passers-by to play with.</span></p>
 
 <p><span class="chinese">今天，狮子是普遍的吉祥物和娱乐赏玩的对象。</span><span class="english">Today, the lion is a general mascot and a target of amusement.</span></p>

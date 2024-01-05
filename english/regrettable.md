@@ -1,5 +1,7 @@
 # regrettable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regrettable.md)
+
 <p><span class="chinese">这将令人遗憾。</span><span class="english">This would be regrettable.</span></p>
 
 <p><span class="chinese">这样奢侈浪费是令人遗憾的。</span><span class="english">It's regrettable to be so extravagant.</span></p>

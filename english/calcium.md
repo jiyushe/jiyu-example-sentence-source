@@ -1,5 +1,7 @@
 # calcium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcium.md)
+
 <p><span class="chinese">注意补钙。</span><span class="english">Take a calcium supplement.</span></p>
 
 <p><span class="chinese">奶里确实有钙。</span><span class="english">Milk contains calcium indeed.</span></p>

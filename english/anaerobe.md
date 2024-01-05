@@ -1,5 +1,7 @@
 # anaerobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaerobe.md)
+
 <p><span class="chinese">厌氧菌对抗菌药物有较稳定的敏感性。</span><span class="english">The anaerobe resistance fungus medicine has the stable sensitivity.</span></p>
 
 <p><span class="chinese">所有的植物和大多数细菌和真菌都是需氧生物。</span><span class="english">All plants and most bacteria and fungi are aerobes. Compare anaerobe.</span></p>

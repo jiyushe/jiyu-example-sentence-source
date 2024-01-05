@@ -1,5 +1,7 @@
 # agamemnon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agamemnon.md)
+
 <p><span class="chinese">和阿伽门农之死。</span><span class="english">And Agamemnon dead.</span></p>
 
 <p><span class="chinese">我要把阿伽门农刻在石头上。</span><span class="english">I'll carve Agamemnon in the stones.</span></p>

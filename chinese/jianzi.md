@@ -1,5 +1,7 @@
 # 茧子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzi.md)
+
 <p><span class="chinese">繁重的劳动使他的双手生出茧子来。</span><span class="english">Heavy work callused his hands.</span></p>
 
 <p><span class="chinese">一天，一个人在森林中漫步时，发现一个蝴蝶的茧子，他打算把它带回家里，观察它是怎样变成美丽的蝴蝶的。</span><span class="english">One day while walking through the woods, a man found a cocoon.</span></p>

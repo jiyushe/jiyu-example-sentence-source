@@ -1,5 +1,7 @@
 # 药材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaocai.md)
+
 <p><span class="chinese">向日葵是药材吗？</span><span class="english">Is helianthus a medicinal material?</span></p>
 
 <p><span class="chinese">我没有什么公司，我就想把这药材处理了。</span><span class="english">I would like to deal with this medicine.</span></p>

@@ -1,5 +1,7 @@
 # tinker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinker.md)
+
 <p><span class="chinese">这是小叮当！</span><span class="english">This is Tinker Bell!</span></p>
 
 <p><span class="chinese">但小叮当能做得很好。</span><span class="english">But Tinker Bell can be nice.</span></p>

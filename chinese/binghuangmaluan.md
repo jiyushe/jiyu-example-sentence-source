@@ -1,5 +1,7 @@
 # 兵荒马乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binghuangmaluan.md)
+
 <p><span class="chinese">思念，是一个人的兵荒马乱。</span><span class="english">Miss, is a man of war.</span></p>
 
 <p><span class="chinese">是于兵荒马乱中的闲散自淫？</span><span class="english">Is being idle in the chaos of war?</span></p>

@@ -1,5 +1,7 @@
 # 树苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumiao.md)
+
 <p><span class="chinese">真龙不会去种树苗。</span><span class="english">Dragons plant no trees.</span></p>
 
 <p><span class="chinese">它变成了一棵虚弱的小树苗。</span><span class="english">It becomes a weak, frail sapling.</span></p>

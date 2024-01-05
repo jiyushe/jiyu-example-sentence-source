@@ -1,5 +1,7 @@
 # 乔木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaomu.md)
+
 <p><span class="chinese">落叶小乔木。</span><span class="english">Leaves small trees.</span></p>
 
 <p><span class="chinese">西印度群岛的一种带刺小乔木。</span><span class="english">Small spiny west indian tree.</span></p>

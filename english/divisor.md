@@ -1,5 +1,7 @@
 # divisor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divisor.md)
+
 <p><span class="chinese">以…来除成为…的精确除数。</span><span class="english">To be an exact divisor of.</span></p>
 
 <p><span class="chinese">它当前的值为0.132129493。</span><span class="english">The current divisor is 0.132129493.</span></p>

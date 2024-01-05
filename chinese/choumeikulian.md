@@ -1,5 +1,7 @@
 # 愁眉苦脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumeikulian.md)
+
 <p><span class="chinese">你为合看起来这么愁眉苦脸的？</span><span class="english">Why do you look so worried?</span></p>
 
 <p><span class="chinese">为什么一副愁眉苦脸的样子?</span><span class="english">Why wear such a woebegone look?</span></p>

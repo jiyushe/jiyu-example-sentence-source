@@ -1,5 +1,7 @@
 # khalifa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khalifa.md)
+
 <p><span class="chinese">最好的那张是迪拜的哈利法塔的阴影。</span><span class="english">The best one is the shadow of Al Bruj Khalifa tower Dubai.</span></p>
 
 <p><span class="chinese">Wiz的哈利法住在德国，英国和日本的一个孩子。</span><span class="english">Wiz Khalifa lived in Germany, England and Japan as a child.</span></p>

@@ -1,5 +1,7 @@
 # 语言识别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyanshibie.md)
+
 <p><span class="chinese">然后它运用语言识别技术来监视对话。</span><span class="english">It then uses speech recognition technology to monitor conversations.</span></p>
 
 <p><span class="chinese">同时，简单介绍了工艺语言识别和处理的过程。</span><span class="english">Besides, the process to distinguish and deal with the language of technology is described.</span></p>

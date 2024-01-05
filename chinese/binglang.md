@@ -1,5 +1,7 @@
 # 槟榔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binglang.md)
+
 <p><span class="chinese">什么是槟榔？</span><span class="english">What are betel nuts?</span></p>
 
 <p><span class="chinese">槟榔碱稳定性较好。</span><span class="english">And arecoline stability is good.</span></p>

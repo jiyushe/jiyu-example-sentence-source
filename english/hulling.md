@@ -1,5 +1,7 @@
 # hulling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hulling.md)
+
 <p><span class="chinese">通过试验，找出壳法制芯脱壳的原因。</span><span class="english">The causes of shell hulling have been found through experiment.</span></p>
 
 <p><span class="chinese">该设备主要用于燕麦脱壳，供燕麦加工厂工艺流程中配套使用。</span><span class="english">The machine is mainly used for oat hulling in the oat processing factory.</span></p>

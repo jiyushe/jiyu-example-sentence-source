@@ -1,5 +1,7 @@
 # chafing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chafing.md)
+
 <p><span class="chinese">我的短裤把大腿磨得生疼。</span><span class="english">My shorts were chafing my thighs.</span></p>
 
 <p><span class="chinese">我们用暖锅烧咖啡。</span><span class="english">We made coffee in a chafing dish.</span></p>

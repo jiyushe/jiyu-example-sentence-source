@@ -1,5 +1,7 @@
 # zoological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoological.md)
+
 <p><span class="chinese">大约又经过了一个世纪，科学终于对这种动物加上了一个动物学上的名称—“挪威海怪”。</span><span class="english">About a century later, science finally attached a zoological name to the Kraken.</span></p>
 
 <p><span class="chinese">尾部覆羽，展示用，汉堡大学动物学会和动物博物馆</span><span class="english">Tail covert, display, Institute of Zoology and Zoological Museum, University of Hamburg</span></p>

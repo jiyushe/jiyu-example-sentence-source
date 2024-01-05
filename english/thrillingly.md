@@ -1,5 +1,7 @@
 # thrillingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrillingly.md)
+
 <p><span class="chinese">而他的内心立即激动地回应着这种异常的情绪。</span><span class="english">And also in a moment his heart responded thrillingly to this novel mood.</span></p>
 
 <p><span class="chinese">也就在一刹那间，他对这种戏剧性的变化反应强烈，不禁毛骨悚然。</span><span class="english">And also in a moment his heart responded thrillingly to this novel mood.</span></p>

@@ -1,5 +1,7 @@
 # mariculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mariculture.md)
+
 <p><span class="chinese">第二章介绍了我国外向型海水养殖业。</span><span class="english">Chapter two introduces our export oriented mariculture.</span></p>
 
 <p><span class="chinese">开放型河口海水养殖主要有</span><span class="english">The main types of open-water estuarine mariculture include</span></p>

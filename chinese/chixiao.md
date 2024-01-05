@@ -1,5 +1,7 @@
 # 嗤笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chixiao.md)
+
 <p><span class="chinese">他们就嗤笑他。</span><span class="english">But they laughed at him.</span></p>
 
 <p><span class="chinese">他从不嗤笑任何人。</span><span class="english">She never sneers at anyone.</span></p>

@@ -1,5 +1,7 @@
 # 漠然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moran_2.md)
+
 <p><span class="chinese">内心超然并非漠然尘网！</span><span class="english">Inner detachment is not indifference!</span></p>
 
 <p><span class="chinese">罗兰夫人于是对后代的问题也冷淡漠然。</span><span class="english">Mme Roland is indifferent to posterity.</span></p>

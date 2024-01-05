@@ -1,5 +1,7 @@
 # thiomersal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thiomersal.md)
+
 <p><span class="chinese">什么是硫柳汞？</span><span class="english">What is thiomersal ?</span></p>
 
 <p><span class="chinese">哪些疫苗不含硫柳汞？</span><span class="english">Which vaccines do not contain thiomersal ?</span></p>

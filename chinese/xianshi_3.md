@@ -1,5 +1,7 @@
 # 先是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_3.md)
+
 <p><span class="chinese">先是涓涓细流，接下来是滔滔洪水。</span><span class="english">First a trickle, then a flood.</span></p>
 
 <p><span class="chinese">常予先是我最好的朋友。</span><span class="english">Chang Yuxian is my best friend.</span></p>

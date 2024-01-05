@@ -1,5 +1,7 @@
 # setoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/setoff.md)
+
 <p><span class="chinese">一切准备工作就绪后，他们就秘密进发了。</span><span class="english">After all preparations were made, they setoff secretly.</span></p>
 
 <p><span class="chinese">书面通知要把账目抵消依据列入清单。</span><span class="english">The Written Notice will specify the basis for the setoff.</span></p>

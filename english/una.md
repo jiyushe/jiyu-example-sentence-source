@@ -1,5 +1,7 @@
 # una
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/una.md)
+
 <p><span class="chinese">不，这是一支圆珠笔。</span><span class="english">No, questa è una biro.</span></p>
 
 <p><span class="chinese">我写了一封信给朋友。</span><span class="english">Le escribí una letra a mi amigo.</span></p>

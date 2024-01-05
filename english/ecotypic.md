@@ -1,5 +1,7 @@
 # ecotypic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecotypic.md)
+
 <p><span class="chinese">绿色生态建筑中需要采用绿色可再生能源。</span><span class="english">The green ecotypic buildings require to use a green renewable energy.</span></p>
 
 <p><span class="chinese">产业发展“生态化”是建设生态市的必要条件，也是建设生态城市的关键所在。</span><span class="english">Making industries develop ecotypically is a necessary and key condition for us to build ecotypic cities.</span></p>

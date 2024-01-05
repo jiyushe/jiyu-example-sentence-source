@@ -1,5 +1,7 @@
 # overpowering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overpowering.md)
+
 <p><span class="chinese">窗户关得严严的，房间里臭气熏天。</span><span class="english">The window was closed and the stink was overpowering.</span></p>
 
 <p><span class="chinese">白色的装壁板避免了暗红色在这个房间占压倒性优势的局面。</span><span class="english">White wainscoting keeps this crimson hue from overpowering the room.</span></p>

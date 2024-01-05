@@ -1,5 +1,7 @@
 # 风致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzhi.md)
+
 <p><span class="chinese">欢迎来到风致燕然的空间图片！</span><span class="english">Welcome to wind-induced Yan Ran's Pictures of space!</span></p>
 
 <p><span class="chinese">打字员以典范的风致在钢琴上呼奏“台风”。</span><span class="english">The typist plays Typhoon on the piano in a typical style.</span></p>

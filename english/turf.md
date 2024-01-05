@@ -1,5 +1,7 @@
 # turf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turf.md)
+
 <p><span class="chinese">他们大步走在松软的草皮上。</span><span class="english">They strode over the springy turf.</span></p>
 
 <p><span class="chinese">那儿的山花在春光中争艳</span><span class="english">There, when the turf in springtime flowers</span></p>

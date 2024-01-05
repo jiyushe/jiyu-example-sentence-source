@@ -1,5 +1,7 @@
 # 震慑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshe.md)
+
 <p><span class="chinese">你自己感觉到这种震慑力了吗？</span><span class="english">Do you get that feeling?</span></p>
 
 <p><span class="chinese">是英国皇家海军可怕的震慑力？</span><span class="english">Royal Navy's fearful impose?</span></p>

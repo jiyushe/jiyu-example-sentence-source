@@ -1,5 +1,7 @@
 # 玉皇大帝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhuangdadi.md)
+
 <p><span class="chinese">于是，玉皇大帝决定举行一场比赛。</span><span class="english">Jade Emperor decreed to hold a competition.</span></p>
 
 <p><span class="chinese">行善积德，自有玉皇大帝保佑。</span><span class="english">Do good deeds to earn the blessings of the Jade Emperor.</span></p>

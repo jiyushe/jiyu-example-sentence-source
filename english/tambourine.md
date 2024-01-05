@@ -1,5 +1,7 @@
 # tambourine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tambourine.md)
+
 <p><span class="chinese">干扰你此时的铃鼓。</span><span class="english">To your tambourine in time.</span></p>
 
 <p><span class="chinese">她会演奏铃鼓。</span><span class="english">She can play the tambourine.</span></p>

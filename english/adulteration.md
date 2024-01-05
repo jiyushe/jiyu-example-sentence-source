@@ -1,5 +1,7 @@
 # adulteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adulteration.md)
+
 <p><span class="chinese">必须制止在食品中搀假。</span><span class="english">This adulteration of food must stop.</span></p>
 
 <p><span class="chinese">大多数情况下掺假没被检出。</span><span class="english">Mostly, the adulteration went undetected.</span></p>

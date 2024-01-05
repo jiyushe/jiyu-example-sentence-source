@@ -1,5 +1,7 @@
 # 二流子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erliuzi.md)
+
 <p><span class="chinese">我们将会把二流子追回伦敦！</span><span class="english">We will chase the rascals back to London!</span></p>
 
 <p><span class="chinese">二流子习气他们批评那个懒汉强调自己的小病而不肯干活。</span><span class="english">They criticized the lazybones for playing up his slight illness.</span></p>

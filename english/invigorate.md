@@ -1,5 +1,7 @@
 # invigorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invigorate.md)
+
 <p><span class="chinese">李允儿，请你振作好吗？</span><span class="english">Lee grants son, please invigorate like?</span></p>
 
 <p><span class="chinese">对内经济搞活，首先从农村着手。</span><span class="english">To invigorate the domestic economy, WE began with the countryside.</span></p>

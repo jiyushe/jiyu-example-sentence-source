@@ -1,5 +1,7 @@
 # sulfonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfonation.md)
+
 <p><span class="chinese">磺化反应在散开体系中进行。</span><span class="english">The sulfonation could take place in an unclosed system.</span></p>
 
 <p><span class="chinese">空气干燥是燃硫法SO3／空气连续磺化重要组成部分。</span><span class="english">Air supply system is an important unit of SO3 continuous sulfonation plant.</span></p>

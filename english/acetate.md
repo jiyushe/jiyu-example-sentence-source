@@ -1,5 +1,7 @@
 # acetate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetate.md)
+
 <p><span class="chinese">测出醋酸盐的峰面积。</span><span class="english">Measure the peak area for acetate.</span></p>
 
 <p><span class="chinese">不会再乙酸乙酯混合物里增长！</span><span class="english">Not much grows in a ethyl acetate cocktail!</span></p>

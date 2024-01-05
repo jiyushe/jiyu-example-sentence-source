@@ -1,5 +1,7 @@
 # 排忧解难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiyoujienan.md)
+
 <p><span class="chinese">真正的朋友能够在你毕业后会为你排忧解难。</span><span class="english">Friends indeed can be friends in need after graduation.</span></p>
 
 <p><span class="chinese">选民们断定罗姆内先生最具实力为他们排忧解难。</span><span class="english">Voters judged Mr Romney most capable of easing their pain.</span></p>

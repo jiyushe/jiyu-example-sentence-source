@@ -1,5 +1,7 @@
 # goldie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldie.md)
+
 <p><span class="chinese">她现在是一个男仆。</span><span class="english">Goldie is now a footman.</span></p>
 
 <p><span class="chinese">小白鹅Goldie来到篱笆门。</span><span class="english">Goldie goose goes to the gate.</span></p>

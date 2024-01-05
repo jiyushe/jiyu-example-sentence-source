@@ -1,5 +1,7 @@
 # argentine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argentine.md)
+
 <p><span class="chinese">我喜欢戴银首饰。</span><span class="english">I like to wear argentine jewellery.</span></p>
 
 <p><span class="chinese">她去了阿根廷，我仍在中国科技大学。</span><span class="english">She went to Argentine. I was still in USTC.</span></p>

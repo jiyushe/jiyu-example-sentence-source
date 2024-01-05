@@ -1,5 +1,7 @@
 # 齐备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibei.md)
+
 <p><span class="chinese">好，看来一切齐备。</span><span class="english">Good, everything seems to be in order.</span></p>
 
 <p><span class="chinese">他们买了一栋家具齐备的房子。</span><span class="english">They bought a house complete with furniture.</span></p>

@@ -1,5 +1,7 @@
 # 原籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanji.md)
+
 <p><span class="chinese">阿拉贡的父母原籍都是菲律宾。</span><span class="english">Ms. Aragon's parents are from the Philippines.</span></p>
 
 <p><span class="chinese">钱小纯，1947年出生于浙江玉环，原籍杭州。</span><span class="english">Qian Xiaochun was born in Yuhuan, Zhejiang in 1947.</span></p>

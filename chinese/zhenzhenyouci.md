@@ -1,5 +1,7 @@
 # 振振有词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhenyouci.md)
+
 <p><span class="chinese">他表示了振振有词的抗议。</span><span class="english">He expressed voluble protests.</span></p>
 
 <p><span class="chinese">我是决不想反驳这样一个振振有词的声明的。</span><span class="english">I should be the last to reject such a loud statement.</span></p>

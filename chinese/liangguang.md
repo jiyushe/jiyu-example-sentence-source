@@ -1,5 +1,7 @@
 # 两广
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangguang.md)
+
 <p><span class="chinese">进去看菜单都是南亚两广菜色。</span><span class="english">Go in and see the menu is south by comparing menu.</span></p>
 
 <p><span class="chinese">为两广培养了许多新式人才。</span><span class="english">It educated a lot of new talents for Guangdong and Guangxi.</span></p>

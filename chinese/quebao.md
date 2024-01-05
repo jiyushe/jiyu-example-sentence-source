@@ -1,5 +1,7 @@
 # 确保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quebao.md)
+
 <p><span class="chinese">但是如何才能确保这点呢？</span><span class="english">But how can you ensure that?</span></p>
 
 <p><span class="chinese">确保你正在排卵。</span><span class="english">Make sure you are ovulating.</span></p>

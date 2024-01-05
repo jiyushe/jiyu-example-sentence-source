@@ -1,5 +1,7 @@
 # yacht
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yacht.md)
+
 <p><span class="chinese">给你买一艘游艇，我还买得起。</span><span class="english">I can spring to  a yacht for you.</span></p>
 
 <p><span class="chinese">强劲动力、海世艇业。</span><span class="english">Strong driving force, Haishi Yacht.</span></p>

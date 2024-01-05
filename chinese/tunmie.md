@@ -1,5 +1,7 @@
 # 吞灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunmie.md)
+
 <p><span class="chinese">这房子被火吞灭了。</span><span class="english">The house was eaten up by flame.</span></p>
 
 <p><span class="chinese">我们中间谁能与吞灭的火同住。</span><span class="english">Who among us shall dwell with the devouring fire?</span></p>

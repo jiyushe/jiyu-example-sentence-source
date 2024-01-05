@@ -1,5 +1,7 @@
 # 难免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanmian_1.md)
+
 <p><span class="chinese">好母牛难免产劣犊。</span><span class="english">The cow cast her calf.</span></p>
 
 <p><span class="chinese">人的一生中难免有浮沉之时。</span><span class="english">Life has its ups and downs.</span></p>

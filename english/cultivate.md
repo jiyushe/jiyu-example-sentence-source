@@ -1,5 +1,7 @@
 # cultivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultivate.md)
+
 <p><span class="chinese">培育它们。</span><span class="english">Cultivate them.</span></p>
 
 <p><span class="chinese">我学会了往养成这类习气。</span><span class="english">I was taught to cultivate it.</span></p>

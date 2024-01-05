@@ -1,5 +1,7 @@
 # 蒙在鼓里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengzaiguli.md)
+
 <p><span class="chinese">律师经常会让他们的客户蒙在鼓里。</span><span class="english">Lawyers often keep their clients in the dark.</span></p>
 
 <p><span class="chinese">了解实际情况总比蒙在鼓里好.</span><span class="english">They are better offf knowing than not knowing the fact.</span></p>

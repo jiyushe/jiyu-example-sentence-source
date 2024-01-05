@@ -1,5 +1,7 @@
 # catheter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catheter.md)
+
 <p><span class="chinese">他很快将导液管插入。</span><span class="english">He quickly inserts the catheter.</span></p>
 
 <p><span class="chinese">可以用导管把水吸出。</span><span class="english">The water can be drawn off with a catheter.</span></p>

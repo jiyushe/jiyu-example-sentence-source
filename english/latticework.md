@@ -1,5 +1,7 @@
 # latticework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latticework.md)
+
 <p><span class="chinese">它的巨大的椭圆形的形状由密集的由钢铁组成的格子所包裹。</span><span class="english">Its huge elliptical form is enveloped in a dense latticework of steel columns.</span></p>
 
 <p><span class="chinese">在壁橱中做一些格子和隔断，将衣柜合理分区。</span><span class="english">In the closet, do some latticework and students will wardrobe reasonable Division.</span></p>

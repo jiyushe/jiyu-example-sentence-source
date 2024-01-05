@@ -1,5 +1,7 @@
 # 目视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mushi_2.md)
+
 <p><span class="chinese">莪迷失勒方向，莪被逼俑叚面目视秂。</span><span class="english">Lose my way, Im forced to fake.</span></p>
 
 <p><span class="chinese">目视检查所有密封件。</span><span class="english">Visually inspect all sealing element.</span></p>

@@ -1,5 +1,7 @@
 # classificatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classificatory.md)
+
 <p><span class="chinese">水力旋流器是一种应用非常广泛的分离分级设备。</span><span class="english">The hydrocyclone is a kind of separatory and classificatory equipment.</span></p>
 
 <p><span class="chinese">菌环、菌网及孢子具有一定的形态学特征。</span><span class="english">The rings and networks have some classificatory characteristics in morphology.</span></p>

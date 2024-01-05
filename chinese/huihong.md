@@ -1,5 +1,7 @@
 # 恢宏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihong.md)
+
 <p><span class="chinese">他扮演的古代皇帝气度恢宏。</span><span class="english">The emperor he played was magnanimous.</span></p>
 
 <p><span class="chinese">只有心胸开阔，气度恢宏的人，才能多交朋友。</span><span class="english">Only the broad-minded, delicate features, can make more friends.</span></p>

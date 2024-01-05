@@ -1,5 +1,7 @@
 # bate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bate.md)
+
 <p><span class="chinese">我无法抑制自己的热切的心情。</span><span class="english">I was unable to bate my enthusiasm.</span></p>
 
 <p><span class="chinese">售货员一分钱也不肯减少。</span><span class="english">The salesman won't bate a penny of it.</span></p>

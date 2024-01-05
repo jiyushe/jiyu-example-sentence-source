@@ -1,5 +1,7 @@
 # exonerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exonerate.md)
+
 <p><span class="chinese">你为什么会在道德上赦免他们？</span><span class="english">Why would you morally exonerate them?</span></p>
 
 <p><span class="chinese">他研究数据，并确信那将免除他的责任。</span><span class="english">He studies the data and is confident it will exonerate him.</span></p>

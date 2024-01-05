@@ -1,5 +1,7 @@
 # pronged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronged.md)
+
 <p><span class="chinese">并非所有的插头都有三个插脚，某些工具的插头只有两个插脚。</span><span class="english">Not all plugs are three pronged and some tools have only a two prong plug.</span></p>
 
 <p><span class="chinese">那么要做好培训自然也要从这三个方面入手。</span><span class="english">So naturally have to do a good job in training this three- pronged approach.</span></p>

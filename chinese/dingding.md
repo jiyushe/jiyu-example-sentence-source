@@ -1,5 +1,7 @@
 # 丁丁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingding.md)
+
 <p><span class="chinese">丁丁也爬上了树。</span><span class="english">Ding-ding is also climbing a tree.</span></p>
 
 <p><span class="chinese">打字机嗒嗒嗒又丁丁丁地响着。</span><span class="english">The typewriters rattled and pinged.</span></p>

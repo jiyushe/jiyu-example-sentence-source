@@ -1,5 +1,7 @@
 # 蜡笔画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/labihua.md)
+
 <p><span class="chinese">其次用你的蜡笔画。</span><span class="english">Next, draw with your crayons.</span></p>
 
 <p><span class="chinese">首先，用你的蜡笔画。</span><span class="english">First, , draw with your crayons.</span></p>

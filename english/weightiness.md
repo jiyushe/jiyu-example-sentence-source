@@ -1,5 +1,7 @@
 # weightiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weightiness.md)
+
 <p><span class="chinese">枢纽型物流中心的规划方法采用重要度法及动态聚类法。</span><span class="english">The planning methods are the Weightiness Method and Dynamic Clustering Method.</span></p>
 
 <p><span class="chinese">明确各预测变量对大学生自我妨碍预测作用的相对重要性。</span><span class="english">And the last, we study the weightiness of every factor that can influence self-handicapping.</span></p>

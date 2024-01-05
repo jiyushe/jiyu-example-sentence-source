@@ -1,5 +1,7 @@
 # 怒火中烧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuhuozhongshao.md)
+
 <p><span class="chinese">我试图保持镇静，但忍不住怒火中烧。</span><span class="english">I tried to stay calm, but I was mad.</span></p>
 
 <p><span class="chinese">怒火中烧，对着他们大吼起来。</span><span class="english">In a blaze of anger he shouted at them.</span></p>

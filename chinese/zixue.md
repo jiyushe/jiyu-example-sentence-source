@@ -1,5 +1,7 @@
 # 自学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixue.md)
+
 <p><span class="chinese">我是自学的。</span><span class="english">I was self-taught.</span></p>
 
 <p><span class="chinese">他是个自学成材的人。</span><span class="english">He is a self-made man.</span></p>

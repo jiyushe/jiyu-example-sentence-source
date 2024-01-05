@@ -1,5 +1,7 @@
 # carcinomatosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinomatosis.md)
+
 <p><span class="chinese">目的探讨转移性脑膜癌病的MRI表现特征。</span><span class="english">Objective To study the MRI finding features of metastatic meningeal carcinomatosis.</span></p>
 
 <p><span class="chinese">目的探讨脑膜癌病的诊治方法及预后。</span><span class="english">Objective To approach the diagnosis, treatment and prognosis of meningeal carcinomatosis.</span></p>

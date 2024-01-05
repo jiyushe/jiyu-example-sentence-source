@@ -1,5 +1,7 @@
 # 一定之规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidingzhigui.md)
+
 <p><span class="chinese">我想说，没什么一定之规。</span><span class="english">I mean, there are no rules really.</span></p>
 
 <p><span class="chinese">成功并无一定之规。</span><span class="english">There is no sure formula for success.</span></p>

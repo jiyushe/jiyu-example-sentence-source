@@ -1,5 +1,7 @@
 # hindsight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindsight.md)
+
 <p><span class="chinese">但是，当然啦，事后诸葛亮总是好当。</span><span class="english">But, of course, hindsight is 20-20.</span></p>
 
 <p><span class="chinese">让事后经验指导你的行动。</span><span class="english">Allow hindsight to guide your actions.</span></p>

@@ -1,5 +1,7 @@
 # 吞并
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunbing.md)
+
 <p><span class="chinese">日本在1910年吞并了韩国。</span><span class="english">Japan annexed Korea in 1910.</span></p>
 
 <p><span class="chinese">印度在1975年吞并了锡金。</span><span class="english">India annexed the Sikkim in 1975.</span></p>

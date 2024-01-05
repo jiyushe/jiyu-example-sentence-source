@@ -1,5 +1,7 @@
 # hurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurt.md)
+
 <p><span class="chinese">赫特说。</span><span class="english">Hurt says.</span></p>
 
 <p><span class="chinese">我的手好痛。</span><span class="english">My hands hurt.</span></p>

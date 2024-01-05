@@ -1,5 +1,7 @@
 # aural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aural.md)
+
 <p><span class="chinese">他用磁带作为听觉教材来教英语。</span><span class="english">He used tapes as aural material to teach English.</span></p>
 
 <p><span class="chinese">听力测验是客观的，可以机械地评分。</span><span class="english">Aural tests are objective and can be graded mechanically.</span></p>

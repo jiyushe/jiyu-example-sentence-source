@@ -1,5 +1,7 @@
 # stimulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stimulator.md)
+
 <p><span class="chinese">身体运动是大脑强有效的刺激物。</span><span class="english">Body movement is an effective brain stimulator.</span></p>
 
 <p><span class="chinese">银是一个很好的植物成长刺激因子。</span><span class="english">Silver is an excellent plant-growth stimulator.</span></p>

@@ -1,5 +1,7 @@
 # 扮相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banxiang.md)
+
 <p><span class="chinese">她长着翅膀穿着仙女服的扮相堪称完美。</span><span class="english">She looks perfect in her wings and fairy costume.</span></p>
 
 <p><span class="chinese">我喜欢戏中女主角的扮相。</span><span class="english">I liked the look of the female character in the play.</span></p>

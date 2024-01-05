@@ -1,5 +1,7 @@
 # conger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conger.md)
+
 <p><span class="chinese">它们在那儿——大海鳗！</span><span class="english">There they are — the conger eels!</span></p>
 
 <p><span class="chinese">鱼贩子的女人吃海鳗。</span><span class="english">A fishmonger's wife may feed of a conger.</span></p>

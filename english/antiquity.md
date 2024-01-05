@@ -1,5 +1,7 @@
 # antiquity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiquity.md)
+
 <p><span class="chinese">但古希腊地形并非如此</span><span class="english">That was not the Greece of antiquity.</span></p>
 
 <p><span class="chinese">植物油从古以来就为人们所熟悉。</span><span class="english">Vegetable oil has been known from antiquity.</span></p>

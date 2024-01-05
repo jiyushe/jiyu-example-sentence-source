@@ -1,5 +1,7 @@
 # kami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kami.md)
+
 <p><span class="chinese">咯，镜子放下黑棋。</span><span class="english">Creak, Kami puts down a black.</span></p>
 
 <p><span class="chinese">卡米会死在蜂房里的。</span><span class="english">Kami will die inside the hive.</span></p>

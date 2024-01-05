@@ -1,5 +1,7 @@
 # 经受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshou.md)
+
 <p><span class="chinese">悲伤使他在精神上经受了考验。</span><span class="english">Sorrow had baptized him.</span></p>
 
 <p><span class="chinese">今天，我们在经受考验。</span><span class="english">Today, we are being tested.</span></p>

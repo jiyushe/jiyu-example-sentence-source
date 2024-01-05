@@ -1,5 +1,7 @@
 # 打探
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datan.md)
+
 <p><span class="chinese">你应该制止他到处打探的作法。</span><span class="english">You'd better stop him nosing about.</span></p>
 
 <p><span class="chinese">有时侯，聊上十分钟她们就会打探豪厄尔的婚姻情况。</span><span class="english">Sometimes they hinted at marriage after a 10-minute talk.</span></p>

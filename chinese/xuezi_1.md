@@ -1,5 +1,7 @@
 # 血渍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezi_1.md)
+
 <p><span class="chinese">我们记得斑斑的血渍。</span><span class="english">We remember a blood stain.</span></p>
 
 <p><span class="chinese">现场有一把染有血渍的斧头。</span><span class="english">A bloodstained axe was found at the scene.</span></p>

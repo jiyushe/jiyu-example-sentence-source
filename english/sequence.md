@@ -1,5 +1,7 @@
 # sequence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequence.md)
+
 <p><span class="chinese">命令的次序错误。</span><span class="english">Bad sequence of mands.</span></p>
 
 <p><span class="chinese">不按图片顺序。</span><span class="english">Non-numerical sequence.</span></p>

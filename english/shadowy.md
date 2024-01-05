@@ -1,5 +1,7 @@
 # shadowy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shadowy.md)
+
 <p><span class="chinese">煤气灯投下一片片幽暗的光。</span><span class="english">Gaslights cast a shadowy glow.</span></p>
 
 <p><span class="chinese">那有阴影的地方呢？</span><span class="english">What about that shadowy place?</span></p>

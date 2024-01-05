@@ -1,5 +1,7 @@
 # paddock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paddock.md)
+
 <p><span class="chinese">地球撞击数据库，山羊围场，2010年3月12日访问。</span><span class="english">Earth Impact Database. Goat Paddock.</span></p>
 
 <p><span class="chinese">他把马养在屋后的小围场里。</span><span class="english">He keeps horses in a paddock behind his house.</span></p>

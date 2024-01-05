@@ -1,5 +1,7 @@
 # oat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oat.md)
+
 <p><span class="chinese">无果油，面筋，大豆，燕麦或奶制品。</span><span class="english">No nut oils, gluten, soy, oat or dairy.</span></p>
 
 <p><span class="chinese">你看那落日，我还从没过比这更红的太阳呢。</span><span class="english">Look at Oat sunset I never saw one redder.</span></p>

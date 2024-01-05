@@ -1,5 +1,7 @@
 # 坟地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fendi.md)
+
 <p><span class="chinese">不过交了罚款后，这些坟地可以变成合法。</span><span class="english">However, a fine can make such burial sites legal.</span></p>
 
 <p><span class="chinese">约阿施与他列祖同睡，葬在撒玛利亚，以色列诸王的坟地里。</span><span class="english">Jeroboam rested with his fathers, the kings of Israel.</span></p>

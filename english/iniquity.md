@@ -1,5 +1,7 @@
 # iniquity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iniquity.md)
+
 <p><span class="chinese">我的舌上岂有不义吗。</span><span class="english">Is there iniquity in my tongue?</span></p>
 
 <p><span class="chinese">那家旅馆是个藏污纳垢之所。</span><span class="english">That hotel is asinkof iniquity.</span></p>

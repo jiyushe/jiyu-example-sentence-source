@@ -1,5 +1,7 @@
 # forcedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forcedly.md)
+
 <p><span class="chinese">人一死永灭，还是有来生生世？</span><span class="english">One dead Yong kills person, still have coming to forcedly of world?</span></p>
 
 <p><span class="chinese">女友经不起我死缠硬磨，默许了。</span><span class="english">Cummer is ground forcedly via removing me to tangle to death, acquiesced.</span></p>

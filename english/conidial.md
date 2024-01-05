@@ -1,5 +1,7 @@
 # conidial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conidial.md)
+
 <p><span class="chinese">介绍了冬虫夏草无性型的几种验证方法。</span><span class="english">Some kinds of identification methods of the cordyceps conidial forms were presented in this paper.</span></p>
 
 <p><span class="chinese">突脐孢属种的分类和鉴定主要依靠分生孢子的形态学。</span><span class="english">Species classification and identification in this genus has been based mostly on conidial morphology.</span></p>

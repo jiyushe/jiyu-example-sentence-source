@@ -1,5 +1,7 @@
 # immature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immature.md)
+
 <p><span class="chinese">未成熟的B细胞都在做什么呢</span><span class="english">What do immature B-cells do?</span></p>
 
 <p><span class="chinese">她是年轻和稍微发育未全的。</span><span class="english">She's young and a little bit immature.</span></p>

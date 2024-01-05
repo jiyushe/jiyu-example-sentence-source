@@ -1,5 +1,7 @@
 # bayonet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bayonet.md)
+
 <p><span class="chinese">或者鬼子的刺刀?。</span><span class="english">Or a jap bayonet?</span></p>
 
 <p><span class="chinese">这人并没有刺刀。</span><span class="english">This man had no bayonet.</span></p>

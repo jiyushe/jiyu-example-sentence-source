@@ -1,5 +1,7 @@
 # seethe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seethe.md)
+
 <p><span class="chinese">我们白天可以看见太阳。</span><span class="english">We can seethe sun in the daytime.</span></p>
 
 <p><span class="chinese">怨恨与愤怒在他的内心翻腾。</span><span class="english">Resentment and rage seethe within him.</span></p>

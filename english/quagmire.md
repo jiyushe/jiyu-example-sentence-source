@@ -1,5 +1,7 @@
 # quagmire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quagmire.md)
+
 <p><span class="chinese">正因为这样，我们还仍旧深陷伊拉克困境。</span><span class="english">This is why we're still in this quagmire in Iraq.</span></p>
 
 <p><span class="chinese">由于践踏得多了，我们把盐泽的边沿弄成一个泥沼了。</span><span class="english">By much trampling, we had made it a mere quagmire.</span></p>

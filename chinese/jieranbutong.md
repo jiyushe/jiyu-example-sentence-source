@@ -1,5 +1,7 @@
 # 截然不同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieranbutong.md)
+
 <p><span class="chinese">但日本却截然不同。</span><span class="english">But not in Japan.</span></p>
 
 <p><span class="chinese">哈斯先生参与的另一场战争与上一次截然不同。</span><span class="english">Mr Haass’s next war was different.</span></p>

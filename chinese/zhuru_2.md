@@ -1,5 +1,7 @@
 # 诸如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuru_2.md)
+
 <p><span class="chinese">彼诸如来亦皆流泪。</span><span class="english">All Buddhas weep also.</span></p>
 
 <p><span class="chinese">我喜欢诸如茶和汽水之类的饮料。</span><span class="english">I like drinks such as tea and soda.</span></p>

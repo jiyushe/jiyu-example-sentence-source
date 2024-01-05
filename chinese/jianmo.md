@@ -1,5 +1,7 @@
 # 缄默
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianmo.md)
+
 <p><span class="chinese">斯密斯德站着，缄默不语。</span><span class="english">Smithers stood in silence.</span></p>
 
 <p><span class="chinese">有时，你又缄默不言。</span><span class="english">Sometimes you're just silent.</span></p>

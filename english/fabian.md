@@ -1,5 +1,7 @@
 # fabian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabian.md)
+
 <p><span class="chinese">费边社会方面的研究主任</span><span class="english">Research director, Fabian Society</span></p>
 
 <p><span class="chinese">费边。马克西姆斯确实成功地运用了新的“进攻性的费边战术”。</span><span class="english">Fabius Maximus did manage to use the new "Offensive Fabian Tactics".</span></p>

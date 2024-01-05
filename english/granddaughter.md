@@ -1,5 +1,7 @@
 # granddaughter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granddaughter.md)
+
 <p><span class="chinese">我是一匹小马驹。我是你的孙女。</span><span class="english">I'm a foal. I'm your granddaughter.</span></p>
 
 <p><span class="chinese">这个小女孩脸色红润。</span><span class="english">Little Red Cap, your granddaughter.</span></p>

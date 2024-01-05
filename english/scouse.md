@@ -1,5 +1,7 @@
 # scouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scouse.md)
+
 <p><span class="chinese">一个表达卡拉格浓厚的利物浦口音的笑话。</span><span class="english">A joke aimed at the defender's deep Scouse accent.</span></p>
 
 <p><span class="chinese">特别是利物浦，他们的口音被称作利物浦口音。</span><span class="english">Liverpool particularly, it's called the Scouse accent.</span></p>

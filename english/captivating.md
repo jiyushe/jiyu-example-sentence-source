@@ -1,5 +1,7 @@
 # captivating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captivating.md)
+
 <p><span class="chinese">看她的柔美的外形和迷人的眼睛！</span><span class="english">Look at her feminine form and captivating eyes!</span></p>
 
 <p><span class="chinese">魂牵梦绕的故乡，心中渴望的圣地。</span><span class="english">The captivating home is the place we are craving for.</span></p>

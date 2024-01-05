@@ -1,5 +1,7 @@
 # 时候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihou_2.md)
+
 <p><span class="chinese">今天？什么时候都可以？</span><span class="english">Today? Anytime?</span></p>
 
 <p><span class="chinese">我什么时候测试？</span><span class="english">When do I test?</span></p>

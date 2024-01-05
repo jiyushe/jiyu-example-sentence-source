@@ -1,5 +1,7 @@
 # 热症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rezheng.md)
+
 <p><span class="chinese">快速从骨痛热症恢复元气。</span><span class="english">Faster recovery from dengue infection.</span></p>
 
 <p><span class="chinese">她有我们所说的“黄热症“。</span><span class="english">She has what you call, "Yellow Fever".</span></p>

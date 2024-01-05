@@ -1,5 +1,7 @@
 # coffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coffer.md)
+
 <p><span class="chinese">这是我的小金库。</span><span class="english">It is my private coffer.</span></p>
 
 <p><span class="chinese">我喜欢这种咖啡。</span><span class="english">I like this kind of coffer.</span></p>

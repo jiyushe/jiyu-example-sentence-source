@@ -1,5 +1,7 @@
 # momentarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/momentarily.md)
+
 <p><span class="chinese">他的肚子上挨了一击，一时喘不过气来。</span><span class="english">He was momentarily winded by the blow to his stomach.</span></p>
 
 <p><span class="chinese">但须方寸随时守所守。</span><span class="english">Only want the square inch momentarily defends defends.</span></p>

@@ -1,5 +1,7 @@
 # vintner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vintner.md)
+
 <p><span class="chinese">酒商在大橡木桶中酿酒。</span><span class="english">The vintner workedthewine in big oak vats.</span></p>
 
 <p><span class="chinese">这款优福特红酒呈现着鲜亮的深宝石红色。</span><span class="english">This YE VINTNER wine shows a nice deep ruby red colour.</span></p>

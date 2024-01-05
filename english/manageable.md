@@ -1,5 +1,7 @@
 # manageable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manageable.md)
+
 <p><span class="chinese">它可以是一个可管理的疾病。</span><span class="english">It can be a manageable disease.</span></p>
 
 <p><span class="chinese">这必须由管理员管理。</span><span class="english">This must be manageable for the admin.</span></p>

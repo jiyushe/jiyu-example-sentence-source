@@ -1,5 +1,7 @@
 # many
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/many.md)
+
 <p><span class="chinese">许多人说不。</span><span class="english">Many say no.</span></p>
 
 <p><span class="chinese">多少个孩子呀？</span><span class="english">How many kids?</span></p>

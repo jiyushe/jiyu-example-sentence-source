@@ -1,5 +1,7 @@
 # 猴年马月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hounianmayue.md)
+
 <p><span class="chinese">我得这样折磨自己到猴年马月？</span><span class="english">How long must I continue to torture myself?</span></p>
 
 <p><span class="chinese">等他找到女朋友？估计得猴年马月了！</span><span class="english">When he finds a girlfriend? Good luck waiting!</span></p>

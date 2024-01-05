@@ -1,5 +1,7 @@
 # wiretap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wiretap.md)
+
 <p><span class="chinese">Susno是肃贪会窃听的目标。</span><span class="english">Susno was the target of a KPK wiretap.</span></p>
 
 <p><span class="chinese">代理人的陈述不能后盾窃听录音，他说。</span><span class="english">The agent's statements are not backed up by wiretap recordings, he said.</span></p>

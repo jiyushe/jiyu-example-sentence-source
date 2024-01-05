@@ -1,5 +1,7 @@
 # countermeasure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countermeasure.md)
+
 <p><span class="chinese">根病防治对策。</span><span class="english">Controlling countermeasure to the diseases.</span></p>
 
 <p><span class="chinese">黄鸣锋看着地图，思量着对策。</span><span class="english">Huang feng looked at the map, thought countermeasure.</span></p>

@@ -1,5 +1,7 @@
 # 中道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdao_1.md)
+
 <p><span class="chinese">米勒日巴明白中道。</span><span class="english">Milarupa understood the middle way.</span></p>
 
 <p><span class="chinese">我们需要修习中道。</span><span class="english">We need to practice the middle way.</span></p>

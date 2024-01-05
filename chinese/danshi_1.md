@@ -1,5 +1,7 @@
 # 胆识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danshi_1.md)
+
 <p><span class="chinese">拘于胆识，她犹豫不决。</span><span class="english">She hesitated as long as she dared.</span></p>
 
 <p><span class="chinese">没有胆识，难得高就。</span><span class="english">No one reaches a high position without daring.</span></p>

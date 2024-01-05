@@ -1,5 +1,7 @@
 # 洞房花烛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongfanghuazhu.md)
+
 <p><span class="chinese">洞房花烛夜你做些什么？</span><span class="english">What did you do on the wedding night?</span></p>
 
 <p><span class="chinese">在他们洞房花烛之夜，新婚妻子对她的新丈夫说，“请温柔一点，我还是个处女呢。”</span><span class="english">On their wedding night, she told her new husband, "Please be gentle, I'm still a virgin."</span></p>

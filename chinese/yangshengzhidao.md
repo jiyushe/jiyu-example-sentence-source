@@ -1,5 +1,7 @@
 # 养生之道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshengzhidao.md)
+
 <p><span class="chinese">你有美容养生之道吗？</span><span class="english">Do you have a beauty regimen?</span></p>
 
 <p><span class="chinese">养生之道，常欲小劳，但莫大疲，及强所不能耳。</span><span class="english">Knowledge, often to small, but great weakness, and strong ear.</span></p>

@@ -1,5 +1,7 @@
 # 开设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaishe.md)
+
 <p><span class="chinese">你们也开设夜茶吗？</span><span class="english">Do you have evening tea hours?</span></p>
 
 <p><span class="chinese">可能现在可以再开设。</span><span class="english">Maybe it's time to revisit that.</span></p>

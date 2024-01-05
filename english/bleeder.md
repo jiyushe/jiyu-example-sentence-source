@@ -1,5 +1,7 @@
 # bleeder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleeder.md)
+
 <p><span class="chinese">两个钢液出水口处于下分水口下端两窄侧壁处。</span><span class="english">Two molten steel outlets are positioned at two narrow side wall the lower the lower bleeder.</span></p>
 
 <p><span class="chinese">本文介绍了旋转式泄油器的设计结构、工作原理和使用情况。</span><span class="english">In this paper, structure design, working principles and application of bleeder are introduced.</span></p>

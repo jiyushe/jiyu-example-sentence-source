@@ -1,5 +1,7 @@
 # 物力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuli_6.md)
+
 <p><span class="chinese">那里的干旱正在耗尽财力物力。</span><span class="english">Thee drought there is stretching resources.</span></p>
 
 <p><span class="chinese">这显然是人浮于事、浪费物力以及效率低下。</span><span class="english">It's clear redundancy wastefulness and inefficiency.</span></p>

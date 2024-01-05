@@ -1,5 +1,7 @@
 # ito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ito.md)
+
 <p><span class="chinese">伊藤在这里赚钱。</span><span class="english">Here ito earn money.</span></p>
 
 <p><span class="chinese">上帝的静默使人的思想成熟为语言。</span><span class="english">God's silence ripens man's thoughts ito speech.</span></p>

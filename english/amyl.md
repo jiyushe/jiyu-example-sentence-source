@@ -1,5 +1,7 @@
 # amyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amyl.md)
+
 <p><span class="chinese">乙酸甲基戊酯。</span><span class="english">Acetic acid methyl amyl ester.</span></p>
 
 <p><span class="chinese">该方法也适合于合成尼泊金戊酯。</span><span class="english">The method was also propitious to synthesize amyl p -hydroxybenzoate.</span></p>

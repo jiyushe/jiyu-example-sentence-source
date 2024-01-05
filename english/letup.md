@@ -1,5 +1,7 @@
 # letup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letup.md)
+
 <p><span class="chinese">我希望他们的妈妈对孩子们宽大一些。</span><span class="english">I wish their mother would letup on the children.</span></p>
 
 <p><span class="chinese">我连续不断地工作了十多个小时了。</span><span class="english">I've been working more than ten hours without a letup.</span></p>

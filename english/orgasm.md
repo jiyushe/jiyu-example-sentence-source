@@ -1,5 +1,7 @@
 # orgasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orgasm.md)
+
 <p><span class="chinese">但这是否真是一次高潮呢？</span><span class="english">But is this really an orgasm?</span></p>
 
 <p><span class="chinese">突然，我再一次高潮了。</span><span class="english">Suddenly, I had another orgasm.</span></p>

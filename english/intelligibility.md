@@ -1,5 +1,7 @@
 # intelligibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligibility.md)
+
 <p><span class="chinese">该模型简洁紧凑，可理解性好。</span><span class="english">This model is simple, compact and good intelligibility.</span></p>
 
 <p><span class="chinese">信号中断了，因此不存在清晰度。</span><span class="english">The signal breaks up, hence there is no intelligibility.</span></p>

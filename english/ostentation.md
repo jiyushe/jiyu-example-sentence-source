@@ -1,5 +1,7 @@
 # ostentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostentation.md)
+
 <p><span class="chinese">翻译他反对奢侈摆阔。</span><span class="english">He objected on principle to luxury and ostentation.</span></p>
 
 <p><span class="chinese">“炫学者”，不合季节卖弄学问的人。</span><span class="english">Pedantry is the unseasonable ostentation of learning.</span></p>

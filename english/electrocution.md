@@ -1,5 +1,7 @@
 # electrocution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrocution.md)
+
 <p><span class="chinese">起初，据说，她因触电死亡。</span><span class="english">First, it was said that she had died from electrocution.</span></p>
 
 <p><span class="chinese">我们实施的是仁慈的电刑和注射死亡。</span><span class="english">We give compassionate electrocution and compassionate lethal injection.</span></p>

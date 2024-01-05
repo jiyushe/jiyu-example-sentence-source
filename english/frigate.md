@@ -1,5 +1,7 @@
 # frigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frigate.md)
+
 <p><span class="chinese">被帆船或是商船遇见。</span><span class="english">By frigate or by merchantman.</span></p>
 
 <p><span class="chinese">有一艘护航舰被鱼雷击中。</span><span class="english">A frigate was struck by a torpedo.</span></p>

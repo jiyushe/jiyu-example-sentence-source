@@ -1,5 +1,7 @@
 # exciton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exciton.md)
+
 <p><span class="chinese">激子结合能随势垒层厚度LAlGaN的变化。</span><span class="english">Exciton binding energy as afunction of barrier thicknessLAlGaN.</span></p>
 
 <p><span class="chinese">并使激子吸收峰从红外波段进入可见光波段。</span><span class="english">And it makes the absorption peak of the exciton move to higher energy.</span></p>

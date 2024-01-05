@@ -1,5 +1,7 @@
 # godson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godson.md)
+
 <p><span class="chinese">他是一个好教子。</span><span class="english">He is a good godson.</span></p>
 
 <p><span class="chinese">他在肩膀上轻拍着他的教子。</span><span class="english">He patted his godson on the shoulder.</span></p>

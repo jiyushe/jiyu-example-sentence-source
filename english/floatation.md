@@ -1,5 +1,7 @@
 # floatation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floatation.md)
+
 <p><span class="chinese">研究混合原生锰矿的浮选工艺。</span><span class="english">The floatation process for the mixed primary ore is investigated.</span></p>
 
 <p><span class="chinese">气泡发生器是微泡浮选的关键。</span><span class="english">The bubble generator is the key equipment of microbubble floatation.</span></p>

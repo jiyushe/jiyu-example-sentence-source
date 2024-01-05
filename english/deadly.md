@@ -1,5 +1,7 @@
 # deadly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadly.md)
+
 <p><span class="chinese">致命的海洋。</span><span class="english">The deadly ocean.</span></p>
 
 <p><span class="chinese">这是顶大的错误。</span><span class="english">This is a deadly fault.</span></p>

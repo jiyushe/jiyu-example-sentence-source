@@ -1,5 +1,7 @@
 # 杳无音讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowuyinxun.md)
+
 <p><span class="chinese">事实上，几个月来他都杳无音讯。</span><span class="english">In fact, I had not seen hide nor hair of him in months.</span></p>
 
 <p><span class="chinese">几年过去了，关于他的情况仍杳无音讯。</span><span class="english">The years rolled by and still there was no news whatsoever about him.</span></p>

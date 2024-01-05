@@ -1,5 +1,7 @@
 # encephalon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encephalon.md)
+
 <p><span class="chinese">回顾分析其脑部MRI表现。</span><span class="english">Patients' MRI of encephalon was retrospectively analyzed.</span></p>
 
 <p><span class="chinese">目的分析腔隙性脑梗塞在临床中的表现。</span><span class="english">Objective We analysis the clinical significance of lacuna encephalon infarction.</span></p>

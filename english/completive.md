@@ -1,5 +1,7 @@
 # completive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/completive.md)
+
 <p><span class="chinese">新教学楼落成。</span><span class="english">The new teaching building is completive.</span></p>
 
 <p><span class="chinese">文章给出了算法的完整步骤。</span><span class="english">A completive algorithm is presented to implement this idea.</span></p>

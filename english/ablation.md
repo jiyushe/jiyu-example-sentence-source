@@ -1,5 +1,7 @@
 # ablation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ablation.md)
+
 <p><span class="chinese">他在用切除工具去除肿瘤。</span><span class="english">He is using an ablation tool to removing tumors.</span></p>
 
 <p><span class="chinese">冷消融是一种肿瘤原位消融疗法。</span><span class="english">Cryoablation is a method of in situ tumor ablation.</span></p>

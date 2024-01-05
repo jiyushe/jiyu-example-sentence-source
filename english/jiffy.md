@@ -1,5 +1,7 @@
 # jiffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiffy.md)
+
 <p><span class="chinese">我一会儿就准备好。</span><span class="english">I'll come in a jiffy.</span></p>
 
 <p><span class="chinese">我马上去做。</span><span class="english">I'll do it in a jiffy.</span></p>

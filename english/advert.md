@@ -1,5 +1,7 @@
 # advert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advert.md)
+
 <p><span class="chinese">谢谢观看我的广告。</span><span class="english">Thanks for viewing my advert.</span></p>
 
 <p><span class="chinese">但他的老板并未注意到。</span><span class="english">But his boss would not advert.</span></p>

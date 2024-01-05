@@ -1,5 +1,7 @@
 # capitulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitulate.md)
+
 <p><span class="chinese">我们永远不会屈服于外界的压力。</span><span class="english">We will never capitulate to pressure from outside.</span></p>
 
 <p><span class="chinese">就是说决定投降日本帝国主义。</span><span class="english">It signifies a decision to capitulate to Japanese imperialism.</span></p>

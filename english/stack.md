@@ -1,5 +1,7 @@
 # stack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stack.md)
+
 <p><span class="chinese">堆栈，堆栈。</span><span class="english">Stack. Stack.</span></p>
 
 <p><span class="chinese">把它们堆起来！</span><span class="english">Stack them up!</span></p>

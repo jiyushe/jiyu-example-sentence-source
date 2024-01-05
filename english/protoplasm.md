@@ -1,5 +1,7 @@
 # protoplasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protoplasm.md)
+
 <p><span class="chinese">常发生在配子间或原生质间。</span><span class="english">It usually occurs between gametes or protoplasm.</span></p>
 
 <p><span class="chinese">每个细胞都具有核，细胞核位于原生质中。</span><span class="english">Each cell possesses a nucleus imbedded in protoplasm.</span></p>

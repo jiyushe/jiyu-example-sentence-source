@@ -1,5 +1,7 @@
 # fry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fry.md)
+
 <p><span class="chinese">你会煎鱼吗？</span><span class="english">Can you fry fish?</span></p>
 
 <p><span class="chinese">他们只不过是无名小贾。</span><span class="english">They are but small fry.</span></p>

@@ -1,5 +1,7 @@
 # 非法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifa.md)
+
 <p><span class="chinese">这回扣是非法的。</span><span class="english">This kickback is illegal.</span></p>
 
 <p><span class="chinese">他以非法手段弄钱。</span><span class="english">He got the money illegally.</span></p>

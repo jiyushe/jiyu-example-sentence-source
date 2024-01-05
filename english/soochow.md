@@ -1,5 +1,7 @@
 # soochow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soochow.md)
+
 <p><span class="chinese">我已经在东吴大学上课了。</span><span class="english">I've started classes at Soochow University.</span></p>
 
 <p><span class="chinese">我从苏州给她带来一件美妙的礼物。</span><span class="english">I brought her a very nice present from Soochow.</span></p>

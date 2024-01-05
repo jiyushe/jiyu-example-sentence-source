@@ -1,5 +1,7 @@
 # 风貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmao_1.md)
+
 <p><span class="chinese">好了，看过了惠远古城的风貌之后呢。</span><span class="english">Well, after a brief look at this ancient city.</span></p>
 
 <p><span class="chinese">日本人民也展示了热情好客的风貌。</span><span class="english">In the hospitality shown by the Japanese people.</span></p>

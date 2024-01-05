@@ -1,5 +1,7 @@
 # sobriquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sobriquet.md)
+
 <p><span class="chinese">球队得到一个新绰号“监狱者”。</span><span class="english">The team acquired the sobriquet Jail Blazers.</span></p>
 
 <p><span class="chinese">是榨面的上品，出产很少。</span><span class="english">Pressing face is the sobriquet produced little.</span></p>

@@ -1,5 +1,7 @@
 # 打烊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayang_2.md)
+
 <p><span class="chinese">最后，打烊的时间到了。</span><span class="english">At last closing time arrived.</span></p>
 
 <p><span class="chinese">在打烊之前我会来的。</span><span class="english">I'll come before the closing time.</span></p>

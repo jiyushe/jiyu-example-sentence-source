@@ -1,5 +1,7 @@
 # 指挥员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihuiyuan.md)
+
 <p><span class="chinese">指挥员派一支侦察队到前面去。</span><span class="english">The commander sent a company forward.</span></p>
 
 <p><span class="chinese">本军全体指挥员、战斗员同志们！</span><span class="english">All comrade commanders and fighters of our army!</span></p>

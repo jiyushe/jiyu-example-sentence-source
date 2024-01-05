@@ -1,5 +1,7 @@
 # cabin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabin.md)
+
 <p><span class="chinese">我们的舱位在船的中腰。</span><span class="english">Our cabin is amidships.</span></p>
 
 <p><span class="chinese">那是一个宝刹的一个小木屋。</span><span class="english">B cabin that's a temple.</span></p>

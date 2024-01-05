@@ -1,5 +1,7 @@
 # 看待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kandai.md)
+
 <p><span class="chinese">朋友们如何看待你？</span><span class="english">How do friends see you?</span></p>
 
 <p><span class="chinese">那您是如何看待它呢？</span><span class="english">And how do you see that?</span></p>

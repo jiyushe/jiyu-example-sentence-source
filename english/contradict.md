@@ -1,5 +1,7 @@
 # contradict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contradict.md)
+
 <p><span class="chinese">不要自相矛盾。</span><span class="english">Do not contradict yourself.</span></p>
 
 <p><span class="chinese">这个害羞的女孩不敢提出反驳意见。</span><span class="english">The shy girl was afraid to contradict.</span></p>

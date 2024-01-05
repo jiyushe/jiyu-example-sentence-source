@@ -1,5 +1,7 @@
 # 标题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoti.md)
+
 <p><span class="chinese">添加标题。</span><span class="english">Add headings.</span></p>
 
 <p><span class="chinese">标题很愚蠢。</span><span class="english">Foolish headline.</span></p>

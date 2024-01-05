@@ -1,5 +1,7 @@
 # 扩音器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuoyinqi.md)
+
 <p><span class="chinese">不需要有听筒喇叭扩音器。</span><span class="english">Not with the handset speakerphone.</span></p>
 
 <p><span class="chinese">你们要横幅和扩音器吗？</span><span class="english">Would you like a streamer and amplifier?</span></p>

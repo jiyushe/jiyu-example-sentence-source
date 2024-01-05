@@ -1,5 +1,7 @@
 # haydn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haydn.md)
+
 <p><span class="chinese">海顿于1781年遇见了莫扎特，他给海顿留下了深刻的印象。</span><span class="english">Haydn met Mozart in 1781 and was impressed with him.</span></p>
 
 <p><span class="chinese">海顿在1781年与莫扎特相遇，并对他留下了的印象。</span><span class="english">Haydn met Mozart in 1781 and was very impressed with him.</span></p>

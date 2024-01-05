@@ -1,5 +1,7 @@
 # downwash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downwash.md)
+
 <p><span class="chinese">其次研究了这种变化对空中攻击精度的影响。</span><span class="english">Secondly, the precision influence of missile air attack on downwash flow is discussed.</span></p>
 
 <p><span class="chinese">最后，计算结果展示了旋翼下洗速度在火箭轨道上的分布，并作了简要分析。</span><span class="english">Finally the rotor downwash velocity distribution along rocket trajectory is found with brief analysis.</span></p>

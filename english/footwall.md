@@ -1,5 +1,7 @@
 # footwall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footwall.md)
+
 <p><span class="chinese">具有直立断层面的断层既无上盘，也无下盘。</span><span class="english">A vertical fault has neither a footwall nor a hanging wall.</span></p>
 
 <p><span class="chinese">下盘地质动衰减关系的统计结果。</span><span class="english">The results show the great difference between the upper wall and footwall.</span></p>

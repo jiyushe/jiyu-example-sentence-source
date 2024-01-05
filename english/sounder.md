@@ -1,5 +1,7 @@
 # sounder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sounder.md)
+
 <p><span class="chinese">这么一来你可以睡得更酣些了。</span><span class="english">You'll sleep the sounder for it.</span></p>
 
 <p><span class="chinese">星载微波探测仪是嫦娥一号卫星有效载荷之一。</span><span class="english">Microwave Sounder is one of the main payloads of ChangE-1 lunar satellite.</span></p>

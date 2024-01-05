@@ -1,5 +1,7 @@
 # 倚仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhang_1.md)
+
 <p><span class="chinese">回头是岸，全靠他重生，倚仗全圣万能的君主。</span><span class="english">Turns to the thing, He was born to be, A master to the king.</span></p>
 
 <p><span class="chinese">倚仗自己财物的、必跌倒．义人必发旺如青叶。</span><span class="english">Whoever trusts in his riches will fall, but the righteous will thrive like a green leaf.</span></p>

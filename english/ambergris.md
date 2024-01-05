@@ -1,5 +1,7 @@
 # ambergris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambergris.md)
+
 <p><span class="chinese">你可以在我的书桌上找到配方和一些龙涎香。</span><span class="english">You should find the recipe and some ambergris on my desk.</span></p>
 
 <p><span class="chinese">龙涎香是抹香鲸肠内的结石。</span><span class="english">Ambergris is the concretion in the intestine of the sperm-whale.</span></p>

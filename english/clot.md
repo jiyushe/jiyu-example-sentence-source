@@ -1,5 +1,7 @@
 # clot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clot.md)
+
 <p><span class="chinese">血友病患者的耀液琵固不录。</span><span class="english">A haemophiliac's blood not clot properly.</span></p>
 
 <p><span class="chinese">1998年克林顿夫人的腿部就出现过血凝块。</span><span class="english">Mrs. Clinton suffered a blood clot in her leg in 1998.</span></p>

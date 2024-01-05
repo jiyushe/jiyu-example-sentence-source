@@ -1,5 +1,7 @@
 # geophysics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geophysics.md)
+
 <p><span class="chinese">谁的姐妹学地球物理?。</span><span class="english">Whose sister studys geophysics?</span></p>
 
 <p><span class="chinese">地球物理令世界去轮。</span><span class="english">Geophysics makes the world go round.</span></p>

@@ -1,5 +1,7 @@
 # michigan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/michigan.md)
+
 <p><span class="chinese">他在密西根醒来。</span><span class="english">And he wakes up in Michigan.</span></p>
 
 <p><span class="chinese">我在密西根做什么？</span><span class="english">What am I doing in Michigan?</span></p>

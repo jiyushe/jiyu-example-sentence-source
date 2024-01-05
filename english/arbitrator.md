@@ -1,5 +1,7 @@
 # arbitrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitrator.md)
+
 <p><span class="chinese">只用一名仲裁员仲裁。</span><span class="english">There shall only be one arbitrator.</span></p>
 
 <p><span class="chinese">他们决定找一个仲裁人</span><span class="english">They decide to call in an arbitrator.</span></p>

@@ -1,5 +1,7 @@
 # 选民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanmin.md)
+
 <p><span class="chinese">选民们皱起了眉头。</span><span class="english">Voters frowned.</span></p>
 
 <p><span class="chinese">局中人就是选民</span><span class="english">The players are the voters.</span></p>

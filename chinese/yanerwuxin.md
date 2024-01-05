@@ -1,5 +1,7 @@
 # 言而无信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanerwuxin.md)
+
 <p><span class="chinese">如果你要人帮助你，就不可言而无信。</span><span class="english">Don't break your word if you want help.</span></p>
 
 <p><span class="chinese">如果政府言而无信那还有什么用？</span><span class="english">What is government if words have no meaning?</span></p>

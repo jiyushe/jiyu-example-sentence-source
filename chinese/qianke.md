@@ -1,5 +1,7 @@
 # 千克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianke.md)
+
 <p><span class="chinese">质量的单位是千克</span><span class="english">Mass is measured in kilograms.</span></p>
 
 <p><span class="chinese">每千克溶剂的溶质摩尔数。</span><span class="english">Moles per kilograms of solvent.</span></p>

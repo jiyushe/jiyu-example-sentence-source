@@ -1,5 +1,7 @@
 # playboy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playboy.md)
+
 <p><span class="chinese">你真是个花心大萝卜。</span><span class="english">You are a playboy.</span></p>
 
 <p><span class="chinese">你个欢心大萝卜。你最喜欢哪一个啊？</span><span class="english">You are playboy. Which girl did you like best?</span></p>

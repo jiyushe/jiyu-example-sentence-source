@@ -1,5 +1,7 @@
 # 黏膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianmo_3.md)
+
 <p><span class="chinese">黏膜肌层薄且不连续。</span><span class="english">It has thin lamina propria and no glands.</span></p>
 
 <p><span class="chinese">假手术组肠黏膜上皮细胞紧密连接完整，细胞间隙无示踪剂沉着。</span><span class="english">There were no trace in the gut cell gap in SO group.</span></p>

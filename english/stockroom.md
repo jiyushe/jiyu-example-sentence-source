@@ -1,5 +1,7 @@
 # stockroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockroom.md)
+
 <p><span class="chinese">——你不会有仓库吗?。</span><span class="english">You don't have a stockroom?</span></p>
 
 <p><span class="chinese">让我到仓库找找。</span><span class="english">let me look at the stockroom.</span></p>

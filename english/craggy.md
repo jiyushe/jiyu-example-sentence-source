@@ -1,5 +1,7 @@
 # craggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craggy.md)
+
 <p><span class="chinese">在这雄伟粗犷的太行山中。</span><span class="english">In the craggy Taihang Mountains.</span></p>
 
 <p><span class="chinese">还是峻峭高山，那全部出产。</span><span class="english">And all the craggy mountains yield.</span></p>

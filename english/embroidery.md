@@ -1,5 +1,7 @@
 # embroidery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embroidery.md)
+
 <p><span class="chinese">我对刺绣产生了兴趣。</span><span class="english">I'm into the embroidery.</span></p>
 
 <p><span class="chinese">海珠区绣花QQ群？</span><span class="english">District embroidery QQ group?</span></p>

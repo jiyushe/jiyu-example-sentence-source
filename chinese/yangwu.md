@@ -1,5 +1,7 @@
 # 洋务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangwu.md)
+
 <p><span class="chinese">郭嵩焘是近代中国著名的洋务思想家和外交官。</span><span class="english">Guo Songtao was a famous theoretician of foreign things in china.</span></p>
 
 <p><span class="chinese">洋务企业是近代中国早期工业化的产物。</span><span class="english">Yangwu enterprises were the outcome of early Chinese industrialization.</span></p>

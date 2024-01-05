@@ -1,5 +1,7 @@
 # catania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catania.md)
+
 <p><span class="chinese">米兰和卡坦尼亚都没有停赛球员。</span><span class="english">Neither Milan nor Catania have any disqualified players.</span></p>
 
 <p><span class="chinese">在卡塔尼亚发生的事情和足球毫无关系。</span><span class="english">What happened in Catania has nothing to do with football.</span></p>

@@ -1,5 +1,7 @@
 # microchannel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microchannel.md)
+
 <p><span class="chinese">微通道是从原来的公共汽车的完全的消遣。</span><span class="english">MicroChannel is a complete diversion from the original bus.</span></p>
 
 <p><span class="chinese">然后对槽道内两相摩擦压降进行了实验研究和对比。</span><span class="english">The size of microchannel had a great impact on two-phase friction pressure drop.</span></p>

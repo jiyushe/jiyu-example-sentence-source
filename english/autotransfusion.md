@@ -1,5 +1,7 @@
 # autotransfusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autotransfusion.md)
+
 <p><span class="chinese">对照组13例，不接受自体血细胞洗涤回输。</span><span class="english">Group II consists of 13 patients, served as control without receiving autotransfusion.</span></p>
 
 <p><span class="chinese">术中运用自体血回输可以减少输血量，有效地保障手术顺利完成。</span><span class="english">The procedure will be more smoothly by the application of the intraoperative autotransfusion.</span></p>

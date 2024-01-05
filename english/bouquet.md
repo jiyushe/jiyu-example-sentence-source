@@ -1,5 +1,7 @@
 # bouquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bouquet.md)
+
 <p><span class="chinese">这束红玫瑰是你送给她的吗？</span><span class="english">Is this bouquet of Rose for her?</span></p>
 
 <p><span class="chinese">葡萄酒中酒香和果香的统称。</span><span class="english">The bouquet and aroma of a wine.</span></p>

@@ -1,5 +1,7 @@
 # witching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witching.md)
+
 <p><span class="chinese">现在这个神秘的时刻正要到来。</span><span class="english">And now the witching hour is upon us.</span></p>
 
 <p><span class="chinese">此刻我拥有大地。施展巫术的时辰。</span><span class="english">Now I own the earth The witching hour.</span></p>

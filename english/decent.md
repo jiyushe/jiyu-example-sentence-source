@@ -1,5 +1,7 @@
 # decent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decent.md)
+
 <p><span class="chinese">买个还过得去的相机。</span><span class="english">Use a decent camera.</span></p>
 
 <p><span class="chinese">他是个很规矩的人。</span><span class="english">He is quite a decent fellow.</span></p>

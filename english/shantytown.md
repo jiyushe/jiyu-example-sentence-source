@@ -1,5 +1,7 @@
 # shantytown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shantytown.md)
+
 <p><span class="chinese">关于棚户区改造项目。</span><span class="english">Regarding shantytown reconstruction projects.</span></p>
 
 <p><span class="chinese">达拉维就像是一个肮脏的、蔓延的棚户区。</span><span class="english">Dharavi appears like a filthy, sprawling shantytown.</span></p>

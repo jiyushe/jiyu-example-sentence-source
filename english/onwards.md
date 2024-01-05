@@ -1,5 +1,7 @@
 # onwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onwards.md)
+
 <p><span class="chinese">从1916年开始，内战就在破坏着这个国家。</span><span class="english">Civilwars wracked the country from 1916 onwards.</span></p>
 
 <p><span class="chinese">在你迈步前进时把你挽回来。</span><span class="english">As thou goest onwards still will pluck thee back.</span></p>

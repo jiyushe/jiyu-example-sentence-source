@@ -1,5 +1,7 @@
 # beaufort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaufort.md)
+
 <p><span class="chinese">西冬风，威严力6级。</span><span class="english">Wind Northeast force Beaufort 6.</span></p>
 
 <p><span class="chinese">不过一想到博福特，他又变得心烦意乱。</span><span class="english">But the idea of Beaufort gnawed him.</span></p>

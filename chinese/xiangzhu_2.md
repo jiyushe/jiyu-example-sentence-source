@@ -1,5 +1,7 @@
 # 香烛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhu_2.md)
+
 <p><span class="chinese">那妇人跟着回头对着香烛。</span><span class="english">The woman turned back to her incense.</span></p>
 
 <p><span class="chinese">点燃香烛或者焚香。</span><span class="english">Light an aromatherapy candle or incense.</span></p>

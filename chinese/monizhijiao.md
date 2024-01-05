@@ -1,5 +1,7 @@
 # 莫逆之交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/monizhijiao.md)
+
 <p><span class="chinese">猜疑伤害莫逆之交。</span><span class="english">Suspicion is the poison of true friendship.</span></p>
 
 <p><span class="chinese">良多年前，我有一个配头，咱们莫逆之交。</span><span class="english">Many years ago I had a friend, a dear friend.</span></p>

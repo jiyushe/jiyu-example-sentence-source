@@ -1,5 +1,7 @@
 # 胸痹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongbi.md)
+
 <p><span class="chinese">冠心病心绞痛属中医学“胸痹”、“心痛”范畴。</span><span class="english">Angina pectoris belongs to the"chest pain"or"heartache"category in TCM.</span></p>
 
 <p><span class="chinese">胸痹相当于现代医学的冠心病、心绞痛。</span><span class="english">Chest pain syndrome is the same as the coronary heart disease and angina.</span></p>

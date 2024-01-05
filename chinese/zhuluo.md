@@ -1,5 +1,7 @@
 # 猪猡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuluo.md)
+
 <p><span class="chinese">你猪猡！</span><span class="english">You pig!</span></p>
 
 <p><span class="chinese">这就像往猪猡身上洒香水。</span><span class="english">It's like putting perfume on a pig.</span></p>

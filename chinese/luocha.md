@@ -1,5 +1,7 @@
 # 落差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luocha.md)
+
 <p><span class="chinese">一条壮观的瀑布，落差50米。</span><span class="english">A beautiful 50-meter waterfall.</span></p>
 
 <p><span class="chinese">户县农民画的沉浮变迁映现了时代的巨大落差。</span><span class="english">The history of the painting reflects a huge drop of times.</span></p>

@@ -1,5 +1,7 @@
 # nis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nis.md)
+
 <p><span class="chinese">安是我的朋友。</span><span class="english">Ann nis my friend.</span></p>
 
 <p><span class="chinese">安是我其中一个朋友。</span><span class="english">Ann nis one of my friends.</span></p>

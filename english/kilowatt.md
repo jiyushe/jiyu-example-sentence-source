@@ -1,5 +1,7 @@
 # kilowatt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilowatt.md)
+
 <p><span class="chinese">太平洋的太阳能则为6.92千瓦时。</span><span class="english">The patch in the Pacific got 6.92 kilowatt hours.</span></p>
 
 <p><span class="chinese">不过，基于每千瓦成本对这些可选方案进行比较具有迷惑性。</span><span class="english">But comparing alternatives on a cost per kilowatt basis is deceptive.</span></p>

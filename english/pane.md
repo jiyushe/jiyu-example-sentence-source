@@ -1,5 +1,7 @@
 # pane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pane.md)
+
 <p><span class="chinese">他往玻璃窗上哈气。</span><span class="english">He blew on the window pane.</span></p>
 
 <p><span class="chinese">窗上玻璃被这小孩打碎了。</span><span class="english">The window pane was broken by the child.</span></p>

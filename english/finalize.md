@@ -1,5 +1,7 @@
 # finalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finalize.md)
+
 <p><span class="chinese">我需要把这个提议定案。</span><span class="english">I have to finalize this proposal.</span></p>
 
 <p><span class="chinese">之后白耀祖又说服了单纯的拉拉，做成一笔交易。</span><span class="english">After Bai Yaozu persuaded pure lala, finalize a deal.</span></p>

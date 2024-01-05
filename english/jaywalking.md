@@ -1,5 +1,7 @@
 # jaywalking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaywalking.md)
+
 <p><span class="chinese">我不认为随意横穿马路是允许的。</span><span class="english">I don't think jaywalking is allowed.</span></p>
 
 <p><span class="chinese">你看见那些孩子横穿马路了吗？</span><span class="english">Do you see those children jaywalking?</span></p>

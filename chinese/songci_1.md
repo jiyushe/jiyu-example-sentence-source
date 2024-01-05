@@ -1,5 +1,7 @@
 # 颂词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songci_1.md)
+
 <p><span class="chinese">他向此英雄致颂词。</span><span class="english">He pronounced a eulogy upon the hero.</span></p>
 
 <p><span class="chinese">他的一些朋友致了颂词。</span><span class="english">Some of his friends delivered an eulogy.</span></p>

@@ -1,5 +1,7 @@
 # 根深蒂固
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genshendigu.md)
+
 <p><span class="chinese">这种思想根深蒂固。</span><span class="english">The idea took strong root.</span></p>
 
 <p><span class="chinese">盗版问题是根深蒂固的。</span><span class="english">The problem is deep-rooted.</span></p>

@@ -1,5 +1,7 @@
 # awful 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awful.md)
+
 <p><span class="chinese">一个可怕的人？</span><span class="english">An awful person?</span></p>
 
 <p><span class="chinese">但是味道很难闻。</span><span class="english">But it smells awful.</span></p>

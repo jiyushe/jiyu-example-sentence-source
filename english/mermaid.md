@@ -1,5 +1,7 @@
 # mermaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mermaid.md)
+
 <p><span class="chinese">但是美人鱼却摇了摇头。</span><span class="english">But the Mermaid shook her head.</span></p>
 
 <p><span class="chinese">辛巴达与美人鱼公主。</span><span class="english">Sinbad. and. Mermaid. Princess.</span></p>

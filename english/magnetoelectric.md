@@ -1,5 +1,7 @@
 # magnetoelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetoelectric.md)
+
 <p><span class="chinese">介绍一种新型永磁风力发电机。</span><span class="english">In the paper a new magnetoelectric aerogenerator is introduced.</span></p>
 
 <p><span class="chinese">无触点磁电机的开关速度比触点磁电机的快，改善了燃料的燃烧情况。</span><span class="english">The switch speed of a non tip magnetoelectric machine is faster than that of a tip one.</span></p>

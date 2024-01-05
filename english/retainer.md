@@ -1,5 +1,7 @@
 # retainer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retainer.md)
+
 <p><span class="chinese">向下拔出固定板。</span><span class="english">Pull out retainer plate downwards.</span></p>
 
 <p><span class="chinese">从阀体镗孔内拆卸固定器。</span><span class="english">Remove the retainer from the body bore.</span></p>

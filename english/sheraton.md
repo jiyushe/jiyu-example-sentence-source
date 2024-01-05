@@ -1,5 +1,7 @@
 # sheraton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheraton.md)
+
 <p><span class="chinese">关于谢拉顿酒店你了解多少？</span><span class="english">What do you know about Sheraton Hotel?</span></p>
 
 <p><span class="chinese">滨海路上的阿拉伯人及背景中的喜来登大酒店。</span><span class="english">Arabs at the Corniche with Sheraton Hotel behind.</span></p>

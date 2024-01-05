@@ -1,5 +1,7 @@
 # 沁人心脾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinrenxinpi.md)
+
 <p><span class="chinese">怎样做沁人心脾的意大利冰</span><span class="english">How to make refreshing Italian ice</span></p>
 
 <p><span class="chinese">一杯清茶，散发出沁人心脾的清香。</span><span class="english">A cup of tea, emitting a refreshing scent.</span></p>

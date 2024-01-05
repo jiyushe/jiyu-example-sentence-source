@@ -1,5 +1,7 @@
 # simmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simmer.md)
+
 <p><span class="chinese">让肉汤熬成浓汁吧。</span><span class="english">Let the soup simmer.</span></p>
 
 <p><span class="chinese">汤放在火上慢慢煮。</span><span class="english">The soup am left to simmer.</span></p>

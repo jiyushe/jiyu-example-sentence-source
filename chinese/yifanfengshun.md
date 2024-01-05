@@ -1,5 +1,7 @@
 # 一帆风顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifanfengshun.md)
+
 <p><span class="chinese">进展将不会一帆风顺。</span><span class="english">Progress will not be easy.</span></p>
 
 <p><span class="chinese">但这个转变并非一帆风顺。</span><span class="english">That turnabout was not easy.</span></p>

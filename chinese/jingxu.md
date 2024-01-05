@@ -1,5 +1,7 @@
 # 鲸须
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxu.md)
+
 <p><span class="chinese">从鲸须以腹腔镜。</span><span class="english">From whalebone to laparoscope.</span></p>
 
 <p><span class="chinese">大型鲸须鲸是最受关注的物种。</span><span class="english">Large baleen whales are of special concern.</span></p>

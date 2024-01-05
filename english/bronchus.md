@@ -1,5 +1,7 @@
 # bronchus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchus.md)
+
 <p><span class="chinese">肺支气管灌流法进行试验。</span><span class="english">Lung and bronchus pouring methods were adopted.</span></p>
 
 <p><span class="chinese">一个集中点是在空气管和支气管分歧。</span><span class="english">One point of concentration is where the air tube and bronchus divides.</span></p>

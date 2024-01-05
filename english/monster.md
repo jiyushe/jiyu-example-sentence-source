@@ -1,5 +1,7 @@
 # monster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monster.md)
+
 <p><span class="chinese">拥抱怪物吧。</span><span class="english">Hug the monster.</span></p>
 
 <p><span class="chinese">这是一项艰钜的任务。</span><span class="english">It's a monster job.</span></p>

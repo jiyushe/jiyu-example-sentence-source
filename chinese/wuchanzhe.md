@@ -1,5 +1,7 @@
 # 无产者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchanzhe.md)
+
 <p><span class="chinese">未来属于无产者。</span><span class="english">The future belonged to the proles.</span></p>
 
 <p><span class="chinese">如果有希望，希望在无产者中间！</span><span class="english">If there was hope, it lay in the proles!</span></p>

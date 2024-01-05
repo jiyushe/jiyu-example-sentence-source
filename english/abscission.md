@@ -1,5 +1,7 @@
 # abscission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abscission.md)
+
 <p><span class="chinese">在脱落过程中生长素与脱落酸有拮抗作用。</span><span class="english">It is antagonistic to abscisic acid in abscission.</span></p>
 
 <p><span class="chinese">植物器官脱落是自然界普遍的现象。</span><span class="english">An abscission zone occurs at the base of the organ.</span></p>

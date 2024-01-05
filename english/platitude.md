@@ -1,5 +1,7 @@
 # platitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platitude.md)
+
 <p><span class="chinese">无非是老生常谈。</span><span class="english">It's no more than a platitude.</span></p>
 
 <p><span class="chinese">我是这种老生常谈的冠军。</span><span class="english">I am the champion of the platitude.</span></p>

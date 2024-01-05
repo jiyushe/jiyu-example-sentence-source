@@ -1,5 +1,7 @@
 # persevere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persevere.md)
+
 <p><span class="chinese">任前方荆棘丛生我们将持之以恒。</span><span class="english">As we will persevere in front of thorns.</span></p>
 
 <p><span class="chinese">你没有打过仗，是吗?。</span><span class="english">They are determined to persevere in the fight.</span></p>

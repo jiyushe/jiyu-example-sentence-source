@@ -1,5 +1,7 @@
 # 病假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjia_1.md)
+
 <p><span class="chinese">玛丽今天早上打电话来告病假。</span><span class="english">Mary called in sick this morning.</span></p>
 
 <p><span class="chinese">玛丽此日早上打电话来告病假。</span><span class="english">Mary cingled in sick this morning.</span></p>

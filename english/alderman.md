@@ -1,5 +1,7 @@
 # alderman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alderman.md)
+
 <p><span class="chinese">埃德尔曼博士对此表示异议。</span><span class="english">Dr. Alderman disagrees.</span></p>
 
 <p><span class="chinese">高级市政官在市议会主持事务。</span><span class="english">Alderman sat in municipal councils.</span></p>

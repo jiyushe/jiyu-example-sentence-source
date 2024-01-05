@@ -1,5 +1,7 @@
 # mouse 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouse.md)
+
 <p><span class="chinese">那是一只老鼠。</span><span class="english">That's a mouse.</span></p>
 
 <p><span class="chinese">他把老鼠放走了。</span><span class="english">He sets Mouse free.</span></p>

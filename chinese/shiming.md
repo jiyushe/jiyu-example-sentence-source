@@ -1,5 +1,7 @@
 # 使命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiming.md)
+
 <p><span class="chinese">这是我们的使命。</span><span class="english">That is our mission.</span></p>
 
 <p><span class="chinese">融乐会的使命?。</span><span class="english">What is our mission?</span></p>

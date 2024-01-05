@@ -1,5 +1,7 @@
 # reproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproof.md)
+
 <p><span class="chinese">我给他这样严肃的责备。</span><span class="english">I gave him this serious reproof.</span></p>
 
 <p><span class="chinese">神的群羊也互相责备。</span><span class="english">Reproof belongs to the sheep also.</span></p>

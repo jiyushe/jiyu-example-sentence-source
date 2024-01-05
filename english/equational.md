@@ -1,5 +1,7 @@
 # equational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equational.md)
+
 <p><span class="chinese">归纳出解线性方程组的简捷程序。</span><span class="english">Induced a kind of convenient procedure for the solution of the linearity equational group.</span></p>
 
 <p><span class="chinese">这些方程式与数学中的方程类似，用来表明两个表达式是相当的。</span><span class="english">These equational laws are similar to those used in mathematics to show that two expressions are equivalent.</span></p>

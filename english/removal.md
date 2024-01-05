@@ -1,5 +1,7 @@
 # removal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/removal.md)
+
 <p><span class="chinese">泄露和消除。</span><span class="english">Leakage and removal.</span></p>
 
 <p><span class="chinese">排烟系统。</span><span class="english">Smoke removal system.</span></p>

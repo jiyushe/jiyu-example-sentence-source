@@ -1,5 +1,7 @@
 # snort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snort.md)
+
 <p><span class="chinese">她忍不住扑哧一笑。</span><span class="english">She could not conceal a snort of laughter.</span></p>
 
 <p><span class="chinese">哇，好痛啊！费迪南“嗖”的一下跳了起来µ。</span><span class="english">Wow! Did it hurt! Ferdinand jumped up with a snort.</span></p>

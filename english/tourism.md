@@ -1,5 +1,7 @@
 # tourism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tourism.md)
+
 <p><span class="chinese">确实是有这么一类旅游的模式。</span><span class="english">There's a subgenre of tourism.</span></p>
 
 <p><span class="chinese">旅游业是一种服务业。</span><span class="english">Tourism is a service industry.</span></p>

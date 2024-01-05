@@ -1,5 +1,7 @@
 # silversmith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silversmith.md)
+
 <p><span class="chinese">他跟银匠师傅拜师学艺。</span><span class="english">He was apprenticed to a master silversmith.</span></p>
 
 <p><span class="chinese">他在一名银匠师傅手下当了10年学徒。</span><span class="english">He apprenticed for ten years under a master silversmith.</span></p>

@@ -1,5 +1,7 @@
 # quick 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quick.md)
+
 <p><span class="chinese">万能速干胶？</span><span class="english">Quick dry glue?</span></p>
 
 <p><span class="chinese">尽快忘了它。</span><span class="english">Forget it quick.</span></p>

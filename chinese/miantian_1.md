@@ -1,5 +1,7 @@
 # 腼腆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantian_1.md)
+
 <p><span class="chinese">科迪个头小，生性腼腆。</span><span class="english">Cody was a timid, small child.</span></p>
 
 <p><span class="chinese">基范是一个腼腆寡言的男孩。</span><span class="english">Kibum is a shy and silent boy.</span></p>

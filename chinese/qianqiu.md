@@ -1,5 +1,7 @@
 # 千秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqiu.md)
+
 <p><span class="chinese">节约用水，利在当代，功在千秋。</span><span class="english">Save water, save the future.</span></p>
 
 <p><span class="chinese">没有哪个国王可以千秋万载，儿子。</span><span class="english">No king rules forever my son.</span></p>

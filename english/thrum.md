@@ -1,5 +1,7 @@
 # thrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrum.md)
+
 <p><span class="chinese">固定用的缆索，像吉他弦一样，在水流中会振荡出声。</span><span class="english">And mooring cables would thrum in the currents, like a guitar string.</span></p>
 
 <p><span class="chinese">再就是，因为线头容易起泡，所以必须用手掌细致地压平。</span><span class="english">Also, because thrum blister easily, so must use palm meticulous ground flat.</span></p>

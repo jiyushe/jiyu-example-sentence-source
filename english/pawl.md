@@ -1,5 +1,7 @@
 # pawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pawl.md)
+
 <p><span class="chinese">竹爪式竹根挖掘机方案设计。</span><span class="english">The pawl type bamboo roots grab was designed.</span></p>
 
 <p><span class="chinese">棘齿爪锁定或者释放所述棘齿滑块。</span><span class="english">A ratchet pawl locks or releases the ratchet slider.</span></p>

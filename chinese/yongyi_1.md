@@ -1,5 +1,7 @@
 # 用意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyi_1.md)
+
 <p><span class="chinese">但人们使用均值的用意何在？</span><span class="english">But do people mean by mean ?</span></p>
 
 <p><span class="chinese">我终于明白了他的用意。</span><span class="english">I tumbled to  his intention.</span></p>

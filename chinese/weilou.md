@@ -1,5 +1,7 @@
 # 危楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilou.md)
+
 <p><span class="chinese">他住在一座危楼中。</span><span class="english">He lived in an insecure building.</span></p>
 
 <p><span class="chinese">他走进那座危楼。</span><span class="english">He went into the insecure building.</span></p>

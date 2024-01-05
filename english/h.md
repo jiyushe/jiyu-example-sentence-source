@@ -1,5 +1,7 @@
 # h
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/h.md)
+
 <p><span class="chinese">那么我们有氢，碳和氮。</span><span class="english">So we have h c n.</span></p>
 
 <p><span class="chinese">我们有。</span><span class="english">PH3 We have p h 3.</span></p>

@@ -1,5 +1,7 @@
 # demander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demander.md)
+
 <p><span class="chinese">银行专门经营信用，是信用信息最大供给者和需求者。</span><span class="english">Bank is the greatest supplier and demander of credit information.</span></p>
 
 <p><span class="chinese">指挥者命令士兵等下去，直到进一步通知。</span><span class="english">The demander instructed soldiers to wait until further information.</span></p>

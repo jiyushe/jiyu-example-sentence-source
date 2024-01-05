@@ -1,5 +1,7 @@
 # 旧宅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzhai.md)
+
 <p><span class="chinese">这是所神秘而可怕的旧宅。</span><span class="english">It was a weird old house.</span></p>
 
 <p><span class="chinese">据说那栋旧宅里有鬼出没。</span><span class="english">People say that the old house is haunted by a ghost.</span></p>

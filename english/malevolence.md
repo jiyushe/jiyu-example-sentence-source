@@ -1,5 +1,7 @@
 # malevolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malevolence.md)
+
 <p><span class="chinese">作者的自私控诉和恶毒一起沸腾了。</span><span class="english">The author's self-serving indictment seethes with malevolence.</span></p>
 
 <p><span class="chinese">我常常觉察到，在他温文尔雅的下面掩藏着一种恶意。</span><span class="english">I had always been aware of a frame of malevolence under his urbanity.</span></p>

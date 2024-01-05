@@ -1,5 +1,7 @@
 # harlot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harlot.md)
+
 <p><span class="chinese">回去以后，他坐在神妓的脚边。</span><span class="english">Returning, he sits at the feet of the harlot.</span></p>
 
 <p><span class="chinese">岂不知与娼妓联合的，便是与他成为一体吗？</span><span class="english">What? know ye not that he which is joined to an harlot is one body?</span></p>

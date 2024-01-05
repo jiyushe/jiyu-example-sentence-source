@@ -1,5 +1,7 @@
 # 配套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peitao.md)
+
 <p><span class="chinese">配套雨罩。</span><span class="english">Matching rain hood.</span></p>
 
 <p><span class="chinese">也许是一副配套的脑波控制胡须吧。</span><span class="english">Maybe a set of matching whiskers.</span></p>

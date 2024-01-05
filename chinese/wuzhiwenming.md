@@ -1,5 +1,7 @@
 # 物质文明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhiwenming.md)
+
 <p><span class="chinese">物质文明在当今十分重要。</span><span class="english">Material civilization is very important today.</span></p>
 
 <p><span class="chinese">建设高度物质文明的同时，建设高度的精神文明。</span><span class="english">Build advanced culture and ideology while work hard for advanced material progress.</span></p>

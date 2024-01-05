@@ -1,5 +1,7 @@
 # mansion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mansion.md)
+
 <p><span class="chinese">随我回府吧。</span><span class="english">Return to mansion with me.</span></p>
 
 <p><span class="chinese">现在就回府做去。</span><span class="english">Now return to mansion to do.</span></p>

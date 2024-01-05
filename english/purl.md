@@ -1,5 +1,7 @@
 # purl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purl.md)
+
 <p><span class="chinese">话语由他咕哝咕哝地说了出来。</span><span class="english">The words purl out of his mouth.</span></p>
 
 <p><span class="chinese">坐在法庭上织毛衣吗？</span><span class="english">Sitting in court doing your purl stitch.</span></p>

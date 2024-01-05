@@ -1,5 +1,7 @@
 # 学风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefeng.md)
+
 <p><span class="chinese">和真正的治学谨严学风。</span><span class="english">He combines creative imagination and true scholarship.</span></p>
 
 <p><span class="chinese">我爱新校园里良好的学风，校风。</span><span class="english">I love the new campus good style of study, school spirit.</span></p>

@@ -1,5 +1,7 @@
 # but
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/but.md)
+
 <p><span class="chinese">但是听啊！</span><span class="english">But hark!</span></p>
 
 <p><span class="chinese">但是，这是的。</span><span class="english">But it was.</span></p>

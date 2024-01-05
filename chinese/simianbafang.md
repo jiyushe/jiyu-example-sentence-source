@@ -1,5 +1,7 @@
 # 四面八方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/simianbafang.md)
+
 <p><span class="chinese">东南西北四面八方。</span><span class="english">East, west, south and north.</span></p>
 
 <p><span class="chinese">大炮从四面八方齐发。</span><span class="english">Cannon volleyed on all sides.</span></p>

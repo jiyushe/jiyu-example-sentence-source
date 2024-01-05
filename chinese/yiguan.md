@@ -1,5 +1,7 @@
 # 一贯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguan.md)
+
 <p><span class="chinese">那是她的一贯作风。</span><span class="english">That was always her way.</span></p>
 
 <p><span class="chinese">托马斯，您对小布什一贯非常批判，Tom，，you’</span><span class="english">ve been very rough on him.</span></p>

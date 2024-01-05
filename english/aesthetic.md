@@ -1,5 +1,7 @@
 # aesthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesthetic.md)
+
 <p><span class="chinese">审丑是一种美学策略。</span><span class="english">It is a aesthetic tactics.</span></p>
 
 <p><span class="chinese">他有他自己的审美观念。</span><span class="english">His aesthetic ideas were his own.</span></p>

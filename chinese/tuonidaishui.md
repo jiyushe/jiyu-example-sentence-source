@@ -1,5 +1,7 @@
 # 拖泥带水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuonidaishui.md)
+
 <p><span class="chinese">拖泥带水的销售归咎于谨慎的心理。</span><span class="english">Draggy sales are attributed to a psychology of caution.</span></p>
 
 <p><span class="chinese">是，你是第一个，其他男人都直截了当的，从不拖泥带水。</span><span class="english">Yes, you are the first, other man is blunt, never messy.</span></p>

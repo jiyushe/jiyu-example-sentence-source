@@ -1,5 +1,7 @@
 # sbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sbe.md)
+
 <p><span class="chinese">由于他们的经验教训，我将继续按周期进行乳部自我检查。</span><span class="english">Due to the experience of my friends, I will continue to periodically do my SBE.</span></p>
 
 <p><span class="chinese">校本评价对于改革我国现行的教育评价制度有重要的参考价值。</span><span class="english">The SBE will do much help to reforming the educational evaluation system of China.</span></p>

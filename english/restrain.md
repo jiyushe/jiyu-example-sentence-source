@@ -1,5 +1,7 @@
 # restrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restrain.md)
+
 <p><span class="chinese">我不能抑制我的眼泪。</span><span class="english">I can't restrain my tears.</span></p>
 
 <p><span class="chinese">有效改善静脉曲张。</span><span class="english">Good at restrain vena swell.</span></p>

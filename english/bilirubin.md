@@ -1,5 +1,7 @@
 # bilirubin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilirubin.md)
+
 <p><span class="chinese">血清胆红素是高的。</span><span class="english">Serum bilirubin levels are elevated.</span></p>
 
 <p><span class="chinese">总胆红素略高该怎么办？</span><span class="english">How should total bilirubin do high slightly?</span></p>

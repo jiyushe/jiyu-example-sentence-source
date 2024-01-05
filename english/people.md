@@ -1,5 +1,7 @@
 # people
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/people.md)
+
 <p><span class="chinese">人们在乎“如果”。</span><span class="english">People care if.</span></p>
 
 <p><span class="chinese">我们爱伲人。</span><span class="english">We Aini people.</span></p>

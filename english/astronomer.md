@@ -1,5 +1,7 @@
 # astronomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronomer.md)
+
 <p><span class="chinese">我的理想是当一个天文学家。</span><span class="english">My ideal is to be an astronomer.</span></p>
 
 <p><span class="chinese">他也是个狂热的业馀天文学家。</span><span class="english">He is an avid amateur astronomer.</span></p>

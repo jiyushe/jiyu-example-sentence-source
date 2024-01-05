@@ -1,5 +1,7 @@
 # aldose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aldose.md)
+
 <p><span class="chinese">醛糖还原酶是多元醇通路的限速酶，此酶的激活被认为与糖尿病慢性并发症有关。</span><span class="english">Aldose reductase is a key regulatory enzyme in the substrate flux via polyol pathway.</span></p>
 
 <p><span class="chinese">结论两种化合物有望作为黄酮类醛糖还原酶抑制剂结构改造前体。</span><span class="english">Conclusion The two compounds can be used as lead compounds for Aldose Reductase inhibitors.</span></p>

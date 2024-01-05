@@ -1,5 +1,7 @@
 # belvedere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belvedere.md)
+
 <p><span class="chinese">我们先从贝尔维蒂宫的下宫开始参观。</span><span class="english">We started visiting from the Lower Belvedere.</span></p>
 
 <p><span class="chinese">此刻我们在通往上宫的途中。</span><span class="english">Now we were on the way to the Upper Belvedere.</span></p>

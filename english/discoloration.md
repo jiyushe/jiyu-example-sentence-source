@@ -1,5 +1,7 @@
 # discoloration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discoloration.md)
+
 <p><span class="chinese">测紫外线变色化妆镜遇阳光中紫外线时会变色。</span><span class="english">Mirror test case of UV color when the sun UV discoloration.</span></p>
 
 <p><span class="chinese">维生素K能够帮助减少污点和外观毛细血管。</span><span class="english">Vitamin K is helpful in reducing discoloration and the appearance of capillaries.</span></p>

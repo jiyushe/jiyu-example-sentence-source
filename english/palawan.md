@@ -1,5 +1,7 @@
 # palawan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palawan.md)
+
 <p><span class="chinese">巴拉望是人口最少的人种族群，即将灭种。</span><span class="english">The smallest of the Palawan ethnoliguistic groups, is becoming extinct.</span></p>
 
 <p><span class="chinese">最终在1976年经国有化成为巴拉特石油公司。</span><span class="english">Eventually become in 1976 by the nationalization of Palawan Special oil.</span></p>

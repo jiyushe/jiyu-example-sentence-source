@@ -1,5 +1,7 @@
 # 锐气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruiqi.md)
+
 <p><span class="chinese">我们丢掉了锐气。</span><span class="english">We lost our edge.</span></p>
 
 <p><span class="chinese">这种艰苦的工作削弱了我的锐气。</span><span class="english">This hard work has drained away my keenness.</span></p>

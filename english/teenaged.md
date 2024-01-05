@@ -1,5 +1,7 @@
 # teenaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teenaged.md)
+
 <p><span class="chinese">我离异，有一个十几岁的女儿。</span><span class="english">I am a divorced and have a teenaged daughter.</span></p>
 
 <p><span class="chinese">我那正值青春期的侄子脸上长满青春痘。</span><span class="english">My teenaged nephew's face is covered with zits.</span></p>

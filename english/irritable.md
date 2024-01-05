@@ -1,5 +1,7 @@
 # irritable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritable.md)
+
 <p><span class="chinese">有肠易激综合症？</span><span class="english">Have irritable bowel syndrome?</span></p>
 
 <p><span class="chinese">你感觉焦躁不安或急躁。</span><span class="english">You feel restless or irritable.</span></p>

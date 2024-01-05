@@ -1,5 +1,7 @@
 # 众生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongsheng.md)
+
 <p><span class="chinese">对一切众生，我都平等对待。</span><span class="english">I am equal to all.</span></p>
 
 <p><span class="chinese">心是涅槃，众生皆有佛性。</span><span class="english">Every sentient being has Buddha-nature!</span></p>

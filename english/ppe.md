@@ -1,5 +1,7 @@
 # ppe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ppe.md)
+
 <p><span class="chinese">个人劳动防护用品管理和消防管理。</span><span class="english">PPE management and fire fighting management.</span></p>
 
 <p><span class="chinese">适当的和必要的个人劳保用品已准备。</span><span class="english">Proper and necessary PPE for operator is prepared.</span></p>

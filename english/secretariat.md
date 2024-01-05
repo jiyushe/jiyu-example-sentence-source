@@ -1,5 +1,7 @@
 # secretariat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretariat.md)
+
 <p><span class="chinese">这项资助项目——ACP科学技术项目——是由欧洲联盟资助的，并由非洲、加勒比和太平洋国家集团的秘书处协调。</span><span class="english">secretariat of the African, Caribbean and Pacific Group of States.</span></p>
 
 <p><span class="chinese">代表大会召开之后，书记处由上海迁到了北京。</span><span class="english">After the congress, the secretariat moved from Shanghai to Beijing.</span></p>

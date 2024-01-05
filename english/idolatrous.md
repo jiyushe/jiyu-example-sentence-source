@@ -1,5 +1,7 @@
 # idolatrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idolatrous.md)
+
 <p><span class="chinese">我们至少可以先挪开我们自己个人生活中的偶像。</span><span class="english">We can at least remove anything idolatrous from our own personal life.</span></p>
 
 <p><span class="chinese">他们还想在这里建立起英国圣公会偶像崇拜的仪式。</span><span class="english">They are minded , also, to establish the idolatrous forms of English Episcopacy.</span></p>

@@ -1,5 +1,7 @@
 # asana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asana.md)
+
 <p><span class="chinese">它是帮助还是阻碍了你瑜伽姿势的练习？</span><span class="english">Helping or hindering your asana practice?</span></p>
 
 <p><span class="chinese">这个体式会引起上侧躯干轻微的背屈。</span><span class="english">This asana creates a slight backbend in your upper torso.</span></p>

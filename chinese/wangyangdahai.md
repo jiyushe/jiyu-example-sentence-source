@@ -1,5 +1,7 @@
 # 汪洋大海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyangdahai.md)
+
 <p><span class="chinese">这只船在汪洋大海中倾覆了。</span><span class="english">The boat capsized in heavy seas.</span></p>
 
 <p><span class="chinese">飘摇在半梦半醒的汪洋大海</span><span class="english">Into the living sea of waking dreams</span></p>

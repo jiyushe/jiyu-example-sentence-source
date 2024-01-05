@@ -1,5 +1,7 @@
 # 压痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yatong.md)
+
 <p><span class="chinese">主要体征是上腹部压痛。</span><span class="english">Main body is asked for is epigastrium tenderness.</span></p>
 
 <p><span class="chinese">大多有1个以上的肩周压痛点。</span><span class="english">Have the above 1 shoulder cycle tender point mostly.</span></p>

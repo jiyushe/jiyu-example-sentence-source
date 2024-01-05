@@ -1,5 +1,7 @@
 # daring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daring.md)
+
 <p><span class="chinese">它们胆子也更大点。</span><span class="english">They were also more daring.</span></p>
 
 <p><span class="chinese">你那大胆的计划收到效果没有?</span><span class="english">Did your daring plan pay off?</span></p>

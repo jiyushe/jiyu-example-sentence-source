@@ -1,5 +1,7 @@
 # 能工巧匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nenggongqiaojiang.md)
+
 <p><span class="chinese">他是他本行业的能工巧匠。</span><span class="english">He is the master of his own trade.</span></p>
 
 <p><span class="chinese">他真是个能工巧匠。</span><span class="english">He really was a skillful craftsman.</span></p>

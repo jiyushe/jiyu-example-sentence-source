@@ -1,5 +1,7 @@
 # lass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lass.md)
+
 <p><span class="chinese">那小姑娘向我使眼色。</span><span class="english">The lass winked at me.</span></p>
 
 <p><span class="chinese">那“小姑娘”只是一座坟。</span><span class="english">The "lass" was a grave.</span></p>

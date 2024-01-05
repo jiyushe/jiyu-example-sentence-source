@@ -1,5 +1,7 @@
 # 鼻息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixi.md)
+
 <p><span class="chinese">甲得的是鼻癌，乙长的是鼻息肉。</span><span class="english">A nose is a cancer of the nasal B.</span></p>
 
 <p><span class="chinese">我想在头顶感觉下你的鼻息。</span><span class="english">I want to feel you breathing upon me.</span></p>

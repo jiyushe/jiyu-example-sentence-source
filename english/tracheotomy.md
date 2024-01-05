@@ -1,5 +1,7 @@
 # tracheotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracheotomy.md)
+
 <p><span class="chinese">从男人脖子上的气管套管洞中飘出的烟。</span><span class="english">Cigarette smoke coming out of the tracheotomy hole in a man's neck.</span></p>
 
 <p><span class="chinese">目的总结神经内科危重病人气管切开术后的护理。</span><span class="english">Objective To sum up the critical care of neurological patients after tracheotomy.</span></p>

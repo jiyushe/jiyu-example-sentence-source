@@ -1,5 +1,7 @@
 # lightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightly.md)
+
 <p><span class="chinese">我轻叹着说道。</span><span class="english">I lightly sigh to say.</span></p>
 
 <p><span class="chinese">他轻轻地刷墙。</span><span class="english">He brushed the wall lightly.</span></p>

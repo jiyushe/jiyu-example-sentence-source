@@ -1,5 +1,7 @@
 # calcine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcine.md)
+
 <p><span class="chinese">炙烤或煅烧直到发出毕毕剥剥的声音或停止爆裂的声音。</span><span class="english">To roast or calcine until they emit a crackling sound or until crackling stops.</span></p>
 
 <p><span class="chinese">其中焙烧温度对催化剂的催化活性影响最大。</span><span class="english">The temperature of calcine is the maximal influencing factor for catalytic activity of catalysts.</span></p>

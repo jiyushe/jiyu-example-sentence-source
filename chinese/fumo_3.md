@@ -1,5 +1,7 @@
 # 抚摩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fumo_3.md)
+
 <p><span class="chinese">他抚摩着我的脸颊。</span><span class="english">He stroked my cheek.</span></p>
 
 <p><span class="chinese">它喜欢有人抚摩它。</span><span class="english">It liked to be stroked.</span></p>

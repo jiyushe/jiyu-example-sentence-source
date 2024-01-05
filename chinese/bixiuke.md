@@ -1,5 +1,7 @@
 # 必修课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixiuke.md)
+
 <p><span class="chinese">画画成了他每天的必修课。</span><span class="english">He needs to draw every day.</span></p>
 
 <p><span class="chinese">这是必修课之一。</span><span class="english">It's one of required class.</span></p>

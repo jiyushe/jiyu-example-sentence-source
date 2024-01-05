@@ -1,5 +1,7 @@
 # twenties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twenties.md)
+
 <p><span class="chinese">请给我五张二十元的稻十张一元的。</span><span class="english">Five twenties ind ten singles, p! errse.</span></p>
 
 <p><span class="chinese">现在你知道我二十几岁时为什么一直在喊叫了。</span><span class="english">Now you know why I spent my twenties crying.</span></p>

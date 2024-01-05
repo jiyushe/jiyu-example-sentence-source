@@ -1,5 +1,7 @@
 # 晕眩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxuan.md)
+
 <p><span class="chinese">几杯威士忌酒似乎使我晕眩。</span><span class="english">A couple of whiskys seem to have gone to my head.</span></p>
 
 <p><span class="chinese">飞机令人晕眩地向左倾斜。</span><span class="english">The plane is pitching to the left in a sickening way.</span></p>

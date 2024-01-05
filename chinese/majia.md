@@ -1,5 +1,7 @@
 # 马甲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/majia.md)
+
 <p><span class="chinese">马甲，马甲，更多的马甲。</span><span class="english">Vests, vests, and more vests.</span></p>
 
 <p><span class="chinese">她的紧身马甲是用起皱的料子做的。</span><span class="english">Her bodice was made of crinkly material.</span></p>

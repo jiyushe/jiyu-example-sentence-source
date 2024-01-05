@@ -1,5 +1,7 @@
 # sihanouk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sihanouk.md)
+
 <p><span class="chinese">西哈莫尼于1日来京探望父母西哈努克夫妇。</span><span class="english">Sihamoni arrived in Beijing on January 1 to see his parents Mr. and Mrs. Sihanouk.</span></p>
 
 <p><span class="chinese">西哈努克和西哈莫尼请唐家璇转达他们对胡锦涛主席和温家宝总理的新年问候。</span><span class="english">Sihanouk and Sihamoni asked Tang to convey their New Year greetings to President Hu and Premier Wen.</span></p>

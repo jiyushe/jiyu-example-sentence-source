@@ -1,5 +1,7 @@
 # freshen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freshen.md)
+
 <p><span class="chinese">我来给你添酒。</span><span class="english">Let me freshen your drink.</span></p>
 
 <p><span class="chinese">你可不可以先去清醒一会儿?</span><span class="english">could you take a moment to freshen uP first?</span></p>

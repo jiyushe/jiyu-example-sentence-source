@@ -1,5 +1,7 @@
 # 骇人听闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hairentingwen.md)
+
 <p><span class="chinese">这真是骇人听闻！</span><span class="english">This is quite shocking!</span></p>
 
 <p><span class="chinese">弥尔顿这样做是非常骇人听闻的！</span><span class="english">Milton is -- this is outrageous!</span></p>

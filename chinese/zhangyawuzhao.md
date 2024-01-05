@@ -1,5 +1,7 @@
 # 张牙舞爪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyawuzhao.md)
+
 <p><span class="chinese">只留得面具，在暗处张牙舞爪。</span><span class="english">Just stay too mask, in the dark claws.</span></p>
 
 <p><span class="chinese">一个发怒的狗先张牙舞爪，后咬人。</span><span class="english">An angry dog shows its teeth before it bites.</span></p>

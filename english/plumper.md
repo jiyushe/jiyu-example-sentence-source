@@ -1,5 +1,7 @@
 # plumper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumper.md)
+
 <p><span class="chinese">浆果的脸颊圆润而可爱。</span><span class="english">The berrys cheek is plumper.</span></p>
 
 <p><span class="chinese">她们比我丰美得多。</span><span class="english">They are much plumper than I am.</span></p>

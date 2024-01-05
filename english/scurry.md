@@ -1,5 +1,7 @@
 # scurry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scurry.md)
+
 <p><span class="chinese">大尾巴的松鼠忙着搜寻和贮藏橡果和松子。</span><span class="english">Bushy-tailed squirrels scurry to find acorns and nuts to hide.</span></p>
 
 <p><span class="chinese">嗅嗅和匆匆会心地笑了，并且赞许地点了点头。</span><span class="english">Sniff and Scurry laughed. They nodded their heads in admiration.</span></p>

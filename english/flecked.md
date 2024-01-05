@@ -1,5 +1,7 @@
 # flecked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flecked.md)
+
 <p><span class="chinese">这只鸟胸前有棕色斑点。</span><span class="english">The bird's breast is flecked with brown.</span></p>
 
 <p><span class="chinese">麻辣鸡在街上晾着。</span><span class="english">Chickens flecked with chili drying in the street.</span></p>

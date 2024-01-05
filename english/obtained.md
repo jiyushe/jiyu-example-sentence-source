@@ -1,5 +1,7 @@
 # obtained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obtained.md)
+
 <p><span class="chinese">这使他受到尊敬。</span><span class="english">This obtained him respect.</span></p>
 
 <p><span class="chinese">要了解这些数字是如何获得的。</span><span class="english">Know how they were obtained.</span></p>

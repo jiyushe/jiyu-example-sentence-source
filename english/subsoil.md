@@ -1,5 +1,7 @@
 # subsoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsoil.md)
+
 <p><span class="chinese">他把桩深深打进地基下的土中。</span><span class="english">He embedded the pilings deep into the subsoil.</span></p>
 
 <p><span class="chinese">在中西部北部地区的地表下的土壤水分很低。</span><span class="english">Low subsoil moisture in parts of the upper Midwest.</span></p>

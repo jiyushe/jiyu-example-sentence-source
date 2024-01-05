@@ -1,5 +1,7 @@
 # acrobat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrobat.md)
+
 <p><span class="chinese">杂技演员翻了个筋斗。</span><span class="english">The acrobat turned a somersault.</span></p>
 
 <p><span class="chinese">特技表演者把剑弯成圆圈。</span><span class="english">The acrobat bent sword into a hoop.</span></p>

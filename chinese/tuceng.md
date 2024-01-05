@@ -1,5 +1,7 @@
 # 土层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuceng.md)
+
 <p><span class="chinese">皂土是一种可膨胀的土层粘土矿物。</span><span class="english">Bentonite is an expandable three-layer clay mineral.</span></p>
 
 <p><span class="chinese">部分圣爱米浓产区砂砾层都平铺于石灰石土层上。</span><span class="english">In parts of Saint Emilion the gravel lies on limestone base.</span></p>

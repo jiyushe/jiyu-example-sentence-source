@@ -1,5 +1,7 @@
 # 牵肠挂肚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchangguadu.md)
+
 <p><span class="chinese">我讨厌让未做完的工作使我牵肠挂肚。</span><span class="english">I hate to have unfinished work hanging over me.</span></p>
 
 <p><span class="chinese">爱一个人，看不到他时，为他牵肠挂肚。</span><span class="english">Love a person, not to see him, for he be very worried about.</span></p>

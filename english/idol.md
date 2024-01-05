@@ -1,5 +1,7 @@
 # idol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idol.md)
+
 <p><span class="chinese">他曾是我的偶像。</span><span class="english">He was my idol.</span></p>
 
 <p><span class="chinese">你是我的偶像，我久仰你的大名，我非常佩服你。</span><span class="english">You're my idol.</span></p>

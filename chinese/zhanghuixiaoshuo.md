@@ -1,5 +1,7 @@
 # 章回小说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanghuixiaoshuo.md)
+
 <p><span class="chinese">其三，19世纪中后期，章回小说有南北合流的趋势。</span><span class="english">Thirdly, the chapter fictions had a current of confluent north and south.</span></p>
 
 <p><span class="chinese">19世纪章回小说蕴含着强烈的地域特色与地域文化因素。</span><span class="english">The chapter fictions in the 19 th century had strong clime difference and clime culture factor.</span></p>

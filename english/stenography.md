@@ -1,5 +1,7 @@
 # stenography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stenography.md)
+
 <p><span class="chinese">属于、关于速记，或利用速记。</span><span class="english">Of or relating to or employing stenography.</span></p>
 
 <p><span class="chinese">速记是秘书工作中重要的一项。</span><span class="english">Stenography is an essential part of secretarial work.</span></p>

@@ -1,5 +1,7 @@
 # capillarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capillarity.md)
+
 <p><span class="chinese">水分上升的动力主要来自于植物的蒸腾拉力和导管的毛细作用。</span><span class="english">The impetus of water uptake is "transpiration pull"and capillarity phenomena.</span></p>
 
 <p><span class="chinese">引起碳氢化合物运移的主要作用力是浮托力和毛细力。</span><span class="english">The primary forces causing migration of hydrocarbons are buoyancy and capillarity.</span></p>

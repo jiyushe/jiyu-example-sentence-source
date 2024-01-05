@@ -1,5 +1,7 @@
 # 低烧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishao.md)
+
 <p><span class="chinese">这些日子我一直发低烧。</span><span class="english">I have had a low fever these days.</span></p>
 
 <p><span class="chinese">我儿子已发了几天的低烧。</span><span class="english">My son has had a low-grade fever for several days.</span></p>

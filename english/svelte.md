@@ -1,5 +1,7 @@
 # svelte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/svelte.md)
+
 <p><span class="chinese">她身材苗条。</span><span class="english">Her figure is svelte.</span></p>
 
 <p><span class="chinese">远处还有一位身披白纱的贵妇，娉婷而来。</span><span class="english">A lady wears white yarn tippet, svelte coming from a distance.</span></p>

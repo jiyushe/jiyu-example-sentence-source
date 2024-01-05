@@ -1,5 +1,7 @@
 # 纵波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongbo.md)
+
 <p><span class="chinese">快纵波的相速度随频率的增大以指数形式减小。</span><span class="english">And the phase velocity of fast wave will decrease exponentially with frequency.</span></p>
 
 <p><span class="chinese">在震中区，纵波使地面上下颠动。</span><span class="english">In Zhenzhong Qu, longitudinal wave to the ground moving from top to bottom Britain.</span></p>

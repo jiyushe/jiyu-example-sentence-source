@@ -1,5 +1,7 @@
 # endive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endive.md)
+
 <p><span class="chinese">我记得，克拉伦斯-恩狄是从东卵来的。</span><span class="english">Clarence Endive was from East Egg, as I remember.</span></p>
 
 <p><span class="chinese">好的。嗯，开胃菜，我们有可爱的比利时菊苣沙拉，配上蒜味烤面包片。</span><span class="english">Okay. Well, for appetizers, we have a lovely Belgian Endive Salad with garlic croutons.</span></p>

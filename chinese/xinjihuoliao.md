@@ -1,5 +1,7 @@
 # 心急火燎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjihuoliao.md)
+
 <p><span class="chinese">心急火燎地跑回家给他、她打电话，或者接听来自他、她的电话。</span><span class="english">Rushing home to call or be called by him or her.</span></p>
 
 <p><span class="chinese">他平静地、忧郁地等待着，尔后还是不见她回来，就心急火燎起来。</span><span class="english">He waited, calmly, gloomily, and then anxiously as she did not appear.</span></p>

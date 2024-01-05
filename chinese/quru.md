@@ -1,5 +1,7 @@
 # 屈辱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quru.md)
+
 <p><span class="chinese">他的心灵因屈辱而受伤。</span><span class="english">His soul was seared by humiliation.</span></p>
 
 <p><span class="chinese">基督在他的屈辱中得到胜利。</span><span class="english">Christ's triumph was in His humiliation.</span></p>

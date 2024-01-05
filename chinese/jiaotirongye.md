@@ -1,5 +1,7 @@
 # 胶体溶液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotirongye.md)
+
 <p><span class="chinese">目的制备硫酸阿托品眼用胶体溶液。</span><span class="english">OBJECTIVE To prepare atropine sulfate ophthalmic gel solution.</span></p>
 
 <p><span class="chinese">有机分子和无机分子在胶体溶液中的亚微观集合体。</span><span class="english">A submicroscopic aggregate of organic and inorganic molecules in colloidal solution.</span></p>

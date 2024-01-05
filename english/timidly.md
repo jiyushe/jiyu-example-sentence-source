@@ -1,5 +1,7 @@
 # timidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timidly.md)
+
 <p><span class="chinese">她怯怯地从他的胳膊中抽出手来。</span><span class="english">She withdrew her hand timidly form his arm.</span></p>
 
 <p><span class="chinese">我战战兢兢地告诉莱尼我的鞋扣开了。</span><span class="english">I timidly told Lenny that my clasps were open.</span></p>

@@ -1,5 +1,7 @@
 # anhydrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anhydrous.md)
+
 <p><span class="chinese">无水草酸有吸湿性。</span><span class="english">Anhydrous oxalic acid are hygroscopic.</span></p>
 
 <p><span class="chinese">在无水状态氯化氢没有腐蚀性。</span><span class="english">It is noncorrosive in the anhydrous state.</span></p>

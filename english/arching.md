@@ -1,5 +1,7 @@
 # arching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arching.md)
+
 <p><span class="chinese">并且，避免拱起上脊柱。</span><span class="english">Also, avoid arching your upper spine.</span></p>
 
 <p><span class="chinese">维持几秒并慢慢恢复起始位置，避免弓背。</span><span class="english">Hold and slowly return. Avoid arching your back.</span></p>

@@ -1,5 +1,7 @@
 # cutlery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutlery.md)
+
 <p><span class="chinese">或者嗅下基思·理查德的餐具？</span><span class="english">Sniff Keith Richard's cutlery?</span></p>
 
 <p><span class="chinese">我能带餐刀什么的到澳大利亚吗？</span><span class="english">Can I bring cutlery into Australia?</span></p>

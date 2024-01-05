@@ -1,5 +1,7 @@
 # 整容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengrong_1.md)
+
 <p><span class="chinese">这次，是面部整容。</span><span class="english">A face this time.</span></p>
 
 <p><span class="chinese">我们可没钱去做整容。</span><span class="english">We have no money for surgeries.</span></p>

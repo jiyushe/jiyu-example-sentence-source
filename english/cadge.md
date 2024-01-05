@@ -1,5 +1,7 @@
 # cadge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadge.md)
+
 <p><span class="chinese">我可以向你要支香烟吗？</span><span class="english">May I cadge a cigarette from you?</span></p>
 
 <p><span class="chinese">他可以请求别人搭他一程。</span><span class="english">He could cadge a ride from somebody.</span></p>

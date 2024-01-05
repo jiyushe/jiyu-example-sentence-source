@@ -1,5 +1,7 @@
 # 如饥似渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rujisike.md)
+
 <p><span class="chinese">她如饥似渴地读书。</span><span class="english">She reads with avidity.</span></p>
 
 <p><span class="chinese">他如饥似渴地读着报纸。</span><span class="english">He read through the newspaper thirstily.</span></p>

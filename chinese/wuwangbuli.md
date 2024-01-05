@@ -1,5 +1,7 @@
 # 无往不利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuwangbuli.md)
+
 <p><span class="chinese">你的计划常常无往不利！</span><span class="english">Your plans are always successful.</span></p>
 
 <p><span class="chinese">我就像超人一样无往不利！</span><span class="english">I'm superman with the wind at his back.</span></p>

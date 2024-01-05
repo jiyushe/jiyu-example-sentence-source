@@ -1,5 +1,7 @@
 # contiguous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contiguous.md)
+
 <p><span class="chinese">越南与中国毗邻。</span><span class="english">Viet Nam is contiguous to China.</span></p>
 
 <p><span class="chinese">他们是紧密接邻的地区。</span><span class="english">They are two immediately contiguous areas.</span></p>

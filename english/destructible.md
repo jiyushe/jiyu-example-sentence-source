@@ -1,5 +1,7 @@
 # destructible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destructible.md)
+
 <p><span class="chinese">破坏车轮和有限的部分破坏。</span><span class="english">Destructible wheels and limited partial destruction.</span></p>
 
 <p><span class="chinese">老天爷，例如你看那周围的环境都可以被摧毁！</span><span class="english">I mean, holy smokes, destructible environments for instance!</span></p>

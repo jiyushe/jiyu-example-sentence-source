@@ -1,5 +1,7 @@
 # ergonomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergonomic.md)
+
 <p><span class="chinese">买一个体面的，适合坐的椅子。</span><span class="english">Get a decent ergonomic chair.</span></p>
 
 <p><span class="chinese">人体工学造型，使用更顺手。</span><span class="english">Ergonomic shape for easy to handle.</span></p>

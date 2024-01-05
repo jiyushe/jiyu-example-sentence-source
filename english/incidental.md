@@ -1,5 +1,7 @@
 # incidental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incidental.md)
+
 <p><span class="chinese">在使用过程中轻易发生起毛现象。</span><span class="english">Incidental in use process cottony phenomenon.</span></p>
 
 <p><span class="chinese">我们所采取的这些行动是随意的、附带性的。</span><span class="english">These actions we assume are random and incidental.</span></p>

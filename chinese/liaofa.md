@@ -1,5 +1,7 @@
 # 疗法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaofa.md)
+
 <p><span class="chinese">避免激素取代疗法。</span><span class="english">Avoid HRT.</span></p>
 
 <p><span class="chinese">引导性冥想治疗法。</span><span class="english">Guided meditation.</span></p>

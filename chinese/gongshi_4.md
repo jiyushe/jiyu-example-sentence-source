@@ -1,5 +1,7 @@
 # 共事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshi_4.md)
+
 <p><span class="chinese">能够与你共事，是我梦寐以求的事情。</span><span class="english">You are a dream to work with.</span></p>
 
 <p><span class="chinese">我在伦敦和他共事过。</span><span class="english">I worked with him here in London.</span></p>

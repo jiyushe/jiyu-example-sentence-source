@@ -1,5 +1,7 @@
 # haste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haste.md)
+
 <p><span class="chinese">仓促造成浪费。</span><span class="english">Haste makes Waste.</span></p>
 
 <p><span class="chinese">他匆忙地离开了家。</span><span class="english">He left home in haste.</span></p>

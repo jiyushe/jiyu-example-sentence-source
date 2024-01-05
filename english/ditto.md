@@ -1,5 +1,7 @@
 # ditto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ditto.md)
+
 <p><span class="chinese">自带咖啡，同上。</span><span class="english">Give up coffee. Ditto.</span></p>
 
 <p><span class="chinese">同理适用于书和blog。</span><span class="english">Ditto for books and blogs.</span></p>

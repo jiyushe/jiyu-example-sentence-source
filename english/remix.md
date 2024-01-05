@@ -1,5 +1,7 @@
 # remix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remix.md)
+
 <p><span class="chinese">我喜欢这首歌的原版和混音版。</span><span class="english">This song I like in original and remix too.</span></p>
 
 <p><span class="chinese">他们加入了舞蹈的拍子，说这个就是混音。</span><span class="english">They just stick it over a dance beat and call it a remix.</span></p>

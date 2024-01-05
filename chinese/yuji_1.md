@@ -1,5 +1,7 @@
 # 郁积
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuji_1.md)
+
 <p><span class="chinese">彬彬有礼表面下郁积的愤恨。</span><span class="english">Hatred smouldered beneath a polite surface.</span></p>
 
 <p><span class="chinese">郁积已久的情感波涛般地滚滚而出。</span><span class="english">Wave after wave of pent-up emotion poured out.</span></p>

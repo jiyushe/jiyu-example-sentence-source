@@ -1,5 +1,7 @@
 # radiogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiogenic.md)
+
 <p><span class="chinese">在放射损伤中，CSF有明显的预防和治疗作用。</span><span class="english">For radiogenic injury, CSF has both protective and therapeutic effects.</span></p>
 
 <p><span class="chinese">即使铀矿体埋得足够深，它的放射成因热也能被测出。</span><span class="english">Radiogenic heat, even from a fairly deep-seated uranium orebody, could be measured.</span></p>

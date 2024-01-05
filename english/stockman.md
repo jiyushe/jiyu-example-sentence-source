@@ -1,5 +1,7 @@
 # stockman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockman.md)
+
 <p><span class="chinese">他父亲是个饲养员。</span><span class="english">His father is a stockman.</span></p>
 
 <p><span class="chinese">小马驹和小牛犊围着饲养员欢蹦乱跳。</span><span class="english">The colts and calves are gambolling round the stockman.</span></p>

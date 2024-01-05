@@ -1,5 +1,7 @@
 # 眺望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaowang.md)
+
 <p><span class="chinese">眺望著这一片的花海。</span><span class="english">Overlook a space of flowers.</span></p>
 
 <p><span class="chinese">他凝目眺望大海。</span><span class="english">He was staring out to the sea.</span></p>

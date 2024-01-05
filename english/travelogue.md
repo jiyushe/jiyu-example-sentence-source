@@ -1,5 +1,7 @@
 # travelogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travelogue.md)
+
 <p><span class="chinese">马可波罗游记中提到忽必烈曾派使节到过马尔加什。</span><span class="english">Polo 's travelogue mentions that Kublai Khan sent envoys to Malgache.</span></p>
 
 <p><span class="chinese">马可波罗游记中提到忽必烈曾派使节到过马尔加什。</span><span class="english">Marco Polo 's travelogue mentions that Kublai Khan sent envoys to Malgache.</span></p>

@@ -1,5 +1,7 @@
 # 秋天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiutian.md)
+
 <p><span class="chinese">我更喜欢秋天。</span><span class="english">I prefer autumn.</span></p>
 
 <p><span class="chinese">而百花凋零的时候是秋天。</span><span class="english">And drama is autumn.</span></p>

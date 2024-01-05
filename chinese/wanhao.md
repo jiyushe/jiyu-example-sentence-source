@@ -1,5 +1,7 @@
 # 完好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanhao.md)
+
 <p><span class="chinese">这些零件完好地焊在一起了。</span><span class="english">The parts welded together perfectly.</span></p>
 
 <p><span class="chinese">布包包装，包装完好。</span><span class="english">Packed in Gunny Bales. Packing Sound.</span></p>

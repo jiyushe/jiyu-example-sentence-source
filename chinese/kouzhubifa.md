@@ -1,5 +1,7 @@
 # 口诛笔伐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouzhubifa.md)
+
 <p><span class="chinese">目前正在审议的该法立即遭到大量的口诛笔伐。</span><span class="english">The legislation, now under review, immediately came under heavy fire.</span></p>
 
 <p><span class="chinese">在阅读了这一网站的转帖后，许多网民对其丈夫口诛笔伐。</span><span class="english">Many netizens vehemently abused Wang Fei after reading posts copied from that website.</span></p>

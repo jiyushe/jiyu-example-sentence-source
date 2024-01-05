@@ -1,5 +1,7 @@
 # scythe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scythe.md)
+
 <p><span class="chinese">这就是镰刀的低语。</span><span class="english">The whisper of the scythe then.</span></p>
 
 <p><span class="chinese">从洛斯里克的灵魂诞生出的镰刀。</span><span class="english">Scythe born from the soul of Lothric.</span></p>

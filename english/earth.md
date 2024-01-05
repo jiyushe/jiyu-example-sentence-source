@@ -1,5 +1,7 @@
 # earth 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earth.md)
+
 <p><span class="chinese">从这里出发，看世界。</span><span class="english">The eye on earth.</span></p>
 
 <p><span class="chinese">到底为什么不呢？</span><span class="english">Why on earth not?</span></p>

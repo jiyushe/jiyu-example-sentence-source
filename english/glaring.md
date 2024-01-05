@@ -1,5 +1,7 @@
 # glaring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glaring.md)
+
 <p><span class="chinese">电灯光刺痛他的眼睛。</span><span class="english">This glaring light hurts eyes.</span></p>
 
 <p><span class="chinese">过分鲜艳的色彩看了很刺眼。</span><span class="english">Glaring colours displease the eye.</span></p>

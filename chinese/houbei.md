@@ -1,5 +1,7 @@
 # 后备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houbei.md)
+
 <p><span class="chinese">制定一个能找到你的后备方案。</span><span class="english">Set up a backup system to reach you.</span></p>
 
 <p><span class="chinese">你可以报名参加后备军官训练队，</span><span class="english">You can sign up for what's called ROTC</span></p>

@@ -1,5 +1,7 @@
 # 相随
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangsui.md)
+
 <p><span class="chinese">让爱逝去，但不要与之相随。</span><span class="english">Let love dies, don't die with it.</span></p>
 
 <p><span class="chinese">九天明月总相随。</span><span class="english">Empyrean bright moon always in the sky.</span></p>

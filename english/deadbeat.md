@@ -1,5 +1,7 @@
 # deadbeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadbeat.md)
+
 <p><span class="chinese">和那个饭桶老公离婚。</span><span class="english">Leave that deadbeat husband.</span></p>
 
 <p><span class="chinese">他是个无赖，伪君子。</span><span class="english">He's a deadbeat and a hypocrite.</span></p>

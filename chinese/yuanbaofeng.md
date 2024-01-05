@@ -1,5 +1,7 @@
 # 元宝枫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanbaofeng.md)
+
 <p><span class="chinese">对元宝枫翅果油脂含量和累积规律进行了研究。</span><span class="english">Oil content and accumulation of Acer truncatum samara were studied.</span></p>
 
 <p><span class="chinese">以元宝枫叶为原料，研究超声波技术在元宝枫黄酮浸提中的应用。</span><span class="english">Extracted flavonoids by supersonic from leaves of Acer truncatum bunge was studied.</span></p>

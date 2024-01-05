@@ -1,5 +1,7 @@
 # autarky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autarky.md)
+
 <p><span class="chinese">一种为传统的自给自足的观点。</span><span class="english">One kind is the viewpoint of traditional autarky.</span></p>
 
 <p><span class="chinese">假设经济从自给自足变成可进行贸易，公司的需求曲线移至。</span><span class="english">Suppose the economy moves from autarky to trade, and the firm's demand curve shifts to.</span></p>

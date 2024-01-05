@@ -1,5 +1,7 @@
 # sandpit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandpit.md)
+
 <p><span class="chinese">坐在沙坑中。</span><span class="english">Sitting in a sandpit.</span></p>
 
 <p><span class="chinese">让我们挖沙子吧。</span><span class="english">Let's dig in the sandpit.</span></p>

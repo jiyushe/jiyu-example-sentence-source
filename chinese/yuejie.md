@@ -1,5 +1,7 @@
 # 越界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuejie.md)
+
 <p><span class="chinese">但是,他们后来的行为越界了</span><span class="english">Well, what happens? They transgress.</span></p>
 
 <p><span class="chinese">美国越界了，再出红牌。</span><span class="english">USA overstepping again, red card again.</span></p>

@@ -1,5 +1,7 @@
 # 通宵达旦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxiaodadan.md)
+
 <p><span class="chinese">他们狂欢通宵达旦。</span><span class="english">They reveled until dawn.</span></p>
 
 <p><span class="chinese">我忙得通宵达旦。</span><span class="english">I was very busy overnight.</span></p>

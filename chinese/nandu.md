@@ -1,5 +1,7 @@
 # 南渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nandu.md)
+
 <p><span class="chinese">李弥逊是南渡时期一位名气尚可但后代较少有人注意的诗人。</span><span class="english">Li Mixun is a poet with good reputation but less attention has been given to him.</span></p>
 
 <p><span class="chinese">李清照的一生以“南渡”为转折点，其生活分为美满幸福和流离困苦前后两个不同的时期。</span><span class="english">Nandu, as a turning point, made her life divide into two periods of happiness and bitterness.</span></p>

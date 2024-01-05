@@ -1,5 +1,7 @@
 # 素净
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sujing.md)
+
 <p><span class="chinese">这双鞋必须是素净的。</span><span class="english">The shoes must be completely smooth.</span></p>
 
 <p><span class="chinese">所以一般来说，素净的比较好！</span><span class="english">So generally, the plainer, the better!</span></p>

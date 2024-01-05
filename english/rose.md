@@ -1,5 +1,7 @@
 # rose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rose.md)
+
 <p><span class="chinese">于是他站了起来。</span><span class="english">Then he rose.</span></p>
 
 <p><span class="chinese">于是他又站了起来。</span><span class="english">He rose again.</span></p>

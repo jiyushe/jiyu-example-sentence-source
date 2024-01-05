@@ -1,5 +1,7 @@
 # anthocyanidin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthocyanidin.md)
+
 <p><span class="chinese">浆果非花青素酚类物质的研究已经引起了国内外的广泛关注。</span><span class="english">There has been much interest in the study of non- anthocyanidin polyphenols in berries.</span></p>
 
 <p><span class="chinese">在两种方法的最佳条件下清除羟自由基，微波清除效率高。</span><span class="english">The ability for scavenging hydroxyl radical with anthocyanidin extracted by microwave method is stronger.</span></p>

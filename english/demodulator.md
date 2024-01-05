@@ -1,5 +1,7 @@
 # demodulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demodulator.md)
+
 <p><span class="chinese">数字锁相环是数字解调器的关键部件。</span><span class="english">Digital phase lock loop is a key part of the digital demodulator.</span></p>
 
 <p><span class="chinese">该部分电路由分路器和解调器组成。</span><span class="english">The circuits of the part are composed of a splitter and a demodulator.</span></p>

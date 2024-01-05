@@ -1,5 +1,7 @@
 # 安身之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anshenzhidi.md)
+
 <p><span class="chinese">但愿纯洁的灵魂在天国找到安身之地！</span><span class="english">May pure souls have their home in heaven!</span></p>
 
 <p><span class="chinese">可怜的燕子只有在悲鸣中到处寻觅安身之地。</span><span class="english">Swallow poor lament only to find shelter in place everywhere.</span></p>

@@ -1,5 +1,7 @@
 # 简直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhi_5.md)
+
 <p><span class="chinese">简直就是个猪圈。</span><span class="english">A real sty.</span></p>
 
 <p><span class="chinese">他简直激情四溢</span><span class="english">He can't stop.</span></p>

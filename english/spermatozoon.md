@@ -1,5 +1,7 @@
 # spermatozoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatozoon.md)
+
 <p><span class="chinese">精子多是睾丸造的吗？</span><span class="english">Is spermatozoon spermary more build?</span></p>
 
 <p><span class="chinese">成熟精子包括头部和尾部两部分。</span><span class="english">The mature spermatozoon consists of a head and a tail.</span></p>

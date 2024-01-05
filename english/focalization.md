@@ -1,5 +1,7 @@
 # focalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/focalization.md)
+
 <p><span class="chinese">通过研究构建了超声裂解动力学模型。</span><span class="english">Then the dynamic model of ultrasonic focalization decomposition is constructed.</span></p>
 
 <p><span class="chinese">外部视点的采用又将女性放在客体和被看的位置。</span><span class="english">External focalization makes the women who are in an object position watched by other people.</span></p>

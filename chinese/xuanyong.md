@@ -1,5 +1,7 @@
 # 选用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyong.md)
+
 <p><span class="chinese">选用激光木样刀模。</span><span class="english">Adopt laser wood die cutter.</span></p>
 
 <p><span class="chinese">选用正规的用户名。</span><span class="english">Choose a professional username.</span></p>

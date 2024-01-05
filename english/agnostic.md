@@ -1,5 +1,7 @@
 # agnostic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agnostic.md)
+
 <p><span class="chinese">我是不可知论者。</span><span class="english">I was an agnostic.</span></p>
 
 <p><span class="chinese">不可知论者即是怀疑论者。</span><span class="english">An agnostic is a doubter.</span></p>

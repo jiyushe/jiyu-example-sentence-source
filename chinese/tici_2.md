@@ -1,5 +1,7 @@
 # 题词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tici_2.md)
+
 <p><span class="chinese">您注意到画上的题词了吗？</span><span class="english">Did you notice the inscriptions on the painting?</span></p>
 
 <p><span class="chinese">那只钟上有汉字题词。</span><span class="english">The bell bears an inscription in chinese characters.</span></p>

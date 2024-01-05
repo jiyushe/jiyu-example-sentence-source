@@ -1,5 +1,7 @@
 # emcee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emcee.md)
+
 <p><span class="chinese">她的班主任选了她和另外一个男孩子做主持人。</span><span class="english">Her head teacher chose her and a boy to be the emcee.</span></p>
 
 <p><span class="chinese">我喜欢担任许多讲座和晚会的主持人。</span><span class="english">I enjoy acting as an emcee of many lectures and evenings.</span></p>

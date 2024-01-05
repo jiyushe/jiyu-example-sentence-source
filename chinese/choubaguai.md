@@ -1,5 +1,7 @@
 # 丑八怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choubaguai.md)
+
 <p><span class="chinese">不过他是个丑八怪！</span><span class="english">But he is an ugly fellow!</span></p>
 
 <p><span class="chinese">他看起来真是个丑八怪。</span><span class="english">He had an ill-favored look.</span></p>

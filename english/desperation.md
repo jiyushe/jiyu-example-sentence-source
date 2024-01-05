@@ -1,5 +1,7 @@
 # desperation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desperation.md)
+
 <p><span class="chinese">绝望中他抢了银行。</span><span class="english">In desperation he robbed a bank.</span></p>
 
 <p><span class="chinese">我想展现人们的绝望，</span><span class="english">I want to show people's desperation</span></p>

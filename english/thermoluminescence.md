@@ -1,5 +1,7 @@
 # thermoluminescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermoluminescence.md)
+
 <p><span class="chinese">本文评述了热释光断代的近况。</span><span class="english">A review on the thermoluminescence dating is presented.</span></p>
 
 <p><span class="chinese">讨论了热释光剂量测量的质量控制问题。</span><span class="english">The quality control of thermoluminescence dosimetry is discussed.</span></p>

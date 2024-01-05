@@ -1,5 +1,7 @@
 # divisional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divisional.md)
+
 <p><span class="chinese">组建分段项目经理部。</span><span class="english">Establishment of divisional Project Manager Dept.</span></p>
 
 <p><span class="chinese">逻辑与非逻辑的划界标准是什么？</span><span class="english">What is the divisional standard between logic and non-logic?</span></p>

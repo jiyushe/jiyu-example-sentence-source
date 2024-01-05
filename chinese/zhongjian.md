@@ -1,5 +1,7 @@
 # 中坚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjian.md)
+
 <p><span class="chinese">我们的两个后防中坚在那场比赛中被停赛了。</span><span class="english">We had our two center backs suspended for that game.</span></p>
 
 <p><span class="chinese">诚实而勤劳的人是社会的中坚分子。</span><span class="english">An honest, hard-working man is the salt of the earth.</span></p>

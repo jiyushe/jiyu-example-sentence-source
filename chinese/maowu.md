@@ -1,5 +1,7 @@
 # 茅屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maowu.md)
+
 <p><span class="chinese">得到一个小茅屋容易吗？</span><span class="english">Is it easy to get a Jacal?</span></p>
 
 <p><span class="chinese">我们是小茅屋的主人。</span><span class="english">We are Amphitryon of the JACAL.</span></p>

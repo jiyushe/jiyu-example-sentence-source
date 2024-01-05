@@ -1,5 +1,7 @@
 # handgun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handgun.md)
+
 <p><span class="chinese">马啸陡然间拔出手枪将刀锋击倒。</span><span class="english">MaXiao sudden between his handgun will blade down.</span></p>
 
 <p><span class="chinese">警方正着手调查该男孩如何取接触到那支9毫米的手枪。</span><span class="english">Police were investigating how the boy got the 9mm handgun.</span></p>

@@ -1,5 +1,7 @@
 # 不已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyi_2.md)
+
 <p><span class="chinese">这些细节描述令他惊喜不已。</span><span class="english">The detail thrilled him.</span></p>
 
 <p><span class="chinese">它在那正在暗下去的芦苇丛中摇晃不已。</span><span class="english">Rocking in darkening reeds.</span></p>

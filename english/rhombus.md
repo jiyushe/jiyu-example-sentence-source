@@ -1,5 +1,7 @@
 # rhombus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhombus.md)
+
 <p><span class="chinese">颜色为绿色，中间有一个大的黄色菱形。</span><span class="english">There is a large yellow rhombus in the center.</span></p>
 
 <p><span class="chinese">表面加上菱形装饰。</span><span class="english">Rhombus embellishments were added to the surface.</span></p>

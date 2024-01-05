@@ -1,5 +1,7 @@
 # floodwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floodwater.md)
+
 <p><span class="chinese">其它的地方，各家各户都在忙着把屋里的水排干。</span><span class="english">Elsewhere, homes are being drained of all the floodwater.</span></p>
 
 <p><span class="chinese">他看见水牛潜到水下逐食水草。</span><span class="english">He saw buffaloes dive beneath the floodwater to nibble grass.</span></p>

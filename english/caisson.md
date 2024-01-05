@@ -1,5 +1,7 @@
 # caisson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caisson.md)
+
 <p><span class="chinese">当时的潜水夫病。</span><span class="english">Then there was caisson disease.</span></p>
 
 <p><span class="chinese">弹药箱是由马匹来拉的。</span><span class="english">A caisson is a wagon pulled by horses.</span></p>

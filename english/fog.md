@@ -1,5 +1,7 @@
 # fog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fog.md)
+
 <p><span class="chinese">会飞的黑雾吗？</span><span class="english">Black fog fly?</span></p>
 
 <p><span class="chinese">雾一早散了。</span><span class="english">Fog lifted early.</span></p>

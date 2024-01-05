@@ -1,5 +1,7 @@
 # ejaculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ejaculate.md)
+
 <p><span class="chinese">妇女能否射精呢？</span><span class="english">Can women ejaculate or not?</span></p>
 
 <p><span class="chinese">在第一周里，我射精三次。</span><span class="english">During the first week, I did ejaculate three times.</span></p>

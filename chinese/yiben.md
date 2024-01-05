@@ -1,5 +1,7 @@
 # 译本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiben.md)
+
 <p><span class="chinese">译本文字未改动。</span><span class="english">No changes in text of librettos.</span></p>
 
 <p><span class="chinese">有人有其他译本吗“</span><span class="english">Does anyone have a different translation?"</span></p>

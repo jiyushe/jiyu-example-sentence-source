@@ -1,5 +1,7 @@
 # 黑种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heizhong.md)
+
 <p><span class="chinese">在黑种和白种公民之间一样生长。</span><span class="english">Growing among black folks as among white.</span></p>
 
 <p><span class="chinese">不论你是黑种人，白种人，黄种人。</span><span class="english">You're black, white, beige, chola descent.</span></p>

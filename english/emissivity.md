@@ -1,5 +1,7 @@
 # emissivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emissivity.md)
+
 <p><span class="chinese">比辐射率是辐射度学中的重要参量。</span><span class="english">Emissivity is an important parameter in radiometry.</span></p>
 
 <p><span class="chinese">这是引用对象的辐射率值。</span><span class="english">This is the emissivity value of the reference object.</span></p>

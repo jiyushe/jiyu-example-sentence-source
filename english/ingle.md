@@ -1,5 +1,7 @@
 # ingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingle.md)
+
 <p><span class="chinese">多希望。你的爱也可以单曲循环。</span><span class="english">Wish you love can also s. ingle cy. cle.</span></p>
 
 <p><span class="chinese">他结婚的第一任妻子，何英格尔六年。</span><span class="english">He was married to his first wife, Jose Ingle for six years.</span></p>

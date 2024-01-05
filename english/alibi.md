@@ -1,5 +1,7 @@
 # alibi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alibi.md)
+
 <p><span class="chinese">你有不在场证据吗？</span><span class="english">Have you an alibi?</span></p>
 
 <p><span class="chinese">你有什么托辞呢？</span><span class="english">What's your alibi?</span></p>

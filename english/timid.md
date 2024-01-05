@@ -1,5 +1,7 @@
 # timid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timid.md)
+
 <p><span class="chinese">畏怯如一只鸟！</span><span class="english">Timid as a Bird!</span></p>
 
 <p><span class="chinese">猫一胆怯，鼠就翻天。</span><span class="english">A timid cat dos a proud mouse.</span></p>

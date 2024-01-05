@@ -1,5 +1,7 @@
 # shortchange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortchange.md)
+
 <p><span class="chinese">我们不能从这些上面省钱。</span><span class="english">We can't shortchange those things.</span></p>
 
 <p><span class="chinese">他认为永远试图欺骗商业伙伴毫无意义。</span><span class="english">He sees no point in ever trying to shortchange business partners.</span></p>

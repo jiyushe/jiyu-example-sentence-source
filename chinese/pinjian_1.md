@@ -1,5 +1,7 @@
 # 贫贱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinjian_1.md)
+
 <p><span class="chinese">孔子出世时，他的家族已经破落贫贱了。</span><span class="english">When Kong Zi is born, his family already declined is lowly.</span></p>
 
 <p><span class="chinese">最贫贱的劳动者享有和最富的雇主同样的权利。</span><span class="english">The meanest labourer has the same rights as the richest employer.</span></p>

@@ -1,5 +1,7 @@
 # painkiller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painkiller.md)
+
 <p><span class="chinese">我会帮你打一针止痛针。</span><span class="english">I'll give you a shot of a painkiller.</span></p>
 
 <p><span class="chinese">哦，你现在应该吃片止痛片。</span><span class="english">Well. You should take a painkiller now.</span></p>

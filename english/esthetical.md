@@ -1,5 +1,7 @@
 # esthetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esthetical.md)
+
 <p><span class="chinese">耻感以恶为对象，恶是丑的，但耻感却是美的。</span><span class="english">The evil is ugly, but the sense of shame is esthetical.</span></p>
 
 <p><span class="chinese">然而，“暴力美学”究竟是美还是丑？</span><span class="english">But, is"violence aesthetics"a kind of esthetical or ugly?</span></p>

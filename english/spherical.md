@@ -1,5 +1,7 @@
 # spherical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spherical.md)
+
 <p><span class="chinese">鳞茎近圆球形，硕大。</span><span class="english">Bulb nearly spherical shape, gigantic.</span></p>
 
 <p><span class="chinese">球形正圆，适应强！</span><span class="english">Spherical is round, strong adaptation!</span></p>

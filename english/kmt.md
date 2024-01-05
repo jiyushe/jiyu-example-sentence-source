@@ -1,5 +1,7 @@
 # kmt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kmt.md)
+
 <p><span class="chinese">尽管国民党并不这样认为。</span><span class="english">Even the KMT balks at that.</span></p>
 
 <p><span class="chinese">一九四七年以后，战争开始对国民党不利。</span><span class="english">After 1947, the war began to go against KMT.</span></p>

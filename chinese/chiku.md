@@ -1,5 +1,7 @@
 # 吃苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiku.md)
+
 <p><span class="chinese">他总是吃苦在前。</span><span class="english">He's always the first to bear hardships.</span></p>
 
 <p><span class="chinese">乐成来自于始终如一和吃苦。</span><span class="english">Success comes from persistence and hard work.</span></p>

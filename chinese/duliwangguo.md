@@ -1,5 +1,7 @@
 # 独立王国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duliwangguo.md)
+
 <p><span class="chinese">比利时宣告成立独立王国。</span><span class="english">Belgium was proclaimed an independent kingdom.</span></p>
 
 <p><span class="chinese">他们在官府和百姓之间构筑了一个独立王国。</span><span class="english">They are among the officials and the people built an independent kingdom.</span></p>

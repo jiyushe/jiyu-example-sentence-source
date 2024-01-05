@@ -1,5 +1,7 @@
 # saying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saying.md)
+
 <p><span class="chinese">汤姆点头称是。</span><span class="english">Tom nods saying is.</span></p>
 
 <p><span class="chinese">你在说什么呀？</span><span class="english">What are you saying.</span></p>

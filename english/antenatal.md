@@ -1,5 +1,7 @@
 # antenatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antenatal.md)
+
 <p><span class="chinese">产前诊断由绒毛采样是可以做到的。</span><span class="english">Antenatal diagnosis by Chorionic villus sampling can be done.</span></p>
 
 <p><span class="chinese">通常在产前检查时发现此肿瘤约为怀孕22周以后。</span><span class="english">Antenatal diagnosis is usually made after 22 weeks of gestation.</span></p>

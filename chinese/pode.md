@@ -1,5 +1,7 @@
 # 破的
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pode.md)
+
 <p><span class="chinese">这是张又旧又破的桌子。</span><span class="english">It is a bad old table.</span></p>
 
 <p><span class="chinese">破的别算入在内。</span><span class="english">Don't count in the broken ones.</span></p>

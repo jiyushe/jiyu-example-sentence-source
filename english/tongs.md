@@ -1,5 +1,7 @@
 # tongs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tongs.md)
+
 <p><span class="chinese">不许把钳子打在钻杆上转。</span><span class="english">Do not let tongs ride the drill pipe.</span></p>
 
 <p><span class="chinese">这款抓手一次能握住一个线圈壁。</span><span class="english">The tongs grips one wall of the coil.</span></p>

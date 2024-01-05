@@ -1,5 +1,7 @@
 # 正要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyao_1.md)
+
 <p><span class="chinese">我正要搭公车去上班。</span><span class="english">I go to work by bus.</span></p>
 
 <p><span class="chinese">哦，我正要去那里。</span><span class="english">C. oh i'm going to there.</span></p>

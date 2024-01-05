@@ -1,5 +1,7 @@
 # 在理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaili.md)
+
 <p><span class="chinese">索赔金额正在理算中。</span><span class="english">The claim is being adjusted.</span></p>
 
 <p><span class="chinese">他的要求在理。</span><span class="english">He is reasonable in his demands.</span></p>

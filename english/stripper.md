@@ -1,5 +1,7 @@
 # stripper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stripper.md)
+
 <p><span class="chinese">我从来没有做过脱衣舞娘。</span><span class="english">I've never been a stripper.</span></p>
 
 <p><span class="chinese">她是一个脱衣舞娘的时间。</span><span class="english">She is a stripper by that time.</span></p>

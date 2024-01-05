@@ -1,5 +1,7 @@
 # jogger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jogger.md)
+
 <p><span class="chinese">狗朝着行人吠叫。</span><span class="english">The dog barked at the jogger.</span></p>
 
 <p><span class="chinese">她的父亲吉姆。威尔逊喜欢早起跑步。</span><span class="english">Her father, Jim Wilson, is a morning jogger.</span></p>

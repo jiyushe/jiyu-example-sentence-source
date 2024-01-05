@@ -1,5 +1,7 @@
 # 送饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songfan.md)
+
 <p><span class="chinese">所以我总是第一个给他送饭。</span><span class="english">That's why I always deliver his first.</span></p>
 
 <p><span class="chinese">我如今知道电视送饭是什么滋味了。</span><span class="english">Now I know what a Tv dinner feels like.</span></p>

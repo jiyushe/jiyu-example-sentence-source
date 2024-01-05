@@ -1,5 +1,7 @@
 # 先导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandao.md)
+
 <p><span class="chinese">他们是文明的先导者。</span><span class="english">They were in the van of civilization.</span></p>
 
 <p><span class="chinese">世界喷码与打标技术的先导！</span><span class="english">Leading the World in Coding and Marking!</span></p>

@@ -1,5 +1,7 @@
 # 私利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sili_2.md)
+
 <p><span class="chinese">荣誉和私利不能睡在一起。</span><span class="english">Honour and profit lie not sack.</span></p>
 
 <p><span class="chinese">他从来不谋私利。</span><span class="english">He never pursues selfish interests.</span></p>

@@ -1,5 +1,7 @@
 # acinar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acinar.md)
+
 <p><span class="chinese">导管上皮细胞核和腺泡细胞则为阴性。</span><span class="english">The nucleus and acinar cells were negative.</span></p>
 
 <p><span class="chinese">在胰腺腺泡细胞CCK可激活MAPK。</span><span class="english">CCK activates MAPK in pancreatic acinar cells.</span></p>

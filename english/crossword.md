@@ -1,5 +1,7 @@
 # crossword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossword.md)
+
 <p><span class="chinese">纵横和字谜求解。</span><span class="english">Crossword and anagram solver.</span></p>
 
 <p><span class="chinese">我一直很喜欢玩字谜游戏。</span><span class="english">enjoy doing crossword puzzles.</span></p>

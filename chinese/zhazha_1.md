@@ -1,5 +1,7 @@
 # 查查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhazha_1.md)
+
 <p><span class="chinese">你自己查查去!</span><span class="english">Go to see for yourself!</span></p>
 
 <p><span class="chinese">杰克，请你查查行事历好吗？</span><span class="english">Jack, could you check your calendar?</span></p>

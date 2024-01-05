@@ -1,5 +1,7 @@
 # rotate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotate.md)
+
 <p><span class="chinese">风筝然后平转360度。</span><span class="english">The kite is then rotate 360.</span></p>
 
 <p><span class="chinese">还带有自动旋转的功能。</span><span class="english">It also automatically rotate.</span></p>

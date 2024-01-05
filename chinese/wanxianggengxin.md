@@ -1,5 +1,7 @@
 # 万象更新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanxianggengxin.md)
+
 <p><span class="chinese">春天是万象更新的季节。</span><span class="english">Spring is a time of renewal.</span></p>
 
 <p><span class="chinese">一元复始，万象更新。</span><span class="english">A yuan of renew, every phenomenon is newer.</span></p>

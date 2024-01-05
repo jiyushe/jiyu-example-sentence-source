@@ -1,5 +1,7 @@
 # transcendental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcendental.md)
+
 <p><span class="chinese">人类成了超验所指。</span><span class="english">Man has become the transcendental signified.</span></p>
 
 <p><span class="chinese">代数数多还是超越数多?。</span><span class="english">The algebraic number more or the transcendental number?</span></p>

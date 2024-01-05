@@ -1,5 +1,7 @@
 # footed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footed.md)
+
 <p><span class="chinese">我步行了二公里。</span><span class="english">I footed two kilometers.</span></p>
 
 <p><span class="chinese">这御座是用黄金做的脚。</span><span class="english">The throne was footed with gold.</span></p>

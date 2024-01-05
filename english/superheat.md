@@ -1,5 +1,7 @@
 # superheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superheat.md)
+
 <p><span class="chinese">不会使地面过热。</span><span class="english">It will not superheat the floor.</span></p>
 
 <p><span class="chinese">在此基础上还模拟了不同过热度下铸坯的凝固组织。</span><span class="english">Otherwise, the solidification structure for different superheat was simulated.</span></p>

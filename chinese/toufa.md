@@ -1,5 +1,7 @@
 # 头发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toufa.md)
+
 <p><span class="chinese">红头发？</span><span class="english">Red hair?</span></p>
 
 <p><span class="chinese">爱抚她的头发。</span><span class="english">Pet her hair.</span></p>

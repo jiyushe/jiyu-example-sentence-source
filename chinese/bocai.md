@@ -1,5 +1,7 @@
 # 菠菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bocai.md)
+
 <p><span class="chinese">菠菜和茄子。</span><span class="english">Spinach and eggplant.</span></p>
 
 <p><span class="chinese">菠菜和其它绿色蔬菜。</span><span class="english">Spinach and other greens.</span></p>

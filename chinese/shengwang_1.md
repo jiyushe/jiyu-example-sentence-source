@@ -1,5 +1,7 @@
 # 声望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengwang_1.md)
+
 <p><span class="chinese">他是个很有声望的医生。</span><span class="english">He is a doctor of great repute.</span></p>
 
 <p><span class="chinese">你能在银行里兑现声望吗？</span><span class="english">Can you cash reputation in a bank?</span></p>

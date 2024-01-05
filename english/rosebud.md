@@ -1,5 +1,7 @@
 # rosebud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosebud.md)
+
 <p><span class="chinese">也没有蔷薇花蕾在附近。</span><span class="english">No rosebud is nigh.</span></p>
 
 <p><span class="chinese">而那个玫瑰花蕾也只是个雪橇。</span><span class="english">And Rosebud was just a sled.</span></p>

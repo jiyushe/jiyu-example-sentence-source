@@ -1,5 +1,7 @@
 # barolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barolo.md)
+
 <p><span class="chinese">巴罗洛是意大利红葡萄酒之王。</span><span class="english">Barolo is the king of Italian red wines.</span></p>
 
 <p><span class="chinese">它是酿制巴罗洛和巴芭罗斯克葡萄酒的基本成分。</span><span class="english">It is the grape of Barolo and Barbaresco wines.</span></p>

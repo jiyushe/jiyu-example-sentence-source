@@ -1,5 +1,7 @@
 # stoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoic.md)
+
 <p><span class="chinese">他是知名的斯多葛学派哲学家。</span><span class="english">He is a famous Stoic philosopher.</span></p>
 
 <p><span class="chinese">甚至那些最泰然自若的人也显得表情严峻、面如土色。</span><span class="english">Even the most stoic looked grim and ashen.</span></p>

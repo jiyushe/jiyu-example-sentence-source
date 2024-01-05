@@ -1,5 +1,7 @@
 # periodicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodicity.md)
+
 <p><span class="chinese">可公度性是周期性的扩张。</span><span class="english">Commensurability is an extension of periodicity.</span></p>
 
 <p><span class="chinese">其基本特征是半月周期性。</span><span class="english">The basic feature is the half-month periodicity.</span></p>

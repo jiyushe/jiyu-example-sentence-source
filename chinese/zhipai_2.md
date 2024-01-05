@@ -1,5 +1,7 @@
 # 纸牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipai_2.md)
+
 <p><span class="chinese">那些是未分发的纸牌。</span><span class="english">Those are undealt cards.</span></p>
 
 <p><span class="chinese">她有一副鬼精灵的纸牌。</span><span class="english">With a wicked pack of cards.</span></p>

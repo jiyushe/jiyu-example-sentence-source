@@ -1,5 +1,7 @@
 # gainsay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gainsay.md)
+
 <p><span class="chinese">没有人能反驳他的说法。</span><span class="english">Nobody can gainsay his claims.</span></p>
 
 <p><span class="chinese">没有能否认他的诚实。</span><span class="english">No one can gainsay his honesty.</span></p>

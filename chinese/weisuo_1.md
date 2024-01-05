@@ -1,5 +1,7 @@
 # 萎缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisuo_1.md)
+
 <p><span class="chinese">现在我们的食道萎缩了。</span><span class="english">Now our gullets are shriveled.</span></p>
 
 <p><span class="chinese">左图为正常睾丸，右图为萎缩睾丸。</span><span class="english">On the left is a normal testis.</span></p>

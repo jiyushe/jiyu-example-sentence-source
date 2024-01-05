@@ -1,5 +1,7 @@
 # 愁眉不展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumeibuzhan.md)
+
 <p><span class="chinese">焦虑使他愁眉不展。</span><span class="english">Worry clouded his brow.</span></p>
 
 <p><span class="chinese">当十二月的严寒令人愁眉不展。</span><span class="english">That, when December blights thy brow.</span></p>

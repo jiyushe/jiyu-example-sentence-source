@@ -1,5 +1,7 @@
 # 新潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinchao.md)
+
 <p><span class="chinese">你从什么时候起赶新潮来的?</span><span class="english">When have you switched on?</span></p>
 
 <p><span class="chinese">马提尼代表着酷和新潮。</span><span class="english">A martini defined cool and modern.</span></p>

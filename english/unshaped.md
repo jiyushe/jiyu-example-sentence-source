@@ -1,5 +1,7 @@
 # unshaped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unshaped.md)
+
 <p><span class="chinese">我为什么要问这么原始的才能？！</span><span class="english">Why do I even bother asking such unshaped talent?!</span></p>
 
 <p><span class="chinese">在有速度的情况下，糢糊的边线及消除具体边框可表达时间在移动时之形状。</span><span class="english">In a speedy condition, a blur or an unshaped outline could represent the shape of passing time.</span></p>

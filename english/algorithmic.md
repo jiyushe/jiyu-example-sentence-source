@@ -1,5 +1,7 @@
 # algorithmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algorithmic.md)
+
 <p><span class="chinese">是很难被归类到编程问题里面的。</span><span class="english">Like algorithmic complexity.</span></p>
 
 <p><span class="chinese">面向数值的算法语言?。</span><span class="english">VAL? Value – Oriented Algorithmic Language?</span></p>

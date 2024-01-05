@@ -1,5 +1,7 @@
 # preventer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preventer.md)
+
 <p><span class="chinese">我们用什么来管制封井器呢?。</span><span class="english">What do we use to control the blowout preventer?</span></p>
 
 <p><span class="chinese">侧门是闸板防喷器中的关键部件。</span><span class="english">The side-door is a key component in ram preventer.</span></p>

@@ -1,5 +1,7 @@
 # insensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insensible.md)
+
 <p><span class="chinese">攻击无知觉的东西是徒劳的。</span><span class="english">It is useless attacking the insensible.</span></p>
 
 <p><span class="chinese">掌握不感蒸发与发汗。</span><span class="english">To master insensible evaporation and sweating.</span></p>

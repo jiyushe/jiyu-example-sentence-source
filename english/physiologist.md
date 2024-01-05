@@ -1,5 +1,7 @@
 # physiologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physiologist.md)
+
 <p><span class="chinese">如果我们请来生理学家,他会告诉我们一些知识</span><span class="english">But we have the physiologist come in and he'd actually tell us these things.</span></p>
 
 <p><span class="chinese">生理学家新近研究表明，傍晚锻炼最为有益。</span><span class="english">The physiologist recently studied indicated that evening exercises beneficially.</span></p>

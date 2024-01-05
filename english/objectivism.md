@@ -1,5 +1,7 @@
 # objectivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/objectivism.md)
+
 <p><span class="chinese">笔者更倾向于采取一种相对客观主义的立场。</span><span class="english">The author favors in adopts one relatively objectivism the standpoint.</span></p>
 
 <p><span class="chinese">客观主义是关于个人和理性思考的重要性。</span><span class="english">Objectivism is about the importance of the individual and reasonable thought.</span></p>

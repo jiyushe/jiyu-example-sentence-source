@@ -1,5 +1,7 @@
 # japan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/japan.md)
+
 <p><span class="chinese">漆蜡。</span><span class="english">Japan wax.</span></p>
 
 <p><span class="chinese">日本和意大利。</span><span class="english">Japan and Italy.</span></p>

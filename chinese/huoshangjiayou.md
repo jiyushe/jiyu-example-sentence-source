@@ -1,5 +1,7 @@
 # 火上加油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshangjiayou.md)
+
 <p><span class="chinese">他无动于衷使她心中的怨恨火上加油。</span><span class="english">His indifference was a fuel to her hatred.</span></p>
 
 <p><span class="chinese">她那些不得体的话简直是火上加油。</span><span class="english">Her tactless remarks just added fuel to the fire.</span></p>

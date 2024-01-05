@@ -1,5 +1,7 @@
 # 货色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huose.md)
+
 <p><span class="chinese">他们俩人是一路货色。</span><span class="english">They are two of a kind.</span></p>
 
 <p><span class="chinese">你可买了一辆次等货色了。</span><span class="english">You’re really bought a lemon.</span></p>

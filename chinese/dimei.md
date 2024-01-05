@@ -1,5 +1,7 @@
 # 弟妹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dimei.md)
+
 <p><span class="chinese">我们的表弟妹们紧紧地缠着我们。</span><span class="english">Our cousins hook themselves on to us.</span></p>
 
 <p><span class="chinese">华兹是家中老大，有八个弟妹。</span><span class="english">He was the eldest in a family of nine children.</span></p>

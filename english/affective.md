@@ -1,5 +1,7 @@
 # affective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affective.md)
+
 <p><span class="chinese">所有情感的交织是什么？</span><span class="english">What is all affective interweave?</span></p>
 
 <p><span class="chinese">不过，礼轻情意重嘛！</span><span class="english">However, the ceremony affective light weight!</span></p>

@@ -1,5 +1,7 @@
 # megaphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megaphone.md)
+
 <p><span class="chinese">如果你是美国总统，你不需要扩音器。</span><span class="english">And you don't need a megaphone when you're the U.S. President.</span></p>
 
 <p><span class="chinese">这个超音波驱猫器看上去像个扩音器，因为它的确是的。</span><span class="english">The Mega-Sonic Scatter-Cat Repeller looks like a megaphone because it actually is one.</span></p>

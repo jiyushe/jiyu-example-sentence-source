@@ -1,5 +1,7 @@
 # 永生永世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongshengyongshi.md)
+
 <p><span class="chinese">真正的爱，粘在一起，永生永世分不开。</span><span class="english">Real love will stick together ever and forever.</span></p>
 
 <p><span class="chinese">我将会永生永世珍惜我探望此地留下的回想。</span><span class="english">I will cherish my visit here in memory when I live.</span></p>

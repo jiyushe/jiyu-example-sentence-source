@@ -1,5 +1,7 @@
 # behaviorism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behaviorism.md)
+
 <p><span class="chinese">行为主义则不同。</span><span class="english">Behaviorism is different.</span></p>
 
 <p><span class="chinese">有什么关于行为主义的问题吗？</span><span class="english">Any questions about behaviorism?</span></p>

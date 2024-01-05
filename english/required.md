@@ -1,5 +1,7 @@
 # required
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/required.md)
+
 <p><span class="chinese">白帽子需要。</span><span class="english">White hat required.</span></p>
 
 <p><span class="chinese">没有教科书。</span><span class="english">There is no required text.</span></p>

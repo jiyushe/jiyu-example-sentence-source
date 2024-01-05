@@ -1,5 +1,7 @@
 # dick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dick.md)
+
 <p><span class="chinese">你去哪里，迪克？</span><span class="english">Where to Dick?</span></p>
 
 <p><span class="chinese">迪克被开除了。</span><span class="english">Dick was dismissed.</span></p>

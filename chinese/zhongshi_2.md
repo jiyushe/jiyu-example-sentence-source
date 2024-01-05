@@ -1,5 +1,7 @@
 # 中式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshi_2.md)
+
 <p><span class="chinese">这是我所称的“中式嬉哈”。</span><span class="english">This is what I call "Chinked Out".</span></p>
 
 <p><span class="chinese">也就是说，他在说中式英语。</span><span class="english">That is, he was speaking Chinglish.</span></p>

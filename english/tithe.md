@@ -1,5 +1,7 @@
 # tithe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tithe.md)
+
 <p><span class="chinese">所以他给交了战争的什一税。</span><span class="english">And so he gives a tithe for the war.</span></p>
 
 <p><span class="chinese">但我说的这一切，都不过是冰山一角。</span><span class="english">And yet I have told thee but a tithe of what was there.</span></p>

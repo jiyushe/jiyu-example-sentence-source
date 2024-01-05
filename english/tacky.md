@@ -1,5 +1,7 @@
 # tacky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tacky.md)
+
 <p><span class="chinese">老想着钱是很俗气的。</span><span class="english">Worrying about money is tacky.</span></p>
 
 <p><span class="chinese">用劣质材料做的小盒子。</span><span class="english">Little boxes made of ticky tacky.</span></p>

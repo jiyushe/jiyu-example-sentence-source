@@ -1,5 +1,7 @@
 # 生根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenggen.md)
+
 <p><span class="chinese">有树自能生根。</span><span class="english">A tree roots itself.</span></p>
 
 <p><span class="chinese">有些插枝很容易生根。</span><span class="english">Some cuttings root easily.</span></p>

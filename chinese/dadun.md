@@ -1,5 +1,7 @@
 # 打盹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadun.md)
+
 <p><span class="chinese">你打盹，你收获。</span><span class="english">You snooze, you gain.</span></p>
 
 <p><span class="chinese">你一打盹儿，它就会吃了你。</span><span class="english">If you doze, it eats you up.</span></p>

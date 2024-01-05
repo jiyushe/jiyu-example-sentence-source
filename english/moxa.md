@@ -1,5 +1,7 @@
 # moxa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moxa.md)
+
 <p><span class="chinese">艾警官！</span><span class="english">Moxa police officer!</span></p>
 
 <p><span class="chinese">艾沫沫救出了毛毛。</span><span class="english">Moxa foam foam rescued Mao Mao.</span></p>

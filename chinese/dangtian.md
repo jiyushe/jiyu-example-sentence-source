@@ -1,5 +1,7 @@
 # 当天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangtian.md)
+
 <p><span class="chinese">当天，他美美地饱餐了一顿。</span><span class="english">That day,he ate his fill.</span></p>
 
 <p><span class="chinese">我是当天的分诊护士。</span><span class="english">I was triage nurse that day.</span></p>

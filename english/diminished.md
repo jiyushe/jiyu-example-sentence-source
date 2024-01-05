@@ -1,5 +1,7 @@
 # diminished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diminished.md)
+
 <p><span class="chinese">中教员！还是不减得好！</span><span class="english">The teacher! Or diminished well!</span></p>
 
 <p><span class="chinese">意外的开支减少了我们的存款数目。</span><span class="english">Unforeseen expenses diminished our savings.</span></p>

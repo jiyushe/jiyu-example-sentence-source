@@ -1,5 +1,7 @@
 # wallflower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wallflower.md)
+
 <p><span class="chinese">她宁愿留在家里，而不愿当壁花。</span><span class="english">She'd rather stay home than be a wallflower.</span></p>
 
 <p><span class="chinese">她宁愿独自跳舞，而不愿当壁花。</span><span class="english">She'd rather dance by herself than be a wallflower.</span></p>

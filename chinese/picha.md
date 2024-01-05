@@ -1,5 +1,7 @@
 # 劈叉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/picha.md)
+
 <p><span class="chinese">温迪虽然四十岁了，还能做劈叉。</span><span class="english">Wendy can still do splits though she is forty.</span></p>
 
 <p><span class="chinese">通常只有训练有素的舞蹈演员才会劈叉。</span><span class="english">Usually only a trained dancer can do the splits.</span></p>

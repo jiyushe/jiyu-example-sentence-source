@@ -1,5 +1,7 @@
 # genera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genera.md)
+
 <p><span class="chinese">是的，它属于乌龙茶类。</span><span class="english">Yes, it belongs to oolong genera.</span></p>
 
 <p><span class="chinese">这些动物分成五个属。</span><span class="english">These animals are distributed into five genera.</span></p>

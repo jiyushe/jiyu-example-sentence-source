@@ -1,5 +1,7 @@
 # 简单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiandan.md)
+
 <p><span class="chinese">非常简单</span><span class="english">Very simple.</span></p>
 
 <p><span class="chinese">简单阿，按下1G。</span><span class="english">Simple, press 1G.</span></p>

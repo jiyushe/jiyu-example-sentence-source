@@ -1,5 +1,7 @@
 # suchlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suchlike.md)
+
 <p><span class="chinese">忌吃猪肉和这一类不消化的东西。</span><span class="english">Avoid pork and suchlike indigestible food.</span></p>
 
 <p><span class="chinese">我在哪里可以买到诸如mini衬衫，帽子等物品?。</span><span class="english">Where can I buy MINI shirts, hats and suchlike?</span></p>

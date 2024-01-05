@@ -1,5 +1,7 @@
 # interminable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interminable.md)
+
 <p><span class="chinese">然而对大多私营企业，延迟是冗长的。</span><span class="english">But for most private firms, the delay can be interminable.</span></p>
 
 <p><span class="chinese">这最糟糕的八分钟是似乎是空前绝后的”。</span><span class="english">This fiasco was worse than any of them, and seemed interminable.</span></p>

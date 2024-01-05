@@ -1,5 +1,7 @@
 # fabled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabled.md)
+
 <p><span class="chinese">相传天堂的鸟没有脚。</span><span class="english">The bird of Paradise is fabled to have no feet.</span></p>
 
 <p><span class="chinese">杭州以其美景闻名神州大地。</span><span class="english">Hangzhou is fabled throughout China for its beauty.</span></p>

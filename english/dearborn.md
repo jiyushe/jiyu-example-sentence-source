@@ -1,5 +1,7 @@
 # dearborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dearborn.md)
+
 <p><span class="chinese">它被称为'来自迪尔伯恩的灾难'。</span><span class="english">It’s known as the 'disaster from Dearborn.'</span></p>
 
 <p><span class="chinese">穆拉利传唤的领导人福特的亚洲和欧洲的行动，以迪尔伯恩。</span><span class="english">Mulally summoned the leaders of Ford's Asian and European operations to Dearborn.</span></p>

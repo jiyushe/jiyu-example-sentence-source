@@ -1,5 +1,7 @@
 # vine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vine.md)
+
 <p><span class="chinese">常青藤上的叶子。</span><span class="english">On the ivy vine.</span></p>
 
 <p><span class="chinese">我是真葡萄树。</span><span class="english">I am the true Vine.</span></p>

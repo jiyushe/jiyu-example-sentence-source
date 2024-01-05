@@ -1,5 +1,7 @@
 # 壮大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangda.md)
+
 <p><span class="chinese">我们的队伍壮大了。</span><span class="english">Our ranks have swelled.</span></p>
 
 <p><span class="chinese">来吧，壮大力量。</span><span class="english">Come, strengthen the power.</span></p>

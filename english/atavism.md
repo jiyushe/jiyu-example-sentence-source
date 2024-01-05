@@ -1,5 +1,7 @@
 # atavism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atavism.md)
+
 <p><span class="chinese">这些都可以解释为一种精神的返祖现象。</span><span class="english">An individual or a part that exhibits atavism.</span></p>
 
 <p><span class="chinese">这些都可以解释为一种精神的返祖现象。</span><span class="english">They are explainable as a species of mental atavism.</span></p>

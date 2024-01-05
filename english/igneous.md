@@ -1,5 +1,7 @@
 # igneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/igneous.md)
+
 <p><span class="chinese">可是在这些不火的小组里。</span><span class="english">But be in these not in igneous group.</span></p>
 
 <p><span class="chinese">黄晶通常产于火成岩岩石纹。</span><span class="english">Topaz occurs in the igneous rock rhyolite.</span></p>

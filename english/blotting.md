@@ -1,5 +1,7 @@
 # blotting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blotting.md)
+
 <p><span class="chinese">吸墨水纸吸墨水。</span><span class="english">Blotting paper absorbs ink.</span></p>
 
 <p><span class="chinese">吸墨纸吸起墨水。</span><span class="english">Blotting paper soaks up ink.</span></p>

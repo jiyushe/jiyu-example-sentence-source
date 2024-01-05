@@ -1,5 +1,7 @@
 # neurofibroma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurofibroma.md)
+
 <p><span class="chinese">孤独内神经纤维瘤是罕见的，主要发生在颌骨。</span><span class="english">A solitary intraosseous neurofibroma is rare and mostly occurs in the mandible.</span></p>
 
 <p><span class="chinese">目的研究神经纤维瘤及巨大神经纤维瘤的整形外科治疗。</span><span class="english">Objective To study the plastic surgical treatment of neurofibroma and giant neurofibroma.</span></p>

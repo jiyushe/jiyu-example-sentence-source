@@ -1,5 +1,7 @@
 # 总成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongcheng.md)
+
 <p><span class="chinese">风扇电机、风扇总成、鼓风机电机。</span><span class="english">Fan motor, fan assy, blower motor.</span></p>
 
 <p><span class="chinese">我公司生产的吊钩总成。</span><span class="english">Our company produCes hook range, lifting sheave.</span></p>

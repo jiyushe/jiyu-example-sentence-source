@@ -1,5 +1,7 @@
 # huron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huron.md)
+
 <p><span class="chinese">休伦湖作为一条水路。</span><span class="english">Lake Huron as a waterway.</span></p>
 
 <p><span class="chinese">日落在休伦河。</span><span class="english">Sunset over the Huron River.</span></p>

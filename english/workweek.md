@@ -1,5 +1,7 @@
 # workweek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workweek.md)
+
 <p><span class="chinese">让我们告别传统的每周40小时工作制吧。</span><span class="english">Say goodbye to the classic 40-hour workweek.</span></p>
 
 <p><span class="chinese">在周末，你会遇到多大的浪费时间的事情？</span><span class="english">What big time-wasters crop up during your workweek?</span></p>

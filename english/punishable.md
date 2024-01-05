@@ -1,5 +1,7 @@
 # punishable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punishable.md)
+
 <p><span class="chinese">在他治下，异见者杀无赦。</span><span class="english">In his Libya, dissent was punishable by death.</span></p>
 
 <p><span class="chinese">中国斟酌减少适用死刑罪行。</span><span class="english">China mulls less crimes punishable by execution.</span></p>

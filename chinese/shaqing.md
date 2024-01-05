@@ -1,5 +1,7 @@
 # 杀青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaqing.md)
+
 <p><span class="chinese">这就是“杀青”工序了。</span><span class="english">This is the "fixation" procedure.</span></p>
 
 <p><span class="chinese">那将会是一个激动人心的杀青派对。</span><span class="english">WHAT a wrap party that's going to be.</span></p>

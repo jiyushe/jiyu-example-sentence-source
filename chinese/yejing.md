@@ -1,5 +1,7 @@
 # 业经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yejing.md)
+
 <p><span class="chinese">应急停止程序业经同意？</span><span class="english">Has the emergency shutdown procedure been agreed?</span></p>
 
 <p><span class="chinese">事故的某些细节业经删除。</span><span class="english">Some details of the accident have been red-penciled.</span></p>

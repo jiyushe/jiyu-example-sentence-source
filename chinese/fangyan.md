@@ -1,5 +1,7 @@
 # 放眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangyan.md)
+
 <p><span class="chinese">放眼远望，海天一色。</span><span class="english">Far-sighted, sea and sky merged.</span></p>
 
 <p><span class="chinese">放眼望去，都是舒适的房间。</span><span class="english">Cozy rooms look out over the district.</span></p>

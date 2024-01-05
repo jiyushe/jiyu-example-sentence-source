@@ -1,5 +1,7 @@
 # 惟妙惟肖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimiaoweixiao.md)
+
 <p><span class="chinese">瞧，我们惟妙惟肖的英语课本剧表演真棒！</span><span class="english">How lively we act the English play!</span></p>
 
 <p><span class="chinese">他甚至能惟妙惟肖地模仿他们。</span><span class="english">He even could imitate them perfectly.</span></p>

@@ -1,5 +1,7 @@
 # pampered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pampered.md)
+
 <p><span class="chinese">我只是个被娇惯坏了的西方人，一个没有主见的人。</span><span class="english">I am just a pampered Western wuss.</span></p>
 
 <p><span class="chinese">她不肯意被人家贴标签是有钱人家娇生惯养的令媛年夜蜜斯。</span><span class="english">She doesn't want to be labeled as a pampered rich girl.</span></p>

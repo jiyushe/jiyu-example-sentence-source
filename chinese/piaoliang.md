@@ -1,5 +1,7 @@
 # 漂亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoliang.md)
+
 <p><span class="chinese">很漂亮的。</span><span class="english">It's very nice.</span></p>
 
 <p><span class="chinese">你看起来、真漂亮。</span><span class="english">You look so well!</span></p>

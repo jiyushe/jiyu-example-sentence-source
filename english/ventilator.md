@@ -1,5 +1,7 @@
 # ventilator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventilator.md)
+
 <p><span class="chinese">需要呼吸器。</span><span class="english">Needs a ventilator.</span></p>
 
 <p><span class="chinese">为什么通风器会漏水？</span><span class="english">Why would Water Leakage ventilator?</span></p>

@@ -1,5 +1,7 @@
 # tetraethyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetraethyl.md)
+
 <p><span class="chinese">汽车尾气中的四乙基铅是剧毒物质。</span><span class="english">Automobile exhaust tetraethyl lead is a highly toxic substance.</span></p>
 
 <p><span class="chinese">他叙述了恙虫对焦磷酸四乙脂的抗性进化。</span><span class="english">He described the evolution of resistance in Tetranychus against tetraethyl pyrophate.</span></p>

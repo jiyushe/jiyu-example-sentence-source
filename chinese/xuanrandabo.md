@@ -1,5 +1,7 @@
 # 轩然大波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanrandabo.md)
+
 <p><span class="chinese">正好被阿帕查撞见，惹起一场轩然大波。</span><span class="english">Just be the check caught, to provoke up a storm.</span></p>
 
 <p><span class="chinese">在法国，一本新书在文学界引起了轩然大波。</span><span class="english">A new book out in France has a literary world buzzing.</span></p>

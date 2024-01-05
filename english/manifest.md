@@ -1,5 +1,7 @@
 # manifest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manifest.md)
+
 <p><span class="chinese">不知道那个芭乐，不在载货单上。</span><span class="english">Isn't on the manifest.</span></p>
 
 <p><span class="chinese">她脸上显露出惧怕的神情。</span><span class="english">Fear was manifest on her face.</span></p>

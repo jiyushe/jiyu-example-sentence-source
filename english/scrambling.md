@@ -1,5 +1,7 @@
 # scrambling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrambling.md)
+
 <p><span class="chinese">混乱开始了。</span><span class="english">The scrambling begins.</span></p>
 
 <p><span class="chinese">大伙都在抢购球票。</span><span class="english">People are scrambling for tickets.</span></p>

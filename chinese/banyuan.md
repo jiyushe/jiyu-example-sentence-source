@@ -1,5 +1,7 @@
 # 半圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyuan.md)
+
 <p><span class="chinese">请坐成半圆。快集合，请坐下。</span><span class="english">Please sit in a semi-circle.</span></p>
 
 <p><span class="chinese">抖动以图中的半圆来显示。</span><span class="english">The wobble is shown in the half-circles.</span></p>

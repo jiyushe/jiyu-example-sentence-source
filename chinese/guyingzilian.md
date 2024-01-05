@@ -1,5 +1,7 @@
 # 顾影自怜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyingzilian.md)
+
 <p><span class="chinese">她长时间在镜子中顾影自怜?。</span><span class="english">He admired herself long in the mirror.</span></p>
 
 <p><span class="chinese">他们没有浪费精力去怨天尤人或者顾影自怜。</span><span class="english">They did not waste energy on anger or self-pity.</span></p>

@@ -1,5 +1,7 @@
 # bilinear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilinear.md)
+
 <p><span class="chinese">一种新的多重代理签名方案。</span><span class="english">A new multi-proxy signature from bilinear pairings.</span></p>
 
 <p><span class="chinese">该方法的主要数学工具是双线性插值。</span><span class="english">The main mathematical tool of this method is bilinear interpolation.</span></p>

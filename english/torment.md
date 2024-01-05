@@ -1,5 +1,7 @@
 # torment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torment.md)
+
 <p><span class="chinese">求你不要叫我受苦。</span><span class="english">I beseech thee, torment me not.</span></p>
 
 <p><span class="chinese">这病真磨人!</span><span class="english">What a torment this illness is!</span></p>

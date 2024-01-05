@@ -1,5 +1,7 @@
 # bedivere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedivere.md)
+
 <p><span class="chinese">贝德维尔爵士回到了亚瑟王身边。</span><span class="english">Sir Bedivere returned to King Arthur.</span></p>
 
 <p><span class="chinese">贝德维尔爵士去了湖边，他将神剑Excalibur远远地扔在水里。</span><span class="english">Sir Bedivere went to the lake. He threw Excalibur far into the water.</span></p>

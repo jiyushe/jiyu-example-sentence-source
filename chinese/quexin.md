@@ -1,5 +1,7 @@
 # 确信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quexin.md)
+
 <p><span class="chinese">有人会问我为何如此确信。</span><span class="english">How can I be sure?</span></p>
 
 <p><span class="chinese">我很确信荣恩也一样。</span><span class="english">And I'm sure Roy is, too.</span></p>

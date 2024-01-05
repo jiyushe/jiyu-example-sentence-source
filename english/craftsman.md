@@ -1,5 +1,7 @@
 # craftsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craftsman.md)
+
 <p><span class="chinese">他去跟一名手艺人当穴谓。</span><span class="english">He's apprenticed to a craftsman.</span></p>
 
 <p><span class="chinese">他去跟一名手艺人当学徒。</span><span class="english">He's apprenticed to a craftsman.</span></p>

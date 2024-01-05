@@ -1,5 +1,7 @@
 # 刀痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daohen.md)
+
 <p><span class="chinese">他手指上的刀痕是一把小刀割的。</span><span class="english">The cut in his finger was from a knife.</span></p>
 
 <p><span class="chinese">他身中数枪，还有刀痕。</span><span class="english">In his body number gun, but also has the slash.</span></p>

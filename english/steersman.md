@@ -1,5 +1,7 @@
 # steersman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steersman.md)
+
 <p><span class="chinese">年轻的驾手小心望。</span><span class="english">A young steersman steering with care.</span></p>
 
 <p><span class="chinese">像一只没有方向的小舟，在寻找着永远的舵手。</span><span class="english">Like a directionless boat, it is seeking the eternal steersman.</span></p>

@@ -1,5 +1,7 @@
 # 笑笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiao_3.md)
+
 <p><span class="chinese">不要哭，笑笑就好。</span><span class="english">Don't cry, laugh is good.</span></p>
 
 <p><span class="chinese">一起说说笑笑。</span><span class="english">Laughing with me together.</span></p>

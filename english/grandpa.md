@@ -1,5 +1,7 @@
 # grandpa 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandpa.md)
+
 <p><span class="chinese">爷爷唱起来啊！</span><span class="english">Sing it, grandpa.</span></p>
 
 <p><span class="chinese">他整天都在同爷爷一起钓鱼。</span><span class="english">He's his grandpa the.</span></p>

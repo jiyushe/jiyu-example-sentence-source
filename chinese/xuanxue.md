@@ -1,5 +1,7 @@
 # 选学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanxue.md)
+
 <p><span class="chinese">这位学生选学初等数学课程。</span><span class="english">The student took a course in elementary maths.</span></p>
 
 <p><span class="chinese">咱选学四门课，其中一门是会计学。</span><span class="english">Irm taking four courses, one of which is accounting.</span></p>

@@ -1,5 +1,7 @@
 # turquoise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turquoise.md)
+
 <p><span class="chinese">黑色带蓝色和绿松石色闪片。</span><span class="english">Black with blue & turquoise sparkle.</span></p>
 
 <p><span class="chinese">十二月--绿松石或锆石</span><span class="english">December -- Turquoise or Blue Zircon</span></p>

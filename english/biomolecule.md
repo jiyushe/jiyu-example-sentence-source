@@ -1,5 +1,7 @@
 # biomolecule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomolecule.md)
+
 <p><span class="chinese">本发明提供一种将生物分子固定到固体基质上的方法。</span><span class="english">Provided is a method for immobilizing a biomolecule on a solid substrate.</span></p>
 
 <p><span class="chinese">量子化学的方法对生物分子研究的发展提供了全新的思路和方法。</span><span class="english">The method of Quantum chemistry provides a new thought and method for the research of biomolecule field.</span></p>

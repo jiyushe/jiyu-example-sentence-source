@@ -1,5 +1,7 @@
 # moodily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moodily.md)
+
 <p><span class="chinese">他心情不快地望着大海。</span><span class="english">He looked at the sea moodily.</span></p>
 
 <p><span class="chinese">“那是一个心理问题，”他犹豫地说。</span><span class="english">It's a question of psychology, " he said moodily."</span></p>

@@ -1,5 +1,7 @@
 # wordplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wordplay.md)
+
 <p><span class="chinese">汉密尔顿喜欢玩文字游戏。</span><span class="english">Hamilton loves wordplay.</span></p>
 
 <p><span class="chinese">双关语是所有语言里都存在的一种文字游戏。</span><span class="english">Puns are a form of wordplay that exists in all languages.</span></p>

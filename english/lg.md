@@ -1,5 +1,7 @@
 # lg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lg.md)
+
 <p><span class="chinese">此项目与乐喜金星电子一起合作。</span><span class="english">It is working with LG Electronics on the project.</span></p>
 
 <p><span class="chinese">LG发布了一款新型超薄滑盖音乐手机KV5900。</span><span class="english">LG has a new slim slider music phone, the KV5900.</span></p>

@@ -1,5 +1,7 @@
 # halve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halve.md)
+
 <p><span class="chinese">这个数字在生命后期会减半。</span><span class="english">This number can halve later in life.</span></p>
 
 <p><span class="chinese">接下来的动作叫做半蹲。</span><span class="english">This is what I called the Halve Squat.</span></p>

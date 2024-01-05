@@ -1,5 +1,7 @@
 # 三三两两
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sansanliangliang.md)
+
 <p><span class="chinese">人们三三两两地来到了晚会上。</span><span class="english">People arrived at the party in-dribs and drabs.</span></p>
 
 <p><span class="chinese">偶尔也有三三两两跑步的年轻人擦肩而过。</span><span class="english">Occasionally, there are 3,322 young people running pass.</span></p>

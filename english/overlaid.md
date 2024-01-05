@@ -1,5 +1,7 @@
 # overlaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overlaid.md)
+
 <p><span class="chinese">圆屋顶包了金。</span><span class="english">The dome is overlaid with gold.</span></p>
 
 <p><span class="chinese">又用金子包裹二基路伯。</span><span class="english">He overlaid the cherubim with gold.</span></p>

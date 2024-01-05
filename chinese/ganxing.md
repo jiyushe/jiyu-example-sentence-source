@@ -1,5 +1,7 @@
 # 感性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxing.md)
+
 <p><span class="chinese">如果是后者，那他们也将是感性的哭泣者。</span><span class="english">For the latter, this will be a weeper.</span></p>
 
 <p><span class="chinese">艺术形象又具有情感性和思想性。</span><span class="english">Art image but also has emotion and thought.</span></p>

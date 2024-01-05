@@ -1,5 +1,7 @@
 # luke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luke.md)
+
 <p><span class="chinese">路加就是一个坚守者。</span><span class="english">Luke was a stander.</span></p>
 
 <p><span class="chinese">卢克是一个又高又大的人。</span><span class="english">Luke is a large man.</span></p>

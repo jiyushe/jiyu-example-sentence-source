@@ -1,5 +1,7 @@
 # le
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/le.md)
+
 <p><span class="chinese">我的名字叫李乐。</span><span class="english">My name is Li Le.</span></p>
 
 <p><span class="chinese">我就是乐先生，你们的导游。</span><span class="english">I am Mr Le. Your tour guide.</span></p>

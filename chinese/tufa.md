@@ -1,5 +1,7 @@
 # 土法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tufa.md)
+
 <p><span class="chinese">胡麻油就是采用土法或榨油机生产出的食用油。</span><span class="english">Hu is the use of indigenous or sesame oil produced from oil press.</span></p>
 
 <p><span class="chinese">国家采取措施取缔土法炼焦。</span><span class="english">The State shall adopt measures to ban coke making by indigenous methods.</span></p>

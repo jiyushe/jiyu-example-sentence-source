@@ -1,5 +1,7 @@
 # 注疏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushu.md)
+
 <p><span class="chinese">导师用心背熟了古兰，及775000段正确及错误的注疏。</span><span class="english">He had memorized Qur'an by heart and memorized 775,000 adaths, both the correct and the false.</span></p>
 
 <p><span class="chinese">“十三经”是中华文明成果的组成部分，而注疏是“十三经”流传至今的保证。</span><span class="english">The "Thirteen Classics" belong to Chinese civilization and their spread is due to the commentaries.</span></p>

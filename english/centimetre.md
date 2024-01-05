@@ -1,5 +1,7 @@
 # centimetre 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centimetre.md)
+
 <p><span class="chinese">这张约宽十五厘米。</span><span class="english">The paper be fifteen centimetre wide.</span></p>
 
 <p><span class="chinese">将每个测量数目四舍五入到最近的英寸或厘米整数。</span><span class="english">Round each measurement to the nearest whole inch or centimetre.</span></p>

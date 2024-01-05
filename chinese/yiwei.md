@@ -1,5 +1,7 @@
 # 一味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwei.md)
+
 <p><span class="chinese">他们在热那亚一味坑害她。</span><span class="english">They let her in at Genoa.</span></p>
 
 <p><span class="chinese">蜘蛛香为一味传统的中药。</span><span class="english">It should be a traditional drug.</span></p>

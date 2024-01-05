@@ -1,5 +1,7 @@
 # binary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binary.md)
+
 <p><span class="chinese">在一些双星系里。</span><span class="english">In some binary systems.</span></p>
 
 <p><span class="chinese">二进制数据通信。</span><span class="english">Binary data communication.</span></p>

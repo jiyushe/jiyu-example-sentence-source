@@ -1,5 +1,7 @@
 # 全天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quantian.md)
+
 <p><span class="chinese">全天参观寒泉小学。</span><span class="english">Day at Cold Spring School.</span></p>
 
 <p><span class="chinese">其中一家全天放映卡通片。</span><span class="english">One theater shows cartoons all day.</span></p>

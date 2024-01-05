@@ -1,5 +1,7 @@
 # humorless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humorless.md)
+
 <p><span class="chinese">普京是缺少幽默感的。</span><span class="english">Putin himself is sardonic but humorless.</span></p>
 
 <p><span class="chinese">日本人的训练方法即缺乏幽默感又不知疲倦。</span><span class="english">Jap training methods are both humorless and tireless.</span></p>

@@ -1,5 +1,7 @@
 # trickle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trickle.md)
+
 <p><span class="chinese">涓涓小溪也会成为滚滚洪流。</span><span class="english">A trickle becomes a torrent.</span></p>
 
 <p><span class="chinese">但是从前稳定的人才流入如今变为了涓涓细流。</span><span class="english">But a once-steady flow is now a trickle.</span></p>

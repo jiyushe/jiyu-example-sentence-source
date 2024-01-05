@@ -1,5 +1,7 @@
 # fetishism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetishism.md)
+
 <p><span class="chinese">这就是对艺术的盲目崇拜。</span><span class="english">This is the fetishism of art.</span></p>
 
 <p><span class="chinese">然而，对艺术的盲目崇拜也是错误的。</span><span class="english">However, fetishism of art is mistaken, too.</span></p>

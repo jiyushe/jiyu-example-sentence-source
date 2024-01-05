@@ -1,5 +1,7 @@
 # 让位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangwei.md)
+
 <p><span class="chinese">和谐已经让位给了不和谐。</span><span class="english">Harmony has yielded to discord.</span></p>
 
 <p><span class="chinese">没人让位给那位老人坐。</span><span class="english">No people gave the seat to the oldie.</span></p>

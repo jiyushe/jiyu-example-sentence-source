@@ -1,5 +1,7 @@
 # handcuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handcuff.md)
+
 <p><span class="chinese">自己的右手和他递解的囚犯铐在一起的？</span><span class="english">Officer to handcuff a prisoner to his right hand?</span></p>
 
 <p><span class="chinese">我把电公拷上手铐，把雷母送进牢房。</span><span class="english">I done handcuff lightning and put thunder in jail.</span></p>

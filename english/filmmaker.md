@@ -1,5 +1,7 @@
 # filmmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filmmaker.md)
+
 <p><span class="chinese">桑斯把刘先生和一位电影制作者相比较。</span><span class="english">Sans compares Liu to a filmmaker.</span></p>
 
 <p><span class="chinese">毫无疑问他也是个电影制作人。</span><span class="english">And also a filmmaker. Oh, that's right.</span></p>

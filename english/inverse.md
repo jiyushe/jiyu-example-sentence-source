@@ -1,5 +1,7 @@
 # inverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inverse.md)
+
 <p><span class="chinese">这是一个逆变换。</span><span class="english">It's the inverse transformation.</span></p>
 
 <p><span class="chinese">他们黑暗中展示逆光模式。</span><span class="english">They show inverse mode at night.</span></p>

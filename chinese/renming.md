@@ -1,5 +1,7 @@
 # 人命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renming.md)
+
 <p><span class="chinese">人命不能用金钱衡量。</span><span class="english">I think it can't be used monetarily.</span></p>
 
 <p><span class="chinese">法律轻，所以人命轻。</span><span class="english">Belittled life results from belittled laws.</span></p>

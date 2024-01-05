@@ -1,5 +1,7 @@
 # glutton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glutton.md)
+
 <p><span class="chinese">可怜这个世界吧，再不，贪夫。</span><span class="english">Pity the world, or else this glutton be.</span></p>
 
 <p><span class="chinese">他是一个对惩罚和辛苦无所畏惧的人。</span><span class="english">He is a glutton for punishment and hard work.</span></p>

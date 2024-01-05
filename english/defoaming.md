@@ -1,5 +1,7 @@
 # defoaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defoaming.md)
+
 <p><span class="chinese">有去泡及过滤作用。</span><span class="english">Having functions of defoaming and filtering.</span></p>
 
 <p><span class="chinese">消泡作用在生产乳饮料时。</span><span class="english">Defoaming role in the production of milk drinks.</span></p>

@@ -1,5 +1,7 @@
 # tui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tui.md)
+
 <p><span class="chinese">途易旅游拥有143架飞机。</span><span class="english">TUI Travel owns 143 aircraft.</span></p>
 
 <p><span class="chinese">但是，在爱德不在身边的时候，图伊与另外一个男人相爱了。</span><span class="english">But while Ed is away, Tui has fallen in love with another man.</span></p>

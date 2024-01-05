@@ -1,5 +1,7 @@
 # woe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woe.md)
+
 <p><span class="chinese">谁有祸患？</span><span class="english">Who has woe?</span></p>
 
 <p><span class="chinese">哥拉汛哪，你有祸了。</span><span class="english">Woe unto thee, Chorazin!</span></p>

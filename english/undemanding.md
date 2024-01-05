@@ -1,5 +1,7 @@
 # undemanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undemanding.md)
+
 <p><span class="chinese">懒散的街道是如此的安宁。</span><span class="english">The lazy streets so undemanding.</span></p>
 
 <p><span class="chinese">她是不苛求的，并且总是能迅速回应。</span><span class="english">She was easy and undemanding and always had a quick reply.</span></p>

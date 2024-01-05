@@ -1,5 +1,7 @@
 # ideological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideological.md)
+
 <p><span class="chinese">整个思想战线的工作都需要加强。</span><span class="english">All our ideological work has to be improved.</span></p>
 
 <p><span class="chinese">齐泽克的意识形态理论分为两个部分。</span><span class="english">Zizek's ideological theory consists of two parts.</span></p>

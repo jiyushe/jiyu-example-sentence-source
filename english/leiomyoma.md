@@ -1,5 +1,7 @@
 # leiomyoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leiomyoma.md)
+
 <p><span class="chinese">本文报告一膀胱平滑肌瘤病例。</span><span class="english">Herein, we report a case of leiomyoma of the bladder.</span></p>
 
 <p><span class="chinese">子宫壁内和浆膜下各有一平滑肌瘤。</span><span class="english">The uterus has an intramural and a subserosal leiomyoma.</span></p>

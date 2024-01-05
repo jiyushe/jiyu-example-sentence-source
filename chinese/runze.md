@@ -1,5 +1,7 @@
 # 润泽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runze.md)
+
 <p><span class="chinese">这匹马全身润泽有光。</span><span class="english">The horse's coat was sleek and glossy.</span></p>
 
 <p><span class="chinese">迷思不仅用言辞滋养还用沉默润泽。</span><span class="english">Myth is nourished by silence as well as by words.</span></p>

@@ -1,5 +1,7 @@
 # chloral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloral.md)
+
 <p><span class="chinese">水合氯醛为一种作用迅速的催眠药。</span><span class="english">Chloral hydrate is a rapidly effective hypnotic.</span></p>
 
 <p><span class="chinese">此外，“水合三氯乙醛”和“戊巴比妥”还有交叉的耐药性。</span><span class="english">Plus Chloral Hydrate has a cross tolerance with Nembutal.</span></p>

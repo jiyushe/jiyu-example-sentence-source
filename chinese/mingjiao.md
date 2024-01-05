@@ -1,5 +1,7 @@
 # 明胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingjiao.md)
+
 <p><span class="chinese">即科学家设法将细菌困在明胶内。</span><span class="english">The scientists trap the bacteria in a gel.</span></p>
 
 <p><span class="chinese">软胶囊由明胶，甘油和水。</span><span class="english">Softgel consists of gelatin, glycerin and water.</span></p>

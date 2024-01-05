@@ -1,5 +1,7 @@
 # 著作权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzuoquan.md)
+
 <p><span class="chinese">本光盘的著作权归作者所有。</span><span class="english">Of the copyright of the CD-ROM of all.</span></p>
 
 <p><span class="chinese">工业产权，著作权，冲突。</span><span class="english">Industrial Property, Copyright, The Conflict.</span></p>

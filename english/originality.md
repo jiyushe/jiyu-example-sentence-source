@@ -1,5 +1,7 @@
 # originality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/originality.md)
+
 <p><span class="chinese">它的音乐和创意简直是完美！</span><span class="english">It's BGM and originality is perfect!</span></p>
 
 <p><span class="chinese">原始记录性是档案的本质属性。</span><span class="english">Originality is the nature of archives.</span></p>

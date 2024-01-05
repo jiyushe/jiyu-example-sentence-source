@@ -1,5 +1,7 @@
 # 袒露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanlu_1.md)
+
 <p><span class="chinese">袒露你的恐惧。</span><span class="english">Share your fears.</span></p>
 
 <p><span class="chinese">敞开心胸。袒露你的恐惧。</span><span class="english">Open up. Share your fears.</span></p>

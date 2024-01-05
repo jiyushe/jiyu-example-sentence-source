@@ -1,5 +1,7 @@
 # 投机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touji_1.md)
+
 <p><span class="chinese">他们聊得很投机。</span><span class="english">They chat very congenially.</span></p>
 
 <p><span class="chinese">我是一个投机的月光猴子。</span><span class="english">I'm a moonbeam monkey on spec.</span></p>

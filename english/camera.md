@@ -1,5 +1,7 @@
 # camera 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camera.md)
+
 <p><span class="chinese">你需要一架照像机。</span><span class="english">You need a camera.</span></p>
 
 <p><span class="chinese">还有个摄影机。</span><span class="english">There is the camera.</span></p>

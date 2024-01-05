@@ -1,5 +1,7 @@
 # nutritional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutritional.md)
+
 <p><span class="chinese">绿色无污染，营养价值极高。</span><span class="english">Green non-polluting, high nutritional value.</span></p>
 
 <p><span class="chinese">河北红小豆具有较高的营养价值。</span><span class="english">Hebei Red Bean has a higher nutritional value.</span></p>

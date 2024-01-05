@@ -1,5 +1,7 @@
 # 想象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiang_1.md)
+
 <p><span class="chinese">放飞想象。</span><span class="english">Just imagine.</span></p>
 
 <p><span class="chinese">你能够想象在22岁的时候就自己当老板并且财政独立么？</span><span class="english">Could you imagine?</span></p>

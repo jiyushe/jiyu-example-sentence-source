@@ -1,5 +1,7 @@
 # venography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venography.md)
+
 <p><span class="chinese">大多数患者通过超声检查或者门静脉造影可以确诊。</span><span class="english">Most cases can be detected by ultrasonography or portal venography.</span></p>
 
 <p><span class="chinese">方法采用下肢直接静脉造影的方法对36例病人进行检查。</span><span class="english">Methods The lower extremities direct CT venography was performed in 36 patients.</span></p>

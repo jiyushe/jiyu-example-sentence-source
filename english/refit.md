@@ -1,5 +1,7 @@
 # refit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refit.md)
+
 <p><span class="chinese">他们的轮船被送入港口倾侧待修。</span><span class="english">Their ship was put into port to careen and refit.</span></p>
 
 <p><span class="chinese">这一程序不明确。你整修或重建？</span><span class="english">This procedure is not clear. Do you refit or rebuild?</span></p>

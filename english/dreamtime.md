@@ -1,5 +1,7 @@
 # dreamtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamtime.md)
+
 <p><span class="chinese">心脏脉轮是无条件爱的梦想时间层。</span><span class="english">The heart chakra is the dreamtime of non-conditional love.</span></p>
 
 <p><span class="chinese">转动梦想时间的主轴绕极光旋转。</span><span class="english">The main spindle that turns dreamtime revolves around the aurora.</span></p>

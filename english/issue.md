@@ -1,5 +1,7 @@
 # issue 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/issue.md)
+
 <p><span class="chinese">费用是一大问题。</span><span class="english">Cost is one issue.</span></p>
 
 <p><span class="chinese">纠缠这个问题。</span><span class="english">Entangle this issue.</span></p>

@@ -1,5 +1,7 @@
 # 股市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushi_4.md)
+
 <p><span class="chinese">股市行情看跌。</span><span class="english">The stock market tumbled.</span></p>
 
 <p><span class="chinese">股市在2008年跌得更狠。</span><span class="english">Stocks fell even harder in 2008.</span></p>

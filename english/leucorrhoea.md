@@ -1,5 +1,7 @@
 # leucorrhoea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leucorrhoea.md)
+
 <p><span class="chinese">适用于赤白带下。</span><span class="english">Apply to bare leucorrhoea to fall.</span></p>
 
 <p><span class="chinese">怀孕还有没有白带的?。</span><span class="english">Be pregnant to still have leucorrhoea?</span></p>

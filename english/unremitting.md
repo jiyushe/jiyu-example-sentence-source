@@ -1,5 +1,7 @@
 # unremitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unremitting.md)
+
 <p><span class="chinese">星期二是同样的连续不断的苦工。</span><span class="english">Tuesday was a day of similar unremitting toil.</span></p>
 
 <p><span class="chinese">趁年轻，不懈地努力把握最好的时光！</span><span class="english">Young, unremitting efforts grasp the best time!</span></p>

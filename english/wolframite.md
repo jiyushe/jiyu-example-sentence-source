@@ -1,5 +1,7 @@
 # wolframite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolframite.md)
+
 <p><span class="chinese">黑钨矿的润湿性是各向异性的。</span><span class="english">The wetting character of wolframite is anisotropic.</span></p>
 
 <p><span class="chinese">钨矿物除黑钨矿外，还伴生有少量白钨矿。</span><span class="english">There is also small amount of associated scheelite other than wolframite.</span></p>

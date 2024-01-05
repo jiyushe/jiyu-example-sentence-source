@@ -1,5 +1,7 @@
 # nepali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nepali.md)
+
 <p><span class="chinese">尼泊尔旅游事业的主要焦点是文化。</span><span class="english">Culture is the main focus of Nepali tourism business.</span></p>
 
 <p><span class="chinese">但是尼泊尔大会党不能放弃这个口号。</span><span class="english">But the Nepali Congress could not give up this slogan.</span></p>

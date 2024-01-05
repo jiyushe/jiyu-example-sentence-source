@@ -1,5 +1,7 @@
 # 惊恐万状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingkongwanzhuang.md)
+
 <p><span class="chinese">她看见他跌下惊恐万状。</span><span class="english">To her horror, she saw him fall.</span></p>
 
 <p><span class="chinese">他的哥哥遭到抢劫，惊恐万状。</span><span class="english">His brother was alarmed at the robbery.</span></p>

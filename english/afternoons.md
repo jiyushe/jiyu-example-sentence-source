@@ -1,5 +1,7 @@
 # afternoons
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afternoons.md)
+
 <p><span class="chinese">下午我都去风帆冲浪。</span><span class="english">I went windsurfing most afternoons.</span></p>
 
 <p><span class="chinese">湿乎乎的三明治会让你午后昏昏欲睡。</span><span class="english">Soggy sandwiches create lethargic afternoons.</span></p>

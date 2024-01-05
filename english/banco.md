@@ -1,5 +1,7 @@
 # banco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banco.md)
+
 <p><span class="chinese">法国兴业银行和西班牙桑坦德银行领跌银行股。</span><span class="english">Societe Generale SA and Banco Santander SA led banking shares lower.</span></p>
 
 <p><span class="chinese">拖延的原因是朝鲜在澳门汇业银行的冻结资金问题尚未解决。</span><span class="english">The delay resulted from the unresolved issue of the North’s frozen assets in Banco Delta Asia.</span></p>

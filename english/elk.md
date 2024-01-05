@@ -1,5 +1,7 @@
 # elk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elk.md)
+
 <p><span class="chinese">2010年秋天一个清晨的麋鹿。</span><span class="english">Elk early morning in fall 2010.</span></p>
 
 <p><span class="chinese">我感觉到了一丝脉搏！这头麋鹿还没有死。</span><span class="english">I found a pulse! The elk was not dead.</span></p>

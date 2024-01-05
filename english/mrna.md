@@ -1,5 +1,7 @@
 # mrna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mrna.md)
+
 <p><span class="chinese">确定肝脏和肺脏能否合成醛固酮。</span><span class="english">CYP 11B2 mRNA expression was identified in the liver and lung of rats.</span></p>
 
 <p><span class="chinese">原位杂交证实了放射自显影结果。</span><span class="english">In situ hybridization for Y1 mRNA confirmed the autoradiography results.</span></p>

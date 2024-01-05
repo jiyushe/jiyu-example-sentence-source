@@ -1,5 +1,7 @@
 # polytechnical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polytechnical.md)
+
 <p><span class="chinese">大部分英国女孩不会继续上大学，甚至是上二年制的理工学院。</span><span class="english">Most English girls do not go on to university or even to a 2-year polytechnical school.</span></p>
 
 <p><span class="chinese">刚刚跟4000名听众在西北工业大学，很棒的经验。</span><span class="english">Just talked to 4000 audience at Northwestern Polytechnical University, really great experience.</span></p>

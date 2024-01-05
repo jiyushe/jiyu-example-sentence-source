@@ -1,5 +1,7 @@
 # intracranial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intracranial.md)
+
 <p><span class="chinese">颅内高压出现早且明显。</span><span class="english">Intracranial high pressure appeared early and obviously.</span></p>
 
 <p><span class="chinese">图1分叉部动脉瘤的流线图。</span><span class="english">Figure 1 Streamline of the intracranial bifurcating aneurysms.</span></p>

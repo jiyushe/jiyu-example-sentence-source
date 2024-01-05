@@ -1,5 +1,7 @@
 # 粉沙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fensha.md)
+
 <p><span class="chinese">压缩沉降主要出现在粘土或粉沙中。</span><span class="english">Consolidation settlement occurs mainly in clays or silts.</span></p>
 
 <p><span class="chinese">其中，泥岩的生热率最高，而粉沙岩、砂岩的生热率次之。</span><span class="english">Mudstone has highest heat generation comparing with siltstone and sandstone.</span></p>

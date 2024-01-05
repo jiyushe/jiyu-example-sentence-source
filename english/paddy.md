@@ -1,5 +1,7 @@
 # paddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paddy.md)
+
 <p><span class="chinese">你好，帕迪。</span><span class="english">Hello, Paddy.</span></p>
 
 <p><span class="chinese">小稻棍儿奏一曲。</span><span class="english">With a nicknack paddy whack.</span></p>

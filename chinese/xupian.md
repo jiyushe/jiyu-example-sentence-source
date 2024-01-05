@@ -1,5 +1,7 @@
 # 续篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xupian.md)
+
 <p><span class="chinese">这是我以前已写过的题材的续篇。</span><span class="english">It was a follow-up on something I had written before.</span></p>
 
 <p><span class="chinese">他的续篇，激战2，将继续进行这个传统。</span><span class="english">Its sequel, Guild Wars 2, is slated to carry on this tradition.</span></p>

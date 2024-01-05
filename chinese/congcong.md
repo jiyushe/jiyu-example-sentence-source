@@ -1,5 +1,7 @@
 # 丛丛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcong.md)
+
 <p><span class="chinese">一株株树，一丛丛灌木在她的四周拍打着枝叶。</span><span class="english">All the trees and bushes beat about her.</span></p>
 
 <p><span class="chinese">丛丛枯萎的野草发出的热量是惊人的。</span><span class="english">The heat from the wisps of dead grass is terrific.</span></p>

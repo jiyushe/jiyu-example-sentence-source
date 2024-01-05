@@ -1,5 +1,7 @@
 # tipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tipper.md)
+
 <p><span class="chinese">你是什么样的支付小费者呢？</span><span class="english">What kind of tipper are you?</span></p>
 
 <p><span class="chinese">希拉里和蒂珀也短暂地露了一下脸。</span><span class="english">Hillary and Tipper also made brief appearances.</span></p>

@@ -1,5 +1,7 @@
 # moxibustion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moxibustion.md)
+
 <p><span class="chinese">艾艾贴是一款艾灸产品。</span><span class="english">Ai Ai is stuck is product of a moxibustion.</span></p>
 
 <p><span class="chinese">艾灸也显示出相似的效果。</span><span class="english">The moxibustion also has the similar effects.</span></p>

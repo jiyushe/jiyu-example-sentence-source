@@ -1,5 +1,7 @@
 # authorise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authorise.md)
+
 <p><span class="chinese">一个实体的任何已有用户都可以授权数目不限的员工使用本网站。</span><span class="english">Any existing user for an entity can authorise any number of staff to use the site.</span></p>
 
 <p><span class="chinese">本人现授权警务处处长，或其代表，向警察公共关系科发放任何及全部有关本人刑事判罪纪录。</span><span class="english">I hereby authorise the Commissioner of Police, or his representative, to release full particulars of any.</span></p>

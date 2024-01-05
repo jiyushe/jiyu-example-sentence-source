@@ -1,5 +1,7 @@
 # 招来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaolai_1.md)
+
 <p><span class="chinese">你自己的榜样就会招来拒绝。</span><span class="english">By self-example mayst thou be denied.</span></p>
 
 <p><span class="chinese">那种给女权运动招来讥嘲的人。</span><span class="english">The sort who drew sneers about feminism.</span></p>

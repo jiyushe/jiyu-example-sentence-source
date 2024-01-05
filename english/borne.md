@@ -1,5 +1,7 @@
 # borne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borne.md)
+
 <p><span class="chinese">她生了一个男孩。</span><span class="english">She has borne a boy.</span></p>
 
 <p><span class="chinese">这只鹿是中国产的。</span><span class="english">These deer are borne in China.</span></p>

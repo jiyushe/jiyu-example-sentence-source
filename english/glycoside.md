@@ -1,5 +1,7 @@
 # glycoside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycoside.md)
+
 <p><span class="chinese">铁刀木中一个新的色酮苷。</span><span class="english">A new chromone glycoside from Cassia siamea lam.</span></p>
 
 <p><span class="chinese">测定核桃仁隔膜中黄酮苷含量为0。</span><span class="english">The flavone glycoside content in walnut benevolence is 0.</span></p>

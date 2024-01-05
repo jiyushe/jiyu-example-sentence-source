@@ -1,5 +1,7 @@
 # spearman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spearman.md)
+
 <p><span class="chinese">骑兵现在可对长矛部队冲锋了。</span><span class="english">Cavalry can now charge a spearman army.</span></p>
 
 <p><span class="chinese">资料采用秩和检验和等级相关分析的统计学处理方法。</span><span class="english">Data were analyzed by rank sum test and Spearman correlation test.</span></p>

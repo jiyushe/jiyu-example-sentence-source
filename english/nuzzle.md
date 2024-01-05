@@ -1,5 +1,7 @@
 # nuzzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuzzle.md)
+
 <p><span class="chinese">搂一搂，抱一抱，蹭一蹭。</span><span class="english">Cuddle, hug, and nuzzle.</span></p>
 
 <p><span class="chinese">那只动物轻微哼着，低头轻轻地蹭她。</span><span class="english">The animal snorted softly and bent its head to nuzzle her.</span></p>

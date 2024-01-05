@@ -1,5 +1,7 @@
 # 谈话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhua_1.md)
+
 <p><span class="chinese">人们喜欢谈话。</span><span class="english">People like to talk.</span></p>
 
 <p><span class="chinese">他的谈话令人鼓舞。</span><span class="english">His talk is inspiring.</span></p>

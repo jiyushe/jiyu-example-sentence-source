@@ -1,5 +1,7 @@
 # catadioptric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catadioptric.md)
+
 <p><span class="chinese">设计了一个用于远距离监视电视的折反射式步进变焦距透镜。</span><span class="english">A catadioptric step zoom lens for remote supervision TV is designed.</span></p>
 
 <p><span class="chinese">本文将以具体产品为例。分析光学常数对折射物镜的影响。</span><span class="english">The influence of optical constants on catadioptric objective is analysed by taking an product for example.</span></p>

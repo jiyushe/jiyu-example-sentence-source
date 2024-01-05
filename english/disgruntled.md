@@ -1,5 +1,7 @@
 # disgruntled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgruntled.md)
+
 <p><span class="chinese">晚饭太晚让我父亲气恼了。</span><span class="english">The late dinner disgruntled my father.</span></p>
 
 <p><span class="chinese">两天过去了，她仍在闹情绪。</span><span class="english">She remained disgruntled two days later.</span></p>

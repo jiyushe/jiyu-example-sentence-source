@@ -1,5 +1,7 @@
 # 腰围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowei_1.md)
+
 <p><span class="chinese">她的腰围是26英寸。</span><span class="english">She has a 26-inch waist.</span></p>
 
 <p><span class="chinese">我的腰围又怎么办呢？</span><span class="english">And what about my waistline?</span></p>

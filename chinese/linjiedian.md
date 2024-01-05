@@ -1,5 +1,7 @@
 # 临界点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linjiedian.md)
+
 <p><span class="chinese">,我们只是解出了一个临界点。</span><span class="english">We just solved for a critical point.</span></p>
 
 <p><span class="chinese">这不就是我们找临界点的方法吗？</span><span class="english">That is how we look for critical points.</span></p>

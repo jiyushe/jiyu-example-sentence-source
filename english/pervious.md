@@ -1,5 +1,7 @@
 # pervious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pervious.md)
+
 <p><span class="chinese">我已经有约在先。</span><span class="english">I have a pervious engagement.</span></p>
 
 <p><span class="chinese">透水混凝土具有良好的透气性和透水性。</span><span class="english">Pervious concrete has a good air and water permeability.</span></p>

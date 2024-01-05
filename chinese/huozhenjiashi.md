@@ -1,5 +1,7 @@
 # 货真价实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozhenjiashi.md)
+
 <p><span class="chinese">一颗彗星的核儿几乎就是一颗货真价实的星星。</span><span class="english">The nucleus of a comet is almost a star.</span></p>
 
 <p><span class="chinese">哎，这是货真价实的刻纸。</span><span class="english">Oh no, they are authentic paper carvings.</span></p>

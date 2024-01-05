@@ -1,5 +1,7 @@
 # surprised 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surprised_1.md)
+
 <p><span class="chinese">你吓死我了。</span><span class="english">You surprised me!</span></p>
 
 <p><span class="chinese">我现出惊讶的神色。</span><span class="english">I looked surprised.</span></p>

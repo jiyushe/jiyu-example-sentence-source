@@ -1,5 +1,7 @@
 # 刀削面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoxiaomian.md)
+
 <p><span class="chinese">我在太原做了刀削面。</span><span class="english">I got to make sliced noodles in Taiyuan.</span></p>
 
 <p><span class="chinese">由此可见刀削面在大同的魅力真的令人叹为观止。</span><span class="english">This shows of noodles in datong charm really amazing.</span></p>

@@ -1,5 +1,7 @@
 # turnoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnoff.md)
+
 <p><span class="chinese">你可以关掉亮着的灯。</span><span class="english">You can turnoff the Bright light.</span></p>
 
 <p><span class="chinese">事实上，那可能会很让他倒胃口。</span><span class="english">In fact, it may be a big turnoff for him.</span></p>

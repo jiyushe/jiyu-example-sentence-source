@@ -1,5 +1,7 @@
 # concentrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentrative.md)
+
 <p><span class="chinese">其性能是目前机械式注聚泵无法比拟的。</span><span class="english">Its function is extremely superior to pouring concentrative compound pump at present.</span></p>
 
 <p><span class="chinese">在印度传统中是瑜伽禅定，也是一种纯粹的专注。</span><span class="english">Out of the Hindu tradition comes Yogic meditation, which is also purely concentrative.</span></p>

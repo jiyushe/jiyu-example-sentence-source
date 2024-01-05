@@ -1,5 +1,7 @@
 # wile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wile.md)
+
 <p><span class="chinese">当我外出时你能照看我的猫吗?。</span><span class="english">Can you care for my cat wile I am away?</span></p>
 
 <p><span class="chinese">而幸福是珍贵的，它是容易的。</span><span class="english">Wile happiness is precious, it is easy to get.</span></p>

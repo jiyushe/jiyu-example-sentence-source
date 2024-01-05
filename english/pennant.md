@@ -1,5 +1,7 @@
 # pennant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pennant.md)
+
 <p><span class="chinese">星光下结旆。</span><span class="english">Star knot under the pennant.</span></p>
 
 <p><span class="chinese">我们不担心很多有关锦旗。</span><span class="english">We dont worry about the pennant much.</span></p>

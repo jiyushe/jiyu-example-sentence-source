@@ -1,5 +1,7 @@
 # 球衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuyi_1.md)
+
 <p><span class="chinese">能够身着10号球衣，我很自豪。</span><span class="english">I'm proud to wear the No. 10 shirt.</span></p>
 
 <p><span class="chinese">该问题由汤姆内勒提出，恭喜他获得俱乐部球衣一件。</span><span class="english">Tom Naylor wins the shirt for this question.</span></p>

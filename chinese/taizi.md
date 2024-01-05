@@ -1,5 +1,7 @@
 # 台子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizi.md)
+
 <p><span class="chinese">请您站在这个台子上。</span><span class="english">Please stand here, on the platform.</span></p>
 
 <p><span class="chinese">Peggy把小狗抱到台子上。</span><span class="english">Peggy lifted the pup onto the table.</span></p>

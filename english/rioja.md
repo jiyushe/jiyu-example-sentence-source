@@ -1,5 +1,7 @@
 # rioja
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rioja.md)
+
 <p><span class="chinese">殊不知，里奥哈也生产少量出众的白葡萄酒。</span><span class="english">However, Rioja also produces rare amazing white wine.</span></p>
 
 <p><span class="chinese">这和其他男人完全不同，那些人总是一杯一杯地给你灌酒。</span><span class="english">So different to all the guys that ply you with rioja.</span></p>

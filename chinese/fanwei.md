@@ -1,5 +1,7 @@
 # 反胃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanwei.md)
+
 <p><span class="chinese">她为什么总是反胃呢?</span><span class="english">Why does she keep regurgitating?</span></p>
 
 <p><span class="chinese">你可能感觉恶心反胃。</span><span class="english">You might feel queasy or nauseous.</span></p>

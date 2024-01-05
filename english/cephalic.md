@@ -1,5 +1,7 @@
 # cephalic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cephalic.md)
+
 <p><span class="chinese">头静脉的营养血管。</span><span class="english">The nutrient vessels of cephalic vein.</span></p>
 
 <p><span class="chinese">但部分患者分离头静脉存在困难。</span><span class="english">But the cephalic veins are sometimes difficult to isolate.</span></p>

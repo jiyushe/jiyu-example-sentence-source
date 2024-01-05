@@ -1,5 +1,7 @@
 # snack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snack.md)
+
 <p><span class="chinese">来点儿夜宵怎么样？</span><span class="english">How about a snack?</span></p>
 
 <p><span class="chinese">需要一份快餐吗？</span><span class="english">Need a quick snack?</span></p>

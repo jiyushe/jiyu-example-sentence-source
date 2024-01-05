@@ -1,5 +1,7 @@
 # 头名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touming.md)
+
 <p><span class="chinese">丹麦、新西兰和瑞典并列该榜单的头名。</span><span class="english">Denmark, New Zealand and Sweden share the number one slot.</span></p>
 
 <p><span class="chinese">很显然，我们希望最后能以小组头名出线，而我们现在离完成目标还有一段距离。</span><span class="english">Obviously we want to finish on top and we still have a lot to do.</span></p>

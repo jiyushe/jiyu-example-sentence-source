@@ -1,5 +1,7 @@
 # 佳丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiali.md)
+
 <p><span class="chinese">斯佳丽，吻吻我。</span><span class="english">Scarlett, kiss me.</span></p>
 
 <p><span class="chinese">而每次佳丽都会对着门吠叫。</span><span class="english">And every time, Callie barks at it.</span></p>

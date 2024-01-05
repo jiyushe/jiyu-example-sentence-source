@@ -1,5 +1,7 @@
 # 制件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijian.md)
+
 <p><span class="chinese">采用薄而均一的制件厚度。</span><span class="english">Use a thin and uniform part thickness.</span></p>
 
 <p><span class="chinese">铝合金制件，热镀锌钢制件。</span><span class="english">Material aluminium alloy , All parts are hot-dip galvanized steel.</span></p>

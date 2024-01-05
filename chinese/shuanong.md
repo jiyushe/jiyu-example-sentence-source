@@ -1,5 +1,7 @@
 # 耍弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanong.md)
+
 <p><span class="chinese">他长得很英俊，专靠耍弄有钱的寡妇。</span><span class="english">He's very charming and preys on rich widows.</span></p>
 
 <p><span class="chinese">他们一直在耍弄种种卑鄙的伎俩。</span><span class="english">I wished he had never played his bastardly tricks.</span></p>

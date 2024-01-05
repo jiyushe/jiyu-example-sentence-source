@@ -1,5 +1,7 @@
 # 整装待发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhuangdaifa.md)
+
 <p><span class="chinese">与此同时，同时乌有之乡则整装待发。</span><span class="english">Utopia, meanwhile, has gone on the warpath.</span></p>
 
 <p><span class="chinese">“队伍正整装待发，”莱恩巴克先生说。</span><span class="english">“The team is ready to go, ” Mr. Leinbach said.</span></p>

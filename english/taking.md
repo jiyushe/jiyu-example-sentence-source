@@ -1,5 +1,7 @@
 # taking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taking.md)
+
 <p><span class="chinese">不承担风险。</span><span class="english">Not risk taking.</span></p>
 
 <p><span class="chinese">他正把我们送上去！</span><span class="english">He's taking us up!</span></p>

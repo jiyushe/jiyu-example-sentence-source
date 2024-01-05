@@ -1,5 +1,7 @@
 # 旧情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuqing.md)
+
 <p><span class="chinese">徘徊于旧情新爱。</span><span class="english">The old love and the new love.</span></p>
 
 <p><span class="chinese">旧情与未燃尽的火一样都容易重新点燃。</span><span class="english">Old love and old fires easily rekindles.</span></p>

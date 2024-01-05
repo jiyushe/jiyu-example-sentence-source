@@ -1,5 +1,7 @@
 # omission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omission.md)
+
 <p><span class="chinese">难道这仅仅是简单的疏忽？</span><span class="english">Is that simply an omission?</span></p>
 
 <p><span class="chinese">不作为和抽佣的谎言。</span><span class="english">Lies of omission and commission.</span></p>

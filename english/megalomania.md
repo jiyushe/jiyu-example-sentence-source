@@ -1,5 +1,7 @@
 # megalomania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megalomania.md)
+
 <p><span class="chinese">承保这一自大狂成果的费用由纳税人负担。</span><span class="english">Taxpayers bear the cost of guaranteeing this fruit of megalomania.</span></p>
 
 <p><span class="chinese">尽管金正日偏执且妄自尊大，但他却是一个狡猾的谋略家。</span><span class="english">But Mr Kim, for all his megalomania and paranoia, is a shrewd tactician.</span></p>

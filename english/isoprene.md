@@ -1,5 +1,7 @@
 # isoprene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoprene.md)
+
 <p><span class="chinese">而异戊二烯必须极其纯净才能生产出合成橡胶。</span><span class="english">Isoprene needs to be extremely pure to make synthetic rubber.</span></p>
 
 <p><span class="chinese">锂金属淬火超额实现与异戊二烯。</span><span class="english">Quenching the excess lithium metal was achieved with isoprene.</span></p>

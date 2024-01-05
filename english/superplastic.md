@@ -1,5 +1,7 @@
 # superplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superplastic.md)
+
 <p><span class="chinese">超塑变形过程控制界面迁移。</span><span class="english">Boundary Migration Stimulated by Superplastic Deformation.</span></p>
 
 <p><span class="chinese">阐述了超塑等温成形工艺现存的问题及发展方向。</span><span class="english">The problems and trends of superplastic isothermal forming process are described.</span></p>

@@ -1,5 +1,7 @@
 # 移转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhuan.md)
+
 <p><span class="chinese">这栋房子已经移转到他太太名下了。</span><span class="english">This house was transferred to his wife's name.</span></p>
 
 <p><span class="chinese">只有所谓的利用权是可以移转的。</span><span class="english">Only the so-called exploitation rights are transferrable.</span></p>

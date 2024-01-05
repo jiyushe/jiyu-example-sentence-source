@@ -1,5 +1,7 @@
 # backslash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backslash.md)
+
 <p><span class="chinese">帐户名内不能出现反斜线。</span><span class="english">No backslash is in the account name.</span></p>
 
 <p><span class="chinese">用户名称中不能包含反斜线。</span><span class="english">The user name cannot contain a backslash.</span></p>

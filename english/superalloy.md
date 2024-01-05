@@ -1,5 +1,7 @@
 # superalloy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superalloy.md)
+
 <p><span class="chinese">柄应使用高强度超合金制作。</span><span class="english">The stem should be fabricated of high-strength superalloy.</span></p>
 
 <p><span class="chinese">产品包括优质合金钢与超级合金243个牌号。</span><span class="english">The products by ESR include 243 designations of steel and superalloy.</span></p>

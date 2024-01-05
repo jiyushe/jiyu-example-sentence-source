@@ -1,5 +1,7 @@
 # preplan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preplan.md)
+
 <p><span class="chinese">做到预先计划，安全实施。</span><span class="english">Make preplan and safe implement.</span></p>
 
 <p><span class="chinese">现在，是时候提前计划你的行程了。</span><span class="english">Now it’s time to preplan your trip.</span></p>

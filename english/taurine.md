@@ -1,5 +1,7 @@
 # taurine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taurine.md)
+
 <p><span class="chinese">然而鸡蛋也是富含牛磺酸的。</span><span class="english">Eggs are, however, also a good source of taurine.</span></p>
 
 <p><span class="chinese">观察牛磺酸对该模型的干预作用。</span><span class="english">The effect of taurine in this model was observed.</span></p>

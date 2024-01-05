@@ -1,5 +1,7 @@
 # 零度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdu.md)
+
 <p><span class="chinese">淡水在摄氏零度结冰。</span><span class="english">Fresh water freezes at 0℃.</span></p>
 
 <p><span class="chinese">水在镊氏零度结冰。</span><span class="english">Water freezes at 0centigrade.</span></p>

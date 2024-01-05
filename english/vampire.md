@@ -1,5 +1,7 @@
 # vampire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vampire.md)
+
 <p><span class="chinese">压扁吸血鬼？</span><span class="english">Vampire squished?</span></p>
 
 <p><span class="chinese">你是一只活力吸血鬼吗？</span><span class="english">Are You an Energy Vampire?</span></p>

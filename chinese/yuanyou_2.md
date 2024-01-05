@@ -1,5 +1,7 @@
 # 远游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyou_2.md)
+
 <p><span class="chinese">远游者见多识广。</span><span class="english">He travels far knows much.</span></p>
 
 <p><span class="chinese">他们离家远游了。</span><span class="english">They travelled far from home.</span></p>

@@ -1,5 +1,7 @@
 # hoodie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoodie.md)
+
 <p><span class="chinese">柔软舒适针织棉帽衫。</span><span class="english">Soft and cozy knit cotton hoodie.</span></p>
 
 <p><span class="chinese">除了一件连帽衫你还看到了神马？</span><span class="english">What can you see except a Hoodie?</span></p>

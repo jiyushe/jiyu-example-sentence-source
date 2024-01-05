@@ -1,5 +1,7 @@
 # gunmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunmen.md)
+
 <p><span class="chinese">他是被雇来的职业杀手杀死的。</span><span class="english">D. He was killed by the hired gunmen.</span></p>
 
 <p><span class="chinese">有没有“第二梯队”的枪手卷入？</span><span class="english">Was there a “second team” of gunmen involved?</span></p>

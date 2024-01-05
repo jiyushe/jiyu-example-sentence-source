@@ -1,5 +1,7 @@
 # polycarbonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polycarbonate.md)
+
 <p><span class="chinese">中央的材质是聚碳酸酯和丙烯酸。</span><span class="english">A polycarbonate and acrylic diffuser is positioned in the centre.</span></p>
 
 <p><span class="chinese">制造光盘的原料是这些大包里的聚碳酸酯颗粒。</span><span class="english">Optical discs are made of polycarbonate that comes in large bags.</span></p>

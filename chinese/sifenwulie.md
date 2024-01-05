@@ -1,5 +1,7 @@
 # 四分五裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sifenwulie.md)
+
 <p><span class="chinese">该党四分五裂。</span><span class="english">The party was deeply disunited.</span></p>
 
 <p><span class="chinese">敌人营垒四分五裂。</span><span class="english">The enemy camp is disintegrating.</span></p>

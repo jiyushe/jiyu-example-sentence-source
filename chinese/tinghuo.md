@@ -1,5 +1,7 @@
 # 停火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tinghuo.md)
+
 <p><span class="chinese">Faraj说道，“我现在是支持停火了，因为我们太弱了。</span><span class="english">I support the ceasefire now.</span></p>
 
 <p><span class="chinese">朝鲜战争1950年开战，1953年停火。</span><span class="english">Korean war in 1950, 1953 cease-fire.</span></p>

@@ -1,5 +1,7 @@
 # adulterous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adulterous.md)
+
 <p><span class="chinese">基尔帕特里克和贝蒂随后出庭否认发生婚外恋。</span><span class="english">Kilpatrick and Betty appears in court to deny that afterward has the adulterous love affair.</span></p>
 
 <p><span class="chinese">明明是希律犯了奸淫的罪，可是王却把约翰关进了位于约旦以东五英里的监狱里。</span><span class="english">It was an adulterous relationship. In return, Herod put him in the prison located 5 miles east of Jordan.</span></p>

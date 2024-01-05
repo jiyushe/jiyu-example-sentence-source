@@ -1,5 +1,7 @@
 # automorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automorphic.md)
+
 <p><span class="chinese">其在分析中的应用就是自守函数理论的研究。</span><span class="english">The application of group theory in analysis is the study of automorphic function.</span></p>
 
 <p><span class="chinese">研究得最早的自导函数是椭圆模函数。</span><span class="english">The earliest automorphic functions to be studied were the elliptic modular functions.</span></p>

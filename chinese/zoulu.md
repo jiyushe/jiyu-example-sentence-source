@@ -1,5 +1,7 @@
 # 走路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoulu.md)
+
 <p><span class="chinese">因为他喜欢走路</span><span class="english">He liked to walk.</span></p>
 
 <p><span class="chinese">你所需要做的就是走路。</span><span class="english">You just walking.</span></p>

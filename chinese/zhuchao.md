@@ -1,5 +1,7 @@
 # 主潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchao.md)
+
 <p><span class="chinese">“文化散文”是二十世纪九十年代“散文创作繁荣”的主潮现象。</span><span class="english">Cultural prose is the main stream of prose creation on the light tide in 1990's.</span></p>
 
 <p><span class="chinese">你们要把自己的生活坚实起来，你们要把文艺的主潮认定！</span><span class="english">You have a solid up and put their own lives, you should Mainstream Trend literature found!</span></p>

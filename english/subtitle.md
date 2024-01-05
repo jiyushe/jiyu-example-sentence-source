@@ -1,5 +1,7 @@
 # subtitle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtitle.md)
+
 <p><span class="chinese">第B分编——普及服务折扣</span><span class="english">Subtitle B--Universal Service Discounts</span></p>
 
 <p><span class="chinese">这部电影有中英文字幕。</span><span class="english">This film is subtitle in both Chinese and English.</span></p>

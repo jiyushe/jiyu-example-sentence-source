@@ -1,5 +1,7 @@
 # ipsilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipsilateral.md)
+
 <p><span class="chinese">对侧和术侧的变化趋势相同。</span><span class="english">The change of contralateral was same as that in ipsilateral.</span></p>
 
 <p><span class="chinese">十们病患有水肾，五位同侧肾臓无功能，一位肾臓正常。</span><span class="english">The ipsilateral kidney was nonfunctioning in 5 patients and normal in 1.</span></p>

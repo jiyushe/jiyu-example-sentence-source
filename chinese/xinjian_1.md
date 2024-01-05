@@ -1,5 +1,7 @@
 # 信笺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjian_1.md)
+
 <p><span class="chinese">函件使用了看上去正式的世行信笺。</span><span class="english">Official-looking Bank letterhead was used.</span></p>
 
 <p><span class="chinese">用香墨写信也增添了另一些信笺元素。</span><span class="english">Scented ink added another element to the letter.</span></p>

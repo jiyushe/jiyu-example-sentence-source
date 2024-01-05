@@ -1,5 +1,7 @@
 # fault 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fault.md)
+
 <p><span class="chinese">硬件故障。</span><span class="english">Hardware fault.</span></p>
 
 <p><span class="chinese">此则余之过也。</span><span class="english">This is my fault.</span></p>

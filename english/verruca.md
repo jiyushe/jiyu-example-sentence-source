@@ -1,5 +1,7 @@
 # verruca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verruca.md)
+
 <p><span class="chinese">目的探讨治疗扁平疣的新方法。</span><span class="english">OBJECTIVE To explore a new method of curing the flat verruca.</span></p>
 
 <p><span class="chinese">真的有“自体疫苗”能治尖锐湿疣？</span><span class="english">Really has can treat the verruca acuminata from the body vaccine?</span></p>

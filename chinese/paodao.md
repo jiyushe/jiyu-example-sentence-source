@@ -1,5 +1,7 @@
 # 跑道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paodao.md)
+
 <p><span class="chinese">他们步测了跑道。</span><span class="english">They walked the track.</span></p>
 
 <p><span class="chinese">跑道未清除，拉起复飞。</span><span class="english">Clear ice on the runway.</span></p>

@@ -1,5 +1,7 @@
 # 失调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitiao.md)
+
 <p><span class="chinese">这也是认识失调来解释。</span><span class="english">Again, it's cognitive dissonance.</span></p>
 
 <p><span class="chinese">这些症状之后就是共济失调。</span><span class="english">These signs are followed by ataxia.</span></p>

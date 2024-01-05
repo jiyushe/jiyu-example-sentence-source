@@ -1,5 +1,7 @@
 # gentamicin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentamicin.md)
+
 <p><span class="chinese">对卡那霉素、四环素、庆大霉素等敏感。</span><span class="english">It was sensitive to kanamycin, tetracycline and gentamicin.</span></p>
 
 <p><span class="chinese">对于庆大霉素过敏的腹泻肠炎患者，用什么针剂治疗？</span><span class="english">To the diarrhoea enteritis patient of gentamicin allergy , with what injection cure?</span></p>

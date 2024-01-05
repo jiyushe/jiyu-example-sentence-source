@@ -1,5 +1,7 @@
 # orifice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orifice.md)
+
 <p><span class="chinese">这种类型孔的设计导致…</span><span class="english">This type of orifice design results in.</span></p>
 
 <p><span class="chinese">有一个不锈钢锋利的孔。</span><span class="english">Have a stainless steel sharp-edged orifice.</span></p>

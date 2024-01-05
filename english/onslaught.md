@@ -1,5 +1,7 @@
 # onslaught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onslaught.md)
+
 <p><span class="chinese">森林中的动物惊恐的四散奔逃。</span><span class="english">Terrified animals flee before the onslaught.</span></p>
 
 <p><span class="chinese">这个城市反抗敌人的猛攻达两个星期之久。</span><span class="english">The city resisted the enemy onslaught for two weeks.</span></p>

@@ -1,5 +1,7 @@
 # obdurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obdurate.md)
+
 <p><span class="chinese">他执拗地拒绝他们的计划。</span><span class="english">He was obdurate to refuse their plan.</span></p>
 
 <p><span class="chinese">顽固的傲气和难消的憎恨交织着。</span><span class="english">Mixed with obdurate pride and steadfast hate.</span></p>

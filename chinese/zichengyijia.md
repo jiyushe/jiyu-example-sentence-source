@@ -1,5 +1,7 @@
 # 自成一家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichengyijia.md)
+
 <p><span class="chinese">因为他是一个自成一家的词人。</span><span class="english">Because he is a poet of independent.</span></p>
 
 <p><span class="chinese">一个大它者就是单一的大它者，足够让一种语言自成一家灵活之言。</span><span class="english">An Other is an Other, and a single one is sufficient for a tongue to be alive.</span></p>

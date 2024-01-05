@@ -1,5 +1,7 @@
 # neandertal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neandertal.md)
+
 <p><span class="chinese">尼安德特人全部基因组的初步草案正在完成中。</span><span class="english">A preliminary draft of the full Neandertal genome is in the works.</span></p>
 
 <p><span class="chinese">2010年，穴居人基因密码的破译将这项工作推向了顶峰。</span><span class="english">In 2010, that work culminated in the publication of the Neandertal genome.</span></p>

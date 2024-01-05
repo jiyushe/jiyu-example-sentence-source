@@ -1,5 +1,7 @@
 # codices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codices.md)
+
 <p><span class="chinese">我们所知有关里奥那多的科学想法大多来自于他的手抄本。</span><span class="english">Much of what we know about Leonardo's scientific ideas comes from his codices.</span></p>
 
 <p><span class="chinese">西乃山抄本成书于主后350年，它是现存最早的圣经抄本之一。</span><span class="english">Codex Sinaiticus,which is around the year 350,we think, is one of the earliest codices of the bible we have.</span></p>

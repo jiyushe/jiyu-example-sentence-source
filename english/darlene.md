@@ -1,5 +1,7 @@
 # darlene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darlene.md)
+
 <p><span class="chinese">达琳，很抱歉我伤害了你。</span><span class="english">Darlene , I'm sorry for hurting you.</span></p>
 
 <p><span class="chinese">据说达莉娜·艾蒂安很高兴，但身体脱水。</span><span class="english">Darlene Etienne was said to be happy but dehydrated.</span></p>

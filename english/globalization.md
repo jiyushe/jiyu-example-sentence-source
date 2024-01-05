@@ -1,5 +1,7 @@
 # globalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globalization.md)
+
 <p><span class="chinese">再就是全球化的因素。</span><span class="english">And then there’s globalization.</span></p>
 
 <p><span class="chinese">全球主义与全球一体化？</span><span class="english">Globalism versus globalization?</span></p>

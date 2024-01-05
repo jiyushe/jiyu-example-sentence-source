@@ -1,5 +1,7 @@
 # 快报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaibao.md)
+
 <p><span class="chinese">醒醒，哦鸣钟，快报时。</span><span class="english">Awake, O bell! proclaim the hour.</span></p>
 
 <p><span class="chinese">多套作品被都市快报刊登。</span><span class="english">Sets of works published by the Metropolitan Express.</span></p>

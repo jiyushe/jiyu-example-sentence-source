@@ -1,5 +1,7 @@
 # setup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/setup.md)
+
 <p><span class="chinese">架设自动化构建。</span><span class="english">Setup automated builds.</span></p>
 
 <p><span class="chinese">这是完全相同的设定。</span><span class="english">It's the very same setup.</span></p>

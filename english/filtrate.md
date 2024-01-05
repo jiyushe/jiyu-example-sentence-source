@@ -1,5 +1,7 @@
 # filtrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filtrate.md)
+
 <p><span class="chinese">然后把菊花水隔滤，备用。</span><span class="english">Then Filtrate The chrysanthemum water. Set aside.</span></p>
 
 <p><span class="chinese">滤液收集盒紧靠着上方皮带的下面密封。</span><span class="english">A filtrate collection box sits underneath, and seals against, the upper belt.</span></p>

@@ -1,5 +1,7 @@
 # 见微知著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianweizhizhu.md)
+
 <p><span class="chinese">草动知风向/见微知著…</span><span class="english">A straw shows which way the wind blows.</span></p>
 
 <p><span class="chinese">见微知著，小小的言行足以反映出一个人的教养与修为。</span><span class="english">One’s quality and temperament can be clearly reflected by his small deeds.</span></p>

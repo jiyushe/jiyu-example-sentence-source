@@ -1,5 +1,7 @@
 # 重兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbing_1.md)
+
 <p><span class="chinese">关隘有重兵把守。</span><span class="english">The pass was heavily guarded.</span></p>
 
 <p><span class="chinese">那时这地方有重兵把守。</span><span class="english">In those days the place was heavily guarded.</span></p>

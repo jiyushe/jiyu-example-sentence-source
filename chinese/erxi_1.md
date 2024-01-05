@@ -1,5 +1,7 @@
 # 儿戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erxi_1.md)
+
 <p><span class="chinese">我的老板把我们的要求视为儿戏。</span><span class="english">My employer treated our request as a joke.</span></p>
 
 <p><span class="chinese">他挥动如椽之笔，如同儿戏一般。</span><span class="english">He wielded his pen almost as if it were a toy.</span></p>

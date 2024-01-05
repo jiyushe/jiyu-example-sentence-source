@@ -1,5 +1,7 @@
 # 排空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paikong.md)
+
 <p><span class="chinese">排空塑料袋里的气体，然后密封起来。</span><span class="english">Flatten the bags and seal.</span></p>
 
 <p><span class="chinese">检查前胃必须完全排空。</span><span class="english">The stomach should be completely empty.</span></p>

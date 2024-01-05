@@ -1,5 +1,7 @@
 # 打胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datai.md)
+
 <p><span class="chinese">她最近做了打胎。</span><span class="english">She had an abortion recently.</span></p>
 
 <p><span class="chinese">你知道中国持有什么立场对于象打胎、同性结婚这类问题？</span><span class="english">Do you know where China stands on things like abortion and gay marriage?</span></p>

@@ -1,5 +1,7 @@
 # brasses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brasses.md)
+
 <p><span class="chinese">这些黄铜器要擦一擦。</span><span class="english">The brasses need to be cleaned.</span></p>
 
 <p><span class="chinese">小喇叭和号角都是铜管乐器。</span><span class="english">Trumpets and horns are brasses.</span></p>

@@ -1,5 +1,7 @@
 # knew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knew.md)
+
 <p><span class="chinese">我知道。</span><span class="english">I knew.</span></p>
 
 <p><span class="chinese">她知道。</span><span class="english">She knew.</span></p>

@@ -1,5 +1,7 @@
 # 人造革
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzaoge.md)
+
 <p><span class="chinese">这是人造革的吗？</span><span class="english">Is it made of leatheroid?</span></p>
 
 <p><span class="chinese">不，人造革的。</span><span class="english">No. It's artificial leather.</span></p>

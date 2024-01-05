@@ -1,5 +1,7 @@
 # alan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alan.md)
+
 <p><span class="chinese">阿兰开始跑了起来。</span><span class="english">Alan began to run.</span></p>
 
 <p><span class="chinese">黑轮挖鼻孔。</span><span class="english">Alan picks his nose.</span></p>

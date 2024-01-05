@@ -1,5 +1,7 @@
 # depreciate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depreciate.md)
+
 <p><span class="chinese">一些音乐学家贬低李斯特的作品。</span><span class="english">Some musicologists depreciate Liszt's compositions.</span></p>
 
 <p><span class="chinese">为什么继续？就让我躺在这里折旧吧。啊。</span><span class="english">Why go on? Just let me lie here and depreciate. Uhhh.</span></p>

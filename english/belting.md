@@ -1,5 +1,7 @@
 # belting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belting.md)
+
 <p><span class="chinese">用皮带抽他一顿！</span><span class="english">Give him a belting.</span></p>
 
 <p><span class="chinese">他们沿着马路疾驰而去。</span><span class="english">They went belting along the road.</span></p>

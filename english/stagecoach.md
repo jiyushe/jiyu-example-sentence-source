@@ -1,5 +1,7 @@
 # stagecoach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagecoach.md)
+
 <p><span class="chinese">这一幅是公共马车遭到袭击</span><span class="english">Here's the attack on a stagecoach.</span></p>
 
 <p><span class="chinese">一辆马车半小时前曾经过这里。</span><span class="english">Stagecoach pass about half hour ago.</span></p>

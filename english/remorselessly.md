@@ -1,5 +1,7 @@
 # remorselessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remorselessly.md)
+
 <p><span class="chinese">有人期望交易费用会急剧减少。</span><span class="english">One would expect fees to be driven down remorselessly.</span></p>
 
 <p><span class="chinese">这些模型无情地扫荡市场的套利机会。</span><span class="english">These models remorselessly comb the markets for arbitrage opportunities.</span></p>

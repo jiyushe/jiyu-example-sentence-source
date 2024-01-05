@@ -1,5 +1,7 @@
 # identifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identifiable.md)
+
 <p><span class="chinese">未见细胞内黏液小滴。</span><span class="english">Intracellular mucin droplets are not identifiable.</span></p>
 
 <p><span class="chinese">他们发现，这种频率提供了明确的识别模式。</span><span class="english">This, they say, offers clearly identifiable patterns.</span></p>

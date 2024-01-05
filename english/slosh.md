@@ -1,5 +1,7 @@
 # slosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slosh.md)
+
 <p><span class="chinese">在漂白粉与洗涤剂的溶液中搅拌衣服。</span><span class="english">Slosh clothes in a solution of bleach and detergent.</span></p>
 
 <p><span class="chinese">晃动问题在后面的章节中将详细地解释。</span><span class="english">The slosh problem is examined in detail in latter chapters.</span></p>

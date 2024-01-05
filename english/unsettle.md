@@ -1,5 +1,7 @@
 # unsettle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsettle.md)
+
 <p><span class="chinese">假期常常使她浮躁不安。</span><span class="english">Holidays often unsettle her.</span></p>
 
 <p><span class="chinese">这次罢工可能会使经济不安定。</span><span class="english">This strike may unsettle the economy.</span></p>

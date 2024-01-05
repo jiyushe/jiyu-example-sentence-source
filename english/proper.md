@@ -1,5 +1,7 @@
 # proper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proper.md)
+
 <p><span class="chinese">你认为怎么妥当就怎么办。</span><span class="english">Do as you think proper.</span></p>
 
 <p><span class="chinese">零距离接触谷歌。</span><span class="english">Access to Google proper.</span></p>

@@ -1,5 +1,7 @@
 # southerner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southerner.md)
+
 <p><span class="chinese">他看起来像是一个南方人。</span><span class="english">He looks like a southerner.</span></p>
 
 <p><span class="chinese">如果你们是南方人，你们会支付购买冬衣的额外花销吗？</span><span class="english">Will you pay extra so your Southerner can buy winter clothes?</span></p>

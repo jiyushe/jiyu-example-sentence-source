@@ -1,5 +1,7 @@
 # workshop 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workshop.md)
+
 <p><span class="chinese">他是这个车间的车间主任。</span><span class="english">He is head of the workshop.</span></p>
 
 <p><span class="chinese">车间增加电缆井。</span><span class="english">Cable well added in workshop.</span></p>

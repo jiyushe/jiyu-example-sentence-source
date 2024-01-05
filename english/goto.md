@@ -1,5 +1,7 @@
 # goto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goto.md)
+
 <p><span class="chinese">我想后藤先生在等我吧。</span><span class="english">I believe Mr. Goto is expecting me.</span></p>
 
 <p><span class="chinese">你可以到下载页下载它。</span><span class="english">To download your copy goto the downloads page.</span></p>

@@ -1,5 +1,7 @@
 # 各执一词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gezhiyici.md)
+
 <p><span class="chinese">专家和前官员对此次公开密件的影响各执一词。</span><span class="english">Experts and former officials are divided over the impact.</span></p>
 
 <p><span class="chinese">对于案件的细节，双方各执一词，这里是一些基本的情况。</span><span class="english">Both sides dispute the details of the case, but here are the basics.</span></p>

@@ -1,5 +1,7 @@
 # 自掘坟墓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijuefenmu.md)
+
 <p><span class="chinese">我不想在塔拉自掘坟墓。</span><span class="english">I never dug the graves in Talafar.</span></p>
 
 <p><span class="chinese">你将自掘坟墓下地狱！</span><span class="english">You will dig one's own grave go to hell!</span></p>

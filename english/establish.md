@@ -1,5 +1,7 @@
 # establish 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/establish.md)
+
 <p><span class="chinese">创立一个交流中心。</span><span class="english">Establish a communications hub.</span></p>
 
 <p><span class="chinese">建立电子邮件联系列表。</span><span class="english">Establish a network e-mail list.</span></p>

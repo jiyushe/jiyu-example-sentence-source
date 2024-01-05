@@ -1,5 +1,7 @@
 # 真品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenpin_1.md)
+
 <p><span class="chinese">我们每个人都是原创真品。</span><span class="english">Each of us is an original.</span></p>
 
 <p><span class="chinese">这只雕花盒子是件古玩真品。</span><span class="english">This carved chest is a genuine antique.</span></p>

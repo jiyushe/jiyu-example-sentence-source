@@ -1,5 +1,7 @@
 # 天翻地覆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianfandifu.md)
+
 <p><span class="chinese">这场暴力革命使整个国家天翻地覆。</span><span class="english">The violent revolution upturned the whole country.</span></p>
 
 <p><span class="chinese">一顿天翻地覆的寻找之后，我终于找到了一只文胸。</span><span class="english">After intense searching I finally found it and put it on.</span></p>

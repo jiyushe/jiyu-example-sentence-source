@@ -1,5 +1,7 @@
 # carbamate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbamate.md)
+
 <p><span class="chinese">该中间体与氨基甲酸甲酯反应制得非氨酯。</span><span class="english">The intermediate reacted with methyl carbamate to obtain felbamate.</span></p>
 
 <p><span class="chinese">新鲜氨和从高压洗涤塔来的氨基甲酸盐溶液加到。</span><span class="english">The carbamate solution from the high-pressure scrubber and fresh ammonia are added.</span></p>

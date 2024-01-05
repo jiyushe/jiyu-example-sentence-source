@@ -1,5 +1,7 @@
 # perceptron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceptron.md)
+
 <p><span class="chinese">感知机只能解决线性可分问题。</span><span class="english">The perceptron can only solve linearly separable problems.</span></p>
 
 <p><span class="chinese">这里有一些与感知器算法相区别的重要不同点。</span><span class="english">There are important differences from the perceptron algorithm.</span></p>

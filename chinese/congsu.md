@@ -1,5 +1,7 @@
 # 从俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congsu.md)
+
 <p><span class="chinese">吾不能变心而从俗兮。</span><span class="english">I cannot charge my mind to suit the crowd.</span></p>
 
 <p><span class="chinese">祭司既在民中为首、就不可从俗沾染自己。</span><span class="english">He must not make himself unclean for people related to him by marriage, and so defile himself.</span></p>

@@ -1,5 +1,7 @@
 # optimist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimist.md)
+
 <p><span class="chinese">但是乐观者呢？</span><span class="english">But the optimist?</span></p>
 
 <p><span class="chinese">不过我是个乐观主义者。</span><span class="english">But I am an optimist.</span></p>

@@ -1,5 +1,7 @@
 # cookie 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cookie.md)
+
 <p><span class="chinese">这饼干很酥脆。</span><span class="english">This cookie is crisp.</span></p>
 
 <p><span class="chinese">曲奇饼成形机过程。</span><span class="english">Cookie cutter process.</span></p>

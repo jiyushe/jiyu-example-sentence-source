@@ -1,5 +1,7 @@
 # 拼版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinban.md)
+
 <p><span class="chinese">联合印务，主要经营拼版印刷业务。</span><span class="english">Joint Printing, mainly engaged in printing business make-up.</span></p>
 
 <p><span class="chinese">拼版样已经审稿人审读通过。</span><span class="english">The page proofs have been read and approved by the responsible reader.</span></p>

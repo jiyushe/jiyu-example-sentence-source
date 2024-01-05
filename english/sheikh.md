@@ -1,5 +1,7 @@
 # sheikh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheikh.md)
+
 <p><span class="chinese">酋长就是她的父亲。</span><span class="english">The sheikh was her father.</span></p>
 
 <p><span class="chinese">扎耶德清真寺夜晚。</span><span class="english">Sheikh Zayed Mosque at Night.</span></p>

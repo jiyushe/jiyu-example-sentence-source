@@ -1,5 +1,7 @@
 # sinew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinew.md)
+
 <p><span class="chinese">金钱是战争地恋爱和肌腱。</span><span class="english">Money is the sinew of love and of war.</span></p>
 
 <p><span class="chinese">在本届杯赛上，他就是要卓越超群。</span><span class="english">He’ll strain every sinew at this World Cup.</span></p>

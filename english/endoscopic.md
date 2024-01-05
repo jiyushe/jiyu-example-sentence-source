@@ -1,5 +1,7 @@
 # endoscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endoscopic.md)
+
 <p><span class="chinese">内视镜手术是目前外科手术的发展趋势。</span><span class="english">Endoscopic surgery is the trend of the surgery development.</span></p>
 
 <p><span class="chinese">②研究了紫外内窥系统的硬件系统设计。</span><span class="english">Researched on the hardware system design of UV endoscopic system.</span></p>

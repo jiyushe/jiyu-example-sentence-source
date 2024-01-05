@@ -1,5 +1,7 @@
 # wuhan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wuhan.md)
+
 <p><span class="chinese">我住在上海街。</span><span class="english">I live at 56 Wuhan Road.</span></p>
 
 <p><span class="chinese">我接下来会在武汉出差。</span><span class="english">I next business trip in Wuhan.</span></p>

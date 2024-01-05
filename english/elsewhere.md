@@ -1,5 +1,7 @@
 # elsewhere 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elsewhere.md)
+
 <p><span class="chinese">你的生活在别处。</span><span class="english">Your life is elsewhere.</span></p>
 
 <p><span class="chinese">位于硬件的某个地方。</span><span class="english">It's elsewhere on my hardware.</span></p>

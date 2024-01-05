@@ -1,5 +1,7 @@
 # sustain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sustain.md)
+
 <p><span class="chinese">保持你的动力。</span><span class="english">Sustain your momentum.</span></p>
 
 <p><span class="chinese">三个拱形礅支撑着那座桥。</span><span class="english">Three arches sustain the bridge.</span></p>

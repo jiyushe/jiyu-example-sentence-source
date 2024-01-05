@@ -1,5 +1,7 @@
 # 隧道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suidao.md)
+
 <p><span class="chinese">为什么是隧道？</span><span class="english">And why tunnels?</span></p>
 
 <p><span class="chinese">他们得钻过狭窄的隧道。</span><span class="english">A narrow way or alley.</span></p>

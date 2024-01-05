@@ -1,5 +1,7 @@
 # 兼及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianji.md)
+
 <p><span class="chinese">另外，本文还兼及论述了优秀的乡土小说。</span><span class="english">In addition, this text also gives consideration to excellent native soil novel.</span></p>
 
 <p><span class="chinese">另外还兼及考察目前正在发生的ADV失落，疑问标记转移的问题。</span><span class="english">In addition, the issue about losing "ADV" and transfer of question markers were also involved.</span></p>

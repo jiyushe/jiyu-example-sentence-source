@@ -1,5 +1,7 @@
 # 侠客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiake_1.md)
+
 <p><span class="chinese">怒发冲冠五侠客将有一个要得到龙卷轴了！</span><span class="english">One of the five is gonna get the dragon scroll!</span></p>
 
 <p><span class="chinese">一个用敏捷和贴身技能去与敌人周旋的侠客。</span><span class="english">A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.</span></p>

@@ -1,5 +1,7 @@
 # 反问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanwen.md)
+
 <p><span class="chinese">我反问他。</span><span class="english">I asked him.</span></p>
 
 <p><span class="chinese">这就是一种自我反问。</span><span class="english">That would be self-refuting.</span></p>

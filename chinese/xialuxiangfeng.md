@@ -1,5 +1,7 @@
 # 狭路相逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialuxiangfeng.md)
+
 <p><span class="chinese">红珊瑚，狭路相逢。</span><span class="english">Red coral, unavoidable confrontation.</span></p>
 
 <p><span class="chinese">在一个光线阴暗的机库中，两人与杜库狭路相逢。</span><span class="english">In a darkened hangar, the two confronted Dooku.</span></p>

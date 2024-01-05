@@ -1,5 +1,7 @@
 # 情感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinggan.md)
+
 <p><span class="chinese">我没那份情感。培训。</span><span class="english">I'm not in the mood.</span></p>
 
 <p><span class="chinese">进行爱校的情感教育。</span><span class="english">How to love our school?</span></p>

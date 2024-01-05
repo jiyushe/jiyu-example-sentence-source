@@ -1,5 +1,7 @@
 # 干净利索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjinglisuo.md)
+
 <p><span class="chinese">他以干净利索而优美的姿势入水。</span><span class="english">He ended with a clean and graceful entry into the water.</span></p>
 
 <p><span class="chinese">此反应属分子内反应，因而快速且干净利索。</span><span class="english">The reaction is intramolecular and hence fast and clean.</span></p>

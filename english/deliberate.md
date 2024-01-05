@@ -1,5 +1,7 @@
 # deliberate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliberate.md)
+
 <p><span class="chinese">她是成心把我的衣服弄脏。</span><span class="english">Her spoiling my dress was deliberate.</span></p>
 
 <p><span class="chinese">我希望你们对这些问题进行商议。</span><span class="english">I hope you will deliberate on these issues.</span></p>

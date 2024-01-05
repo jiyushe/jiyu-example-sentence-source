@@ -1,5 +1,7 @@
 # organizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organizer.md)
+
 <p><span class="chinese">他算哪种聚会主办人?</span><span class="english">What kind of party organizer is he?</span></p>
 
 <p><span class="chinese">久闻她是个出色的组织者。</span><span class="english">She was by reputation a good organizer.</span></p>

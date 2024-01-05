@@ -1,5 +1,7 @@
 # smolensk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smolensk.md)
+
 <p><span class="chinese">现在摩棱斯克空难改变了很多。</span><span class="english">Now the Smolensk air disaster changed a lot of that.</span></p>
 
 <p><span class="chinese">一辆载着遇难者尸体的卡车通过斯摩林斯克机场附近的门。</span><span class="english">A truck carrying coffins passed through gates near the Smolensk airport.</span></p>

@@ -1,5 +1,7 @@
 # 纺织品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzhipin.md)
+
 <p><span class="chinese">你注意到这些纺织品了吗？</span><span class="english">Have you noticed these weavings?</span></p>
 
 <p><span class="chinese">这种纺织品容易洗干净。</span><span class="english">This kind of fabric cleans easily.</span></p>

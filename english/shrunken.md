@@ -1,5 +1,7 @@
 # shrunken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrunken.md)
+
 <p><span class="chinese">这些皱缩的头在做什么?。</span><span class="english">What does the shrunken head do?</span></p>
 
 <p><span class="chinese">已故老年痴呆病患者的萎缩大脑</span><span class="english">A brain from a deceased Alzheimer's patient appears shrunken.</span></p>

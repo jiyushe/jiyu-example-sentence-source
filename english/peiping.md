@@ -1,5 +1,7 @@
 # peiping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peiping.md)
+
 <p><span class="chinese">十六岁时，他到了北平。</span><span class="english">When sixteen, he came to Peiping.</span></p>
 
 <p><span class="chinese">逃往北平路上，二人结识了马小宛。</span><span class="english">Fled to peiping road, two men met horse small wan.</span></p>

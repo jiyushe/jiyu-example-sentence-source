@@ -1,5 +1,7 @@
 # propositional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propositional.md)
+
 <p><span class="chinese">⑶命题逻辑等值演算。</span><span class="english">Figure of equivalence of ⑶ propositional logic.</span></p>
 
 <p><span class="chinese">⑸命题逻辑推理理论。</span><span class="english">Inference of ⑸ propositional logic is academic.</span></p>

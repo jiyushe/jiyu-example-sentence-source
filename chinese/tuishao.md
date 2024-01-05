@@ -1,5 +1,7 @@
 # 退烧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishao.md)
+
 <p><span class="chinese">我退烧了。</span><span class="english">My fever has gone down.</span></p>
 
 <p><span class="chinese">我昨天晚上退烧了。</span><span class="english">My fever broke last night.</span></p>

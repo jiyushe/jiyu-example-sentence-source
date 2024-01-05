@@ -1,5 +1,7 @@
 # 回音壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyinbi.md)
+
 <p><span class="chinese">是的，我想是回音壁那幅。</span><span class="english">Yeah, I think the echo chamber.</span></p>
 
 <p><span class="chinese">回音壁是皇穹宇的围墙。</span><span class="english">The Echo Wall encloses the Imperial Vault.</span></p>

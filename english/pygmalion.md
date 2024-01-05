@@ -1,5 +1,7 @@
 # pygmalion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pygmalion.md)
+
 <p><span class="chinese">克隆人——自毙还是创造完美？</span><span class="english">Is Cloning Human Frankenstein or Pygmalion?</span></p>
 
 <p><span class="chinese">这是这个词的由来。</span><span class="english">So this is the source of the word, Pygmalion.</span></p>

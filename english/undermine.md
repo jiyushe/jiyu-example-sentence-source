@@ -1,5 +1,7 @@
 # undermine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undermine.md)
+
 <p><span class="chinese">不要因为拼写错误而破坏了你的成就。</span><span class="english">Don't  undermine your achievements by misspelling them.</span></p>
 
 <p><span class="chinese">不要拿自己和他人比较而贬低自己的价值。</span><span class="english">Don't undermine your worth by comping Yourself with others.</span></p>

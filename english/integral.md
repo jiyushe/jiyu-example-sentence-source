@@ -1,5 +1,7 @@
 # integral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integral.md)
+
 <p><span class="chinese">集成冷端补偿。</span><span class="english">Integral cold junction compensation.</span></p>
 
 <p><span class="chinese">但是让我们用二重积分来做。</span><span class="english">But let's do it as a double integral.</span></p>

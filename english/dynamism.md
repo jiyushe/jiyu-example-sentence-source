@@ -1,5 +1,7 @@
 # dynamism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamism.md)
+
 <p><span class="chinese">这种势头丝毫没有显示衰减的迹象。</span><span class="english">This dynamism shows no signs of waning.</span></p>
 
 <p><span class="chinese">无论在室内还是室外，运动的活力无处不在。</span><span class="english">Within and without there is dynamism of movement.</span></p>

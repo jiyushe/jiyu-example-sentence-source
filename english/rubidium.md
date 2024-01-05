@@ -1,5 +1,7 @@
 # rubidium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubidium.md)
+
 <p><span class="chinese">和GIOVE-A卫星携带的铷原子钟相比，这种原子钟具有更好的长期稳定性和精度。</span><span class="english">The maser promises better long term stability and improved accuracy compared to the rubidium clock on board GIOVE-A.</span></p>
 
 <p><span class="chinese">利用此腔泡系统可以制成小型化、高性能的铷原子频标。</span><span class="english">This cavity-cell assembly can be used to make a miniaturized rubidium atomic frequency standard with high performance.</span></p>

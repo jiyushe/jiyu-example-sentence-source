@@ -1,5 +1,7 @@
 # arms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arms.md)
+
 <p><span class="chinese">我讨厌我的粗手臂。</span><span class="english">I hate my arms.</span></p>
 
 <p><span class="chinese">举高你的双臂。</span><span class="english">Raise your arms.</span></p>

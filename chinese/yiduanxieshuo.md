@@ -1,5 +1,7 @@
 # 异端邪说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiduanxieshuo.md)
+
 <p><span class="chinese">所有的这些都是异端邪说。</span><span class="english">All this is grand heresy.</span></p>
 
 <p><span class="chinese">我们应该公开指责异端邪说。</span><span class="english">We should denounce a heresy.</span></p>

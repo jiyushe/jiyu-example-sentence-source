@@ -1,5 +1,7 @@
 # 数以万计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyiwanji.md)
+
 <p><span class="chinese">他说他的网站因此得到数以万计的访问量。</span><span class="english">He said he got tens of thousands of extra clicks.</span></p>
 
 <p><span class="chinese">数以万计的牲畜顷刻间消失。</span><span class="english">Livestock in the tens of thousands has been lost.</span></p>

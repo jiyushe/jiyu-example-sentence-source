@@ -1,5 +1,7 @@
 # disorient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorient.md)
+
 <p><span class="chinese">迷惑效果只有这个法术造成了伤害后才会发动。</span><span class="english">The disorient effect will only occur if damage is dealt.</span></p>
 
 <p><span class="chinese">我担心一连串令人吃惊的倒闭是否将误导你。</span><span class="english">I worried whether the barrage of shattering surprises would disorient you.</span></p>

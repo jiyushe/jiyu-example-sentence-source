@@ -1,5 +1,7 @@
 # condo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condo.md)
+
 <p><span class="chinese">我们在那里买了公寓。</span><span class="english">and we had bought a condo there.</span></p>
 
 <p><span class="chinese">吉姆通过房地产公司找到一间独栋公寓。</span><span class="english">Jim found a condo through a real estate agency.</span></p>

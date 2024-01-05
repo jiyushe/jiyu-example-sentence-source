@@ -1,5 +1,7 @@
 # equalise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equalise.md)
+
 <p><span class="chinese">我们努力追平了比分，但遗憾的是没有保持到最后。</span><span class="english">We managed to equalise and weren't capable of maintaining the result.</span></p>
 
 <p><span class="chinese">它说对于“将来工资平等分配"减少工资是必要的。</span><span class="english">It said pay cuts were needed to "further equalise distribution of income".</span></p>

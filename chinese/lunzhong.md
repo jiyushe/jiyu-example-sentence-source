@@ -1,5 +1,7 @@
 # 轮种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzhong.md)
+
 <p><span class="chinese">农民通常轮种。</span><span class="english">Farmers usually alternate their crops.</span></p>
 
 <p><span class="chinese">这里油菜和大麦轮种。</span><span class="english">Rape and barley are grown is rotation here.</span></p>

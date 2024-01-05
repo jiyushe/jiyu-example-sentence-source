@@ -1,5 +1,7 @@
 # carnarvon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnarvon.md)
+
 <p><span class="chinese">之后他高烧不退,没过多久就去世了。</span><span class="english">Carnarvon suffered a high fever and died soon after.</span></p>
 
 <p><span class="chinese">海克利尔城堡现在的主人是乔治的长孙及其妻子，即第八代卡纳文伯爵以及他的夫人。</span><span class="english">The current occupiers are George's great grandson and his wife, the 8th Earl and Countess of Carnarvon.</span></p>

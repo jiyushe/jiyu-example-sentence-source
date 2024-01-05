@@ -1,5 +1,7 @@
 # gauzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gauzy.md)
+
 <p><span class="chinese">在这幅油画中有一种如纱般的，诡异的质感。</span><span class="english">There is a gauzy , ghostly quality to this painting.</span></p>
 
 <p><span class="chinese">淡紫色、暗淡的粉色以及蓝色渲染着似纱般的云。</span><span class="english">Lavenders, dusky pinks, and blues stained the gauzy clouds.</span></p>

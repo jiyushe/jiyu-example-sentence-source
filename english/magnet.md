@@ -1,5 +1,7 @@
 # magnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnet.md)
+
 <p><span class="chinese">磁石吸铁。</span><span class="english">A magnet attracts iron.</span></p>
 
 <p><span class="chinese">今天，我年夜出一块磁铁。</span><span class="english">Today, I shat a magnet.</span></p>

@@ -1,5 +1,7 @@
 # 风姿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzi_1.md)
+
 <p><span class="chinese">她具有媚人的风姿。</span><span class="english">She has charming manners.</span></p>
 
 <p><span class="chinese">她风姿绰约，适合当一名舞蹈演员。</span><span class="english">She is graceful enough to be a dancer.</span></p>

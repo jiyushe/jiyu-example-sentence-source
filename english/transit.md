@@ -1,5 +1,7 @@
 # transit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transit.md)
+
 <p><span class="chinese">在运输途中我们用纸箱包装。</span><span class="english">We use cartons for transit.</span></p>
 
 <p><span class="chinese">你是过境旅客吗？</span><span class="english">Are you a transit passenger?</span></p>

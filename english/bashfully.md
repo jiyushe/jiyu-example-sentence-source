@@ -1,5 +1,7 @@
 # bashfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bashfully.md)
+
 <p><span class="chinese">她羞涩的点点头。</span><span class="english">She bashfully nodded her head.</span></p>
 
 <p><span class="chinese">羞赧地在你的目光中千娇百媚地重生了自己。</span><span class="english">Blushed bashfully in yours vision acme of beauty and deportment rebirth own.</span></p>

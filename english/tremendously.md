@@ -1,5 +1,7 @@
 # tremendously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremendously.md)
+
 <p><span class="chinese">我对你感激万分。</span><span class="english">I'm tremendously obliged to you.</span></p>
 
 <p><span class="chinese">他们是非常可靠的。</span><span class="english">They were tremendously reliable.</span></p>

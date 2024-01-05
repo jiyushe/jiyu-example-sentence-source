@@ -1,5 +1,7 @@
 # 末年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/monian.md)
+
 <p><span class="chinese">是一种产生于汉代末年的博戏品种。</span><span class="english">Is produced in the Han Dynasty of the gambling variety.</span></p>
 
 <p><span class="chinese">它由张明山创始于清代末年。</span><span class="english">It was initiated by Zhang Mingshan in late Qing Dynasty.</span></p>

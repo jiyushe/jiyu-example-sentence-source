@@ -1,5 +1,7 @@
 # checkerboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkerboard.md)
+
 <p><span class="chinese">田野里的麦苗儿铺开绿棋盘。</span><span class="english">In the field young wheat unfolds the green checkerboard.</span></p>
 
 <p><span class="chinese">方法采用棋盘法设计，微量肉汤稀释法测定。</span><span class="english">Methods The protocol was designed with checkerboard method.</span></p>

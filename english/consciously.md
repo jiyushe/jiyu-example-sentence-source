@@ -1,5 +1,7 @@
 # consciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consciously.md)
+
 <p><span class="chinese">更有意识地控制会议进程</span><span class="english">More consciously passing the conch</span></p>
 
 <p><span class="chinese">他有意在公开场合避开她。</span><span class="english">He consciously stood off her in the publicity.</span></p>

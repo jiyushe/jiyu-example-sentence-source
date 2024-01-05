@@ -1,5 +1,7 @@
 # 募款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mukuan.md)
+
 <p><span class="chinese">我们的牧师老是在为这桩或那桩事募款。</span><span class="english">Our vicar is always raising money for one cause or another.</span></p>
 
 <p><span class="chinese">近年来本分会亦开始举办大型慈善募款音乐会「爱之颂」。</span><span class="english">CWLDC also holds the Sing for Love Charity Event every year.</span></p>

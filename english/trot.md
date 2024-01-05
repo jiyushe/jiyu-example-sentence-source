@@ -1,5 +1,7 @@
 # trot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trot.md)
+
 <p><span class="chinese">马开始小跑。</span><span class="english">The horse began to trot.</span></p>
 
 <p><span class="chinese">乐队高声奏出一支狐步舞。</span><span class="english">The band blared out a fox trot.</span></p>

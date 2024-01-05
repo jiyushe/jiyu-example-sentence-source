@@ -1,5 +1,7 @@
 # lupin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lupin.md)
+
 <p><span class="chinese">给卢宾谋到了一个职位。</span><span class="english">Got a place for Lupin.</span></p>
 
 <p><span class="chinese">卢平是混血儿?。</span><span class="english">Lupin is a half-blood.</span></p>

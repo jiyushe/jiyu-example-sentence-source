@@ -1,5 +1,7 @@
 # 映现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxian.md)
+
 <p><span class="chinese">月亮从一片云的后面映现出来。</span><span class="english">The moon appears from behind a cloud.</span></p>
 
 <p><span class="chinese">一幕难忘的情景，立即在他脑海映现。</span><span class="english">Unforgettable scenes flashed across his mind.</span></p>

@@ -1,5 +1,7 @@
 # honorably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honorably.md)
+
 <p><span class="chinese">这名士兵光荣退伍了。</span><span class="english">The soldier was honorably discharged.</span></p>
 
 <p><span class="chinese">Corbis我的竞选对手麦凯恩参议员为美国作出的贡献令人尊敬。</span><span class="english">My opponent, Senator McCain, has served his country honorably.</span></p>

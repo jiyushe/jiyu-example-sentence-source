@@ -1,5 +1,7 @@
 # 月票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuepiao.md)
+
 <p><span class="chinese">您可以买月票。</span><span class="english">You can buy a monthly pass.</span></p>
 
 <p><span class="chinese">她每天使用月票上下班。</span><span class="english">She commutes to work every day.</span></p>

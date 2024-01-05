@@ -1,5 +1,7 @@
 # physiognomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physiognomy.md)
+
 <p><span class="chinese">对于诚信，那么，地貌工程。</span><span class="english">For trustworthiness, then, physiognomy works.</span></p>
 
 <p><span class="chinese">柴山充满丰富的林相、生态。</span><span class="english">Chaishan abounds lush forest physiognomy and ecosystem.</span></p>

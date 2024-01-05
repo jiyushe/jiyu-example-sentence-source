@@ -1,5 +1,7 @@
 # amigo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amigo.md)
+
 <p><span class="chinese">人类的最好的朋友。</span><span class="english">Man's best amigo.</span></p>
 
 <p><span class="chinese">他是我的普通朋友。</span><span class="english">Es mi amigo normal.</span></p>

@@ -1,5 +1,7 @@
 # caliper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caliper.md)
+
 <p><span class="chinese">卡钳和片式的前后轮采用不同。</span><span class="english">Front and rear caliper bracket is different.</span></p>
 
 <p><span class="chinese">本试验采用老化箱、游标卡尺。</span><span class="english">The test employs aging oven and vernier caliper.</span></p>

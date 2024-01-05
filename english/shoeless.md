@@ -1,5 +1,7 @@
 # shoeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoeless.md)
+
 <p><span class="chinese">一组是经常赤脚跑步的。</span><span class="english">One group had always run shoeless.</span></p>
 
 <p><span class="chinese">一组一直是光脚跑。</span><span class="english">One group had alwaysranrun shoeless.</span></p>

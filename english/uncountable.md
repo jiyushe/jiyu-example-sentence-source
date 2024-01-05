@@ -1,5 +1,7 @@
 # uncountable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncountable.md)
+
 <p><span class="chinese">它们是可数名词还是不可数名词?。</span><span class="english">Are they countable nouns or uncountable nouns?</span></p>
 
 <p><span class="chinese">令参数空间是一不可数集合。</span><span class="english">Let the parametric space be an uncountable set.</span></p>

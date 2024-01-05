@@ -1,5 +1,7 @@
 # 制度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidu.md)
+
 <p><span class="chinese">民主制度办起事来，行动缓慢。</span><span class="english">Democracy moves slowly.</span></p>
 
 <p><span class="chinese">并且在此制度下的税收是很重的</span><span class="english">He wanted huge taxation.</span></p>

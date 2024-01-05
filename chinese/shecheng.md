@@ -1,5 +1,7 @@
 # 射程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shecheng.md)
+
 <p><span class="chinese">喷气机确实在射程以内。</span><span class="english">The jet was in range.</span></p>
 
 <p><span class="chinese">谁知道它的射程有多远？</span><span class="english">Who knows how far it shoots?</span></p>

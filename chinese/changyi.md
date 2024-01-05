@@ -1,5 +1,7 @@
 # 肠衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changyi.md)
+
 <p><span class="chinese">主营胶原蛋白肠衣产品。</span><span class="english">Main products of collagen casings.</span></p>
 
 <p><span class="chinese">灌肠嘴可以根据肠衣大小进行更换。</span><span class="english">The filling tube can be changed based on different needs.</span></p>

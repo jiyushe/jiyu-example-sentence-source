@@ -1,5 +1,7 @@
 # turkestan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkestan.md)
+
 <p><span class="chinese">专家说，据信东突这个组织的规模非常小。</span><span class="english">Experts said the East Turkestan Islamic Movement was believed to be a very small organisation.</span></p>
 
 <p><span class="chinese">奥莱尔•斯坦因是中国西北探察史、敦煌学术史上的关键人物之一，他先后四次到中国新疆、甘肃等地区进行考察。</span><span class="english">Sir Aurel Stein was one of the keyman in history of the exploration in northwest of Chinese Turkestan and Dunhuang Studies.</span></p>

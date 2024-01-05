@@ -1,5 +1,7 @@
 # 木门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mumen_1.md)
+
 <p><span class="chinese">添加浮木门建筑部分。</span><span class="english">Added Driftwood Door building part.</span></p>
 
 <p><span class="chinese">玻璃门，制冰盆，木门。</span><span class="english">Glass door, make icebox, wooden door.</span></p>

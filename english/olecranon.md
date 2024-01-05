@@ -1,5 +1,7 @@
 # olecranon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olecranon.md)
+
 <p><span class="chinese">目的再造外伤后畸形或发育不良的尺骨鹰嘴窝。</span><span class="english">Objective To reconstruct traumatic or hypoplastic olecranon fossa.</span></p>
 
 <p><span class="chinese">鹰嘴是肘关节一个关键的骨性限制结构。</span><span class="english">Clinical Relevance The olecranon is a key osseous constraint of the elbow.</span></p>

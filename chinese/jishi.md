@@ -1,5 +1,7 @@
 # 几时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishi.md)
+
 <p><span class="chinese">你要沉睡到几时？</span><span class="english">How long wouldst thou sleep?</span></p>
 
 <p><span class="chinese">剩下只有一个问题，那就是“几时动手？”</span><span class="english">The only question is “When?”</span></p>

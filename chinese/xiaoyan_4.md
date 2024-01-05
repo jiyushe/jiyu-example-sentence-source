@@ -1,5 +1,7 @@
 # 笑颜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyan_4.md)
+
 <p><span class="chinese">首先，重展你的笑颜。</span><span class="english">First, regain your smile.</span></p>
 
 <p><span class="chinese">伊丽莎白，绽露笑颜。</span><span class="english">Elizabeth's face blooms a smile.</span></p>

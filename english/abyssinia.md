@@ -1,5 +1,7 @@
 # abyssinia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abyssinia.md)
+
 <p><span class="chinese">此事件导致后来的阿比西尼亚危机。</span><span class="english">This leads to the Abyssinia Crisis.</span></p>
 
 <p><span class="chinese">最后，还使用一切方法煽动阿比西尼亚起义。</span><span class="english">Finally the revolt in abyssinia was being fanned by every means.</span></p>

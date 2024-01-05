@@ -1,5 +1,7 @@
 # oxymoron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxymoron.md)
+
 <p><span class="chinese">职业规划用了矛盾修辞。</span><span class="english">Career planning is an oxymoron.</span></p>
 
 <p><span class="chinese">群众的智慧是无穷尽的。</span><span class="english">The wisdom of crowds isn't an oxymoron.</span></p>

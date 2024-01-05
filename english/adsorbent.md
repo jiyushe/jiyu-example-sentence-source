@@ -1,5 +1,7 @@
 # adsorbent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsorbent.md)
+
 <p><span class="chinese">该吸附剂具有抑菌效能。</span><span class="english">The composited adsorbent have antimicrobial activity.</span></p>
 
 <p><span class="chinese">吸附剂是水处理技术的一种重要手段。</span><span class="english">Adsorbent is an important method in water treatment technology.</span></p>

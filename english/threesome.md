@@ -1,5 +1,7 @@
 # threesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threesome.md)
+
 <p><span class="chinese">梦想过三人行么？</span><span class="english">Do you dream of a threesome?</span></p>
 
 <p><span class="chinese">有时候找一个愿意参与“3P”的人确实有点棘手。</span><span class="english">Finding someone for a threesome can sometimes be a bit tricky.</span></p>

@@ -1,5 +1,7 @@
 # oversimplification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversimplification.md)
+
 <p><span class="chinese">这有点过于简单化了。</span><span class="english">This is a slight oversimplification.</span></p>
 
 <p><span class="chinese">不过，有人认为这个法则过度简单化了。</span><span class="english">Yet here the dogma can be accused of oversimplification.</span></p>

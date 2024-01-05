@@ -1,5 +1,7 @@
 # 印花税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhuashui.md)
+
 <p><span class="chinese">代扣代缴印花税！</span><span class="english">Withholding stamp duty.</span></p>
 
 <p><span class="chinese">必须废止这个不公正的印花税案。</span><span class="english">The unjust Stamp Act must be annulled.</span></p>

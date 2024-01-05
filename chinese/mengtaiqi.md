@@ -1,5 +1,7 @@
 # 蒙太奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengtaiqi.md)
+
 <p><span class="chinese">运动元素包含节奏、蒙太奇。</span><span class="english">Motional element contains rhythm and montage.</span></p>
 
 <p><span class="chinese">他们也创造了这个战役所需的蒙太奇般的视频</span><span class="english">They’ve also created a montage video of the campaign</span></p>

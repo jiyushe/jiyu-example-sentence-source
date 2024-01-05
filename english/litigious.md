@@ -1,5 +1,7 @@
 # litigious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litigious.md)
+
 <p><span class="chinese">诉权是公民的一项宪法性权利。</span><span class="english">Litigious right is a constitutional right of citizens.</span></p>
 
 <p><span class="chinese">弹钢琴的狼崽子以前很爱争论。</span><span class="english">Baby Wolf who's playing the piano used to be litigious.</span></p>

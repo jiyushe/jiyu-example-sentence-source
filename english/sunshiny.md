@@ -1,5 +1,7 @@
 # sunshiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunshiny.md)
+
 <p><span class="chinese">那是个风和日丽的一天。</span><span class="english">Just a bright, sunshiny day.</span></p>
 
 <p><span class="chinese">在六月里的一天早上，天气晴朗，......</span><span class="english">on one sunshiny morning in June</span></p>

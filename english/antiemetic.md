@@ -1,5 +1,7 @@
 # antiemetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiemetic.md)
+
 <p><span class="chinese">目的观察盐酸格拉司琼止吐效果和毒性。</span><span class="english">Objective To study the antiemetic effect and toxicity of granisetron.</span></p>
 
 <p><span class="chinese">探讨格拉司琼用于恶性肿瘤患者化疗止吐的最佳用药时间。</span><span class="english">To study the best time to inject granisetron as antiemetic for cancer chemotherapy.</span></p>

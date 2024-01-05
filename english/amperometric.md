@@ -1,5 +1,7 @@
 # amperometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amperometric.md)
+
 <p><span class="chinese">综述了国内外电流型酶传感器的研究发展现状。</span><span class="english">Progress in research on amperometric enzyme biosensors was reviewed.</span></p>
 
 <p><span class="chinese">研制了一种金丝玻管流动注射检测器。</span><span class="english">A gold wire-glass tube flow-through amperometric detector for FIA has been designed.</span></p>

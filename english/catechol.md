@@ -1,5 +1,7 @@
 # catechol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catechol.md)
+
 <p><span class="chinese">用荧光光度法测定苯二酚异构体中的邻苯二酚。</span><span class="english">Catechol was determined in the phenyl dihydroxide isomers by fluorophotometry.</span></p>
 
 <p><span class="chinese">反应体系中加入高介电常数的溶剂不利于邻苯二酚的叔丁基化。</span><span class="english">The addition of solvent with high dielectric-constant would retard catechol tert-butylation.</span></p>

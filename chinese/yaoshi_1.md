@@ -1,5 +1,7 @@
 # 要事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshi_1.md)
+
 <p><span class="chinese">我有要事要处理，可以先走一步吗。</span><span class="english">May I go now as I am in a hurry.</span></p>
 
 <p><span class="chinese">有要事相商。</span><span class="english">I have important matters to discuss with you.</span></p>

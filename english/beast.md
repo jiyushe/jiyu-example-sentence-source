@@ -1,5 +1,7 @@
 # beast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beast.md)
+
 <p><span class="chinese">霍福德是一个怪兽。</span><span class="english">Al Horford is a beast.</span></p>
 
 <p><span class="chinese">半人。半兽。</span><span class="english">Half human. Half beast.</span></p>

@@ -1,5 +1,7 @@
 # supper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supper.md)
+
 <p><span class="chinese">晚餐六点钟就行了。</span><span class="english">Supper is redy t six.</span></p>
 
 <p><span class="chinese">请留下用晚餐。</span><span class="english">Please stay for supper.</span></p>

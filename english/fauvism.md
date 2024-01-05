@@ -1,5 +1,7 @@
 # fauvism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fauvism.md)
+
 <p><span class="chinese">野兽派也可以被看作是一个模式的表现。</span><span class="english">Fauvism can also be seen as a mode of Expressionism.</span></p>
 
 <p><span class="chinese">他的作品对后来的“野兽派”和“表现派”影响重大。</span><span class="english">His works had a far-reaching influence on the subsequent Fauvism and Expressionism.</span></p>

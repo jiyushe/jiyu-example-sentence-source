@@ -1,5 +1,7 @@
 # bridle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridle.md)
+
 <p><span class="chinese">我们需要对贪欲加以约束。</span><span class="english">We need to bridle greed.</span></p>
 
 <p><span class="chinese">丰富的马笼头皮革饰边。</span><span class="english">Rich bridle leather trim.</span></p>

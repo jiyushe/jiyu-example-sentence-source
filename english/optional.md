@@ -1,5 +1,7 @@
 # optional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optional.md)
+
 <p><span class="chinese">这一步是可选的。</span><span class="english">This step is optional.</span></p>
 
 <p><span class="chinese">是否穿礼服自便。</span><span class="english">Formal dress is optional.</span></p>

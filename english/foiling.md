@@ -1,5 +1,7 @@
 # foiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foiling.md)
+
 <p><span class="chinese">冷战挫败是金。</span><span class="english">Cold foiling is golden.</span></p>
 
 <p><span class="chinese">在此免费学习技巧视频剪辑有关使用彩绘玻璃艺术铜挫败眼安全。</span><span class="english">Learn tips for eye safety in this free video clip about using copper foiling for stained glass art.</span></p>

@@ -1,5 +1,7 @@
 # shirk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shirk.md)
+
 <p><span class="chinese">不推卸责任。</span><span class="english">Not to shirk responsibility.</span></p>
 
 <p><span class="chinese">不要推辞义务。</span><span class="english">Don't shirk your responsibility.</span></p>

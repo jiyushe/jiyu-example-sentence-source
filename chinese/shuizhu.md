@@ -1,5 +1,7 @@
 # 水珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhu.md)
+
 <p><span class="chinese">有没有海水珠？</span><span class="english">Do you have sea born pearl?</span></p>
 
 <p><span class="chinese">一只熊游泳过后在甩干水珠。</span><span class="english">A bear shakes off after a swim.</span></p>

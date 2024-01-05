@@ -1,5 +1,7 @@
 # 无性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxing_4.md)
+
 <p><span class="chinese">因此，你还觉得无性婚姻好吗？</span><span class="english">So is a sexless marriage ever okay?</span></p>
 
 <p><span class="chinese">无性的社会是令人费解的。</span><span class="english">This sexless society is making people loopy.</span></p>

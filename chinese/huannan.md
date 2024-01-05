@@ -1,5 +1,7 @@
 # 患难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huannan.md)
+
 <p><span class="chinese">他们同甘苦共患难。</span><span class="english">They lived in weal and woe.</span></p>
 
 <p><span class="chinese">杰克是个不能共患难的朋友。</span><span class="english">Jack is a fair-weather friend.</span></p>

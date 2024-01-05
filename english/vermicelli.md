@@ -1,5 +1,7 @@
 # vermicelli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermicelli.md)
+
 <p><span class="chinese">对，龙口粉丝。</span><span class="english">Right, Longkou bean starch vermicelli.</span></p>
 
 <p><span class="chinese">粉丝剪成小段用水浸软。</span><span class="english">Cut the vermicelli into sections and soak in water.</span></p>

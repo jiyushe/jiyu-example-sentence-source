@@ -1,5 +1,7 @@
 # pasteboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasteboard.md)
+
 <p><span class="chinese">这些盒子是纸板做的。</span><span class="english">The boxes are made of pasteboard.</span></p>
 
 <p><span class="chinese">每块金属板中间嵌进湿纸板或布料。</span><span class="english">Moistened pasteboard or cloth was inserted between each disc.</span></p>

@@ -1,5 +1,7 @@
 # adaptable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaptable.md)
+
 <p><span class="chinese">西恩。埃文思还是适应性很强。</span><span class="english">Sean Evans again has been very adaptable.</span></p>
 
 <p><span class="chinese">我适应性很强——我换过很多工作。</span><span class="english">I am adaptable -----I've changed jobs a lot.</span></p>

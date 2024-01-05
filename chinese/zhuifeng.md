@@ -1,5 +1,7 @@
 # 追风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuifeng.md)
+
 <p><span class="chinese">哈山，兔唇的哈山，追风筝的孩子。</span><span class="english">Hassan the harelipped kite runner.</span></p>
 
 <p><span class="chinese">去吧！去做一名追风的少年。</span><span class="english">Go! To be a youth who runs after the wind.</span></p>

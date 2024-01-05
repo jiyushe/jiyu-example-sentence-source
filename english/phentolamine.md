@@ -1,5 +1,7 @@
 # phentolamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phentolamine.md)
+
 <p><span class="chinese">目的探讨输液器对酚妥拉明的吸附作用及其影响因素。</span><span class="english">Objective To explore the absorption of phentolamine in transfusion system.</span></p>
 
 <p><span class="chinese">用酚胺唑啉治疗，能使喷射前期指数大大降低。</span><span class="english">Therapy with phentolamine produced a significant decrease in the preejection period index.</span></p>

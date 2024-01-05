@@ -1,5 +1,7 @@
 # herpesvirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herpesvirus.md)
+
 <p><span class="chinese">引起犬只小脑发育不全最常见的原因是宫内感染犬疱疹病毒。</span><span class="english">The most common cause in dogs is an in utero infection with canine herpesvirus.</span></p>
 
 <p><span class="chinese">反转录病毒及疱疹病毒可在鸡引起肿瘤。</span><span class="english">Tumors induced by some retroviruses and herpesvirus are very common in chickens.</span></p>

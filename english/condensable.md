@@ -1,5 +1,7 @@
 # condensable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condensable.md)
+
 <p><span class="chinese">与永久性气体相比，可凝性气体在聚合物膜中表现出一些“非常规”渗透行为。</span><span class="english">Condensable gas exhibits some unusual behavior in polymer membrane compared with permanent gas.</span></p>
 
 <p><span class="chinese">水蒸气作为一种可凝聚性气体，导致它在高分子膜中的渗透行为比其他非凝聚性气体复杂。</span><span class="english">As a condensable gas, the water vapor permeates through membranes become more complicated than non- condensable gases.</span></p>

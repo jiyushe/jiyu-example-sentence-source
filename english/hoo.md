@@ -1,5 +1,7 @@
 # hoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoo.md)
+
 <p><span class="chinese">哈，对了，猫头鹰，呼？</span><span class="english">Ha, that's right, owls hoo?</span></p>
 
 <p><span class="chinese">对呀，有老鼠做晚餐，啊啊啊啊！</span><span class="english">Yes, mouse for supper, Hoo hoo. Hoo hoo!</span></p>

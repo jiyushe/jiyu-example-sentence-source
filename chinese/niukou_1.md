@@ -1,5 +1,7 @@
 # 钮扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niukou_1.md)
+
 <p><span class="chinese">扣好你的衬衫钮扣。</span><span class="english">Let's button your shirt.</span></p>
 
 <p><span class="chinese">这衣服是单排钮扣。</span><span class="english">The coat is single-breasted.</span></p>

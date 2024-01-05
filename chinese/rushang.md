@@ -1,5 +1,7 @@
 # 如上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushang.md)
+
 <p><span class="chinese">导音管如上图。</span><span class="english">Close shot of sound induction tube.</span></p>
 
 <p><span class="chinese">如上所讲的，就是这块年糕的故事。</span><span class="english">The above was the story of the rice-cake.</span></p>

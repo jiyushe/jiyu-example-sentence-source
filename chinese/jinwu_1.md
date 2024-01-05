@@ -1,5 +1,7 @@
 # 金乌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinwu_1.md)
+
 <p><span class="chinese">本店主营“金乌炭雕”系列环保工艺品、礼品。</span><span class="english">Our Store main sell "Klinart" series of environmental crafts, gifts.</span></p>
 
 <p><span class="chinese">说明西金乌兰构造混杂带是羌塘陆块上裂解形成的。</span><span class="english">Suggests that the Xijir Ulan structure belt is splitting from Qiangtang massif.</span></p>

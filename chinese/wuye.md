@@ -1,5 +1,7 @@
 # 午夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuye.md)
+
 <p><span class="chinese">在某个午夜梦回。</span><span class="english">In a midnight dream.</span></p>
 
 <p><span class="chinese">午夜与他见面.</span><span class="english">Meet him at mid-night.</span></p>

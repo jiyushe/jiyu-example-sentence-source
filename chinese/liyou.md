@@ -1,5 +1,7 @@
 # 利诱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyou.md)
+
 <p><span class="chinese">利诱我，威胁我，你永远无法杀死我。</span><span class="english">Will me, thrill me, you can never kill me.</span></p>
 
 <p><span class="chinese">它不能用金钱买到，或者通过利诱或武力掠夺获得。</span><span class="english">It cannot be bought, or gained by lure or force.</span></p>

@@ -1,5 +1,7 @@
 # holocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holocene.md)
+
 <p><span class="chinese">层序I，为全新世松软沉积物。</span><span class="english">Sequence I is Holocene softy sediment.</span></p>
 
 <p><span class="chinese">全新世三角洲的形成和发育。</span><span class="english">Formation and development of the Holocene delta.</span></p>

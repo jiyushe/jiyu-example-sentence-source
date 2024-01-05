@@ -1,5 +1,7 @@
 # incredible 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incredible.md)
+
 <p><span class="chinese">太难以置信了！</span><span class="english">Maybe too incredible.</span></p>
 
 <p><span class="chinese">而且天气看起来棒极了。</span><span class="english">The weather looks incredible.</span></p>

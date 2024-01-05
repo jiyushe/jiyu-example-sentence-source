@@ -1,5 +1,7 @@
 # 真才实学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhencaishixue.md)
+
 <p><span class="chinese">他是位有真才实学的学者。</span><span class="english">He is no mean scholar.</span></p>
 
 <p><span class="chinese">他是一个有真才实学的年轻球员。</span><span class="english">He's a young player with real quality.</span></p>

@@ -1,5 +1,7 @@
 # radionuclide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radionuclide.md)
+
 <p><span class="chinese">放射性核素扫描显示“冷”结节48例，“热”结节4例。</span><span class="english">Radionuclide scanning showed 48 cases of "cold" and 4 cases of "hot" nodules.</span></p>
 
 <p><span class="chinese">在高放废物深地质处置中，地下水是核素迁移的重要媒介。</span><span class="english">Groundwater is the major carrier for radionuclide migration in the high level radioactive waste disposal.</span></p>

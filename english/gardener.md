@@ -1,5 +1,7 @@
 # gardener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gardener.md)
+
 <p><span class="chinese">我是一个软件园丁。</span><span class="english">I am a Software Gardener.</span></p>
 
 <p><span class="chinese">汤姆是打零工的园丁。</span><span class="english">Tom is a jobbing gardener.</span></p>

@@ -1,5 +1,7 @@
 # 篷车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengche.md)
+
 <p><span class="chinese">一位法国工程师建造的加长的顶篷车。</span><span class="english">Extensible caravan, built by a French engineer.</span></p>
 
 <p><span class="chinese">康内斯托加式宽轮篷车在美国历史中的角色</span><span class="english">Role of the Conestoga Wagon in American History</span></p>

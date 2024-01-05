@@ -1,5 +1,7 @@
 # 充其量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongqiliang.md)
+
 <p><span class="chinese">这里列举的充其量只是一小部分。</span><span class="english">This is a partial list at best.</span></p>
 
 <p><span class="chinese">但它充其量是一个不完整的范例。</span><span class="english">But it's an incomplete model at best.</span></p>

@@ -1,5 +1,7 @@
 # 感激不尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjibujin.md)
+
 <p><span class="chinese">你的眼睛将对你感激不尽。</span><span class="english">Your eyes will thank you.</span></p>
 
 <p><span class="chinese">你的精力将会感激不尽。</span><span class="english">Your energy levels will thank you.</span></p>

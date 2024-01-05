@@ -1,5 +1,7 @@
 # deterrence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deterrence.md)
+
 <p><span class="chinese">结果并不支持死刑有震慑作用的想法。</span><span class="english">This offers no support for the notion of deterrence.</span></p>
 
 <p><span class="chinese">前以色列国防部长阿伦斯说，这次交换削弱了以色列的威慑力。</span><span class="english">Former Defense Minister Moshe Arens says the deal erodes Israeli deterrence.</span></p>

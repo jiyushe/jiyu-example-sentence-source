@@ -1,5 +1,7 @@
 # zealously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zealously.md)
+
 <p><span class="chinese">理发师热心地给了这个消息。</span><span class="english">The barber gave this tip zealously.</span></p>
 
 <p><span class="chinese">科赫公司热衷于捍卫其公众形象。</span><span class="english">Koch Industries zealously guards its public image.</span></p>

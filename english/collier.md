@@ -1,5 +1,7 @@
 # collier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collier.md)
+
 <p><span class="chinese">照片由约翰科利尔。</span><span class="english">Photo by John Collier.</span></p>
 
 <p><span class="chinese">好了，这是给你的谢谢，柯利尔先生。</span><span class="english">Okay, let's see now. Here you go. Thank you, Mr. Collier.</span></p>

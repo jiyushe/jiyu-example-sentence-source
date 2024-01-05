@@ -1,5 +1,7 @@
 # bourbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourbon.md)
+
 <p><span class="chinese">请给我波本酒加苏打水。</span><span class="english">Bourbon with soda water,please.</span></p>
 
 <p><span class="chinese">他喝光自己的第四杯波旁威士忌。</span><span class="english">He'd finished his fourth bourbon.</span></p>

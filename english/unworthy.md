@@ -1,5 +1,7 @@
 # unworthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unworthy.md)
+
 <p><span class="chinese">我不配获得这样的荣誉。</span><span class="english">I am unworthy of such an honor.</span></p>
 
 <p><span class="chinese">我认为他不值得我尊敬。</span><span class="english">I adjudge him unworthy of esteem.</span></p>

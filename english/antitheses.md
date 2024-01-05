@@ -1,5 +1,7 @@
 # antitheses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antitheses.md)
+
 <p><span class="chinese">本文采取了对比分析和案例分析相结合的研究方法。</span><span class="english">This study adopts the two methods that are antitheses analyzing and case analyzing.</span></p>
 
 <p><span class="chinese">“对比法”最忌讳的就是“画蛇添足”、重复使用。</span><span class="english">" Antitheses " most those who abstain from is " ruin the effect by adding sth superfluous " , repeat use.</span></p>

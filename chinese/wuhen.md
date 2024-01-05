@@ -1,5 +1,7 @@
 # 污痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhen.md)
+
 <p><span class="chinese">没有践踏的污痕啊。</span><span class="english">In leaves no step had trodden back.</span></p>
 
 <p><span class="chinese">没有践踏的污痕。</span><span class="english">In leaves no step had trodden black.</span></p>

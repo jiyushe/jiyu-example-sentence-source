@@ -1,5 +1,7 @@
 # 边材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biancai_1.md)
+
 <p><span class="chinese">边材为黄白色。</span><span class="english">The sapwood is yellowish white.</span></p>
 
 <p><span class="chinese">边材易于保存，但是硬材不易保存。</span><span class="english">The sapwood is easy to preserve but not the hardwood.</span></p>

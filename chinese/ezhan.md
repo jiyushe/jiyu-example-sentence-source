@@ -1,5 +1,7 @@
 # 恶战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ezhan.md)
+
 <p><span class="chinese">但是谢依然面临着对马英九的一场恶战。</span><span class="english">But he faces a tough battle against Mr Ma.</span></p>
 
 <p><span class="chinese">战士们准备进行一场恶战。</span><span class="english">The soldiers got ready for a fierce battle.</span></p>

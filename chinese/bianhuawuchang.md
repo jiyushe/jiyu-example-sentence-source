@@ -1,5 +1,7 @@
 # 变化无常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuawuchang.md)
+
 <p><span class="chinese">天气变化无常。</span><span class="english">The weather changes often.</span></p>
 
 <p><span class="chinese">在爱情上变化无常的女子。</span><span class="english">A woman inconstant in love.</span></p>

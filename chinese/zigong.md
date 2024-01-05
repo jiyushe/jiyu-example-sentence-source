@@ -1,5 +1,7 @@
 # 自供
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zigong.md)
+
 <p><span class="chinese">在女权主义，他找到了一位“亚马孙”自供状。</span><span class="english">In feminism he found an "amazonian" element.</span></p>
 
 <p><span class="chinese">她的话可以看成是一份自供。</span><span class="english">What he said could be construed into a confession.</span></p>

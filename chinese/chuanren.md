@@ -1,5 +1,7 @@
 # 传人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanren.md)
+
 <p><span class="chinese">可是马福尔…斯莱特林的传人?。</span><span class="english">But Malfoy, the Heir of Slytherin?</span></p>
 
 <p><span class="chinese">我很骄傲，因为我是龙的传人！</span><span class="english">And, Yo! listen! I am a son of Dragon!</span></p>

@@ -1,5 +1,7 @@
 # 大摇大摆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayaodabai.md)
+
 <p><span class="chinese">他大摇大摆地进了我家。</span><span class="english">He walks into my house.</span></p>
 
 <p><span class="chinese">盛怒之下大摇大摆走出了房间。</span><span class="english">He pranced out of the room in a fury.</span></p>

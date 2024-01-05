@@ -1,5 +1,7 @@
 # 活版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoban_1.md)
+
 <p><span class="chinese">活版字粒在印刷之后放回字盘位置的操作。</span><span class="english">The returning of letterpress type to the case after printing.</span></p>
 
 <p><span class="chinese">无粉腐蚀只需一个步骤就制成活版的腐蚀方法。</span><span class="english">Powerless etching A method of etching letterpress printing plates in one step.</span></p>

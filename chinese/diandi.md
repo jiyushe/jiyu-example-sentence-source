@@ -1,5 +1,7 @@
 # 点滴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diandi.md)
+
 <p><span class="chinese">他把一杯水喝得点滴不剩。</span><span class="english">He left not a dreg in the glass.</span></p>
 
 <p><span class="chinese">写日记记录进步的点滴。</span><span class="english">Keep a journal of your progress.</span></p>

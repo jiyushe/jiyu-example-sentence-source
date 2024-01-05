@@ -1,5 +1,7 @@
 # 清仓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingcang.md)
+
 <p><span class="chinese">我们今天清仓大甩卖。</span><span class="english">We have a clearance sale today.</span></p>
 
 <p><span class="chinese">清仓物资，低价倾销。</span><span class="english">Dump clearance goods at low price.</span></p>

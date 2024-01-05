@@ -1,5 +1,7 @@
 # 畅所欲言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changsuoyuyan.md)
+
 <p><span class="chinese">他同样继续在博客上畅所欲言。</span><span class="english">He also continues to speak out on his blog.</span></p>
 
 <p><span class="chinese">在其他情形下,则可以对灵魂畅所欲言</span><span class="english">In other contexts--no harm in talking about souls.</span></p>

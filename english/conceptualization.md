@@ -1,5 +1,7 @@
 # conceptualization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceptualization.md)
+
 <p><span class="chinese">绘画是观念的推进者又对观念化有严格的制约性。</span><span class="english">Painting as one propeller to conception, has strong restriction on conceptualization.</span></p>
 
 <p><span class="chinese">唯意志论和盟约论神学一起塑造出霍布斯的主权者概念。</span><span class="english">Voluntarism and covenant theology together constitute Hobbes' conceptualization of sovereign.</span></p>

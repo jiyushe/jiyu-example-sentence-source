@@ -1,5 +1,7 @@
 # 杂费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zafei.md)
+
 <p><span class="chinese">别在杂费上花钱。</span><span class="english">Get rid of the incidentals.</span></p>
 
 <p><span class="chinese">我不会下埋葬自己杂费。</span><span class="english">I won't bury myself under incidentals.</span></p>

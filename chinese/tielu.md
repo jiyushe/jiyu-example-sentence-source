@@ -1,5 +1,7 @@
 # 铁炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tielu.md)
+
 <p><span class="chinese">这个炼钢厂有多少镕铁炉？</span><span class="english">How many cupolas are there in the steel refinery?</span></p>
 
 <p><span class="chinese">我的家在铁炉堡，我应该搬去别的地方么？</span><span class="english">I am based in Ironforge, should I move else where?</span></p>

@@ -1,5 +1,7 @@
 # 页岩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyan_1.md)
+
 <p><span class="chinese">页岩层在煤层下面。</span><span class="english">Shale underlies the coal.</span></p>
 
 <p><span class="chinese">我们可以从页岩中提取石油。</span><span class="english">We can extract oil from shale.</span></p>

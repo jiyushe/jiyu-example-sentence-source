@@ -1,5 +1,7 @@
 # 令人发指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenfazhi.md)
+
 <p><span class="chinese">恐怖分子的罪行令人发指。</span><span class="english">The terrorist crimes dripped horror.</span></p>
 
 <p><span class="chinese">他的禽兽行为令人发指。</span><span class="english">His bestiality made people bristle with anger.</span></p>

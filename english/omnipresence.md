@@ -1,5 +1,7 @@
 # omnipresence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnipresence.md)
+
 <p><span class="chinese">父母不能控制电视，因为电视实在是无处不在。</span><span class="english">Parents cannot possibly control television, with its titanic omnipresence.</span></p>
 
 <p><span class="chinese">但邓文迪在中国媒体里无处不在的原因不仅仅是因为她自己。</span><span class="english">But Wendi Murdoch's omnipresence in the Chinese press is not simply about her.</span></p>

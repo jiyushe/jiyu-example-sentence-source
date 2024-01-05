@@ -1,5 +1,7 @@
 # glenoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glenoid.md)
+
 <p><span class="chinese">关节盂的测量分为关节盂侧转与骨缺损。</span><span class="english">The glenoid measurements were glenoid version and bone loss.</span></p>
 
 <p><span class="chinese">髁状突在关节窝中的位置基本处于中位。</span><span class="english">Condylar position was in the middle of glenoid fossa in posteroanterior direction.</span></p>

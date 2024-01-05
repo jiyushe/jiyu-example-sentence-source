@@ -1,5 +1,7 @@
 # 阉人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanren.md)
+
 <p><span class="chinese">他既非阉人，亦非色鬼。</span><span class="english">He is neither an eunuch nor a satyr.</span></p>
 
 <p><span class="chinese">阉人曾经在许多社会中是精英中的成员。</span><span class="english">Eunuchs were once members of the elite in many societies.</span></p>

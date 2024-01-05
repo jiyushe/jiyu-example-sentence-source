@@ -1,5 +1,7 @@
 # subsidy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsidy.md)
+
 <p><span class="chinese">但如果是这样的话，还需要补贴吗？</span><span class="english">But in that case is a subsidy needed?</span></p>
 
 <p><span class="chinese">第三，铁路津贴要再分配。</span><span class="english">Third, rail subsidy should be redirected.</span></p>

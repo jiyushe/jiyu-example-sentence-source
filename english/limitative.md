@@ -1,5 +1,7 @@
 # limitative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limitative.md)
+
 <p><span class="chinese">这是对一项发明的一些例子的说明。</span><span class="english">They are not to be construed as limitative of the invention.</span></p>
 
 <p><span class="chinese">该委员会确定的目标是限制国家垄断。</span><span class="english">The objective with this firm committee is limitative state monopoly.</span></p>

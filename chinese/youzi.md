@@ -1,5 +1,7 @@
 # 柚子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzi.md)
+
 <p><span class="chinese">你喜欢柚子吗？</span><span class="english">Do you like pomelos?</span></p>
 
 <p><span class="chinese">这个柚子有多重?。</span><span class="english">How heavy is this pomelo?</span></p>

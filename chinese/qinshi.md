@@ -1,5 +1,7 @@
 # 亲事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshi.md)
+
 <p><span class="chinese">他的父母赞成了这门亲事。</span><span class="english">His parents approved of the match.</span></p>
 
 <p><span class="chinese">他父母反对这门亲事。</span><span class="english">His parents are opposed to the match.</span></p>

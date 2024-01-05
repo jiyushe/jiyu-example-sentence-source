@@ -1,5 +1,7 @@
 # perplex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perplex.md)
+
 <p><span class="chinese">不要使问题复杂化了。</span><span class="english">Don't perplex the issue.</span></p>
 
 <p><span class="chinese">而且，这也是困扰了我很久的问题。</span><span class="english">In addition, this is what perplex me a lot.</span></p>

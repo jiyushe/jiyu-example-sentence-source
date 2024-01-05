@@ -1,5 +1,7 @@
 # 漠然置之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moranzhizhi.md)
+
 <p><span class="chinese">如果我们漠然置之，还有多少人会死去？</span><span class="english">If we do look away, how many others will die?</span></p>
 
 <p><span class="chinese">他们对提议的反应充其量只能说是漠然置之。</span><span class="english">Their response to the proposal was, at best, cool.</span></p>

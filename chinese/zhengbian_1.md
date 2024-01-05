@@ -1,5 +1,7 @@
 # 政变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbian_1.md)
+
 <p><span class="chinese">代比在1990年的一次政变中，夺得政权。</span><span class="english">Deby who took power in a coup in 1990.</span></p>
 
 <p><span class="chinese">他信两年前在一次政变中被罢免。</span><span class="english">He was ousted in a coup two years ago.</span></p>

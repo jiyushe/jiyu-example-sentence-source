@@ -1,5 +1,7 @@
 # educative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educative.md)
+
 <p><span class="chinese">那本书起了巨大的教育作用。</span><span class="english">That book has played a great educative role.</span></p>
 
 <p><span class="chinese">流浪这个世系图很简单，也有教育作用。</span><span class="english">Browsing through the trees is easy and educative.</span></p>

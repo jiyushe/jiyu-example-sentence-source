@@ -1,5 +1,7 @@
 # 战马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanma.md)
+
 <p><span class="chinese">尽管战马和英雄倒下去了。</span><span class="english">While horse and hero fell.</span></p>
 
 <p><span class="chinese">那是我的一匹战马。</span><span class="english">That is one of my war-horses.</span></p>

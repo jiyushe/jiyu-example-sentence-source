@@ -1,5 +1,7 @@
 # sandstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandstorm.md)
+
 <p><span class="chinese">沙暴来了。</span><span class="english">The sandstorm came.</span></p>
 
 <p><span class="chinese">沙尘暴喷出一阵灰烟，急速冲向前。</span><span class="english">With a puff of gray smoke, Sandstorm zooms forward.</span></p>

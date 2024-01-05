@@ -1,5 +1,7 @@
 # telemedicine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telemedicine.md)
+
 <p><span class="chinese">远程医疗正在改善保健服务。</span><span class="english">Telemedicine is improving health care.</span></p>
 
 <p><span class="chinese">远程医疗是电子健康的另一种说法。</span><span class="english">Telemedicine is another term for eHealth.</span></p>

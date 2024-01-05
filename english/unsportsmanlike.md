@@ -1,5 +1,7 @@
 # unsportsmanlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsportsmanlike.md)
+
 <p><span class="chinese">作出不符合运动精神的行为而令对手受到伤害的。</span><span class="english">Engaging in an unsportsmanlike conduct that causes an injury to an opponent.</span></p>
 
 <p><span class="chinese">没运动风度的球迷发出的噪声，使我们的明星球员失去镇定，结果接连两次罚球都没罚中。</span><span class="english">The unsportsmanlike noises of the fans so unnerved our star player that he missed two foul shots in a row.</span></p>

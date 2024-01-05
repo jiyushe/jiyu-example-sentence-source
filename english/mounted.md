@@ -1,5 +1,7 @@
 # mounted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mounted.md)
+
 <p><span class="chinese">正在装置一门炮。</span><span class="english">The gun is being mounted.</span></p>
 
 <p><span class="chinese">她坚定地迈上台阶。</span><span class="english">She mounted the steps firmly.</span></p>

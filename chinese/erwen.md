@@ -1,5 +1,7 @@
 # 耳闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erwen.md)
+
 <p><span class="chinese">说起泉州我可是早有耳闻。</span><span class="english">I have long heard about Quanzhou.</span></p>
 
 <p><span class="chinese">虽然我与各位大都是第一次见面，但对48家集团俱乐部早有耳闻，见到大家像老友重逢。</span><span class="english">The 48 Group Club is no stranger to me.</span></p>

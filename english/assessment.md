@@ -1,5 +1,7 @@
 # assessment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assessment.md)
+
 <p><span class="chinese">是这样的吗，That’</span><span class="english">s a fair assessment?</span></p>
 
 <p><span class="chinese">但是，这些评价是真的吗？</span><span class="english">But is this assessment true?</span></p>

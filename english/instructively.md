@@ -1,5 +1,7 @@
 # instructively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instructively.md)
+
 <p><span class="chinese">这些结果对安全地测定燃烧热具有指导意义。</span><span class="english">These results are instructively important for determining combustion heat safely.</span></p>
 
 <p><span class="chinese">导出的结果对化学反应和化工生产过程的分析具有指导意义。</span><span class="english">The deduced results are instructively important for analysing chemical reactions and chemical processes.</span></p>

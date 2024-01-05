@@ -1,5 +1,7 @@
 # tangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangle.md)
+
 <p><span class="chinese">这线容易缠结。</span><span class="english">The threads tangle easily.</span></p>
 
 <p><span class="chinese">灌木丛自编绿色的枝环。</span><span class="english">Green tangle of the brushes.</span></p>

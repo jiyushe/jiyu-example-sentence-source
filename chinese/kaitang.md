@@ -1,5 +1,7 @@
 # 开膛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaitang.md)
+
 <p><span class="chinese">他们把鹿屠宰开膛收拾干净。</span><span class="english">They dressed out the deer.</span></p>
 
 <p><span class="chinese">这只鸭煺毛开膛后净重5磅。</span><span class="english">The duck dressed five pounds.</span></p>

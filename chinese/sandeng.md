@@ -1,5 +1,7 @@
 # 三等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sandeng.md)
+
 <p><span class="chinese">这些都是三等品。</span><span class="english">These are all thirds.</span></p>
 
 <p><span class="chinese">四等、三等、二等。</span><span class="english">Fourth, Third and Second.</span></p>

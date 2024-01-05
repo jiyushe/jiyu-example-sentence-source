@@ -1,5 +1,7 @@
 # engage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engage.md)
+
 <p><span class="chinese">使用你的幽默。</span><span class="english">Engage your humor.</span></p>
 
 <p><span class="chinese">我们为何想要加以研究？</span><span class="english">Why do we engage in it?</span></p>

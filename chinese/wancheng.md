@@ -1,5 +1,7 @@
 # 完成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wancheng.md)
+
 <p><span class="chinese">尽早完成。</span><span class="english">Do it early.</span></p>
 
 <p><span class="chinese">瞧，完成了。</span><span class="english">There, done.</span></p>

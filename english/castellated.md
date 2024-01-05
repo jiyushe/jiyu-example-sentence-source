@@ -1,5 +1,7 @@
 # castellated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castellated.md)
+
 <p><span class="chinese">介绍圆孔蜂窝梁的制作方法。</span><span class="english">This paper presents a manufacture method for castellated beam.</span></p>
 
 <p><span class="chinese">因此，开展对蜂窝柱受力性能的研究十分必要。</span><span class="english">So it is necessary to do more researches on mechanical behavior for castellated columns.</span></p>

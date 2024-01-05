@@ -1,5 +1,7 @@
 # paternalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paternalistic.md)
+
 <p><span class="chinese">你的爱需要你变得像个家长。</span><span class="english">Your love requires you to be paternalistic.</span></p>
 
 <p><span class="chinese">国际商用机器公司一直是个家长作风很强的雇主。</span><span class="english">IBM has always been a paternalistic employer.</span></p>

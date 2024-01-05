@@ -1,5 +1,7 @@
 # 而且
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erqie.md)
+
 <p><span class="chinese">而且得多洗几遍。</span><span class="english">A few times.</span></p>
 
 <p><span class="chinese">而且是药三分毒。</span><span class="english">And three-drug.</span></p>

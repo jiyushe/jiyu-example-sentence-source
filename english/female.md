@@ -1,5 +1,7 @@
 # female 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/female.md)
+
 <p><span class="chinese">女人真麻烦。</span><span class="english">Female trouble.</span></p>
 
 <p><span class="chinese">一个女老师。</span><span class="english">A female teacher.</span></p>

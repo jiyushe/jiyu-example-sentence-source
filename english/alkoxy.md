@@ -1,5 +1,7 @@
 # alkoxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkoxy.md)
+
 <p><span class="chinese">本文综述了烷氧基重排反应。</span><span class="english">Rearrangement reactions of alkoxy groups are reviewed.</span></p>
 
 <p><span class="chinese">我们认为烷氧基链长的增加有利于液晶性能的表现。</span><span class="english">With increasing alkoxy chain length liquid crystalline characteristics was displayed.</span></p>

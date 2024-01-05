@@ -1,5 +1,7 @@
 # daimler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daimler.md)
+
 <p><span class="chinese">戴姆勒组装骑式双轮车是为了测试发动机。</span><span class="english">Daimler built the riding car to test the engine.</span></p>
 
 <p><span class="chinese">为什么会戴姆勒和丰田捏造这样的一个联盟?。</span><span class="english">Why would Daimler and Toyota concoct such an alliance?</span></p>

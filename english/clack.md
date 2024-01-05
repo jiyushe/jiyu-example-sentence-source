@@ -1,5 +1,7 @@
 # clack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clack.md)
+
 <p><span class="chinese">我听到她的鞋后跟在人行道上霹哩啪啦响的声音。</span><span class="english">I heard the clack of her heels on the sidewalk.</span></p>
 
 <p><span class="chinese">我也不对，克拉克先生，我下次尽量不再迟到了。</span><span class="english">And I'm sorry. Mr. Clack. I'll try not to be late again.</span></p>

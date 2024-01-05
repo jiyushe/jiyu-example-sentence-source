@@ -1,5 +1,7 @@
 # gravimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravimeter.md)
+
 <p><span class="chinese">然后会出现相应的重力仪的操作模式的窗口。</span><span class="english">A window corresponding to the gravimeter operating mode will then appear.</span></p>
 
 <p><span class="chinese">与比重计操作方式相应的一个窗口然后将出现。</span><span class="english">A window corresponding to the gravimeter operating mode will then appear.</span></p>

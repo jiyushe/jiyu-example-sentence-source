@@ -1,5 +1,7 @@
 # yard 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yard.md)
+
 <p><span class="chinese">我在庭院中除杂草。</span><span class="english">I weed the yard.</span></p>
 
 <p><span class="chinese">树木环绕着那个院子。</span><span class="english">Trees environ the yard.</span></p>

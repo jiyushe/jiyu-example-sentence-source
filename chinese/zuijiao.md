@@ -1,5 +1,7 @@
 # 嘴角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuijiao.md)
+
 <p><span class="chinese">血从他的嘴角流了出来。</span><span class="english">Blood streams out of  his mouth.</span></p>
 
 <p><span class="chinese">向嘴角伸长你的舌头顶住压舌器。</span><span class="english">pressing against a tongue depressor.</span></p>

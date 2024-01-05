@@ -1,5 +1,7 @@
 # assuredly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assuredly.md)
+
 <p><span class="chinese">但这肯定是可能的。</span><span class="english">But it is most assuredly possible.</span></p>
 
 <p><span class="chinese">莫非老将军在许昌有事否？</span><span class="english">Assuredly the old General is in trouble at the capital.</span></p>

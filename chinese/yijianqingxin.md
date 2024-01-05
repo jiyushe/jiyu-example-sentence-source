@@ -1,5 +1,7 @@
 # 一见倾心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijianqingxin.md)
+
 <p><span class="chinese">一见倾心。</span><span class="english">Love at first sight.</span></p>
 
 <p><span class="chinese">吉尔令女人一见倾心。</span><span class="english">Jill is a lady-killer.</span></p>

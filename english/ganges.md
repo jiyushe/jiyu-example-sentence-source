@@ -1,5 +1,7 @@
 # ganges
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ganges.md)
+
 <p><span class="chinese">你会在印度的恒河之畔</span><span class="english">Thou by the Indian Ganges side</span></p>
 
 <p><span class="chinese">有好几条河都是恒河的支流。</span><span class="english">Several rivers are _ to the Ganges.</span></p>

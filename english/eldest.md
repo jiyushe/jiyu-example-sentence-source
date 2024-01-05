@@ -1,5 +1,7 @@
 # eldest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eldest.md)
+
 <p><span class="chinese">如果他是长子该有多好啊。</span><span class="english">If only he were the eldest.</span></p>
 
 <p><span class="chinese">财产传给了长子。</span><span class="english">The estate falls to the eldest son.</span></p>

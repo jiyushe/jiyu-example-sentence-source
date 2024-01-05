@@ -1,5 +1,7 @@
 # exenteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exenteration.md)
+
 <p><span class="chinese">另例宫颈鳞状细胞癌，行盆腔清除术。</span><span class="english">This is another pelvic exenteration for cervical squamous cell carcinoma.</span></p>
 
 <p><span class="chinese">目的了解眶内容摘除术的适应证及眶腔修复方法。</span><span class="english">Objective To analyze the indications and orbital reconstruction of exenteration.</span></p>

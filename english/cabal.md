@@ -1,5 +1,7 @@
 # cabal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabal.md)
+
 <p><span class="chinese">他只是反英雄剧集的密谋增长的一个噱头。</span><span class="english">He's the poster boy for a growing cabal of TV anti-heroes.</span></p>
 
 <p><span class="chinese">然后我想卡瓦尔和被遗忘的具有独特的建筑和单位。</span><span class="english">And then I want Cabal and Forgotten has unique building and unit.</span></p>

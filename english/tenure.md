@@ -1,5 +1,7 @@
 # tenure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenure.md)
+
 <p><span class="chinese">他们并不在终身制考察期。</span><span class="english">They are not on a tenure track.</span></p>
 
 <p><span class="chinese">我十分喜欢在大正公司的工作。</span><span class="english">I enjoy my tenure at Tai Ching Company.</span></p>

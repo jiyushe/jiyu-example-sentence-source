@@ -1,5 +1,7 @@
 # 网膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangmo.md)
+
 <p><span class="chinese">肠管或网膜可能沿引流物疝出。</span><span class="english">Bowel or omentum may herniate alongside the drain.</span></p>
 
 <p><span class="chinese">病理报告结果是大网膜出血。</span><span class="english">The pathological report demonstrated an omental hemorrhage.</span></p>

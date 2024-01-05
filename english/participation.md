@@ -1,5 +1,7 @@
 # participation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/participation.md)
+
 <p><span class="chinese">操作参与。</span><span class="english">Operation participation.</span></p>
 
 <p><span class="chinese">鼓励参与。</span><span class="english">Encourages participation.</span></p>

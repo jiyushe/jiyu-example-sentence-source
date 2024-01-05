@@ -1,5 +1,7 @@
 # 条文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaowen.md)
+
 <p><span class="chinese">有各种法律条文。</span><span class="english">There's all kinds of law.</span></p>
 
 <p><span class="chinese">这个文件包括许多条文。</span><span class="english">This document includes many articles.</span></p>

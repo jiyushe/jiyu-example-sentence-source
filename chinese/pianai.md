@@ -1,5 +1,7 @@
 # 偏爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianai.md)
+
 <p><span class="chinese">我偏爱白色。</span><span class="english">I prefer white.</span></p>
 
 <p><span class="chinese">牛儿偏爱混乱。</span><span class="english">Bulls love clutter.</span></p>

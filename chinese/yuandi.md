@@ -1,5 +1,7 @@
 # 原地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuandi.md)
+
 <p><span class="chinese">我们可以留在原地不动。</span><span class="english">We may stay where we be.</span></p>
 
 <p><span class="chinese">'没鼻子'会待在原地。</span><span class="english">No-Nose will stay up here.</span></p>

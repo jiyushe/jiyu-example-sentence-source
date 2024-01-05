@@ -1,5 +1,7 @@
 # nonprofessional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonprofessional.md)
+
 <p><span class="chinese">译市运动会允许业余选手参加比赛。</span><span class="english">The city sports meeting allowed nonprofessional athletes to compete.</span></p>
 
 <p><span class="chinese">英国为其防御而组织的非专业的部队单位。</span><span class="english">British unit of nonprofessional soldiers organized for defense of GB.</span></p>

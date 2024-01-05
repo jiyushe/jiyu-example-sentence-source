@@ -1,5 +1,7 @@
 # 子弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidi.md)
+
 <p><span class="chinese">他是一个世家子弟。</span><span class="english">Heis a man of family.</span></p>
 
 <p><span class="chinese">我们是工农的子弟。</span><span class="english">We are sons of workers and peasants.</span></p>

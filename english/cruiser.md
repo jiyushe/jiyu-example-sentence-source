@@ -1,5 +1,7 @@
 # cruiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruiser.md)
+
 <p><span class="chinese">游艇在水面上飞越。</span><span class="english">The cruiser sheared through the water.</span></p>
 
 <p><span class="chinese">日军声称击沉了1艘巡洋舰和1艘驱逐舰。</span><span class="english">The Japs claimed a cruiser and a destroyer.</span></p>

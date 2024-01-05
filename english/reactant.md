@@ -1,5 +1,7 @@
 # reactant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reactant.md)
+
 <p><span class="chinese">反应物这一边。</span><span class="english">And that's on the reactant side.</span></p>
 
 <p><span class="chinese">在化学过程中，氧气经常充当为反应物。</span><span class="english">Oxygen is often used as reactant in chemical processes.</span></p>

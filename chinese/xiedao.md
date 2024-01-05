@@ -1,5 +1,7 @@
 # 邪道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedao.md)
+
 <p><span class="chinese">所有的邪道意味着死亡。</span><span class="english">All sorts of crookedness mean death.</span></p>
 
 <p><span class="chinese">是人行邪道，不能见如来。</span><span class="english">And will not be able to see the Buddha.</span></p>

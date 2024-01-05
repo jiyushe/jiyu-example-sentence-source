@@ -1,5 +1,7 @@
 # formally 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formally_1.md)
+
 <p><span class="chinese">你穿的太正式化了吗？</span><span class="english">Aren't you dressed too formally?</span></p>
 
 <p><span class="chinese">那我就正式将我的女儿许配给你。</span><span class="english">I formally marry my daughter to you.</span></p>

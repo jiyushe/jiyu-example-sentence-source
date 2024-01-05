@@ -1,5 +1,7 @@
 # wollastonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wollastonite.md)
+
 <p><span class="chinese">铜矿与硅灰石矿、石英矿共生。</span><span class="english">There copper mine, wollastonite mine and quartz mine are intergrowth.</span></p>
 
 <p><span class="chinese">硅灰石也有一定的增韧功能，部分起到了玻璃短纤维的作用。</span><span class="english">Wollastonite had certain toughening function like that of short glass fiber.</span></p>

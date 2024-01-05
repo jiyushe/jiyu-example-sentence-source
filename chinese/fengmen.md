@@ -1,5 +1,7 @@
 # 风门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmen.md)
+
 <p><span class="chinese">检查灶头风门是否关严。</span><span class="english">Check whether the door of stock value is closed tightly.</span></p>
 
 <p><span class="chinese">这个型号由由24伏反向风门电机驱动。</span><span class="english">The WOBD is operated by a 24 volt reverse acting damper motor.</span></p>

@@ -1,5 +1,7 @@
 # 增刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengkan.md)
+
 <p><span class="chinese">你们发行增刊的优待券吗？</span><span class="english">Could you issue the supplement coupons?</span></p>
 
 <p><span class="chinese">这天我正在为时代周日杂志的增刊采访福尔摩斯。</span><span class="english">I was interviewing Holmes for the Times Sunday supplement.</span></p>

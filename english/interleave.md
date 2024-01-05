@@ -1,5 +1,7 @@
 # interleave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interleave.md)
+
 <p><span class="chinese">我们然后统一地插入纸这二个飞行员留间隔。</span><span class="english">We then uniformly interleave these two pilot spacings.</span></p>
 
 <p><span class="chinese">它被设计为在交错模式中的侧电影并排。</span><span class="english">It is designed to side by side movies in interleave mode.</span></p>

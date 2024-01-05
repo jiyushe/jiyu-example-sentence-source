@@ -1,5 +1,7 @@
 # pluck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluck.md)
+
 <p><span class="chinese">老鸟的毛不易拔。</span><span class="english">Old birds are hard to pluck.</span></p>
 
 <p><span class="chinese">苊尝试去摘那颗星。</span><span class="english">I attempt to go to pluck that star.</span></p>

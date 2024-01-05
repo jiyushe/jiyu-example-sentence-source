@@ -1,5 +1,7 @@
 # noncompliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncompliance.md)
+
 <p><span class="chinese">最重要的待遇问题是不遵守与治疗。</span><span class="english">The most significant treatment issue is noncompliance with treatment.</span></p>
 
 <p><span class="chinese">闹铃警告的一个开放4-20马环路或不合格的输出阶段。</span><span class="english">An alarm warns of an open 4–20 mA loop or noncompliance of the output stage.</span></p>

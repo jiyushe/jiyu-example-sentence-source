@@ -1,5 +1,7 @@
 # planter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planter.md)
+
 <p><span class="chinese">他是个棉花种植场主。</span><span class="english">He is a cotton planter.</span></p>
 
 <p><span class="chinese">杰拉尔德要当一个地主。</span><span class="english">Gerald wanted to be a planter.</span></p>

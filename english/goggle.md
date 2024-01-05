@@ -1,5 +1,7 @@
 # goggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goggle.md)
+
 <p><span class="chinese">驾驶舱有夜视镜兼容。</span><span class="english">Cockpits are night vision goggle compatible.</span></p>
 
 <p><span class="chinese">这孩子觉得凸眼的青蛙很有趣。</span><span class="english">The child was amused by the goggle -eyed frogs.</span></p>

@@ -1,5 +1,7 @@
 # legion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legion.md)
+
 <p><span class="chinese">我们是大兵团。</span><span class="english">We are Legion.</span></p>
 
 <p><span class="chinese">他曾尝试创立阿拉伯军团。</span><span class="english">He tried to create an Arab Legion.</span></p>

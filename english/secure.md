@@ -1,5 +1,7 @@
 # secure 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secure.md)
+
 <p><span class="chinese">这鞍子安得很牢。</span><span class="english">The saddle is secure.</span></p>
 
 <p><span class="chinese">我的投票系统安全吗？</span><span class="english">Is my voting system secure?</span></p>

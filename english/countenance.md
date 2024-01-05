@@ -1,5 +1,7 @@
 # countenance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countenance.md)
+
 <p><span class="chinese">他那英俊的面容阴沈沮丧。</span><span class="english">His handsome countenance was overcast.</span></p>
 
 <p><span class="chinese">那支烛正照着她的面孔。</span><span class="english">The candle illuminated her countenance.</span></p>

@@ -1,5 +1,7 @@
 # masterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masterly.md)
+
 <p><span class="chinese">马尔科姆·赫布登上演了一场精湛的表演。</span><span class="english">Malcolm Hebden gives a masterly performance.</span></p>
 
 <p><span class="chinese">除去这些不敢苟同的地方，这是一本精湛的书。</span><span class="english">These objections aside, this is a masterly book.</span></p>

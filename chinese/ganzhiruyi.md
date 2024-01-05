@@ -1,5 +1,7 @@
 # 甘之如饴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzhiruyi.md)
+
 <p><span class="chinese">南茜，你要是我夫人，就是毒咖啡我也甘之如饴。</span><span class="english">Nancy, if you were my wife I'd drink it.</span></p>
 
 <p><span class="chinese">你是怎么知道我甘之如饴地将我的心献给你的？</span><span class="english">How did ya' know I'd give my heart gladly?</span></p>

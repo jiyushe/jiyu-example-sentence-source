@@ -1,5 +1,7 @@
 # nephew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephew.md)
+
 <p><span class="chinese">他绝对是我的侄子。</span><span class="english">He is absolutely my nephew.</span></p>
 
 <p><span class="chinese">高文爵士是亚瑟王的外甥。</span><span class="english">Sir Gawain was Arthur’s nephew.</span></p>

@@ -1,5 +1,7 @@
 # arcade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arcade.md)
+
 <p><span class="chinese">街机模式下完成第10关。</span><span class="english">Cleared Stage 10 in Arcade mode.</span></p>
 
 <p><span class="chinese">在街机模式下完成一次翻滚。</span><span class="english">Performed a roll in Arcade Mode.</span></p>

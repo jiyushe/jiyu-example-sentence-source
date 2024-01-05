@@ -1,5 +1,7 @@
 # ernie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ernie.md)
+
 <p><span class="chinese">欧尼渴望学会转咖啡壶。</span><span class="english">Ernie yearned to learn to turn urns.</span></p>
 
 <p><span class="chinese">那人是美军记者厄恩利．派尔。</span><span class="english">The man was Ernie Pyle, the GI's reporter.</span></p>

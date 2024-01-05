@@ -1,5 +1,7 @@
 # perceptibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceptibly.md)
+
 <p><span class="chinese">他们一听到这则好消息，就欢跃起来。</span><span class="english">They brisked up perceptibly at the good news.</span></p>
 
 <p><span class="chinese">这几年来，我和托特博士的关系显然愈加密切。</span><span class="english">My relationship to Dr. Todt had become perceptibly closer in recent years.</span></p>

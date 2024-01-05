@@ -1,5 +1,7 @@
 # quadriplegic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadriplegic.md)
+
 <p><span class="chinese">现在的他四肢麻痹，只能呆在轮椅上。</span><span class="english">He is now quadriplegic and confined to a wheelchair.</span></p>
 
 <p><span class="chinese">他用一个患了四肢型麻痹的少女来举例说明。</span><span class="english">To illustrate, he told about a teenage girl who was a quadriplegic.</span></p>

@@ -1,5 +1,7 @@
 # 谁家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijia.md)
+
 <p><span class="chinese">敢问是谁家女子？</span><span class="english">Ask who is a woman?</span></p>
 
 <p><span class="chinese">谁家今夜扁舟子。</span><span class="english">Who a tonight skiff son.</span></p>

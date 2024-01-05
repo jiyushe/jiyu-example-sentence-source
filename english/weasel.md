@@ -1,5 +1,7 @@
 # weasel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weasel.md)
+
 <p><span class="chinese">猴子追上了鼬鼠。</span><span class="english">The monkey chased the weasel.</span></p>
 
 <p><span class="chinese">赫比露出了黄鼠狼般的牙齿。</span><span class="english">Herbie had bared his weasel teeth.</span></p>

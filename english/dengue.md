@@ -1,5 +1,7 @@
 # dengue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dengue.md)
+
 <p><span class="chinese">什么是登革热以及如何治疗？</span><span class="english">What is dengue and how is it treated?</span></p>
 
 <p><span class="chinese">快速从骨痛热症恢复元气。</span><span class="english">Faster recovery from dengue infection.</span></p>

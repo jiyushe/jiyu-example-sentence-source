@@ -1,5 +1,7 @@
 # 清炖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdun.md)
+
 <p><span class="chinese">那道清炖牛肉胡萝卜的菜味道不错。</span><span class="english">The dish of boiled beef and carrot tastes good.</span></p>
 
 <p><span class="chinese">主菜将是一整条清炖鲑鱼。</span><span class="english">The main course was to be a whole poached salmon.</span></p>

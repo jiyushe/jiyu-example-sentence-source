@@ -1,5 +1,7 @@
 # 毛刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoci.md)
+
 <p><span class="chinese">刃口不能有毛刺。</span><span class="english">Cutting edges must be free from burrs.</span></p>
 
 <p><span class="chinese">右下叶见不规则的有细毛刺的卵圆形肿块。</span><span class="english">Irregular spiculated ovoid mass is noted in RLL.</span></p>

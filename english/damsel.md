@@ -1,5 +1,7 @@
 # damsel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damsel.md)
+
 <p><span class="chinese">墨林深深地爱上那少女。</span><span class="english">Merlin fell in a dotage on the damsel.</span></p>
 
 <p><span class="chinese">我想，男人们肯定喜欢落魄少女。</span><span class="english">Men must like a damsel in distress, I decided.</span></p>

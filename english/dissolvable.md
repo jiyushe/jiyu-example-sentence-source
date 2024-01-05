@@ -1,5 +1,7 @@
 # dissolvable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolvable.md)
+
 <p><span class="chinese">莉莉认为婚姻是随便可解除的结合。</span><span class="english">Lily considers marriage an rasily dissolvable union.</span></p>
 
 <p><span class="chinese">可吸收缝合线,在设计缝合线时需要注意什么问题</span><span class="english">Dissolvable stitches or sutures, now what needs to be engineered in those?</span></p>

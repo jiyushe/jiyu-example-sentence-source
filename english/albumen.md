@@ -1,5 +1,7 @@
 # albumen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albumen.md)
+
 <p><span class="chinese">蛋白过敏的宝宝，麻疹。</span><span class="english">The darling of albumen allergy, hives.</span></p>
 
 <p><span class="chinese">胶原蛋白对皮肤的作用是什么?。</span><span class="english">What is collagen albumen to cutaneous action?</span></p>

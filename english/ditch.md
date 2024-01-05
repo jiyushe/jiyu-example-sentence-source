@@ -1,5 +1,7 @@
 # ditch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ditch.md)
+
 <p><span class="chinese">路缘浅沟?。</span><span class="english">Curb ditch?</span></p>
 
 <p><span class="chinese">边沟?。</span><span class="english">Side Ditch?</span></p>

@@ -1,5 +1,7 @@
 # cache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cache.md)
+
 <p><span class="chinese">什么是缓存中毒？</span><span class="english">What is cache poisoning?</span></p>
 
 <p><span class="chinese">刷新博客缓存和看法。</span><span class="english">Refresh cache and view blog.</span></p>

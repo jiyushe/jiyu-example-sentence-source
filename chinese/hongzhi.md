@@ -1,5 +1,7 @@
 # 弘治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongzhi.md)
+
 <p><span class="chinese">10弘治即位后不久便清除了他父亲所宠幸的官员和太监。</span><span class="english">Yet, Hongzhi did away with his father’s officials and eunuchs.</span></p>
 
 <p><span class="chinese">论文以成化、弘治年间的茶陵派为研究对象。</span><span class="english">This dissertation is mainly studying and analyzing the Chaling school.</span></p>

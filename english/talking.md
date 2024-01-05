@@ -1,5 +1,7 @@
 # talking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talking.md)
+
 <p><span class="chinese">像这样子说话？</span><span class="english">Talking like this?</span></p>
 
 <p><span class="chinese">我们两个开始聊天。</span><span class="english">We got to talking.</span></p>

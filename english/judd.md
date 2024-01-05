@@ -1,5 +1,7 @@
 # judd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judd.md)
+
 <p><span class="chinese">特鲁姆普是个明星。</span><span class="english">Judd is a star.</span></p>
 
 <p><span class="chinese">贾德不想跟我们去泅水。</span><span class="english">Judd doesn't want to go swimming with us.</span></p>

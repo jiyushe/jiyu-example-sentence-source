@@ -1,5 +1,7 @@
 # 公平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongping.md)
+
 <p><span class="chinese">所以这是不公平的。</span><span class="english">So not fair.</span></p>
 
 <p><span class="chinese">我认为这就是不公平。</span><span class="english">I think it’s unjust.</span></p>

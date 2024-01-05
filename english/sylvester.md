@@ -1,5 +1,7 @@
 # sylvester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sylvester.md)
+
 <p><span class="chinese">西尔维斯特·泰龙是一个强壮的演员。</span><span class="english">Sylvester Stallone is one buff actor.</span></p>
 
 <p><span class="chinese">西尔维斯特在剥桔子，他把桔子皮放在沙发巾上。</span><span class="english">Sylvester is peeling an orange. He puts the peel on the couch cover.</span></p>

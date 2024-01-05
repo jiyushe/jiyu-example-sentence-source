@@ -1,5 +1,7 @@
 # 固件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujian.md)
+
 <p><span class="chinese">通过USB升级固件在电脑上。</span><span class="english">Firmware upgradeable via USB on your PC.</span></p>
 
 <p><span class="chinese">HTI固件更新程序实施。</span><span class="english">HTI firmware update routine implemented.</span></p>

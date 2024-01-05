@@ -1,5 +1,7 @@
 # haemal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemal.md)
+
 <p><span class="chinese">两者加一起是血液成分。</span><span class="english">Both adding is haemal composition together.</span></p>
 
 <p><span class="chinese">其实，这仅仅是血液肿瘤中的一员而已。</span><span class="english">Actually , this is haemal tumour merely a medium just.</span></p>

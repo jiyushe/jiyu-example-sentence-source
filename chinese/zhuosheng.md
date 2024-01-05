@@ -1,5 +1,7 @@
 # 擢升
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuosheng.md)
+
 <p><span class="chinese">他被擢升为船长。</span><span class="english">He was promoted to captain.</span></p>
 
 <p><span class="chinese">他是我的辅导人，在他手下，我擢升很快。</span><span class="english">He was my mentor and under him I have been rapidly promoted.</span></p>

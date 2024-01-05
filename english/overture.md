@@ -1,5 +1,7 @@
 # overture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overture.md)
+
 <p><span class="chinese">序曲还是交响诗?。</span><span class="english">Overture or symphonic poem?</span></p>
 
 <p><span class="chinese">这是对俄罗斯人的序曲。</span><span class="english">This is an overture to the Russians.</span></p>

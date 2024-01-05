@@ -1,5 +1,7 @@
 # 年度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niandu.md)
+
 <p><span class="chinese">但是他值得成为年度人物吗？</span><span class="english">But is he worthy?</span></p>
 
 <p><span class="chinese">年度最佳女同性恋？但，有反对票！</span><span class="english">Lesbian of the Year? Mais, non!</span></p>

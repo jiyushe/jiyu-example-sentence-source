@@ -1,5 +1,7 @@
 # 张嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangzui.md)
+
 <p><span class="chinese">你要做的只是张嘴去问问。</span><span class="english">You only need to ask.</span></p>
 
 <p><span class="chinese">你是用这张嘴食饭的吗?。</span><span class="english">you eat with that mouth?</span></p>

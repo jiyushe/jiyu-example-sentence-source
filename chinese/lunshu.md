@@ -1,5 +1,7 @@
 # 论述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunshu.md)
+
 <p><span class="chinese">他详细论述了这个问题。</span><span class="english">He -fied on the subject.</span></p>
 
 <p><span class="chinese">科学是论述客观事实的。</span><span class="english">Science deals with facts.</span></p>

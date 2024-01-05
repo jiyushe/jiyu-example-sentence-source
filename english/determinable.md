@@ -1,5 +1,7 @@
 # determinable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinable.md)
+
 <p><span class="chinese">可以由法律来决定的事情。</span><span class="english">Matters determinable by common law.</span></p>
 
 <p><span class="chinese">平板计数法费时且误差较大。</span><span class="english">The determinable error in plate counting method is larger.</span></p>

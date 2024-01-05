@@ -1,5 +1,7 @@
 # selva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selva.md)
+
 <p><span class="chinese">乌鸦飞过塞尔瓦迪VAL加迪纳2007年12月8日，意大利北部的滑雪胜地。</span><span class="english">Crows fly over the northern Italian ski resort of Selva Di Val Gardena December 8, 2007.</span></p>
 
 <p><span class="chinese">分布在全世界的热带，以南美洲的热带雨林地区最多。</span><span class="english">Distributing all over the world intertropical , the selva area with South America is most.</span></p>

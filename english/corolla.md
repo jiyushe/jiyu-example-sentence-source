@@ -1,5 +1,7 @@
 # corolla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corolla.md)
+
 <p><span class="chinese">叠或褶如某些花冠。</span><span class="english">A fold or pleat, as in some corolla.</span></p>
 
 <p><span class="chinese">花冠裂片5枚，部分合生。</span><span class="english">Sepal 5, corolla lobes 5, partial combine.</span></p>

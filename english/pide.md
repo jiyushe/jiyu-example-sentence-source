@@ -1,5 +1,7 @@
 # pide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pide.md)
+
 <p><span class="chinese">你说女孩子腿劈得太早？</span><span class="english">You said the girls legs Pide too early?</span></p>
 
 <p><span class="chinese">中国的贫富差距是最为明显的。</span><span class="english">The greatest pide of rich-poor is in China.</span></p>

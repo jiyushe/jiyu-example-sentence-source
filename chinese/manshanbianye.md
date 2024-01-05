@@ -1,5 +1,7 @@
 # 满山遍野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manshanbianye.md)
+
 <p><span class="chinese">还有那满山遍野的大豆高粱。</span><span class="english">Soya beans and sorghum cover the hills and plains.</span></p>
 
 <p><span class="chinese">还有那满山遍野的大豆高粱。</span><span class="english">There are soybeans and sorghum all over the mountain.</span></p>

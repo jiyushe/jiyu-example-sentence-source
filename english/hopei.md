@@ -1,5 +1,7 @@
 # hopei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopei.md)
+
 <p><span class="chinese">现在，我希望自己或多或少写像自己的东西。</span><span class="english">Today, I hopeI write more or less like myself.</span></p>
 
 <p><span class="chinese">我永远也不买来自朝鲜半岛的任何东西。</span><span class="english">I hopeI NEVER buy anything from Korea. Page887.</span></p>

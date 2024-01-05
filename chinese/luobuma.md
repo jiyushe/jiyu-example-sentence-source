@@ -1,5 +1,7 @@
 # 罗布麻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luobuma.md)
+
 <p><span class="chinese">罗布麻能降血脂和血压吗？</span><span class="english">Can bluish dogbane fall hematic fat and blood pressure?</span></p>
 
 <p><span class="chinese">结果显示，罗布麻和大叶白麻ITS序列完全一致，与A。</span><span class="english">Results showed that ITS sequences from all samples of A.</span></p>

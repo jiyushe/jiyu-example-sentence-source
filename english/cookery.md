@@ -1,5 +1,7 @@
 # cookery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cookery.md)
+
 <p><span class="chinese">他上了泰式烹饪的课程。</span><span class="english">He took lessons in Thai cookery.</span></p>
 
 <p><span class="chinese">这本食谱是由一位真正的美食家写的。</span><span class="english">This cookery book is writes by a real epicure.</span></p>

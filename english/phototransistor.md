@@ -1,5 +1,7 @@
 # phototransistor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phototransistor.md)
+
 <p><span class="chinese">光耦，光电晶体管输出，基地连接。</span><span class="english">Optocoupler, Phototransistor Output, With Base Connection.</span></p>
 
 <p><span class="chinese">一开始会讨论传统型光电晶体和光二极体。</span><span class="english">The conventional phototransistor and photodiode are discussed first.</span></p>

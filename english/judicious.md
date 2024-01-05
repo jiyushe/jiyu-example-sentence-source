@@ -1,5 +1,7 @@
 # judicious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judicious.md)
+
 <p><span class="chinese">选用好的光引发剂可以减少黄变。</span><span class="english">Yellowing can be reduced through judicious choice of photoinitiator.</span></p>
 
 <p><span class="chinese">贤明的父亲鼓励儿女自作抉择。</span><span class="english">A judicious parent encourages his children to make their own decisions.</span></p>

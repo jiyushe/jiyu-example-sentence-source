@@ -1,5 +1,7 @@
 # jingled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jingled.md)
+
 <p><span class="chinese">他把钥匙弄得叮当地响。</span><span class="english">He jingled his keys.</span></p>
 
 <p><span class="chinese">铃声一直丁当响个不停。</span><span class="english">The bells jingled all the time.</span></p>

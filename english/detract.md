@@ -1,5 +1,7 @@
 # detract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detract.md)
+
 <p><span class="chinese">这件丑闻将无损于她的名声。</span><span class="english">The scandal will not detract from her fame.</span></p>
 
 <p><span class="chinese">这一丑闻无损于他的名声。</span><span class="english">The scandal will not detract from his fame.</span></p>

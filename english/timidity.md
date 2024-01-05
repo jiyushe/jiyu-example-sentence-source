@@ -1,5 +1,7 @@
 # timidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timidity.md)
+
 <p><span class="chinese">他们耻笑我胆小。</span><span class="english">They mocked at my timidity.</span></p>
 
 <p><span class="chinese">怯弱是通向消沉的桥。</span><span class="english">Timidity is the bridge to dejection.</span></p>

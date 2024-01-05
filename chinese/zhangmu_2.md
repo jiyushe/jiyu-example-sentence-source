@@ -1,5 +1,7 @@
 # 张目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangmu_2.md)
+
 <p><span class="chinese">我记得我张目结舌，它感觉像是一个幽灵般的影像。</span><span class="english">I remember my jaw dropping. It felt like a ghostly image.</span></p>
 
 <p><span class="chinese">那夜中张目的猫头鹰，他的眼睛在白昼是盲瞎的，不能揭露光明的神秘。</span><span class="english">The owl whole night-bound eyes are blind unto the day cannot unveil the mystery of light.</span></p>

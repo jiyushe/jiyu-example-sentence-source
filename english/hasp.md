@@ -1,5 +1,7 @@
 # hasp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hasp.md)
+
 <p><span class="chinese">此时应使用多锁搭扣。</span><span class="english">A multi-lock hasp shall be used for this purpose.</span></p>
 
 <p><span class="chinese">不绣钢搭扣，5mm强化安全玻璃。</span><span class="english">Stainless steel hasp and 5mm thick toughened safety glass.</span></p>

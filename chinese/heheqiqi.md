@@ -1,5 +1,7 @@
 # 和和气气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heheqiqi.md)
+
 <p><span class="chinese">他和和气气地拍拍她肩膀。</span><span class="english">He pats her kindly on the shoulder.</span></p>
 
 <p><span class="chinese">又有多少情侣能和和气气地分手呢？</span><span class="english">How many lovers can part as friends?</span></p>

@@ -1,5 +1,7 @@
 # 十字架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizijia.md)
+
 <p><span class="chinese">那个十字架呢?。</span><span class="english">And the crucifix?</span></p>
 
 <p><span class="chinese">但我凭着圣十字架起誓！</span><span class="english">And, by the holy rood!</span></p>

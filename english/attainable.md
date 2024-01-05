@@ -1,5 +1,7 @@
 # attainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attainable.md)
+
 <p><span class="chinese">你的目标必须可以达到而且要具体。</span><span class="english">Your goals should be attainable and specific.</span></p>
 
 <p><span class="chinese">他常渴望得到一些无法得到的东西。</span><span class="english">He often yearns for things which are not attainable.</span></p>

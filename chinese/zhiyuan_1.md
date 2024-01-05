@@ -1,5 +1,7 @@
 # 支援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyuan_1.md)
+
 <p><span class="chinese">我支援你。</span><span class="english">I support you.</span></p>
 
 <p><span class="chinese">字码页编码方式支援。</span><span class="english">Encoding Support for Code Pages.</span></p>

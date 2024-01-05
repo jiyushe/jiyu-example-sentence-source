@@ -1,5 +1,7 @@
 # musculoskeletal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musculoskeletal.md)
+
 <p><span class="chinese">维生素D可增强骨骼和肌肉骨骼系统。</span><span class="english">Vitamin D strengthens the bone and musculoskeletal system.</span></p>
 
 <p><span class="chinese">长时间伏案于写字台会引起肌骨骼和手部疾病。</span><span class="english">Long hours at the desk can cause musculoskeletal problems and hand problems.</span></p>

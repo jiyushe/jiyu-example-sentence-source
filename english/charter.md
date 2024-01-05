@@ -1,5 +1,7 @@
 # charter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charter.md)
+
 <p><span class="chinese">他们有一个纲领。</span><span class="english">They have a charter.</span></p>
 
 <p><span class="chinese">CFA执照是什么？</span><span class="english">What is a CFA charter?</span></p>

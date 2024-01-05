@@ -1,5 +1,7 @@
 # arthurian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthurian.md)
+
 <p><span class="chinese">卡默洛特在英国亚瑟王传奇中亚瑟王的王宫所在地。</span><span class="english">In Arthurian legend, the site of King Arthur's court.</span></p>
 
 <p><span class="chinese">这个词用于威尔士文学中的亚瑟王传奇。</span><span class="english">The term was used as the Arthurian legends developed in Welsh literature.</span></p>

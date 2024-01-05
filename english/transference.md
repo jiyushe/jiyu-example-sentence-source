@@ -1,5 +1,7 @@
 # transference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transference.md)
+
 <p><span class="chinese">这就是所谓的"移情"效果。</span><span class="english">The effect is called transference.</span></p>
 
 <p><span class="chinese">从技术角度看，这算一种移情作用。</span><span class="english">Technically, it is a form of transference.</span></p>

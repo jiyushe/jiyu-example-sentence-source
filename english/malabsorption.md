@@ -1,5 +1,7 @@
 # malabsorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malabsorption.md)
+
 <p><span class="chinese">不良的食物是治疗胰腺癌的酶补充剂。</span><span class="english">Malabsorption of food is treated with pancreatic enzyme supplements.</span></p>
 
 <p><span class="chinese">临床表现为慢性持续性腹泻及吸收不良。</span><span class="english">Clinical manifestation for chronic long-enduring diarrhea and malabsorption.</span></p>

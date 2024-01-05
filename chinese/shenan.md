@@ -1,5 +1,7 @@
 # 审案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenan.md)
+
 <p><span class="chinese">你不可以干涉我审案。</span><span class="english">You must not interfere in my cases.</span></p>
 
 <p><span class="chinese">在审案期间由律师代表他行事。</span><span class="english">The lawyer acted for him during the trial.</span></p>

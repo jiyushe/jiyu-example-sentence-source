@@ -1,5 +1,7 @@
 # 子母弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimudan.md)
+
 <p><span class="chinese">她被子母弹击中，是在5天前抵达营地的。</span><span class="english">She had been hit by shrapnel and arrived in the camp five days earlier.</span></p>
 
 <p><span class="chinese">分析了存在差距的原因，为子母弹对机场毁伤效果的深入研究提供了新途径。</span><span class="english">A new way was provided to study the damage effect of airdrome runway thoroughly.</span></p>

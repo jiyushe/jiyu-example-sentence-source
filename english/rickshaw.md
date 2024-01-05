@@ -1,5 +1,7 @@
 # rickshaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rickshaw.md)
+
 <p><span class="chinese">但是我更不想去拉黄包车。</span><span class="english">But I would want even less to pull a rickshaw.</span></p>
 
 <p><span class="chinese">无论街上黄包车里还是酒店里。</span><span class="english">In her rickshaw on the street or in a cabaret.</span></p>

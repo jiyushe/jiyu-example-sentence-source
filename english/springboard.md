@@ -1,5 +1,7 @@
 # springboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/springboard.md)
+
 <p><span class="chinese">将当前的事业作为走向下一个成功的跳板。</span><span class="english">Use your current job as a springboard to later success.</span></p>
 
 <p><span class="chinese">那不勒斯将会是卡瓦尼的重点，而非跳板。</span><span class="english">Napoli is an end point and not a springboard for Cavani.</span></p>

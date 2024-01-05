@@ -1,5 +1,7 @@
 # hive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hive.md)
+
 <p><span class="chinese">他有您的电话号吗？</span><span class="english">Does he hIve your number?</span></p>
 
 <p><span class="chinese">蜂房里蜜蜂闹闹嚷嚷。</span><span class="english">The hive is alive with bees.</span></p>

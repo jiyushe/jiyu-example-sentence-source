@@ -1,5 +1,7 @@
 # sacramento
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacramento.md)
+
 <p><span class="chinese">我相信他们在国王队会干得不错。</span><span class="english">I know they will do well in Sacramento.</span></p>
 
 <p><span class="chinese">萨克拉门托市有超过407,000名居民。</span><span class="english">Sacramento has more than 407,000 residents.</span></p>

@@ -1,5 +1,7 @@
 # gardner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gardner.md)
+
 <p><span class="chinese">他从未见过父亲，和母亲贝蒂·让·加德纳相依为命。</span><span class="english">He lived with his mother, Bettye Jean Gardner.</span></p>
 
 <p><span class="chinese">“你知不知道艾娃·加德纳就住在下面？”</span><span class="english">‘Do you know that Ava Gardner lives down there?</span></p>

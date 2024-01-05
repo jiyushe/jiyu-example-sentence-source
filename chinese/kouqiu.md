@@ -1,5 +1,7 @@
 # 扣球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouqiu.md)
+
 <p><span class="chinese">你没看见，刚才我那扣球？</span><span class="english">Did you see my spike?</span></p>
 
 <p><span class="chinese">你是怎么拦住我的扣球的?。</span><span class="english">How did you block my spike?</span></p>

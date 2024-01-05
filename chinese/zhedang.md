@@ -1,5 +1,7 @@
 # 遮挡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhedang.md)
+
 <p><span class="chinese">不能像日全蚀那样完全遮挡住太阳。</span><span class="english">As it does in a total eclipse.</span></p>
 
 <p><span class="chinese">月亮把它完全遮挡住了。</span><span class="english">The moon is hiding it completely.</span></p>

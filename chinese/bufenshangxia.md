@@ -1,5 +1,7 @@
 # 不分上下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufenshangxia.md)
+
 <p><span class="chinese">在方面，他们是不分上下。</span><span class="english">They are neck and neck at English.</span></p>
 
 <p><span class="chinese">大部分的赛跑选手不分上下。</span><span class="english">Most runners are running neck and neck.</span></p>

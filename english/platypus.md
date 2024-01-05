@@ -1,5 +1,7 @@
 # platypus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platypus.md)
+
 <p><span class="chinese">鸭嘴兽主要以吃昆虫为生。</span><span class="english">The platypus lives mainly on insects.</span></p>
 
 <p><span class="chinese">鸭嘴兽的繁殖几乎是独一无二的。</span><span class="english">Platypus reproduction is nearly unique.</span></p>

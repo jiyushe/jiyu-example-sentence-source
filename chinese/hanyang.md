@@ -1,5 +1,7 @@
 # 涵养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanyang.md)
+
 <p><span class="chinese">我认为中国女人都很漂亮，而且有涵养。</span><span class="english">I think Chinese women are beautiful and so cultured.</span></p>
 
 <p><span class="chinese">尝试让自己创作些有艺术涵养的东西。</span><span class="english">Try channeling yourself into creating something artisitc.</span></p>

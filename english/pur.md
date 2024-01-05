@@ -1,5 +1,7 @@
 # pur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pur.md)
+
 <p><span class="chinese">花给你的房间注入气力。</span><span class="english">Flower Power your room. Ambi Pur.</span></p>
 
 <p><span class="chinese">指出了今后PUR泡沫塑料的发展方向。</span><span class="english">At last, the tendency of PUR foam was indicated.</span></p>

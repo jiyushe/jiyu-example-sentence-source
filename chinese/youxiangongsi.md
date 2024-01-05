@@ -1,5 +1,7 @@
 # 有限公司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxiangongsi.md)
+
 <p><span class="chinese">蓝天创意有限公司。</span><span class="english">Blue Sky e-shop Ltd.</span></p>
 
 <p><span class="chinese">裕辉航空货运有限公司…</span><span class="english">Easyway Air Freight Ltd.</span></p>

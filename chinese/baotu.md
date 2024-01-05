@@ -1,5 +1,7 @@
 # 暴徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baotu.md)
+
 <p><span class="chinese">私刑，这是一个暴徒！</span><span class="english">That is a lynching mob!</span></p>
 
 <p><span class="chinese">他是豪杰，没有是大暴徒。</span><span class="english">He was more hero than scoundred.</span></p>

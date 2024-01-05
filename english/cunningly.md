@@ -1,5 +1,7 @@
 # cunningly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cunningly.md)
+
 <p><span class="chinese">它们被非常精巧地排在一起。</span><span class="english">The list is very cunningly put together.</span></p>
 
 <p><span class="chinese">他们狡滑地玩弄假和平的把戏。</span><span class="english">They cunningly played the game of sham peace.</span></p>

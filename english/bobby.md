@@ -1,5 +1,7 @@
 # bobby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobby.md)
+
 <p><span class="chinese">博比向家中跑去。</span><span class="english">Bobby ran toward the house.</span></p>
 
 <p><span class="chinese">芭比和史努比怎么样啦？</span><span class="english">How are Bobby and Snooky doing?</span></p>

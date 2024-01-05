@@ -1,5 +1,7 @@
 # sketchbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sketchbook.md)
+
 <p><span class="chinese">你们看见我的素材本了吗?。</span><span class="english">Guys, have you seen my sketchbook?</span></p>
 
 <p><span class="chinese">她喜欢在素描簿上画画。</span><span class="english">She likes to draw in a sketchbook.</span></p>

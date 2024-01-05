@@ -1,5 +1,7 @@
 # quarrelsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarrelsome.md)
+
 <p><span class="chinese">我知道我嘴硬。</span><span class="english">I know i'm quarrelsome.</span></p>
 
 <p><span class="chinese">他是个爱争论的人。</span><span class="english">He is a quarrelsome person.</span></p>

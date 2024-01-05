@@ -1,5 +1,7 @@
 # 纷呈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fencheng.md)
+
 <p><span class="chinese">中国古建筑在色彩上斑斓纷呈，有的颜色对比强烈，有的素雅和谐。</span><span class="english">The ancient Chinese architecture is rich in color. Some contrast and some harmonize.</span></p>
 
 <p><span class="chinese">我从姿彩纷呈的根雕中，走进一个莽莽的艺术森林。</span><span class="english">Among root carvings in various postures, I seem to have walked in a vast forest of arts.</span></p>

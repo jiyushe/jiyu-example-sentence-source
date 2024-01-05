@@ -1,5 +1,7 @@
 # attempt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attempt.md)
+
 <p><span class="chinese">他的企图成了泡影。</span><span class="english">He failed in his attempt.</span></p>
 
 <p><span class="chinese">勇敢的尝试是乐成的一半。</span><span class="english">A bold attempt is half sess.</span></p>

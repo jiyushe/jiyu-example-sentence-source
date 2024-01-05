@@ -1,5 +1,7 @@
 # 腹内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/funei.md)
+
 <p><span class="chinese">吃得太快会腹内胀气。</span><span class="english">You get wind when you eat too quickly.</span></p>
 
 <p><span class="chinese">去鳞，切开鱼腹，除去腹内物。</span><span class="english">Cut off the scales and cut open the stomach.</span></p>

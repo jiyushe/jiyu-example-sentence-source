@@ -1,5 +1,7 @@
 # 基本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiben.md)
+
 <p><span class="chinese">只是最基本要领。</span><span class="english">Just the essentials.</span></p>
 
 <p><span class="chinese">你有法国人的基本特征。</span><span class="english">You have French feet.</span></p>

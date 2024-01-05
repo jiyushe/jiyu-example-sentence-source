@@ -1,5 +1,7 @@
 # classmate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classmate.md)
+
 <p><span class="chinese">她是我的同学。</span><span class="english">She is my classmate.</span></p>
 
 <p><span class="chinese">刘凯是我的同班同学。</span><span class="english">Liu Kai is my classmate.</span></p>

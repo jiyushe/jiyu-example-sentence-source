@@ -1,5 +1,7 @@
 # 够朋友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goupengyou.md)
+
 <p><span class="chinese">你真够朋友。</span><span class="english">You’re a real pal.</span></p>
 
 <p><span class="chinese">你真够朋友。</span><span class="english">Some friend you are.</span></p>

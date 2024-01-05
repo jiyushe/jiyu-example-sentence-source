@@ -1,5 +1,7 @@
 # 部队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budui_1.md)
+
 <p><span class="chinese">部队风纪良好。</span><span class="english">The troops handled well.</span></p>
 
 <p><span class="chinese">该部队风纪良好。</span><span class="english">The troops handled well.</span></p>

@@ -1,5 +1,7 @@
 # nose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nose.md)
+
 <p><span class="chinese">鼻镜为黑色。</span><span class="english">Nose is black.</span></p>
 
 <p><span class="chinese">捏着你的鼻子。</span><span class="english">Hold your nose.</span></p>

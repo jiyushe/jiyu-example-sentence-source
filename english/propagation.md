@@ -1,5 +1,7 @@
 # propagation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propagation.md)
+
 <p><span class="chinese">如果主题传播失败。</span><span class="english">If the subject propagation fails.</span></p>
 
 <p><span class="chinese">实现了四棱豆的快速无性繁殖。</span><span class="english">And the rapid somatic propagation was realized.</span></p>

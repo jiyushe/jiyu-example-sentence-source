@@ -1,5 +1,7 @@
 # shack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shack.md)
+
 <p><span class="chinese">我们是要去那间小屋吗?</span><span class="english">Are we going to that shack?</span></p>
 
 <p><span class="chinese">等他进了自己的棚屋时，他一头倒在床上就睡。</span><span class="english">In his shack he fell on his bed and went to sleep.</span></p>

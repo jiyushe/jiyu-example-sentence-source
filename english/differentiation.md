@@ -1,5 +1,7 @@
 # differentiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differentiation.md)
+
 <p><span class="chinese">那就是他的内容差异化战略。</span><span class="english">That’s his content differentiation strategy.</span></p>
 
 <p><span class="chinese">用丁酸钠诱导其分化。</span><span class="english">Differentiation was induced by sodium butyrate.</span></p>

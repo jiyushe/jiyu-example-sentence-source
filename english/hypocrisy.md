@@ -1,5 +1,7 @@
 # hypocrisy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypocrisy.md)
+
 <p><span class="chinese">神憎厌虚伪。</span><span class="english">God hates hypocrisy.</span></p>
 
 <p><span class="chinese">素食论的虚伪，从此可以略见一斑。</span><span class="english">The hypocrisy of vegetarianism.</span></p>

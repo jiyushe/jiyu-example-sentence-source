@@ -1,5 +1,7 @@
 # 臭名昭著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumingzhaozhu.md)
+
 <p><span class="chinese">肿瘤向来以难以清除而臭名昭著。</span><span class="english">Tumors are notoriously hard to kill.</span></p>
 
 <p><span class="chinese">秦桧耍过很多臭名昭著的阴谋。</span><span class="english">Qinhui played lots of infamous plots.</span></p>

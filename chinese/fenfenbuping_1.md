@@ -1,5 +1,7 @@
 # 愤愤不平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfenbuping_1.md)
+
 <p><span class="chinese">他的女儿们愤愤不平。</span><span class="english">His daughters were resentful.</span></p>
 
 <p><span class="chinese">看郝建国这样冲动，牛一蓓也愤愤不平！</span><span class="english">See HaoJianGuo so impulsive, cow a bud also gravamen!</span></p>

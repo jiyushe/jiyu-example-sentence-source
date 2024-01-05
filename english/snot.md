@@ -1,5 +1,7 @@
 # snot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snot.md)
+
 <p><span class="chinese">他拉弓放了一箭。</span><span class="english">He snot an arrow from his bow.</span></p>
 
 <p><span class="chinese">一个喷嚏，他的鼻涕喷到仪表盘上。</span><span class="english">He sneezed a wad of snot onto the dash.</span></p>

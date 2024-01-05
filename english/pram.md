@@ -1,5 +1,7 @@
 # pram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pram.md)
+
 <p><span class="chinese">婴儿车碰到了围墙。</span><span class="english">The pram bumped the fence.</span></p>
 
 <p><span class="chinese">这孩子正在推一辆婴儿车。</span><span class="english">The child was pushing a pram.</span></p>

@@ -1,5 +1,7 @@
 # 盘存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pancun.md)
+
 <p><span class="chinese">何时作最后一次年度存货盘存?。</span><span class="english">When was your last annual stocktaking?</span></p>
 
 <p><span class="chinese">这个制度是所谓的永续盘存制度。</span><span class="english">This system is called perpetual inventory system.</span></p>

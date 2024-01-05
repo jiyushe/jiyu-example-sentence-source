@@ -1,5 +1,7 @@
 # querulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/querulous.md)
+
 <p><span class="chinese">上帝那充满牢骚的召唤。</span><span class="english">God's querulous calling.</span></p>
 
 <p><span class="chinese">那小孩所抱怨的问题快令我发疯了。</span><span class="english">The childs querulous questions were driving me crazy.</span></p>

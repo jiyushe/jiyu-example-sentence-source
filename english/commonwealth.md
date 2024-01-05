@@ -1,5 +1,7 @@
 # commonwealth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonwealth.md)
+
 <p><span class="chinese">自治领是英联邦的一个组成部分。</span><span class="english">Dominion is a part of the British Commonwealth.</span></p>
 
 <p><span class="chinese">印度于1947年脱离了大英国协。</span><span class="english">India broke away from the Commonwealth in 1947.</span></p>

@@ -1,5 +1,7 @@
 # palmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmer.md)
+
 <p><span class="chinese">帕默叫他的司机靠边停下车。</span><span class="english">Palmer has his driver to pull over.</span></p>
 
 <p><span class="chinese">杰克打电话给帕默，请求与之一晤。</span><span class="english">Jack phones Palmer and asks to see him.</span></p>

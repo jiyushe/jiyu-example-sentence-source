@@ -1,5 +1,7 @@
 # ems
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ems.md)
+
 <p><span class="chinese">用特快专递寄这些书非常贵。</span><span class="english">To mail these books by EMS is pretty expensive.</span></p>
 
 <p><span class="chinese">您是寄平信还是寄特快专递？</span><span class="english">You want to send it by ordinary mail or by EMS?</span></p>

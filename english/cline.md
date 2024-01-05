@@ -1,5 +1,7 @@
 # cline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cline.md)
+
 <p><span class="chinese">这样一个变异区域称为梯度变异。</span><span class="english">Such a range of variation is termed a cline.</span></p>
 
 <p><span class="chinese">通常，在两个变异群中的个体是繁殖隔离的。</span><span class="english">Often, individuals at either end of a cline are reproductively isolated.</span></p>

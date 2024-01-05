@@ -1,5 +1,7 @@
 # 礼乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyue.md)
+
 <p><span class="chinese">礼乐之说，管乎人情矣。</span><span class="english">Lile says that he favors carry on peace pipe.</span></p>
 
 <p><span class="chinese">道教实际上是礼乐文明的继承者。</span><span class="english">Taoist ritual is actually a successor civilization.</span></p>

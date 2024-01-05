@@ -1,5 +1,7 @@
 # gravidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravidity.md)
+
 <p><span class="chinese">如何有效地去掉妊娠纹？</span><span class="english">How effectively do do away with gravidity lines?</span></p>
 
 <p><span class="chinese">低血压还会得妊娠糖尿病吗？</span><span class="english">Is low blood pressure still met gravidity diabetic?</span></p>

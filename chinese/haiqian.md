@@ -1,5 +1,7 @@
 # 还欠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiqian.md)
+
 <p><span class="chinese">那么说，她还欠着债？</span><span class="english">So she had debts, then?</span></p>
 
 <p><span class="chinese">如果不会，那你还欠自己一个道歉。</span><span class="english">If not, you owe yourself an apology.</span></p>

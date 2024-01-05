@@ -1,5 +1,7 @@
 # 团伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanhuo.md)
+
 <p><span class="chinese">但是该团伙仍在作案。</span><span class="english">But the gang goes on.</span></p>
 
 <p><span class="chinese">这起抢劫是一个四人团伙所为。</span><span class="english">A four-man gang carried out the robbery.</span></p>

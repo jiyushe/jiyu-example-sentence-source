@@ -1,5 +1,7 @@
 # reticulocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticulocyte.md)
+
 <p><span class="chinese">目的评价一种改良的网织红细胞染色液。</span><span class="english">Objective To evaluate a kind of modified reticulocyte staining solution.</span></p>
 
 <p><span class="chinese">最后，介绍流式细胞仪在网织红细胞计数方面的应用。</span><span class="english">The application of flow cytometer in reticulocyte analysis is introduced at last.</span></p>

@@ -1,5 +1,7 @@
 # 慈爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciai.md)
+
 <p><span class="chinese">整天都在神的慈爱中。</span><span class="english">And all the day be love.</span></p>
 
 <p><span class="chinese">你应该坚信上帝是慈爱的。</span><span class="english">Believe in a God of love.</span></p>

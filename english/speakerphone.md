@@ -1,5 +1,7 @@
 # speakerphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speakerphone.md)
+
 <p><span class="chinese">把杰克的通话转到我的扬声电话上。</span><span class="english">Put Jack through my speakerphone.</span></p>
 
 <p><span class="chinese">不需要有听筒喇叭扩音器。</span><span class="english">Not with the handset speakerphone.</span></p>

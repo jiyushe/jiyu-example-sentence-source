@@ -1,5 +1,7 @@
 # muskrat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muskrat.md)
+
 <p><span class="chinese">人们对麝鼠肉喜爱有加。</span><span class="english">And it looks like muskrat love.</span></p>
 
 <p><span class="chinese">是什麽让麝香鼠护卫它的麝香？</span><span class="english">What makes the muskrat guard his musk?</span></p>

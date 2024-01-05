@@ -1,5 +1,7 @@
 # night 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/night.md)
+
 <p><span class="chinese">没日没夜。</span><span class="english">Day and night.</span></p>
 
 <p><span class="chinese">夜间班。</span><span class="english">At night class.</span></p>

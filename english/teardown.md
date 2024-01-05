@@ -1,5 +1,7 @@
 # teardown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teardown.md)
+
 <p><span class="chinese">每个测试函数的调用被夹在setUp和tearDown调用之间。</span><span class="english">Each test function call is sandwiched between a call to setUp and tearDown.</span></p>
 
 <p><span class="chinese">tearDown函数则给测试者提供了另外一个机会，可以去清除或者重置测试夹具。</span><span class="english">The tearDown function provides the test author with his or her opportunity to clean up or reset the test fixture.</span></p>

@@ -1,5 +1,7 @@
 # darrell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darrell.md)
+
 <p><span class="chinese">达雷尔威尔克是负责为主席。</span><span class="english">Darrell Wilk is assuming responsibility as president.</span></p>
 
 <p><span class="chinese">帕蒂和达雷尔还发布了今年的CD细根。</span><span class="english">Patty and Darrell also released fine roots CDs this year.</span></p>

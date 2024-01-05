@@ -1,5 +1,7 @@
 # pungency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pungency.md)
+
 <p><span class="chinese">不同种类的辣椒的辣味也不同。</span><span class="english">The different sorts of chilli pep pers vary in pungency.</span></p>
 
 <p><span class="chinese">姜是我国传统的香辛料，其风味芳香而辛辣。</span><span class="english">Ginger is the traditional spice for its arom and pungency.</span></p>

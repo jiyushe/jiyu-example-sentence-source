@@ -1,5 +1,7 @@
 # henry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henry.md)
+
 <p><span class="chinese">她才三岁，亨利。</span><span class="english">She’s 3, Henry.</span></p>
 
 <p><span class="chinese">对亨利方达动怒！</span><span class="english">Angry at Henry Fonda!</span></p>

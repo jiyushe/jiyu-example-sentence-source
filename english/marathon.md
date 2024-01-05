@@ -1,5 +1,7 @@
 # marathon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marathon.md)
+
 <p><span class="chinese">马拉松凝望着海涛汹汹。</span><span class="english">And Marathon looks on the sea.</span></p>
 
 <p><span class="chinese">如何为参加马拉松比赛进行训练呢？</span><span class="english">How do you train for a marathon?</span></p>

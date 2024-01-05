@@ -1,5 +1,7 @@
 # 白质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhi_2.md)
+
 <p><span class="chinese">它们被称作大脑的“白质”。</span><span class="english">These are the brain's "white matter.</span></p>
 
 <p><span class="chinese">她开始重新走路，但是会诊医生告诉她的父母“她会像是做过前脑叶白质切除术一样，以后生活中会走路蹒跚。”</span><span class="english">She will be like a toddler for the rest of her life.</span></p>

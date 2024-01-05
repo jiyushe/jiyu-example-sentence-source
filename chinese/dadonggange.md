@@ -1,5 +1,7 @@
 # 大动干戈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadonggange.md)
+
 <p><span class="chinese">这并不一定是要你大动干戈地全面改变自己的生活。</span><span class="english">This doesn’t necessarily have to involve full-on, life changing, epic events.</span></p>
 
 <p><span class="chinese">黄于是问厨子，为什么它们为了这么一只小乌龟大动干戈。</span><span class="english">Huang asked the cooks why they were making such a fuss about one little turtle.</span></p>

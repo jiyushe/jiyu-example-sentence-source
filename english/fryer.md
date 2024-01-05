@@ -1,5 +1,7 @@
 # fryer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fryer.md)
+
 <p><span class="chinese">油炸锅里的食油已经热了。</span><span class="english">The fat in the fryer had heated all right.</span></p>
 
 <p><span class="chinese">您对这无油炸锅是怎么想的呢？</span><span class="english">What do you think about the concept of a no-fry fryer?</span></p>

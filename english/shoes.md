@@ -1,5 +1,7 @@
 # shoes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoes.md)
+
 <p><span class="chinese">没有鞋子。</span><span class="english">No shoes.</span></p>
 
 <p><span class="chinese">新鞋子吗</span><span class="english">New shoes?</span></p>

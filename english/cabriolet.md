@@ -1,5 +1,7 @@
 # cabriolet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabriolet.md)
+
 <p><span class="chinese">我从我窗口看见您的车子走过。</span><span class="english">I see your cabriolet pass my window.</span></p>
 
 <p><span class="chinese">发动机功率多少做了敞篷车的需求?。</span><span class="english">How much engine power does a cabriolet need?</span></p>

@@ -1,5 +1,7 @@
 # 前去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqu.md)
+
 <p><span class="chinese">汤姆马上前去帮助兰兰。</span><span class="english">Tom helps her at once.</span></p>
 
 <p><span class="chinese">敬辞怎样前去机场?。</span><span class="english">How do Iget to the airport?</span></p>

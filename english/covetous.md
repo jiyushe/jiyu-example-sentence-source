@@ -1,5 +1,7 @@
 # covetous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covetous.md)
+
 <p><span class="chinese">贪婪的人永远想要更多。</span><span class="english">A covetous man is ever in want.</span></p>
 
 <p><span class="chinese">贪婪的人对别人没好处，对自己更有害。</span><span class="english">A covetous man is good to none but worse to himself.</span></p>

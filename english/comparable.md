@@ -1,5 +1,7 @@
 # comparable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparable.md)
+
 <p><span class="chinese">人类与人猿有类似的构造。</span><span class="english">Man and ape have comparable anatomies.</span></p>
 
 <p><span class="chinese">没有哪出戏能跟这一出相比较。</span><span class="english">There is no play comparable with this.</span></p>

@@ -1,5 +1,7 @@
 # 人数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshu.md)
+
 <p><span class="chinese">先让我们清点人数。</span><span class="english">Let's count noses first.</span></p>
 
 <p><span class="chinese">一次人数巨多的接吻纪事。</span><span class="english">Call it a giant kiss-off.</span></p>

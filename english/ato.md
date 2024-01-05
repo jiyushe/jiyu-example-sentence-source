@@ -1,5 +1,7 @@
 # ato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ato.md)
+
 <p><span class="chinese">填料表面处理实验表明，偶联剂能提高ATO的最大填充量。</span><span class="english">The surface treatment tests on fillers indicated that coupling agents can increase the loading of ATO.</span></p>
 
 <p><span class="chinese">三氧化二砷具有放射治疗、化学治疗增敏作用，但作为它们的增敏剂在临床上应用还存在一定的距离。</span><span class="english">Although ATO has the role of sensitization , it has some distance for ATO to be used as sensitizer in clinic.</span></p>

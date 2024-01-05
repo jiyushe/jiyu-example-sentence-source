@@ -1,5 +1,7 @@
 # ramsey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramsey.md)
+
 <p><span class="chinese">我们都是大风扇戴夫拉姆齐的粉丝。</span><span class="english">We are BIG Dave Ramsey Fans.</span></p>
 
 <p><span class="chinese">阿尔夫-拉姆齐1966年世界杯之前说过这番话被证明是对的。</span><span class="english">Alf Ramsey said it before 1966 and was proved right.</span></p>

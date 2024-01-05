@@ -1,5 +1,7 @@
 # photomultiplier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photomultiplier.md)
+
 <p><span class="chinese">利用这种效应所做成的器件有真空光电管、光电倍增管等。</span><span class="english">This effect by using a device made of a vacuum phototube, photomultiplier tubes.</span></p>
 
 <p><span class="chinese">介绍一种从光电倍增管倍增极引出快信号的电路。</span><span class="english">A circuit for taking out timing signal from one dynode of photomultiplier is described.</span></p>

@@ -1,5 +1,7 @@
 # 百岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baisui.md)
+
 <p><span class="chinese">那位百岁老人依然健在。</span><span class="english">The 100-year-old man is still alive.</span></p>
 
 <p><span class="chinese">有志不在年高，无志空长百岁。</span><span class="english">Are not in high, no ambition empty long age.</span></p>

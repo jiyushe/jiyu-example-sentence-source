@@ -1,5 +1,7 @@
 # 出轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chugui.md)
+
 <p><span class="chinese">而有些男人则很迟才出轨。</span><span class="english">Some men stray late.</span></p>
 
 <p><span class="chinese">我的出轨不过是种报复。</span><span class="english">My affair was retaliatory.</span></p>

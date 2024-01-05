@@ -1,5 +1,7 @@
 # viscus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscus.md)
+
 <p><span class="chinese">严重多发伤是同时包括两个以上脏器或解剖部位的严重损伤。</span><span class="english">Serious multiple trauma is that more than two viscus or places are simultaneously involved.</span></p>
 
 <p><span class="chinese">血液化验、内脏器官观察和病理检验结果，均无异常改变。</span><span class="english">Animals had no abnormal change through blood assay, viscus organ observation and pathology assay.</span></p>

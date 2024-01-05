@@ -1,5 +1,7 @@
 # piglet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piglet.md)
+
 <p><span class="chinese">那只小猪尖叫着。</span><span class="english">The piglet screeched.</span></p>
 
 <p><span class="chinese">可怜的小猪崽，安息。</span><span class="english">Poor little piglet RIP.</span></p>

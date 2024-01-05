@@ -1,5 +1,7 @@
 # cheerful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerful.md)
+
 <p><span class="chinese">前景乐观。</span><span class="english">The prospect is cheerful.</span></p>
 
 <p><span class="chinese">响亮地送出一只欢乐的歌。</span><span class="english">Peals out a cheerful song.</span></p>

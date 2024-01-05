@@ -1,5 +1,7 @@
 # 均匀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junyun.md)
+
 <p><span class="chinese">丝兰香味和均匀。</span><span class="english">Yucca flavor and uniform.</span></p>
 
 <p><span class="chinese">保持燃油流动量均匀。</span><span class="english">Keep the fuel flow constant.</span></p>

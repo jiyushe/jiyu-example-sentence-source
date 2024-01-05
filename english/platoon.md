@@ -1,5 +1,7 @@
 # platoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platoon.md)
+
 <p><span class="chinese">站排去！</span><span class="english">Station platoon goes!</span></p>
 
 <p><span class="chinese">第二排投入了战斗。</span><span class="english">The Second Platoon waded in.</span></p>

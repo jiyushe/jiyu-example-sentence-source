@@ -1,5 +1,7 @@
 # 上旬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxun.md)
+
 <p><span class="chinese">而在7月份上旬，甚至出现零交易量的情况。</span><span class="english">And in early July, appear even zero volume.</span></p>
 
 <p><span class="chinese">六月上旬，我们将会完成在大甲的行程。</span><span class="english">At the beginning of June we will finish our Daichi journey.</span></p>

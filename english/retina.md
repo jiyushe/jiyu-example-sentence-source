@@ -1,5 +1,7 @@
 # retina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retina.md)
+
 <p><span class="chinese">层做路面铺成的路。</span><span class="english">The plexiform layers of the retina.</span></p>
 
 <p><span class="chinese">RRD是视网膜脱离的主要类型之一。</span><span class="english">RRD is the main type of retina disease.</span></p>

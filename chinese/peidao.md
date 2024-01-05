@@ -1,5 +1,7 @@
 # 佩刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peidao.md)
+
 <p><span class="chinese">军官用皮带扣住佩刀。</span><span class="english">The officer belted his sword on.</span></p>
 
 <p><span class="chinese">同时，他身上的佩刀，也由一把变成了四把。</span><span class="english">At the same time, on his body of wear knife, also from a became 4.</span></p>

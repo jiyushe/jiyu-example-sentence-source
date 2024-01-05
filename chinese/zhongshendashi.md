@@ -1,5 +1,7 @@
 # 终身大事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshendashi.md)
+
 <p><span class="chinese">婚姻是终身大事。</span><span class="english">Marriage is for life.</span></p>
 
 <p><span class="chinese">我知道我很啰唆，可是这是妳的终身大事。</span><span class="english">I know I'm a in the neck. I just want you to be happy.</span></p>

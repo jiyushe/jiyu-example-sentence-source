@@ -1,5 +1,7 @@
 # america
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/america.md)
+
 <p><span class="chinese">上帝保祐美国。</span><span class="english">God Bless America.</span></p>
 
 <p><span class="chinese">对，美国烂透了。</span><span class="english">Yep, America sucks.</span></p>

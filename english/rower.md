@@ -1,5 +1,7 @@
 # rower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rower.md)
+
 <p><span class="chinese">概念2赛艇运动员是最好的。</span><span class="english">Concept 2 rower is the best.</span></p>
 
 <p><span class="chinese">因此，美国公司解雇了划桨员。</span><span class="english">So the American company fired the rower.</span></p>

@@ -1,5 +1,7 @@
 # 会面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huimian.md)
+
 <p><span class="chinese">我想早点跟她会面。</span><span class="english">Let's meet with her early.</span></p>
 
 <p><span class="chinese">我将在旅馆和你会面</span><span class="english">I'll meet you at the hotel.</span></p>

@@ -1,5 +1,7 @@
 # 值钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqian_1.md)
+
 <p><span class="chinese">这里没什么值钱的！</span><span class="english">There’s nothing valuable.</span></p>
 
 <p><span class="chinese">就是所谓的“魔术说破不值钱”。</span><span class="english">So-called "magic that broke worthless."</span></p>

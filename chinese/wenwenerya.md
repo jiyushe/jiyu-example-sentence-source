@@ -1,5 +1,7 @@
 # 温文尔雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenwenerya.md)
+
 <p><span class="chinese">对于这个温文尔雅的超级间谍来说似乎不大可能。</span><span class="english">Unlikely for the suave superspy.</span></p>
 
 <p><span class="chinese">她是一个温文尔雅，聪明伶俐的女孩。</span><span class="english">She is a cultured and bright girl.</span></p>

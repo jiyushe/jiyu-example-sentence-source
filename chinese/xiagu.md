@@ -1,5 +1,7 @@
 # 峡谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiagu.md)
+
 <p><span class="chinese">岩石峡谷。</span><span class="english">Stone Canyon.</span></p>
 
 <p><span class="chinese">戈文去过那峡谷吗？</span><span class="english">Has Gwen been to the glen?</span></p>

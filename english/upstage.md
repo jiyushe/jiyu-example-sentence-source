@@ -1,5 +1,7 @@
 # upstage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upstage.md)
+
 <p><span class="chinese">莎拉波娃将搞成所有。</span><span class="english">Sharapova will upstage them all.</span></p>
 
 <p><span class="chinese">尽量不要使自己显得比朋友更突出。</span><span class="english">Don't try to upstage your friends.</span></p>

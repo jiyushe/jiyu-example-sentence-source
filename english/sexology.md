@@ -1,5 +1,7 @@
 # sexology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexology.md)
+
 <p><span class="chinese">于是两人一起去求教性学大师。</span><span class="english">Then two people ask for advice together sexology Great Master.</span></p>
 
 <p><span class="chinese">这些对展示性学的多样性都十分不利。</span><span class="english">All of which fails to really showcase the true diversity of sexology.</span></p>

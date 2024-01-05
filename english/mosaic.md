@@ -1,5 +1,7 @@
 # mosaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mosaic.md)
+
 <p><span class="chinese">不会让一片花叶无端地。</span><span class="english">No reason to make a mosaic.</span></p>
 
 <p><span class="chinese">镶嵌式和长管式水族缸。</span><span class="english">Mosaic and long tube aquaria.</span></p>

@@ -1,5 +1,7 @@
 # 身强力壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqianglizhuang.md)
+
 <p><span class="chinese">身强力壮。</span><span class="english">And grow strong.</span></p>
 
 <p><span class="chinese">我觉得身强力壮一如以往。</span><span class="english">I feel as well and strong as ever.</span></p>

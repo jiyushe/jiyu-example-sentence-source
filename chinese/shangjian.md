@@ -1,5 +1,7 @@
 # 商检
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjian.md)
+
 <p><span class="chinese">证书，品质，商检局，代办，中国。</span><span class="english">Quality Certificate by C I Q.</span></p>
 
 <p><span class="chinese">商检工作那么简单。</span><span class="english">The commodity inspection is no easy job.</span></p>

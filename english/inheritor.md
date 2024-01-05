@@ -1,5 +1,7 @@
 # inheritor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inheritor.md)
+
 <p><span class="chinese">后来，这位小和尚成了师傅的衣钵传人。</span><span class="english">The little bonzer became the master's inheritor later.</span></p>
 
 <p><span class="chinese">他变成了文明储备资本的继承人。</span><span class="english">He becomes an inheritor of the funded capital of civilization.</span></p>

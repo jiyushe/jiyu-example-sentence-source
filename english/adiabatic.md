@@ -1,5 +1,7 @@
 # adiabatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adiabatic.md)
+
 <p><span class="chinese">绝热可逆路径。</span><span class="english">Adiabatic reversible path.</span></p>
 
 <p><span class="chinese">这是一个绝热过程。</span><span class="english">This is an adiabatic process.</span></p>

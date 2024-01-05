@@ -1,5 +1,7 @@
 # administrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/administrator.md)
+
 <p><span class="chinese">点解管理员同志。</span><span class="english">A comrade administrator.</span></p>
 
 <p><span class="chinese">你可以问在场的吉拉乌多。</span><span class="english">You can ask our administrator here.</span></p>

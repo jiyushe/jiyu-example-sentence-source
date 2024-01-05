@@ -1,5 +1,7 @@
 # 居留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juliu.md)
+
 <p><span class="chinese">他全家都注在一各印第安居留地鲤。</span><span class="english">His family are in an Indian reservation.</span></p>
 
 <p><span class="chinese">时间掌握得真好！现在我们到了岛上温特拿的企鹅居留地。</span><span class="english">Perfect timing. Now we are at Ventnor on the island.</span></p>

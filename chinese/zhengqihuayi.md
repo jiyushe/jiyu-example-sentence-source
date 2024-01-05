@@ -1,5 +1,7 @@
 # 整齐划一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqihuayi.md)
+
 <p><span class="chinese">整齐划一反而会带来巨大的灾难和风险。</span><span class="english">It can lead to tremendous disaster and risk.</span></p>
 
 <p><span class="chinese">现在，没有了整齐划一的行进，队伍开始变得松散了。</span><span class="english">Now, instead of marching as one, we were ready to get loose.</span></p>

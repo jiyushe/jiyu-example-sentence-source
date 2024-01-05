@@ -1,5 +1,7 @@
 # 名词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingci_1.md)
+
 <p><span class="chinese">它们全是名词。</span><span class="english">It’s all nouns.</span></p>
 
 <p><span class="chinese">而是一个抽象名词。</span><span class="english">It's an abstract noun.</span></p>

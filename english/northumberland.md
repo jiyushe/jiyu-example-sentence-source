@@ -1,5 +1,7 @@
 # northumberland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northumberland.md)
+
 <p><span class="chinese">诺森伯兰国家公园，英格兰</span><span class="english">Northumberland National Park, England</span></p>
 
 <p><span class="chinese">纽卡斯尔主要的购物街是诺森伯兰大街。</span><span class="english">The main shopping street in the city is Northumberland Street.</span></p>

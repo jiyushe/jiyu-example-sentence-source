@@ -1,5 +1,7 @@
 # 入世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushi_1.md)
+
 <p><span class="chinese">入世后，开放我国律师业已是大势所趋。</span><span class="english">It is a tendency to open up this trade.</span></p>
 
 <p><span class="chinese">嵇康与何晏、王弼持积极入世态度不同，他更偏好庄子，崇尚自然。</span><span class="english">Ji-Kang has a preference to Zhuang-Zi and worships the nature.</span></p>

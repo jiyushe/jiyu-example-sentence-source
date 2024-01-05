@@ -1,5 +1,7 @@
 # bilious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilious.md)
+
 <p><span class="chinese">他是一位脾气乖戾的老先生。</span><span class="english">He was a bilious old gentleman.</span></p>
 
 <p><span class="chinese">他抬起双眼，跟那座逼视着的挂钟打了个照面。</span><span class="english">He raised his eyes and met the stare of a bilious clock.</span></p>

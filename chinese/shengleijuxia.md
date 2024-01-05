@@ -1,5 +1,7 @@
 # 声泪俱下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengleijuxia.md)
+
 <p><span class="chinese">争吵到最后声泪俱下。</span><span class="english">The argument ended in tears.</span></p>
 
 <p><span class="chinese">他对她声泪俱下的恳求置之不理。</span><span class="english">He refused to listen to her tearful pleas.</span></p>

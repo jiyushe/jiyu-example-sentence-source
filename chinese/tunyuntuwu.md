@@ -1,5 +1,7 @@
 # 吞云吐雾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunyuntuwu.md)
+
 <p><span class="chinese">他点燃烟斗并且吞云吐雾。</span><span class="english">He lit his pipe and exhaled clouds of smoke.</span></p>
 
 <p><span class="chinese">我希望有人在你面前吞云吐雾时你会恶心。</span><span class="english">I hope you get sick when someone blows smoke in your face.</span></p>

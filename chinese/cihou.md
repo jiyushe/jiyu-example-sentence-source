@@ -1,5 +1,7 @@
 # 伺候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cihou.md)
+
 <p><span class="chinese">女仆在桌边伺候。</span><span class="english">The housemaid served at the table.</span></p>
 
 <p><span class="chinese">而他的同伙当然也被大刑伺候了</span><span class="english">These people are toast, obviously.</span></p>

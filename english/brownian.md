@@ -1,5 +1,7 @@
 # brownian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brownian.md)
+
 <p><span class="chinese">还利用少体硬球系统模拟布朗运动。</span><span class="english">Brownian motion is simulated by using hard-ball systems.</span></p>
 
 <p><span class="chinese">经典的B-S模型是建立在布朗运动环境下的。</span><span class="english">Classical B-S model was established in Brownian motion environment.</span></p>

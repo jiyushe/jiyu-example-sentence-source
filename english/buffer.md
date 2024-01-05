@@ -1,5 +1,7 @@
 # buffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buffer.md)
+
 <p><span class="chinese">它可能是缓冲液。</span><span class="english">It could be a buffer.</span></p>
 
 <p><span class="chinese">他是个老糊涂。</span><span class="english">He is a silly old buffer.</span></p>

@@ -1,5 +1,7 @@
 # pulmonary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulmonary.md)
+
 <p><span class="chinese">肺气肿案例郭成。</span><span class="english">Pulmonary emphysema case Guo Cheng.</span></p>
 
 <p><span class="chinese">摘要肺动脉肉瘤是一种罕见的肿瘤。</span><span class="english">Primary pulmonary artery sarcoma is a rare tumor.</span></p>

@@ -1,5 +1,7 @@
 # rhonda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhonda.md)
+
 <p><span class="chinese">“丰田真可耻”，朗达史密斯在国会听证会上说。</span><span class="english">Shame on you, Toyota, ” Rhonda Smith, said at a congressional hearing.</span></p>
 
 <p><span class="chinese">朗达是生孩子与我的兄弟和我们有一个婴儿淋浴她。</span><span class="english">Rhonda was having a baby with my brother and we had a baby shower for her.</span></p>

@@ -1,5 +1,7 @@
 # 三藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanzang.md)
+
 <p><span class="chinese">我看到了唐三藏的头盖骨。</span><span class="english">I saw Monk Tang San Zang's head bone.</span></p>
 
 <p><span class="chinese">这里的建筑四分之三藏于洞中。</span><span class="english">Three quarters are hidden in the mountain cave.</span></p>

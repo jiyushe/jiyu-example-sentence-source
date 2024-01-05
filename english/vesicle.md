@@ -1,5 +1,7 @@
 # vesicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vesicle.md)
+
 <p><span class="chinese">手上长了一个小水泡怎么办?。</span><span class="english">How did a vesicle grow to do on the hand?</span></p>
 
 <p><span class="chinese">精囊炎治疗存在哪些误区？</span><span class="english">Seminal vesicle phlogistic treatment which error there?</span></p>

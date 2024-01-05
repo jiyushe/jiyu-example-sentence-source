@@ -1,5 +1,7 @@
 # 情变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbian.md)
+
 <p><span class="chinese">他们相遇在2002年的军情五处剧集中，这是一个出乎人们意料的情变。</span><span class="english">They met on the set of Spooks in 2002 and it was a coup de foudre.</span></p>
 
 <p><span class="chinese">这里有一个例子可以说明当事情变坏的时候墨菲定律可以如何帮助您。</span><span class="english">Here's an example of how Murphy's Law can help when things go wrong.</span></p>

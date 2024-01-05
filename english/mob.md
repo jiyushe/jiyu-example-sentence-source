@@ -1,5 +1,7 @@
 # mob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mob.md)
+
 <p><span class="chinese">暴民政治？</span><span class="english">Mob rule?</span></p>
 
 <p><span class="chinese">是暴民政治，没错。</span><span class="english">Mob rule, exactly.</span></p>

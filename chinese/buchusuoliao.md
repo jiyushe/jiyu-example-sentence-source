@@ -1,5 +1,7 @@
 # 不出所料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buchusuoliao.md)
+
 <p><span class="chinese">果然不出所料，屈里曼丢了他的工作。</span><span class="english">Sure enough, Tremaine lost his job.</span></p>
 
 <p><span class="chinese">因此，不出所料，皮特去旅行了。</span><span class="english">So, as predicted, Pete went the journey.</span></p>

@@ -1,5 +1,7 @@
 # argillaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argillaceous.md)
+
 <p><span class="chinese">深水原地沉积主要包括深水泥页岩沉积。</span><span class="english">The autochthonous mainly includes the argillaceous deposit.</span></p>
 
 <p><span class="chinese">在我国广泛分布的白垩系至第三系泥质粉砂岩是一种软质岩石，具有较大的地基潜力。</span><span class="english">Argillaceous siltstone is a kind of soft rock, which is widespread during Cretaceous to Eogene in China.</span></p>

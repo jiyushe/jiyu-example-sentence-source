@@ -1,5 +1,7 @@
 # hone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hone.md)
+
 <p><span class="chinese">然后集中在那儿。</span><span class="english">and hone in.</span></p>
 
 <p><span class="chinese">磨练你的分析技能。</span><span class="english">Hone your analytical skills.</span></p>

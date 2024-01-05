@@ -1,5 +1,7 @@
 # pronouncing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronouncing.md)
+
 <p><span class="chinese">我可能不太会念这个名字。</span><span class="english">I may have trouble pronouncing this.</span></p>
 
 <p><span class="chinese">对新单词的发音我总是有困难。</span><span class="english">I always have difficulty in pronouncing new words.</span></p>

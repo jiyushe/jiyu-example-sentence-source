@@ -1,5 +1,7 @@
 # valsalva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valsalva.md)
+
 <p><span class="chinese">主动脉窦动脉瘤是非常少见的，可以是先天性或后天性的。</span><span class="english">Introduction Valsalva sinus aneurysms are rare and can be either congenital or acquired.</span></p>
 
 <p><span class="chinese">提示彩色多普勒血流显像对诊断主动脉窦瘤破裂有特异性诊断价值。</span><span class="english">Color Doppler flowing imaging has special value in diagnosing the ruptured aneurysm of sinus of Valsalva.</span></p>

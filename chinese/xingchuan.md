@@ -1,5 +1,7 @@
 # 行船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingchuan.md)
+
 <p><span class="chinese">行船时刻表有效期是多长时间？</span><span class="english">How long is the boat time table effective?</span></p>
 
 <p><span class="chinese">行船时刻表有效期是多长时间?。</span><span class="english">How long is the boat time-table effective?</span></p>

@@ -1,5 +1,7 @@
 # longevity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longevity.md)
+
 <p><span class="chinese">祝您健康长寿，长命百岁。</span><span class="english">Bless you health and longevity.</span></p>
 
 <p><span class="chinese">愿您福寿安康。</span><span class="english">I wish you longevity and health.</span></p>

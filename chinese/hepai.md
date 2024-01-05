@@ -1,5 +1,7 @@
 # 合拍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hepai.md)
+
 <p><span class="chinese">与她合拍有默契。</span><span class="english">Being in tune with her.</span></p>
 
 <p><span class="chinese">爱和杀意合拍得像手套和手！</span><span class="english">Loving and Killing fit like hand in glove!</span></p>

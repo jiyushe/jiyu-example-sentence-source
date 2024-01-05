@@ -1,5 +1,7 @@
 # snatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snatch.md)
+
 <p><span class="chinese">攫夺是不礼貌的。</span><span class="english">It is rude to snatch.</span></p>
 
 <p><span class="chinese">它的双手会硬拿猛抢。</span><span class="english">It's got hands that can snatch.</span></p>

@@ -1,5 +1,7 @@
 # 太君
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taijun.md)
+
 <p><span class="chinese">庆太君，英语学得怎么样了？</span><span class="english">Hing Tai Jun, English learning going?</span></p>
 
 <p><span class="chinese">闰之拒绝，太君以杀死东坡要挟。</span><span class="english">To leap the refusal, too gentleman to kill dongpo blackmail.</span></p>

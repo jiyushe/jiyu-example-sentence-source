@@ -1,5 +1,7 @@
 # 标尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaochi.md)
+
 <p><span class="chinese">一个常用的特性是标尺。</span><span class="english">One commonly used feature is rulers.</span></p>
 
 <p><span class="chinese">这也是在游标尺上，可选择的。</span><span class="english">It's also on a vernier, a sliding scale.</span></p>

@@ -1,5 +1,7 @@
 # deflagration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflagration.md)
+
 <p><span class="chinese">那么如何去要成为一个较为温和的爆炸爆燃反应？</span><span class="english">So how do you go about turning a comparatively gentle deflagration reaction into a detonation?</span></p>
 
 <p><span class="chinese">在“纬”，当你点燃一盘易燃液体，如汽油是一种爆燃。</span><span class="english">The "woof" you get when igniting a dish of flammable liquid such as gasoline is a deflagration.</span></p>

@@ -1,5 +1,7 @@
 # triethylamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triethylamine.md)
+
 <p><span class="chinese">三乙胺展开体系适合各种单糖的分离。</span><span class="english">Triethylamine developing system is suitable for different kinds of monosaccharides analysis.</span></p>
 
 <p><span class="chinese">本文应用三乙胺催化聚合丙炔醇。</span><span class="english">The polymerization of propargyl alcohol catalyzed by triethylamine was carried out for the first time.</span></p>

@@ -1,5 +1,7 @@
 # juris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juris.md)
+
 <p><span class="chinese">未来的律师获得的是法律博士学位。</span><span class="english">D. for " juris" or "jurum" doctor, meaning a doctor of law or laws.</span></p>
 
 <p><span class="chinese">董明，法学博士，律师，美国纽约州执业律师。</span><span class="english">Ming Dong, Licensed Chinese lawyer and United States Attorney, Juris Doctor.</span></p>

@@ -1,5 +1,7 @@
 # 咽喉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhou.md)
+
 <p><span class="chinese">他扼住那个人的咽喉。</span><span class="english">He took the man by the throat.</span></p>
 
 <p><span class="chinese">声带，颈部腺体，咽喉。</span><span class="english">C5- Vocal cords, neck glands, pharynx.</span></p>

@@ -1,5 +1,7 @@
 # sonny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonny.md)
+
 <p><span class="chinese">我们那时还是两个毛头小伙子呢。</span><span class="english">We were still a couple of sonny boys.</span></p>
 
 <p><span class="chinese">我知道你们是怎么想的，小老弟。</span><span class="english">I know what you think it means, sonny.</span></p>

@@ -1,5 +1,7 @@
 # oxidization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidization.md)
+
 <p><span class="chinese">这样就可以防氧化了嘛。</span><span class="english">The soot can resist oxidization.</span></p>
 
 <p><span class="chinese">水泥作为氧化污染物的催化剂。</span><span class="english">The cement acts as a catalyst for oxidization of the pollutants.</span></p>

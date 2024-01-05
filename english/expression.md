@@ -1,5 +1,7 @@
 # expression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expression.md)
+
 <p><span class="chinese">表现主义艺术新浪潮。</span><span class="english">New Wave Of Expression.</span></p>
 
 <p><span class="chinese">表达式末尾的检查。</span><span class="english">End of expression check.</span></p>

@@ -1,5 +1,7 @@
 # wag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wag.md)
+
 <p><span class="chinese">这被称为摇尾狗。</span><span class="english">Its called Wag the Dog.</span></p>
 
 <p><span class="chinese">尾大不掉。</span><span class="english">The tail is too big to wag.</span></p>

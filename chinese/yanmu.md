@@ -1,5 +1,7 @@
 # 烟幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmu.md)
+
 <p><span class="chinese">什么动物会消失在“烟幕”里？</span><span class="english">Which animals vanish in a smoke screen?</span></p>
 
 <p><span class="chinese">一股烟幕延伸出岛外达数英里之遥。</span><span class="english">A pall stretched for miles away from the island.</span></p>

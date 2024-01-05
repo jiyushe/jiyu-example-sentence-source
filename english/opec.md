@@ -1,5 +1,7 @@
 # opec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opec.md)
+
 <p><span class="chinese">因为你是石油输出国</span><span class="english">You're in OPEC.</span></p>
 
 <p><span class="chinese">“欧佩克”石油价格的四倍上涨。</span><span class="english">The four-fold increase in oil prices imposed by opec.</span></p>

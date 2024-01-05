@@ -1,5 +1,7 @@
 # 草书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoshu.md)
+
 <p><span class="chinese">你上一次写草书是什么时候？</span><span class="english">When was the last time you wrote cursive?</span></p>
 
 <p><span class="chinese">人们同样可以按主题搜索他的草书评语。</span><span class="english">One can also search his scribblings by subject.</span></p>

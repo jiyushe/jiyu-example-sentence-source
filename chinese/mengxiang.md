@@ -1,5 +1,7 @@
 # 梦乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengxiang.md)
+
 <p><span class="chinese">进入梦乡时是身体斜着的。</span><span class="english">Sleep is the body sideways.</span></p>
 
 <p><span class="chinese">昨晚更深人静，我沉睡入梦乡。</span><span class="english">I had a dream the other night.</span></p>

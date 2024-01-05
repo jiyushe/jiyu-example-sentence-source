@@ -1,5 +1,7 @@
 # cucurbit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cucurbit.md)
+
 <p><span class="chinese">来自贵阳，爱好长笛和葫芦丝演奏。</span><span class="english">Like to play flute and cucurbit flute.</span></p>
 
 <p><span class="chinese">爱好长笛，竹笛，葫芦丝演奏。</span><span class="english">Like to play flute, bamboo flute and cucurbit flute.</span></p>

@@ -1,5 +1,7 @@
 # ningbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ningbo.md)
+
 <p><span class="chinese">宁波金亿合金材料有限公司。</span><span class="english">Ningbo Jingyi Alloy Material Co.</span></p>
 
 <p><span class="chinese">宁波市成欣家具有限公司。</span><span class="english">Ningbo Chengxin Furniture Co. , Ltd.</span></p>

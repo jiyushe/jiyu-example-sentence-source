@@ -1,5 +1,7 @@
 # 少校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoxiao.md)
+
 <p><span class="chinese">上校的级别高于少校。</span><span class="english">Colonel Jones outranks everyone here.</span></p>
 
 <p><span class="chinese">中校军衔在少校军衔之上。</span><span class="english">A lieutenant-colonel is above a major.</span></p>

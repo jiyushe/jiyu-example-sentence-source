@@ -1,5 +1,7 @@
 # domestic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domestic.md)
+
 <p><span class="chinese">这是国内新闻。</span><span class="english">This is domestic news.</span></p>
 
 <p><span class="chinese">国内和国际上的。</span><span class="english">domestic and international ones.</span></p>

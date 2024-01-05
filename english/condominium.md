@@ -1,5 +1,7 @@
 # condominium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condominium.md)
+
 <p><span class="chinese">公寓所在地的四周用木椿围了起来。</span><span class="english">The site of the condominium is enclosed with stakes.</span></p>
 
 <p><span class="chinese">业主是否须缴纳其它附加公寓相关费用？</span><span class="english">Q11. Are there any other condominium association dues?</span></p>

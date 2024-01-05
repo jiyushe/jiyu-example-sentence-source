@@ -1,5 +1,7 @@
 # pupillary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pupillary.md)
+
 <p><span class="chinese">诈病患者瞳孔大小及对光反应检查不满意。</span><span class="english">The check of pupillary size and light reaction are not satisfied in cheat patients.</span></p>
 
 <p><span class="chinese">检查可发现红光反射减弱，且可能出现瞳孔传入障碍。</span><span class="english">Examination reveals a decreased red reflex and possibly an afferent pupillary defect.</span></p>

@@ -1,5 +1,7 @@
 # brad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brad.md)
+
 <p><span class="chinese">就算是布拉德•欣茨本人其实也明白这个道理。</span><span class="english">Even Brad Hintz knows that.</span></p>
 
 <p><span class="chinese">我是优达因的布莱德·摩尔。</span><span class="english">This is Brad Moore from Yoyodyne.</span></p>

@@ -1,5 +1,7 @@
 # 闪电战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandianzhan.md)
+
 <p><span class="chinese">闪电战不再有精度惩罚。</span><span class="english">Axis Blitzkrieg no longer gives accuracy penalty.</span></p>
 
 <p><span class="chinese">在孤注一掷地闪电战中他猛冲过外国领地。</span><span class="english">He careened through foreign territories on a desperate kind of blitz.</span></p>

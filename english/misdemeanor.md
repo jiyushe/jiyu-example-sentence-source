@@ -1,5 +1,7 @@
 # misdemeanor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdemeanor.md)
+
 <p><span class="chinese">漫步和散步是一项轻罪。</span><span class="english">Ambling and strolling is a misdemeanor.</span></p>
 
 <p><span class="chinese">他面临跟踪和骚扰等数宗轻罪指控。</span><span class="english">He faces misdemeanor counts of stalking and harassment.</span></p>

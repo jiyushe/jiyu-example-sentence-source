@@ -1,5 +1,7 @@
 # bonze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonze.md)
+
 <p><span class="chinese">她让一个和尚犯了很多错。</span><span class="english">She made a bonze make many mistakes.</span></p>
 
 <p><span class="chinese">都说外来的和尚好念经，大概这句话是不错的。</span><span class="english">Say ab extra bonze good recite scriptures, probably this word is pretty good.</span></p>

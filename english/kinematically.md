@@ -1,5 +1,7 @@
 # kinematically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinematically.md)
+
 <p><span class="chinese">本文提出了机器人运动和动力分析的一种方法。</span><span class="english">In this paper an algorithm is presented to analyse robots kinematically and dynamically.</span></p>
 
 <p><span class="chinese">对水下枪击发发射机构作运动学和动力学分析计算。</span><span class="english">The firing mechanism of an underwater pistol was kinematically and dynamically analysed and calculated.</span></p>

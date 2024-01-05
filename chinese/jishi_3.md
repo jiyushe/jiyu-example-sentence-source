@@ -1,5 +1,7 @@
 # 急事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishi_3.md)
+
 <p><span class="chinese">我真的有急事。</span><span class="english">I really have something urgent.</span></p>
 
 <p><span class="chinese">他有急事求见经理。</span><span class="english">He asked to see the manager for something urgent.</span></p>

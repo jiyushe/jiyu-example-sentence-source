@@ -1,5 +1,7 @@
 # 推行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixing.md)
+
 <p><span class="chinese">很彰彰，更多的测试需要推行…</span><span class="english">Obviously! more testing wlike order.</span></p>
 
 <p><span class="chinese">应该推行穆斯林登记制吗？</span><span class="english">Should there be a registry of Muslims?</span></p>

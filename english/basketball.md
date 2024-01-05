@@ -1,5 +1,7 @@
 # basketball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basketball.md)
+
 <p><span class="chinese">看来篮球也是“成批处理”的啊。</span><span class="english">Basketball was batch!</span></p>
 
 <p><span class="chinese">我是各篮球迷。</span><span class="english">I am a basketball fan.</span></p>

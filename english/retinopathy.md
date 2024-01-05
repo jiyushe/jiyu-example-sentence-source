@@ -1,5 +1,7 @@
 # retinopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinopathy.md)
+
 <p><span class="chinese">糖尿病性视网膜病变可引起眼部血管的变化。</span><span class="english">Diabetic retinopathy causes changes in the blood vessels in the eyes.</span></p>
 
 <p><span class="chinese">糖尿病病史愈久，造成视网膜病变的危险性愈高。</span><span class="english">The longer history of diabetes, retinopathy caused by the risk of higher.</span></p>

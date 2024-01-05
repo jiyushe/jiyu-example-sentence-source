@@ -1,5 +1,7 @@
 # incommunicado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incommunicado.md)
+
 <p><span class="chinese">他隐居在威尔士一个偏僻的小村舍里。</span><span class="english">He is incommunicado in a secluded cottage in Wales.</span></p>
 
 <p><span class="chinese">个人在隔离监禁时最易遭到刑求。</span><span class="english">Individuals are most at risk of torture when held in incommunicado detention.</span></p>

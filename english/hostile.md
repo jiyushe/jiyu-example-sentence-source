@@ -1,5 +1,7 @@
 # hostile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hostile.md)
+
 <p><span class="chinese">我并无恶意。</span><span class="english">And I'm not hostile.</span></p>
 
 <p><span class="chinese">这是敌占区。</span><span class="english">This is a hostile territory.</span></p>

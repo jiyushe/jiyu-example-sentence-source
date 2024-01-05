@@ -1,5 +1,7 @@
 # unclean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unclean.md)
+
 <p><span class="chinese">这些是与你们不洁净的。</span><span class="english">They are unclean for you.</span></p>
 
 <p><span class="chinese">吃完东西后他的脸很脏。</span><span class="english">His face is unclean after eating.</span></p>

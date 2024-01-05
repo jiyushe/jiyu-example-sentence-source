@@ -1,5 +1,7 @@
 # flush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flush.md)
+
 <p><span class="chinese">我是一手同花。</span><span class="english">I got a flush.</span></p>
 
 <p><span class="chinese">冲洗所有测试旋塞。</span><span class="english">A. Flush all test cocks.</span></p>

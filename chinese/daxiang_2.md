@@ -1,5 +1,7 @@
 # 打响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiang_2.md)
+
 <p><span class="chinese">不过这场战争刚刚打响。</span><span class="english">But the war has just started.</span></p>
 
 <p><span class="chinese">然后我们的名声开始打响了。</span><span class="english">Then our reputation started to spread.</span></p>

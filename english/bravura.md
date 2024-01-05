@@ -1,5 +1,7 @@
 # bravura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bravura.md)
+
 <p><span class="chinese">你帮我连线布鲁温了么？</span><span class="english">Do you got Bravura on the line for us?</span></p>
 
 <p><span class="chinese">在最后的一段表演里，芭蕾舞女看上去就像漂浮在水中一样。</span><span class="english">In a final bravura the ballerina appeared to be floating in water.</span></p>

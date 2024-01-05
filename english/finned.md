@@ -1,5 +1,7 @@
 # finned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finned.md)
+
 <p><span class="chinese">这是“小飞象”，一种翅片章鱼。</span><span class="english">This is the "Dumbo", a finned octopus.</span></p>
 
 <p><span class="chinese">还包含一个铝制曲柄箱和平衡飞轮。</span><span class="english">Contains an aluminum finned crankcase and balanced flywheel.</span></p>

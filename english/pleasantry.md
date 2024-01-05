@@ -1,5 +1,7 @@
 # pleasantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleasantry.md)
+
 <p><span class="chinese">领导人互相寒暄一番，然后开始谈判。</span><span class="english">After an exchange of pleasantry the leader start their negotiation.</span></p>
 
 <p><span class="chinese">米拉公寓如同一个外壳，一座堡垒，但是这堡垒自有其内部的欢乐。</span><span class="english">Casa Milà is a carapace, a fortress, but a fortress of domestic pleasantry.</span></p>

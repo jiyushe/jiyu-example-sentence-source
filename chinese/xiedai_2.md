@@ -1,5 +1,7 @@
 # 携带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedai_2.md)
+
 <p><span class="chinese">我选择不携带。</span><span class="english">I chose not to.</span></p>
 
 <p><span class="chinese">钱是携带重？</span><span class="english">Is money heavy to carry?</span></p>

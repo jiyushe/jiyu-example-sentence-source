@@ -1,5 +1,7 @@
 # 桃仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoren.md)
+
 <p><span class="chinese">九个敏捷的贵族啃桃仁。</span><span class="english">Nine nimble nobleman nibbled nuts.</span></p>
 
 <p><span class="chinese">请为做点心剥点胡桃仁。</span><span class="english">Please shell some walnuts for the cake.</span></p>

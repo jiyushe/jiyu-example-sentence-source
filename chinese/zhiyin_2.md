@@ -1,5 +1,7 @@
 # 知音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyin_2.md)
+
 <p><span class="chinese">我们完全心灵相契，是知音。</span><span class="english">We are soul mates.</span></p>
 
 <p><span class="chinese">你说，我们是知音啊。</span><span class="english">You say, we are friends.</span></p>

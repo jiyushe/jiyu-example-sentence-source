@@ -1,5 +1,7 @@
 # handicapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handicapped.md)
+
 <p><span class="chinese">他们可能是残疾人。</span><span class="english">They may be  handicapped.</span></p>
 
 <p><span class="chinese">他把车停到残疾人停车区。</span><span class="english">He parks in handicapped spaces.</span></p>

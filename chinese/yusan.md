@@ -1,5 +1,7 @@
 # 雨伞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yusan.md)
+
 <p><span class="chinese">这儿有一把雨伞。</span><span class="english">Here is an umbrella.</span></p>
 
 <p><span class="chinese">它是你的雨伞。</span><span class="english">It\'s your umbrella.</span></p>

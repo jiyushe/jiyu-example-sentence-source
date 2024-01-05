@@ -1,5 +1,7 @@
 # 同仇敌忾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchoudikai.md)
+
 <p><span class="chinese">这更像是看台上同仇敌忾的气氛。</span><span class="english">It is more likely to be tumbleweed time around the stands.</span></p>
 
 <p><span class="chinese">而同仇敌忾地高声谴责是我们能够作出的最起码的表示。</span><span class="english">The least the rest of us can do is say so loudly and in concert.</span></p>

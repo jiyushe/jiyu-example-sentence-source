@@ -1,5 +1,7 @@
 # cindy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cindy.md)
+
 <p><span class="chinese">辛迪的办公桌上有一盆植物！</span><span class="english">Cindy has a plant on her desk!</span></p>
 
 <p><span class="chinese">我最好的朋友是福莱特和辛迪。</span><span class="english">My best friends are Frank and Cindy.</span></p>

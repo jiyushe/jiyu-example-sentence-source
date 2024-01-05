@@ -1,5 +1,7 @@
 # fireplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fireplace.md)
+
 <p><span class="chinese">那个石壁炉。</span><span class="english">The stone fireplace.</span></p>
 
 <p><span class="chinese">壁炉在冒烟吗？</span><span class="english">Is the fireplace smoking?</span></p>

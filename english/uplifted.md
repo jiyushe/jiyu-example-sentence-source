@@ -1,5 +1,7 @@
 # uplifted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uplifted.md)
+
 <p><span class="chinese">他举起胳臂。</span><span class="english">He uplifted his arm.</span></p>
 
 <p><span class="chinese">通过和你的相处，他们有没有感觉到自我的提升？</span><span class="english">Do they feel uplifted by coming in contact with you?</span></p>

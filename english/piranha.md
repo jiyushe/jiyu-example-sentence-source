@@ -1,5 +1,7 @@
 # piranha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piranha.md)
+
 <p><span class="chinese">啊！我是只食人鱼，住在亚马逊河。</span><span class="english">Raah! I'm a piranha , they're in the Amazon.</span></p>
 
 <p><span class="chinese">食人鱼也是一种鱼，就像你的生日礼物一样。</span><span class="english">And a piranha 's a fish, just like your present.</span></p>

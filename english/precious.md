@@ -1,5 +1,7 @@
 # precious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precious.md)
+
 <p><span class="chinese">它是很珍贵的。</span><span class="english">It's precious.</span></p>
 
 <p><span class="chinese">我的心肝宝贝。</span><span class="english">My precious darling!</span></p>

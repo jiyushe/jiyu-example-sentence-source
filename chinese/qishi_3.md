@@ -1,5 +1,7 @@
 # 妻室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_3.md)
+
 <p><span class="chinese">他有了妻室和两个健壮的儿子。</span><span class="english">He had a wife and two fine sons.</span></p>
 
 <p><span class="chinese">汤姆为有妻室儿女而感到幸福。</span><span class="english">Tom is happy in his wife and children.</span></p>

@@ -1,5 +1,7 @@
 # 握手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woshou.md)
+
 <p><span class="chinese">拥抱是新的握手方式吗？</span><span class="english">Are hugs the new handshakes?</span></p>
 
 <p><span class="chinese">他伸出手和我握了握手。</span><span class="english">He stretched and shook with me.</span></p>

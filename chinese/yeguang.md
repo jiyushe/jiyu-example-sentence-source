@@ -1,5 +1,7 @@
 # 夜光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeguang.md)
+
 <p><span class="chinese">夜光云为什么越来越多？</span><span class="english">Why are they getting more numerous?</span></p>
 
 <p><span class="chinese">传说中的一种可发夜光的珠宝。</span><span class="english">A legend can be made luminous jewelry.</span></p>

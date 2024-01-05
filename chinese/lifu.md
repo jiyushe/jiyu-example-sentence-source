@@ -1,5 +1,7 @@
 # 礼服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lifu.md)
+
 <p><span class="chinese">白纱礼服和罩纱。</span><span class="english">A white dress and veil.</span></p>
 
 <p><span class="chinese">礼服出租店。</span><span class="english">The tuxedo rental store.</span></p>

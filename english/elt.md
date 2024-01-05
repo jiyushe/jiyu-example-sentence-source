@@ -1,5 +1,7 @@
 # elt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elt.md)
+
 <p><span class="chinese">词汇教学在英语教学中有着重要的地位和作用。</span><span class="english">And vocabulary teaching is of great importance to ELT in China.</span></p>
 
 <p><span class="chinese">如果是的话，那么在中国的英语教学中培养学习者自主性的意义何在?。</span><span class="english">If so, what's the significance of fostering learner autonomy in ELT in China?</span></p>

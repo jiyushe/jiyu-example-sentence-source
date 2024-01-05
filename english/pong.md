@@ -1,5 +1,7 @@
 # pong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pong.md)
+
 <p><span class="chinese">球打喜欢乒她乓。</span><span class="english">She likes playing ping pong.</span></p>
 
 <p><span class="chinese">中国选手赢得了乒乓混合双打。</span><span class="english">China wins ping- pong mixed doubles.</span></p>

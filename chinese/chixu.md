@@ -1,5 +1,7 @@
 # 持续
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chixu.md)
+
 <p><span class="chinese">缓慢而持续。</span><span class="english">Slow but Steady.</span></p>
 
 <p><span class="chinese">多久疯丫头持续多久？</span><span class="english">How long does Minx last?</span></p>

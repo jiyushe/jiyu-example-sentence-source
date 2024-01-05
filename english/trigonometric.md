@@ -1,5 +1,7 @@
 # trigonometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trigonometric.md)
+
 <p><span class="chinese">三角函数的角度使用弧度模式。</span><span class="english">Trigonometric functions use radian mode for angles.</span></p>
 
 <p><span class="chinese">我们可能宁愿拘泥于使用三角函数。</span><span class="english">We might prefer to stick to trigonometric functions.</span></p>

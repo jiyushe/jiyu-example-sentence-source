@@ -1,5 +1,7 @@
 # 出具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuju.md)
+
 <p><span class="chinese">根据测试结果出具试验报告。</span><span class="english">Release testing report due to testing result.</span></p>
 
 <p><span class="chinese">买方向卖方出具意向书和保密协议。</span><span class="english">Buyer issues LOI along with NCND to the Seller.</span></p>

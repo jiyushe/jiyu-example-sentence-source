@@ -1,5 +1,7 @@
 # 蝮蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushe_1.md)
+
 <p><span class="chinese">洛根蝮蛇是商务专业人士和作家。</span><span class="english">Logan Pallas is a business professional and writer.</span></p>
 
 <p><span class="chinese">你要是再往南走点儿就能找到些水蝮蛇。</span><span class="english">You'd have to go farther south to find cottonmouths.</span></p>

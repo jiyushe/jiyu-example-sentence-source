@@ -1,5 +1,7 @@
 # personal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personal.md)
+
 <p><span class="chinese">我的个人日记。</span><span class="english">My Personal Diary.</span></p>
 
 <p><span class="chinese">非常个人的问题。</span><span class="english">It’s very personal.</span></p>

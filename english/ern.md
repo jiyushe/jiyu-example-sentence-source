@@ -1,5 +1,7 @@
 # ern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ern.md)
+
 <p><span class="chinese">现代国家原则上都禁止非法取证。</span><span class="english">Mod ern countries all prohibit it in principle.</span></p>
 
 <p><span class="chinese">这是在母亲膝下就已形成的思维模式。</span><span class="english">It is a pat ern of thinking learned at our mothers! knees.</span></p>

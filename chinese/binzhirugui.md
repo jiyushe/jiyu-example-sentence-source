@@ -1,5 +1,7 @@
 # 宾至如归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binzhirugui.md)
+
 <p><span class="chinese">我在这扇门之外并没有宾至如归的感觉。</span><span class="english">I did not feel welcome outside the door.</span></p>
 
 <p><span class="chinese">这房间有一种宾至如归的舒适氛围。</span><span class="english">The room had a cozy, homelike atmosphere.</span></p>

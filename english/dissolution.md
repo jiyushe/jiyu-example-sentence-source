@@ -1,5 +1,7 @@
 # dissolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolution.md)
+
 <p><span class="chinese">金属会产生溶解。</span><span class="english">Dissolution of the metal may occur.</span></p>
 
 <p><span class="chinese">关于解散OGB的举措</span><span class="english">Motion concerning dissolution of the OGB</span></p>

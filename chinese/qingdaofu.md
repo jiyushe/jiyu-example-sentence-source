@@ -1,5 +1,7 @@
 # 清道夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdaofu.md)
+
 <p><span class="chinese">我在街道上做清道夫。</span><span class="english">I do street cleaner on the street.</span></p>
 
 <p><span class="chinese">清道夫飞船名为“袭击者号”。</span><span class="english">The scavenger vessel is called the Raider.</span></p>

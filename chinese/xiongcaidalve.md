@@ -1,5 +1,7 @@
 # 雄才大略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongcaidalve.md)
+
 <p><span class="chinese">有了机遇，才有施展雄才大略的舞台。</span><span class="english">Only the opportunity can offer you the display stage.</span></p>
 
 <p><span class="chinese">武丁特别欣赏傅说的雄才大略。</span><span class="english">King Wuding appreciated Fu's great talent and bold vision.</span></p>

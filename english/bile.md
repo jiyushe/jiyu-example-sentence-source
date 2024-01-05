@@ -1,5 +1,7 @@
 # bile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bile.md)
+
 <p><span class="chinese">它以你的愤怒和痛苦为食。</span><span class="english">It feeds on your bile and misery.</span></p>
 
 <p><span class="chinese">分泌胆汁，以助消化食物中的脂肪。</span><span class="english">Making bile to help digest fats from food.</span></p>

@@ -1,5 +1,7 @@
 # rationalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationalist.md)
+
 <p><span class="chinese">托马斯杰弗逊就是这样一个自信的理性主义者。</span><span class="english">One such self- confident rationalist was Thomas Jefferson.</span></p>
 
 <p><span class="chinese">最后，理性主义者在断言时总带些武断性的气质。</span><span class="english">The rationalist finally will be of dogmatic temper in his affirmations.</span></p>

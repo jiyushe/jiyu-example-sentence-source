@@ -1,5 +1,7 @@
 # 作伪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuowei_1.md)
+
 <p><span class="chinese">那乞丐的跛足乃系作伪。</span><span class="english">The beggar's limp was a fake.</span></p>
 
 <p><span class="chinese">学术作伪行为已引起学术界和全社会的关注。</span><span class="english">Academic cheating has aroused academic and social attention.</span></p>

@@ -1,5 +1,7 @@
 # 乳名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruming.md)
+
 <p><span class="chinese">明明是我的乳名。</span><span class="english">Mingming is my childhood name.</span></p>
 
 <p><span class="chinese">您孩提时代的乳名是什么？</span><span class="english">What was your childhood nickname?</span></p>

@@ -1,5 +1,7 @@
 # 受热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoure.md)
+
 <p><span class="chinese">大多数金属受热膨胀。</span><span class="english">Most metals expand with heat.</span></p>
 
 <p><span class="chinese">物体受热则膨胀。</span><span class="english">When matter is heated, it expands.</span></p>

@@ -1,5 +1,7 @@
 # coldly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coldly.md)
+
 <p><span class="chinese">我有我的冷傲。</span><span class="english">I have me coldly arrogant.</span></p>
 
 <p><span class="chinese">威灵顿立在那里，冷峻而英勇。</span><span class="english">Wellington was coldly heroic.</span></p>

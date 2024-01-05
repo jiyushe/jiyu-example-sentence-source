@@ -1,5 +1,7 @@
 # statesmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statesmanship.md)
+
 <p><span class="chinese">两国领导人需要展示出政治家风范，以及睿智。</span><span class="english">Their leaders have to show statesmanship and wisdom.</span></p>
 
 <p><span class="chinese">这对太平洋两岸领导者的政治才能都是一个挑战。</span><span class="english">This poses a challenge to statesmanship on both sides of the Pacific.</span></p>

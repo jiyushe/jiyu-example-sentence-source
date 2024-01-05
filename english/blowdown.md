@@ -1,5 +1,7 @@
 # blowdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blowdown.md)
+
 <p><span class="chinese">部分排污门泄漏严重。</span><span class="english">Part of blowdown valve has heavy leakage.</span></p>
 
 <p><span class="chinese">控制水、汽品质，降低锅炉排污率。</span><span class="english">Four, control water, steam quality, reduce boiler blowdown rate.</span></p>

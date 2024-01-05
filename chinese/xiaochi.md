@@ -1,5 +1,7 @@
 # 小吃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochi.md)
+
 <p><span class="chinese">你喜欢吃小吃吗？</span><span class="english">Do you love to snack?</span></p>
 
 <p><span class="chinese">小吃可选择生鲜蔬菜。</span><span class="english">Snack on raw vegetables.</span></p>

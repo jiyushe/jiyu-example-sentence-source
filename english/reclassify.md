@@ -1,5 +1,7 @@
 # reclassify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclassify.md)
+
 <p><span class="chinese">这是否意味着我们得重新分类直立人？</span><span class="english">Does this mean we'll have to reclassify homo erectus?</span></p>
 
 <p><span class="chinese">这样做的目的，据说，是为了将他们重新归类为新员工。</span><span class="english">The aim, allegedly, was to reclassify them as new employees.</span></p>

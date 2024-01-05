@@ -1,5 +1,7 @@
 # 自由电子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyoudianzi.md)
+
 <p><span class="chinese">这就是自由电子。</span><span class="english">This represents the free electron.</span></p>
 
 <p><span class="chinese">不过呢，一个自由电子只带一个单位电荷。</span><span class="english">Alas, a free electron carries an electric charge.</span></p>

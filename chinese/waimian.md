@@ -1,5 +1,7 @@
 # 外面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waimian.md)
+
 <p><span class="chinese">把这丢到外面去。</span><span class="english">Throw that outside.</span></p>
 
 <p><span class="chinese">现在，她暂时在监狱外面。</span><span class="english">For now, she is out.</span></p>

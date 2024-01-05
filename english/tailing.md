@@ -1,5 +1,7 @@
 # tailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailing.md)
+
 <p><span class="chinese">姜秀兰暗中跟踪铁山。</span><span class="english">Jiang Xiulan tailing iron mountain.</span></p>
 
 <p><span class="chinese">部队行进中发现谢孝彰尾随在后。</span><span class="english">Troops marched XieXiaoZhang tailing found in behind.</span></p>

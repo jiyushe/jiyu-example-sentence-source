@@ -1,5 +1,7 @@
 # melancholia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melancholia.md)
+
 <p><span class="chinese">所以，有季节性忧郁症之说。</span><span class="english">So, have seasonal of melancholia say.</span></p>
 
 <p><span class="chinese">假如一个心理医生得了忧郁症怎么办？</span><span class="english">If how doctor of a psychology got melancholia to do?</span></p>

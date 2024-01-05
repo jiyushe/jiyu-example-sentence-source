@@ -1,5 +1,7 @@
 # minibus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minibus.md)
+
 <p><span class="chinese">我们乘小公汽去牛奶路。</span><span class="english">We take a minibus to Milkway.</span></p>
 
 <p><span class="chinese">他们乘小型公共汽车绕市区旅游。</span><span class="english">They were traveling around the city by minibus.</span></p>

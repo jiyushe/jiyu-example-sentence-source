@@ -1,5 +1,7 @@
 # 倒闭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daobi_1.md)
+
 <p><span class="chinese">他的公司快要倒闭了.</span><span class="english">His company is almost broke.</span></p>
 
 <p><span class="chinese">那家公司于1999年倒闭。</span><span class="english">That company folded in 1999.</span></p>

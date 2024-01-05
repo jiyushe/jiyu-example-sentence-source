@@ -1,5 +1,7 @@
 # 应征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzheng.md)
+
 <p><span class="chinese">他于1997年应征入伍。</span><span class="english">He was called up in 1997.</span></p>
 
 <p><span class="chinese">他应征当兵。</span><span class="english">He was drafted as a soldier.</span></p>

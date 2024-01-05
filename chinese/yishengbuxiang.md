@@ -1,5 +1,7 @@
 # 一声不响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishengbuxiang.md)
+
 <p><span class="chinese">迪克一声不响地离开了商店。</span><span class="english">Dickie left the shop without a word.</span></p>
 
 <p><span class="chinese">那猫一声不响地爬向那只鸟。</span><span class="english">The cat crept silently towards the bird.</span></p>

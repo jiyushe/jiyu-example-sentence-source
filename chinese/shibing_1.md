@@ -1,5 +1,7 @@
 # 柿饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibing_1.md)
+
 <p><span class="chinese">柿饼是黎城县特色土产之一。</span><span class="english">Dried persimmon is one of the characteristic local products in Licheng.</span></p>
 
 <p><span class="chinese">柿饼节毫无疑问是所有感官的飨宴。</span><span class="english">Without a doubt, the Persimmon Festival is a feast for all of the senses.</span></p>

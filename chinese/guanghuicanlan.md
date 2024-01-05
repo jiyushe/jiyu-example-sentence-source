@@ -1,5 +1,7 @@
 # 光辉灿烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanghuicanlan.md)
+
 <p><span class="chinese">他们是光辉灿烂中的黑暗。</span><span class="english">These are dark radiances.</span></p>
 
 <p><span class="chinese">这是一种光辉灿烂的东西。</span><span class="english">A thing which is full of splendor.</span></p>

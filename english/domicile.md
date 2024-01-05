@@ -1,5 +1,7 @@
 # domicile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domicile.md)
+
 <p><span class="chinese">我的户籍在南京。</span><span class="english">My domicile place is Nanjing.</span></p>
 
 <p><span class="chinese">乔煜割开了晓晗住所的煤气管。</span><span class="english">QiaoYu ripped open the XiaoHan domicile of the gas pipe.</span></p>

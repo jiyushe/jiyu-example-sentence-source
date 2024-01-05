@@ -1,5 +1,7 @@
 # hilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilly.md)
+
 <p><span class="chinese">宁远县是一个丘陵地区。</span><span class="english">Ningyuan County is a hilly district.</span></p>
 
 <p><span class="chinese">即使在多山的地区也可以开凿运河。</span><span class="english">Even hilly countries can be canalized.</span></p>

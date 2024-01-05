@@ -1,5 +1,7 @@
 # 过从甚密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guocongshenmi.md)
+
 <p><span class="chinese">汤姆和露茜两人近来过从甚密。</span><span class="english">Tom and Lucy chased around a lot together recently.</span></p>
 
 <p><span class="chinese">那是曾和乐观主义者过从甚密的人。</span><span class="english">That's a person who has been intimately acquainted with an optimist.</span></p>

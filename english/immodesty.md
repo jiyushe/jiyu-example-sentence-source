@@ -1,5 +1,7 @@
 # immodesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immodesty.md)
+
 <p><span class="chinese">科学没有什么谦虚不谦虚的问题。</span><span class="english">With science, modesty or immodesty is not the issue.</span></p>
 
 <p><span class="chinese">如果我可以毫不不慎它，我是热门的话题。</span><span class="english">If I may say it without immodesty , I was the talk of the town.</span></p>

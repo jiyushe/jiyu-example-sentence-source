@@ -1,5 +1,7 @@
 # 捉弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuonong.md)
+
 <p><span class="chinese">一个淘气的男孩在捉弄着狗。</span><span class="english">A mean boy teases the dog.</span></p>
 
 <p><span class="chinese">你们又在捉弄他吧?</span><span class="english">Are you horsing with him again?</span></p>

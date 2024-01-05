@@ -1,5 +1,7 @@
 # 贼人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeiren.md)
+
 <p><span class="chinese">贼人最后被绞死了。</span><span class="english">The thief was hanged at last.</span></p>
 
 <p><span class="chinese">贼人溜到了帘子后面。</span><span class="english">The thief slid behind the curtains.</span></p>

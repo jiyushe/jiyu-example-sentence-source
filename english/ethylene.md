@@ -1,5 +1,7 @@
 # ethylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethylene.md)
+
 <p><span class="chinese">从乙烯衍生而来的一价化学基。</span><span class="english">A univalent chemical radical derived from ethylene.</span></p>
 
 <p><span class="chinese">与MAO组成的催化体系，催化乙烯二聚得到1-丁烯。</span><span class="english">Combined with MAO for dimerization of ethylene to 1-butene.</span></p>

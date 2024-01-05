@@ -1,5 +1,7 @@
 # 幽深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshen.md)
+
 <p><span class="chinese">留与你双眼的是两潭幽深池沼...</span><span class="english">And it leaves two dark pools in your eyes.</span></p>
 
 <p><span class="chinese">它在你的眼里留下两泓幽深的潭水。</span><span class="english">and it leaves two dark pools in your eyes.</span></p>

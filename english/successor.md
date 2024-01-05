@@ -1,5 +1,7 @@
 # successor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/successor.md)
+
 <p><span class="chinese">白氏集团接班人。</span><span class="english">Bai group successor.</span></p>
 
 <p><span class="chinese">大卫的儿子和继承者。</span><span class="english">Son and successor of David.</span></p>

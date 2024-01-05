@@ -1,5 +1,7 @@
 # yearning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yearning.md)
+
 <p><span class="chinese">让风飘送我的思念。</span><span class="english">Let the breeze carry my yearning.</span></p>
 
 <p><span class="chinese">想找找一份新工作，一座新房子？</span><span class="english">Yearning for a new job, a new house?</span></p>

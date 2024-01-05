@@ -1,5 +1,7 @@
 # 同流合污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongliuhewu.md)
+
 <p><span class="chinese">他们是一路货色，同流合污。</span><span class="english">They are tarred with the same brush.</span></p>
 
 <p><span class="chinese">垄断和收入同流合污了。</span><span class="english">Monopoly and revenue streams all in one.</span></p>

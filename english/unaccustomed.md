@@ -1,5 +1,7 @@
 # unaccustomed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaccustomed.md)
+
 <p><span class="chinese">他不惯于早起。</span><span class="english">He is unaccustomed to early rising.</span></p>
 
 <p><span class="chinese">他不惯于在室内打球。</span><span class="english">He is unaccustomed to playing indoors.</span></p>

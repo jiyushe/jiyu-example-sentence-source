@@ -1,5 +1,7 @@
 # ingrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingrain.md)
+
 <p><span class="chinese">他说训练营会很快让那些原则根深蒂固。</span><span class="english">Training camp, he said, will quickly ingrain those principles.</span></p>
 
 <p><span class="chinese">永远不要提出你的优秀，而是让一致的认可根深蒂固。</span><span class="english">Never put forward your excellent track records but ingrain favor received.</span></p>

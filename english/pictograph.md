@@ -1,5 +1,7 @@
 # pictograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pictograph.md)
+
 <p><span class="chinese">象形文字是一种古老的文字。</span><span class="english">Pictograph is an old writing.</span></p>
 
 <p><span class="chinese">所以我估计这肯定是东巴文。</span><span class="english">So I guess it's a Dongba pictograph.</span></p>

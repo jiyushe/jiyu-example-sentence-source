@@ -1,5 +1,7 @@
 # infiltrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infiltrate.md)
+
 <p><span class="chinese">LOL为什么能渗入语言之中？</span><span class="english">Why did LOL infiltrate the language?</span></p>
 
 <p><span class="chinese">潜入敌人得基地，然后用粉碎者填满它。</span><span class="english">Infiltrate an enemy base and fill it with Desintigrators.</span></p>

@@ -1,5 +1,7 @@
 # universality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/universality.md)
+
 <p><span class="chinese">这种博通是最美好不过的。</span><span class="english">This universality is the best.</span></p>
 
 <p><span class="chinese">死亡的普遍性让事情更好还是更糟糕了？</span><span class="english">Does the universality of death make things better or worse?</span></p>

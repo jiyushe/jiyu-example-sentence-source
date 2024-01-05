@@ -1,5 +1,7 @@
 # 心音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyin.md)
+
 <p><span class="chinese">整个检查过程同步记录心电图及心音图。</span><span class="english">ECG and phonocardiogram were recorded by synchronization.</span></p>
 
 <p><span class="chinese">听著你跳跃著的心音，抚摸你柔细的身躯。</span><span class="english">Listen to the leaping sound of your heart, Harass your skinny body.</span></p>

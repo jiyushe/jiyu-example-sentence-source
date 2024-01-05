@@ -1,5 +1,7 @@
 # 高高兴兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaogaoxingxing.md)
+
 <p><span class="chinese">他高高兴兴地上学去了。</span><span class="english">He cheerfully went off to school.</span></p>
 
 <p><span class="chinese">他高高兴兴地挥起杆来。</span><span class="english">Happily, he began to play the course.</span></p>

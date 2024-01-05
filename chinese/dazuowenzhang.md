@@ -1,5 +1,7 @@
 # 大做文章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazuowenzhang.md)
+
 <p><span class="chinese">她对媒体非常有用，双方都在大做文章。</span><span class="english">She's quite useful to the media.</span></p>
 
 <p><span class="chinese">只是点风吹草动，你怎么就大做文章？</span><span class="english">Why do you always make a fuss over a trivial things?</span></p>

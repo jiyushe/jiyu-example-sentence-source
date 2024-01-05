@@ -1,5 +1,7 @@
 # 飘流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoliu_1.md)
+
 <p><span class="chinese">海风吹，海浪涌，随我飘流四方。</span><span class="english">And I float everywhere at sea.</span></p>
 
 <p><span class="chinese">既不会随波飘流。</span><span class="english">Neither drift along the stream.</span></p>

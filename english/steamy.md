@@ -1,5 +1,7 @@
 # steamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steamy.md)
+
 <p><span class="chinese">避免热水浸浴和蒸汽浴。</span><span class="english">Avoid hot tubs and steamy baths.</span></p>
 
 <p><span class="chinese">他们在一间潮湿闷热的房间里等着吃午饭。</span><span class="english">They are waiting for their lunch in some steamy haus.</span></p>

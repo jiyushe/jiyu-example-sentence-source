@@ -1,5 +1,7 @@
 # microcrystalline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcrystalline.md)
+
 <p><span class="chinese">对于较轻的凹陷，激光磨皮或微晶磨皮效果也还不错。</span><span class="english">For the lighter sag, laser exfoliating or microcrystalline exfoliating effect also is good.</span></p>
 
 <p><span class="chinese">蜜腊为深蓝色微晶石的主要组成矿物青金石。</span><span class="english">Lapis lazuli is a dark blue microcrystalline rock composed primarily of the mineral lazurite.</span></p>

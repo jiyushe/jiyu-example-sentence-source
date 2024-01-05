@@ -1,5 +1,7 @@
 # 旅人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvren.md)
+
 <p><span class="chinese">请在人生的路程中暂停一下，旅人。</span><span class="english">Pause for a moment, Wayfarer , on life's journey.</span></p>
 
 <p><span class="chinese">为社会各界城市旅人提供手工打造，绝对原创的栖息地！！</span><span class="english">Handcrafted, Original Space for the Social City Traveller</span></p>

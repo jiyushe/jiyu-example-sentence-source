@@ -1,5 +1,7 @@
 # watchable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchable.md)
+
 <p><span class="chinese">这电影很值得看。</span><span class="english">The movie is very watchable.</span></p>
 
 <p><span class="chinese">是编程人员必看的方法论。</span><span class="english">Watchable programmers is the methodology.</span></p>

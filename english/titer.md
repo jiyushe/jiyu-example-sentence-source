@@ -1,5 +1,7 @@
 # titer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titer.md)
+
 <p><span class="chinese">常规ELISA法测定免疫血清效价。</span><span class="english">The immunity serum titer was mensurated by the routine ELISA.</span></p>
 
 <p><span class="chinese">滴度的观察对疾病的诊断有一定的意义。</span><span class="english">The observation of ANA titer is helpful for diagnosis of CTD.</span></p>

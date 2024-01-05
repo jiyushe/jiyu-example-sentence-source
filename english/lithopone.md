@@ -1,5 +1,7 @@
 # lithopone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithopone.md)
+
 <p><span class="chinese">立德粉有大多被二氧化钛取代，但它廉价得多。</span><span class="english">Lithopone has mostly been replaced by titanium dioxide which is more durable, but it is much cheaper.</span></p>
 
 <p><span class="chinese">通过无污染低温碱性熔炼法对低品位立德粉浸出渣进行回收。</span><span class="english">The leaching residue of low-grade lithopone is treated with pollution-free normal temperature alkaline smelting.</span></p>

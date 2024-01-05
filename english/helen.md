@@ -1,5 +1,7 @@
 # helen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helen.md)
+
 <p><span class="chinese">这是王冰。</span><span class="english">This is Helen.</span></p>
 
 <p><span class="chinese">这位是海伦。</span><span class="english">This is Helen.</span></p>

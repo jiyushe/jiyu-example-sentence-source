@@ -1,5 +1,7 @@
 # 棋盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipan_1.md)
+
 <p><span class="chinese">生活是个棋盘！</span><span class="english">Life is a chess-board!</span></p>
 
 <p><span class="chinese">我喜欢棋盘式格子衬衫。</span><span class="english">I prefer a checkered shirt.</span></p>

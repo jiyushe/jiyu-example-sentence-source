@@ -1,5 +1,7 @@
 # contest 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contest.md)
+
 <p><span class="chinese">英语竞赛活动。</span><span class="english">English reading contest.</span></p>
 
 <p><span class="chinese">你参加了竞赛吗？</span><span class="english">Did you entre the contest?</span></p>

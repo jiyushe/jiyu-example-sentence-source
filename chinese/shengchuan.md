@@ -1,5 +1,7 @@
 # 盛传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchuan.md)
+
 <p><span class="chinese">一篇在硅谷盛传的笑话，你以为你老板在想啥？</span><span class="english">Juts a joke, don't get too serious.</span></p>
 
 <p><span class="chinese">赛龙舟将盛传于世。</span><span class="english">Dragon boat racing will be headed in the world.</span></p>

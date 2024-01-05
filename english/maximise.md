@@ -1,5 +1,7 @@
 # maximise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maximise.md)
+
 <p><span class="chinese">这样的科技成果可以促进出版商获得最大化的印刷物和数字出版的销售业绩。</span><span class="english">Such technology helps maximise print and non-print sales.</span></p>
 
 <p><span class="chinese">他完全配得上这个机会，从而将他已经展现出来的潜力发挥到最大。</span><span class="english">He fully deserves the chance to maximise the potential he has shown.</span></p>

@@ -1,5 +1,7 @@
 # 心术不正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshubuzheng.md)
+
 <p><span class="chinese">心术不正的人权外交可能适得其反。</span><span class="english">Indeed, half-hearted human-rights diplomacy can backfire nastily.</span></p>
 
 <p><span class="chinese">从前有个心术不正的和尚，叫做了空。</span><span class="english">Once there was a bad monk called Liaokong. He didn't act like a monk.</span></p>

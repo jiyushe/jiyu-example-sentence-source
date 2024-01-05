@@ -1,5 +1,7 @@
 # 工匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjiang.md)
+
 <p><span class="chinese">这里住着一位叫纯陀的工匠。</span><span class="english">There lives an artisan called Cunda.</span></p>
 
 <p><span class="chinese">一个不好的工匠常常埋怨他的工具。</span><span class="english">A bad stayman usually blames his tools.</span></p>

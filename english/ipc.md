@@ -1,5 +1,7 @@
 # ipc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipc.md)
+
 <p><span class="chinese">感谢您购买此IPC培训教材。</span><span class="english">Thank you for purchasing this IPC training program.</span></p>
 
 <p><span class="chinese">有关安排我们已在IPC网站上发了通知。</span><span class="english">For more information, please check on the IPC website.</span></p>

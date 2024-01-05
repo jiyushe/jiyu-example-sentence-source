@@ -1,5 +1,7 @@
 # 态势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taishi.md)
+
 <p><span class="chinese">亚洲的邮轮行业正呈上升态势。</span><span class="english">In Asia, cruising is on the rise.</span></p>
 
 <p><span class="chinese">然而，趋势却几乎呈直线上升态势。</span><span class="english">Yet the trend is almost a straight line up.</span></p>

@@ -1,5 +1,7 @@
 # aromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aromatic.md)
+
 <p><span class="chinese">广西芳香植物极为丰富。</span><span class="english">Guangxi is rich in aromatic plants.</span></p>
 
 <p><span class="chinese">香料烟是一种芳香型烟叶。</span><span class="english">Oriental tobacco is an aromatic leaf.</span></p>

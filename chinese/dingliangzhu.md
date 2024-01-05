@@ -1,5 +1,7 @@
 # 顶梁柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingliangzhu.md)
+
 <p><span class="chinese">他是他们家的顶梁柱。</span><span class="english">He was the breadwinner of his family.</span></p>
 
 <p><span class="chinese">他们是这个厂的顶梁柱。</span><span class="english">They are the backbone of the factory.</span></p>

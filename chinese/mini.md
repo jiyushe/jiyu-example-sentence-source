@@ -1,5 +1,7 @@
 # 迷你
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mini.md)
+
 <p><span class="chinese">做一个迷你海报。</span><span class="english">Creat a mini-poster.</span></p>
 
 <p><span class="chinese">我有2迷你金刚鹦鹉。</span><span class="english">I have 2 mini-Macaws.</span></p>

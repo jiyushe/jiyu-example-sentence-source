@@ -1,5 +1,7 @@
 # magus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magus.md)
+
 <p><span class="chinese">她已不再是一个单纯的空气。</span><span class="english">She was no longer a mere Magus.</span></p>
 
 <p><span class="chinese">法师知道他的潜能。</span><span class="english">The Magus knows of his potential.</span></p>

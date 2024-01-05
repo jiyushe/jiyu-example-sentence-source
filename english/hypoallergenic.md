@@ -1,5 +1,7 @@
 # hypoallergenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoallergenic.md)
+
 <p><span class="chinese">凝胶衬里无乳胶和低过敏性。</span><span class="english">Gel Lining is latex-free and hypoallergenic.</span></p>
 
 <p><span class="chinese">另一个原因是，钛低变应原。</span><span class="english">Another reason is that titanium is hypoallergenic.</span></p>

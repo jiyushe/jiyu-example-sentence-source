@@ -1,5 +1,7 @@
 # pluvial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluvial.md)
+
 <p><span class="chinese">她的名字是雨茜。</span><span class="english">Her name is pluvial alizarin red.</span></p>
 
 <p><span class="chinese">雨辰碰了个钉子，发誓一定要搞成功。</span><span class="english">Pluvial celestial bodies touched a nail, pledge must make a success.</span></p>

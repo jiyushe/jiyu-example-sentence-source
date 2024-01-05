@@ -1,5 +1,7 @@
 # 不慌不忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhuangbumang.md)
+
 <p><span class="chinese">欧巴马还是显得不慌不忙。</span><span class="english">Mr Obama seems unruffled.</span></p>
 
 <p><span class="chinese">公主不慌不忙地揭下面纱。</span><span class="english">The princess unveiled unhurriedly.</span></p>

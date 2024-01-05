@@ -1,5 +1,7 @@
 # 混账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunzhang_1.md)
+
 <p><span class="chinese">开着混账空调呢！</span><span class="english">The blasted air-conditioning!</span></p>
 
 <p><span class="chinese">对不起，我说了混账话！</span><span class="english">I am sorry, I said if scoundrel!</span></p>

@@ -1,5 +1,7 @@
 # fennec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fennec.md)
+
 <p><span class="chinese">Fennec还支持插件。</span><span class="english">Fennec will also offer support for plugins.</span></p>
 
 <p><span class="chinese">或许有一天，这种狐狸会成为可供商业流通的宠物主流之一呢！</span><span class="english">Someday, the Fennec Fox may become a mainstream commercially-available pet!</span></p>

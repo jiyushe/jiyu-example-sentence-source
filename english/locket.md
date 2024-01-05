@@ -1,5 +1,7 @@
 # locket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locket.md)
+
 <p><span class="chinese">她戴着银项链儿，坠着个挂盒。</span><span class="english">She wore a locket hanging on a silver chain.</span></p>
 
 <p><span class="chinese">我需要您的帮忙，我太太把项链坠丢了。</span><span class="english">I need help because my wife has lost her locket.</span></p>

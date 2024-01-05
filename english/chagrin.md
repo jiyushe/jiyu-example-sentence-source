@@ -1,5 +1,7 @@
 # chagrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chagrin.md)
+
 <p><span class="chinese">李渊懊恼地说。</span><span class="english">Said Li Yuan chagrin.</span></p>
 
 <p><span class="chinese">出于对其世俗父母的懊恼，她皈依了犹太正统派。</span><span class="english">To the chagrin of her secular parents, she embraced Orthodox Judaism.</span></p>

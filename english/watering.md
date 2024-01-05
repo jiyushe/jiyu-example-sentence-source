@@ -1,5 +1,7 @@
 # watering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watering.md)
+
 <p><span class="chinese">他正在饮马。像好像在下雪。</span><span class="english">He is watering the horses.</span></p>
 
 <p><span class="chinese">这花儿缺水。</span><span class="english">The flowers need watering.</span></p>

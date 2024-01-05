@@ -1,5 +1,7 @@
 # 上轨道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangguidao.md)
+
 <p><span class="chinese">现在事情上轨道了。</span><span class="english">Things are straight now.</span></p>
 
 <p><span class="chinese">一切都已上轨道了。</span><span class="english">Everything is in good order now.</span></p>

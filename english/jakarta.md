@@ -1,5 +1,7 @@
 # jakarta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jakarta.md)
+
 <p><span class="chinese">而雅加达则从2001年的第77位，上升到了目前的第35位。</span><span class="english">Jakarta moves up 35 spots from 2001 to 77th.</span></p>
 
 <p><span class="chinese">VOA新闻的南希-艾米利亚-柯林斯从雅加达报道。</span><span class="english">VOA's Nancy-Amelia Collins in Jakarta has more.</span></p>

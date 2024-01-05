@@ -1,5 +1,7 @@
 # grandstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandstand.md)
+
 <p><span class="chinese">这边是我们的主看台。</span><span class="english">This side is our grandstand.</span></p>
 
 <p><span class="chinese">咱们的座位在正面看台。</span><span class="english">Our seats are in the grandstand.</span></p>

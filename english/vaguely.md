@@ -1,5 +1,7 @@
 # vaguely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaguely.md)
+
 <p><span class="chinese">我听到了他说的话，但只是模模糊糊的。</span><span class="english">I heard him, but only vaguely.</span></p>
 
 <p><span class="chinese">我依稀记得他们的房子。</span><span class="english">I vaguely remember their house.</span></p>

@@ -1,5 +1,7 @@
 # hub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hub.md)
+
 <p><span class="chinese">刹车毂加工。</span><span class="english">Machining of brake hub.</span></p>
 
 <p><span class="chinese">西朗综合枢纽区。</span><span class="english">Serang integrated hub area.</span></p>

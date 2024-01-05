@@ -1,5 +1,7 @@
 # shuffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shuffle.md)
+
 <p><span class="chinese">洗牌和切牌。</span><span class="english">The Shuffle and Cut.</span></p>
 
 <p><span class="chinese">要享受曳步舞，它就是娱乐。</span><span class="english">Just have fun with the shuffle.</span></p>

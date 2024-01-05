@@ -1,5 +1,7 @@
 # astrocytoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrocytoma.md)
+
 <p><span class="chinese">所有标本均经病理证实为星形细胞瘤。</span><span class="english">All specimens are confirmed astrocytoma through pathology.</span></p>
 
 <p><span class="chinese">目的探讨弥漫型星形细胞瘤的MR影像特点。</span><span class="english">Objective To investigate the MR imaging features of diffuse astrocytoma.</span></p>

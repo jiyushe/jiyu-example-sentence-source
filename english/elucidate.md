@@ -1,5 +1,7 @@
 # elucidate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elucidate.md)
+
 <p><span class="chinese">他并澄清一个进程的途径，流化。</span><span class="english">He did elucidate one process pathway—fluidization.</span></p>
 
 <p><span class="chinese">该路径还可以说明语言是如何进化的。</span><span class="english">The pathway could also elucidate how language evolved.</span></p>

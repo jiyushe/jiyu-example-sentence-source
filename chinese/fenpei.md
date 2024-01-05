@@ -1,5 +1,7 @@
 # 分配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenpei.md)
+
 <p><span class="chinese">电影中角色分配不当。</span><span class="english">The film is miscast.</span></p>
 
 <p><span class="chinese">CEO的职责是分配资源。</span><span class="english">CEOs allocate resources.</span></p>

@@ -1,5 +1,7 @@
 # esb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esb.md)
+
 <p><span class="chinese">那么，在ESB中是如何处理编配需求的呢？</span><span class="english">So how are orchestration needs addressed in an ESB?</span></p>
 
 <p><span class="chinese">微软为BizTalk客户提供了强大的ESB核心功能。</span><span class="english">Microsoft offers strong core ESB functions for BizTalk customers.</span></p>

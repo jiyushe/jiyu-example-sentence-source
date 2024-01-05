@@ -1,5 +1,7 @@
 # 轮机长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunjizhang.md)
+
 <p><span class="chinese">你能带我去见轮机长吗？</span><span class="english">Will you take me to the Chief Engineer ?</span></p>
 
 <p><span class="chinese">通知轮机长准备进锚地。</span><span class="english">Inform Chief Engineer of entering anchorage.</span></p>

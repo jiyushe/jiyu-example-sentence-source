@@ -1,5 +1,7 @@
 # kingpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingpin.md)
+
 <p><span class="chinese">“中央木柱”是第一个球柱。</span><span class="english">The kingpin is the number one pin.</span></p>
 
 <p><span class="chinese">墨西哥大毒枭在与海军交火中被打死。</span><span class="english">Mexican navy kills top cartel kingpin in shootout.</span></p>

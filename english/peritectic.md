@@ -1,5 +1,7 @@
 # peritectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peritectic.md)
+
 <p><span class="chinese">准晶相由包晶反应生成。</span><span class="english">The peritectic reaction occurs in the icosahedral quasicrystal formation.</span></p>
 
 <p><span class="chinese">冷镦钢SWRCH15A是近年武钢开发的包晶系列钢新钢种。</span><span class="english">Cold heading steel SWRCH15A is a peritectic steel developed by WISCO in recent years.</span></p>

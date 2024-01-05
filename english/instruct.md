@@ -1,5 +1,7 @@
 # instruct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instruct.md)
+
 <p><span class="chinese">这些画的底子目标是给人娱悦和教诲。</span><span class="english">Their basic aim is to delight and instruct.</span></p>
 
 <p><span class="chinese">教眼睛纯然一色，莫迷茫。</span><span class="english">Instruct thine eyes to keep their colours true.</span></p>

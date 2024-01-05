@@ -1,5 +1,7 @@
 # adoration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adoration.md)
+
 <p><span class="chinese">我是全心爱慕著她。</span><span class="english">All my soul's adoration.</span></p>
 
 <p><span class="chinese">他值得你崇拜。</span><span class="english">He is worthy of your adoration.</span></p>

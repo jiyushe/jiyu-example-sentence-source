@@ -1,5 +1,7 @@
 # gpl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gpl.md)
+
 <p><span class="chinese">第1版的GPL就是为防止这两种手段而设计的.</span><span class="english">GPL version 1 was designed to prevent those two methods.</span></p>
 
 <p><span class="chinese">于是我们设计了第3版的GPL以阻止这两类对我们的自由的侵袭.</span><span class="english">We designed GPL version 3 to block these two attacks on our freedom.</span></p>

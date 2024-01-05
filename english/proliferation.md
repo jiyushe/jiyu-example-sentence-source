@@ -1,5 +1,7 @@
 # proliferation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proliferation.md)
+
 <p><span class="chinese">他们总是在谈扩散。</span><span class="english">They always talk about proliferation.</span></p>
 
 <p><span class="chinese">你知道扩散是什么意思吗？</span><span class="english">You know the meaning of proliferation?</span></p>

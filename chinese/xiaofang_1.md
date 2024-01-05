@@ -1,5 +1,7 @@
 # 效仿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofang_1.md)
+
 <p><span class="chinese">不久，英国也开始效仿。</span><span class="english">Before long, the U.K. copied it.</span></p>
 
 <p><span class="chinese">他经常效仿他的爸爸。</span><span class="english">He always pattens himself after his father.</span></p>

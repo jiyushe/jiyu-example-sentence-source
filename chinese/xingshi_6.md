@@ -1,5 +1,7 @@
 # 行事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_6.md)
+
 <p><span class="chinese">他嘱咐要谨慎行事。</span><span class="english">He enjoined caution.</span></p>
 
 <p><span class="chinese">我会照你的建议行事。</span><span class="english">I'll do as you advise.</span></p>

@@ -1,5 +1,7 @@
 # booby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booby.md)
+
 <p><span class="chinese">栖在树枝上的红脚鲣鸟</span><span class="english">Red-Footed Booby on a Tree Branch</span></p>
 
 <p><span class="chinese">您可以放置一个诡雷在泰矿柱上。</span><span class="english">You can plant a Booby Trap on a Tiberium Spike.</span></p>

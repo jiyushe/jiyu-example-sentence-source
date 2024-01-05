@@ -1,5 +1,7 @@
 # 饱和点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baohedian.md)
+
 <p><span class="chinese">博客看起来也开始达到饱和点。</span><span class="english">Blogging also has reached a saturation point, it appears.</span></p>
 
 <p><span class="chinese">你认为阿联酋市场接近饱和点？</span><span class="english">Do you think the UAE market is close to saturation point?</span></p>

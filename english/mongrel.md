@@ -1,5 +1,7 @@
 # mongrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mongrel.md)
+
 <p><span class="chinese">那只小杂种狗满足了那孩子想要只狗的欲望。</span><span class="english">The little mongrel satisfied the boy's desire for a dog.</span></p>
 
 <p><span class="chinese">一条笨狗无目的地在运河岸上闲逛。</span><span class="english">A mongrel dog is prowling aimlessly along the canal bank.</span></p>

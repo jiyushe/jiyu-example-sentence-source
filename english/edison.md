@@ -1,5 +1,7 @@
 # edison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edison.md)
+
 <p><span class="chinese">上帝真的爱冠希。</span><span class="english">God truly loves Edison.</span></p>
 
 <p><span class="chinese">您喜欢爱迪生·陈？</span><span class="english">Do you like Edison Chen?</span></p>

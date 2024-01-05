@@ -1,5 +1,7 @@
 # zine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zine.md)
+
 <p><span class="chinese">锌元素就是其中之一。</span><span class="english">Zine is one of them.</span></p>
 
 <p><span class="chinese">“穆巴拉克不齐纳阿比丁本阿里，”他说。</span><span class="english">"Mubarak is not Zine el Abidine Ben Ali, " he says.</span></p>

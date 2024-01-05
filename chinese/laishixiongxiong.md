@@ -1,5 +1,7 @@
 # 来势汹汹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laishixiongxiong.md)
+
 <p><span class="chinese">南非高原的天空正在形成来势汹汹的暴风云。</span><span class="english">An intense storm cloud forms over South Africa's Highveld.</span></p>
 
 <p><span class="chinese">开创菲亚特新纪元，脱胎换骨，来势汹汹，超级雷马1000。</span><span class="english">Create a new era , the fiat shadowfax, comes viciously , super ray horse 1000.</span></p>

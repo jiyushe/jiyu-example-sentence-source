@@ -1,5 +1,7 @@
 # generalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generalize.md)
+
 <p><span class="chinese">但是这是一个非常不错的算法。</span><span class="english">Let me generalize this slightly.</span></p>
 
 <p><span class="chinese">我不想高度概括此事。</span><span class="english">So I don’t want to overly generalize it.</span></p>

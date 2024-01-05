@@ -1,5 +1,7 @@
 # 白熊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baixiong.md)
+
 <p><span class="chinese">白熊已经说了有差事。</span><span class="english">Ice bear already mentioned errands.</span></p>
 
 <p><span class="chinese">“这头白熊太软弱了，”他说，“有时我碰到这种事时，我会保护它们。</span><span class="english">Sometimes that gets to me. I'm protective.</span></p>

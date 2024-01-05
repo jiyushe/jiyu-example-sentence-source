@@ -1,5 +1,7 @@
 # 一星半点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixingbandian.md)
+
 <p><span class="chinese">事实是，你们对我们没有一星半点的了解。</span><span class="english">The truth is, as you see, you know nothing about us.</span></p>
 
 <p><span class="chinese">你顺带还会学到一星半点函数式编程的知识。</span><span class="english">You may also learn a thing or two about functional programming.</span></p>

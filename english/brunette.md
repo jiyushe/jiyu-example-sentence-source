@@ -1,5 +1,7 @@
 # brunette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brunette.md)
+
 <p><span class="chinese">上帝保佑黑发尤物。</span><span class="english">God bless the brunette.</span></p>
 
 <p><span class="chinese">金发，黑发还是红发？</span><span class="english">Blonde, brunette or red-head?</span></p>

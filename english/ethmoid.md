@@ -1,5 +1,7 @@
 # ethmoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethmoid.md)
+
 <p><span class="chinese">结果脑脊液漏14例位于筛窦，2例位于蝶窦。</span><span class="english">Results Cerebrospinal rhinorrhea 14 from ethmoid sinus, 2 from sphenoid sinus.</span></p>
 
 <p><span class="chinese">探讨筛窦顶壁高度及形态影像解剖学特征。</span><span class="english">To discuss the image anatomy characters in the height and contour of the ethmoid roof.</span></p>

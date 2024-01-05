@@ -1,5 +1,7 @@
 # origination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/origination.md)
+
 <p><span class="chinese">什么是全息母版的起源我们可以做什么呢？</span><span class="english">What's Holography Master Origination We Can Make?</span></p>
 
 <p><span class="chinese">决定最适合你自己的起源理论。</span><span class="english">Decide for yourself which origination theory best suits you.</span></p>

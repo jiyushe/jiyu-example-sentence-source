@@ -1,5 +1,7 @@
 # 脚跟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaogen.md)
+
 <p><span class="chinese">照马司模所言，那就是“我们要在这里站稳脚跟”。</span><span class="english">We are here to stay.</span></p>
 
 <p><span class="chinese">伤过。我两个脚跟都摔断过。</span><span class="english">Yeah. I've broken both my heels.</span></p>

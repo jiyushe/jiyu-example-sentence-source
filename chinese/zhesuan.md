@@ -1,5 +1,7 @@
 # 折算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhesuan.md)
+
 <p><span class="chinese">接着他们又对波动性进行了折算。</span><span class="english">They then discounted the results for volatility.</span></p>
 
 <p><span class="chinese">复合肥按其所含主要成分折算。</span><span class="english">Compound fertilizer is converted with its major component.</span></p>

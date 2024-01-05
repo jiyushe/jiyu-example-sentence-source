@@ -1,5 +1,7 @@
 # 通畅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchang_1.md)
+
 <p><span class="chinese">咽鼓管的通畅被损害。</span><span class="english">The patency of the eustachian tube is compromised.</span></p>
 
 <p><span class="chinese">这些卫星保证了多国部队的通讯通畅无阻。</span><span class="english">They supported the communics of the Allied Forces.</span></p>

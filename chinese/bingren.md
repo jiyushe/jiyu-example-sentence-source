@@ -1,5 +1,7 @@
 # 兵刃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingren.md)
+
 <p><span class="chinese">接着人们便听到大门那边兵刃相交的声音。</span><span class="english">And then there came, from the gates, the clash of arms.</span></p>
 
 <p><span class="chinese">这些轻枪骑兵身穿皮甲，装备骑枪和单手短兵刃。</span><span class="english">Lightly armoured in leather and equipped with a hand weapon and a lance.</span></p>

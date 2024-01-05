@@ -1,5 +1,7 @@
 # kona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kona.md)
+
 <p><span class="chinese">Kona咖啡豆在夏威夷生长。</span><span class="english">Kona types of coffee beans are grown in Hawaii.</span></p>
 
 <p><span class="chinese">科纳咖啡还有着很多不同于其它类型咖啡的特征。</span><span class="english">There are many things that set Kona Coffee apart from other coffees.</span></p>

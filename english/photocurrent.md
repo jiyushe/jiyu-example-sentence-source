@@ -1,5 +1,7 @@
 # photocurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocurrent.md)
+
 <p><span class="chinese">讨论了用于微区光电流谱的探测物理模型。</span><span class="english">Then a detection physical model for the photocurrent spectra of the.</span></p>
 
 <p><span class="chinese">但是，在较低的外电压下实验测定的光电流结果却很相似。</span><span class="english">However, the measured photocurrent results are similar at low applied voltages.</span></p>

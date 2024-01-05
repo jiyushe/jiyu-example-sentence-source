@@ -1,5 +1,7 @@
 # 牲畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchu.md)
+
 <p><span class="chinese">他把牲畜归拢到一块。</span><span class="english">He gathered the animals together.</span></p>
 
 <p><span class="chinese">就因为这个原因宰了不少牲畜。</span><span class="english">For these many cattle were killed.</span></p>

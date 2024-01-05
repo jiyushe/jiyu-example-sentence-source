@@ -1,5 +1,7 @@
 # 海洋学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyangxue.md)
+
 <p><span class="chinese">有一次海洋学家跟踪一些波浪。</span><span class="english">Oceanographers once tracked waves.</span></p>
 
 <p><span class="chinese">她是个如何伟大的海洋学家。</span><span class="english">How she was this great oceanographer.</span></p>

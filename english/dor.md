@@ -1,5 +1,7 @@
 # dor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dor.md)
+
 <p><span class="chinese">或者找到它们赖以为生的昆虫。</span><span class="english">Dor locate flying insects on which they feed.</span></p>
 
 <p><span class="chinese">绳子对胜利的制绳者来说是真正的财产。</span><span class="english">The rope is proper property to the prospering rope dor.</span></p>

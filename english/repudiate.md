@@ -1,5 +1,7 @@
 # repudiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repudiate.md)
+
 <p><span class="chinese">他利用自己的职位来否认指控。</span><span class="english">He used his position to repudiate the charge.</span></p>
 
 <p><span class="chinese">但革命者并未对传统文化全盘否定。</span><span class="english">But they did not completely repudiate the traditional culture.</span></p>

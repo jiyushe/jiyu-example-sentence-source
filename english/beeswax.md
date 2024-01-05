@@ -1,5 +1,7 @@
 # beeswax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beeswax.md)
+
 <p><span class="chinese">不关你事。</span><span class="english">None of your beeswax.</span></p>
 
 <p><span class="chinese">蜂蜡生日蜡烛？</span><span class="english">Beeswax birthday candles?</span></p>

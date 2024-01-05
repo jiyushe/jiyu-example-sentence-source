@@ -1,5 +1,7 @@
 # 陶俑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyong_1.md)
+
 <p><span class="chinese">陶俑模型还是真正的航海船只？</span><span class="english">Terracotta models or real sea faring ones ?</span></p>
 
 <p><span class="chinese">陶俑形象逼真，与原物一样大小。</span><span class="english">The terracotta figures are life-like and life-sized.</span></p>

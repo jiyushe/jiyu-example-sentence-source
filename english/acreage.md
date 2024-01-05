@@ -1,5 +1,7 @@
 # acreage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acreage.md)
+
 <p><span class="chinese">玉米的种植面积居于首位。</span><span class="english">Corn acreage pushed into first place.</span></p>
 
 <p><span class="chinese">一个叫阿莱克特朗的人,有多少英亩的地产</span><span class="english">What is the acreage of the estate of a man called Alektruon?</span></p>

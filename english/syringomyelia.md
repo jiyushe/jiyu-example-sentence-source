@@ -1,5 +1,7 @@
 # syringomyelia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syringomyelia.md)
+
 <p><span class="chinese">目的探讨实验性脊髓空洞症发病机制。</span><span class="english">Objective To investigate the etiology of experimental syringomyelia.</span></p>
 
 <p><span class="chinese">疼痛是最常见的症状与脊髓空洞症。</span><span class="english">Pain is the most commonly reported symptom associated with syringomyelia.</span></p>

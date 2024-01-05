@@ -1,5 +1,7 @@
 # snuffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snuffle.md)
+
 <p><span class="chinese">怎样有效的治疗鼻塞？</span><span class="english">How effective cure n&v snuffle?</span></p>
 
 <p><span class="chinese">说着说着，汤姆开始有点抽鼻子了。</span><span class="english">And Tom began to snuffle a little.</span></p>

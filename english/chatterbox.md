@@ -1,5 +1,7 @@
 # chatterbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chatterbox.md)
+
 <p><span class="chinese">他的绰号是“唠叨的人。</span><span class="english">His nickname is "chatterbox."</span></p>
 
 <p><span class="chinese">上学那会儿，我是个话痨。</span><span class="english">I was a chatterbox at school.</span></p>

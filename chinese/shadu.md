@@ -1,5 +1,7 @@
 # 杀毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shadu.md)
+
 <p><span class="chinese">我最长的飞行记录是3.6个小时，网秦手机杀毒免费版。</span><span class="english">My longest flight was 3.6 hours.</span></p>
 
 <p><span class="chinese">升级你的病毒库并扫描杀毒</span><span class="english">Update and scan your computer for viruses</span></p>

@@ -1,5 +1,7 @@
 # draughty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draughty.md)
+
 <p><span class="chinese">这是一栋通风的房屋。</span><span class="english">This is a draughty house.</span></p>
 
 <p><span class="chinese">我们应该保持房间通风。</span><span class="english">We should keep the room draughty.</span></p>

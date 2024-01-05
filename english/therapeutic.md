@@ -1,5 +1,7 @@
 # therapeutic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therapeutic.md)
+
 <p><span class="chinese">这就是它能够疗伤的原因。</span><span class="english">That's why it could be therapeutic.</span></p>
 
 <p><span class="chinese">气味好闻，也有医治作用！</span><span class="english">Smells great and it's therapeutic too!</span></p>

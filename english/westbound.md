@@ -1,5 +1,7 @@
 # westbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westbound.md)
+
 <p><span class="chinese">现在它向西去了。</span><span class="english">It's heading westbound now.</span></p>
 
 <p><span class="chinese">他决定沿着向西行的路走。</span><span class="english">He decided he'd follow the westbound road.</span></p>

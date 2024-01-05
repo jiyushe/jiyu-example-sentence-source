@@ -1,5 +1,7 @@
 # transfection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfection.md)
+
 <p><span class="chinese">以空质粒转染组为对照。</span><span class="english">Null vector transfection as the control.</span></p>
 
 <p><span class="chinese">基因脉冲导入技术应用前景十分广泛。</span><span class="english">The application prospect of Gene pulser transfection is very extensive.</span></p>

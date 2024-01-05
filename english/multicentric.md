@@ -1,5 +1,7 @@
 # multicentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicentric.md)
+
 <p><span class="chinese">方法多中心随机平行对照临床试验。</span><span class="english">Method The clinical test of multicentric random parallel control was used.</span></p>
 
 <p><span class="chinese">多中心CD多于一个区域淋巴结肿大。</span><span class="english">People with multicentric CD have more than one area of enlarged lymph nodes.</span></p>

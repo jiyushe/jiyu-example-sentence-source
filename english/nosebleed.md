@@ -1,5 +1,7 @@
 # nosebleed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosebleed.md)
+
 <p><span class="chinese">你流鼻血吗？</span><span class="english">Do you have nosebleed?</span></p>
 
 <p><span class="chinese">经常的流鼻血是为什么啊？</span><span class="english">Often is shedding nosebleed why ah?</span></p>

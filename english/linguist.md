@@ -1,5 +1,7 @@
 # linguist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linguist.md)
+
 <p><span class="chinese">如果我是语言学家？</span><span class="english">I'm a linguist and so what do I do?</span></p>
 
 <p><span class="chinese">这项研究由语言学家吉尔莫福德领军。</span><span class="english">Linguist Jill Morford led the study.</span></p>

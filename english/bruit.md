@@ -1,5 +1,7 @@
 # bruit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bruit.md)
+
 <p><span class="chinese">公司代表的工作就是向国外宣传公司的产品。</span><span class="english">The representative's job is to bruit the company's products abroad.</span></p>
 
 <p><span class="chinese">杂音通常由听诊器探测到，提示动脉阻塞。</span><span class="english">A bruit is usually detected with a stethoscope and is an indicator of arterial blockage.</span></p>

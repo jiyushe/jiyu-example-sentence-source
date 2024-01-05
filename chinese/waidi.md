@@ -1,5 +1,7 @@
 # 外地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidi.md)
+
 <p><span class="chinese">安丘人在外地的有多少啊？</span><span class="english">Also in foreign Anqiu person?</span></p>
 
 <p><span class="chinese">输入您的十六进位ESN在输入外地。</span><span class="english">Enter your hex ESN in the Input field.</span></p>

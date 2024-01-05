@@ -1,5 +1,7 @@
 # electrophoretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrophoretic.md)
+
 <p><span class="chinese">该文介绍了一种自制的细胞电泳电子计时装里。</span><span class="english">An electronic apparatus for measuring cell electrophoretic migration time is described.</span></p>
 
 <p><span class="chinese">介绍了镁合金表面合金化及电泳涂装工艺流程。</span><span class="english">The process flows of magnesium alloy surface alloying and electrophoretic coating were introduced.</span></p>

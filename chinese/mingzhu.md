@@ -1,5 +1,7 @@
 # 名著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhu.md)
+
 <p><span class="chinese">我还用它看文学名著。</span><span class="english">I also use it as literature.</span></p>
 
 <p><span class="chinese">你喜欢读经典名著，还是畅销小说？</span><span class="english">Do you want to read the classics?</span></p>

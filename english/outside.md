@@ -1,5 +1,7 @@
 # outside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outside.md)
+
 <p><span class="chinese">把这丢到外面去。</span><span class="english">Throw that outside.</span></p>
 
 <p><span class="chinese">门口来了一位求婚者。</span><span class="english">A suitor is outside.</span></p>

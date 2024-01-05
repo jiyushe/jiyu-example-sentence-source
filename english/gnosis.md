@@ -1,5 +1,7 @@
 # gnosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnosis.md)
+
 <p><span class="chinese">他暗示灵知仅仅是惯常知识的另一种形式。</span><span class="english">He suggests that gnosis is just another form of ordinary knowledge.</span></p>
 
 <p><span class="chinese">法师可以同时持有的已准备法术数量等于他的灵知。</span><span class="english">A mage can hold a number of prepared spells simultaneously equal to his Gnosis.</span></p>

@@ -1,5 +1,7 @@
 # trehalose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trehalose.md)
+
 <p><span class="chinese">发菜中有含量较高的海藻糖、蔗糖。</span><span class="english">Nostoc flagelliforme contains trehalose and sucrose.</span></p>
 
 <p><span class="chinese">目的研究从面包酵母中提取海藻糖。</span><span class="english">Objective To study the extraction of trehalose from bread yeast.</span></p>

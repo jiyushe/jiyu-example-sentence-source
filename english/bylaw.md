@@ -1,5 +1,7 @@
 # bylaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bylaw.md)
+
 <p><span class="chinese">本系对此一课程另有施行细则规范。</span><span class="english">In addition, the details of this course are enacted in a bylaw.</span></p>
 
 <p><span class="chinese">一些一般的意见和资料非营利附法律形式确定下来。</span><span class="english">Some general advice and information on a non-profit bylaw legal form.</span></p>

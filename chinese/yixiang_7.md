@@ -1,5 +1,7 @@
 # 遗像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiang_7.md)
+
 <p><span class="chinese">裹尸布的耶稣遗像伪造者必定是个异教徒。</span><span class="english">The faker of the shroud had to be a heretic.</span></p>
 
 <p><span class="chinese">然而，耶稣遗像本身还没有做碳年代测定。</span><span class="english">However, the image itself has not been carbon dated.</span></p>

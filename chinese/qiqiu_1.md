@@ -1,5 +1,7 @@
 # 祈求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiu_1.md)
+
 <p><span class="chinese">祈求在那天重遇。</span><span class="english">Pray for that day reunited.</span></p>
 
 <p><span class="chinese">我们虔心祈求好天气。</span><span class="english">We're praying for a fine day.</span></p>

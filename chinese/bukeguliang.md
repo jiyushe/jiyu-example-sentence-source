@@ -1,5 +1,7 @@
 # 不可估量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeguliang.md)
+
 <p><span class="chinese">而它所产生的影响也是不可估量的。</span><span class="english">Its influence has been immeasurable.</span></p>
 
 <p><span class="chinese">对于平民，这项研究成果更是具有不可估量的作用。</span><span class="english">For civilians, the impact would incalculable.</span></p>

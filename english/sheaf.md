@@ -1,5 +1,7 @@
 # sheaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheaf.md)
+
 <p><span class="chinese">我甚至可以毫不畏惧地打开那一叠账单了。</span><span class="english">I could even examine the sheaf of bills without cringing.</span></p>
 
 <p><span class="chinese">他举起了他面前文件中的一叠纸。</span><span class="english">He lifts a sheaf of papers from the folder in front of him.</span></p>

@@ -1,5 +1,7 @@
 # digitally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digitally.md)
+
 <p><span class="chinese">数码梵高星空图，巴黎，法国。</span><span class="english">Digitally changed Van Gogh, Paris, France.</span></p>
 
 <p><span class="chinese">电脑程序也可以用数字手段将人的面孔平均化。</span><span class="english">A computer program can also digitally average human faces.</span></p>

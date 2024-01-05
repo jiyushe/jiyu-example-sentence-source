@@ -1,5 +1,7 @@
 # coercing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coercing.md)
+
 <p><span class="chinese">将数组还原为标准列表损失了很大的速度优势。</span><span class="english">Coercing back to a standard list loses a lot of that gain.</span></p>
 
 <p><span class="chinese">如何控制一个日期时间对象是无强迫一个字符？</span><span class="english">Controlling how a date-time object is printed without coercing to a character?</span></p>

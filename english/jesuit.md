@@ -1,5 +1,7 @@
 # jesuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jesuit.md)
+
 <p><span class="chinese">1778年，一位耶稣会士的牧师写了第一本湖区旅行指南。</span><span class="english">Jesuit priest wrote the first guidebook in 1778.</span></p>
 
 <p><span class="chinese">我是耶稣会男子高中的新生。</span><span class="english">I was a freshman at an all-boys Jesuit high school.</span></p>

@@ -1,5 +1,7 @@
 # 寄人篱下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jirenlixia.md)
+
 <p><span class="chinese">小黑羊过着寄人篱下的日子，经常伤心落泪。</span><span class="english">Small Hei Yang lives ovine life, often sad weep.</span></p>
 
 <p><span class="chinese">你们知道，寄人篱下的生活是不好受的。</span><span class="english">You know the bitter taste of living under somebody else's thumb.</span></p>

@@ -1,5 +1,7 @@
 # 外在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizai.md)
+
 <p><span class="chinese">除了外在美，内在美也要重视。</span><span class="english">Work on your inner beauty too.</span></p>
 
 <p><span class="chinese">外在是指信息。</span><span class="english">External refers to information.</span></p>

@@ -1,5 +1,7 @@
 # nitroglycerin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitroglycerin.md)
+
 <p><span class="chinese">我张大了嘴，猛吸了口气说，硝化甘油。</span><span class="english">I breathe with my mouth open and say, nitroglycerin.</span></p>
 
 <p><span class="chinese">硝化甘油使血管膨胀增加了向腱子部位流动的血流量。</span><span class="english">Nitroglycerin dilates blood vessels and increases blood flow to the tendons.</span></p>

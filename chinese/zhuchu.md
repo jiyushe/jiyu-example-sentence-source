@@ -1,5 +1,7 @@
 # 住处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchu.md)
+
 <p><span class="chinese">这里是你们的住处.</span><span class="english">This is your quarters.</span></p>
 
 <p><span class="chinese">往东走找个住处。</span><span class="english">Walk east to find lodgings.</span></p>

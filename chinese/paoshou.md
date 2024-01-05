@@ -1,5 +1,7 @@
 # 抛售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoshou.md)
+
 <p><span class="chinese">许多采用买进并持有策略的投资者抛售该股。</span><span class="english">Many buy-and-hold investors bailed out.</span></p>
 
 <p><span class="chinese">Stiles表示,部分抛售是受技术性因素影响.</span><span class="english">Stiles said some selling was technical.</span></p>

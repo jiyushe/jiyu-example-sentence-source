@@ -1,5 +1,7 @@
 # 出列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulie.md)
+
 <p><span class="chinese">如此继续下去，直到最后一个人出列为止。</span><span class="english">So continue, until the last one out of the line up.</span></p>
 
 <p><span class="chinese">进程必须首先将一条信息出列去获得这个信任。</span><span class="english">Process must first dequeue a message to obtain the credit.</span></p>

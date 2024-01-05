@@ -1,5 +1,7 @@
 # 孤魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhun.md)
+
 <p><span class="chinese">而我就像是一个孤魂野鬼。</span><span class="english">But I likely am a fox soul wild ghost.</span></p>
 
 <p><span class="chinese">我们找到孤魂野鬼一样的人们在废墟?游荡。</span><span class="english">We are the unloved ones. The walking wounded.</span></p>

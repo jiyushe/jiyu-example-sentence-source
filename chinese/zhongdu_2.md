@@ -1,5 +1,7 @@
 # 重读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdu_2.md)
+
 <p><span class="chinese">是时候重读奥威尔了？</span><span class="english">Time to Re-Read Orwell?</span></p>
 
 <p><span class="chinese">为什么“his”不重读呢？</span><span class="english">Why isn’t “his” stressed?</span></p>

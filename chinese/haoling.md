@@ -1,5 +1,7 @@
 # 号令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoling.md)
+
 <p><span class="chinese">罗莉，御姐，女王，听我号令！</span><span class="english">Loli Sister and Queen heed my call!</span></p>
 
 <p><span class="chinese">一项任务以预先号令开始。</span><span class="english">A mission begins with a warning order.</span></p>

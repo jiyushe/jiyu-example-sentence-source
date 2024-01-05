@@ -1,5 +1,7 @@
 # hardy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardy.md)
+
 <p><span class="chinese">哈迪先生实际上是个贪污犯。</span><span class="english">Mr. Hardy was a grafter indeed.</span></p>
 
 <p><span class="chinese">这种植物是耐寒的一年生植物。</span><span class="english">The kind of plant is a hardy annual.</span></p>

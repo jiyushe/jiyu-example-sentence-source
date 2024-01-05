@@ -1,5 +1,7 @@
 # propaganda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propaganda.md)
+
 <p><span class="chinese">这些只是宣传。</span><span class="english">It is propaganda.</span></p>
 
 <p><span class="chinese">那全是宣传。</span><span class="english">That's all propaganda.</span></p>

@@ -1,5 +1,7 @@
 # slog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slog.md)
+
 <p><span class="chinese">现实就是我们正在进入一个漫长的低水平经济增长期。</span><span class="english">The reality is we're in for a lengthy slog of below-trend growth.</span></p>
 
 <p><span class="chinese">在12年幸苦之后他们觉得也该放松了。</span><span class="english">After the slog of the previous12 years they feel they deserve a break.</span></p>

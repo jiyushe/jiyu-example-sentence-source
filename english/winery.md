@@ -1,5 +1,7 @@
 # winery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winery.md)
+
 <p><span class="chinese">可以是酒庄或品牌的名称。</span><span class="english">This can be the winery or the brand name.</span></p>
 
 <p><span class="chinese">这个酒庄有一个管理轮岗项目。</span><span class="english">And the winery had a management rotation program.</span></p>

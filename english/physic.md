@@ -1,5 +1,7 @@
 # physic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physic.md)
+
 <p><span class="chinese">我物理考试又挂了。</span><span class="english">I failed in physic exam.</span></p>
 
 <p><span class="chinese">节制是仙丹妙药。</span><span class="english">Temperance is the Best physic.</span></p>

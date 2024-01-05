@@ -1,5 +1,7 @@
 # pate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pate.md)
+
 <p><span class="chinese">外壳为钢板焊成。</span><span class="english">The shell is welded by steel pate.</span></p>
 
 <p><span class="chinese">校门口贴了一个通知。</span><span class="english">A notice was put up at the school pate.</span></p>

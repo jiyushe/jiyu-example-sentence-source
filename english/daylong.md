@@ -1,5 +1,7 @@
 # daylong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daylong.md)
+
 <p><span class="chinese">灯光整日照射入客厅之中。</span><span class="english">Light pours daylong into the parlor.</span></p>
 
 <p><span class="chinese">在为期一天的会议后，她将飞往耶路撒冷。</span><span class="english">After the daylong conference she was flying to Jerusalem.</span></p>

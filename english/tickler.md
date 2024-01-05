@@ -1,5 +1,7 @@
 # tickler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tickler.md)
+
 <p><span class="chinese">使用“记事本”文件。</span><span class="english">Use "Tickler" files.</span></p>
 
 <p><span class="chinese">挠痒者在绰号"镍币"上刺了个勾号。</span><span class="english">The tickler pricked atick on the nickname Nickel.</span></p>

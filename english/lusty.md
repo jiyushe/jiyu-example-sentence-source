@@ -1,5 +1,7 @@
 # lusty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lusty.md)
+
 <p><span class="chinese">那猎人是个结实健壮的人。</span><span class="english">The hunter was a stout lusty fellow.</span></p>
 
 <p><span class="chinese">在他朝气蓬勃的春天，那清晰的幻想</span><span class="english">He has his lusty Spring,when fancy clear</span></p>

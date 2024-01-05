@@ -1,5 +1,7 @@
 # 解围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiewei_1.md)
+
 <p><span class="chinese">这就需要流程图来解围了。</span><span class="english">This is where flowcharts come to the rescue.</span></p>
 
 <p><span class="chinese">对方角球，佐拉主罚，科尔多巴在远端头取解围。</span><span class="english">Zola takes, Cordoba heads clear at the far post.</span></p>

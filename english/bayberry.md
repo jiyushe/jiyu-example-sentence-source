@@ -1,5 +1,7 @@
 # bayberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bayberry.md)
+
 <p><span class="chinese">杨梅是我的家乡的特殊产品。</span><span class="english">Red bayberry is my hometown's special product.</span></p>
 
 <p><span class="chinese">我的家乡是红月桂果欧元的特殊产品。</span><span class="english">Red bayberry is my hometown's special product.</span></p>

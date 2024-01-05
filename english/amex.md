@@ -1,5 +1,7 @@
 # amex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amex.md)
+
 <p><span class="chinese">他是用美国运通公司的信用卡付账的。</span><span class="english">He pays by apex or with his amex card.</span></p>
 
 <p><span class="chinese">她把美国运通卡递给接待员。</span><span class="english">She gave the desk clerk her AmEx card.</span></p>

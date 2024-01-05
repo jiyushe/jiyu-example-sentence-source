@@ -1,5 +1,7 @@
 # 旅店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvdian.md)
+
 <p><span class="chinese">老兄！你这旅店简直象疯人院。</span><span class="english">Your inn's a mad-house, man.</span></p>
 
 <p><span class="chinese">在这座城市里，他开了一家旅店。</span><span class="english">He kept a hotel in this city.</span></p>

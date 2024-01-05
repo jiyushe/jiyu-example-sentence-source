@@ -1,5 +1,7 @@
 # pat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pat.md)
+
 <p><span class="chinese">帕特做个鬼脸。</span><span class="english">Pat made a face.</span></p>
 
 <p><span class="chinese">帕特没说话。</span><span class="english">Pat said nothing.</span></p>

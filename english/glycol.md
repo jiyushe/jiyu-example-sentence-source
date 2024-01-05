@@ -1,5 +1,7 @@
 # glycol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycol.md)
+
 <p><span class="chinese">氨甲环酸丙二醇，甘油，乳酸等。</span><span class="english">Propylene glycol , Glycerine , Lactic acid and other.</span></p>
 
 <p><span class="chinese">乙二醇迅速地被它氧化，生成草酸和羟基醋酸。</span><span class="english">Glycol is oxidized rapidly by it to oxalic and glycolic acids.</span></p>

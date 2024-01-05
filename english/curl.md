@@ -1,5 +1,7 @@
 # curl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curl.md)
+
 <p><span class="chinese">丽唇的曲度。</span><span class="english">The curl of my lips.</span></p>
 
 <p><span class="chinese">她的头发是天然鬈曲的吗?</span><span class="english">Does her hair curl naturally?</span></p>

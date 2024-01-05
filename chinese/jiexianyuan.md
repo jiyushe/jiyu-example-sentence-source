@@ -1,5 +1,7 @@
 # 接线员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiexianyuan.md)
+
 <p><span class="chinese">一个电话接线员助手?。</span><span class="english">An assistant phone basher?</span></p>
 
 <p><span class="chinese">接线员给詹森打电话。</span><span class="english">Operator makes a call to Janson.</span></p>

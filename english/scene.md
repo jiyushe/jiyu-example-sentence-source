@@ -1,5 +1,7 @@
 # scene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scene.md)
+
 <p><span class="chinese">第三幕第二景</span><span class="english">Act , scene 2</span></p>
 
 <p><span class="chinese">画的是一幕家庭场景</span><span class="english">It's a family scene.</span></p>

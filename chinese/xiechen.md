@@ -1,5 +1,7 @@
 # 谢忱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiechen.md)
+
 <p><span class="chinese">向“小花”致以谢忱。</span><span class="english">Thanks to the Little Flower.</span></p>
 
 <p><span class="chinese">我对他的工作倍感谢忱。</span><span class="english">I am grateful for his service.</span></p>

@@ -1,5 +1,7 @@
 # 风雪交加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxuejiaojia.md)
+
 <p><span class="chinese">特别是在风雪交加的夜晚。</span><span class="english">Especially if it's on the night of a big snowstorm.</span></p>
 
 <p><span class="chinese">去吧！风雪交加的夜晚，乞丐能告诉你一切。</span><span class="english">Go! A snowstorm is raging. night, beggars can tell you everything.</span></p>

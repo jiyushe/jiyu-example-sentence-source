@@ -1,5 +1,7 @@
 # chit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chit.md)
+
 <p><span class="chinese">走上前去简单地交谈几分钟。</span><span class="english">Go up to them and chit chat for a few minutes.</span></p>
 
 <p><span class="chinese">后来，他奉命担任启遂将军麾下二级参谋处长。</span><span class="english">Later, he was ordered to serve again as GSO Grade 2 under Gen Chit Swe.</span></p>

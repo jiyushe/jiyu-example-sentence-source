@@ -1,5 +1,7 @@
 # swelter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swelter.md)
+
 <p><span class="chinese">他经常在酷热下工作。</span><span class="english">He often work in a swelter.</span></p>
 
 <p><span class="chinese">给我点冰水喝，我都热晕过去了。</span><span class="english">Give me some ice water,I'm going to swelter.</span></p>

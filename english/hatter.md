@@ -1,5 +1,7 @@
 # hatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatter.md)
+
 <p><span class="chinese">第一证人是制帽人。</span><span class="english">The first witness was the Hatter.</span></p>
 
 <p><span class="chinese">帽匠悲哀地摇摇头。</span><span class="english">The hatter shook his head mournfully.</span></p>

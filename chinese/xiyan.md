@@ -1,5 +1,7 @@
 # 喜宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyan.md)
+
 <p><span class="chinese">喜宴要按英国的时新方式，在小餐桌上用餐呢。</span><span class="english">It's to be served at small tables, in the new English fashion.</span></p>
 
 <p><span class="chinese">那么你打到举行喜宴的地方去吗？</span><span class="english">So do you beat to go to the place of holding the wedding dinner?</span></p>

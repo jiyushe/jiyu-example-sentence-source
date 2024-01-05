@@ -1,5 +1,7 @@
 # 由衷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhong_1.md)
+
 <p><span class="chinese">我们可以由衷地说。</span><span class="english">We are OK unfeignedly says.</span></p>
 
 <p><span class="chinese">我由衷感谢你的及时帮助。</span><span class="english">I do appreciate your timely help.</span></p>

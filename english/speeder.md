@@ -1,5 +1,7 @@
 # speeder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speeder.md)
+
 <p><span class="chinese">我认为那个违章超速驾驶者免不了要受罚。</span><span class="english">I don't think that speeder will be able to beat this rap.</span></p>
 
 <p><span class="chinese">这种飞行艇配备反单兵爆能枪和一门反装甲主炮。</span><span class="english">The speeder is armed with antipersonnel blasters and a main anti-vehicle gun.</span></p>

@@ -1,5 +1,7 @@
 # 他处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tachu.md)
+
 <p><span class="chinese">藉故请病假往他处工作者。</span><span class="english">Going to other place to work using sick leave.</span></p>
 
 <p><span class="chinese">毕竟，他处在好莱坞电影业大制作的科技环境下。</span><span class="english">After all, he's in a big-budget Hollywood movie.</span></p>

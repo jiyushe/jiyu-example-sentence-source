@@ -1,5 +1,7 @@
 # statesmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statesmen.md)
+
 <p><span class="chinese">我们如何教育一位政治家？</span><span class="english">How do we educate potential statesmen?</span></p>
 
 <p><span class="chinese">那也是伟大政治家的一项美德。</span><span class="english">It is also a virtue of great statesmen.</span></p>

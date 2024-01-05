@@ -1,5 +1,7 @@
 # 寡言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guayan.md)
+
 <p><span class="chinese">基范是一个腼腆寡言的男孩。</span><span class="english">Kibum is a shy and silent boy.</span></p>
 
 <p><span class="chinese">她们自顾闲谈，以为我是一个寡言的人，习以为常。</span><span class="english">They take care of chat, that I am a reticent person, accustomed to.</span></p>

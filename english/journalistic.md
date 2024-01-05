@@ -1,5 +1,7 @@
 # journalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/journalistic.md)
+
 <p><span class="chinese">他是我在新闻界的一位旧交。</span><span class="english">He is an old journalistic acquaintance.</span></p>
 
 <p><span class="chinese">我仍然怀有做一名记者的雄心大志。</span><span class="english">I still had plenty of journalistic ambitions.</span></p>

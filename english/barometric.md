@@ -1,5 +1,7 @@
 # barometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barometric.md)
+
 <p><span class="chinese">气压变化每小时1.5百帕。</span><span class="english">Barometric change 1.5hpa per hour.</span></p>
 
 <p><span class="chinese">气压计变化是每小时1.5毫巴。</span><span class="english">Barometric change 1.5millibars per hour.</span></p>

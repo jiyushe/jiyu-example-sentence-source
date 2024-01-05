@@ -1,5 +1,7 @@
 # moron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moron.md)
+
 <p><span class="chinese">你个白痴。</span><span class="english">You moron.</span></p>
 
 <p><span class="chinese">电脑是个白痴。</span><span class="english">The computer is a moron.</span></p>

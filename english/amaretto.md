@@ -1,5 +1,7 @@
 # amaretto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amaretto.md)
+
 <p><span class="chinese">冰镇岩石杯为载具，分层，卡鲁瓦、阿玛托杏仁酒、及杏仁乳。</span><span class="english">Chill rocks glass start with Kahlua layer Amaretto and Creme de almond.</span></p>
 
 <p><span class="chinese">慢慢加入蛋黄，打匀直至表面光滑，然后加入打入意大利苦杏仁酒和柠檬和柑橘皮。</span><span class="english">Slowly add egg yolks, and beat well until smooth. Beat in Amaretto and zest.</span></p>

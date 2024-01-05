@@ -1,5 +1,7 @@
 # subscript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subscript.md)
+
 <p><span class="chinese">接下来我不再用下标e了。</span><span class="english">I am going to stop putting subscript e.</span></p>
 
 <p><span class="chinese">OYO品牌的中英文脚注。</span><span class="english">OYO brand Chinese and English subscript.</span></p>

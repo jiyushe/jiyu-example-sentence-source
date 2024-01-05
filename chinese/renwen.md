@@ -1,5 +1,7 @@
 # 人文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renwen.md)
+
 <p><span class="chinese">四是人文历史荟萃。</span><span class="english">Fourth, meta-human history.</span></p>
 
 <p><span class="chinese">可视人文规划?。</span><span class="english">VHP? Visible Human Project?</span></p>

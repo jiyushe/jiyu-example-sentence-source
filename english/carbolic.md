@@ -1,5 +1,7 @@
 # carbolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbolic.md)
+
 <p><span class="chinese">它以前叫石碳酸。</span><span class="english">It was known as carbolic acid.</span></p>
 
 <p><span class="chinese">苯酚如果被摄入体内，可能会损坏人体的内脏。</span><span class="english">Carbolic acid can damage internal organs if ingested.</span></p>

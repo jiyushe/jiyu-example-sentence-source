@@ -1,5 +1,7 @@
 # 自惭形秽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zicanxinghui.md)
+
 <p><span class="chinese">我当然自惭形秽了。</span><span class="english">Of course I had a sense of inferiority.</span></p>
 
 <p><span class="chinese">即使说那说那是人让我感到自惭形秽。</span><span class="english">Even that I feel cheap to say that it was people.</span></p>

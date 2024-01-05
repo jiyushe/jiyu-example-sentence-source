@@ -1,5 +1,7 @@
 # incapacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incapacity.md)
+
 <p><span class="chinese">唯有一种人是异常的，即无法去爱的人。</span><span class="english">The only abnormality is the incapacity to love.</span></p>
 
 <p><span class="chinese">谨小慎微是平庸无能者所追求的一位富有而又丑陋的老处女。</span><span class="english">Prudence is a rich, ugly, old maid courted by Incapacity.</span></p>

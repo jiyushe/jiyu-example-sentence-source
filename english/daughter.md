@@ -1,5 +1,7 @@
 # daughter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daughter.md)
+
 <p><span class="chinese">你的女儿。</span><span class="english">Your daughter.</span></p>
 
 <p><span class="chinese">索多玛的女儿！</span><span class="english">daughter of Sodom!</span></p>

@@ -1,5 +1,7 @@
 # wheaten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheaten.md)
+
 <p><span class="chinese">浅小麦色到红小麦色。</span><span class="english">Light wheaten to red wheaten.</span></p>
 
 <p><span class="chinese">黑色、小麦色或许带有其他颜色的斑点。</span><span class="english">Black, wheaten or brindle of any color.</span></p>

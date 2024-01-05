@@ -1,5 +1,7 @@
 # 诸子百家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzibaijia.md)
+
 <p><span class="chinese">了解孔子和诸子百家的主要思想成就。</span><span class="english">Getting to know the main thoughts accomplishment of Confucius and other schools.</span></p>
 
 <p><span class="chinese">这一时期出现了诸子百家“百花齐放”、“百家争鸣”的学术局面，并构成了中华文明的精华和基础。</span><span class="english">However, it was also a splendid period that "let a hundred flowers bloom, a hundred schools of thoughts contend".</span></p>

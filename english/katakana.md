@@ -1,5 +1,7 @@
 # katakana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/katakana.md)
+
 <p><span class="chinese">首先，请学习平假名和片假名。</span><span class="english">First, please study Hiragana and Katakana.</span></p>
 
 <p><span class="chinese">还有就是片假名也很难背啊。</span><span class="english">There is a Katakana is also very difficult to back ah.</span></p>

@@ -1,5 +1,7 @@
 # inextricably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inextricably.md)
+
 <p><span class="chinese">二者的联系是难解难分的。</span><span class="english">The two are inextricably linked.</span></p>
 
 <p><span class="chinese">残心和舍身不可分割的联系在一起。</span><span class="english">Zanshin and sutemi are inextricably linked.</span></p>

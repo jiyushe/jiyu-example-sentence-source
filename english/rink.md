@@ -1,5 +1,7 @@
 # rink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rink.md)
+
 <p><span class="chinese">这里是冰球场。</span><span class="english">This is a hockey rink.</span></p>
 
 <p><span class="chinese">她走着去滑冰场。</span><span class="english">She walks to the ice rink.</span></p>

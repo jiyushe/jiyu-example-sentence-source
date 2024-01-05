@@ -1,5 +1,7 @@
 # rate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rate.md)
+
 <p><span class="chinese">以k2的速率。</span><span class="english">With a rate k2.</span></p>
 
 <p><span class="chinese">所有的速率定律。</span><span class="english">All the rate laws.</span></p>

@@ -1,5 +1,7 @@
 # delineation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delineation.md)
+
 <p><span class="chinese">这些边界的精确划定必须以谈判解决。</span><span class="english">The precise delineation of those borders must be negotiated.</span></p>
 
 <p><span class="chinese">勾划河道的轮廓是地质解译的第一步。</span><span class="english">Delineation of channels is the first step of geologic evaluation.</span></p>

@@ -1,5 +1,7 @@
 # plod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plod.md)
+
 <p><span class="chinese">之后，赶，还要充分休息。</span><span class="english">Plod onward, and get plenty of rest.</span></p>
 
 <p><span class="chinese">你是否在办公室里埋头苦干了一整天呢？</span><span class="english">Do you plod through the day at the office?</span></p>

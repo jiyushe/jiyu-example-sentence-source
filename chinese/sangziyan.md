@@ -1,5 +1,7 @@
 # 嗓子眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangziyan.md)
+
 <p><span class="chinese">他嗓子眼儿里还是阵阵发紧。</span><span class="english">The thickness still came in his throat.</span></p>
 
 <p><span class="chinese">他可能抠嗓子眼儿了！</span><span class="english">Maybe he put his finger down his throat!</span></p>

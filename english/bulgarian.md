@@ -1,5 +1,7 @@
 # bulgarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulgarian.md)
+
 <p><span class="chinese">为何保加利亚玫瑰油这么贵？</span><span class="english">Why is Bulgarian Rose Otto so expensive?</span></p>
 
 <p><span class="chinese">为何保加利亚玫瑰油经常凝固？</span><span class="english">Why does Bulgarian Rose Otto solidify at times?</span></p>

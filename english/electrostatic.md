@@ -1,5 +1,7 @@
 # electrostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrostatic.md)
+
 <p><span class="chinese">导体的静电感应。</span><span class="english">The electrostatic induction of conductor.</span></p>
 
 <p><span class="chinese">它们之间相互吸引是由于静电力作用。</span><span class="english">The attraction is due to electrostatic forces.</span></p>

@@ -1,5 +1,7 @@
 # 秃顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuding_1.md)
+
 <p><span class="chinese">一个秃顶的犹太人亲包法利夫人？</span><span class="english">A bald Jew is kissing Madame Bovary?</span></p>
 
 <p><span class="chinese">秃顶的男人通常会带棒球帽。</span><span class="english">Men who are going bald often wear baseball caps.</span></p>

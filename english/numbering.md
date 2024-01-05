@@ -1,5 +1,7 @@
 # numbering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numbering.md)
+
 <p><span class="chinese">另一个定长制纱线细度度量系统是特克斯系统。</span><span class="english">Another direct yarn numbering system is the tex system.</span></p>
 
 <p><span class="chinese">我发现很编号有关的话题总能激起巨大反响。</span><span class="english">I found Numbering topics are always drive a lot of discussion.</span></p>

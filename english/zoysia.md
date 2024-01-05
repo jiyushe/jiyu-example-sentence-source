@@ -1,5 +1,7 @@
 # zoysia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoysia.md)
+
 <p><span class="chinese">在我国，结缕草不仅是优良的草坪植物，还是良好的固土护坡植物。</span><span class="english">In China, the Zoysia grass plant is not only good in Slope plants.</span></p>
 
 <p><span class="chinese">结缕草的生长行为表现出很强的可塑性和觅养特性。</span><span class="english">The growth behavior of Zoysia japonica showed strong plasticity and foraging trait.</span></p>

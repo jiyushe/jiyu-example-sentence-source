@@ -1,5 +1,7 @@
 # 泛滥成灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanlanchengzai.md)
+
 <p><span class="chinese">不过马奇亚维利的名字着实已泛滥成灾。</span><span class="english">Machiavelli's name is everywhere.</span></p>
 
 <p><span class="chinese">我们这里的蠢货和懒鬼已经泛滥成灾了!</span><span class="english">We're Overrun By Nerds And Slackers!</span></p>

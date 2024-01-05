@@ -1,5 +1,7 @@
 # Kuwaiti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kuwaiti.md)
+
 <p><span class="chinese">科威特空军将非常重视对有关建议加以研究。</span><span class="english">The offer would be studied very seriously by the Kuwaiti Air Force, he added.</span></p>
 
 <p><span class="chinese">中国队大喊着要求改变判定，但是科威特人坚持了立场。</span><span class="english">China loudly appealed the decision but Kuwaiti referee Saad Kameel stood firm.</span></p>

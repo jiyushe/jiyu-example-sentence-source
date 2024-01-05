@@ -1,5 +1,7 @@
 # 暗娼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anchang.md)
+
 <p><span class="chinese">逛暗娼他也想独占，因为他有钱。</span><span class="english">Even in brothels he wanted to monopolize because he had money.</span></p>
 
 <p><span class="chinese">结论考虑到暗娼艾滋病相关危险行为发生率高。</span><span class="english">Conclusions There were high AIDS related risk behavior among CSWs.</span></p>

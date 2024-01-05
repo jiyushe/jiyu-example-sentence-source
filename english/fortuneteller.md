@@ -1,5 +1,7 @@
 # fortuneteller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortuneteller.md)
+
 <p><span class="chinese">你相信算命的人说的话吗？</span><span class="english">Did you believe what the fortuneteller said?</span></p>
 
 <p><span class="chinese">当我出名之后，我看到了另一个算命师。</span><span class="english">After I became famous, I saw another fortuneteller.</span></p>

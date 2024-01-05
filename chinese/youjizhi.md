@@ -1,5 +1,7 @@
 # 有机质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjizhi.md)
+
 <p><span class="chinese">这种有机质渗入了大面积的砂岩。</span><span class="english">These organic impregnate large volumes of sandstone.</span></p>
 
 <p><span class="chinese">其中有机质类型是腐泥-腐殖型。</span><span class="english">The type of organic matter may be the sapropel-humics.</span></p>

@@ -1,5 +1,7 @@
 # dona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dona.md)
+
 <p><span class="chinese">多娜是我的一个朋友。</span><span class="english">Dona is a friend of mine.</span></p>
 
 <p><span class="chinese">唐娜陶醉在她新发现的自由王国里。</span><span class="english">Dona was rejoicing in her new-found freedom.</span></p>

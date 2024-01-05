@@ -1,5 +1,7 @@
 # adaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaxial.md)
+
 <p><span class="chinese">指植物上部或近轴的侧器的表面。</span><span class="english">Designating the upper or adaxial surface of the lateral organs of plants, such as leaves.</span></p>
 
 <p><span class="chinese">在类似于叶子的侧生器官中，远轴面就是内面。</span><span class="english">In lateral organs such as leaves, abaxial is synony-organs with the underside. Compare adaxial.</span></p>

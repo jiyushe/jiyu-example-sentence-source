@@ -1,5 +1,7 @@
 # 默不作声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mobuzuosheng.md)
+
 <p><span class="chinese">珍妮默不作声地开始了她的工作。</span><span class="english">Jennie fell to her task in silence.</span></p>
 
 <p><span class="chinese">她默不作声没理会这句话。</span><span class="english">She passed by the remark in silence.</span></p>

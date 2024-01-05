@@ -1,5 +1,7 @@
 # viii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viii.md)
+
 <p><span class="chinese">享利八世创建了英国国教。</span><span class="english">Henry VIII founded the Church of England.</span></p>
 
 <p><span class="chinese">英王亨利八世有六个妻子。</span><span class="english">King Henry VIII of England had six wives.</span></p>

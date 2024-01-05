@@ -1,5 +1,7 @@
 # 欺负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifu.md)
+
 <p><span class="chinese">不要欺负人。</span><span class="english">No bullying.</span></p>
 
 <p><span class="chinese">再说回欺负新人。</span><span class="english">Go back to hazing.</span></p>

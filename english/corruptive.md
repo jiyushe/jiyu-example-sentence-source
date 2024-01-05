@@ -1,5 +1,7 @@
 # corruptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corruptive.md)
+
 <p><span class="chinese">强调行为自律和职业道德。</span><span class="english">We emphasize in- corruptive behavior and professional moral.</span></p>
 
 <p><span class="chinese">他要竞选巴拉圭总统，改变社会的腐败现象。</span><span class="english">He wants to run for the Presidency of Paraguay and changes the corruptive phenomenon of the society.</span></p>

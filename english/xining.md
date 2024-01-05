@@ -1,5 +1,7 @@
 # xining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xining.md)
+
 <p><span class="chinese">西宁到共和150公里，路很好。</span><span class="english">Road from Xining to Gonghe 150km is good.</span></p>
 
 <p><span class="chinese">鉴定鸡柔嫩艾美耳球虫西宁株。</span><span class="english">The aim was to identify Eimeria tenella Xining strain.</span></p>

@@ -1,5 +1,7 @@
 # slacker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slacker.md)
+
 <p><span class="chinese">你是个懒鬼。</span><span class="english">You're a slacker.</span></p>
 
 <p><span class="chinese">你觉得我是个懒鬼？</span><span class="english">You think I'm a slacker?</span></p>

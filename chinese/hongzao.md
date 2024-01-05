@@ -1,5 +1,7 @@
 # 红枣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongzao.md)
+
 <p><span class="chinese">里面有红枣和枸杞子。</span><span class="english">It has jujube and medlar.</span></p>
 
 <p><span class="chinese">若要皮肤好，粥里放红枣。</span><span class="english">If the skin is good, porridge release dates.</span></p>

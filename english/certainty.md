@@ -1,5 +1,7 @@
 # certainty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certainty.md)
+
 <p><span class="chinese">但这是唯一可确定的事。</span><span class="english">But that is the only certainty.</span></p>
 
 <p><span class="chinese">他说的明白确切。</span><span class="english">He spoke with clearness and certainty.</span></p>

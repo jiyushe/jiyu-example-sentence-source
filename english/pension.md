@@ -1,5 +1,7 @@
 # pension 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pension.md)
+
 <p><span class="chinese">公司赐予他年金。</span><span class="english">The firm granted him a pension.</span></p>
 
 <p><span class="chinese">他靠退休金生活。</span><span class="english">He lives on the retirement pension.</span></p>

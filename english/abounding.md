@@ -1,5 +1,7 @@
 # abounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abounding.md)
+
 <p><span class="chinese">开放的或充满了新鲜的空气。</span><span class="english">Open to or abounding in fresh air.</span></p>
 
 <p><span class="chinese">这里以盛产海盐而得名。</span><span class="english">This place is famous for abounding in sea salt.</span></p>

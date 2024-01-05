@@ -1,5 +1,7 @@
 # tomahawk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomahawk.md)
+
 <p><span class="chinese">白左黑右，白善易，黑狞恶，各手执槊钺。</span><span class="english">White, black BaiShan left right is easy, black Ning evil, each holding up slimming tomahawk.</span></p>
 
 <p><span class="chinese">在新的31级的船体上有12个可以垂直发射战斧巡弋飞弹的管道。</span><span class="english">The last 31 hulls of the class have 12 vertical launch tubes for the Tomahawk cruise missile.</span></p>

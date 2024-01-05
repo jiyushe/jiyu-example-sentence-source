@@ -1,5 +1,7 @@
 # 淘汰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotai.md)
+
 <p><span class="chinese">淘汰一些。</span><span class="english">Eliminate some.</span></p>
 
 <p><span class="chinese">而男人，会被淘汰。</span><span class="english">Men will be obsolete.</span></p>

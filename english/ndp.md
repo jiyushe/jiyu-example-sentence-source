@@ -1,5 +1,7 @@
 # ndp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ndp.md)
+
 <p><span class="chinese">“只是为了你”是今年民族民主党会议的标语。</span><span class="english">"Just for you" is the slogan of this year's NDP conference.</span></p>
 
 <p><span class="chinese">恐惧之外，还有国家民主党长期以来的对手穆斯林兄弟会的得势。</span><span class="english">Adding to the fears is the growing prominence of longtime NDP rival, the Muslim Brotherhood.</span></p>

@@ -1,5 +1,7 @@
 # footing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footing.md)
+
 <p><span class="chinese">你也可以看出我们是处于何等的地位。</span><span class="english">You see on what a footing we are.</span></p>
 
 <p><span class="chinese">我们的经济也有了更好的基础。</span><span class="english">And the economy is on a better footing.</span></p>

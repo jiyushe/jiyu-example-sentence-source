@@ -1,5 +1,7 @@
 # coat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coat.md)
+
 <p><span class="chinese">她的皮草外套。</span><span class="english">Her fur coat.</span></p>
 
 <p><span class="chinese">把你的上衣扣好。</span><span class="english">Do up your coat.</span></p>

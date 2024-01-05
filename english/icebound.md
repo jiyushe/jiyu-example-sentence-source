@@ -1,5 +1,7 @@
 # icebound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icebound.md)
+
 <p><span class="chinese">大约半年是冰封的湖面。</span><span class="english">About half a year the lake is icebound.</span></p>
 
 <p><span class="chinese">沉封的往事，梦想的舞台！</span><span class="english">The icebound bygone , The stage of dream!</span></p>

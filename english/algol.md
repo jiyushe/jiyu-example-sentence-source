@@ -1,5 +1,7 @@
 # algol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algol.md)
+
 <p><span class="chinese">大陵五可能是天空中最著名的变星了。</span><span class="english">Algol is probably the most famous variable star in all the heavens.</span></p>
 
 <p><span class="chinese">早期的天文学家没有方法得知为何大陵五的亮度会发生变化。</span><span class="english">Early stargazers had no way to know why Algol varied in brightness.</span></p>

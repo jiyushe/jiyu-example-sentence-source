@@ -1,5 +1,7 @@
 # 情爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingai.md)
+
 <p><span class="chinese">多些欢笑、情爱和浪漫。</span><span class="english">More laughter and love and romance.</span></p>
 
 <p><span class="chinese">你享受情爱直到灵魂沸腾</span><span class="english">And you make love until your soul brims up</span></p>

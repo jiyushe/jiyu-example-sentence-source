@@ -1,5 +1,7 @@
 # luxuriance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxuriance.md)
+
 <p><span class="chinese">树叶正处于最茂盛的时期。</span><span class="english">The foliage was in its utmost luxuriance.</span></p>
 
 <p><span class="chinese">他讨厌这样肥沃的地方。</span><span class="english">The very luxuriance of the country displeased him.</span></p>

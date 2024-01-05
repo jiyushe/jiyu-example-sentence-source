@@ -1,5 +1,7 @@
 # 卸任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieren.md)
+
 <p><span class="chinese">离我卸任总统之职还有仅仅六个月了。</span><span class="english">I had only six months to go as President.</span></p>
 
 <p><span class="chinese">为什么卸任总统要对人民的支持巧言美语？</span><span class="english">Why the outgoing President's felicitation on the indorsement?</span></p>

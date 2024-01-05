@@ -1,5 +1,7 @@
 # 铣床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchuang_1.md)
+
 <p><span class="chinese">数控铣床上的多刀架。</span><span class="english">Multi-tool holder within a CNC mill.</span></p>
 
 <p><span class="chinese">我们需要一台万能铣床。</span><span class="english">We need a universal milling machine.</span></p>

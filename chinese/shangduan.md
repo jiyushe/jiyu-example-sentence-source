@@ -1,5 +1,7 @@
 # 上端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangduan.md)
+
 <p><span class="chinese">您知道，凯斯，他想在上端再添两把钥匙。</span><span class="english">Keyes, you see. He wants two keys at the top.</span></p>
 
 <p><span class="chinese">那两棵古树的上端分枝相互交搭复生。</span><span class="english">Two old trees overlapped their upper branches.</span></p>

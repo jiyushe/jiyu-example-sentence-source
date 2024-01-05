@@ -1,5 +1,7 @@
 # 万恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wane.md)
+
 <p><span class="chinese">女人是万恶之源。</span><span class="english">Women are the devil's nets.</span></p>
 
 <p><span class="chinese">女人是万恶之源。</span><span class="english">Women nare the devil's nets.</span></p>

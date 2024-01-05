@@ -1,5 +1,7 @@
 # 有零
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youling_2.md)
+
 <p><span class="chinese">现在有零级了。</span><span class="english">There is now a level zero.</span></p>
 
 <p><span class="chinese">世界上不可能有零风险机会。</span><span class="english">It is not possible to have opportunity without risk.</span></p>

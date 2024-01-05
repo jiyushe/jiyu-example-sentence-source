@@ -1,5 +1,7 @@
 # 海鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hainiao.md)
+
 <p><span class="chinese">大多数海鸟都以鱼为食物。</span><span class="english">Many sea birds live on fish.</span></p>
 
 <p><span class="chinese">海鸟正在那儿营窝做巢。</span><span class="english">Sea birds were nesting there.</span></p>

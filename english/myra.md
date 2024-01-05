@@ -1,5 +1,7 @@
 # myra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myra.md)
+
 <p><span class="chinese">当然，迈拉很忙。</span><span class="english">Of course Myra was busy.</span></p>
 
 <p><span class="chinese">米拉奥尔梅达是这里的老师。</span><span class="english">Myra Olmeda is the teacher.</span></p>

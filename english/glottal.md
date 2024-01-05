@@ -1,5 +1,7 @@
 # glottal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glottal.md)
+
 <p><span class="chinese">入声舒化是应县方言发展的主趋势。</span><span class="english">Glottal stop dropping is the main trend in the development of Ying dialect.</span></p>
 
 <p><span class="chinese">随着汉字音的应用，受舌内入声字音的影响日语才产生了促音。</span><span class="english">As the Chinese phonetics went into Japanese, the sound of glottal stop emerged.</span></p>

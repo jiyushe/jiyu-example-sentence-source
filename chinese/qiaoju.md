@@ -1,5 +1,7 @@
 # 侨居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoju.md)
+
 <p><span class="chinese">我们的老师正侨居海外。</span><span class="english">Our teacher is living overseas.</span></p>
 
 <p><span class="chinese">当他们在那地侨居时，寥寥无几而人数极稀。</span><span class="english">When they were few in number, strangers in the land.</span></p>

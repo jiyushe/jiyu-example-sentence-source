@@ -1,5 +1,7 @@
 # 刀片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daopian.md)
+
 <p><span class="chinese">噢！这个是滚轴刀片。</span><span class="english">Oh! This is a roller blade.</span></p>
 
 <p><span class="chinese">线锁锁住了打开的刀片。</span><span class="english">A 'liner lock' locks the blade open.</span></p>

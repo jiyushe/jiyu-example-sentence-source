@@ -1,5 +1,7 @@
 # 分数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshu.md)
+
 <p><span class="chinese">测验分数?。</span><span class="english">Test scores?</span></p>
 
 <p><span class="chinese">所以，所有的分数都会记入在内。</span><span class="english">So, all scores count.</span></p>

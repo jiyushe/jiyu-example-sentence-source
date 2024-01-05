@@ -1,5 +1,7 @@
 # unrighteousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrighteousness.md)
+
 <p><span class="chinese">它们是我们不义行为的控诉者。</span><span class="english">They stand as accusers of our unrighteousness.</span></p>
 
 <p><span class="chinese">这样，我们可说什麽呢？难道神有什麽不公平吗？断乎没有！</span><span class="english">What shall we say then? Is there unrighteousness with God? God forbid.</span></p>

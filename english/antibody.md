@@ -1,5 +1,7 @@
 # antibody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antibody.md)
+
 <p><span class="chinese">天疱疮抗体滴度下降。</span><span class="english">The level of pemphigus antibody decreased.</span></p>
 
 <p><span class="chinese">抗磷脂抗体实验阴性。</span><span class="english">Test for antiphospholipid antibody was negative.</span></p>

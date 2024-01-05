@@ -1,5 +1,7 @@
 # 开花结果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihuajieguo.md)
+
 <p><span class="chinese">我们多年的努力现在终于开花结果了。</span><span class="english">Our years of effort has finally borne fruit now.</span></p>
 
 <p><span class="chinese">人成熟一点，妳的爱情便会开花结果。</span><span class="english">To be mature, then love will be abloom and fruitful.</span></p>

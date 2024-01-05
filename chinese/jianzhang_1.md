@@ -1,5 +1,7 @@
 # 见长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhang_1.md)
+
 <p><span class="chinese">是半场进攻，还是以快攻为主，或者是以防守见长？</span><span class="english">Are they defensive oriented?</span></p>
 
 <p><span class="chinese">该报以详细刊登气象报告见长。</span><span class="english">The paper makes a feature of detailed weather reports.</span></p>

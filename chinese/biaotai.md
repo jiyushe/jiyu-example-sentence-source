@@ -1,5 +1,7 @@
 # 表态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaotai.md)
+
 <p><span class="chinese">汤姆.哈金早就表态支持我了。</span><span class="english">Tom Harkin had endorsed me earlier.</span></p>
 
 <p><span class="chinese">祝贺表态网的成立！</span><span class="english">Congratulations to establishment of ctime!</span></p>

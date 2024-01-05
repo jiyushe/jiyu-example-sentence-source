@@ -1,5 +1,7 @@
 # swing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swing.md)
+
 <p><span class="chinese">荡秋千是我的最爱。</span><span class="english">Swing is my favorite.</span></p>
 
 <p><span class="chinese">甚至可以让它摇摆。</span><span class="english">You can even swing it.</span></p>

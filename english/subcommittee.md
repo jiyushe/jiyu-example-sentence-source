@@ -1,5 +1,7 @@
 # subcommittee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcommittee.md)
+
 <p><span class="chinese">没把握的时候就提议设立专案小组。</span><span class="english">When in doubt, suggest that a subcommittee be appointed.</span></p>
 
 <p><span class="chinese">现在，正如委员会主席汤姆哈金提到的一样，我们已经对它见怪不怪了。</span><span class="english">Now, as subcommittee chairman Tom Harkin noted, we take them for granted.</span></p>

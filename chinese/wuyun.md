@@ -1,5 +1,7 @@
 # 乌云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyun.md)
+
 <p><span class="chinese">乌云预示着要下雪。</span><span class="english">The clouds threaten snow.</span></p>
 
 <p><span class="chinese">乌云意味着要下雨。</span><span class="english">The dark clouds mean rain.</span></p>

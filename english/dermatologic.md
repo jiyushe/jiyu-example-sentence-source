@@ -1,5 +1,7 @@
 # dermatologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatologic.md)
+
 <p><span class="chinese">因此，在皮肤病的诊断中，对皮肤细致的体检是至关重要的。</span><span class="english">Therefore, careful physical examination of the skin is paramount in dermatologic diagnosis.</span></p>
 
 <p><span class="chinese">因此，我们需要一种安全和有效的系统性治疗方法来对付这种皮肤疾病。</span><span class="english">Thus, there is a need for safe and effective systemic therapies to combat this dermatologic condition.</span></p>

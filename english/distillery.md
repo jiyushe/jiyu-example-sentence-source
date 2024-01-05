@@ -1,5 +1,7 @@
 # distillery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distillery.md)
+
 <p><span class="chinese">然后，他拿出了他家私人酒厂的名片。</span><span class="english">Then he took out a business card for his family’s private baijiu distillery.</span></p>
 
 <p><span class="chinese">田树根为了能够拿到钱，也愿意把酒坊给卖掉。</span><span class="english">Tian Shugen in order to get the money, but also willing to sell to the distillery.</span></p>

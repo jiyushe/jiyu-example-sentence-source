@@ -1,5 +1,7 @@
 # cinematographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinematographer.md)
+
 <p><span class="chinese">余力为是知名导演贾樟柯的御用摄影师。</span><span class="english">Yu is the regular cinematographer of leading director Jia Zhang-ke.</span></p>
 
 <p><span class="chinese">像一首叙情的诗，娓娓道来一个新电影工作者的工作常态。</span><span class="english">Like a lyric poem, the film recounts the work and life of a cinematographer.</span></p>

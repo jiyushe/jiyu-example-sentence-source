@@ -1,5 +1,7 @@
 # gnat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnat.md)
+
 <p><span class="chinese">蝙蝠纳特用力拍小昆虫马特。</span><span class="english">The bat Nat swat at the gnat Matt.</span></p>
 
 <p><span class="chinese">蚊蚋通行证是感冒，但后来，我已经感冒。</span><span class="english">Gnat Pass was cold, but then, I was already cold.</span></p>

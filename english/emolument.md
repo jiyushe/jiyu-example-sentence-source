@@ -1,5 +1,7 @@
 # emolument
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emolument.md)
+
 <p><span class="chinese">你的年薪是多少？</span><span class="english">What is your annual emolument?</span></p>
 
 <p><span class="chinese">本文试图通过社会资本理论来论述东南亚华商投资中国大陆的特点。</span><span class="english">This article analyse some content of investing hazard emolument by using theory of probability and statistics.</span></p>

@@ -1,5 +1,7 @@
 # 封顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengding.md)
+
 <p><span class="chinese">l该封顶计划没有追溯力。</span><span class="english">The cap won't apply retroactively.</span></p>
 
 <p><span class="chinese">他打算明天给粮仓封顶。</span><span class="english">He is going to top the barn tomorrow.</span></p>

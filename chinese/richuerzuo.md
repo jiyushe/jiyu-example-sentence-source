@@ -1,5 +1,7 @@
 # 日出而作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/richuerzuo.md)
+
 <p><span class="chinese">一份简单的爱情，日出而作，日落而息。</span><span class="english">A simple love, sunrise and sundown.</span></p>
 
 <p><span class="chinese">男耕女织，日出而作，日落而息。</span><span class="english">The men plough and the women weave.</span></p>

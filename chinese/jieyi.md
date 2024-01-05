@@ -1,5 +1,7 @@
 # 介意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyi.md)
+
 <p><span class="chinese">他们会介意吗？</span><span class="english">Do they mind?</span></p>
 
 <p><span class="chinese">我抽烟您介意吗？</span><span class="english">Mind if I smoke?</span></p>

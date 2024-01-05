@@ -1,5 +1,7 @@
 # parthian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parthian.md)
+
 <p><span class="chinese">资本的帕提亚帝国可以饲料，并刷新了许多人。</span><span class="english">The capital of the Parthian Empire could feed and refresh many people.</span></p>
 
 <p><span class="chinese">谷歌力挽搜索颓势难舍在华市场欲杀回马枪？</span><span class="english">Google Search decline regret and regain market Yusha Parthian shot in China?</span></p>

@@ -1,5 +1,7 @@
 # 物理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulixue.md)
+
 <p><span class="chinese">物理学是他的主科。</span><span class="english">Physics is his main subject.</span></p>
 
 <p><span class="chinese">他们在钻研物理学。</span><span class="english">They are digging at physics.</span></p>

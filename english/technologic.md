@@ -1,5 +1,7 @@
 # technologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technologic.md)
+
 <p><span class="chinese">介绍了压裂工艺参数。</span><span class="english">The technologic parameters of fracturing are established.</span></p>
 
 <p><span class="chinese">本系统满足了生产工艺的要求。</span><span class="english">This system fulfills the technologic demands of production.</span></p>

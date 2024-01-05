@@ -1,5 +1,7 @@
 # regionalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regionalization.md)
+
 <p><span class="chinese">区划体系包括9个一级区和18个二级区。</span><span class="english">Regionalization system includes 9 regions and 18 sub-regions.</span></p>
 
 <p><span class="chinese">洪水灾害风险区划是洪水风险管理的基本依据。</span><span class="english">The risk regionalization of agrometeorological calamities was accompl.</span></p>

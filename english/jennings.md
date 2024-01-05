@@ -1,5 +1,7 @@
 # jennings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jennings.md)
+
 <p><span class="chinese">你好，我是是安德鲁·詹宁斯。</span><span class="english">Hello, I'm Andrew Jennings.</span></p>
 
 <p><span class="chinese">这回轮到我来点破埃兹拉·吉宁士了。</span><span class="english">It was my turn, now, to enlighten Ezra Jennings.</span></p>

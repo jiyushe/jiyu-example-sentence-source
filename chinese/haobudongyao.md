@@ -1,5 +1,7 @@
 # 毫不动摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobudongyao.md)
+
 <p><span class="chinese">雅夏经常羡慕他们毫不动摇的信仰。</span><span class="english">Yasha often envied their unswerving faith.</span></p>
 
 <p><span class="chinese">修习者需导引内力，亦即对决心毫不动摇的承诺。</span><span class="english">The aspirant must channel the fire, an unwavering commitment of intent.</span></p>

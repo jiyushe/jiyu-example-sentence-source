@@ -1,5 +1,7 @@
 # 长吁短叹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changxuduantan.md)
+
 <p><span class="chinese">在痛苦中长吁短叹，日益憔悴。</span><span class="english">Feeling it break, with bleeding groans they pine.</span></p>
 
 <p><span class="chinese">你长吁短叹，翻来复去，试图能够入睡。</span><span class="english">You sigh, toss and turn, and try to get to sleep.</span></p>

@@ -1,5 +1,7 @@
 # 土生土长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushengtuzhang.md)
+
 <p><span class="chinese">我在中国土生土长。</span><span class="english">I am originally from China.</span></p>
 
 <p><span class="chinese">我是土生土长的深圳人。</span><span class="english">The soil here is very moist.</span></p>

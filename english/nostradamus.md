@@ -1,5 +1,7 @@
 # nostradamus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nostradamus.md)
+
 <p><span class="chinese">占卜者的预言正确吗？</span><span class="english">Are Nostradamus predictions correct?</span></p>
 
 <p><span class="chinese">甚至还有一本诺查丹玛斯傻瓜书。</span><span class="english">There is even a Nostradamus For Dummies.</span></p>

@@ -1,5 +1,7 @@
 # machinery 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machinery.md)
+
 <p><span class="chinese">尖轨和转辙机械。</span><span class="english">A sharp rail and Switch machinery.</span></p>
 
 <p><span class="chinese">广西柳工机械股份有限公司。</span><span class="english">Guangxi Liugong Machinery Co. , Ltd.</span></p>

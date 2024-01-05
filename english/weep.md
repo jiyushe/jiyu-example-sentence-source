@@ -1,5 +1,7 @@
 # weep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weep.md)
+
 <p><span class="chinese">不要哭了。</span><span class="english">Do not weep.</span></p>
 
 <p><span class="chinese">待梦醒来再哭泣悲伤。</span><span class="english">Then wake up to weep.</span></p>

@@ -1,5 +1,7 @@
 # 各有利弊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geyoulibi.md)
+
 <p><span class="chinese">当然两者各有利弊。</span><span class="english">Both have their pluses and minuses.</span></p>
 
 <p><span class="chinese">两者之间各有利弊。</span><span class="english">And there're trade-offs between both.</span></p>

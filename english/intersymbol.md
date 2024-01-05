@@ -1,5 +1,7 @@
 # intersymbol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersymbol.md)
+
 <p><span class="chinese">提出了一种改进的非线性符号间干扰的消除技术。</span><span class="english">A new improved cancellation technique of nonlinear intersymbol interference is presented.</span></p>
 
 <p><span class="chinese">这就意味着信道畸变和多径效应产生的码间干扰更严重。</span><span class="english">This means that the intersymbol interference caused by channel aberration and multipath becomes more serious.</span></p>

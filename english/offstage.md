@@ -1,5 +1,7 @@
 # offstage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offstage.md)
+
 <p><span class="chinese">后台管理者更像是一位戏剧导演。</span><span class="english">The offstage manager operates more like a theatrical director.</span></p>
 
 <p><span class="chinese">按照加演的传统做法，我们走到后台后又再次返场。</span><span class="english">We go offstage and come back for the convention of the encore.</span></p>

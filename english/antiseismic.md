@@ -1,5 +1,7 @@
 # antiseismic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiseismic.md)
+
 <p><span class="chinese">本发明提供一种抗震用品，一种抗震卧榻。</span><span class="english">The invention provides an antiseismic article, in particular an antiseismic bed.</span></p>
 
 <p><span class="chinese">防火堤作为备用体系，其抗震验算程序的通用性具有实用意义。</span><span class="english">Fireproofing dyke is used as spare system, general character of antiseismic checking program is practical.</span></p>

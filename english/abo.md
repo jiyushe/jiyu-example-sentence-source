@@ -1,5 +1,7 @@
 # abo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abo.md)
+
 <p><span class="chinese">结论ABO基因型CASPA分型方法为ABO血型的鉴定提供了一个新的检测方法。</span><span class="english">Conclusion CASPA can be used as a new technique for ABO genotyping.</span></p>
 
 <p><span class="chinese">如果你是O你老公是其他血型还要做ABO抗体效价。</span><span class="english">If you are a husband you have to do other ABO blood type antibody titer.</span></p>

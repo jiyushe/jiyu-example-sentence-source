@@ -1,5 +1,7 @@
 # 旧俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiusu.md)
+
 <p><span class="chinese">我们确实继承了一些旧俗。</span><span class="english">It is surely the baggage that we inherited.</span></p>
 
 <p><span class="chinese">我们这一次秋游，倒应了重九登高的旧俗。</span><span class="english">Visiting this time we, the Chongjiudegao should be inverted the old customs.</span></p>

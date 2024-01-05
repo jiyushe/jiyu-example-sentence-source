@@ -1,5 +1,7 @@
 # cankered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cankered.md)
+
 <p><span class="chinese">什么环境之下尸体最快腐烂？</span><span class="english">Under what environment is the body the fastest cankered ?</span></p>
 
 <p><span class="chinese">因为他从不刷牙，所以他的嘴溃疡了。</span><span class="english">His mouth was cankered because he never brushed his teeth.</span></p>

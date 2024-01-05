@@ -1,5 +1,7 @@
 # 无济于事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiyushi.md)
+
 <p><span class="chinese">吵架是无济于事的。</span><span class="english">There is no use in arguing.</span></p>
 
 <p><span class="chinese">甜言美语填不饱肚皮。甜言美语无济于事。</span><span class="english">Fair words fill not the belly.</span></p>

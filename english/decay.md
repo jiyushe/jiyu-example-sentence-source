@@ -1,5 +1,7 @@
 # decay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decay.md)
+
 <p><span class="chinese">肉身开始腐烂</span><span class="english">Decay sets in.</span></p>
 
 <p><span class="chinese">它不会朽坏。</span><span class="english">It knows no decay.</span></p>

@@ -1,5 +1,7 @@
 # 随后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suihou.md)
+
 <p><span class="chinese">随后他就离开了我。</span><span class="english">Then he left me.</span></p>
 
 <p><span class="chinese">我随后就加入到你们中去。</span><span class="english">I'll join you later.</span></p>

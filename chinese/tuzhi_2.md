@@ -1,5 +1,7 @@
 # 土质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzhi_2.md)
+
 <p><span class="chinese">这里的土质很松。</span><span class="english">The soil here is very loose.</span></p>
 
 <p><span class="chinese">土质为肥沃的粘土。</span><span class="english">The soils are primarily silty loam.</span></p>

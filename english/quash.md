@@ -1,5 +1,7 @@
 # quash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quash.md)
+
 <p><span class="chinese">另一种伎俩，以打消光明白天拉窗帘！</span><span class="english">Another trick to quash bright daylight-pull the curtains!</span></p>
 
 <p><span class="chinese">申请人请求司法审理以便废除责令某人守法的命令。</span><span class="english">The applicant sought judicial review to quash the bind-over order.</span></p>

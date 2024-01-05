@@ -1,5 +1,7 @@
 # cb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cb.md)
+
 <p><span class="chinese">请求上升高度层，因雷雨云和颠簸。</span><span class="english">Request higher level due to CB and turbulence.</span></p>
 
 <p><span class="chinese">我既不能飞越也不能绕飞CB的主体。</span><span class="english">I couldn't either overfly or fly round the CB cells.</span></p>

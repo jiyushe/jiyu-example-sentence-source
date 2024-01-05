@@ -1,5 +1,7 @@
 # countercurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countercurrent.md)
+
 <p><span class="chinese">有些电子负载还具有反向充电的特殊作用。</span><span class="english">Some electronic load has an extra function of supply countercurrent.</span></p>
 
 <p><span class="chinese">在10例反流性食管炎中，7例见到气球样细胞。</span><span class="english">In esophagitis of 10 countercurrent sex, 7 see balloon appearance cell.</span></p>

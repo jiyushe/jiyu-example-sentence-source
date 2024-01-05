@@ -1,5 +1,7 @@
 # 少有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoyou.md)
+
 <p><span class="chinese">这种人真是少有。</span><span class="english">I seldom see such a guy.</span></p>
 
 <p><span class="chinese">类似这样的事件是非常少有的。</span><span class="english">Something like this is very rare.</span></p>

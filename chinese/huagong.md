@@ -1,5 +1,7 @@
 # 华工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huagong.md)
+
 <p><span class="chinese">在华工的一学年里，我收获良多。</span><span class="english">During my first year in SCUT, I gain a lot!</span></p>
 
 <p><span class="chinese">1854年，一名旅行者这样描述华工</span><span class="english">A traveller in 1854 described a group of Chinese</span></p>

@@ -1,5 +1,7 @@
 # emancipate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emancipate.md)
+
 <p><span class="chinese">解放思想，我们老同志有这个任务。</span><span class="english">Veteran comrades must emancipate their minds.</span></p>
 
 <p><span class="chinese">我们必须解放第一生产力。</span><span class="english">We must emancipate the primary productive forces.</span></p>

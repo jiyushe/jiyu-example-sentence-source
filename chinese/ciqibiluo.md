@@ -1,5 +1,7 @@
 # 此起彼落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciqibiluo.md)
+
 <p><span class="chinese">不用说，此起彼落的尖叫声也淹没了他的声音！</span><span class="english">Needless to say, incessant screams drowned his voice.</span></p>
 
 <p><span class="chinese">跟随而来的媒体闪光灯此起彼落，为会场带来最高潮。</span><span class="english">Follow the media for the meeting, each flash bring height.</span></p>

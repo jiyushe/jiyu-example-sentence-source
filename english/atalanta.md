@@ -1,5 +1,7 @@
 # atalanta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atalanta.md)
+
 <p><span class="chinese">1987年，多纳多尼从亚特兰大来到米兰。</span><span class="english">Donadoni arrived from Atalanta in 1987.</span></p>
 
 <p><span class="chinese">对亚特兰大的胜利使得我们走出了困难时期。</span><span class="english">The win against Atalanta put an end to a difficult period.</span></p>

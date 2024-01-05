@@ -1,5 +1,7 @@
 # laker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laker.md)
+
 <p><span class="chinese">约翰逊在80年代是湖人的后卫。</span><span class="english">Magic Johnson was a Laker guard in the 80's.</span></p>
 
 <p><span class="chinese">湖人队中今天没有第二个人打得像冠军成员。</span><span class="english">No other Laker played like a champion today.</span></p>

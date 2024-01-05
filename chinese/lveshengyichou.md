@@ -1,5 +1,7 @@
 # 略胜一筹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lveshengyichou.md)
+
 <p><span class="chinese">他比对手略胜一筹。</span><span class="english">He is one upon his opponent.</span></p>
 
 <p><span class="chinese">有些人分析力比较强，而有些人创造力略胜一筹。</span><span class="english">While some people are more analytical, others are more creative.</span></p>

@@ -1,5 +1,7 @@
 # 事与愿违
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyuyuanwei.md)
+
 <p><span class="chinese">然而事与愿违。</span><span class="english">Sadly, it was not to be.</span></p>
 
 <p><span class="chinese">如果魔鬼训练事与愿违咋办？</span><span class="english">What if the program backfires?</span></p>

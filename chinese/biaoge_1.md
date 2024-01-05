@@ -1,5 +1,7 @@
 # 表格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoge_1.md)
+
 <p><span class="chinese">所以这里是一个空白表格。</span><span class="english">So here's a blank.</span></p>
 
 <p><span class="chinese">填写表格N-400。</span><span class="english">Fill out Form N-400.</span></p>

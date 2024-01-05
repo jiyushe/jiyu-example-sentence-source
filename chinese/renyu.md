@@ -1,5 +1,7 @@
 # 人鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyu.md)
+
 <p><span class="chinese">雌人鱼、鹰头狮身怪兽和龙都是怪物。</span><span class="english">Mermaids, griffins and dragons are monsters.</span></p>
 
 <p><span class="chinese">小人鱼摇了摇头，微笑了一下。</span><span class="english">The little mermaid smiled, and shook her head.</span></p>

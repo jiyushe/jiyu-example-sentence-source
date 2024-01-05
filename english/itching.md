@@ -1,5 +1,7 @@
 # itching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itching.md)
+
 <p><span class="chinese">他渴望一试身手。</span><span class="english">He's itching for a try.</span></p>
 
 <p><span class="chinese">我真想打一架。</span><span class="english">I'm itching for a fight.</span></p>

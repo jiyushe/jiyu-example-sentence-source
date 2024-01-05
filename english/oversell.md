@@ -1,5 +1,7 @@
 # oversell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversell.md)
+
 <p><span class="chinese">他们试图夸大金币的投资价值来转手</span><span class="english">They're trying to oversell.</span></p>
 
 <p><span class="chinese">不，我不会卖光了。</span><span class="english">No, I'm not going to oversell it.</span></p>

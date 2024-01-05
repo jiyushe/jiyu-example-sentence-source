@@ -1,5 +1,7 @@
 # 次席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixi.md)
+
 <p><span class="chinese">此次评选活动中演员赵薇占得次席。</span><span class="english">Actress Zhao Wei ran second in the poll.</span></p>
 
 <p><span class="chinese">位居政坛中最普遍“职业”次席的是商人。</span><span class="english">The second most common"profession"is that of businessman.</span></p>

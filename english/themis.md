@@ -1,5 +1,7 @@
 # themis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/themis.md)
+
 <p><span class="chinese">何威显然看到了忒弥斯团队的潜能。</span><span class="english">Hunton & Williams clearly saw potential in Team Themis.</span></p>
 
 <p><span class="chinese">同时，他们也认识到最好的防御措施就是加强各国间的合作。</span><span class="english">They knew also that co-operation between themis the best defence.</span></p>

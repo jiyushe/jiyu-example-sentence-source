@@ -1,5 +1,7 @@
 # tenon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenon.md)
+
 <p><span class="chinese">这个榫头对不上。</span><span class="english">This tenon won't fit.</span></p>
 
 <p><span class="chinese">通过榫和榫眼而连接在一起。</span><span class="english">Join by a tenon and mortise.</span></p>

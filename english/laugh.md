@@ -1,5 +1,7 @@
 # laugh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laugh.md)
+
 <p><span class="chinese">只为开怀一笑。</span><span class="english">laugh.</span></p>
 
 <p><span class="chinese">我笑了。</span><span class="english">I laugh.</span></p>

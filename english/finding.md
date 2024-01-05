@@ -1,5 +1,7 @@
 # finding 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finding.md)
+
 <p><span class="chinese">找到你的路。</span><span class="english">Finding your path.</span></p>
 
 <p><span class="chinese">祝您好运找到它！</span><span class="english">Good luck finding it!</span></p>

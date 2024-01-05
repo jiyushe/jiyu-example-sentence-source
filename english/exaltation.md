@@ -1,5 +1,7 @@
 # exaltation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exaltation.md)
+
 <p><span class="chinese">这消息使我们欣喜万分。</span><span class="english">The news filled us with exaltation.</span></p>
 
 <p><span class="chinese">他得意洋洋地转动着水汪汪的斗鸡眼。</span><span class="english">His watery crossed eyes rolled in exaltation.</span></p>

@@ -1,5 +1,7 @@
 # convex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convex.md)
+
 <p><span class="chinese">这是面凸面镜。</span><span class="english">This is a convex mirror.</span></p>
 
 <p><span class="chinese">形石斧一边凸起的石制工具。</span><span class="english">A stone tool with a convex side.</span></p>

@@ -1,5 +1,7 @@
 # 违法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifa.md)
+
 <p><span class="chinese">它是违法的</span><span class="english">It's illegal.</span></p>
 
 <p><span class="chinese">这应该是违法的。</span><span class="english">That should be outlawed.</span></p>

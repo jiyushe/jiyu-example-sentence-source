@@ -1,5 +1,7 @@
 # 阑尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanwei.md)
+
 <p><span class="chinese">阑尾破裂。</span><span class="english">A ruptured appendix.</span></p>
 
 <p><span class="chinese">医生发现，胡迪尼的阑尾已经破裂。</span><span class="english">Doctors found that Houdini's appendix had burst.</span></p>

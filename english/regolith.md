@@ -1,5 +1,7 @@
 # regolith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regolith.md)
+
 <p><span class="chinese">风化壳和土壤。</span><span class="english">Regolith and soil.</span></p>
 
 <p><span class="chinese">月球表面的月尘怎样影响到月震能量的传播？</span><span class="english">How does the lunar regolith affect transmission of seismic energy?</span></p>

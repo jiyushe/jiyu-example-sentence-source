@@ -1,5 +1,7 @@
 # stationery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stationery.md)
+
 <p><span class="chinese">你们有文具出售吗？</span><span class="english">Do you carry stationery?</span></p>
 
 <p><span class="chinese">她到处推销文具用品。</span><span class="english">She travels in stationery.</span></p>

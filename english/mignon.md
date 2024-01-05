@@ -1,5 +1,7 @@
 # mignon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mignon.md)
+
 <p><span class="chinese">晚餐我打算做菲力牛排。</span><span class="english">I prepared filet mignon for dinner.</span></p>
 
 <p><span class="chinese">弗兰克牛排和美味肉片，大概比较安全吧。</span><span class="english">Flank steak and filet mignon are presumably safer.</span></p>

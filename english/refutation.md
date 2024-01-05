@@ -1,5 +1,7 @@
 # refutation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refutation.md)
+
 <p><span class="chinese">真理不怕人驳。</span><span class="english">Truth fears no refutation.</span></p>
 
 <p><span class="chinese">不过，他对王学的批驳也有不合理之处。</span><span class="english">But, Gao's refutation also had some unreasonableness.</span></p>

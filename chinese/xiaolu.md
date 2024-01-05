@@ -1,5 +1,7 @@
 # 销路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaolu.md)
+
 <p><span class="chinese">坏消息才有销路。</span><span class="english">Bad news sells.</span></p>
 
 <p><span class="chinese">我出的书将会有销路的</span><span class="english">My book will sell.</span></p>

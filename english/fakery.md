@@ -1,5 +1,7 @@
 # fakery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fakery.md)
+
 <p><span class="chinese">模仿是至高的赞美。</span><span class="english">Fakery is a kind of a compliment.</span></p>
 
 <p><span class="chinese">中国政府允许且鼓励造假。</span><span class="english">The Chinese government allows and promotes fakery.</span></p>

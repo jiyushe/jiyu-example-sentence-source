@@ -1,5 +1,7 @@
 # 楹联
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinglian.md)
+
 <p><span class="chinese">楹联可称之为“二元结构”文体。</span><span class="english">Couplets may be called "dual structure" style.</span></p>
 
 <p><span class="chinese">但反过来，楹联又具有极大的包容性。</span><span class="english">However, in turn, couplets but also has great inclusive.</span></p>

@@ -1,5 +1,7 @@
 # 身外之物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenwaizhiwu.md)
+
 <p><span class="chinese">别人的钱财，乃我的身外之物。</span><span class="english">Other people's money, but my money.</span></p>
 
 <p><span class="chinese">名声只是身外之物，你知道吗？</span><span class="english">The fame thing isn't really real, you know.</span></p>

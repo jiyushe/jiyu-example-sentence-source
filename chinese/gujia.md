@@ -1,5 +1,7 @@
 # 估价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujia.md)
+
 <p><span class="chinese">他的房屋被估价为一百万英镑。</span><span class="english">He was rated as a midshipman.</span></p>
 
 <p><span class="chinese">这项工程估价了吗?。</span><span class="english">Has this project been costed ?</span></p>

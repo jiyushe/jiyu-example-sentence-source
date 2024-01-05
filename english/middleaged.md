@@ -1,5 +1,7 @@
 # middleaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middleaged.md)
+
 <p><span class="chinese">摄影机的镜头从她的脸摇向一位中年男人。</span><span class="english">The camera panned from her face to a middleaged man.</span></p>
 
 <p><span class="chinese">我的会计是一位很难看的德国中年妇女。</span><span class="english">My bookkeeper is a big unattractive German middleaged woman.</span></p>

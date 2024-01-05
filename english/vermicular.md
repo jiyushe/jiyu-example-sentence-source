@@ -1,5 +1,7 @@
 # vermicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermicular.md)
+
 <p><span class="chinese">介绍了消失模法生产蠕铁排气出口管的工艺过程。</span><span class="english">Vermicular graphite cast iron exhaust pipe in lost foam casting was introduced.</span></p>
 
 <p><span class="chinese">综合考虑石墨形态、性能以及蠕化处理工艺，得到了综合性能好的蠕化剂为稀土镁加钛铁。</span><span class="english">As a result, an optimum vermicular agent, magnesium-rare earth with Ti and Fe, was obtained.</span></p>

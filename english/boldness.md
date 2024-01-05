@@ -1,5 +1,7 @@
 # boldness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boldness.md)
+
 <p><span class="chinese">但是他还需要更大的魄力。</span><span class="english">But more boldness is needed.</span></p>
 
 <p><span class="chinese">阿瑟被赫斯特的大胆言辞惊住了。</span><span class="english">Arthur was frightened by her boldness.</span></p>

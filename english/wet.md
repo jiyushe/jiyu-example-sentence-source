@@ -1,5 +1,7 @@
 # wet 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wet.md)
+
 <p><span class="chinese">这个感觉湿湿的。</span><span class="english">This feels wet.</span></p>
 
 <p><span class="chinese">他尿湿了裤子。</span><span class="english">He wet his pants.</span></p>

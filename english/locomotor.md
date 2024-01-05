@@ -1,5 +1,7 @@
 # locomotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locomotor.md)
+
 <p><span class="chinese">贵州金丝桃对大鼠自发活动无兴奋作用。</span><span class="english">Hypericum kouytehense Lévl did not show excitation effect in locomotor activity.</span></p>
 
 <p><span class="chinese">结论BBB评分对SCI模型运动功能评价具有明显优势，可作为今后研究的标准评分法。</span><span class="english">Conclusion It is reasonable that the BBB scale is a standard test for SCI locomotor function assessment in rats.</span></p>

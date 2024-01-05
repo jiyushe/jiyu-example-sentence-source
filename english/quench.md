@@ -1,5 +1,7 @@
 # quench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quench.md)
+
 <p><span class="chinese">我想要些水解渴。</span><span class="english">I need some water to quench.</span></p>
 
 <p><span class="chinese">我想要些水解渴。</span><span class="english">I want some water to quench.</span></p>

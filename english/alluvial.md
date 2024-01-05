@@ -1,5 +1,7 @@
 # alluvial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alluvial.md)
+
 <p><span class="chinese">原是珠江冲积而成的沙洲，故名。</span><span class="english">Pearl River was originally alluvial sand bars, hence the name.</span></p>
 
 <p><span class="chinese">次高山、丘陵、河谷冲积平原兼而有之。</span><span class="english">Meeting the high mountains, hills , valleys both alluvial plain.</span></p>

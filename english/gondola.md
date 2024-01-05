@@ -1,5 +1,7 @@
 # gondola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gondola.md)
+
 <p><span class="chinese">我开来了一条平底船。</span><span class="english">I have a gondola here.</span></p>
 
 <p><span class="chinese">这是一列煤矿用的双轴的贡多拉车。</span><span class="english">A biaxial gondola car for coal.</span></p>

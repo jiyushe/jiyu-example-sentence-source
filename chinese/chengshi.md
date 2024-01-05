@@ -1,5 +1,7 @@
 # 呈示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengshi.md)
+
 <p><span class="chinese">2010年3月16日的湖面大致范围以白色轮廓线呈示。</span><span class="english">The approximate extent of the lake on March 16, 2010, appears as a white outline.</span></p>
 
 <p><span class="chinese">论述在逻辑思路和呈示的信息方面不乏某些关键性的弱点。</span><span class="english">This argument suffers from several critical weaknesses in logic and information presented.</span></p>

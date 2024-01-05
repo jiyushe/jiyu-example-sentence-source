@@ -1,5 +1,7 @@
 # zanzibar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zanzibar.md)
+
 <p><span class="chinese">这里的主要种植的是椰子和丁香。</span><span class="english">The main cro grown in Zanzibar are coconuts and cloves.</span></p>
 
 <p><span class="chinese">这里的主要种植的是椰子和丁香。</span><span class="english">The main crops grown in Zanzibar are coconuts and cloves.</span></p>

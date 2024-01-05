@@ -1,5 +1,7 @@
 # 非同寻常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feitongxunchang.md)
+
 <p><span class="chinese">这里是“非同寻常的知识。</span><span class="english">This has been Uncommon Knowledge.</span></p>
 
 <p><span class="chinese">这次冲突有着非同寻常的原因。</span><span class="english">This collision had a very unusual cause.</span></p>

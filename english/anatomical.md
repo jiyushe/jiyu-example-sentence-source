@@ -1,5 +1,7 @@
 # anatomical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatomical.md)
+
 <p><span class="chinese">有一个解剖学变化例子</span><span class="english">There's an anatomical change for you.</span></p>
 
 <p><span class="chinese">竹类地下茎解剖结构的研究。</span><span class="english">Anatomical studies on the bamboo rhizomes.</span></p>

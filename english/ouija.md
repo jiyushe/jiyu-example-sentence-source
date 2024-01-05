@@ -1,5 +1,7 @@
 # ouija
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ouija.md)
+
 <p><span class="chinese">你玩过天宫图或通灵游戏吗？</span><span class="english">Have you ever played with horoscopes or Ouija boards?</span></p>
 
 <p><span class="chinese">显灵板是用来联系灵界的鬼魂。</span><span class="english">The Ouija Board is used to contact spirits or entities.</span></p>

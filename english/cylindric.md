@@ -1,5 +1,7 @@
 # cylindric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cylindric.md)
+
 <p><span class="chinese">圆筒状的根，在2厘米直径块根短，单或很少分枝。</span><span class="english">Root cylindric , to 2 cm in diam. Caudex short, simple or rarely branched.</span></p>
 
 <p><span class="chinese">本文提出了一种新颖的柱面伽里略透射望远系统。</span><span class="english">In this paper, a new cylindric transmission Galilean telescopic system is presented.</span></p>

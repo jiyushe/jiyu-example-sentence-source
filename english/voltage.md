@@ -1,5 +1,7 @@
 # voltage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voltage.md)
+
 <p><span class="chinese">这就是一种电压表。</span><span class="english">Here was a voltage meter.</span></p>
 
 <p><span class="chinese">三极管能升高电压。</span><span class="english">The triode steps up voltage.</span></p>

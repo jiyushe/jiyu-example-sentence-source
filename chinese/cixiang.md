@@ -1,5 +1,7 @@
 # 慈祥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixiang.md)
+
 <p><span class="chinese">我的奶奶有一幅很慈祥的笑容。</span><span class="english">My grandma has a very kind smile.</span></p>
 
 <p><span class="chinese">不要等到一个笑容才面露慈祥。</span><span class="english">Don't Wait for a smile to be nice.</span></p>

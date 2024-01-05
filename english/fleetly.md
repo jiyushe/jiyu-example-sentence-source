@@ -1,5 +1,7 @@
 # fleetly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleetly.md)
+
 <p><span class="chinese">提出了一种快速有效的二维图形消隐算法。</span><span class="english">An efficient algorithm is put forward which can remove the hidden lines fleetly.</span></p>
 
 <p><span class="chinese">DEM模型能准确快速地反映区域的地形地貌特征，在低丘的治理中有着多层次的应用。</span><span class="english">DEM model can express the features of area landform and physiognomy fleetly and truly.</span></p>

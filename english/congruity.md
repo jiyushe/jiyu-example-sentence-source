@@ -1,5 +1,7 @@
 # congruity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congruity.md)
+
 <p><span class="chinese">和谐是爱情之母。</span><span class="english">Congruity is the mother of love.</span></p>
 
 <p><span class="chinese">候选人在对待税收问题的态度上有着明确的共同之处。</span><span class="english">There is a definite congruity in the candidates'approach to the tax problem.</span></p>

@@ -1,5 +1,7 @@
 # hatred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatred.md)
+
 <p><span class="chinese">他对我感到有恨意。</span><span class="english">He felt hatred toward me.</span></p>
 
 <p><span class="chinese">他怀着强烈的仇恨。</span><span class="english">He harbored bitter hatred.</span></p>

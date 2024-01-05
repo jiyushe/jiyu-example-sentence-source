@@ -1,5 +1,7 @@
 # waling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waling.md)
+
 <p><span class="chinese">这我宁愿不愿骑车。</span><span class="english">I prefer waling to riding.</span></p>
 
 <p><span class="chinese">他沿着长长的河流走着。</span><span class="english">He is waling along the long river.</span></p>

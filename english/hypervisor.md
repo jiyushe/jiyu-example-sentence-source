@@ -1,5 +1,7 @@
 # hypervisor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypervisor.md)
+
 <p><span class="chinese">更改虚拟机监控程序防火墙规则</span><span class="english">Altering hypervisor firewall rules</span></p>
 
 <p><span class="chinese">向管理程序注册虚拟机。</span><span class="english">Registering the virtual machine to the hypervisor.</span></p>

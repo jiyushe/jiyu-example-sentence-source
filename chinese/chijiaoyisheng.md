@@ -1,5 +1,7 @@
 # 赤脚医生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chijiaoyisheng.md)
+
 <p><span class="chinese">他是一名赤脚医生。</span><span class="english">He is a barefoot doctor.</span></p>
 
 <p><span class="chinese">这位赤脚医生有治疗白浊的偏方。</span><span class="english">The doctor has a way to treat gonorrhea.</span></p>

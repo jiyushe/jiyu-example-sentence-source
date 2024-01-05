@@ -1,5 +1,7 @@
 # chemostat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemostat.md)
+
 <p><span class="chinese">恒化器模型是一类应用非常广泛的数学模型。</span><span class="english">Chemostat model is a widely applied mathematical models.</span></p>
 
 <p><span class="chinese">恒化器模型是生物数学中重要的模型之一。</span><span class="english">Chemostat model is one of the most significant models in Mathematical biology.</span></p>

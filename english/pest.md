@@ -1,5 +1,7 @@
 # pest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pest.md)
+
 <p><span class="chinese">害虫开玩笑。</span><span class="english">Pest jests.</span></p>
 
 <p><span class="chinese">^他是个害人精。</span><span class="english">He's a pest.</span></p>

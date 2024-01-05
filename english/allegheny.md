@@ -1,5 +1,7 @@
 # allegheny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegheny.md)
+
 <p><span class="chinese">其后他被送到阿利根尼县入狱。</span><span class="english">He was then taken to the Allegheny County Jail.</span></p>
 
 <p><span class="chinese">为什么阿勒格尼学院不打算完全取消奖学金？</span><span class="english">Why doesn't Allegheny College plan to drop merit aid entirely?</span></p>

@@ -1,5 +1,7 @@
 # mandy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandy.md)
+
 <p><span class="chinese">“那么，”曼迪说。</span><span class="english">“So, ” Mandy said.</span></p>
 
 <p><span class="chinese">“爸爸，”曼迪说。</span><span class="english">“Daddy, ” Mandy said.</span></p>

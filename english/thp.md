@@ -1,5 +1,7 @@
 # thp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thp.md)
+
 <p><span class="chinese">THP盐是一种以低毒、无污染的具有羟甲基磷结构的化合物。</span><span class="english">THP salt is a nontoxic phosphor compound without environment pollution.</span></p>
 
 <p><span class="chinese">但是，对发育期老鼠来说，THP具有相反作用---增加老鼠压力。</span><span class="english">But in pubertal mice, THP has the opposite effect – increasing their stress.</span></p>

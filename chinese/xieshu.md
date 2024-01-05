@@ -1,5 +1,7 @@
 # 写书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshu.md)
+
 <p><span class="chinese">我们喜欢用圆珠笔写书。</span><span class="english">We like to biro book.</span></p>
 
 <p><span class="chinese">你是怎样找出时间来写书的？</span><span class="english">How do you find time to write?</span></p>

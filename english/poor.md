@@ -1,5 +1,7 @@
 # poor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poor.md)
+
 <p><span class="chinese">可怜的伊丽莎！</span><span class="english">Poor Eliza!</span></p>
 
 <p><span class="chinese">——可怜的妈咪。</span><span class="english">Poor Mammy.</span></p>

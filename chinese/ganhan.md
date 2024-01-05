@@ -1,5 +1,7 @@
 # 干旱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhan.md)
+
 <p><span class="chinese">在干旱季节，他们务农。</span><span class="english">In the dry season, they farm.</span></p>
 
 <p><span class="chinese">天气这么干旱，没有好吃的蛋。</span><span class="english">No good eggs with this drouth.</span></p>

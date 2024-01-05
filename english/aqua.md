@@ -1,5 +1,7 @@
 # aqua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aqua.md)
+
 <p><span class="chinese">王水法说。</span><span class="english">Aqua regia method, said.</span></p>
 
 <p><span class="chinese">老人用墨西哥土语骂着「你这婊子。」</span><span class="english">"Aqua mala, " the man said. "You whore.</span></p>

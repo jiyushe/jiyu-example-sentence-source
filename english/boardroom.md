@@ -1,5 +1,7 @@
 # boardroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boardroom.md)
+
 <p><span class="chinese">我们会议室在最高层，二十三层。</span><span class="english">Our boardroom is up on the twenty-third floor.</span></p>
 
 <p><span class="chinese">浦鲁马的外表不会符合现代会议室的要求。</span><span class="english">Brummel's look would not pass muster in a modern boardroom.</span></p>

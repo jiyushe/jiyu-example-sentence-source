@@ -1,5 +1,7 @@
 # 围堰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyan.md)
+
 <p><span class="chinese">目前围堰是稳定安全的。</span><span class="english">The cofferdam is safe and stable.</span></p>
 
 <p><span class="chinese">常规的临时围堰在完工后还需要拆除。</span><span class="english">A conventional temporary structure is demolished after use.</span></p>

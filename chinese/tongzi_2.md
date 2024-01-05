@@ -1,5 +1,7 @@
 # 童子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzi_2.md)
+
 <p><span class="chinese">丹童子阿鲁玛，17岁少年一只。</span><span class="english">Dan Boy A Luma, a 17-year-old.</span></p>
 
 <p><span class="chinese">‘尿煮童子蛋’味美健康。</span><span class="english">The eggs are delicious and healthy.</span></p>

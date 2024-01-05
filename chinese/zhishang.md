@@ -1,5 +1,7 @@
 # 智商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishang.md)
+
 <p><span class="chinese">沙朗斯通的智商为154。</span><span class="english">Sharon Stone's IQ is 154.</span></p>
 
 <p><span class="chinese">个别人怀疑自己的智商。</span><span class="english">Two others doubt their IQ.</span></p>

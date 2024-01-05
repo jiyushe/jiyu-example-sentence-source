@@ -1,5 +1,7 @@
 # successively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/successively.md)
+
 <p><span class="chinese">米亚和她的妈妈相继死去。</span><span class="english">Miya and her mother died successively.</span></p>
 
 <p><span class="chinese">校队先后胜了5场球。</span><span class="english">The school team won five games successively.</span></p>

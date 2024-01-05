@@ -1,5 +1,7 @@
 # formosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formosa.md)
+
 <p><span class="chinese">福尔摩沙本岛的历史与现状。</span><span class="english">The island of Formosa past and present.</span></p>
 
 <p><span class="chinese">福尔摩莎的美丽的确是如此的雄伟。</span><span class="english">Formosa is indeed majestic in its beauty.</span></p>

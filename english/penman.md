@@ -1,5 +1,7 @@
 # penman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penman.md)
+
 <p><span class="chinese">其后，笔者实证地分析了中国政府规模的现状。</span><span class="english">Then, penman analyze the actuality of Chinese government scale by demonstration.</span></p>
 
 <p><span class="chinese">笔者提出解决这些问题的方法，即建立基于组件的用例模型。</span><span class="english">The penman presents a solution, that is, constructing component-based use case models.</span></p>

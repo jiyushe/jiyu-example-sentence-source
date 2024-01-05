@@ -1,5 +1,7 @@
 # rostral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rostral.md)
+
 <p><span class="chinese">前髓帆有明显标记的交叉纤维。</span><span class="english">There was labelled crossed fiber in rostral medullary velum.</span></p>
 
 <p><span class="chinese">标记细胞从尾侧向吻侧逐渐减少。</span><span class="english">The labelled cells decreased in number from the caudal to the rostral level.</span></p>

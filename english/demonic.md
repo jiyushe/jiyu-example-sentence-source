@@ -1,5 +1,7 @@
 # demonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonic.md)
+
 <p><span class="chinese">他是一个恶魔，也是一股邪恶势力。</span><span class="english">He's a demonic spirit. He's a satanic force.</span></p>
 
 <p><span class="chinese">他是一个恶魔，也是一股邪恶势力。</span><span class="english">He’s a demonic spirit. He’s a satanic force.</span></p>

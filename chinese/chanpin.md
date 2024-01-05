@@ -1,5 +1,7 @@
 # 产品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanpin.md)
+
 <p><span class="chinese">产品目录。</span><span class="english">Product catalog.</span></p>
 
 <p><span class="chinese">不要混用这些产品。</span><span class="english">Don't mix products.</span></p>

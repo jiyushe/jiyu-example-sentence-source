@@ -1,5 +1,7 @@
 # scald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scald.md)
+
 <p><span class="chinese">排骨汆水后以冷水洗净备用。</span><span class="english">Wash and scald spare ribs.</span></p>
 
 <p><span class="chinese">脸被烟头烫伤了该怎么办?。</span><span class="english">Face by butt scald how should do?</span></p>

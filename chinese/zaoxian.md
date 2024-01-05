@@ -1,5 +1,7 @@
 # 早先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoxian.md)
+
 <p><span class="chinese">然而，这只是一个早先的谎言。</span><span class="english">This, however, is an earlier-day lie.</span></p>
 
 <p><span class="chinese">早先一起病例也已得到确认。</span><span class="english">An earlier case has also been confirmed.</span></p>

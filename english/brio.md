@@ -1,5 +1,7 @@
 # brio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brio.md)
+
 <p><span class="chinese">如有任何争议，标奥保留最终决定权。</span><span class="english">In case of any dispute, the decision of BRIO is final.</span></p>
 
 <p><span class="chinese">如有任何争议，标奥保留最终之决定权。</span><span class="english">In case of any disputes, the decision of BRIO is final.</span></p>

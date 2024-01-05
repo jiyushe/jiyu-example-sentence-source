@@ -1,5 +1,7 @@
 # 热泪盈眶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/releiyingkuang.md)
+
 <p><span class="chinese">热泪盈眶，由衷地感到自豪。</span><span class="english">I get goosebumps and tears of pride.</span></p>
 
 <p><span class="chinese">我看着看着，热泪盈眶。</span><span class="english">I watched it carefully, tear in eye.</span></p>

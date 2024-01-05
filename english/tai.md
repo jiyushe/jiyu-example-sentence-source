@@ -1,5 +1,7 @@
 # tai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tai.md)
+
 <p><span class="chinese">我们登上了泰山。</span><span class="english">We ascended Mt. Tai.</span></p>
 
 <p><span class="chinese">开泰制管股份有限公司。</span><span class="english">Kai Tai Pipe Co. , Ltd.</span></p>

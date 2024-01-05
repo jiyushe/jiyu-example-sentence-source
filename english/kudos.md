@@ -1,5 +1,7 @@
 # kudos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kudos.md)
+
 <p><span class="chinese">但是，荣誉可能会就此止步。</span><span class="english">But the kudos will probably stop right here.</span></p>
 
 <p><span class="chinese">谢天谢地日本废掉了这只“巨龟”。</span><span class="english">Kudos to Japan on scrapping this 'giant turtle'.</span></p>

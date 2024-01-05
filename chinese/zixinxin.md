@@ -1,5 +1,7 @@
 # 自信心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixinxin.md)
+
 <p><span class="chinese">首先要建立起自信心。</span><span class="english">First to establish self-confidence.</span></p>
 
 <p><span class="chinese">他的话激发了我的自信心。</span><span class="english">His words inspired confidence in me.</span></p>

@@ -1,5 +1,7 @@
 # 中选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxuan.md)
+
 <p><span class="chinese">两个问题中选一个。</span><span class="english">A choice between two questions.</span></p>
 
 <p><span class="chinese">我们要从2个产品销售者中选一个。</span><span class="english">We have two salespersons to choose from.</span></p>

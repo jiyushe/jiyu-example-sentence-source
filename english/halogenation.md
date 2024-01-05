@@ -1,5 +1,7 @@
 # halogenation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halogenation.md)
+
 <p><span class="chinese">典型的例子是碳氢化合物的卤化。</span><span class="english">A typical example is the halogenation of a hydrocarbon.</span></p>
 
 <p><span class="chinese">着重研究其中的烯丙位氧化和卤代反应，提出合适的反应机理。</span><span class="english">This paper laid emphasis on the study of the allylic oxidation and halogenation.</span></p>

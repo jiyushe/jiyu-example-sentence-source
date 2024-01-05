@@ -1,5 +1,7 @@
 # 朝贡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaogong.md)
+
 <p><span class="chinese">元代高丽朝贡贡期考。</span><span class="english">Three, Yuan Korea Tributary cycle research.</span></p>
 
 <p><span class="chinese">许多被征服的国家必须向古罗马的统治者朝贡。</span><span class="english">Many conquered nations had to pay tribute to the rulers of ancient Rome.</span></p>

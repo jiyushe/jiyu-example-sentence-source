@@ -1,5 +1,7 @@
 # denver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denver.md)
+
 <p><span class="chinese">只有一只叫丹佛的小公狗。</span><span class="english">Just a dog named Denver.</span></p>
 
 <p><span class="chinese">飞机要在丹佛市停一下。</span><span class="english">It has a layover in Denver.</span></p>

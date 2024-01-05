@@ -1,5 +1,7 @@
 # 交互
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohu.md)
+
 <p><span class="chinese">与非托管代码交互操作。</span><span class="english">Interoperating with Unmanaged Code.</span></p>
 
 <p><span class="chinese">多通道交互的数据类型</span><span class="english">Data types for multimodal interaction</span></p>

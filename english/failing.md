@@ -1,5 +1,7 @@
 # failing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/failing.md)
+
 <p><span class="chinese">我眼力不济了。</span><span class="english">My eyesight is failing.</span></p>
 
 <p><span class="chinese">他们总是不及格。</span><span class="english">They are usually failing.</span></p>

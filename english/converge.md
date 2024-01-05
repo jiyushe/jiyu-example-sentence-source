@@ -1,5 +1,7 @@
 # converge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/converge.md)
+
 <p><span class="chinese">三十辐共一毂，当其无，有车之用。</span><span class="english">Thirty spokes converge on a hub</span></p>
 
 <p><span class="chinese">有时结果会趋近这一点</span><span class="english">Sometimes play tends to converge there.</span></p>

@@ -1,5 +1,7 @@
 # 开垦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiken.md)
+
 <p><span class="chinese">亚波罗必须在那里先起开垦的工作。</span><span class="english">Apollos must come there for pioneer work.</span></p>
 
 <p><span class="chinese">他们开垦了大片荒地。</span><span class="english">They opened up large tracts of wasteland.</span></p>

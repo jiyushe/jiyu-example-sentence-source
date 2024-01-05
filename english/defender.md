@@ -1,5 +1,7 @@
 # defender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defender.md)
+
 <p><span class="chinese">守卫者将球传至中央。</span><span class="english">The defender centered the ball.</span></p>
 
 <p><span class="chinese">球从一名防守队员身上弹回。</span><span class="english">The ball cannoned off a defender.</span></p>

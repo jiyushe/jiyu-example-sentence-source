@@ -1,5 +1,7 @@
 # wearer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wearer.md)
+
 <p><span class="chinese">鞋子夹不夹脚，唯有穿者知晓。</span><span class="english">Only the wearer knows where the shoe pinches.</span></p>
 
 <p><span class="chinese">这些材质能让穿戴者隐遁无踪。</span><span class="english">These materials would make the wearer invisible.</span></p>

@@ -1,5 +1,7 @@
 # publicist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publicist.md)
+
 <p><span class="chinese">广告部刚刚发了张。小孩的偷拍照片过来。</span><span class="english">The publicist just sent mea sneak peek at the kid.</span></p>
 
 <p><span class="chinese">所以我当时就是一个娱乐行业的公关人员，</span><span class="english">So I was doing, I was a publicist in entertainment,</span></p>

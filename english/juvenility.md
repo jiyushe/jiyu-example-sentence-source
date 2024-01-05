@@ -1,5 +1,7 @@
 # juvenility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juvenility.md)
+
 <p><span class="chinese">年轻和充满活力是我们最大的资本。</span><span class="english">Juvenility and full of energy are our capital.</span></p>
 
 <p><span class="chinese">幼年辅助因子已经鉴定出是萜类化学物。</span><span class="english">Juvenility cofactors have been identified as terpenes.</span></p>

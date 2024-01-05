@@ -1,5 +1,7 @@
 # 小雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxue_1.md)
+
 <p><span class="chinese">下了一场小雪。</span><span class="english">There has been a light snow.</span></p>
 
 <p><span class="chinese">我是一个圆圆胖胖的小雪人。</span><span class="english">I'm a little snowman round and fat.</span></p>

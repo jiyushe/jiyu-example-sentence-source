@@ -1,5 +1,7 @@
 # demagogic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demagogic.md)
+
 <p><span class="chinese">现在甚至还出现了标准的煽动剧本。</span><span class="english">There is even is a standard demagogic playbook.</span></p>
 
 <p><span class="chinese">你得撕破老年的蛊惑人心的网。</span><span class="english">You have to tear the elderly demagogic network.</span></p>

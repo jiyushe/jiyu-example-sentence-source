@@ -1,5 +1,7 @@
 # ideally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideally.md)
+
 <p><span class="chinese">完美的话甚至是一个参与性运动。</span><span class="english">Ideally even a participation sport.</span></p>
 
 <p><span class="chinese">中央银行可以理想地拒绝。</span><span class="english">The central bank would ideally say no.</span></p>

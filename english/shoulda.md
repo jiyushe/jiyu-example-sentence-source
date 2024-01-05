@@ -1,5 +1,7 @@
 # shoulda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoulda.md)
+
 <p><span class="chinese">我该穿蓝色的那件的。</span><span class="english">I shoulda worn my blue one.</span></p>
 
 <p><span class="chinese">我真该把电话放在家。</span><span class="english">I shoulda left my phone at home.</span></p>

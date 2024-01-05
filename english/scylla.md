@@ -1,5 +1,7 @@
 # scylla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scylla.md)
+
 <p><span class="chinese">你没拿到塞拉?。</span><span class="english">You Don't have Scylla?</span></p>
 
 <p><span class="chinese">林肯告诉莎拉自己定会找到“锡拉”。</span><span class="english">Lincoln tells her that he will find Scylla.</span></p>

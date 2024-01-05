@@ -1,5 +1,7 @@
 # limitless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limitless.md)
+
 <p><span class="chinese">未来有着无限的希望。</span><span class="english">The future holds limitless promise.</span></p>
 
 <p><span class="chinese">无限、永恒的爱情照耀着我。</span><span class="english">Limitless undying love which shines around me.</span></p>

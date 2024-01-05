@@ -1,5 +1,7 @@
 # receiving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receiving.md)
+
 <p><span class="chinese">虚心接受反馈。</span><span class="english">Be open to receiving feedback.</span></p>
 
 <p><span class="chinese">一接电话对方就挂了。</span><span class="english">Receiving hang-up phone calls.</span></p>

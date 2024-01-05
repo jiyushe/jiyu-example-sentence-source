@@ -1,5 +1,7 @@
 # transmural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmural.md)
+
 <p><span class="chinese">显微镜下Crohn病的特点是穿壁性炎症。</span><span class="english">Microscopically, Crohn's disease is characterized by transmural inflammation.</span></p>
 
 <p><span class="chinese">梗死是透壁性的即累及心肌的全层。</span><span class="english">The infarction is "transmural" in that it extends through the full thickness of the wall.</span></p>

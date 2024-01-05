@@ -1,5 +1,7 @@
 # 探寻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxun.md)
+
 <p><span class="chinese">这就是探寻为什么的力量。</span><span class="english">This is the power of asking why.</span></p>
 
 <p><span class="chinese">首先，他们是真理的探寻者。</span><span class="english">First, they were seekers of the truth.</span></p>

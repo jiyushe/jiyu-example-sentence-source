@@ -1,5 +1,7 @@
 # 永存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongcun.md)
+
 <p><span class="chinese">它让自己合理的永存。</span><span class="english">It perpetuates itself.</span></p>
 
 <p><span class="chinese">这就是客体永存性</span><span class="english">That's object permanence.</span></p>

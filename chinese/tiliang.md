@@ -1,5 +1,7 @@
 # 体谅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiliang.md)
+
 <p><span class="chinese">你根本就不会体谅人。</span><span class="english">You're inconsiderate.</span></p>
 
 <p><span class="chinese">他是很体谅人的。</span><span class="english">He is quite understanding.</span></p>

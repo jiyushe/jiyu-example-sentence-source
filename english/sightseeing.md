@@ -1,5 +1,7 @@
 # sightseeing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sightseeing.md)
+
 <p><span class="chinese">我打算去观光.</span><span class="english">I'm going sightseeing.</span></p>
 
 <p><span class="chinese">我是来这儿观光的。</span><span class="english">I am here for sightseeing.</span></p>

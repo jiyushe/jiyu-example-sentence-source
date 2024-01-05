@@ -1,5 +1,7 @@
 # 出超
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchao.md)
+
 <p><span class="chinese">如何做出超炫的网页?。</span><span class="english">How do I make Kickass Web Pages?</span></p>
 
 <p><span class="chinese">牺牲一个人偶发射出超强力激光。</span><span class="english">Sacrifices a doll to fire a super high-power laser.</span></p>

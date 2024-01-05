@@ -1,5 +1,7 @@
 # socially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socially.md)
+
 <p><span class="chinese">我只有在社交场合下才饮酒。</span><span class="english">I only drink socially.</span></p>
 
 <p><span class="chinese">社交也游刃有余。</span><span class="english">I was doing well socially.</span></p>

@@ -1,5 +1,7 @@
 # 相劝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangquan.md)
+
 <p><span class="chinese">到那时再相劝或祈祷依然迟矣。</span><span class="english">It will be late to counsel then pray.</span></p>
 
 <p><span class="chinese">那时所有的相劝与祈祷都晚矣。</span><span class="english">You understand it will be late to counsel them or pray.</span></p>

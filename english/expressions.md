@@ -1,5 +1,7 @@
 # expressions
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressions.md)
+
 <p><span class="chinese">我们有它们的表达式。</span><span class="english">We have expressions for that.</span></p>
 
 <p><span class="chinese">是能表达出一定意义的。</span><span class="english">Which expressions make sense.</span></p>

@@ -1,5 +1,7 @@
 # kolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kolo.md)
+
 <p><span class="chinese">科洛。图雷在禁赛半年之后还得重新证明自己。</span><span class="english">Kolo Touré is trying to re-establish himself after his six-month ban.</span></p>
 
 <p><span class="chinese">阿森纳的每一员都祝福图雷未来一切顺利。</span><span class="english">Everyone at Arsenal Football Club wishes Kolo the best of luck for the future.</span></p>

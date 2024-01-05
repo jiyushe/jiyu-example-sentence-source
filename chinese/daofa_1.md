@@ -1,5 +1,7 @@
 # 盗伐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daofa_1.md)
+
 <p><span class="chinese">盗伐林木罪是常见的破坏国家森林资源的犯罪，犯罪形式复杂多样。</span><span class="english">The crime of illegal lumbering, which damages national forestry resources, has multiple forms.</span></p>
 
 <p><span class="chinese">提出了对盗伐滥伐森林、林木的后果进行综合评价的方法。</span><span class="english">Putting forward overall evaluation to the results of unlawful felling tree and excessive deforestation.</span></p>

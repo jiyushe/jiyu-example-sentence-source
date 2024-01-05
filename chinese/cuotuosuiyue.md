@@ -1,5 +1,7 @@
 # 蹉跎岁月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuotuosuiyue.md)
+
 <p><span class="chinese">永远像一颗蹉跎岁月的星星一样。</span><span class="english">There glitters forever, like a useless star.</span></p>
 
 <p><span class="chinese">铁娘子执行蹉跎岁月的音乐录像。</span><span class="english">Music video by Iron Maiden performing Wasted Years.</span></p>

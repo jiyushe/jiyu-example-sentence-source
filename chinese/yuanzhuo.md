@@ -1,5 +1,7 @@
 # 圆桌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhuo.md)
+
 <p><span class="chinese">围着一个大圆桌？</span><span class="english">Around a big table?</span></p>
 
 <p><span class="chinese">圆桌上出有坐次之争。</span><span class="english">At a round table there's no dispute of place.</span></p>

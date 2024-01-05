@@ -1,5 +1,7 @@
 # pajama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pajama.md)
+
 <p><span class="chinese">我喜欢我的睡衣。</span><span class="english">I like my pajama.</span></p>
 
 <p><span class="chinese">不过有谁注意到“睡衣潮流”了吗？</span><span class="english">But has anyone noticed the "pajama trend"?</span></p>

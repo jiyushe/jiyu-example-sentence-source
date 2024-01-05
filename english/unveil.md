@@ -1,5 +1,7 @@
 # unveil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unveil.md)
+
 <p><span class="chinese">我可以揭开布幕吗？</span><span class="english">Can I unveil it?</span></p>
 
 <p><span class="chinese">六月初他的智囊团将会公开亮相。</span><span class="english">In early June he will unveil his new team.</span></p>

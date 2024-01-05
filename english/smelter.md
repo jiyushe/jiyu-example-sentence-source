@@ -1,5 +1,7 @@
 # smelter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smelter.md)
+
 <p><span class="chinese">整流器是熔炉电解槽中的关键组成部分。</span><span class="english">Rectifiers are the critical components in a smelter potline.</span></p>
 
 <p><span class="chinese">将以上的方法与模型用于株冶，对其进行物质流分析。</span><span class="english">Above method and the model is used to analyze material flow ofZhuzhou smelter.</span></p>

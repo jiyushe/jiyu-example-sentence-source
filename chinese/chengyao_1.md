@@ -1,5 +1,7 @@
 # 撑腰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyao_1.md)
+
 <p><span class="chinese">有军方撑腰的政府对新闻进行了严格审查。</span><span class="english">The military-backed government has heavily censored the news.</span></p>
 
 <p><span class="chinese">没了政府撑腰，私人企业掏起钱来心不甘情不愿。</span><span class="english">Without strong government backing, the private sector was loth to fork out.</span></p>

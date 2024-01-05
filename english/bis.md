@@ -1,5 +1,7 @@
 # bis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bis.md)
+
 <p><span class="chinese">然而，国际清算银行其实是在希望能鱼与熊掌兼得。</span><span class="english">Yet, at the same time, the BIS wants to eat its cake and have it too.</span></p>
 
 <p><span class="chinese">第四部分介绍了既判力和一事不再理。</span><span class="english">The forth part introduces the res judicata and principle of non bis idem.</span></p>

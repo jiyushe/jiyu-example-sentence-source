@@ -1,5 +1,7 @@
 # toque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toque.md)
+
 <p><span class="chinese">她戴的貂皮无沿帽是在她头发还是黄色时买的。</span><span class="english">She was wearing the ermine toque she'd bought when her hair was yellow.</span></p>
 
 <p><span class="chinese">现在一个戴貂皮无沿帽的女人和一个穿灰衣服的先生正好在她面前相遇了。</span><span class="english">And now an ermine toque and a gentleman in grey met just in front of her.</span></p>

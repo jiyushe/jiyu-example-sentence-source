@@ -1,5 +1,7 @@
 # beady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beady.md)
+
 <p><span class="chinese">鸟有喙和一双小圆珠般而亮晶晶的眼睛。</span><span class="english">A bird has a beak and two beady eyes.</span></p>
 
 <p><span class="chinese">任何事都很难逃过我们老师那明亮的眼睛。</span><span class="english">Not much escapes our teacher's beady eye.</span></p>

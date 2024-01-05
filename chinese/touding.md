@@ -1,5 +1,7 @@
 # 头顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touding.md)
+
 <p><span class="chinese">你要不要在头顶剪去一些头发？</span><span class="english">I'd like a crew-cut.</span></p>
 
 <p><span class="chinese">子弹飕地飞过我的头顶。</span><span class="english">The bullet zipped past.</span></p>

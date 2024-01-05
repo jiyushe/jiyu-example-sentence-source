@@ -1,5 +1,7 @@
 # 狼狈为奸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langbeiweijian.md)
+
 <p><span class="chinese">她们在狼狈为奸吗？</span><span class="english">Were they in collusion?</span></p>
 
 <p><span class="chinese">他们与间谍软件和病毒狼狈为奸。</span><span class="english">They run rampant with spyware and viruses.</span></p>

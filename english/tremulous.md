@@ -1,5 +1,7 @@
 # tremulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremulous.md)
+
 <p><span class="chinese">来显示自己震颤的羽绒？</span><span class="english">To show its tremulous plumes?</span></p>
 
 <p><span class="chinese">我认识你，怯懦的信仰。</span><span class="english">I know you , tremulous beliefs.</span></p>

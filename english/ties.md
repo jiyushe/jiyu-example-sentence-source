@@ -1,5 +1,7 @@
 # ties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ties.md)
+
 <p><span class="chinese">我们的领带是桔黄色的。</span><span class="english">Our ties are orange.</span></p>
 
 <p><span class="chinese">莫扎特结连理.</span><span class="english">Mozart ties the knot.</span></p>

@@ -1,5 +1,7 @@
 # thresh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thresh.md)
+
 <p><span class="chinese">让我们商讨一下这个问题。</span><span class="english">Let's thresh out this problem.</span></p>
 
 <p><span class="chinese">天气好的话，我们就打麦。</span><span class="english">We shall thresh the wheat, weather permitting.</span></p>

@@ -1,5 +1,7 @@
 # 猩红热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghongre.md)
+
 <p><span class="chinese">他患了猩红热。</span><span class="english">He's got scarlet fever.</span></p>
 
 <p><span class="chinese">看起来这好像是猩红热。</span><span class="english">It looks as if it's scarlet fever.</span></p>

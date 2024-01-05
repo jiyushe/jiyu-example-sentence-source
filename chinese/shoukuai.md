@@ -1,5 +1,7 @@
 # 手快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoukuai.md)
+
 <p><span class="chinese">这套戏法要求手快。</span><span class="english">This trick demands sleight of hand.</span></p>
 
 <p><span class="chinese">有很多工作要做，人多手快。</span><span class="english">More is better when there's a lot to do.</span></p>

@@ -1,5 +1,7 @@
 # 本队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bendui.md)
+
 <p><span class="chinese">从现在起，我在负责本队。</span><span class="english">From now on, I'm in charge of the team.</span></p>
 
 <p><span class="chinese">斯哥拉以平均每场16.8分在本队中领先。</span><span class="english">Luis Scola leads the Rockets with an average of 16.8 points.</span></p>

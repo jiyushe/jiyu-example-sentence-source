@@ -1,5 +1,7 @@
 # sacrifice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrifice.md)
+
 <p><span class="chinese">我们不怕牺牲。</span><span class="english">We fear no sacrifice.</span></p>
 
 <p><span class="chinese">神祗要望之牺牲？</span><span class="english">A gods-decreed sacrifice?</span></p>

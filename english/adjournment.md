@@ -1,5 +1,7 @@
 # adjournment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjournment.md)
+
 <p><span class="chinese">我提议现在休会。</span><span class="english">Move for an adjournment.</span></p>
 
 <p><span class="chinese">延期或休会至将来某一日期。</span><span class="english">Postponement or adjournment to a future date.</span></p>

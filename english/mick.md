@@ -1,5 +1,7 @@
 # mick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mick.md)
+
 <p><span class="chinese">米克耸耸肩。</span><span class="english">Mick shrugged.</span></p>
 
 <p><span class="chinese">他打电话给米克。</span><span class="english">He phoned Mick.</span></p>

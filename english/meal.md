@@ -1,5 +1,7 @@
 # meal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meal.md)
+
 <p><span class="chinese">美味大餐。</span><span class="english">A gourmet meal.</span></p>
 
 <p><span class="chinese">没有磨里，出饭吃。</span><span class="english">No mill, no meal.</span></p>

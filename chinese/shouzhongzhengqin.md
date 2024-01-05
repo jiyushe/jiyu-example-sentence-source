@@ -1,5 +1,7 @@
 # 寿终正寝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhongzhengqin.md)
+
 <p><span class="chinese">逃跑，至少能苟且偷生，年复一年，直到寿终正寝。</span><span class="english">Run, and you'll live at least a while.</span></p>
 
 <p><span class="chinese">逃跑，至少能苟且偷生，年复一年，直到寿终正寝。</span><span class="english">Run, and you will live at least a while.</span></p>

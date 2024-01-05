@@ -1,5 +1,7 @@
 # 海螺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hailuo.md)
+
 <p><span class="chinese">把一枚海螺放在耳边?。</span><span class="english">With your ear to a seashell ?</span></p>
 
 <p><span class="chinese">幼儿海螺？我连一个都吃不了！</span><span class="english">Baby conch? I couldn't eat a whole one!</span></p>

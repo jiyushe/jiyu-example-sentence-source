@@ -1,5 +1,7 @@
 # 固定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guding.md)
+
 <p><span class="chinese">固定在一巴下。</span><span class="english">Fixed at one bar.</span></p>
 
 <p><span class="chinese">固定面板罩。</span><span class="english">Fixed three-panel hood.</span></p>

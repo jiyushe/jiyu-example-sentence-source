@@ -1,5 +1,7 @@
 # recollect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recollect.md)
+
 <p><span class="chinese">我想不起来我们是在什么地方相遇的。</span><span class="english">I cannot recollect where we met.</span></p>
 
 <p><span class="chinese">我想不起怎样驾船了。</span><span class="english">I don't recollect how sail a boat.</span></p>

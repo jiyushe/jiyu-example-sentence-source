@@ -1,5 +1,7 @@
 # Scandinavia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scandinavia.md)
+
 <p><span class="chinese">斯堪的纳维亚地区的水域较广。</span><span class="english">Lots of water in the Scandinavia area.</span></p>
 
 <p><span class="chinese">我写这篇文章的题材来自于北斯堪的纳维亚半岛。</span><span class="english">Iam writing this from Northern Scandinavia.</span></p>

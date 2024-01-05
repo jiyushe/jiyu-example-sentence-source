@@ -1,5 +1,7 @@
 # tank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tank.md)
+
 <p><span class="chinese">他的氧气罐空了。</span><span class="english">His tank was empty.</span></p>
 
 <p><span class="chinese">坦克掉了一条履带。</span><span class="english">The tank threw a track.</span></p>

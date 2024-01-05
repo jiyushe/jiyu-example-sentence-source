@@ -1,5 +1,7 @@
 # caddie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caddie.md)
+
 <p><span class="chinese">球童是球员击球的良师益友。</span><span class="english">Caddie is your "golfing friend".</span></p>
 
 <p><span class="chinese">我给你当球僮好吗？</span><span class="english">Would you like me to caddie for you?</span></p>

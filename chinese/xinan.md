@@ -1,5 +1,7 @@
 # 西南
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinan.md)
+
 <p><span class="chinese">请面向西南站立。</span><span class="english">Please stand facing southwest.</span></p>
 
 <p><span class="chinese">隧道在出口的西南边。</span><span class="english">The tunnel is southwest of the exit.</span></p>

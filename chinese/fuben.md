@@ -1,5 +1,7 @@
 # 副本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuben.md)
+
 <p><span class="chinese">副本不能再被复制。</span><span class="english">Duplicates are not copied.</span></p>
 
 <p><span class="chinese">任何副本章你喜欢。</span><span class="english">Copies any chapter you like.</span></p>

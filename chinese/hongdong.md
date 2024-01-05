@@ -1,5 +1,7 @@
 # 哄动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongdong.md)
+
 <p><span class="chinese">这条新闻哄动了世界。</span><span class="english">The news stirred the world.</span></p>
 
 <p><span class="chinese">因为这条消息而全城哄动。</span><span class="english">The whole town was astir with the news.</span></p>

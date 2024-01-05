@@ -1,5 +1,7 @@
 # consociation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consociation.md)
+
 <p><span class="chinese">方法采用胸脐下腹壁联合皮瓣转位修复上肢大面积皮肤缺损23例。</span><span class="english">Methods Adopting the chest abdomen consociation flap to repair arms large area skins defection in 23 cases.</span></p>
 
 <p><span class="chinese">思巴达国王联合所有的盟国组成了强大的希腊联军远征特洛伊。</span><span class="english">Think all allies of the consociation of Ba Da2 king constituted strong Greece allied troops to go on expedition Troy.</span></p>

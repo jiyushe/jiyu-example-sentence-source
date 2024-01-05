@@ -1,5 +1,7 @@
 # pianissimo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pianissimo.md)
+
 <p><span class="chinese">交响乐以弱音结束。</span><span class="english">The symphony ends in a pianissimo.</span></p>
 
 <p><span class="chinese">这部交响乐以弱音乐章结束。</span><span class="english">The symphony ends in a pianissimo.</span></p>

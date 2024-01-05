@@ -1,5 +1,7 @@
 # polypropylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polypropylene.md)
+
 <p><span class="chinese">是一种叫等规聚丙烯的材料。</span><span class="english">It is called isotactic polypropylene.</span></p>
 
 <p><span class="chinese">聚丙烯包含玻璃粉。</span><span class="english">Polypropylene filled with glass micro-beads.</span></p>

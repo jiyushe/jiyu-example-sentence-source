@@ -1,5 +1,7 @@
 # spake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spake.md)
+
 <p><span class="chinese">就是他，我所说的那个人。</span><span class="english">It is He of whom I spake.</span></p>
 
 <p><span class="chinese">但耶稣这话，是以他的身体为殿。</span><span class="english">But he spake of the temple of his body.</span></p>

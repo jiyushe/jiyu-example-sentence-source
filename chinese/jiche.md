@@ -1,5 +1,7 @@
 # 机车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiche.md)
+
 <p><span class="chinese">我骑轻型机车去那儿。</span><span class="english">I got there by scooter.</span></p>
 
 <p><span class="chinese">机车噗噗地喷着气慢慢地驶去。</span><span class="english">The engine puffed slowly away.</span></p>

@@ -1,5 +1,7 @@
 # 阳刚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanggang.md)
+
 <p><span class="chinese">阿波罗象征着青春和阳刚之美。</span><span class="english">Appollo stood for youth and manly beauty.</span></p>
 
 <p><span class="chinese">我是男人，一个非常阳刚的男人，我剃腋毛。</span><span class="english">I am a man and a very masculine one and shave my pits.</span></p>

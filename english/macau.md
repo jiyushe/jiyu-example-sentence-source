@@ -1,5 +1,7 @@
 # macau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macau.md)
+
 <p><span class="chinese">以下就是我在澳门的战力品。</span><span class="english">Here's what I bought in Macau.</span></p>
 
 <p><span class="chinese">澳门是富裕的城市，但贫富悬殊严重。</span><span class="english">Macau is affluent but not for all people.</span></p>

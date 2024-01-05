@@ -1,5 +1,7 @@
 # oxygen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxygen.md)
+
 <p><span class="chinese">你需要更多的氧气。</span><span class="english">You need more oxygen.</span></p>
 
 <p><span class="chinese">我们看氧。</span><span class="english">And, let's try oxygen.</span></p>

@@ -1,5 +1,7 @@
 # 体罚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tifa.md)
+
 <p><span class="chinese">体罚是常见的。</span><span class="english">Corporal punishment is common.</span></p>
 
 <p><span class="chinese">体罚是严格禁止的。</span><span class="english">Corporal punishment is strictly banned.</span></p>

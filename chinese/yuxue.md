@@ -1,5 +1,7 @@
 # 淤血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxue.md)
+
 <p><span class="chinese">都是体内有淤血的表现。</span><span class="english">Is in vivo has the extravasated blood performance.</span></p>
 
 <p><span class="chinese">以一片片荚果放飞曾经鲜嫩如淤血似的种子。</span><span class="english">And letting go of the seeds once blue-blooded like gore.</span></p>

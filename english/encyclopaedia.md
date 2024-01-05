@@ -1,5 +1,7 @@
 # encyclopaedia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encyclopaedia.md)
+
 <p><span class="chinese">我将在百科全书中查阅它。</span><span class="english">I'll look it up in the encyclopaedia.</span></p>
 
 <p><span class="chinese">这是本哲学百科全书。</span><span class="english">This is an encyclopaedia of philosophy.</span></p>

@@ -1,5 +1,7 @@
 # 吃香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chixiang_1.md)
+
 <p><span class="chinese">这些公司在信贷紧缩时期很吃香。</span><span class="english">These companies are popular in a credit crunch.</span></p>
 
 <p><span class="chinese">那位大臣当时在宫廷里很吃香。</span><span class="english">The minister was in high favour at Court at that time.</span></p>

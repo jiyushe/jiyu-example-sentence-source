@@ -1,5 +1,7 @@
 # lowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowing.md)
+
 <p><span class="chinese">豆腐是一种类似低胆固醇的良药。</span><span class="english">Tofu is as good as medicine for lowing cholesterol</span></p>
 
 <p><span class="chinese">他们住在阳光普照的帐篷里，与“哞哞”叫唤的牛群为伴。</span><span class="english">They lived in sunkissed tents amid the lowing herds.</span></p>

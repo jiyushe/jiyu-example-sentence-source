@@ -1,5 +1,7 @@
 # 农工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonggong.md)
+
 <p><span class="chinese">这一趋势不仅仅发生在德州农工大学。</span><span class="english">That trend is not exclusive to Texas A&M.</span></p>
 
 <p><span class="chinese">它在一九七零年始于德克萨斯州农工大学。</span><span class="english">It began in 1970 at Texas A and M University.</span></p>

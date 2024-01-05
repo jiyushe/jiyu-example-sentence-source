@@ -1,5 +1,7 @@
 # 简牍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiandu_1.md)
+
 <p><span class="chinese">因此，这些秦汉简牍具有很高的学术价值。</span><span class="english">Therefore, the Qin and Han Jian Du of high academic value.</span></p>
 
 <p><span class="chinese">其实这种命名并不恰当，也并不能真实的反映出简牍的性质。</span><span class="english">Actually, The name"Lipu"doesn't reflect the quality of bamboo.</span></p>

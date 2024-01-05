@@ -1,5 +1,7 @@
 # rivalrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rivalrous.md)
+
 <p><span class="chinese">CAN总线现在已经广泛应用于诸多领域，具有较强的市场竞争力。</span><span class="english">CAN bus now has been used in many fields , and is rivalrous.</span></p>
 
 <p><span class="chinese">但我认为现在更应强调竞争的元素。</span><span class="english">But I think the more rivalrous elements are becoming more emphasized now.</span></p>

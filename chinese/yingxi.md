@@ -1,5 +1,7 @@
 # 影戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxi.md)
+
 <p><span class="chinese">我是个影戏迷。</span><span class="english">I am a movie buff.</span></p>
 
 <p><span class="chinese">我们被这部影戏所深深地感动。</span><span class="english">We were deeply moved by the movie.</span></p>

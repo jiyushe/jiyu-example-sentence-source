@@ -1,5 +1,7 @@
 # 制造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizao.md)
+
 <p><span class="chinese">为了制造氨。</span><span class="english">To make ammonia.</span></p>
 
 <p><span class="chinese">他能制造漩涡…</span><span class="english">He creates vortexes.</span></p>

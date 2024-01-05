@@ -1,5 +1,7 @@
 # degenerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degenerate.md)
+
 <p><span class="chinese">退化的情形是怎样的？</span><span class="english">What about the degenerate cases?</span></p>
 
 <p><span class="chinese">黄母我怎么生了你这么一个败类。</span><span class="english">How I bore a degenerate like you.</span></p>

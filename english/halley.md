@@ -1,5 +1,7 @@
 # halley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halley.md)
+
 <p><span class="chinese">莱斯·哈雷现在可以把约翰尼借出去，并把大部分的钱装入口袋。</span><span class="english">Les Halley could now loan Johnny out and pocket most of the money.</span></p>
 
 <p><span class="chinese">哈雷认为某些足以使一个会发生什么事情对未来的预测。</span><span class="english">Halley felt certain enough to make a prediction of what would happen in the future.</span></p>

@@ -1,5 +1,7 @@
 # sentry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentry.md)
+
 <p><span class="chinese">我替你放哨。</span><span class="english">I sentry for you.</span></p>
 
 <p><span class="chinese">空投一具可放置的步哨机枪。</span><span class="english">Airdrop a placeable Sentry Gun.</span></p>

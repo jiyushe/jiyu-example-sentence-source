@@ -1,5 +1,7 @@
 # assiduity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assiduity.md)
+
 <p><span class="chinese">他对所有工作都兢兢业业。</span><span class="english">He shows great assiduity in all his work.</span></p>
 
 <p><span class="chinese">温和但有穿透力的寒冷。</span><span class="english">I vanquished her coldness with my assiduity.</span></p>

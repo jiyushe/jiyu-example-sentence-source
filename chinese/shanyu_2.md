@@ -1,5 +1,7 @@
 # 山雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyu_2.md)
+
 <p><span class="chinese">他们在山雨欲来的天空下行进。</span><span class="english">They are marching under a threatening sky.</span></p>
 
 <p><span class="chinese">我知道，其实，落一场这样的山雨很普通。普通得犹如其中的每一滴雨水。</span><span class="english">I know such a rain in the mountain is as ordinary as every drop in it.</span></p>

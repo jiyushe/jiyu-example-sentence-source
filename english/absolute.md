@@ -1,5 +1,7 @@
 # absolute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absolute.md)
+
 <p><span class="chinese">这是一个无疑的事实。</span><span class="english">It is an absolute fact.</span></p>
 
 <p><span class="chinese">有意义的最低的温度。</span><span class="english">That's the absolute zero.</span></p>

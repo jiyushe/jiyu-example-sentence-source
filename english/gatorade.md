@@ -1,5 +1,7 @@
 # gatorade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gatorade.md)
+
 <p><span class="chinese">佳得乐还是水？</span><span class="english">Gatorade or water?</span></p>
 
 <p><span class="chinese">他吃了点东西，喝了点佳得乐。</span><span class="english">He's eaten and he drinks some Gatorade.</span></p>

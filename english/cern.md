@@ -1,5 +1,7 @@
 # cern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cern.md)
+
 <p><span class="chinese">当然，真正的新闻将在CERN事实上发现些什么的时候出现。</span><span class="english">The real news, of course, will come when CERN actually finds something.</span></p>
 
 <p><span class="chinese">他们测量位于CERN源的质子的时间分布。</span><span class="english">They measure the time distribution of the protons at the source, in CERN.</span></p>

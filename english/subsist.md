@@ -1,5 +1,7 @@
 # subsist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsist.md)
+
 <p><span class="chinese">天上的国度依何存在？</span><span class="english">How do the heavenly worlds exist and subsist?</span></p>
 
 <p><span class="chinese">别担心你的孩子们，我可以供养他们。</span><span class="english">Don't worry about your children whom I can subsist.</span></p>

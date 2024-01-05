@@ -1,5 +1,7 @@
 # 大安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daan.md)
+
 <p><span class="chinese">这里是大安商业银行。</span><span class="english">This is Dan An Commercial Bank.</span></p>
 
 <p><span class="chinese">卡丽娜和辛西亚在大安森林公园聊天。</span><span class="english">Karina and Cynthia are talking in Da-an Park.</span></p>

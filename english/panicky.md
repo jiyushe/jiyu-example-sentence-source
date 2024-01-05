@@ -1,5 +1,7 @@
 # panicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panicky.md)
+
 <p><span class="chinese">于是每次救市是临时应对，伴随恐慌一片。</span><span class="english">So each bailout has been ad hoc and panicky.</span></p>
 
 <p><span class="chinese">这个惊惧的妇人，带著烧焦的头发，刚刚逃离火场。</span><span class="english">With singed hair, the panicky woman just escaped from the fire.</span></p>

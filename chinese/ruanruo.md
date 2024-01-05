@@ -1,5 +1,7 @@
 # 软弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanruo.md)
+
 <p><span class="chinese">他有一个软弱的心。</span><span class="english">He had a weak heart.</span></p>
 
 <p><span class="chinese">南达是一个软弱的人。</span><span class="english">Nanda is a weak man.</span></p>

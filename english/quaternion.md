@@ -1,5 +1,7 @@
 # quaternion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaternion.md)
+
 <p><span class="chinese">计算四元数的自然对数。</span><span class="english">Calculates the natural logarithm of a quaternion.</span></p>
 
 <p><span class="chinese">通过它，可以掌握四元数的一些特征。</span><span class="english">Through it, we can get quaternion some characteristics.</span></p>

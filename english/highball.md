@@ -1,5 +1,7 @@
 # highball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highball.md)
+
 <p><span class="chinese">你是要苏打威士忌还是鸡尾酒？</span><span class="english">Second, there is the highball glass.</span></p>
 
 <p><span class="chinese">在鸡尾酒杯中放满冰块。</span><span class="english">Fill a highball glass with ice cubes.</span></p>

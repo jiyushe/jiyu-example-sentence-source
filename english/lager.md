@@ -1,5 +1,7 @@
 # lager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lager.md)
+
 <p><span class="chinese">这啤酒走气了。</span><span class="english">The lager has gone flat.</span></p>
 
 <p><span class="chinese">但是窖藏啤酒不同于麦芽啤酒。</span><span class="english">but a lager is different to an ale.</span></p>

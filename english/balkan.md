@@ -1,5 +1,7 @@
 # balkan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balkan.md)
+
 <p><span class="chinese">人口政治学正使得许多巴尔干半岛国家惊慌。</span><span class="english">Demography is causing alarm in many Balkan countries.</span></p>
 
 <p><span class="chinese">古代沿巴尔干半岛亚德里亚海岸一地区。</span><span class="english">An ancient region of the Balkan Peninsula on the Adriatic coast.</span></p>

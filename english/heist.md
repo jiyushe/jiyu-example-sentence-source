@@ -1,5 +1,7 @@
 # heist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heist.md)
+
 <p><span class="chinese">你计划这次抢案多久了?。</span><span class="english">How long were you planning this heist?</span></p>
 
 <p><span class="chinese">你可以在软件商店里找到海斯特。</span><span class="english">You can find The Heist here in the App Store.</span></p>

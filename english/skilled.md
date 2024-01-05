@@ -1,5 +1,7 @@
 # skilled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skilled.md)
+
 <p><span class="chinese">他精于雕刻。</span><span class="english">He is skilled in sculpture.</span></p>
 
 <p><span class="chinese">他已经成为一名熟练的工人。</span><span class="english">He has become a skilled worker.</span></p>

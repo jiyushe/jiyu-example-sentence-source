@@ -1,5 +1,7 @@
 # daryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daryl.md)
+
 <p><span class="chinese">达丽尔和安德列冲树林里寻找失踪的人。</span><span class="english">Daryl and Andrea scour the woods for a missing person.</span></p>
 
 <p><span class="chinese">“我们希望我们的人只是比赛”总经理达里尔莫雷说。</span><span class="english">"We want our guys to just play," general manager Daryl Morey said.</span></p>

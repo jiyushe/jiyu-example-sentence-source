@@ -1,5 +1,7 @@
 # desulfuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desulfuration.md)
+
 <p><span class="chinese">吸附剂本身制备条件对脱硫性能影响明显。</span><span class="english">Preparation condition of sorbent has obvious influence on the desulfuration property.</span></p>
 
 <p><span class="chinese">NHD是一种新型高效脱硫脱碳溶剂，主要成分是聚乙二醇二甲醚。</span><span class="english">The NHD is a new-style and high-effective solvent for desulfuration and decarbonization.</span></p>

@@ -1,5 +1,7 @@
 # 中央电视台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyangdianshitai.md)
+
 <p><span class="chinese">中央电视台虽然是由国家经营的，但却不仅仅是一个宣传机构。</span><span class="english">CCTV, though state-run, is not just a propaganda outfit.</span></p>
 
 <p><span class="chinese">他们说，就连中央电视台方面也不太肯定能按这一设计盖出大楼来。</span><span class="english">Even their client wasn't sure it could be built, they say.</span></p>

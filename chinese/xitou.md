@@ -1,5 +1,7 @@
 # 洗头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitou.md)
+
 <p><span class="chinese">你想洗头吗？</span><span class="english">Would you like shampoo?</span></p>
 
 <p><span class="chinese">买洗头液不难，买卫生棉条呢？</span><span class="english">Shampoo is easy. Tampons?</span></p>

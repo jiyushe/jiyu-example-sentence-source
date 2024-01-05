@@ -1,5 +1,7 @@
 # overwhelm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overwhelm.md)
+
 <p><span class="chinese">困难压不倒我们。</span><span class="english">No difficulty can overwhelm us.</span></p>
 
 <p><span class="chinese">不要让问题将自己打垮。</span><span class="english">Do not let the problems overwhelm you.</span></p>

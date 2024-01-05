@@ -1,5 +1,7 @@
 # misdiagnosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdiagnosis.md)
+
 <p><span class="chinese">错误的诊断是危险的。</span><span class="english">Misdiagnosis is dangerous.</span></p>
 
 <p><span class="chinese">这是一次危险的错误判断。</span><span class="english">This is a dangerous misdiagnosis.</span></p>

@@ -1,5 +1,7 @@
 # politically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politically.md)
+
 <p><span class="chinese">她在政治上有头脑。</span><span class="english">She is politically aware.</span></p>
 
 <p><span class="chinese">因为它政治上很容易。</span><span class="english">Because it is politically easy.</span></p>

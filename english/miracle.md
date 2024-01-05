@@ -1,5 +1,7 @@
 # miracle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miracle.md)
+
 <p><span class="chinese">啊，这生命的奇迹。</span><span class="english">Ah, the miracle of life.</span></p>
 
 <p><span class="chinese">你在期求一个奇迹吗？</span><span class="english">Are you hoping for a miracle?</span></p>

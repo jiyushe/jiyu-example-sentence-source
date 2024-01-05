@@ -1,5 +1,7 @@
 # incendiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incendiary.md)
+
 <p><span class="chinese">“煽动性的念头，不太可能。”成斌说。</span><span class="english">"Incendiary stuff, not likely, " Cheng said.</span></p>
 
 <p><span class="chinese">朝鲜经常挑起南北双方之间的口舌之争。</span><span class="english">North Korea frequently lobs incendiary rhetoric across the border.</span></p>

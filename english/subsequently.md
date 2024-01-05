@@ -1,5 +1,7 @@
 # subsequently 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsequently.md)
+
 <p><span class="chinese">摩托罗拉随后进行了反诉。</span><span class="english">Motorola subsequently countersued.</span></p>
 
 <p><span class="chinese">鲍勃·奎克后来撤消了指控。</span><span class="english">He subsequently withdrew the accusation.</span></p>

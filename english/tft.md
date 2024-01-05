@@ -1,5 +1,7 @@
 # tft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tft.md)
+
 <p><span class="chinese">就为了开心——透明笔记本电脑教程</span><span class="english">Transparent TFT Screen Tutorial</span></p>
 
 <p><span class="chinese">然而，它的大TFT显示屏真是让人大饱眼福。</span><span class="english">Yet its large TFT display is a feast for the eyes.</span></p>

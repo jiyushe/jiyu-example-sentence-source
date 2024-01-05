@@ -1,5 +1,7 @@
 # edna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edna.md)
+
 <p><span class="chinese">企鹅埃德娜发现新世界是第四本插图绘画本。</span><span class="english">Edna the penguin goes on a quest to discover new colors.</span></p>
 
 <p><span class="chinese">他看见埃德娜走过去，胳膊上挂着一只缝纫袋，摇摇晃晃的。</span><span class="english">He saw Edna passing with a sewing kit dangling from her arm.</span></p>

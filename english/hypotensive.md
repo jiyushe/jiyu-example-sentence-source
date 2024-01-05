@@ -1,5 +1,7 @@
 # hypotensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypotensive.md)
+
 <p><span class="chinese">观察降压效果和不良反应。</span><span class="english">Observe hypotensive effect and adverse reactions.</span></p>
 
 <p><span class="chinese">评估病人低血压性发作或癫痫史。</span><span class="english">Assess history of hypotensive episodes or seizures.</span></p>

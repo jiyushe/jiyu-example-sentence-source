@@ -1,5 +1,7 @@
 # 半死不活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bansibuhuo.md)
+
 <p><span class="chinese">你就看不出来它已经是半死不活了吗？</span><span class="english">Can't you see he's half-dead?</span></p>
 
 <p><span class="chinese">你不能有那种“半死不活”的银行。”</span><span class="english">You cannot have 'zombie' banks.</span></p>

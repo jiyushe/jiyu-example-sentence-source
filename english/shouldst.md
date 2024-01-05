@@ -1,5 +1,7 @@
 # shouldst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shouldst.md)
+
 <p><span class="chinese">你何以改变不如它？</span><span class="english">Shouldst thou change less than they.</span></p>
 
 <p><span class="chinese">见到他的美，你准会愣住！</span><span class="english">Seeing his beauty, thou shouldst strike at it!</span></p>

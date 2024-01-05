@@ -1,5 +1,7 @@
 # nongovernment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nongovernment.md)
+
 <p><span class="chinese">“两个层面”指的是政府间合作与非政府间合作。</span><span class="english">Two layers mean the cooperation in intra-government and nongovernment.</span></p>
 
 <p><span class="chinese">鼓励扩大民间投资，完善和落实促进民间投资的相关政策。</span><span class="english">We encourage the investment of folks, improve and apply relative measures on nongovernment investment.</span></p>

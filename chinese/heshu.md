@@ -1,5 +1,7 @@
 # 合署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshu.md)
+
 <p><span class="chinese">游行路线是由维多利亚公园至中区政府合署。</span><span class="english">The march route is from Victoria Park to the Central Government Offices.</span></p>
 
 <p><span class="chinese">所有婚姻纪录，均由金钟道政府合署的登记总办事处永久保管。</span><span class="english">All records are maintained permanently at the General Register Office in the Queens way Government Offices.</span></p>

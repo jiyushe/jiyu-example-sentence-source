@@ -1,5 +1,7 @@
 # ad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ad.md)
+
 <p><span class="chinese">广告盲目性。</span><span class="english">Ad blindness.</span></p>
 
 <p><span class="chinese">上面有他的广告。</span><span class="english">There was his ad.</span></p>

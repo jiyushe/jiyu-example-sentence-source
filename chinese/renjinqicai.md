@@ -1,5 +1,7 @@
 # 人尽其才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjinqicai.md)
+
 <p><span class="chinese">让每个人都人尽其才。</span><span class="english">Let every man do his best.</span></p>
 
 <p><span class="chinese">让每个人都人尽其才。</span><span class="english">Let every man so his best.</span></p>

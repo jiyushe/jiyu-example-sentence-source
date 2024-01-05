@@ -1,5 +1,7 @@
 # intension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intension.md)
+
 <p><span class="chinese">企业社会责任的内涵是什么?。</span><span class="english">What is the intension of CSR?</span></p>
 
 <p><span class="chinese">我的打算是邀请我所有的朋友来参加晚会。</span><span class="english">My intension is to invite all my friends to the party.</span></p>

@@ -1,5 +1,7 @@
 # 救生筏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushengfa.md)
+
 <p><span class="chinese">我船需要救生筏。</span><span class="english">I require liferafts.</span></p>
 
 <p><span class="chinese">通过安全网进救生筏。</span><span class="english">Enter liferaft over nets.</span></p>

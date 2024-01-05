@@ -1,5 +1,7 @@
 # wager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wager.md)
+
 <p><span class="chinese">我为此下十元赌注。</span><span class="english">I wager ten dollars on it.</span></p>
 
 <p><span class="chinese">但是你赢了你所赌注的。</span><span class="english">But you win what you wager.</span></p>

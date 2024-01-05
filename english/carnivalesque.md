@@ -1,5 +1,7 @@
 # carnivalesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnivalesque.md)
+
 <p><span class="chinese">就算在这种夸张开放气氛下，快乐却极少能摆脱社会的批评。</span><span class="english">In its excess and exaggeration, the carnivalesque is also rarely free from a critique of society.</span></p>
 
 <p><span class="chinese">这种深入调查的合作呈现在了这些嘉年华快照中。</span><span class="english">The result of this collaborative, in depth inquiry is presented in these carnivalesque snap shots.</span></p>

@@ -1,5 +1,7 @@
 # 诊察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhencha_1.md)
+
 <p><span class="chinese">应立即找名医诊察。</span><span class="english">Skilled medical advice shall is at once seek.</span></p>
 
 <p><span class="chinese">诊察了这位老武士之后，伤心地摇摇头。</span><span class="english">He examined the old knight and shook his head sadly.</span></p>

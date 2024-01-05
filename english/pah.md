@@ -1,5 +1,7 @@
 # pah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pah.md)
+
 <p><span class="chinese">芘是多环芳烃的一个代表性化合物。</span><span class="english">Pyrene is a representative compound among PAH.</span></p>
 
 <p><span class="chinese">总共有140名儿童被分为多环芳烃的高接触者。</span><span class="english">A total of 140 children were classified as having high PAH exposure.</span></p>

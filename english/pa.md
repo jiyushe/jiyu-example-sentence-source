@@ -1,5 +1,7 @@
 # pa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pa.md)
+
 <p><span class="chinese">噢，爸爸，请把我带回家。</span><span class="english">Ooooh, Pa. Take me home.</span></p>
 
 <p><span class="chinese">也鱿不再容怕了。</span><span class="english">Also you no longer Rong Pa.</span></p>

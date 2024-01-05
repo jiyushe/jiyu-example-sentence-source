@@ -1,5 +1,7 @@
 # ringside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringside.md)
+
 <p><span class="chinese">新秀然后进行破坏马戏团面积。</span><span class="english">The rookies then proceed to destroy the ringside area.</span></p>
 
 <p><span class="chinese">偏载载荷必须远离台边约300毫米。</span><span class="english">Partial load must be kept away from ringside ca. 300 mm.</span></p>

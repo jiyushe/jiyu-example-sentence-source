@@ -1,5 +1,7 @@
 # windsor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windsor.md)
+
 <p><span class="chinese">温莎堡城堡和城镇。</span><span class="english">Windsor castle and the town.</span></p>
 
 <p><span class="chinese">乔治六世称他哥哥为温莎公爵。</span><span class="english">George VI styled his brother Duke of Windsor.</span></p>

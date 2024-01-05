@@ -1,5 +1,7 @@
 # uncut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncut.md)
+
 <p><span class="chinese">然后将这些镰刀放在尚未割的秣草前面。</span><span class="english">Then put them before the uncut hay.</span></p>
 
 <p><span class="chinese">我们也接受未切割的钻石和金币。</span><span class="english">We accept uncut diamonds and gold ingots , too.</span></p>

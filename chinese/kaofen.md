@@ -1,5 +1,7 @@
 # 考分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaofen.md)
+
 <p><span class="chinese">尽管他的考分很低，他还是想方设法进了大学。</span><span class="english">He managed to get into college in spite of his bad grades.</span></p>
 
 <p><span class="chinese">同样的考卷放在下一年就不一定得到同样的考分了，有可能被推高，而实际上没有可能下降。</span><span class="english">Every year some are pushed up but virtually none down, resulting in a subtle year-on-year shift.</span></p>

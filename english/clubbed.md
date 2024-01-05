@@ -1,5 +1,7 @@
 # clubbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clubbed.md)
+
 <p><span class="chinese">这两个人同舟共济。</span><span class="english">The two men clubbed together.</span></p>
 
 <p><span class="chinese">所有的学生都集中了起来。</span><span class="english">All the students have clubbed.</span></p>

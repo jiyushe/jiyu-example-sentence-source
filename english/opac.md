@@ -1,5 +1,7 @@
 # opac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opac.md)
+
 <p><span class="chinese">对这一本书，您最好先查一下目录。</span><span class="english">For this book, would you please consult the OPAC first.</span></p>
 
 <p><span class="chinese">如果您在联机目录中查找的话，您会很容易地找到您要的资料。</span><span class="english">You can find what you need easily if you search in the OPAC.</span></p>

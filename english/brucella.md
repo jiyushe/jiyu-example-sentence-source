@@ -1,5 +1,7 @@
 # brucella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brucella.md)
+
 <p><span class="chinese">目的了解尉犁县人间布病感染情况。</span><span class="english">Objective To find out the infection of brucella among local people.</span></p>
 
 <p><span class="chinese">布氏杆菌是人畜共患的重要病原之一。</span><span class="english">Brucella is one of the main pathogens to both human being and animals.</span></p>

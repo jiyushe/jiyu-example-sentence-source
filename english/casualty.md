@@ -1,5 +1,7 @@
 # casualty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casualty.md)
+
 <p><span class="chinese">是纯粹的偶然遮住了阳光雨露。</span><span class="english">Crass Casualty obstructs the sun and rain.</span></p>
 
 <p><span class="chinese">悍马炮塔上的枪手伤亡率一直很高。</span><span class="english">Gunners on Humvees have high casualty rates.</span></p>

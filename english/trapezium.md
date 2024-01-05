@@ -1,5 +1,7 @@
 # trapezium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapezium.md)
+
 <p><span class="chinese">他们经过了街垒内部的小方场。</span><span class="english">In this manner they crossed the inner trapezium of the barricade.</span></p>
 
 <p><span class="chinese">黑色梯形是在剪彩悬垂和服务丝带的顶部。</span><span class="english">A black trapezium is at the top of the ribbon drape and service ribbon.</span></p>

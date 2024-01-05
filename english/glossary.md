@@ -1,5 +1,7 @@
 # glossary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glossary.md)
+
 <p><span class="chinese">我想要一个大字典。</span><span class="english">I want to have a big glossary.</span></p>
 
 <p><span class="chinese">由谁创建业务术语表？</span><span class="english">Who creates a business glossary?</span></p>

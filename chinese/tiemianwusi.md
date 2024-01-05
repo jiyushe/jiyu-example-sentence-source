@@ -1,5 +1,7 @@
 # 铁面无私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiemianwusi.md)
+
 <p><span class="chinese">他是一名铁面无私的法官。</span><span class="english">He is a impartial and incorruptible judge.</span></p>
 
 <p><span class="chinese">他是一名铁面无私的法官。</span><span class="english">He's an impartial and perspicacious judge.</span></p>

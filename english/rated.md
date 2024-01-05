@@ -1,5 +1,7 @@
 # rated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rated.md)
+
 <p><span class="chinese">这是我对他私下的评价”。</span><span class="english">I rated him from the off.</span></p>
 
 <p><span class="chinese">大公国际对这笔债券给出了AAA评级。</span><span class="english">Dagong rated the debt AAA.</span></p>

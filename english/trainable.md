@@ -1,5 +1,7 @@
 # trainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trainable.md)
+
 <p><span class="chinese">神圣之灵现在可以在31级时从训练师处习得。</span><span class="english">Divine Spirit is now trainable at level 31.</span></p>
 
 <p><span class="chinese">大自然的祝福现理解力技巧。</span><span class="english">Nature's Blessing is now a trainable skill.</span></p>

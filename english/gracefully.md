@@ -1,5 +1,7 @@
 # gracefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gracefully.md)
+
 <p><span class="chinese">她举止娴雅。</span><span class="english">She deported herself gracefully.</span></p>
 
 <p><span class="chinese">她娇嗔地对着我的脸打了一个哈欠。</span><span class="english">She yawned gracefully in my face.</span></p>

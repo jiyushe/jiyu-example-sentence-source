@@ -1,5 +1,7 @@
 # heel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heel.md)
+
 <p><span class="chinese">他的脚后跟起了泡。</span><span class="english">He had a blistered heel.</span></p>
 
 <p><span class="chinese">然后下一步你再足跟引导。</span><span class="english">Then you step Heel Lead.</span></p>

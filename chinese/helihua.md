@@ -1,5 +1,7 @@
 # 合理化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/helihua.md)
+
 <p><span class="chinese">合理化。</span><span class="english">Rationalization.</span></p>
 
 <p><span class="chinese">他们去年对食品加工工序进行了合理化改革。</span><span class="english">They ration-alized the food processing last year.</span></p>

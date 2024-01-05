@@ -1,5 +1,7 @@
 # knack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knack.md)
+
 <p><span class="chinese">这里面有点窍门。</span><span class="english">There's a knack in it.</span></p>
 
 <p><span class="chinese">我真羡慕拉腊的烹饪本领。</span><span class="english">She just seems to have the knack.</span></p>

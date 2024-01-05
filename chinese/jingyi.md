@@ -1,5 +1,7 @@
 # 惊疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyi.md)
+
 <p><span class="chinese">这种惊疑只延续了几秒钟。</span><span class="english">This indecision only lasted a few seconds.</span></p>
 
 <p><span class="chinese">以一份她脸上悲哀的惊疑止住雨水！</span><span class="english">Will halt the rain with a sad wonder on her face!</span></p>

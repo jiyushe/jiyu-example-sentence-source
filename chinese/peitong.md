@@ -1,5 +1,7 @@
 # 陪同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peitong.md)
+
 <p><span class="chinese">有人陪同生活才会更美妙。</span><span class="english">Life's better with company.</span></p>
 
 <p><span class="chinese">我陪同我的客人去了我的办公室。</span><span class="english">I escorted my guest to my offfice.</span></p>

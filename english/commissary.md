@@ -1,5 +1,7 @@
 # commissary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commissary.md)
+
 <p><span class="chinese">小卖部的电话卡都卖完了··</span><span class="english">Commissary of the phone cards are sold out</span></p>
 
 <p><span class="chinese">英国学习委员，学习成绩好。</span><span class="english">UK study commissary , the academic record is good.</span></p>

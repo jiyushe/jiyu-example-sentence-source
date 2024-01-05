@@ -1,5 +1,7 @@
 # 装样子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangyangzi.md)
+
 <p><span class="chinese">他的勤奋不过是装样子罢了。</span><span class="english">His diligence is a mere pose.</span></p>
 
 <p><span class="chinese">是该停止装样子的时候了！</span><span class="english">The time has come to'stop pretending !</span></p>

@@ -1,5 +1,7 @@
 # gpm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gpm.md)
+
 <p><span class="chinese">选那种蓝色的4加仑每分钟的大功率产品。</span><span class="english">Use the blue 4 gpm heavy volume size.</span></p>
 
 <p><span class="chinese">一些通气器可以限制流量小于1.0界面。</span><span class="english">Some aerators can restrict flow to less than 1.0 gpm.</span></p>

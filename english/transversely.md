@@ -1,5 +1,7 @@
 # transversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transversely.md)
+
 <p><span class="chinese">把一幅画横跨着挂在墙角。</span><span class="english">Hang a picture transversely over a corner of the wall.</span></p>
 
 <p><span class="chinese">风暴过后，有些树横靠在别的树上。</span><span class="english">After the storm, some trees leaned transversely upon others.</span></p>

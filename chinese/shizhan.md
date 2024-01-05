@@ -1,5 +1,7 @@
 # 实战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhan.md)
+
 <p><span class="chinese">持续改善实战经验和冲动。</span><span class="english">Improve the practices and actuation.</span></p>
 
 <p><span class="chinese">从实战中学习。</span><span class="english">Hong Kong NTO, learn from practicality.</span></p>

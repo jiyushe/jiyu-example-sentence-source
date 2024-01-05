@@ -1,5 +1,7 @@
 # geese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geese.md)
+
 <p><span class="chinese">呆头鹅看过上帝吗？</span><span class="english">Do geese see God?</span></p>
 
 <p><span class="chinese">像飞掠天空的大雁。</span><span class="english">Like geese about the sky.</span></p>

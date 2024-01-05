@@ -1,5 +1,7 @@
 # gynaecological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynaecological.md)
+
 <p><span class="chinese">什么妇科检查都没有。</span><span class="english">What gynaecological examinations are not.</span></p>
 
 <p><span class="chinese">崩漏是妇科常见病也是疑难症。</span><span class="english">Metrorrhagia is also gynaecological problems of common diseases.</span></p>

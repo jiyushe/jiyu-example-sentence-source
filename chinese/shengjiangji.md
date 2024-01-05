@@ -1,5 +1,7 @@
 # 升降机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengjiangji.md)
+
 <p><span class="chinese">不过我们用不着使用升降机。</span><span class="english">Not that we need the lift.</span></p>
 
 <p><span class="chinese">混凝土由升降机提升。</span><span class="english">Concret was raised by a hoist.</span></p>

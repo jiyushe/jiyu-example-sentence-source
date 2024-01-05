@@ -1,5 +1,7 @@
 # morphology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morphology.md)
+
 <p><span class="chinese">更高层次的成分是语态</span><span class="english">Morphology is the next level up.</span></p>
 
 <p><span class="chinese">语音是声音,语态则是词</span><span class="english">Phonology is sounds. Morphology is words.</span></p>

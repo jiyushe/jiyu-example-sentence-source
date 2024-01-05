@@ -1,5 +1,7 @@
 # uptake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uptake.md)
+
 <p><span class="chinese">NO2在黄土和红土表面的非均相反应均为一级反应。</span><span class="english">NO2 uptake on loess and laterite is first order.</span></p>
 
 <p><span class="chinese">但同时也增加了身体的能力，吸氧量。</span><span class="english">It also increases the body's capacity for oxygen uptake.</span></p>

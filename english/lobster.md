@@ -1,5 +1,7 @@
 # lobster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobster.md)
+
 <p><span class="chinese">我会把这只龙虾烤着吃。</span><span class="english">I'll broil the lobster.</span></p>
 
 <p><span class="chinese">他吃龙虾肚子不舒服。</span><span class="english">Lobster doesnt' like him.</span></p>

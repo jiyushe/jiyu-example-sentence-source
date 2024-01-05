@@ -1,5 +1,7 @@
 # 聚丙烯腈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubingxijing.md)
+
 <p><span class="chinese">聚丙烯腈不溶于丙烯腈。</span><span class="english">Polyacrylonitrile is insoluble in acrylonitrile.</span></p>
 
 <p><span class="chinese">利用凝胶纺丝方法制备了聚丙烯腈基碳纤维原丝。</span><span class="english">The PAN-based carbon fiber precursor was prepared with gel spinning method.</span></p>

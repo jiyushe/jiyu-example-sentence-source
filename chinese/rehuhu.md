@@ -1,5 +1,7 @@
 # 热乎乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehuhu.md)
+
 <p><span class="chinese">管子的出口流出热乎乎的液体塑料。</span><span class="english">Warm wet plastic came out of the end of the pipe.</span></p>
 
 <p><span class="chinese">“栗子，热乎乎的烤栗子，”一个小贩在叫卖。</span><span class="english">"Chestnuts, hot roast chestnuts, " a peddler cried.</span></p>

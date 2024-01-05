@@ -1,5 +1,7 @@
 # assiduous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assiduous.md)
+
 <p><span class="chinese">想知道如何拼写assiduous吗？</span><span class="english">Want to know how to spell assiduous?</span></p>
 
 <p><span class="chinese">他的博学来自他的刻苦钻研。</span><span class="english">His erudition comes from his assiduous study.</span></p>

@@ -1,5 +1,7 @@
 # 集会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihui_1.md)
+
 <p><span class="chinese">这是集会广场。</span><span class="english">This is a plaza.</span></p>
 
 <p><span class="chinese">他主持了这个集会。</span><span class="english">He presided at the rally.</span></p>

@@ -1,5 +1,7 @@
 # for 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/for.md)
+
 <p><span class="chinese">为我的罪孽。</span><span class="english">For my sin.</span></p>
 
 <p><span class="chinese">帮我擦擦嘛！</span><span class="english">Wipe for me!</span></p>

@@ -1,5 +1,7 @@
 # told
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/told.md)
+
 <p><span class="chinese">罗比已经告诉我了。</span><span class="english">Robbie told me.</span></p>
 
 <p><span class="chinese">塞缪尔告诉我。</span><span class="english">Samuel told me.</span></p>

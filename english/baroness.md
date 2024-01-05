@@ -1,5 +1,7 @@
 # baroness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baroness.md)
+
 <p><span class="chinese">这位是施奈德男爵夫人。</span><span class="english">This is Baroness Schneider.</span></p>
 
 <p><span class="chinese">吉勒先生，你好，男爵夫人。</span><span class="english">Good evening, herr zeller. Baroness.</span></p>

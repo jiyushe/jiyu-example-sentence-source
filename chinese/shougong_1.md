@@ -1,5 +1,7 @@
 # 收工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shougong_1.md)
+
 <p><span class="chinese">该收工了。</span><span class="english">It's time to knock off.</span></p>
 
 <p><span class="chinese">我们收工后，正好能赶上喝下午茶。</span><span class="english">We knock off work in time for tea.</span></p>

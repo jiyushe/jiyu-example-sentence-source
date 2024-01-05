@@ -1,5 +1,7 @@
 # 肉体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/routi.md)
+
 <p><span class="chinese">这就是，肉体复活的概念“</span><span class="english">bodily resurrection."</span></p>
 
 <p><span class="chinese">这肉体只是一具皮囊！</span><span class="english">This flesh is only flesh!</span></p>

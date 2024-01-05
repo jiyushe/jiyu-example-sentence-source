@@ -1,5 +1,7 @@
 # efferent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efferent.md)
+
 <p><span class="chinese">某些近髓质肾小球具有两种出球小动脉。</span><span class="english">Some juxtamedullary glomeruli have two efferent arterioles.</span></p>
 
 <p><span class="chinese">可以把传出耦合看作传入耦合的逆转。</span><span class="english">Think of efferent coupling as the inverse of afferent coupling.</span></p>

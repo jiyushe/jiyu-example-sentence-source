@@ -1,5 +1,7 @@
 # 雪片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuepian.md)
+
 <p><span class="chinese">雪片霏霏地下着。</span><span class="english">Snow was falling in flakes.</span></p>
 
 <p><span class="chinese">抗议书像雪片似的飞来。</span><span class="english">Written protests poured in.</span></p>

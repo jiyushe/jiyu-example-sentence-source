@@ -1,5 +1,7 @@
 # biofuel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biofuel.md)
+
 <p><span class="chinese">巴西的生物燃料工业发展的非常快。</span><span class="english">Brazil's biofuel industry is growing fast.</span></p>
 
 <p><span class="chinese">因此食物也被用来制造生物燃料。</span><span class="english">So aof food crabops to produce buy a biofuel.</span></p>

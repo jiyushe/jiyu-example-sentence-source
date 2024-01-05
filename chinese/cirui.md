@@ -1,5 +1,7 @@
 # 雌蕊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cirui.md)
+
 <p><span class="chinese">雌蕊的作用是什么？</span><span class="english">What do the pistils do?</span></p>
 
 <p><span class="chinese">雄蕊和雌蕊均多数。</span><span class="english">Stamen and gynoecium all most.</span></p>

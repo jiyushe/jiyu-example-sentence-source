@@ -1,5 +1,7 @@
 # pitiless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitiless.md)
+
 <p><span class="chinese">比一条被践踏的蛇更无情。</span><span class="english">More pitiless than a trampled snake.</span></p>
 
 <p><span class="chinese">大自然是无情的，但人是友好的。</span><span class="english">Nature is pitiless but man is friendly.</span></p>

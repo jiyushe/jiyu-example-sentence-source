@@ -1,5 +1,7 @@
 # 好强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoqiang.md)
+
 <p><span class="chinese">好强阿，祝你好运！！！</span><span class="english">Good luck to you! ! !</span></p>
 
 <p><span class="chinese">这样跟好强的同事相处？</span><span class="english">How to get along with emulative colleague?</span></p>

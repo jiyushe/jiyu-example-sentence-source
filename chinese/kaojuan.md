@@ -1,5 +1,7 @@
 # 考卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaojuan.md)
+
 <p><span class="chinese">以前的LSAT考卷都是公开的。</span><span class="english">Past exams from the LSAT are all released.</span></p>
 
 <p><span class="chinese">但是不知怎么的，在旅行途中，我弄丢了五份考卷。</span><span class="english">Somehow in the travel, I lost five of them.</span></p>

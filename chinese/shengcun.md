@@ -1,5 +1,7 @@
 # 生存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcun.md)
+
 <p><span class="chinese">她是一位生存者。</span><span class="english">She's a survivor.</span></p>
 
 <p><span class="chinese">但他从未放弃生存！</span><span class="english">But he never gave up!</span></p>

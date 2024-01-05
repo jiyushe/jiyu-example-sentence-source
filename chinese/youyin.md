@@ -1,5 +1,7 @@
 # 诱因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyin.md)
+
 <p><span class="chinese">诱因可大可小。</span><span class="english">The cause can be small or large.</span></p>
 
 <p><span class="chinese">要找到每个习惯的所有诱因。</span><span class="english">Identify all of them, for each habit.</span></p>

@@ -1,5 +1,7 @@
 # 遇难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunan.md)
+
 <p><span class="chinese">这艘船在海上遇难。</span><span class="english">The ship wrecked at sea.</span></p>
 
 <p><span class="chinese">两艘船在这场暴风雨中遇难。</span><span class="english">Two ships were lost in the storm.</span></p>

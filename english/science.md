@@ -1,5 +1,7 @@
 # science 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/science.md)
+
 <p><span class="chinese">数学和科学。</span><span class="english">Math and Science.</span></p>
 
 <p><span class="chinese">我们知道自然科学。</span><span class="english">We know the science.</span></p>

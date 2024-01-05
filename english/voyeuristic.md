@@ -1,5 +1,7 @@
 # voyeuristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voyeuristic.md)
+
 <p><span class="chinese">这一节目由于其窥阴性而招致了极大的蔑视。</span><span class="english">The show has drawn much scorn regarding its voyeuristic nature.</span></p>
 
 <p><span class="chinese">不过，也可能程序作者只是有窥阴癖而已…</span><span class="english">On the other hand, perhaps the author of the spyware just has voyeuristic tendencies.</span></p>

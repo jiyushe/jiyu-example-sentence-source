@@ -1,5 +1,7 @@
 # 毛茸茸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maorongrong.md)
+
 <p><span class="chinese">它软乎乎的，毛茸茸的。</span><span class="english">It is soft and fluffy.</span></p>
 
 <p><span class="chinese">毛茸茸、软绵绵的是玩具熊。</span><span class="english">Fuzzy wuzzy was a bear.</span></p>

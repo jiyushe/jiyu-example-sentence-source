@@ -1,5 +1,7 @@
 # 锃亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengliang.md)
+
 <p><span class="chinese">他把古铜币擦得锃亮。</span><span class="english">He polished up the old copper coins.</span></p>
 
 <p><span class="chinese">地板擦得明光锃亮。</span><span class="english">The floor has been rubbed clean and shiny.</span></p>

@@ -1,5 +1,7 @@
 # transponder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transponder.md)
+
 <p><span class="chinese">这样哨位机枪塔就不会向任何一位身着徽章的人开火。</span><span class="english">The sentry guns will not fire at anyone wearing a badge transponder.</span></p>
 
 <p><span class="chinese">这样，低功耗优化就成为无源射频识别标签设计中的一个核心问题。</span><span class="english">Thus, it makes low-power optimization a kernel faced in RFID transponder design.</span></p>

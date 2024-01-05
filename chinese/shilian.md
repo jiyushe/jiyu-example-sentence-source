@@ -1,5 +1,7 @@
 # 失恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilian.md)
+
 <p><span class="chinese">啊啊，你失恋啦…</span><span class="english">Ah, ah, you brokenhearted.</span></p>
 
 <p><span class="chinese">失恋的感觉会是怎样？</span><span class="english">Can lovelorn feeling be how?</span></p>

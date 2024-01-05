@@ -1,5 +1,7 @@
 # 夜盲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemang.md)
+
 <p><span class="chinese">夜盲好么?。</span><span class="english">Night Blindness.</span></p>
 
 <p><span class="chinese">这个男孩是夜盲。</span><span class="english">The boy is night blindness.</span></p>

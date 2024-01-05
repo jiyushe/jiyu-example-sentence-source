@@ -1,5 +1,7 @@
 # 咄咄怪事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoduoguaishi.md)
+
 <p><span class="chinese">老虎竟然会吃萝卜，真是咄咄怪事！</span><span class="english">A tiger eats carrots? How strange is that!</span></p>
 
 <p><span class="chinese">接下来在她身上发生了咄咄怪事。</span><span class="english">Then something very strange had happened to her.</span></p>

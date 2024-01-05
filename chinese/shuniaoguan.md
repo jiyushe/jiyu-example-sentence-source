@@ -1,5 +1,7 @@
 # 输尿管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuniaoguan.md)
+
 <p><span class="chinese">总的出现结石的输尿管有71条。</span><span class="english">They had a total of 71 ureters.</span></p>
 
 <p><span class="chinese">尿液由于混合输尿管的出血而呈现出粉红色或红色。</span><span class="english">Your urine may turn pink or red from blood.</span></p>

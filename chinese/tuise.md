@@ -1,5 +1,7 @@
 # 退色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuise.md)
+
 <p><span class="chinese">玫瑰的嫣红，永不退色。</span><span class="english">Yanhong roses never fade.</span></p>
 
 <p><span class="chinese">那些窗帘退色退得很厉害。</span><span class="english">Those curtains are badly faded.</span></p>

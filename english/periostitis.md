@@ -1,5 +1,7 @@
 # periostitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periostitis.md)
+
 <p><span class="chinese">骨膜炎有什么好的治疗办法？</span><span class="english">The remedial idea with good what does periostitis have?</span></p>
 
 <p><span class="chinese">手肘肌肉硬块和脚踝骨膜炎怎么治疗？</span><span class="english">How are elbow muscle nugget and ankle periostitis treated?</span></p>

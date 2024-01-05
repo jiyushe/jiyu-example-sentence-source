@@ -1,5 +1,7 @@
 # 问话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhua_1.md)
+
 <p><span class="chinese">谁知，这样的问话却有了回应</span><span class="english">Who knew the question had an answering.</span></p>
 
 <p><span class="chinese">我们能分辨出一些问话和一些答话。</span><span class="english">One distinguishes questions and replies.</span></p>

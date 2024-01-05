@@ -1,5 +1,7 @@
 # vito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vito.md)
+
 <p><span class="chinese">但是维托顶了上来，做得很好。</span><span class="english">But Vito has come in and done well.</span></p>
 
 <p><span class="chinese">我推想我也许正在圣维多的对岸。</span><span class="english">I thought I might be opposite San Vito.</span></p>

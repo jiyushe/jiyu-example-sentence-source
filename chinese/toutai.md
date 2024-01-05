@@ -1,5 +1,7 @@
 # 头胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutai.md)
+
 <p><span class="chinese">你为什么不尝试使用光头胎?。</span><span class="english">Why did you not try the slicks ?</span></p>
 
 <p><span class="chinese">你为什么不尝试使用光头胎？</span><span class="english">Q. Why did you not try the slicks?</span></p>

@@ -1,5 +1,7 @@
 # 情节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjie.md)
+
 <p><span class="chinese">但是故事情节却不清楚。</span><span class="english">But the story was unclear.</span></p>
 
 <p><span class="chinese">福克纳在另一方面有异议--情节的虚构度不够。</span><span class="english">It's not fictional enough.</span></p>

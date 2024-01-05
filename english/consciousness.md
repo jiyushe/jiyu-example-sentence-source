@@ -1,5 +1,7 @@
 # consciousness 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consciousness.md)
+
 <p><span class="chinese">意识是什么？</span><span class="english">What is consciousness?</span></p>
 
 <p><span class="chinese">意识和语言。</span><span class="english">Consciousness and language.</span></p>

@@ -1,5 +1,7 @@
 # yup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yup.md)
+
 <p><span class="chinese">是的，四十三年。</span><span class="english">Yup. Forty-three years.</span></p>
 
 <p><span class="chinese">大声说出来。</span><span class="english">Someone shout it out.Yup.</span></p>

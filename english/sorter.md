@@ -1,5 +1,7 @@
 # sorter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorter.md)
+
 <p><span class="chinese">卡片分类机中的一种接卡箱。</span><span class="english">A card stacker in card sorter.</span></p>
 
 <p><span class="chinese">有人把我放进了一个邮件分捡机。</span><span class="english">Someone put me into a mail sorter.</span></p>

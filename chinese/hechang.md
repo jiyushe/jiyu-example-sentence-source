@@ -1,5 +1,7 @@
 # 何尝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechang.md)
+
 <p><span class="chinese">何尝不推荐一下呢？</span><span class="english">Any that you would not recommend?</span></p>
 
 <p><span class="chinese">猕猴如此，人类又何尝不经受着同样的问题。</span><span class="english">And as with monkeys, so with humans.</span></p>

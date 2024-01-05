@@ -1,5 +1,7 @@
 # athletics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athletics.md)
+
 <p><span class="chinese">我的梦想是体育运动。</span><span class="english">My dream was athletics.</span></p>
 
 <p><span class="chinese">擅长体育运动。</span><span class="english">I was doing well in athletics.</span></p>

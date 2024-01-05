@@ -1,5 +1,7 @@
 # carven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carven.md)
+
 <p><span class="chinese">模铸的石膏或雕刻的石头制作的工艺。</span><span class="english">In moulded plaster or in carven stone?</span></p>
 
 <p><span class="chinese">从此，这位少女便成为了毕加索绘画和雕刻的模特。</span><span class="english">From now on, this girl made Picasso brushwork and carven model.</span></p>

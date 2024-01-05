@@ -1,5 +1,7 @@
 # 动产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongchan.md)
+
 <p><span class="chinese">室外LED动产的迹象。与16毫米间距。</span><span class="english">Outdoor LED Movable Sign. with 16mm Pitch.</span></p>
 
 <p><span class="chinese">在我的机器设备上只有一项动产抵押。</span><span class="english">Only there's a chattel mortgage on my machine equipment.</span></p>

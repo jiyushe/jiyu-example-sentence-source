@@ -1,5 +1,7 @@
 # combust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combust.md)
+
 <p><span class="chinese">我们使用煤碳及其他化石燃料做燃料。</span><span class="english">We combust coal and other fossil fuels.</span></p>
 
 <p><span class="chinese">我不理解，为什么他会自己燃烧了呢？</span><span class="english">I don't get it, why did Yogin spontaneously combust?</span></p>

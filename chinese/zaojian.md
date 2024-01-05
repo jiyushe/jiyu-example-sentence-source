@@ -1,5 +1,7 @@
 # 早间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojian.md)
+
 <p><span class="chinese">“早间秀节目”，杰斯·卡杰尔，于纽约。</span><span class="english">For the Early Show, Jess Cagle in New York.</span></p>
 
 <p><span class="chinese">这样你就可以进入到你早间的正确轨道中了。</span><span class="english">Then you can dive into your morning ritual.</span></p>

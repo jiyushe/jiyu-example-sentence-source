@@ -1,5 +1,7 @@
 # bouncer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bouncer.md)
+
 <p><span class="chinese">中国看不起说大话的人。</span><span class="english">Chinese look down on the bouncer.</span></p>
 
 <p><span class="chinese">这就像是夜总会中的保镖。</span><span class="english">This is like a bouncer in a nightclub.</span></p>

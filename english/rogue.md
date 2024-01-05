@@ -1,5 +1,7 @@
 # rogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rogue.md)
+
 <p><span class="chinese">地狱张着大口在等待着那个恶棍。</span><span class="english">The hell yawns for that rogue.</span></p>
 
 <p><span class="chinese">无赖的灵族，我们必须毁灭他们！</span><span class="english">Rogue Eldar, we must destroy them!</span></p>

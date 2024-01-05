@@ -1,5 +1,7 @@
 # pressurize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressurize.md)
+
 <p><span class="chinese">密封货物。</span><span class="english">Pressurize cargo.</span></p>
 
 <p><span class="chinese">不要给空容器加压，不要放在明火或热源附近。</span><span class="english">Do not pressurize or expose to open flame or heat.</span></p>

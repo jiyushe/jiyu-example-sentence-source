@@ -1,5 +1,7 @@
 # aphorism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphorism.md)
+
 <p><span class="chinese">和尼采这样的哲学家们是警句之王。</span><span class="english">and Nietzsche were kings of the aphorism.</span></p>
 
 <p><span class="chinese">这句古老的格言背后有什么样的科学依据呢？</span><span class="english">What’s the science behind this old aphorism?</span></p>

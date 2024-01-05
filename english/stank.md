@@ -1,5 +1,7 @@
 # stank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stank.md)
+
 <p><span class="chinese">池塘像阴沟一样散发着恶臭。</span><span class="english">The pond stank like a sewer.</span></p>
 
 <p><span class="chinese">他所说的话含有侮辱的意味。</span><span class="english">What he said stank of insult.</span></p>

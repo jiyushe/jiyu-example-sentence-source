@@ -1,5 +1,7 @@
 # 钟楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonglou.md)
+
 <p><span class="chinese">钟楼岩石。</span><span class="english">Belfry rock.</span></p>
 
 <p><span class="chinese">钟楼上的小钟自鸣。</span><span class="english">Small steeple bells may ring.</span></p>

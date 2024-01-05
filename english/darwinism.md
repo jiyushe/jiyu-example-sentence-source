@@ -1,5 +1,7 @@
 # darwinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darwinism.md)
+
 <p><span class="chinese">她说我对进化论的理解需要一些微调。</span><span class="english">She said my understanding of Darwinism needed some fine-tuning.</span></p>
 
 <p><span class="chinese">2“办公室进化论”是“适者生存”的官方形式。</span><span class="english">Office Darwinism" is a bureaucratic form of "survival of the fittest."</span></p>

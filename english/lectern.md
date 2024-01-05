@@ -1,5 +1,7 @@
 # lectern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lectern.md)
+
 <p><span class="chinese">我怎么知道讲台是存在的</span><span class="english">How do I know that there is a lectern?</span></p>
 
 <p><span class="chinese">读经台上覆盖着黄色丝绸被单。</span><span class="english">The lectern was draped in yellow silk sheets.</span></p>

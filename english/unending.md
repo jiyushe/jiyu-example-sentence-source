@@ -1,5 +1,7 @@
 # unending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unending.md)
+
 <p><span class="chinese">非得施以永无休止的痛苦才行吗？</span><span class="english">Is the unending infliction of pain also required?</span></p>
 
 <p><span class="chinese">这个世界不仅仅被一条无止境的河流包围。</span><span class="english">The world isn’t surrounded by a great unending river.</span></p>

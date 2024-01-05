@@ -1,5 +1,7 @@
 # plonk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plonk.md)
+
 <p><span class="chinese">她扑通一声坐下来。</span><span class="english">She sat down with a plonk.</span></p>
 
 <p><span class="chinese">盒子扑通一声掉在地上。</span><span class="english">The box fell plonk on the floor.</span></p>

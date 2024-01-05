@@ -1,5 +1,7 @@
 # 认错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rencuo.md)
+
 <p><span class="chinese">可是这具尸体被认错了。</span><span class="english">But the corpse was misidentified.</span></p>
 
 <p><span class="chinese">认错改正一半错。</span><span class="english">Confession of a fault make half amend.</span></p>

@@ -1,5 +1,7 @@
 # 破戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojie.md)
+
 <p><span class="chinese">你在节食中破戒了吗？</span><span class="english">Did you go off your diet?</span></p>
 
 <p><span class="chinese">破戒，破佛所制的戒律。</span><span class="english">Violate the precepts, commandments broken Buddhas system.</span></p>

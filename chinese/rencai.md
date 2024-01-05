@@ -1,5 +1,7 @@
 # 人才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rencai.md)
+
 <p><span class="chinese">你是一流人才。</span><span class="english">You are a ace.</span></p>
 
 <p><span class="chinese">他是个一流人才。</span><span class="english">He is a real daisy.</span></p>

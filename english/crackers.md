@@ -1,5 +1,7 @@
 # crackers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crackers.md)
+
 <p><span class="chinese">夜间爆竹声吵闹得很。</span><span class="english">The night was noisy with crackers.</span></p>
 
 <p><span class="chinese">我爱这座城市，我爱吃虾片。</span><span class="english">I love this city, I love prawn crackers.</span></p>

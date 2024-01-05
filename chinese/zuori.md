@@ -1,5 +1,7 @@
 # 昨日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuori.md)
+
 <p><span class="chinese">昨日整天刮大风下大雨。</span><span class="english">It stormed all day yesterday.</span></p>
 
 <p><span class="chinese">昨日阴霾，今夜雨淅沥。</span><span class="english">Yesterday haze, tonight rain.</span></p>

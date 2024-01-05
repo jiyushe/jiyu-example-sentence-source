@@ -1,5 +1,7 @@
 # martensitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martensitic.md)
+
 <p><span class="chinese">应力对于马氏体相变有一定的影响。</span><span class="english">The stress takes some effects on the martensitic transformation.</span></p>
 
 <p><span class="chinese">马氏体钢容易浮现氢脆现象。</span><span class="english">Hydrogen embrittlement can become important in martensitic steels.</span></p>

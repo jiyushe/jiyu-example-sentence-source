@@ -1,5 +1,7 @@
 # 板烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banyan_2.md)
+
 <p><span class="chinese">他把它撕碎，卷成了点板烟的纸捻儿。</span><span class="english">He tore it up and rolled it into pipe spills.</span></p>
 
 <p><span class="chinese">无可质疑地，板烟正面临真正的问题。</span><span class="english">There is no doubt that the Cavendish is facing a real problem.</span></p>

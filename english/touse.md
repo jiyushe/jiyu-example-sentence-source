@@ -1,5 +1,7 @@
 # touse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touse.md)
+
 <p><span class="chinese">请你教我如何使用筷子好吗？</span><span class="english">Would you please show me how touse chopsticks?</span></p>
 
 <p><span class="chinese">不过你恐怕得撑一个星期的拐杖才行。</span><span class="english">But I am afraid you have touse crutch fora week.</span></p>

@@ -1,5 +1,7 @@
 # streptococcal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streptococcal.md)
+
 <p><span class="chinese">链球菌性炎能向邻近组织播散。</span><span class="english">Streptococcal infection can spread to nearby structures.</span></p>
 
 <p><span class="chinese">早期治疗链球菌导致的嗓子痛可阻止风湿热的发展。</span><span class="english">Early treatment of streptococcal sore throat can stop the development of rheumatic fever.</span></p>

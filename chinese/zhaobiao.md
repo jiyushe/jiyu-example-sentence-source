@@ -1,5 +1,7 @@
 # 招标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaobiao.md)
+
 <p><span class="chinese">招标无假货！</span><span class="english">No Fake biddings!</span></p>
 
 <p><span class="chinese">本次招标是对MT4编程器。</span><span class="english">This Bid is for MT4 Programmers.</span></p>

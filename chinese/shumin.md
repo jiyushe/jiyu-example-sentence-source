@@ -1,5 +1,7 @@
 # 庶民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumin.md)
+
 <p><span class="chinese">我便是老庶民。我要做的全部便是付钱。</span><span class="english">I'm the people. All I do is pay.</span></p>
 
 <p><span class="chinese">他不相信普通的庶民。</span><span class="english">He did not trust the common people.</span></p>

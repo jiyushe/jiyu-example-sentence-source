@@ -1,5 +1,7 @@
 # subarea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subarea.md)
+
 <p><span class="chinese">fat32分区则没有限制。</span><span class="english">While there is no such limit to subarea fat32.</span></p>
 
 <p><span class="chinese">论述了如何用C语言模拟可变分区存储管理方式的过程。</span><span class="english">Discuss how to simulate variable subarea memory management by using C language.</span></p>

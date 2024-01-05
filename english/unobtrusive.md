@@ -1,5 +1,7 @@
 # unobtrusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unobtrusive.md)
+
 <p><span class="chinese">它看起来一点都不唐突。</span><span class="english">It seems pretty unobtrusive.</span></p>
 
 <p><span class="chinese">舒适、稳定而无阻碍的头戴设计。</span><span class="english">Confortable, stable and unobtrusive headband design.</span></p>

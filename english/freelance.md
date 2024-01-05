@@ -1,5 +1,7 @@
 # freelance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freelance.md)
+
 <p><span class="chinese">浏览网上自由译者布告栏。</span><span class="english">Browse online freelance job boards.</span></p>
 
 <p><span class="chinese">我做过自由调查员并写作。</span><span class="english">I did freelance research and writing.</span></p>

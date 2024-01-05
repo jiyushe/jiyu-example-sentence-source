@@ -1,5 +1,7 @@
 # 自然资源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranziyuan.md)
+
 <p><span class="chinese">我们应该开发自然资源。</span><span class="english">We should tap natural resources.</span></p>
 
 <p><span class="chinese">峨山自然资源丰富。</span><span class="english">Shan is rich in natural resources.</span></p>

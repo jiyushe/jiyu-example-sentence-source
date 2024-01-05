@@ -1,5 +1,7 @@
 # weddell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weddell.md)
+
 <p><span class="chinese">威德尔海的一只海豹摆好姿势来张特写。</span><span class="english">A weddell seal posing for a snapshot.</span></p>
 
 <p><span class="chinese">类似的事情可能在威德尔海发生。</span><span class="english">A similar thing could happen in the Weddell Sea.</span></p>

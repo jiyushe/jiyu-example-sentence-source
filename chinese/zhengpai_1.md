@@ -1,5 +1,7 @@
 # 正牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengpai_1.md)
+
 <p><span class="chinese">他总是买正牌商品。</span><span class="english">He always buy certified goods.</span></p>
 
 <p><span class="chinese">他是一位正牌的教育家。</span><span class="english">He is a card-carrying educator.</span></p>

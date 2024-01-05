@@ -1,5 +1,7 @@
 # feather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feather.md)
+
 <p><span class="chinese">羽海野绘制！</span><span class="english">Feather sea wild draw!</span></p>
 
 <p><span class="chinese">天羽儿惊叫。</span><span class="english">Day feather son scream.</span></p>

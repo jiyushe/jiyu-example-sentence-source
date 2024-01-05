@@ -1,5 +1,7 @@
 # feeler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feeler.md)
+
 <p><span class="chinese">这是一个基本的触角项目我贴出。</span><span class="english">This is a basic feeler project I am posting.</span></p>
 
 <p><span class="chinese">用测隙规测量游隙减小量。</span><span class="english">Measuring clearance reduction with a feeler gauge.</span></p>

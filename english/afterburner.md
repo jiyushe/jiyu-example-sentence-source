@@ -1,5 +1,7 @@
 # afterburner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterburner.md)
+
 <p><span class="chinese">许多喷气机都有加力燃烧室。</span><span class="english">Many jets have an afterburner.</span></p>
 
 <p><span class="chinese">乳加力里的纳豆是怎样生成的？</span><span class="english">Afterburner in milk produced natto is how?</span></p>

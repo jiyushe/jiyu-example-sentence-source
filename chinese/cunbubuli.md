@@ -1,5 +1,7 @@
 # 寸步不离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cunbubuli.md)
+
 <p><span class="chinese">总是跟詹姆和小天狼星寸步不离的。</span><span class="english">Never let James and Sirius out of his sight.</span></p>
 
 <p><span class="chinese">他如胶似漆地寸步不离开她。</span><span class="english">He sticks to her like glue, ie never leaves her.</span></p>

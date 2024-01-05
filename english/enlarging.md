@@ -1,5 +1,7 @@
 # enlarging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlarging.md)
+
 <p><span class="chinese">为了扩大再生产，我们必须更换机械设备。</span><span class="english">We had to retool for enlarging reproduction.</span></p>
 
 <p><span class="chinese">她扩大了中国讨论的空间</span><span class="english">for enlarging the space for debate in China.</span></p>

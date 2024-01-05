@@ -1,5 +1,7 @@
 # hanseatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanseatic.md)
+
 <p><span class="chinese">24年获得自治地许可证，于38'年成为汉萨同盟的一部分。</span><span class="english">Chartered in 24, it became part of the Hanseatic League in 38'.</span></p>
 
 <p><span class="chinese">1241年获得自治地许可证，于1386年成为汉萨同盟的一部分。</span><span class="english">Chartered in1241, it became part of the Hanseatic League in1386.</span></p>

@@ -1,5 +1,7 @@
 # 评定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingding.md)
+
 <p><span class="chinese">事实上，为什么我们去评定他？</span><span class="english">In fact, why do we rate him?</span></p>
 
 <p><span class="chinese">经语音耳测评定，优良率达90.8％。</span><span class="english">The fine rate was 90.8 percent.</span></p>

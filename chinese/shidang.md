@@ -1,5 +1,7 @@
 # 失当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidang.md)
+
 <p><span class="chinese">这个问题处理失当。</span><span class="english">This problem was not properly handled.</span></p>
 
 <p><span class="chinese">“如果处理失当，客户可能会感染，”金斯利说。</span><span class="english">“If there's a real hash, the client can get infections,” says Kingsley.</span></p>

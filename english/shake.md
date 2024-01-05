@@ -1,5 +1,7 @@
 # shake 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shake.md)
+
 <p><span class="chinese">摇起来！</span><span class="english">Shake It Up!</span></p>
 
 <p><span class="chinese">这时，有人使劲儿把我摇醒。</span><span class="english">A rough shake woke me.</span></p>

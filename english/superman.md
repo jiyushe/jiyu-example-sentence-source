@@ -1,5 +1,7 @@
 # superman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superman.md)
+
 <p><span class="chinese">超人也挽救不了他的生命。</span><span class="english">Superman can't save him.</span></p>
 
 <p><span class="chinese">他们认为他是个超人。</span><span class="english">They classed him as a superman.</span></p>

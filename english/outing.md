@@ -1,5 +1,7 @@
 # outing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outing.md)
+
 <p><span class="chinese">这是我的第一次旅行。</span><span class="english">This was my first outing.</span></p>
 
 <p><span class="chinese">一场小牛必须赢的比赛？</span><span class="english">A must-win outing for Dallas?</span></p>

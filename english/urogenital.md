@@ -1,5 +1,7 @@
 # urogenital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urogenital.md)
+
 <p><span class="chinese">毛滴虫只能寄生于人体的泌尿生殖道。</span><span class="english">Trichomonas parasitic in the human body can only urogenital.</span></p>
 
 <p><span class="chinese">这是一种最常见的泌尿生殖系统先天性异常中男婴。</span><span class="english">It is one of the most common urogenital congenital anomalies among baby boys.</span></p>

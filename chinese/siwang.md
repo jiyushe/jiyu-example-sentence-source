@@ -1,5 +1,7 @@
 # 丝网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siwang.md)
+
 <p><span class="chinese">镀金丝网顶端的倒刺。</span><span class="english">Barbs on the crown of gilded wire.</span></p>
 
 <p><span class="chinese">我把洋葱放在金属丝网眼容器里。</span><span class="english">I keep my onions in a wire-mesh container.</span></p>

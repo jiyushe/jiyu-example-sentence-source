@@ -1,5 +1,7 @@
 # 孤家寡人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujiaguaren.md)
+
 <p><span class="chinese">我们能够问出“我们在宇宙中是孤家寡人吗？”</span><span class="english">We are able to ask the question "Are we alone in the universe?"</span></p>
 
 <p><span class="chinese">它意味着成为孤家寡人，在公司里没有可以倾诉的对象。</span><span class="english">It means being lonely and having no one inside the company to moan to.</span></p>

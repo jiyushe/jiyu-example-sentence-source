@@ -1,5 +1,7 @@
 # helplessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helplessly.md)
+
 <p><span class="chinese">他无助的比划着。</span><span class="english">He gestured helplessly.</span></p>
 
 <p><span class="chinese">男孩无望地耸了耸肩膀。</span><span class="english">The Boy shrugged helplessly.</span></p>

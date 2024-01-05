@@ -1,5 +1,7 @@
 # trump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trump.md)
+
 <p><span class="chinese">川普又对了。</span><span class="english">Trump is right again.</span></p>
 
 <p><span class="chinese">什么是她的王牌呀？</span><span class="english">What's her trump card?</span></p>

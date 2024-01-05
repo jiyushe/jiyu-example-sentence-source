@@ -1,5 +1,7 @@
 # jointed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jointed.md)
+
 <p><span class="chinese">它在这个裂隙并且出来。</span><span class="english">It’s jointed and it comes out.</span></p>
 
 <p><span class="chinese">把抽屉的侧面牢固地接合起来…</span><span class="english">Securely jointed the sides of the drawer.</span></p>

@@ -1,5 +1,7 @@
 # 招集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoji_1.md)
+
 <p><span class="chinese">云层正在招集。</span><span class="english">Clouds are banking up.</span></p>
 
 <p><span class="chinese">我们招集不到足够的男孩组成一支足球队。</span><span class="english">We could not drum up enough boys to make a football team.</span></p>

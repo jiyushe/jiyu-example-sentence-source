@@ -1,5 +1,7 @@
 # 能事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengshi.md)
+
 <p><span class="chinese">母鸡下蛋后却展尽吹嘘之能事。</span><span class="english">The hen boasts what she has done.</span></p>
 
 <p><span class="chinese">它们已经几近分化之能事</span><span class="english">They have become as different as they can be.</span></p>

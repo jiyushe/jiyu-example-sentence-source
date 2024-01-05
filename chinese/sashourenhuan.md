@@ -1,5 +1,7 @@
 # 撒手人寰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sashourenhuan.md)
+
 <p><span class="chinese">她撇下丈夫和孩子，撒手人寰。</span><span class="english">She left a husband and a baby.</span></p>
 
 <p><span class="chinese">1944年，奥特雷撒手人寰，身后萧条。</span><span class="english">Otlet died in 1944, a broken man.</span></p>

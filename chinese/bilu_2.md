@@ -1,5 +1,7 @@
 # 闭路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilu_2.md)
+
 <p><span class="chinese">闭路监控系统到处皆是，无论公共空间还是私人场所。</span><span class="english">CCTV is everywhere, both public and private-run.</span></p>
 
 <p><span class="chinese">安装在大型水渠中，同起吊架一起作为闭路设备。</span><span class="english">It installed in large water channel, along with lift bracket used as closing device.</span></p>

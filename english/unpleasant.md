@@ -1,5 +1,7 @@
 # unpleasant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpleasant.md)
+
 <p><span class="chinese">菜有一种不好的味道。</span><span class="english">It has an unpleasant taste.</span></p>
 
 <p><span class="chinese">这是令人不悦的一句诗。</span><span class="english">It's such an unpleasant line.</span></p>

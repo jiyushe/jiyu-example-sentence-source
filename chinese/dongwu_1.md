@@ -1,5 +1,7 @@
 # 动武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongwu_1.md)
+
 <p><span class="chinese">那射手对她动武了。</span><span class="english">The shooter bent weapons on her.</span></p>
 
 <p><span class="chinese">我说，咱们要是发起脾气来，就会拔刀子动武。</span><span class="english">I mean, and we be in choler, we'll draw.</span></p>

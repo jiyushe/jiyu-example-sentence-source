@@ -1,5 +1,7 @@
 # removable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/removable.md)
+
 <p><span class="chinese">可拆卸的内部工具袋。</span><span class="english">Removable Internal Tool Bag.</span></p>
 
 <p><span class="chinese">移动式的盛屑盘和油箱。</span><span class="english">Removable chip tray and tank.</span></p>

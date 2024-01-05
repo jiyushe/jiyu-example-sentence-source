@@ -1,5 +1,7 @@
 # army
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/army.md)
+
 <p><span class="chinese">参军入伍？</span><span class="english">Join the army?</span></p>
 
 <p><span class="chinese">一个战斗队是个集体。</span><span class="english">An Army is a team.</span></p>

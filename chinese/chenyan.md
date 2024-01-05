@@ -1,5 +1,7 @@
 # 尘烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenyan.md)
+
 <p><span class="chinese">我会战胜你的恐惧，将你的肉体化成尘烟。</span><span class="english">I will vanquish your fear, and commute your flesh to dust.</span></p>
 
 <p><span class="chinese">往事如尘烟飞过，我却做了几分相似。</span><span class="english">Events such as smoke and dust flying, but I made a somewhat similar to.</span></p>

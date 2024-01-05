@@ -1,5 +1,7 @@
 # lentil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lentil.md)
+
 <p><span class="chinese">别叫我兰缇。</span><span class="english">Don’t call me Lentil.</span></p>
 
 <p><span class="chinese">莉莉给小勒提舀了点扁豆汤。</span><span class="english">Lily ladles little Letty's lentil soup.</span></p>

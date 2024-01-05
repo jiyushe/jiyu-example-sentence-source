@@ -1,5 +1,7 @@
 # courtly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtly.md)
+
 <p><span class="chinese">一位温文尔雅名叫约翰•詹姆森的老绅士。</span><span class="english">A courtly old gentleman named john jameson.</span></p>
 
 <p><span class="chinese">也许月亮早厌倦了宫廷的舞步</span><span class="english">Maybe the moon may learn, Tired of that courtly fashion</span></p>

@@ -1,5 +1,7 @@
 # onomatopoeia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onomatopoeia.md)
+
 <p><span class="chinese">谁在意拟声呢？</span><span class="english">Who cares about onomatopoeia?</span></p>
 
 <p><span class="chinese">他的无言好比月亮升起时声音。</span><span class="english">His muteness an onomatopoeia of the rising moon.</span></p>

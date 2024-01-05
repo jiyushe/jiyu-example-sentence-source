@@ -1,5 +1,7 @@
 # 如火如荼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhuorutu.md)
+
 <p><span class="chinese">私人银行业务正发展得如火如荼。</span><span class="english">The private banking business is on a roll.</span></p>
 
 <p><span class="chinese">在我写这篇文章时，爆炸和恐怖活动正如火如荼。</span><span class="english">As I write this, bombings and terrorism are ripe.</span></p>

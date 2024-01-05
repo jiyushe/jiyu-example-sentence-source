@@ -1,5 +1,7 @@
 # 促销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxiao.md)
+
 <p><span class="chinese">这款车是在促销吗?。</span><span class="english">Is this car on sale?</span></p>
 
 <p><span class="chinese">没有促销代码需要。</span><span class="english">No promo code needed.</span></p>

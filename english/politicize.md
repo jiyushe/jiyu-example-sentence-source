@@ -1,5 +1,7 @@
 # politicize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politicize.md)
+
 <p><span class="chinese">不把经贸问题政治化。</span><span class="english">Fifth, don't politicize economic and trade issues.</span></p>
 
 <p><span class="chinese">他为何将反恐战争政治化？</span><span class="english">Why did he politicize the fight against terrorism?</span></p>

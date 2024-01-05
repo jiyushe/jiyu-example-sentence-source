@@ -1,5 +1,7 @@
 # snag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snag.md)
+
 <p><span class="chinese">不过存在一个障碍。</span><span class="english">But there is a snag.</span></p>
 
 <p><span class="chinese">然而，这里有一个障碍。</span><span class="english">However, there's a snag.</span></p>

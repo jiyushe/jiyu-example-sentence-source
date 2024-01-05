@@ -1,5 +1,7 @@
 # handsomely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handsomely.md)
+
 <p><span class="chinese">他慷慨地款待我们。</span><span class="english">He did us handsomely.</span></p>
 
 <p><span class="chinese">这样做最终将让您漂亮地搞定一切。</span><span class="english">Doing so will pay off handsomely in the end.</span></p>

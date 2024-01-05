@@ -1,5 +1,7 @@
 # intracellular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intracellular.md)
+
 <p><span class="chinese">未见细胞内黏液小滴。</span><span class="english">Intracellular mucin droplets are not identifiable.</span></p>
 
 <p><span class="chinese">肌浆网属于细胞内膜系统。</span><span class="english">The sarcoplasmic reticulum is a system of intracellular membranes.</span></p>

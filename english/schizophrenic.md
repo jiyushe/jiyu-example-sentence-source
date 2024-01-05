@@ -1,5 +1,7 @@
 # schizophrenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schizophrenic.md)
+
 <p><span class="chinese">所以，我的品牌是精神分裂症。</span><span class="english">So, my brand is schizophrenic.</span></p>
 
 <p><span class="chinese">导致了一种精神分裂症的出现。</span><span class="english">leads to a kind of schizophrenic existence.</span></p>

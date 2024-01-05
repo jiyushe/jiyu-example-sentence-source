@@ -1,5 +1,7 @@
 # tecnology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tecnology.md)
+
 <p><span class="chinese">最近，华中科技大学的一位教授做了一次调查。</span><span class="english">Recently, a professor of Hua Zhong University of Science and tecnology made a survey.</span></p>
 
 <p><span class="chinese">艾泽恩伯格认为这种透镜阵列有助于科学家改进相关技术，诸如光导纤维。</span><span class="english">Aizenberg says the lens array may help scientists improve tecnology such as fiber optics.</span></p>

@@ -1,5 +1,7 @@
 # 作废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuofei.md)
+
 <p><span class="chinese">现在这桩交易可能作废或更改。</span><span class="english">It now may be scrapped or altered.</span></p>
 
 <p><span class="chinese">一字之差即可使合同作废。</span><span class="english">A single word may vitiate a contract.</span></p>

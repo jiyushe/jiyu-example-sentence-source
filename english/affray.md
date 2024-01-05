@@ -1,5 +1,7 @@
 # affray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affray.md)
+
 <p><span class="chinese">约有20人因滋事被捕。</span><span class="english">About 20 were arrested for affray.</span></p>
 
 <p><span class="chinese">我对那场大争吵是有责任的。</span><span class="english">I was responsible for creating a huge affray.</span></p>

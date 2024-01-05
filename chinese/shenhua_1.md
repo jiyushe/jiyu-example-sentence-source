@@ -1,5 +1,7 @@
 # 神化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenhua_1.md)
+
 <p><span class="chinese">但神化灵魂的是上帝本人。</span><span class="english">Not I but God Himself deified it.</span></p>
 
 <p><span class="chinese">信仰是精神化了的想象。</span><span class="english">Faith is spiritualized imagination.</span></p>

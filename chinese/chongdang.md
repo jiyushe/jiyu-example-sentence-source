@@ -1,5 +1,7 @@
 # 充当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongdang.md)
+
 <p><span class="chinese">爸爸充当我的洗澡盆！</span><span class="english">Daddy is my bath tub !</span></p>
 
 <p><span class="chinese">你不能充当上帝，儿子。</span><span class="english">You can't plau God son.</span></p>

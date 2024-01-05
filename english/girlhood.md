@@ -1,5 +1,7 @@
 # girlhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girlhood.md)
+
 <p><span class="chinese">少女时代是多美好的时光啊！</span><span class="english">Girlhood is such a wonderful time!</span></p>
 
 <p><span class="chinese">她少女时期是在乡下度过。</span><span class="english">She spent her girlhood in the country.</span></p>

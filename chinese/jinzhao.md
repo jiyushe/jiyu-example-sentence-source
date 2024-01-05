@@ -1,5 +1,7 @@
 # 近照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhao.md)
+
 <p><span class="chinese">她的近照证实了这些传言。</span><span class="english">The latest pictures of her confirmed these rumors.</span></p>
 
 <p><span class="chinese">申请表上请贴一张近照。</span><span class="english">Attach a recent photograph to your application form.</span></p>

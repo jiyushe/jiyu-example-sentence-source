@@ -1,5 +1,7 @@
 # 诗仙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixian_4.md)
+
 <p><span class="chinese">我们从简单的常识讲，以诗仙李白为例子。</span><span class="english">We have a simple common sense, to Shixian Li Bai as an example.</span></p>
 
 <p><span class="chinese">公元735年，诗仙李白游览后，在岩壁上写下了“壮观”二个大字。</span><span class="english">In 735 AD, Li Shi Xian tour, wrote in the Wall "spectacular" two characters.</span></p>

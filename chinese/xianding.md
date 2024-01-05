@@ -1,5 +1,7 @@
 # 限定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianding.md)
+
 <p><span class="chinese">建立时间限定。</span><span class="english">Set a time limit.</span></p>
 
 <p><span class="chinese">为什么要是使用限定的空间？</span><span class="english">Why use those confined spaces?</span></p>

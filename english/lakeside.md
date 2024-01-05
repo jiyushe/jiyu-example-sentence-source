@@ -1,5 +1,7 @@
 # lakeside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lakeside.md)
+
 <p><span class="chinese">于是，我来到湖边。</span><span class="english">Then I nete to the lakeside.</span></p>
 
 <p><span class="chinese">湖滨浴场尽显海滨神韵。</span><span class="english">The lakeside beach has the essence of seaside beaches.</span></p>

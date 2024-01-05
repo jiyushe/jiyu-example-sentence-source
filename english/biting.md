@@ -1,5 +1,7 @@
 # biting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biting.md)
+
 <p><span class="chinese">这部电影够刺激。</span><span class="english">The movie is biting.</span></p>
 
 <p><span class="chinese">别咬嘴唇啦!</span><span class="english">Stop biting your lip!</span></p>

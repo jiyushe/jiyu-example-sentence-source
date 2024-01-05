@@ -1,5 +1,7 @@
 # 夜宵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yexiao.md)
+
 <p><span class="chinese">来点儿夜宵怎么样？</span><span class="english">How about a snack?</span></p>
 
 <p><span class="chinese">她在家里吃夜宵。</span><span class="english">She had supper at home.</span></p>

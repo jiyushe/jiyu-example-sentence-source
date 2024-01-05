@@ -1,5 +1,7 @@
 # 斑疹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzhen.md)
+
 <p><span class="chinese">红色斑疹。</span><span class="english">A red blotchy rash.</span></p>
 
 <p><span class="chinese">前任大副在船得过斑疹伤寒症。</span><span class="english">The former chief has got typhus fever on board.</span></p>

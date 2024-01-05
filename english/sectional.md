@@ -1,5 +1,7 @@
 # sectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sectional.md)
+
 <p><span class="chinese">采用分段式印模技术。</span><span class="english">A sectional impression tray technique was used.</span></p>
 
 <p><span class="chinese">小舍的形状就是一个八边形的一角。</span><span class="english">The sectional shape is a quarter of an octagon.</span></p>

@@ -1,5 +1,7 @@
 # midsummer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midsummer.md)
+
 <p><span class="chinese">仲夏日之梦，有我，亦有你。</span><span class="english">Midsummer day, I, have you.</span></p>
 
 <p><span class="chinese">时逢盛夏，天气异常炎热。</span><span class="english">It was midsummer and very hot.</span></p>

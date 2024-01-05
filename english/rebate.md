@@ -1,5 +1,7 @@
 # rebate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebate.md)
+
 <p><span class="chinese">登陆Ebates或者你选择的回馈站点。</span><span class="english">Log into Ebates or rebate site of your choice.</span></p>
 
 <p><span class="chinese">邀请好友首次购买返利10元！</span><span class="english">Invite friends buy rebate 10 yuan for the first time.</span></p>

@@ -1,5 +1,7 @@
 # nfc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nfc.md)
+
 <p><span class="chinese">罗伯特托马斯，新的NFC东区的读彩虹合演！</span><span class="english">Robert Thomas, the new co-star of NFC Easts Reading Rainbow!</span></p>
 
 <p><span class="chinese">老鹰输掉了周日在美国亚利桑那州的NFC冠军争夺战，32-25。</span><span class="english">The Eagles lost to Arizona on Sunday in the NFC championship game, 32-25.</span></p>

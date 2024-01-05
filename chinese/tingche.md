@@ -1,5 +1,7 @@
 # 停车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingche.md)
+
 <p><span class="chinese">我能在此停车吗？</span><span class="english">Can I park here?</span></p>
 
 <p><span class="chinese">就搿搭停车好唻。</span><span class="english">Stop the car here.</span></p>

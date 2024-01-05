@@ -1,5 +1,7 @@
 # thinner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinner.md)
+
 <p><span class="chinese">这只病猫变得更瘦了。</span><span class="english">This sick cat becomes thinner.</span></p>
 
 <p><span class="chinese">要变瘦就意味着少吃食物。</span><span class="english">To be thinner means eating less food.</span></p>

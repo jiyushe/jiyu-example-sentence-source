@@ -1,5 +1,7 @@
 # avery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avery.md)
+
 <p><span class="chinese">艾弗瑞是军队的兵工厂。</span><span class="english">Avery is army's armory.</span></p>
 
 <p><span class="chinese">“爸爸，我也能有一只猪吗？”艾弗里问道。</span><span class="english">"Can I have a pig, too, Pop?" asked Avery.</span></p>

@@ -1,5 +1,7 @@
 # dado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dado.md)
+
 <p><span class="chinese">餐厅所有人想给他们的餐厅安装护壁板。</span><span class="english">The owners wanted to dado their dining room.</span></p>
 
 <p><span class="chinese">若置墙裙，小客厅更小，大客厅更矮。</span><span class="english">Be like buy dado , little sitting room is less, stateroom is shorter.</span></p>

@@ -1,5 +1,7 @@
 # 目镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mujing.md)
+
 <p><span class="chinese">尝试使用一个高倍目镜。</span><span class="english">Try to use a higher-power eyepiece.</span></p>
 
 <p><span class="chinese">可否告诉更多的关于目镜的信息？</span><span class="english">Can you tell me more about the visors?</span></p>

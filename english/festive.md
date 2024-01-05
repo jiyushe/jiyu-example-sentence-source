@@ -1,5 +1,7 @@
 # festive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/festive.md)
+
 <p><span class="chinese">始终交织成的空中节日。</span><span class="english">Always interwoven into the festive air.</span></p>
 
 <p><span class="chinese">确保现场有提供相应的节日美食和饮品。</span><span class="english">Be sure to serve festive food and drink.</span></p>

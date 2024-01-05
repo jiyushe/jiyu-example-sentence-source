@@ -1,5 +1,7 @@
 # hamza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamza.md)
+
 <p><span class="chinese">不过，拉丹的一个儿子哈姆扎则非常激进。</span><span class="english">However, bin Laden's son Hamza is a very radical.</span></p>
 
 <p><span class="chinese">哈姆扎和穆罕默德•朱巴斯是一对兄弟，分别为13岁和11岁。</span><span class="english">Hamza and Muhammad Ju’bas are brothers, ages 13 and 11.</span></p>

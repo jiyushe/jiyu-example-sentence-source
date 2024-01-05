@@ -1,5 +1,7 @@
 # citric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citric.md)
+
 <p><span class="chinese">同时，我们也有能力供应年产量约10，000吨的柠檬酸。</span><span class="english">We also supply CITRIC ACID with the annual output of 10,000tos.</span></p>
 
 <p><span class="chinese">主要突出植物的淡味以及。</span><span class="english">Primary floral stands out with light notes of citric fruit and honey.</span></p>

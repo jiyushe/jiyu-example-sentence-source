@@ -1,5 +1,7 @@
 # hy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hy.md)
+
 <p><span class="chinese">HY是哪一家投资公司？</span><span class="english">Which one investment company is HY?</span></p>
 
 <p><span class="chinese">介绍了HY系列粗纱机的结构特征和性能特点。</span><span class="english">Structure and property of HY series roving machine is introduced.</span></p>

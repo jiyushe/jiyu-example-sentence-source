@@ -1,5 +1,7 @@
 # cradling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cradling.md)
+
 <p><span class="chinese">“我们现在喝我们自己的啤酒。”他说着，摇了摇手中的塞尔维亚啤酒。</span><span class="english">We'll drink our own beer now' he said, cradling a Serbian beer.</span></p>
 
 <p><span class="chinese">他努力地作出了个笑容，抱起大书坐了下来。</span><span class="english">He smiled with effort, and cradling the book, he seated himself.</span></p>

@@ -1,5 +1,7 @@
 # nlp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nlp.md)
+
 <p><span class="chinese">一个NLP的方法。</span><span class="english">Swish. A technique from NLP.</span></p>
 
 <p><span class="chinese">但你是否想知道NLP到底是什么？</span><span class="english">But did you ever wonder what NLP really is?</span></p>

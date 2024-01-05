@@ -1,5 +1,7 @@
 # 通红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghong.md)
+
 <p><span class="chinese">她的两颊通红。</span><span class="english">Her cheeks burned red.</span></p>
 
 <p><span class="chinese">她羞得满脸通红。</span><span class="english">She reddened with shame.</span></p>

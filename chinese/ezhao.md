@@ -1,5 +1,7 @@
 # 恶兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ezhao.md)
+
 <p><span class="chinese">迷信的人认为那是一种恶兆。</span><span class="english">The superstitious regard it as a bad omen.</span></p>
 
 <p><span class="chinese">恶兆也是万圣节庆祝活动的一部分。</span><span class="english">Bad omens are also part of Halloween celebrations.</span></p>

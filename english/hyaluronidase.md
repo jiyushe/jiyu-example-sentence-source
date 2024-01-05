@@ -1,5 +1,7 @@
 # hyaluronidase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyaluronidase.md)
+
 <p><span class="chinese">透明质酸酶的相关研究有可能为玻璃体手术带来新的进展。</span><span class="english">The correlated research on hyaluronidase may bring advance to vitrectomy.</span></p>
 
 <p><span class="chinese">透明质酸是一种酶降解并打破了透明质酸在你的皮肤。</span><span class="english">Hyaluronidase is an enzyme that degrades and breaks down hyaluronic acid in your skin.</span></p>

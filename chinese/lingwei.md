@@ -1,5 +1,7 @@
 # 灵位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingwei.md)
+
 <p><span class="chinese">灵位，薪水也更高。</span><span class="english">In addition, the pay is more decent.</span></p>
 
 <p><span class="chinese">寝室内供有李鸿章灵位。</span><span class="english">In the bedroom there is a memorial tablet of him.</span></p>

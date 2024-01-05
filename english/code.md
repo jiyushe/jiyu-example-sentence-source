@@ -1,5 +1,7 @@
 # code
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/code.md)
+
 <p><span class="chinese">我编写代码。</span><span class="english">I write code.</span></p>
 
 <p><span class="chinese">一套道德准则？</span><span class="english">A code of ethics?</span></p>

@@ -1,5 +1,7 @@
 # 阔大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuoda_1.md)
+
 <p><span class="chinese">而阔大的无花果树之外，是超出于这一切之上的天空。</span><span class="english">But above all, through the wide fig trees there was the sky.</span></p>
 
 <p><span class="chinese">雌雄羽色有别，嘴黑色、阔大成铲状。</span><span class="english">Sexes differ but both have black and broad shovel-like bills.</span></p>

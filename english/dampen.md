@@ -1,5 +1,7 @@
 # dampen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dampen.md)
+
 <p><span class="chinese">这并没有抑制它们的希望。</span><span class="english">It does not dampen their hopes.</span></p>
 
 <p><span class="chinese">莫让批评的话，让我们失去热心。</span><span class="english">Let not criticism dampen our motivation.</span></p>

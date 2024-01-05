@@ -1,5 +1,7 @@
 # salbutamol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salbutamol.md)
+
 <p><span class="chinese">目的观察雾化吸入沙丁胺醇溶液治疗毛细支气管炎的临床疗效。</span><span class="english">Objective To observe the clinical effect of atomization inhales of salbutamol in curing bronchiolitis.</span></p>
 
 <p><span class="chinese">沙丁胺醇是一种平喘药物，研究它的不对称合成方法具有重要的实用价值。</span><span class="english">Salbutamol sulfate is an antihasthma, for us studying its synthetical method has greatly practical value.</span></p>

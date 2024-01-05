@@ -1,5 +1,7 @@
 # 智力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhili.md)
+
 <p><span class="chinese">我喜欢做智力题。</span><span class="english">I like to do puzzles.</span></p>
 
 <p><span class="chinese">我曾认为他智力迟钝。</span><span class="english">I thought he was retarded.</span></p>

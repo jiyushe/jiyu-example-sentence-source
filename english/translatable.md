@@ -1,5 +1,7 @@
 # translatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/translatable.md)
+
 <p><span class="chinese">从原始文档中抽取所有可以翻译的文本。</span><span class="english">Extract all translatable text from the original documents.</span></p>
 
 <p><span class="chinese">有时候，很难判断一个字符串是否是可翻译的。</span><span class="english">Sometimes it is hard to judge if a string is translatable.</span></p>

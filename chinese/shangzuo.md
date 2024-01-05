@@ -1,5 +1,7 @@
 # 上座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangzuo.md)
+
 <p><span class="chinese">南传上座部传统的僧伽日。</span><span class="english">Sangha Day in Theravada tradition.</span></p>
 
 <p><span class="chinese">傣族信奉南传上座部佛教。</span><span class="english">Dai believes in South-Shangzuo Buddhism.</span></p>

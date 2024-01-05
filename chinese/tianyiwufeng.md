@@ -1,5 +1,7 @@
 # 天衣无缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyiwufeng.md)
+
 <p><span class="chinese">这文章天衣无缝，论证严密。</span><span class="english">The article is close-knit and its argument flawless.</span></p>
 
 <p><span class="chinese">用平滑转换机来达成天衣无缝的声音转换效果。</span><span class="english">DJs use cross fader to a seamless transfer of sounds.</span></p>

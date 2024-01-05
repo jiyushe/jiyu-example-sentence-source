@@ -1,5 +1,7 @@
 # penitence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penitence.md)
+
 <p><span class="chinese">难道我不会后悔吗？</span><span class="english">Difficult way I can't penitence?</span></p>
 
 <p><span class="chinese">此刻，我后悔极了。</span><span class="english">At the moment, I have penitence pole.</span></p>

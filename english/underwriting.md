@@ -1,5 +1,7 @@
 # underwriting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwriting.md)
+
 <p><span class="chinese">保险业必须重新名实相符。</span><span class="english">Underwriting must once again deserve the name.</span></p>
 
 <p><span class="chinese">投行做的是证券承销。</span><span class="english">investment banking does underwriting of securities.</span></p>

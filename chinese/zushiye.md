@@ -1,5 +1,7 @@
 # 祖师爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zushiye.md)
+
 <p><span class="chinese">人点烛，鬼吹灯——这是“摸金派”祖师爷就…</span><span class="english">A human lights the candle and the ghosts blow it out.</span></p>
 
 <p><span class="chinese">王尔德甚至成了同性恋者顶礼膜拜的“祖师爷”。</span><span class="english">Wilde went on to become homosexual worship the "ancestral."</span></p>

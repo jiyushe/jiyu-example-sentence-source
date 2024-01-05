@@ -1,5 +1,7 @@
 # suboptimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suboptimal.md)
+
 <p><span class="chinese">该文研究线性时滞定常系统的次优控制问题。</span><span class="english">In this paper the suboptimal control of linear systems with time-delay is studied.</span></p>
 
 <p><span class="chinese">然后，使用动态规划得到增广系统的次优控制律。</span><span class="english">Then, the suboptimal control law is achieved using the dynamic programming principle.</span></p>

@@ -1,5 +1,7 @@
 # bookcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookcase.md)
+
 <p><span class="chinese">这书架有五格。</span><span class="english">This bookcase has five shelves.</span></p>
 
 <p><span class="chinese">书架上有些什么书？</span><span class="english">What books are in the bookcase?</span></p>

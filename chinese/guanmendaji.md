@@ -1,5 +1,7 @@
 # 关门大吉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanmendaji.md)
+
 <p><span class="chinese">数以千计大大小小的唱片店也都关门大吉了。</span><span class="english">So did thousands of smaller stores.</span></p>
 
 <p><span class="chinese">而镇上的另外两个工厂也同时关门大吉。</span><span class="english">Two other plants in the town have also closed.</span></p>

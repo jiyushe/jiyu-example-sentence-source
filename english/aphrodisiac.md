@@ -1,5 +1,7 @@
 # aphrodisiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphrodisiac.md)
+
 <p><span class="chinese">但它真的可以壮阳吗？</span><span class="english">But is it really an aphrodisiac?</span></p>
 
 <p><span class="chinese">良好的交谈是最棒的催情剂</span><span class="english">A good talk is a great aphrodisiac</span></p>

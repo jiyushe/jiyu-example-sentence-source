@@ -1,5 +1,7 @@
 # tympanitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tympanitis.md)
+
 <p><span class="chinese">感冒引发了鼻炎、中耳炎，应该注意些什么？</span><span class="english">The cold caused rhinitis, tympanitis , what should notice?</span></p>
 
 <p><span class="chinese">此外，患有慢性中耳炎、鼓膜穿孔的人，下水游泳也轻易使炎症加重。</span><span class="english">In addition chronic tympanitis perforations swimming is also easy to make water.</span></p>

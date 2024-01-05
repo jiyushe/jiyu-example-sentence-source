@@ -1,5 +1,7 @@
 # boiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boiling.md)
+
 <p><span class="chinese">不久，水开了。</span><span class="english">Soon, water boiling.</span></p>
 
 <p><span class="chinese">更高的沸点。</span><span class="english">Higher boiling point.</span></p>

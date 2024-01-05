@@ -1,5 +1,7 @@
 # subjugation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjugation.md)
+
 <p><span class="chinese">对她们的镇压成为这个伊斯兰国家的一个支柱。</span><span class="english">Their subjugation became a pillar of the Islamic state.</span></p>
 
 <p><span class="chinese">近代中国经历了一段积贫积弱、任人宰割的历史。</span><span class="english">Modern China has gone through a poor and weak and subjugation of history.</span></p>

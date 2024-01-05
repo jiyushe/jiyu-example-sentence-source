@@ -1,5 +1,7 @@
 # 从天而降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congtianerjiang.md)
+
 <p><span class="chinese">雨水从天而降。</span><span class="english">Rain slithered from the sky.</span></p>
 
 <p><span class="chinese">纷纷扬扬，从天而降。</span><span class="english">Swirl, coming down from heaven.</span></p>

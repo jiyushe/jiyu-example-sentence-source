@@ -1,5 +1,7 @@
 # humid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humid.md)
+
 <p><span class="chinese">今天很闷啊！</span><span class="english">It really humid today.</span></p>
 
 <p><span class="chinese">今天很闷啊！</span><span class="english">It's really humid today.</span></p>

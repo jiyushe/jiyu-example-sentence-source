@@ -1,5 +1,7 @@
 # seta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seta.md)
+
 <p><span class="chinese">看来你们在开新风。</span><span class="english">You seem to have seta new trend.</span></p>
 
 <p><span class="chinese">对更重大的挑战来说，抗衡朋友或者为了正确的答案设置期限。</span><span class="english">For a greater challenge, play against a friend or seta time limit for a correct answer.</span></p>

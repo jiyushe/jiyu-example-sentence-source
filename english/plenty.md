@@ -1,5 +1,7 @@
 # plenty 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plenty.md)
+
 <p><span class="chinese">它能做很多。</span><span class="english">It does plenty.</span></p>
 
 <p><span class="chinese">饮用大量液体。</span><span class="english">Drink plenty of fluids.</span></p>

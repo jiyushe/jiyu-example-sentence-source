@@ -1,5 +1,7 @@
 # 郑重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhong_1.md)
+
 <p><span class="chinese">我郑重申明我现在是单身状态。</span><span class="english">I. I declare that I am not married.</span></p>
 
 <p><span class="chinese">Manche郑重向他宣告，“现在是你欠我情了。”</span><span class="english">But Manche assures him, “Now you owe me.”</span></p>

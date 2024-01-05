@@ -1,5 +1,7 @@
 # 作罢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoba.md)
+
 <p><span class="chinese">而双庆堂的百鸟床，也因个中缘由主人不愿意让我们参观，只能作罢。</span><span class="english">We failed to see the hundred-bird bed because the owner would not let us.</span></p>
 
 <p><span class="chinese">苦思却不得答案，只得叹气作罢，冥冥中心思似乎早已明了。</span><span class="english">His answer had to sigh, but not, it appears to already know, I center thinking.</span></p>

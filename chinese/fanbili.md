@@ -1,5 +1,7 @@
 # 反比例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanbili.md)
+
 <p><span class="chinese">压力随温度成正比例变化，与容积成反比例变化。</span><span class="english">Pressure varies directly with temperature and inversely with volume.</span></p>
 
 <p><span class="chinese">再退火速度是和顺序复杂性成反比例。</span><span class="english">The rate of reannealing is inversely proportion to sequence complexity.</span></p>

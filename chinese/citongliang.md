@@ -1,5 +1,7 @@
 # 磁通量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citongliang.md)
+
 <p><span class="chinese">连接电荷和磁通量的元件在哪里？</span><span class="english">Where was the device that connected charge and magnetic flux?</span></p>
 
 <p><span class="chinese">把电流传给电感器，就会产生磁通量。</span><span class="english">Pass a current through an inductor, and you create a magnetic flux.</span></p>

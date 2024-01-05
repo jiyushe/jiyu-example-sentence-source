@@ -1,5 +1,7 @@
 # split 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/split.md)
+
 <p><span class="chinese">这对夫妇关系已经破裂。</span><span class="english">The couple have split.</span></p>
 
 <p><span class="chinese">啊哈，把它分成两半。</span><span class="english">Ah ha, split it in half.</span></p>

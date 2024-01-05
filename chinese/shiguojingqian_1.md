@@ -1,5 +1,7 @@
 # 时过境迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguojingqian_1.md)
+
 <p><span class="chinese">但是它毕竟会时过境迁。</span><span class="english">But the past is, well, it's past.</span></p>
 
 <p><span class="chinese">他们以前不枪决女人,难道时过境迁了吗"</span><span class="english">They didn't shoot women, do they?"</span></p>

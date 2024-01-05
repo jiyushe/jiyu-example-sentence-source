@@ -1,5 +1,7 @@
 # 分合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhe.md)
+
 <p><span class="chinese">两个人的关系分分合合持续了好多年。</span><span class="english">The two have been on and off for several years.</span></p>
 
 <p><span class="chinese">本实用新型设计的一种分合式牌照。</span><span class="english">The utility model relates to a split-merging type license plate.</span></p>

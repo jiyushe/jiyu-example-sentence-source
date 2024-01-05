@@ -1,5 +1,7 @@
 # 助燃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuran.md)
+
 <p><span class="chinese">她吹火助燃。</span><span class="english">She blows the fire.</span></p>
 
 <p><span class="chinese">低利率助燃小麦市场基金买盘**</span><span class="english">LOW-INTEREST RATES HELP FUNDS PILE INTO WHEAT MARKET</span></p>

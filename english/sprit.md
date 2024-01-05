@@ -1,5 +1,7 @@
 # sprit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprit.md)
+
 <p><span class="chinese">灵魂的羽翼在你身后张开。</span><span class="english">The wing of your sprit has grown plumpy.</span></p>
 
 <p><span class="chinese">登山是一种培养集体精神的极好训练。</span><span class="english">Climbing is a good exercise for sprit do corps.</span></p>

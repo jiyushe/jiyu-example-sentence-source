@@ -1,5 +1,7 @@
 # 无缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyuan_1.md)
+
 <p><span class="chinese">我俩无缘相见。</span><span class="english">We missed meeting. It must be fate.</span></p>
 
 <p><span class="chinese">非洲国家这次终与半决赛无缘。</span><span class="english">Africa will not reach the semifinals this time.</span></p>

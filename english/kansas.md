@@ -1,5 +1,7 @@
 # kansas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kansas.md)
+
 <p><span class="chinese">堪萨斯？</span><span class="english">Kansas?</span></p>
 
 <p><span class="chinese">没错，是堪萨斯。</span><span class="english">You're right, it was Kansas.</span></p>

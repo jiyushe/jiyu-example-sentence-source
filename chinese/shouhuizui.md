@@ -1,5 +1,7 @@
 # 受贿罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhuizui.md)
+
 <p><span class="chinese">受贿罪是一种发案率高、较为复杂的犯罪。</span><span class="english">Bribery is a high-rate and complicated crime.</span></p>
 
 <p><span class="chinese">受贿罪是一种贿赂罪。</span><span class="english">Acceptance of bribes is a kind of bribery crime.</span></p>

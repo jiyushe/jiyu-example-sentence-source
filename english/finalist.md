@@ -1,5 +1,7 @@
 # finalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finalist.md)
+
 <p><span class="chinese">顺便说一下，这是一个CLIO入围。</span><span class="english">Incidentally, this one was a CLIO Finalist.</span></p>
 
 <p><span class="chinese">你入选皮尔斯博瑞烘焙大赛决赛了。</span><span class="english">You are a finalist in the Pillsbury Bake-Off.</span></p>

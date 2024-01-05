@@ -1,5 +1,7 @@
 # obscuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obscuration.md)
+
 <p><span class="chinese">然后往前进入北方之内藉著黑暗化著手进行。</span><span class="english">Then forth into the North proceed by obscuration.</span></p>
 
 <p><span class="chinese">灯光也许并不能把你照亮，也许反而会显得你更加暗淡了…</span><span class="english">Perhaps the light cannot illuminate you, but makes you to be more obscuration.</span></p>

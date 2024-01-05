@@ -1,5 +1,7 @@
 # diversity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversity.md)
+
 <p><span class="chinese">多样性</span><span class="english">Diversity.</span></p>
 
 <p><span class="chinese">你怎么看待多样性这个问题？</span><span class="english">What do you think of diversity?</span></p>

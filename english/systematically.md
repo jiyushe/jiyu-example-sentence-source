@@ -1,5 +1,7 @@
 # systematically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systematically.md)
+
 <p><span class="chinese">村民们遭到大规模的劫掠。</span><span class="english">The villagers were systematically plundered.</span></p>
 
 <p><span class="chinese">文章对72B钢盘条断口进行了较系统的检验分析。</span><span class="english">The Fracture of 72B rods are analyzed systematically.</span></p>

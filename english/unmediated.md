@@ -1,5 +1,7 @@
 # unmediated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmediated.md)
+
 <p><span class="chinese">他们梦想着经验与世界,有一种未经调和的关系。</span><span class="english">They dream of an unmediated relationship between experience and the word.</span></p>
 
 <p><span class="chinese">他们梦想着经验与世界，有一种未经调和的关系。</span><span class="english">They dream of an unmediated relationship between experience and the word.</span></p>

@@ -1,5 +1,7 @@
 # 建立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianli_1.md)
+
 <p><span class="chinese">建立功能表。</span><span class="english">Create a menu.</span></p>
 
 <p><span class="chinese">预先建立的。</span><span class="english">Pre-established.</span></p>

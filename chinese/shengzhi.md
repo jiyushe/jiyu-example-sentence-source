@@ -1,5 +1,7 @@
 # 圣旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhi.md)
+
 <p><span class="chinese">父皇在圣旨中叫其捉拿反贼。</span><span class="english">The father in the imperial decree that its take back the thief.</span></p>
 
 <p><span class="chinese">于是她下了一道“圣旨”，要求全国的人们都把镜子砸了。</span><span class="english">And then she gave a "royal order" and commanded all the people to smash their mirrors.</span></p>

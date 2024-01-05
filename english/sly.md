@@ -1,5 +1,7 @@
 # sly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sly.md)
+
 <p><span class="chinese">你这个老奸巨猾的家伙！</span><span class="english">You sly old devil!</span></p>
 
 <p><span class="chinese">他是个狡猾的老狐狸。</span><span class="english">He's a sly old fox.</span></p>

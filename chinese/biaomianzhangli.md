@@ -1,5 +1,7 @@
 # 表面张力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaomianzhangli.md)
+
 <p><span class="chinese">弱小的表面张力也促使了泡泡增长速度变快。</span><span class="english">Low surface tension also helps bubbles grow quickly.</span></p>
 
 <p><span class="chinese">发酵后，发酵液的表面张力降至25mN﹒m-1左右。</span><span class="english">But after ferment, the surface tension is only 25 mNm-1.</span></p>

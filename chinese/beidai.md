@@ -1,5 +1,7 @@
 # 背带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beidai.md)
+
 <p><span class="chinese">橡胶ID套和背带袖子。</span><span class="english">Rubber ID sleeve and strap sleeves.</span></p>
 
 <p><span class="chinese">她找到了一件浅粉色细背带的。</span><span class="english">She found one, light pink with thin straps.</span></p>

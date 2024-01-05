@@ -1,5 +1,7 @@
 # xanthan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xanthan.md)
+
 <p><span class="chinese">黄原胶溶液的粘度几乎不受水的矿化度影响。</span><span class="english">The salinity of water cannot affect the viscosity of xanthan gum solution.</span></p>
 
 <p><span class="chinese">本文用GPC法研究了水溶液中黄原胶的构象及构象的变化。</span><span class="english">The conformation of xanthan molecule in aqueous solution was investigated by GPC.</span></p>

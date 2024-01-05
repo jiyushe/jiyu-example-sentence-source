@@ -1,5 +1,7 @@
 # endocardium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endocardium.md)
+
 <p><span class="chinese">术中取右心房心内膜活检做病理观察。</span><span class="english">Pathology of right atrium endocardium was also observed.</span></p>
 
 <p><span class="chinese">右室尖呈纤维化闭塞和右室心内膜反射回声增强。</span><span class="english">Obliteration of the right ventricularapex and increased echo reflectance at the right ventricular endocardium.</span></p>

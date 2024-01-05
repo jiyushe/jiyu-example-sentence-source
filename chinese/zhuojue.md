@@ -1,5 +1,7 @@
 # 卓绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuojue.md)
+
 <p><span class="chinese">技能卓绝。</span><span class="english">One's technical ability is above all others.</span></p>
 
 <p><span class="chinese">卓绝的博士丹·奥卡姆曾想到过这一点。</span><span class="english">Dan Occam thought of that, invincible doctor.</span></p>

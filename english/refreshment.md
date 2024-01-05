@@ -1,5 +1,7 @@
 # refreshment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refreshment.md)
+
 <p><span class="chinese">爱情是肀裧生活最好的提神剂。</span><span class="english">Love is the greatest refreshment in life.</span></p>
 
 <p><span class="chinese">爱情是主流签名档最好的提神剂。</span><span class="english">love is the greatest refreshment in life.</span></p>

@@ -1,5 +1,7 @@
 # inequity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inequity.md)
+
 <p><span class="chinese">我们目前面临的主要问题是不公平。</span><span class="english">The major problem we are facing today is inequity.</span></p>
 
 <p><span class="chinese">我想尽我所能矫正这种不公正。</span><span class="english">I wanted to do what I could to rectify the inequity.</span></p>

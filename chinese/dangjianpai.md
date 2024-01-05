@@ -1,5 +1,7 @@
 # 挡箭牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangjianpai.md)
+
 <p><span class="chinese">她把父亲和哥哥当成挡箭牌好让我有负罪感。</span><span class="english">She used my father and brother as tools to make me feel guilty.</span></p>
 
 <p><span class="chinese">看上去好像是拿了老师老子的那几招过来做挡箭牌。</span><span class="english">Looks like I got the teacher that move around to make the shield.</span></p>

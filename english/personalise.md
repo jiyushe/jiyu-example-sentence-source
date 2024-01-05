@@ -1,5 +1,7 @@
 # personalise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personalise.md)
+
 <p><span class="chinese">任何用户可以个性化卡。</span><span class="english">User can personalise any card.</span></p>
 
 <p><span class="chinese">他们喜欢定制化和个性化。</span><span class="english">They love to customise and personalise.</span></p>

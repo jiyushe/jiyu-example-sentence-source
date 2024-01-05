@@ -1,5 +1,7 @@
 # 中心思想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxinsixiang.md)
+
 <p><span class="chinese">存在论是这类研究的中心思想。</span><span class="english">Ontology is its central branch.</span></p>
 
 <p><span class="chinese">其中心思想是每一个部件都会被再利用</span><span class="english">And the basic idea is that parts get re-used.</span></p>

@@ -1,5 +1,7 @@
 # 生灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengling_1.md)
+
 <p><span class="chinese">所有生灵，不分善恶。</span><span class="english">Every being, good or evil.</span></p>
 
 <p><span class="chinese">我的使命就是要拯救所有的生灵。</span><span class="english">My mission is to save all living things.</span></p>

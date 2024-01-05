@@ -1,5 +1,7 @@
 # southland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southland.md)
+
 <p><span class="chinese">汕头南国商城有什么店？</span><span class="english">Shantou Southland Mall What shop?</span></p>
 
 <p><span class="chinese">南方公园家属的上诉被不予考虑。</span><span class="english">Southland park families appeal dismissal.</span></p>

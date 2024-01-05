@@ -1,5 +1,7 @@
 # trisection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trisection.md)
+
 <p><span class="chinese">采用辐射式三等份Y型迷宫测试装置，检测动物的空间辨别性学习记忆能力。</span><span class="english">Each mouse's spatial differentiation memory was tested with radiation trisection Y-type maze.</span></p>
 
 <p><span class="chinese">黄梅话的指示代词很有特色，呈现典型的三分局面。</span><span class="english">The demonstrative pronouns in Huangmei dialect is very peculiar, featured for its typical trisection.</span></p>

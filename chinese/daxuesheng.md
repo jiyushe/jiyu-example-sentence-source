@@ -1,5 +1,7 @@
 # 大学生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxuesheng.md)
+
 <p><span class="chinese">丽华是个大学生。</span><span class="english">Lihua is a college student.</span></p>
 
 <p><span class="chinese">我是一名19岁的在校女大学生。</span><span class="english">I`m a 19 year-old college girl.</span></p>

@@ -1,5 +1,7 @@
 # decomposable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decomposable.md)
+
 <p><span class="chinese">禁用“可分解芳香胺染料”。</span><span class="english">Disable "decomposable aromatic amine dyes."</span></p>
 
 <p><span class="chinese">目的研究苯二氮牻类药物奥沙西泮的降解产物。</span><span class="english">OBJECTIVE To study the decomposable compound of oxazepam.</span></p>

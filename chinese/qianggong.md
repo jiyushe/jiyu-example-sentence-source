@@ -1,5 +1,7 @@
 # 强攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianggong.md)
+
 <p><span class="chinese">联邦调查局当时也想对这些人发动强攻。</span><span class="english">The FBI wanted to storm them, too.</span></p>
 
 <p><span class="chinese">中国的风云人物郎平凭借惊人的扣球成为了中国强攻的带头人。</span><span class="english">Chinese sensation Lang Ping led their offensive force with her brilliant spiking power.</span></p>

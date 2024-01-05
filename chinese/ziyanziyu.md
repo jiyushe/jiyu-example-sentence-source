@@ -1,5 +1,7 @@
 # 自言自语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyanziyu.md)
+
 <p><span class="chinese">别傻了，她自言自语。</span><span class="english">Don’t be silly, she told herself.</span></p>
 
 <p><span class="chinese">不要总是在课堂上自言自语。</span><span class="english">Don't always say to yourself in class.</span></p>

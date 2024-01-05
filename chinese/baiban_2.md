@@ -1,5 +1,7 @@
 # 白班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiban_2.md)
+
 <p><span class="chinese">这个星期我当白班。</span><span class="english">I'm on day shift this week.</span></p>
 
 <p><span class="chinese">你愿意上夜班还是上白班?。</span><span class="english">Would you rather work nights or days?</span></p>

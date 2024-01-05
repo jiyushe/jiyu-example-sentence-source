@@ -1,5 +1,7 @@
 # valued
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valued.md)
+
 <p><span class="chinese">张先生是一位可尊敬的长者。</span><span class="english">Mr. Zhang is a valued elder.</span></p>
 
 <p><span class="chinese">那所房子他给我估价80000英镑。</span><span class="english">He valued the house for me at 80000.</span></p>

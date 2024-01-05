@@ -1,5 +1,7 @@
 # vandal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vandal.md)
+
 <p><span class="chinese">如果你不能加入他们，或野蛮破坏它们。</span><span class="english">If you can't join them, spoil or vandal them.</span></p>
 
 <p><span class="chinese">莽撞鬼怪本回合不造成战斗伤害。</span><span class="english">Goblin Vandal deals no combat damage this turn.</span></p>

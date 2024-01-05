@@ -1,5 +1,7 @@
 # schistosome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schistosome.md)
+
 <p><span class="chinese">这样一个周期即是血吸虫的一生，即生活史。</span><span class="english">Such a cycle that is the schistosome life, that is life.</span></p>
 
 <p><span class="chinese">目的观察新型户用沼气池对血吸虫卵的杀灭效果。</span><span class="english">Objective To study the effect of killing schistosome eggs by the family-size biogas tanks.</span></p>

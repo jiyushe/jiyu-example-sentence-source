@@ -1,5 +1,7 @@
 # oxtail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxtail.md)
+
 <p><span class="chinese">我建议您尝尝牛尾汤，先生。</span><span class="english">I suggest you try the oxtail soup, sir.</span></p>
 
 <p><span class="chinese">这家餐馆的牛尾汤最出名。</span><span class="english">This restaurant is famous for oxtail soup.</span></p>

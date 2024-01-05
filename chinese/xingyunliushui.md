@@ -1,5 +1,7 @@
 # 行云流水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingyunliushui.md)
+
 <p><span class="chinese">他将自己的气质秉性挥洒自如，如行云流水。</span><span class="english">He swims easily in the stream of his own temperament.</span></p>
 
 <p><span class="chinese">德国崭新的，行云流水般的战术击溃了法国的军队。</span><span class="english">Germany’s new, fluid tactics shattered France’s armies.</span></p>

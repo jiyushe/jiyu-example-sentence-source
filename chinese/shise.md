@@ -1,5 +1,7 @@
 # 失色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shise.md)
+
 <p><span class="chinese">她突然被吓得惊恐失色。</span><span class="english">She turned pale with sudden fear.</span></p>
 
 <p><span class="chinese">听到这坏消息，她顿然失色。</span><span class="english">She blanched to hear the bad news.</span></p>

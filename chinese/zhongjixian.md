@@ -1,5 +1,7 @@
 # 中继线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjixian.md)
+
 <p><span class="chinese">中继线路基板配置于第一芯片上。</span><span class="english">The relay circuit base board is arranged on the first chip.</span></p>
 
 <p><span class="chinese">桥式放大器CATV中继线电缆中安放的一种放大器，用于馈接分支电缆。</span><span class="english">Bridge Amplifier An amplifier installed on a CATV trunk cable to feed branching cables.</span></p>

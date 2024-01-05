@@ -1,5 +1,7 @@
 # polycrystal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polycrystal.md)
+
 <p><span class="chinese">采用单晶硅或多晶硅太阳能电池，功率0.20W。</span><span class="english">Adopts monocrystal silicon or polycrystal silicon solar battery, power 0.20W.</span></p>
 
 <p><span class="chinese">镀层在基体表面是以纳米尺度的晶粒聚集在一起形成的多晶体形式存在的。</span><span class="english">The coating exists in form of nano- polycrystal layers composed by gathering of nano-sized crystals.</span></p>

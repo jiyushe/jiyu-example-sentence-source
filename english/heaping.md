@@ -1,5 +1,7 @@
 # heaping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heaping.md)
+
 <p><span class="chinese">叠加杂项费用叫做“覆盖”。</span><span class="english">Heaping on charges is called "shrouding."</span></p>
 
 <p><span class="chinese">他不赞成对年轻的艺术家大加赞扬。</span><span class="english">He disapproves of heaping praise on young artists.</span></p>

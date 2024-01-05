@@ -1,5 +1,7 @@
 # clavichord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clavichord.md)
+
 <p><span class="chinese">可是这钢琴？</span><span class="english">But the clavichord?</span></p>
 
 <p><span class="chinese">它叫击弦古钢琴。</span><span class="english">It is called a clavichord.</span></p>

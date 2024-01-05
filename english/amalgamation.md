@@ -1,5 +1,7 @@
 # amalgamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amalgamation.md)
+
 <p><span class="chinese">一六○○年开始了一场公司合并运动。</span><span class="english">A movement towards amalgamation began in 1600.</span></p>
 
 <p><span class="chinese">融合的事务非常广泛。</span><span class="english">there are, you know, so wide amalgamation of things.</span></p>

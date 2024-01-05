@@ -1,5 +1,7 @@
 # transferrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transferrin.md)
+
 <p><span class="chinese">分别控制运铁蛋白和铁蛋白的稳定性和可转译性。</span><span class="english">Controls mRNA stability and translatability for transferrin and ferritin, respectively.</span></p>
 
 <p><span class="chinese">血清转铁蛋白检测可能为结核性腹膜炎的临床诊断提供了一种新方法。</span><span class="english">However, serum transferrin may be a new method for the diagnosis of tuberculous peritonitis.</span></p>

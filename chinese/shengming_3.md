@@ -1,5 +1,7 @@
 # 盛名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengming_3.md)
+
 <p><span class="chinese">苏格拉底约在公元前400年最享盛名。</span><span class="english">Socrates flourished about 400 B.C.</span></p>
 
 <p><span class="chinese">巴苏格拉底约在公元前400年最享盛名。</span><span class="english">Socrates flourished about 400 B. C.</span></p>

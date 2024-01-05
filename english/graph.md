@@ -1,5 +1,7 @@
 # graph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graph.md)
+
 <p><span class="chinese">这里有张图标。</span><span class="english">But here's a graph.</span></p>
 
 <p><span class="chinese">我将给它照相。</span><span class="english">I am going to graph this.</span></p>

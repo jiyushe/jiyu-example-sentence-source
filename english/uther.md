@@ -1,5 +1,7 @@
 # uther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uther.md)
+
 <p><span class="chinese">乌瑟尔向国王泰瑞纳斯报告了阿尔萨斯的行动。</span><span class="english">Uther informs King Terenas of Arthas's actions.</span></p>
 
 <p><span class="chinese">乌瑟尔在加尔达伦被兽人的舰队伏击。</span><span class="english">Uther is ambushed by an orcish fleet at Caer Darrow.</span></p>

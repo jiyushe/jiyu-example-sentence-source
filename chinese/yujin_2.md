@@ -1,5 +1,7 @@
 # 郁金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujin_2.md)
+
 <p><span class="chinese">目的观察郁金对小鼠抑郁的影响。</span><span class="english">Objective To observe the effects of Yujin on depressive mouses.</span></p>
 
 <p><span class="chinese">姜黄和郁金药材中的黄丝郁金是同一植物的不同药用部位。</span><span class="english">Radix Curcuma and Rithoma Curcuma is the same medicinal plants of different positions.</span></p>

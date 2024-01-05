@@ -1,5 +1,7 @@
 # 厢房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfang.md)
+
 <p><span class="chinese">我住在这栋房子的西厢房。</span><span class="english">I live in the west wing of the house.</span></p>
 
 <p><span class="chinese">我们加盖西厢房以扩建房屋。</span><span class="english">We enlarged the house by adding a west wing.</span></p>

@@ -1,5 +1,7 @@
 # 分支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzhi.md)
+
 <p><span class="chinese">选择启发式分支。</span><span class="english">Pick a branch heuristic.</span></p>
 
 <p><span class="chinese">所以这就是不装物品的分支。</span><span class="english">So that's the don't-take branch.</span></p>

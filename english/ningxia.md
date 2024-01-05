@@ -1,5 +1,7 @@
 # ningxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ningxia.md)
+
 <p><span class="chinese">宁夏回族自治区成立于1958年。</span><span class="english">Ningxia Hui Autonomous Region was founded in 1958.</span></p>
 
 <p><span class="chinese">宁夏银川哪里有卖流氓兔的？</span><span class="english">Where has Ningxia Yinchuan to sell rogue rabbit's?</span></p>

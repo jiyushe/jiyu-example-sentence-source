@@ -1,5 +1,7 @@
 # 留存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liucun.md)
+
 <p><span class="chinese">请把你的信用卡给我打印一份留存？</span><span class="english">May I take a print of your vise?</span></p>
 
 <p><span class="chinese">他们留存了男孩的生命。</span><span class="english">They allow the male infants to live.</span></p>

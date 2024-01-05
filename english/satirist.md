@@ -1,5 +1,7 @@
 # satirist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satirist.md)
+
 <p><span class="chinese">法国哲学家和讽刺家。</span><span class="english">French philosopher and satirist.</span></p>
 
 <p><span class="chinese">奥罗克，当然了，是一名作家，讽刺家，幽默家。</span><span class="english">P.J. O'Rourke, of course, is an author, satirist and humorist.</span></p>

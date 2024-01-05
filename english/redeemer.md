@@ -1,5 +1,7 @@
 # redeemer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redeemer.md)
+
 <p><span class="chinese">撒旦是救世主？</span><span class="english">Lucifer as Redeemer?</span></p>
 
 <p><span class="chinese">我知我的因缘果报存活着。</span><span class="english">I know my redeemer liveth.</span></p>

@@ -1,5 +1,7 @@
 # 夹角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajiao.md)
+
 <p><span class="chinese">我是说，A和B的夹角取哪个？</span><span class="english">I mean, what angle is A making with B?</span></p>
 
 <p><span class="chinese">φ是与z轴的夹角。</span><span class="english">Phi is the angle down from the z axis.</span></p>

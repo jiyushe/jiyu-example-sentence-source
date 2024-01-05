@@ -1,5 +1,7 @@
 # 浴缸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugang.md)
+
 <p><span class="chinese">这浴缸是给哈巴狗的。</span><span class="english">The tub is for the pug.</span></p>
 
 <p><span class="chinese">独立的浴缸和淋浴。</span><span class="english">Separate Bath with shower.</span></p>

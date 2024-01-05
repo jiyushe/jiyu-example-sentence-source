@@ -1,5 +1,7 @@
 # 认罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzui.md)
+
 <p><span class="chinese">“认罪”，他回答道。</span><span class="english">“Guilty, ” he responded.</span></p>
 
 <p><span class="chinese">他坦白认罪使我吃惊。</span><span class="english">They wangled him into confessing.</span></p>

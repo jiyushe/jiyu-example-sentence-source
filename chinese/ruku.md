@@ -1,5 +1,7 @@
 # 入库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruku.md)
+
 <p><span class="chinese">和平时期也不能马放南山，刀枪入库。</span><span class="english">Never put the bayonets and guns away.</span></p>
 
 <p><span class="chinese">完成每月出入库。</span><span class="english">Finish monthly stocked parts statistics.</span></p>

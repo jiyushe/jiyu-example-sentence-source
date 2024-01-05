@@ -1,5 +1,7 @@
 # throb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throb.md)
+
 <p><span class="chinese">约翰是玛丽的情人。</span><span class="english">John is Mary's heart- throb.</span></p>
 
 <p><span class="chinese">我想他会在悸动里。</span><span class="english">And I think he's there in that throb.</span></p>

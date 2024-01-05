@@ -1,5 +1,7 @@
 # 岂止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhi_1.md)
+
 <p><span class="chinese">这一观点岂止是可以理解的。</span><span class="english">That view is understandable.</span></p>
 
 <p><span class="chinese">他岂止是报答了我的帮助。</span><span class="english">He has more than repaid my kindness.</span></p>

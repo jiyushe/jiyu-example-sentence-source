@@ -1,5 +1,7 @@
 # 说穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuochuan.md)
+
 <p><span class="chinese">说穿了是需要的并不多，想要的太多。</span><span class="english">At the end of the day is not need more, want too much.</span></p>
 
 <p><span class="chinese">这件难以启齿的事还是让胖嫂先说穿了。</span><span class="english">It was Fatso who first spoke of the unspeakable thing.</span></p>

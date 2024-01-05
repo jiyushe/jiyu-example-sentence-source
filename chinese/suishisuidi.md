@@ -1,5 +1,7 @@
 # 随时随地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishisuidi.md)
+
 <p><span class="chinese">“路遇”，随时随地，邂逅心动！</span><span class="english">Meet new friends, anytime anywhere.</span></p>
 
 <p><span class="chinese">老师随时随地都乐意向你提供学习上的帮助。</span><span class="english">The teacher will be glad to help you.</span></p>

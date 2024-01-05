@@ -1,5 +1,7 @@
 # 水地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidi.md)
+
 <p><span class="chinese">没有水地里长不出粮食。</span><span class="english">Without water the earth grows no food.</span></p>
 
 <p><span class="chinese">适宜黄土高原冷凉区水地种植。</span><span class="english">The normal region is cold irrigated areas of Loess Plateau.</span></p>

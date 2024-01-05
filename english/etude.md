@@ -1,5 +1,7 @@
 # etude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etude.md)
+
 <p><span class="chinese">一个特技。</span><span class="english">An acrobatic etude.</span></p>
 
 <p><span class="chinese">曼恰人，音乐会练习曲，作品38。</span><span class="english">Manchega, Etude de concert, Op. 38</span></p>

@@ -1,5 +1,7 @@
 # 工人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongren_1.md)
+
 <p><span class="chinese">工人共100余人。</span><span class="english">Over 100 workers.</span></p>
 
 <p><span class="chinese">工人在歇工。</span><span class="english">The workmen are out.</span></p>

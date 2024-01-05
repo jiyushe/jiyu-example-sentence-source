@@ -1,5 +1,7 @@
 # snob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snob.md)
+
 <p><span class="chinese">她是个势利眼。</span><span class="english">She's a snob.</span></p>
 
 <p><span class="chinese">他是个十足的势利眼。</span><span class="english">He was a fearful snob.</span></p>

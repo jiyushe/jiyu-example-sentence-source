@@ -1,5 +1,7 @@
 # 曲调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qudiao.md)
+
 <p><span class="chinese">那首歌的曲调是怎样的?</span><span class="english">How does that song go?</span></p>
 
 <p><span class="chinese">你需要选择你的曲调。</span><span class="english">You get to pick the tune.</span></p>

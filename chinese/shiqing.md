@@ -1,5 +1,7 @@
 # 世情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqing.md)
+
 <p><span class="chinese">以岁月为弦，赠你惊世情歌。</span><span class="english">In years for strings, give you stunning songs.</span></p>
 
 <p><span class="chinese">乔治的洞察世情令她叹服。</span><span class="english">George dazzled her with his knowledge of the world.</span></p>

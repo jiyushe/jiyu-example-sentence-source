@@ -1,5 +1,7 @@
 # yemeni
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yemeni.md)
+
 <p><span class="chinese">雷米2006年逃离了也门的一个监狱。</span><span class="english">Al-Raimi escaped from a Yemeni prison in 2006.</span></p>
 
 <p><span class="chinese">一个成绩卓著的女律师接手了努乔德的案子。</span><span class="english">A prominent female Yemeni attorney took up Nujood's case.</span></p>

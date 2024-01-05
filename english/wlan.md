@@ -1,5 +1,7 @@
 # wlan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wlan.md)
+
 <p><span class="chinese">嗅探无线局域网直接威胁网络安全。</span><span class="english">Sniffing WLAN straightly threatens the safety of WLAN.</span></p>
 
 <p><span class="chinese">目前该系统已成功地应用于上海电信“天翼通”无线局域网的管理系统。</span><span class="english">Now this system has been applied successfully to WLAN of Shanghai Telecom.</span></p>

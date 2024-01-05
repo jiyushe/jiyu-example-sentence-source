@@ -1,5 +1,7 @@
 # 驼鹿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuolu.md)
+
 <p><span class="chinese">不得从飞机上俯看驼鹿。</span><span class="english">Moose may not be viewed from an airplane.</span></p>
 
 <p><span class="chinese">那个足球运动员壮得象头驼鹿。</span><span class="english">The football player was built like a moose.</span></p>

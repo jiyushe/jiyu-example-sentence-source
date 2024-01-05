@@ -1,5 +1,7 @@
 # 证件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjian_1.md)
+
 <p><span class="chinese">他给她看了证件。</span><span class="english">He showed her the ID.</span></p>
 
 <p><span class="chinese">你有证件吗？</span><span class="english">Do you have your papers?</span></p>

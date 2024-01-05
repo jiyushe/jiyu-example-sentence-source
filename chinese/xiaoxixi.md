@@ -1,5 +1,7 @@
 # 笑嘻嘻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxixi.md)
+
 <p><span class="chinese">我在冬天的雪地里也总是笑嘻嘻。</span><span class="english">And smil'd among the winter's snow.</span></p>
 
 <p><span class="chinese">莉莉笑嘻嘻的从她妈妈那里挣扎出来。</span><span class="english">Lily grinned and wriggled away from her mother.</span></p>

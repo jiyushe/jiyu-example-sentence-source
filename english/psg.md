@@ -1,5 +1,7 @@
 # psg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psg.md)
+
 <p><span class="chinese">每个人都在谈论PSG，这让我高兴。</span><span class="english">Everybody's talking about PSG and that pleases me.</span></p>
 
 <p><span class="chinese">马赛滑落至积分榜中游，7分落后第三名里尔。</span><span class="english">Lyon slipped to third place, three points behind PSG.</span></p>

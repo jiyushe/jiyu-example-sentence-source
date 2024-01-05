@@ -1,5 +1,7 @@
 # conservative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservative.md)
+
 <p><span class="chinese">在穿着方面会比较保守。</span><span class="english">They are conservative dressers.</span></p>
 
 <p><span class="chinese">我想我算是比较保守的人。</span><span class="english">I guess I’m pretty conservative.</span></p>

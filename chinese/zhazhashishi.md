@@ -1,5 +1,7 @@
 # 扎扎实实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhazhashishi.md)
+
 <p><span class="chinese">我就喜欢你们这股扎扎实实埋头苦干的劲儿。</span><span class="english">I like your down-to-earth and hardworking spirit.</span></p>
 
 <p><span class="chinese">在这样一条条抛物线后面，是一系列扎扎实实的保障工作。</span><span class="english">In such a rear of the parabola , is a series of solid security work.</span></p>

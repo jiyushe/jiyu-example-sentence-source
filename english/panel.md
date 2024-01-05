@@ -1,5 +1,7 @@
 # panel 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panel.md)
+
 <p><span class="chinese">打开控制面板。</span><span class="english">Open the Control Panel.</span></p>
 
 <p><span class="chinese">拆下车门饰板。</span><span class="english">Remove door trim panel.</span></p>

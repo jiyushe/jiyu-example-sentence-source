@@ -1,5 +1,7 @@
 # 人类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renlei.md)
+
 <p><span class="chinese">我只是个人类嘛。</span><span class="english">Yeah, I’m human.</span></p>
 
 <p><span class="chinese">人类的最好的朋友。</span><span class="english">Man's best amigo.</span></p>

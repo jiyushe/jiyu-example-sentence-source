@@ -1,5 +1,7 @@
 # autophagy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autophagy.md)
+
 <p><span class="chinese">用高血糖素处理肝脏，会导制自噬作用增加。</span><span class="english">Glucagon treatment of liver leads to increased autophagy.</span></p>
 
 <p><span class="chinese">细胞质的组分能通过选择性的自噬作用被摄取。</span><span class="english">Cytoplasmic components may well be scavenged by selective autophagy.</span></p>

@@ -1,5 +1,7 @@
 # 鹿茸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lurong.md)
+
 <p><span class="chinese">年产清原马鹿茸干品8吨。</span><span class="english">Annual production of dry deer velvet is 8 tons.</span></p>
 
 <p><span class="chinese">在棚子里我看到一些鹿茸摆在一个架子上晾着。</span><span class="english">In the shed I saw antlers set out on a stand to air.</span></p>

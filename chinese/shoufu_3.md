@@ -1,5 +1,7 @@
 # 首富
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufu_3.md)
+
 <p><span class="chinese">他曾经是中国首富。</span><span class="english">He used to top the list of China's richest.</span></p>
 
 <p><span class="chinese">印度首富可能有咬掉超过他贪多嚼不烂。</span><span class="english">India's richest man may have bitten off more than he can chew.</span></p>

@@ -1,5 +1,7 @@
 # nab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nab.md)
+
 <p><span class="chinese">在默认设定下，NAB真是喋喋不休。</span><span class="english">In its default configuration, NAB is a real chatterbox.</span></p>
 
 <p><span class="chinese">如果玩家中了奖，他们会收到邮寄的奖金。</span><span class="english">If players nab a prize, they receive their bounty by mail.</span></p>

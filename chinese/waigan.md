@@ -1,5 +1,7 @@
 # 外感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waigan.md)
+
 <p><span class="chinese">疏风解表，清热解毒。用于外感风热，发热，头痛，咳嗽音哑，咽喉肿痛。</span><span class="english">For fever, headache, cough, hoarse voice, and swelling and pain in the throat.</span></p>
 
 <p><span class="chinese">你描述的症状，大多是由于内热引起的外感。</span><span class="english">The symptoms you describe, most of them arising as a result of exogenous heat.</span></p>

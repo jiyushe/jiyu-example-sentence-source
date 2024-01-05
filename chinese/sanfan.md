@@ -1,5 +1,7 @@
 # 三反
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanfan.md)
+
 <p><span class="chinese">本文旨在研究甘肃省“三反”运动的开展情况。</span><span class="english">This paper aims to study in Gansu province ", the implementation of the "three antis movement.</span></p>
 
 <p><span class="chinese">本文主要介绍了一种可用于设计无遮拦三反射镜变焦系统的方法。</span><span class="english">A method for the design of an unobscured reflective zoom system with three mirrors is described.</span></p>

@@ -1,5 +1,7 @@
 # gnomon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnomon.md)
+
 <p><span class="chinese">坎贝尔的指时钟越过自己的脸，他揭示了一天的时间。</span><span class="english">Sol's gnomon crosses his own face as he discloses the time of day.</span></p>
 
 <p><span class="chinese">它看起来象是一个小的指时针和在每个主要的轴向上的线的延伸。</span><span class="english">It appears as a small gnomon with lines extending in each major direction.</span></p>

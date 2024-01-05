@@ -1,5 +1,7 @@
 # 住房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufang.md)
+
 <p><span class="chinese">他拼死拼活地干活以便买到属于他自己的住房。</span><span class="english">He slaved to get his own house.</span></p>
 
 <p><span class="chinese">他们把那栋屋宇分红许多套住房。</span><span class="english">They divided the house into flats.</span></p>

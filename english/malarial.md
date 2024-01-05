@@ -1,5 +1,7 @@
 # malarial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malarial.md)
+
 <p><span class="chinese">他唯一的伙伴是杂种狗和携带疟原虫的蚊子，绝望而又孤单。</span><span class="english">His only companions, mongrel dogs and malarial mosquitoes. Desperate and alone.</span></p>
 
 <p><span class="chinese">虫体经胞口摄食，食物泡由单层膜包绕，内有疟色素。</span><span class="english">The food vacuole was surrounded by one membrane and the malarial pigment was found.</span></p>

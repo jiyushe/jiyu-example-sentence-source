@@ -1,5 +1,7 @@
 # antitussive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antitussive.md)
+
 <p><span class="chinese">目的观察左羟丙哌嗪的镇咳作用。</span><span class="english">Aim To observe the antitussive effect of levodropropizine.</span></p>
 
 <p><span class="chinese">无痰干咳需用镇咳药止咳，以避免并发症。</span><span class="english">Nonproductive coughs need an antitussive to stop the coughing.</span></p>

@@ -1,5 +1,7 @@
 # 著书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushu_1.md)
+
 <p><span class="chinese">发表论文50多篇，著书3部，获软件著作权6项。</span><span class="english">Publications include over 50 papers and 3 books and 3 software copyrights.</span></p>
 
 <p><span class="chinese">我对书籍的热爱从未减弱，日后还引导我自己撰文著书。</span><span class="english">My love of books never diminished and later led me toward writing books myself.</span></p>

@@ -1,5 +1,7 @@
 # candida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candida.md)
+
 <p><span class="chinese">这是念球菌属食管炎。</span><span class="english">This is Candida esophagitis.</span></p>
 
 <p><span class="chinese">念珠菌是一种常见的疾病，我们的日子。</span><span class="english">Candida is a common disease of our days.</span></p>

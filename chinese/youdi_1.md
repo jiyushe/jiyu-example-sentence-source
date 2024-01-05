@@ -1,5 +1,7 @@
 # 邮递
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdi_1.md)
+
 <p><span class="chinese">亚马逊网络书店不提供邮递到印度的服务。</span><span class="english">And Amazon would not deliver them.</span></p>
 
 <p><span class="chinese">对邮递区号进行同样的操作。</span><span class="english">Do the same for the shipping postal code.</span></p>

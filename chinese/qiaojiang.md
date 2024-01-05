@@ -1,5 +1,7 @@
 # 巧匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaojiang.md)
+
 <p><span class="chinese">传说鲁班妻子云氏也是一位巧匠。</span><span class="english">Legend lu's wife is a cunning workman cloud.</span></p>
 
 <p><span class="chinese">他是一个伟大的巧匠，他指出了一条通向成功的路。</span><span class="english">He is the great manipulator and pointed the way to success.</span></p>

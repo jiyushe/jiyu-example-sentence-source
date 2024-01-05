@@ -1,5 +1,7 @@
 # 送话器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songhuaqi.md)
+
 <p><span class="chinese">你看，传声器作用与电话的送话器很相像。</span><span class="english">The microphone, you see, acts much like a telephone transmitter.</span></p>
 
 <p><span class="chinese">在通信系统中，将送话器和受话器作成一体的一种电话机部件，它可以用一只手握住使用。</span><span class="english">An communication system , a telephone mouthpiece and receiver in a single unit that can be held in one hand.</span></p>

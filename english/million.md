@@ -1,5 +1,7 @@
 # million
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/million.md)
+
 <p><span class="chinese">大约二千九百万。</span><span class="english">About 29 million.</span></p>
 
 <p><span class="chinese">两百万美元。</span><span class="english">Two million dollars.</span></p>

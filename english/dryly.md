@@ -1,5 +1,7 @@
 # dryly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dryly.md)
+
 <p><span class="chinese">"尿到里面"，她干巴巴地说。</span><span class="english">"Urinate into this," she said dryly.</span></p>
 
 <p><span class="chinese">“我不知道”我声音干巴地回答，试图打消他的热情。</span><span class="english">I don't know, " I replied dryly , trying to discourage him."</span></p>

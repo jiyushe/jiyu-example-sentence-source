@@ -1,5 +1,7 @@
 # struggling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/struggling.md)
+
 <p><span class="chinese">苏亚雷斯的生意在苦苦挣扎。</span><span class="english">The Soares’ business was struggling.</span></p>
 
 <p><span class="chinese">她惨叫着，挣扎着。</span><span class="english">She screamed, struggling to free herself.</span></p>

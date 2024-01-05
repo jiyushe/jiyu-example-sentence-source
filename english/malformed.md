@@ -1,5 +1,7 @@
 # malformed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malformed.md)
+
 <p><span class="chinese">这个人身体畸形，他们说，他是村庄的一位白痴。</span><span class="english">He was malformed and they said he was one of the village idiots.</span></p>
 
 <p><span class="chinese">一开始，他们得的是怪怪的皮疹，恶心，以及产下畸形婴儿。</span><span class="english">At first they suffered strange rashes, nausea and malformed babies.</span></p>

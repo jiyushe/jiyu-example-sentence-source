@@ -1,5 +1,7 @@
 # 烟斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandou.md)
+
 <p><span class="chinese">这支烟斗好抽。</span><span class="english">This pipe smokes well.</span></p>
 
 <p><span class="chinese">他给烟斗装上烟，然后点着。</span><span class="english">He filled and lit his pipe.</span></p>

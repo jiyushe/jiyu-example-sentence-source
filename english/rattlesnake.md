@@ -1,5 +1,7 @@
 # rattlesnake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rattlesnake.md)
+
 <p><span class="chinese">搬弄是非者的毒舌比响尾蛇的毒液还要致命。</span><span class="english">The venom of rattlesnake is enough to kill 1000 rats.</span></p>
 
 <p><span class="chinese">躺在树丛里会被响尾蛇咬吗？</span><span class="english">If I lay down in a bush would I get bitten by a rattlesnake?</span></p>

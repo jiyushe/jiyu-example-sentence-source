@@ -1,5 +1,7 @@
 # stackable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stackable.md)
+
 <p><span class="chinese">这是一个标准的堆叠信件托盘。</span><span class="english">This is a standard stackable letter tray.</span></p>
 
 <p><span class="chinese">有些外壳可以堆叠，也可以放在脚轮上。</span><span class="english">Some enclosures are stackable or can be placed on casters.</span></p>

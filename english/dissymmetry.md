@@ -1,5 +1,7 @@
 # dissymmetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissymmetry.md)
+
 <p><span class="chinese">败德行为与不对称关系有着内在联系。</span><span class="english">There is internality connection between the immoral behavior and the dissymmetry relation.</span></p>
 
 <p><span class="chinese">信息不对称又为人防办与开发商的“寻租”行为提供了保障。</span><span class="english">Third, the dissymmetry of information provides guarantee for their rent-seeking activities.</span></p>

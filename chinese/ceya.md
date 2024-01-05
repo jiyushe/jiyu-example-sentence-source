@@ -1,5 +1,7 @@
 # 侧芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceya.md)
+
 <p><span class="chinese">腋芽或侧芽是生在枝的侧面叶腋内的芽。</span><span class="english">Axillary or lateral buds develop in the leaf axils.</span></p>
 
 <p><span class="chinese">不论顶芽及侧芽，均在四月底到五月初开始萌发。</span><span class="english">All the pear buds tested in Taipei area began to sprout from late-April to early-May.</span></p>

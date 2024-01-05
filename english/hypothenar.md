@@ -1,5 +1,7 @@
 # hypothenar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothenar.md)
+
 <p><span class="chinese">手掌或小鱼际轻拍手臂内、外侧。</span><span class="english">Hypothenar palm of your hand or pat his arm, the lateral.</span></p>
 
 <p><span class="chinese">足小鱼际远侧区真实花纹较多，其他跖区较少。</span><span class="english">The frequencies of true patterns in hypothenar distal area are more than other areas.</span></p>

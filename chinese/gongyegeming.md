@@ -1,5 +1,7 @@
 # 工业革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyegeming.md)
+
 <p><span class="chinese">在工业革命之前的货物运输中转站。</span><span class="english">The freight station of the pre-revolutionary time.</span></p>
 
 <p><span class="chinese">归根到底，工业革命远未完结。</span><span class="english">After all, the industrial revolution is far from finished.</span></p>

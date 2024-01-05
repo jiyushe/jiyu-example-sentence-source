@@ -1,5 +1,7 @@
 # paycheck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paycheck.md)
+
 <p><span class="chinese">嘿，他们从我们薪水里扣了不少钱。</span><span class="english">Man, they take a lot of our paycheck.</span></p>
 
 <p><span class="chinese">每回只要从薪水里面扣除几元钱。</span><span class="english">It’s only a few dollars every paycheck.</span></p>

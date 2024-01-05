@@ -1,5 +1,7 @@
 # fritter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fritter.md)
+
 <p><span class="chinese">在赌博上挥霍公钱。</span><span class="english">Fritter away one's money on gambling.</span></p>
 
 <p><span class="chinese">我似乎把时间全都浪费在咖啡早茶会上了。</span><span class="english">I seem to fritter my time away at coffee mornings.</span></p>

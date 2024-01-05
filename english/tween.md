@@ -1,5 +1,7 @@
 # tween
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tween.md)
+
 <p><span class="chinese">在开底舱之前打扫二层舱甲板。</span><span class="english">Clean tween deck before opening lower hold.</span></p>
 
 <p><span class="chinese">吐温对牛胰蛋白酶活性的影响较少。</span><span class="english">The activity of bovine trypsin is less influenced by tween.</span></p>

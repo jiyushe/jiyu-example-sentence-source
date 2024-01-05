@@ -1,5 +1,7 @@
 # standardize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standardize.md)
+
 <p><span class="chinese">整顿和规范市场经济秩序。</span><span class="english">We will rectify and standardize the market order.</span></p>
 
 <p><span class="chinese">该公司需要标准化这些部件类型。</span><span class="english">The company needs to standardize these part types.</span></p>

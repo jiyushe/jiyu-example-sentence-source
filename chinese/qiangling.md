@@ -1,5 +1,7 @@
 # 强令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangling.md)
+
 <p><span class="chinese">他再一次地强令召回了波托马克河的部队。</span><span class="english">Once again, he had forced back the Army of the Potomac.</span></p>
 
 <p><span class="chinese">在美国，可以发传票强令互联网公司公开网络用户的身份。</span><span class="english">In the U. S. , subpoenas can force the disclosure of online identities.</span></p>

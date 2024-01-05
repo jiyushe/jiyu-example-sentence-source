@@ -1,5 +1,7 @@
 # rather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rather.md)
+
 <p><span class="chinese">我情愿不去。</span><span class="english">B. I'd rather not.</span></p>
 
 <p><span class="chinese">宁先生说。</span><span class="english">Rather the Sir says.</span></p>

@@ -1,5 +1,7 @@
 # repo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repo.md)
+
 <p><span class="chinese">你不想在你的门回购男子敲入。</span><span class="english">You do not want the repo man knockin at your door.</span></p>
 
 <p><span class="chinese">幸运的是，回购协议市场不大可能完全冻结。</span><span class="english">Fortunately, the repo market is unlikely to freeze up entirely.</span></p>

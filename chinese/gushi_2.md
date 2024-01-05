@@ -1,5 +1,7 @@
 # 古诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushi_2.md)
+
 <p><span class="chinese">学习和背诵中国古诗。</span><span class="english">Learn and memorize ancient Chinese poems.</span></p>
 
 <p><span class="chinese">这首古诗很费解。</span><span class="english">This classical poem is hard to understand.</span></p>

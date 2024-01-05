@@ -1,5 +1,7 @@
 # dipole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dipole.md)
+
 <p><span class="chinese">我必须问这里是否有一个网状偶极？</span><span class="english">I have to ask is there a net dipole?</span></p>
 
 <p><span class="chinese">我们也标出了一个偶极。</span><span class="english">Let's look at that one. Here we have a dipole.</span></p>

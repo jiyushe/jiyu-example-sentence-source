@@ -1,5 +1,7 @@
 # barrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barrow.md)
+
 <p><span class="chinese">他们修这辆手推车一直修到深夜。</span><span class="english">He came, pushing a barrow along.</span></p>
 
 <p><span class="chinese">他推着手推车沿路走过。</span><span class="english">He trundled a wheel barrow down the path.</span></p>

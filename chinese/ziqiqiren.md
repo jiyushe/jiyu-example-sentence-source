@@ -1,5 +1,7 @@
 # 自欺欺人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziqiqiren.md)
+
 <p><span class="chinese">这是自欺欺人的傲慢。</span><span class="english">This is self-deceiving pomposity.</span></p>
 
 <p><span class="chinese">我只是希望我没有自欺欺人。</span><span class="english">I just hope I'm not deluding myself.</span></p>

@@ -1,5 +1,7 @@
 # immittance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immittance.md)
+
 <p><span class="chinese">声导抗无明显异常。</span><span class="english">No abnormality were found in acoustic immittance audiometry.</span></p>
 
 <p><span class="chinese">分析部分病例声导抗峰压值的结果。</span><span class="english">The peak pressure of acoustic immittance in part cases was also considered.</span></p>

@@ -1,5 +1,7 @@
 # accumulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accumulate.md)
+
 <p><span class="chinese">一季度强劲增长合预期。维持收集。</span><span class="english">Strong 1Q in line. Maintain Accumulate.</span></p>
 
 <p><span class="chinese">让我们坚持联系，再见。</span><span class="english">Let's accumulate in blow, acceptable-bye.</span></p>

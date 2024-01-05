@@ -1,5 +1,7 @@
 # 体性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixing_4.md)
+
 <p><span class="chinese">这是一个紧张动作和自体性行为动作的结合。</span><span class="english">This is a combination of nervous and autoerotic actions.</span></p>
 
 <p><span class="chinese">其内容包括程序性权利和实体性权利。</span><span class="english">Its content includes procedural right and substantive right.</span></p>

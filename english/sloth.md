@@ -1,5 +1,7 @@
 # sloth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sloth.md)
+
 <p><span class="chinese">懒惰能磨去才智的矛头。</span><span class="english">Sloth turneth the bend of wit.</span></p>
 
 <p><span class="chinese">懒惰会磨去才智的锋芒。</span><span class="english">Sloth turneth the edge of wit.</span></p>

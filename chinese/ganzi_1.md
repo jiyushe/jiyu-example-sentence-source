@@ -1,5 +1,7 @@
 # 竿子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzi_1.md)
+
 <p><span class="chinese">问问你的邻居，或者你最好的朋友，或者你八竿子打不着的表亲。</span><span class="english">Ask you neighbor. Or your best friend.</span></p>
 
 <p><span class="chinese">这就需要一根超级腰力的竿子。</span><span class="english">It requires a rod with plenty of backbone.</span></p>

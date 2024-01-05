@@ -1,5 +1,7 @@
 # necrotizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necrotizing.md)
+
 <p><span class="chinese">这是坏死性肉芽肿性血管炎。</span><span class="english">This is a necrotizing granulomatous vasculitis.</span></p>
 
 <p><span class="chinese">没有人知道Wilson如何染上坏死性筋膜炎。</span><span class="english">No one knows how Wilson got necrotizing fasciitis.</span></p>

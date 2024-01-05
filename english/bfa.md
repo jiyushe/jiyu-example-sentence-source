@@ -1,5 +1,7 @@
 # bfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bfa.md)
+
 <p><span class="chinese">埃里克获得了博鳌亚洲论坛于1992年在绘画。</span><span class="english">Eric received a BFA in painting in 1992.</span></p>
 
 <p><span class="chinese">预祝年会取得圆满成功！</span><span class="english">I wish the BFA annual conference a great success.</span></p>

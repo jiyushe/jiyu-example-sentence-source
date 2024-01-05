@@ -1,5 +1,7 @@
 # 疾风暴雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifengbaoyu.md)
+
 <p><span class="chinese">顶着那疾风暴雨，我与你相伴。</span><span class="english">Through howling winds and driving rains, To be by your side.</span></p>
 
 <p><span class="chinese">在疾风暴雨中，这只小船撞在岩石上。</span><span class="english">In a furious storm the little boat was dashed against the rocks.</span></p>

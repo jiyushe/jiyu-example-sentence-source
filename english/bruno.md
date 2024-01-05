@@ -1,5 +1,7 @@
 # bruno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bruno.md)
+
 <p><span class="chinese">“不知道”布鲁诺回答。</span><span class="english">“No idea,” Bruno said.</span></p>
 
 <p><span class="chinese">布鲁诺盯着我看。</span><span class="english">Bruno looked me in the eye.</span></p>

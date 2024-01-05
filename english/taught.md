@@ -1,5 +1,7 @@
 # taught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taught.md)
+
 <p><span class="chinese">王老师没教过我们历史课。</span><span class="english">I taught the teacher.</span></p>
 
 <p><span class="chinese">那么谁教导你们呢？</span><span class="english">Then, who taught you?</span></p>

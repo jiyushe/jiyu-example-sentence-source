@@ -1,5 +1,7 @@
 # humanely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanely.md)
+
 <p><span class="chinese">但入道以来没有停止过苦干。</span><span class="english">Humanely but has never stopped working hard.</span></p>
 
 <p><span class="chinese">我们承诺会人道地对待这些老虎。</span><span class="english">They also promise to treat the tigers humanely.</span></p>

@@ -1,5 +1,7 @@
 # 益处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichu_1.md)
+
 <p><span class="chinese">发牢骚毫无益处。</span><span class="english">It boots thee not to complain.</span></p>
 
 <p><span class="chinese">这对我毫无益处。</span><span class="english">It is no benefit to me at all.</span></p>

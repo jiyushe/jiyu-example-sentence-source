@@ -1,5 +1,7 @@
 # ph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ph.md)
+
 <p><span class="chinese">所以波尔得到了一个博士学位。</span><span class="english">So, Niels had a Ph.D.</span></p>
 
 <p><span class="chinese">西菲律宾海的防空区？</span><span class="english">Airdefense zone over West PH Sea?</span></p>

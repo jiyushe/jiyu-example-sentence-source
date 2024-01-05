@@ -1,5 +1,7 @@
 # 赶忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganmang.md)
+
 <p><span class="chinese">杰米赶忙去弄点牛奶。</span><span class="english">Jaimie hurried to get some milk.</span></p>
 
 <p><span class="chinese">下课后黄振就赶忙回家了。</span><span class="english">Huang Zhen hurried home after class.</span></p>

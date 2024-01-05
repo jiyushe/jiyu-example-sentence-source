@@ -1,5 +1,7 @@
 # adjoin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjoin.md)
+
 <p><span class="chinese">我们俩的房屋邻接着。</span><span class="english">Our two houses adjoin.</span></p>
 
 <p><span class="chinese">这两栋房屋相毗连。</span><span class="english">The two houses adjoin.</span></p>

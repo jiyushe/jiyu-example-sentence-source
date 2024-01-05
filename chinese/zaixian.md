@@ -1,5 +1,7 @@
 # 再现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixian.md)
+
 <p><span class="chinese">神灯再现！</span><span class="english">Magic Lamp again!</span></p>
 
 <p><span class="chinese">中国的金童能再现辉煌吗？</span><span class="english">Can China's golden boy repeat?</span></p>

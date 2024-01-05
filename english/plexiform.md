@@ -1,5 +1,7 @@
 # plexiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plexiform.md)
+
 <p><span class="chinese">层做路面铺成的路。</span><span class="english">The plexiform layers of the retina.</span></p>
 
 <p><span class="chinese">B3组有少量外丛状层细胞轻度肿胀。</span><span class="english">Only the outer plexiform layer cells of group B3. were swollen.</span></p>

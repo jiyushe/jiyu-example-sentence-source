@@ -1,5 +1,7 @@
 # 前前后后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqianhouhou.md)
+
 <p><span class="chinese">我要知道他失踪前前后后的情况。</span><span class="english">I want to know the history of his disappearance.</span></p>
 
 <p><span class="chinese">所有的蚂蚁都在上上下下、前前后后、来来回回地跑着寻找美食。</span><span class="english">All the ants raced here and there, up, down, and to and fro.</span></p>

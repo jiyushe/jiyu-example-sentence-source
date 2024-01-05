@@ -1,5 +1,7 @@
 # 转速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuansu.md)
+
 <p><span class="chinese">数位式转速及时间显示。</span><span class="english">LED speed and time display.</span></p>
 
 <p><span class="chinese">不要使发动机转速太快。</span><span class="english">Don't rev up the engine too fast.</span></p>

@@ -1,5 +1,7 @@
 # 手写体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxieti.md)
+
 <p><span class="chinese">不要使用手写体。</span><span class="english">Do not use any script fonts.</span></p>
 
 <p><span class="chinese">在手写体的事件或大的秋天不可能工作。</span><span class="english">May not work in scripted events or large falls.</span></p>

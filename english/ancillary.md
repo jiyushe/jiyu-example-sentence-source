@@ -1,5 +1,7 @@
 # ancillary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ancillary.md)
+
 <p><span class="chinese">运输队是步兵的辅助部队。</span><span class="english">The transport corps is ancillary to the infantry.</span></p>
 
 <p><span class="chinese">单轨小车是一种配套设备。</span><span class="english">Monorail trolley is a kind of ancillary facilities.</span></p>

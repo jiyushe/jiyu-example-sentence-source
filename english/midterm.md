@@ -1,5 +1,7 @@
 # midterm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midterm.md)
+
 <p><span class="chinese">期中考试,其它考试</span><span class="english">The Midterm? The exams?</span></p>
 
 <p><span class="chinese">下周就要期中考了。</span><span class="english">Midterm is next week, you know.</span></p>

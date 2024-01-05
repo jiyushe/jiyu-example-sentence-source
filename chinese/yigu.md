@@ -1,5 +1,7 @@
 # 遗孤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigu.md)
+
 <p><span class="chinese">至今已有2513名日本遗孤返日定居。</span><span class="english">Now 2,513 of them have returned to Japan.</span></p>
 
 <p><span class="chinese">温家宝首先欢迎日本遗孤感恩团来访。</span><span class="english">Wen first of all expressed welcome to the delegation.</span></p>

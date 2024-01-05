@@ -1,5 +1,7 @@
 # harvesting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harvesting.md)
+
 <p><span class="chinese">我们今天开始收割。</span><span class="english">Today we began harvesting.</span></p>
 
 <p><span class="chinese">秋天是收获的季节。</span><span class="english">Autumn is a harvesting season.</span></p>

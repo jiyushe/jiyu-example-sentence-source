@@ -1,5 +1,7 @@
 # cicatrization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cicatrization.md)
+
 <p><span class="chinese">胸部肋骨骨折什么时候可以愈合?。</span><span class="english">When can bosom rib fracture cicatrization?</span></p>
 
 <p><span class="chinese">让两个人伤怀，愈合的旧伤，又被撕开。</span><span class="english">Let two people be sorrowful, cicatrization old wound, is also ripped open.</span></p>

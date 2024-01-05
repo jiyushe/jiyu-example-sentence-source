@@ -1,5 +1,7 @@
 # butterfat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butterfat.md)
+
 <p><span class="chinese">冰淇淋的关键成分-奶脂的价格创了历史记录新高。</span><span class="english">The price of butterfat , the key ingredient in ice cream, rose to a record level.</span></p>
 
 <p><span class="chinese">它有一个平稳，光滑的纹理，并根据其标示乳脂含量。</span><span class="english">It has a smooth, satiny texture and is labeled according to its butterfat content.</span></p>

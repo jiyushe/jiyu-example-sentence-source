@@ -1,5 +1,7 @@
 # 顺眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunyan_1.md)
+
 <p><span class="chinese">你不过看着顺眼一点。</span><span class="english">You're just a little bit easy on eyes.</span></p>
 
 <p><span class="chinese">状态报告不顺眼。</span><span class="english">Status reports are seen as insubordinate.</span></p>

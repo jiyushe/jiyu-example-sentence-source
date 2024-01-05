@@ -1,5 +1,7 @@
 # entourage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entourage.md)
+
 <p><span class="chinese">在这里的随扈人员将会继续留下。</span><span class="english">The entourage that is in here is going to remain.</span></p>
 
 <p><span class="chinese">而随从他的一个年青男孩握着他的口袋。</span><span class="english">and a young boy in his entourage is holding his pocket.</span></p>

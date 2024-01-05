@@ -1,5 +1,7 @@
 # 进尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinchi_1.md)
+
 <p><span class="chinese">因此，钻进效率低，回次进尺短，孔斜不易控制。</span><span class="english">Also it is difficult to control hole deviation.</span></p>
 
 <p><span class="chinese">遂道开挖进尺的大小与掏槽方式紧密相关。</span><span class="english">The footage tunnel excavation is closely related to the mode of cutting.</span></p>

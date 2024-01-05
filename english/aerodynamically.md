@@ -1,5 +1,7 @@
 # aerodynamically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerodynamically.md)
+
 <p><span class="chinese">LAMV在空气动力方面是稳定的。</span><span class="english">The LAMV is aerodynamically stable.</span></p>
 
 <p><span class="chinese">在空气动力学平稳鼻锥将在发射航天器的保护。</span><span class="english">The aerodynamically smooth nose cone will protect the spacecraft during launch.</span></p>

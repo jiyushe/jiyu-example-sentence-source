@@ -1,5 +1,7 @@
 # boondoggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boondoggle.md)
+
 <p><span class="chinese">这里有一些手工钥匙链。</span><span class="english">In here we have some boondoggle key chains.</span></p>
 
 <p><span class="chinese">这里有一些手工钥匙链。</span><span class="english">Ln here we have some boondoggle key chains.</span></p>

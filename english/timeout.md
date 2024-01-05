@@ -1,5 +1,7 @@
 # timeout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timeout.md)
+
 <p><span class="chinese">连接超时，请重新发送闪屏！</span><span class="english">It's timeout , please click the nudge again!</span></p>
 
 <p><span class="chinese">为连接和读取指定超时时间的能力。</span><span class="english">Ability to specify timeout for connect and read.</span></p>

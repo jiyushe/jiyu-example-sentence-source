@@ -1,5 +1,7 @@
 # 卫道士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidaoshi.md)
+
 <p><span class="chinese">他被认为是一名卫道士。</span><span class="english">He is considered a guardian of faith.</span></p>
 
 <p><span class="chinese">在印度，你可以找到不同类型的卫道士。</span><span class="english">In India, you will find different types of apologists.</span></p>

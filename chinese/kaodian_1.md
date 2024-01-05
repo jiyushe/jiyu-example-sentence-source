@@ -1,5 +1,7 @@
 # 靠垫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaodian_1.md)
+
 <p><span class="chinese">想想填得鼓鼓的靠垫。</span><span class="english">Think of a plumped-up cushion.</span></p>
 
 <p><span class="chinese">这个靠垫需要拍松了。</span><span class="english">The cushion needs to be shaken up.</span></p>

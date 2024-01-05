@@ -1,5 +1,7 @@
 # gloomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloomy.md)
+
 <p><span class="chinese">天色阴郁。</span><span class="english">The weather is gloomy.</span></p>
 
 <p><span class="chinese">"怎么不开心呢?"他问道.</span><span class="english">“Why so gloomy?” he asks.</span></p>

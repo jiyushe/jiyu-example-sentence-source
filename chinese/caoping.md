@@ -1,5 +1,7 @@
 # 草坪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoping.md)
+
 <p><span class="chinese">草坪椅？</span><span class="english">Lawn chair?</span></p>
 
 <p><span class="chinese">这草坪的草该割了。</span><span class="english">The lawn needs mowing.</span></p>

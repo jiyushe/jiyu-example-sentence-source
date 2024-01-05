@@ -1,5 +1,7 @@
 # 店家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianjia.md)
+
 <p><span class="chinese">我严辞请求店家认真对待这个任务。</span><span class="english">I commanded him to take the mission seriously.</span></p>
 
 <p><span class="chinese">店家打了烊，还用胶带强化窗户。</span><span class="english">Shops close and reinforce their windows with tape.</span></p>

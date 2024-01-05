@@ -1,5 +1,7 @@
 # 捷足先登
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezuxiandeng.md)
+
 <p><span class="chinese">捷足先登/先到者优先。</span><span class="english">First come, first served.</span></p>
 
 <p><span class="chinese">今年它又一次捷足先登。</span><span class="english">And, once again this year, he's first.</span></p>

@@ -1,5 +1,7 @@
 # should 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/should.md)
+
 <p><span class="chinese">我该知道这点。</span><span class="english">I should know.</span></p>
 
 <p><span class="chinese">我该唱首歌吗？</span><span class="english">Should I sing?</span></p>

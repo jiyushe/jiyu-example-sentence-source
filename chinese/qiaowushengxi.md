@@ -1,5 +1,7 @@
 # 悄无声息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaowushengxi.md)
+
 <p><span class="chinese">这样消逝的世界正在悄无声息地变得稀有起来。</span><span class="english">Such lost worlds are vanishingly rare.</span></p>
 
 <p><span class="chinese">海水悄无声息地上海岸。</span><span class="english">The sea crept noiselessly up the shore.</span></p>

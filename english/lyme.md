@@ -1,5 +1,7 @@
 # lyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyme.md)
+
 <p><span class="chinese">伯氏疏螺旋体引起莱姆病。</span><span class="english">B. burgdorferi causes Lyme disease.</span></p>
 
 <p><span class="chinese">结论全沟硬蜱是吉林省莱姆病的主要媒介。</span><span class="english">Conclusion Ixodes persulcatus was confirmed as Lyme disease vector.</span></p>

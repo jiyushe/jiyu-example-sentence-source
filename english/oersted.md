@@ -1,5 +1,7 @@
 # oersted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oersted.md)
+
 <p><span class="chinese">奥数也是这样的。</span><span class="english">Oersted of number also is such.</span></p>
 
 <p><span class="chinese">解答奥数题也是有规律可循的。</span><span class="english">Solution of oersted of number problem is also regular.</span></p>

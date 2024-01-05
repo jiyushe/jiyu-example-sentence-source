@@ -1,5 +1,7 @@
 # hyperopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperopia.md)
+
 <p><span class="chinese">酒精干扰呈现认知“近视”与“远视”的迹象。</span><span class="english">There were indications of "alcohol myopia" or "alcohol hyperopia".</span></p>
 
 <p><span class="chinese">远视镜的镜框也有许多时尚的选择。</span><span class="english">The hyperopia mirror's picture frame also has many fashion choices.</span></p>

@@ -1,5 +1,7 @@
 # 僧众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sengzhong.md)
+
 <p><span class="chinese">那个反对她的寺院僧众感到很害怕。</span><span class="english">The monastery that had opposed her felt really bad.</span></p>
 
 <p><span class="chinese">他对所有的年轻僧众都十分慈悲、仁爱，常常同他们嬉戏、说故事。</span><span class="english">He was compassionate and kind to all the young monks, playing and telling stories.</span></p>

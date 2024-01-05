@@ -1,5 +1,7 @@
 # croak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croak.md)
+
 <p><span class="chinese">可耻的是，这家伙竟然没有“呱呱叫”，讨厌！</span><span class="english">Shame the guy didn't " croak it" vile!</span></p>
 
 <p><span class="chinese">蛙随着雨落开始哇哇叫。</span><span class="english">Frogs began to croak with the rainfall.</span></p>

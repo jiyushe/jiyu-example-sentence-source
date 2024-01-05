@@ -1,5 +1,7 @@
 # 年轻气盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianqingqisheng.md)
+
 <p><span class="chinese">我不指责那些年轻气盛想要引起轰动的人。</span><span class="english">I don't blame the young guys for trying to make a splash.</span></p>
 
 <p><span class="chinese">当我十来岁的时候，我就感到自己年轻气盛，但是缺少把握。</span><span class="english">When I was a teenager , I felt that I was just young and uncertain.</span></p>

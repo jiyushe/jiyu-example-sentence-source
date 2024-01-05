@@ -1,5 +1,7 @@
 # 飞渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidu_1.md)
+
 <p><span class="chinese">乱云飞渡仍从容！</span><span class="english">Clouds scud past still unhurried!</span></p>
 
 <p><span class="chinese">乱云飞渡仍从容！</span><span class="english">Clouds scud past still unhurried !</span></p>

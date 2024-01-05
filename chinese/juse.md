@@ -1,5 +1,7 @@
 # 惧色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juse.md)
+
 <p><span class="chinese">她能勇往直前毫无惧色。</span><span class="english">She went ahead, nothing daunted.</span></p>
 
 <p><span class="chinese">他局促地眨着眼睛，脸容苍白，面露惧色。</span><span class="english">Blinking nervously, he looked pale and scared.</span></p>

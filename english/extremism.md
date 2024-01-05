@@ -1,5 +1,7 @@
 # extremism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremism.md)
+
 <p><span class="chinese">对抗伊朗的俾路支极端分子。</span><span class="english">Counter Baloch extremism in Iran.</span></p>
 
 <p><span class="chinese">他说，不同信仰之间的合作可以平衡极端主义。</span><span class="english">He says interfaith cooperation is a way to balance extremism.</span></p>

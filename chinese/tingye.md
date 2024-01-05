@@ -1,5 +1,7 @@
 # 停业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingye.md)
+
 <p><span class="chinese">今日盘货，停业半天。</span><span class="english">Closed for half a day for stocktaking.</span></p>
 
 <p><span class="chinese">他决定将他的书店停业。</span><span class="english">He decided to close out his book store.</span></p>

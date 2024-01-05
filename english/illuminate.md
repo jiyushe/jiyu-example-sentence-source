@@ -1,5 +1,7 @@
 # illuminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminate.md)
+
 <p><span class="chinese">谁能照亮一片黑暗而泥泞的天空？</span><span class="english">Can one illuminate a black and miry sky ?</span></p>
 
 <p><span class="chinese">我现在有两个，照亮我的电脑桌。</span><span class="english">I now have two that illuminate my computer desk.</span></p>

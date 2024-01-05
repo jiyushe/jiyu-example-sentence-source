@@ -1,5 +1,7 @@
 # leaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaky.md)
+
 <p><span class="chinese">眼泪从漏底的眼睛流到浮肿的鼻子。</span><span class="english">Maudlin from leaky eye to swollen nose.</span></p>
 
 <p><span class="chinese">内装DZ10系列塑壳断路器。</span><span class="english">Inner mounted DZ10L series Leaky breaker.</span></p>

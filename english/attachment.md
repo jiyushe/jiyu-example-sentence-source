@@ -1,5 +1,7 @@
 # attachment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attachment.md)
+
 <p><span class="chinese">反铲附件的约翰迪尔870。</span><span class="english">John Deere 870 backhoe attachment.</span></p>
 
 <p><span class="chinese">所以，你是哪个类型的人呢？</span><span class="english">So, which attachment style are you?</span></p>

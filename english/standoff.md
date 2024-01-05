@@ -1,5 +1,7 @@
 # standoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standoff.md)
+
 <p><span class="chinese">结果是各方僵持不下。</span><span class="english">The result is a global standoff.</span></p>
 
 <p><span class="chinese">卫星在冷战期间是触发核战的平衡点。</span><span class="english">Satellites were key to the cold-war nuclear standoff.</span></p>

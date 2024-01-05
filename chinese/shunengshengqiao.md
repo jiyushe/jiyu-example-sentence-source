@@ -1,5 +1,7 @@
 # 熟能生巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunengshengqiao.md)
+
 <p><span class="chinese">所以，熟能生巧。</span><span class="english">So, practice makes perfect.</span></p>
 
 <p><span class="chinese">我相信熟能生巧。</span><span class="english">Practice makes perfect,I believe.</span></p>

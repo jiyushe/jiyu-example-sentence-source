@@ -1,5 +1,7 @@
 # runny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runny.md)
+
 <p><span class="chinese">咳嗽。手心热，流鼻涕。</span><span class="english">Cough. Palm hot, runny nose.</span></p>
 
 <p><span class="chinese">黑色像石油一样松软。</span><span class="english">Black is runny like, well, oil.</span></p>

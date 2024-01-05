@@ -1,5 +1,7 @@
 # discretional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discretional.md)
+
 <p><span class="chinese">同时能够对任一应力、温度下的蠕变曲线进行预测。</span><span class="english">This model can predict creep curves at discretional temperature and stress.</span></p>
 
 <p><span class="chinese">因此，本文使用可操纵性应计项目来衡量大规模事务所在中国的审计质量。</span><span class="english">So, discretional accruals are used to measure audit quality of the big auditing firms in China.</span></p>

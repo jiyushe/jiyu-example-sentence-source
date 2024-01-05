@@ -1,5 +1,7 @@
 # rudd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudd.md)
+
 <p><span class="chinese">陆先生对中国并没有太多幻想。</span><span class="english">Mr Rudd has few illusions about China.</span></p>
 
 <p><span class="chinese">因为霍华德工作选择方针，他选陆克文。</span><span class="english">He's going for Rudd because of Work Choices.</span></p>

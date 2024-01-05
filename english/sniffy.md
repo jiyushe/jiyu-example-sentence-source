@@ -1,5 +1,7 @@
 # sniffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sniffy.md)
+
 <p><span class="chinese">斯尼非简直等不及了！</span><span class="english">Sniffy could hardly wait!</span></p>
 
 <p><span class="chinese">他叫“斯尼菲”，或许是因为他喜欢花。</span><span class="english">His name was Sniffy . Probably because he liked flowers.</span></p>

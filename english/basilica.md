@@ -1,5 +1,7 @@
 # basilica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basilica.md)
+
 <p><span class="chinese">马可基督教堂和总督府。</span><span class="english">Mark's Basilica and the Doge's Palace.</span></p>
 
 <p><span class="chinese">它是从古罗马时代的巴西利卡式演变而来。</span><span class="english">It is the era of ancient Rome's Basilica style evolved.</span></p>

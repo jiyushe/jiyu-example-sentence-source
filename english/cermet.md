@@ -1,5 +1,7 @@
 # cermet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cermet.md)
+
 <p><span class="chinese">采用微波烧结新技术研究了纳米金属陶瓷材料的烧结工艺与性能。</span><span class="english">The technology and property of nanometer cermet is studied with new microwave sintering technology.</span></p>
 
 <p><span class="chinese">粉浆浇注法可以解决钢模压制较大尺寸试样因受力不匀而发生裂纹甚至断裂的问题。</span><span class="english">Slurry casting method is a general technology for making material, which can make large-scale cermet.</span></p>

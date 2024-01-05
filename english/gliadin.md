@@ -1,5 +1,7 @@
 # gliadin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gliadin.md)
+
 <p><span class="chinese">麦醇蛋白和麦谷蛋白与沉淀值的关系十分密切。</span><span class="english">The gliadin and glutenin were closely related to sedimentation value.</span></p>
 
 <p><span class="chinese">这些结果与醇溶蛋白标记、RAMP分析的结果基本一致。</span><span class="english">These results were basically identical with gliadin and RAMP analysis.</span></p>

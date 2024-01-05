@@ -1,5 +1,7 @@
 # peer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peer.md)
+
 <p><span class="chinese">谁是你的同龄群体？</span><span class="english">Who is your peer group?</span></p>
 
 <p><span class="chinese">她是天下无双的美人儿。</span><span class="english">She is a beauty without peer.</span></p>

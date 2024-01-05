@@ -1,5 +1,7 @@
 # nitrogenase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrogenase.md)
+
 <p><span class="chinese">硝酸还原酶活性和根瘤固氮活性之间没有直接关系。</span><span class="english">The NRA was not directly correlated with nitrogenase activity.</span></p>
 
 <p><span class="chinese">用乙烯为探针研究了固氮酶中N2的键合位。</span><span class="english">Ethylene was used as a probe to detect the N2-binding site in nitrogenase.</span></p>

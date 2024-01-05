@@ -1,5 +1,7 @@
 # 政体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengti.md)
+
 <p><span class="chinese">但什么是最优的政体？</span><span class="english">But what is the best regime?</span></p>
 
 <p><span class="chinese">有哪一种政体是最好的吗？</span><span class="english">Is there a single best regime?</span></p>

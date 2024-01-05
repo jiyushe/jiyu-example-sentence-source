@@ -1,5 +1,7 @@
 # apostate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apostate.md)
+
 <p><span class="chinese">他是一个基督教的背信者。</span><span class="english">He is an apostate from Christianity.</span></p>
 
 <p><span class="chinese">最激烈的无政府主义者，居然成了最露骨的变节者。</span><span class="english">The most furious anarchist become the most barefaced apostate.</span></p>

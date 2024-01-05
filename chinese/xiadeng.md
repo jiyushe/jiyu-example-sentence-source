@@ -1,5 +1,7 @@
 # 下等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiadeng.md)
+
 <p><span class="chinese">他是一个下等军官。</span><span class="english">He is an inferior officer.</span></p>
 
 <p><span class="chinese">有一种下等的紫红色①。</span><span class="english">There is a purple from below.</span></p>

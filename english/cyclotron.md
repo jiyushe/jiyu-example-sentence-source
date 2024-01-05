@@ -1,5 +1,7 @@
 # cyclotron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclotron.md)
+
 <p><span class="chinese">中国的第一个原子反应堆和回旋加速器建于1958年。</span><span class="english">China's first atomic reactor and cyclotron were built in 1958.</span></p>
 
 <p><span class="chinese">照射区对回旋加速器本身的屏蔽程度如何？</span><span class="english">How well is the exposure area shielded from the cyclotron proper.</span></p>

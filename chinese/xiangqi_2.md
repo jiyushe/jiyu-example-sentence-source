@@ -1,5 +1,7 @@
 # 香气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqi_2.md)
+
 <p><span class="chinese">空气中弥漫着燃香的香气…</span><span class="english">The air was sweet with incense.</span></p>
 
 <p><span class="chinese">微风吹送玫瑰花香气。</span><span class="english">A breeze wafts the smell of roses.</span></p>

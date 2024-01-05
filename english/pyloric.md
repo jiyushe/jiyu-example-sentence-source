@@ -1,5 +1,7 @@
 # pyloric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyloric.md)
+
 <p><span class="chinese">具有胃腺窝上皮型和幽门腺型特定型粘液。</span><span class="english">Characteristic mucus of gastric foveola epithelium or pyloric gland.</span></p>
 
 <p><span class="chinese">目的总结分析婴幼儿先天性肥厚性幽门狭窄的X线特征。</span><span class="english">AimTo evaluate the X-ray features of congenital hypertrophic pyloric stenosis.</span></p>

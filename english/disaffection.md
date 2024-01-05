@@ -1,5 +1,7 @@
 # disaffection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaffection.md)
+
 <p><span class="chinese">对政治不满。</span><span class="english">Political disaffection.</span></p>
 
 <p><span class="chinese">几乎一开头就爆发出不满情绪。</span><span class="english">Disaffection broke out almost from the start.</span></p>

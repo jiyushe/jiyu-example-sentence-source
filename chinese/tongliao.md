@@ -1,5 +1,7 @@
 # 同僚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongliao.md)
+
 <p><span class="chinese">他是同僚中的落伍者。</span><span class="english">He is a fellow straggler in.</span></p>
 
 <p><span class="chinese">他是同僚中的穷光蛋。</span><span class="english">He is a fellow of the pauper.</span></p>

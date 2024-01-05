@@ -1,5 +1,7 @@
 # 分式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshi.md)
+
 <p><span class="chinese">要除以一个分式，就需要把除式颠倒后相乘。</span><span class="english">To divide by a fraction, flip the fraction and multiply.</span></p>
 
 <p><span class="chinese">给出了分式半环的概念和泛性质。</span><span class="english">The concept and the universal property of fractional semiring are given.</span></p>

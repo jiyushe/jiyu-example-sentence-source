@@ -1,5 +1,7 @@
 # mede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mede.md)
+
 <p><span class="chinese">这一个礼拜认识了很多新朋友。</span><span class="english">I mede a lot of new friends during this week.</span></p>
 
 <p><span class="chinese">有代表性的油质污垢，则比较容易用纯化学品成分配制。</span><span class="english">Representative oily soil compositions are more easily mede up from pure chemical ingredients.</span></p>

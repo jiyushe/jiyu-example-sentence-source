@@ -1,5 +1,7 @@
 # 子书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishu.md)
+
 <p><span class="chinese">子书却不同意。</span><span class="english">ZiShu did not agree.</span></p>
 
 <p><span class="chinese">子书回到军营，想起喜冰，傻笑不已。</span><span class="english">Zishu emphasize back to barracks, like ice, smirking.</span></p>

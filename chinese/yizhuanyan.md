@@ -1,5 +1,7 @@
 # 一转眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhuanyan.md)
+
 <p><span class="chinese">一转眼，50年过去了。</span><span class="english">Flash ahead 50 years.</span></p>
 
 <p><span class="chinese">一转眼他就不见了。</span><span class="english">He was gone in a trice.</span></p>

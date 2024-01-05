@@ -1,5 +1,7 @@
 # oatmeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oatmeal.md)
+
 <p><span class="chinese">我是一个人喝麦片吗？</span><span class="english">Am I alone with my oatmeal?</span></p>
 
 <p><span class="chinese">燕麦片也是一个不错的选项。</span><span class="english">Oatmeal is another good option.</span></p>

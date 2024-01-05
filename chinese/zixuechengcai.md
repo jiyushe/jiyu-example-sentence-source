@@ -1,5 +1,7 @@
 # 自学成才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixuechengcai.md)
+
 <p><span class="chinese">他是自学成才的</span><span class="english">He was self-taught.</span></p>
 
 <p><span class="chinese">我的英语是自学成才的。</span><span class="english">I learn English all by myself.</span></p>

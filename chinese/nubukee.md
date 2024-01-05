@@ -1,5 +1,7 @@
 # 怒不可遏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nubukee.md)
+
 <p><span class="chinese">他变得怒不可遏，满脸涨红。</span><span class="english">He's getting red with anger.</span></p>
 
 <p><span class="chinese">所有这些令霍格伦德怒不可遏。</span><span class="english">All of it makes Greg Hoglund furious.</span></p>

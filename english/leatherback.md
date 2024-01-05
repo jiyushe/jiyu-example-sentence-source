@@ -1,5 +1,7 @@
 # leatherback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leatherback.md)
+
 <p><span class="chinese">棱皮龟通常是隔年才交配一次。</span><span class="english">Leatherback turtles usually mate every other year.</span></p>
 
 <p><span class="chinese">太平洋草龟是世界上最大的海龟。</span><span class="english">The Pacific Leatherback turtle is the largest one in the world.</span></p>

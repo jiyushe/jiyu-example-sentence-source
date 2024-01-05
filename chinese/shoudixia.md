@@ -1,5 +1,7 @@
 # 手底下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoudixia.md)
+
 <p><span class="chinese">我甘愿辞职也不愿在那个老板手底下工作。</span><span class="english">I would sooner resign than work under that boss.</span></p>
 
 <p><span class="chinese">在他手底下干活的人都非常小心绝不去触怒他。</span><span class="english">Those in his employ were careful never to enrage him.</span></p>

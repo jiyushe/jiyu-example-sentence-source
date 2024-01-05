@@ -1,5 +1,7 @@
 # 学派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuepai.md)
+
 <p><span class="chinese">我们是希腊学派“</span><span class="english">"We are the school of Hellas."</span></p>
 
 <p><span class="chinese">他是知名的斯多葛学派哲学家。</span><span class="english">He is a famous Stoic philosopher.</span></p>

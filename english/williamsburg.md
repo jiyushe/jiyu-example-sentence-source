@@ -1,5 +1,7 @@
 # williamsburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/williamsburg.md)
+
 <p><span class="chinese">你能给我们详细讲讲威廉斯堡吗？</span><span class="english">Can you explain to us about Williamsburg in detail?</span></p>
 
 <p><span class="chinese">我住的地方叫威廉斯堡，那儿离曼哈顿很近。</span><span class="english">I live close to Manhattan, in a place called Williamsburg.</span></p>

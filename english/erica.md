@@ -1,5 +1,7 @@
 # erica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erica.md)
+
 <p><span class="chinese">是埃里卡。</span><span class="english">It was Erica.</span></p>
 
 <p><span class="chinese">——它就是，埃里卡说。</span><span class="english">It is, said Erica.</span></p>

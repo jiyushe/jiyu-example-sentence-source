@@ -1,5 +1,7 @@
 # hedge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedge.md)
+
 <p><span class="chinese">你的对冲基金可真多啊！</span><span class="english">Your hedge fund so massive!</span></p>
 
 <p><span class="chinese">直接交易可能是抵补保值。</span><span class="english">Outright deal can be a hedge.</span></p>

@@ -1,5 +1,7 @@
 # splurge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splurge.md)
+
 <p><span class="chinese">你可以把钱花在一两件奢侈品上。</span><span class="english">You can splurge on a luxury or two.</span></p>
 
 <p><span class="chinese">买件性感的睡衣或者贴身内衣。</span><span class="english">Splurge on a sexy nightgown or lingerie.</span></p>

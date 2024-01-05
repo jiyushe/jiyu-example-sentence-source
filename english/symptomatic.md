@@ -1,5 +1,7 @@
 # symptomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symptomatic.md)
+
 <p><span class="chinese">持续显症时间为8天。</span><span class="english">Symptomatic appearance will last 8 days.</span></p>
 
 <p><span class="chinese">有症状的十二指肠憩室炎罕见。</span><span class="english">Symptomatic duodenal diverticulitis is rare.</span></p>

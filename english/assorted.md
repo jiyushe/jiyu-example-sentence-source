@@ -1,5 +1,7 @@
 # assorted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assorted.md)
+
 <p><span class="chinese">碗里装着各种硬糖。</span><span class="english">The bowl contains assorted hard sweets.</span></p>
 
 <p><span class="chinese">他的书桌上乱堆着各种各样的物件。</span><span class="english">His desk is littered with assorted items.</span></p>

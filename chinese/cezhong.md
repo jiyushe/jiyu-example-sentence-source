@@ -1,5 +1,7 @@
 # 侧重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cezhong.md)
+
 <p><span class="chinese">本文侧重讨论CGL的特点。</span><span class="english">This paper deals mainly with the CGL.</span></p>
 
 <p><span class="chinese">第二章侧重于对劳动权及其法律保护的论述。</span><span class="english">Part two focuses on the labour rights.</span></p>

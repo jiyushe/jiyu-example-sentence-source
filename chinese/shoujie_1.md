@@ -1,5 +1,7 @@
 # 首届
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujie_1.md)
+
 <p><span class="chinese">首届西敏寺犬展于1877年举办。</span><span class="english">The first Westminster show was held in 1877.</span></p>
 
 <p><span class="chinese">首届广州丹麦文化周欢迎您！</span><span class="english">Welcome to the 1st Danish Week in Guangzhou!</span></p>

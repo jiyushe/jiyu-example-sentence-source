@@ -1,5 +1,7 @@
 # marten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marten.md)
+
 <p><span class="chinese">我们想马汀也会喜欢这次的表演的。</span><span class="english">We thought Marten might enjoy the show too!</span></p>
 
 <p><span class="chinese">产于中国南部和缅甸大型黄色和黑色貂。</span><span class="english">Large yellow and black marten of s china and burma.</span></p>

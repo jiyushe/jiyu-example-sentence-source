@@ -1,5 +1,7 @@
 # 转化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanhua.md)
+
 <p><span class="chinese">转化的使用。</span><span class="english">Use of transformations.</span></p>
 
 <p><span class="chinese">我怎么才能够把它转化成利润？</span><span class="english">How can I turn it into profits?</span></p>

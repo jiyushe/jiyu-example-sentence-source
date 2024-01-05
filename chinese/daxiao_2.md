@@ -1,5 +1,7 @@
 # 打消
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiao_2.md)
+
 <p><span class="chinese">他很快就打消了那个念头。</span><span class="english">He soon swept the idea away.</span></p>
 
 <p><span class="chinese">你必须打消这个念头。</span><span class="english">You must banish the thought.</span></p>

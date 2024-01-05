@@ -1,5 +1,7 @@
 # horseback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horseback.md)
+
 <p><span class="chinese">武士们以前在马背上以矛刺击。</span><span class="english">Knights used to tilt on horseback.</span></p>
 
 <p><span class="chinese">她骑在马上，潇洒地随着马步的节奏上下起伏。</span><span class="english">She rode horseback posting elegantly.</span></p>

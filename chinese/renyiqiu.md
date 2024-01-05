@@ -1,5 +1,7 @@
 # 任意球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyiqiu.md)
+
 <p><span class="chinese">只有在发角球或者任意球时，我们都可以上前进攻。</span><span class="english">Only at corners or free-kicks can we both go.</span></p>
 
 <p><span class="chinese">所以，判给进攻方一个间接任意球。</span><span class="english">Award an indirect free-kick. Thanks to Jason Mennard.</span></p>

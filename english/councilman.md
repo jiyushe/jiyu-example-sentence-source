@@ -1,5 +1,7 @@
 # councilman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/councilman.md)
+
 <p><span class="chinese">纽约市的一个议员也正在提议类似的法律立案。</span><span class="english">New York City councilman is proposing a similar law.</span></p>
 
 <p><span class="chinese">议员史蒂夫。沃尔福森问此次交易对城市是否存在风险。</span><span class="english">Councilman Steve Wolfson asked if there were any risks to the city in the deal.</span></p>

@@ -1,5 +1,7 @@
 # 烟云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyun.md)
+
 <p><span class="chinese">幽幽我心无念巫山烟云。</span><span class="english">You You read my mind without Wushan Yanyun.</span></p>
 
 <p><span class="chinese">常年香客不断，烟云缭绕。</span><span class="english">Annual number of pilgrims and swirling smoke.</span></p>

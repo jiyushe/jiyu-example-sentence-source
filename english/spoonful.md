@@ -1,5 +1,7 @@
 # spoonful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spoonful.md)
+
 <p><span class="chinese">斯洛特喝了一匙粘糊糊的苏格兰肉汤。</span><span class="english">Slote took a spoonful of gummy Scotch broth.</span></p>
 
 <p><span class="chinese">她在这两个杯子里各放了一匙牛奶。</span><span class="english">She put a spoonful of milk in each of the two cup.</span></p>

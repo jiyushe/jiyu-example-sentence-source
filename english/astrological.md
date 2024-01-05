@@ -1,5 +1,7 @@
 # astrological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrological.md)
+
 <p><span class="chinese">占星符号是依照罗马儒略历来计算的。</span><span class="english">Astrological signs calculated according to the Julian calendar.</span></p>
 
 <p><span class="chinese">占星预测的问题并不在于它们是错误的。</span><span class="english">So, the problem with astrological predictions is not that they're wrong.</span></p>

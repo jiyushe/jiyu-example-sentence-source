@@ -1,5 +1,7 @@
 # centriole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centriole.md)
+
 <p><span class="chinese">这样的结构和中心粒很相似。</span><span class="english">Its structure is similar to that of a centriole.</span></p>
 
 <p><span class="chinese">晚期精细胞中出现单个中心粒，但在成熟精子中消失。</span><span class="english">A single centriole appears at the late stage of spermatid.</span></p>

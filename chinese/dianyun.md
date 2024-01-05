@@ -1,5 +1,7 @@
 # 电晕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianyun.md)
+
 <p><span class="chinese">又由于﹐靠近电线制品的电晕是热的。</span><span class="english">Also, a by- product of the corona is heat.</span></p>
 
 <p><span class="chinese">电晕放电和刷毛状放电只是从放电点处逐个地发生。</span><span class="english">The corona or brush discharge would transfer from point to point.</span></p>

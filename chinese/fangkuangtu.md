@@ -1,5 +1,7 @@
 # 方框图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkuangtu.md)
+
 <p><span class="chinese">文中还给出了选相元件的方框图。</span><span class="english">This paper shows its block diagram.</span></p>
 
 <p><span class="chinese">点击方框图标，使窗口最大化。</span><span class="english">Click on the square icon to maximize the window.</span></p>

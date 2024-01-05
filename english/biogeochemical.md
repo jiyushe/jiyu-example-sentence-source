@@ -1,5 +1,7 @@
 # biogeochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biogeochemical.md)
+
 <p><span class="chinese">其一是对封闭系统的生物地球化学循环的理解。</span><span class="english">One is the understanding of biogeochemical cycles of closed systems.</span></p>
 
 <p><span class="chinese">此外，它在生物地球化学循环方面也具有同样的重要作用。</span><span class="english">In addition, its role in biogeochemical cycling is equally significant.</span></p>

@@ -1,5 +1,7 @@
 # autocontrol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocontrol.md)
+
 <p><span class="chinese">采用CCP系统实现沸腾炉自动控制，大大减少了升华硫和酸雾的生成。</span><span class="english">CCP system is adopted to realize the autocontrol of fluidized bed roaster.</span></p>
 
 <p><span class="chinese">表面处理线要求手动与自动切换。</span><span class="english">Surface Disposing Line requires switching at hand-control and autocontrol.</span></p>

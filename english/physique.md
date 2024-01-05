@@ -1,5 +1,7 @@
 # physique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physique.md)
+
 <p><span class="chinese">她有着舞蹈演员那种曼妙匀称的体型。</span><span class="english">She has the dancer's finely proportioned physique.</span></p>
 
 <p><span class="chinese">我猜主要是我吃得好，也是骨骼精奇。</span><span class="english">I guess it's down to good physique and I eat very well.</span></p>

@@ -1,5 +1,7 @@
 # cipher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cipher.md)
+
 <p><span class="chinese">我猜想不出他的动机。</span><span class="english">I couldn't cipher out his motives.</span></p>
 
 <p><span class="chinese">凯撒密码很容易破解。</span><span class="english">The Caesar cipher is easy to break.</span></p>

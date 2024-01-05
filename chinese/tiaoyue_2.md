@@ -1,5 +1,7 @@
 # 跳越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoyue_2.md)
+
 <p><span class="chinese">记忆跳越时间间隔。</span><span class="english">The mind leaps an interval of time.</span></p>
 
 <p><span class="chinese">现在看看爸爸如何使你的小马跳越，宝尼。看着。</span><span class="english">Now watch Daddy put your pony over, Bonnie. Now watch.</span></p>

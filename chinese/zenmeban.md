@@ -1,5 +1,7 @@
 # 怎么办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zenmeban.md)
+
 <p><span class="chinese">那天主教徒们怎么办?。</span><span class="english">And what of the Papists?</span></p>
 
 <p><span class="chinese">如果这是真爱怎么办?</span><span class="english">What if this is real love?</span></p>

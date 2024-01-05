@@ -1,5 +1,7 @@
 # 人次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renci.md)
+
 <p><span class="chinese">远期日运载能力为100万人次。</span><span class="english">The long- term day carries the ability as 100.</span></p>
 
 <p><span class="chinese">因此世嘉主页的访问率平均每天达250,000人次。</span><span class="english">Sega's home page averages 250, 000 visits a day.</span></p>

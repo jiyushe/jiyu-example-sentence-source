@@ -1,5 +1,7 @@
 # immediately 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immediately.md)
+
 <p><span class="chinese">然后立即返回。</span><span class="english">I return immediately.</span></p>
 
 <p><span class="chinese">我立刻喜欢上了拜妲。</span><span class="english">I liked Baida immediately.</span></p>

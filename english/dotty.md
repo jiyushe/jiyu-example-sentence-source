@@ -1,5 +1,7 @@
 # dotty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dotty.md)
+
 <p><span class="chinese">多蒂，你睡不著吗?。</span><span class="english">Can't you sleep, Dotty?</span></p>
 
 <p><span class="chinese">看看单蒂，它在她的笼子里。</span><span class="english">Look at dotty . she ' s in her cage.</span></p>

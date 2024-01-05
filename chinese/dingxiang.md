@@ -1,5 +1,7 @@
 # 丁香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxiang.md)
+
 <p><span class="chinese">丁香般的惆怅。</span><span class="english">Melancholy like lilacs.</span></p>
 
 <p><span class="chinese">丁香一样的忧愁。</span><span class="english">And the glooms of lilac.</span></p>

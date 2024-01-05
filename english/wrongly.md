@@ -1,5 +1,7 @@
 # wrongly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrongly.md)
+
 <p><span class="chinese">这个词用得不对。</span><span class="english">This word is wrongly used.</span></p>
 
 <p><span class="chinese">是因为我们妄求。</span><span class="english">It is because we ask wrongly.</span></p>

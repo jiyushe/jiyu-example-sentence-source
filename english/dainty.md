@@ -1,5 +1,7 @@
 # dainty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dainty.md)
+
 <p><span class="chinese">这是多么甘旨的菜肴。</span><span class="english">Was not that a dainty dish.</span></p>
 
 <p><span class="chinese">那位俊俏的小姑娘是他妹妹。</span><span class="english">The dainty lass is his sister.</span></p>

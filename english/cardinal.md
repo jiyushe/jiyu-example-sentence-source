@@ -1,5 +1,7 @@
 # cardinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardinal.md)
+
 <p><span class="chinese">这是罪加一等。</span><span class="english">That's cardinal sin number one.</span></p>
 
 <p><span class="chinese">中国不搞四个坚持能行吗？</span><span class="english">Can China reject the Four Cardinal Principles?</span></p>

@@ -1,5 +1,7 @@
 # cerebra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebra.md)
+
 <p><span class="chinese">人的大脑中病毒怎么办？</span><span class="english">How does the virus in the person's cerebra do?</span></p>
 
 <p><span class="chinese">随着媒体的变化，我们的大脑也在变化。</span><span class="english">As the change of media, our cerebra also is changing.</span></p>

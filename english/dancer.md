@@ -1,5 +1,7 @@
 # dancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dancer.md)
+
 <p><span class="chinese">一位舞蹈演员滞空平衡。</span><span class="english">A dancer poised in midair.</span></p>
 
 <p><span class="chinese">他还会跳机械舞。</span><span class="english">He is also a poppin dancer.</span></p>

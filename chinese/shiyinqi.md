@@ -1,5 +1,7 @@
 # 拾音器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyinqi.md)
+
 <p><span class="chinese">原装拾音器不够好，不过也可以接受。</span><span class="english">Stock pups can be better but still acceptable.</span></p>
 
 <p><span class="chinese">要是施用琴颈拾音器，低音变的很低沉。</span><span class="english">With neck pick-up, bass tones begins to dominate general sound.</span></p>

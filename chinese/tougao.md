@@ -1,5 +1,7 @@
 # 投稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tougao.md)
+
 <p><span class="chinese">他向多家杂志投稿?。</span><span class="english">He contributes to many magazines.</span></p>
 
 <p><span class="chinese">他向文学杂志投稿。</span><span class="english">He contributed to a literary journal.</span></p>

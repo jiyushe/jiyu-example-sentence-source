@@ -1,5 +1,7 @@
 # strait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strait.md)
+
 <p><span class="chinese">那位修女立下严格的誓愿。</span><span class="english">The nun took strait vows.</span></p>
 
 <p><span class="chinese">她游过多佛尔海峡。</span><span class="english">She swam over the Strait of Dover.</span></p>

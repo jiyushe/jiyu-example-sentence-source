@@ -1,5 +1,7 @@
 # 武库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuku.md)
+
 <p><span class="chinese">紫电青霜，王将军之武库。</span><span class="english">Purple electric green frost, king of general armoury.</span></p>
 
 <p><span class="chinese">小型机动式导弹会有助于使美国的陆基武库转为安全。</span><span class="english">A small mobile missile can help make America's land-based arsenal more secure.</span></p>

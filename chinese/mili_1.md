@@ -1,5 +1,7 @@
 # 迷离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mili_1.md)
+
 <p><span class="chinese">花折了，沙迷离了眼睛。</span><span class="english">Flowers, sand blurred eyes.</span></p>
 
 <p><span class="chinese">多少的伤痛、多少的迷离。</span><span class="english">How much pain, how much blurred.</span></p>

@@ -1,5 +1,7 @@
 # 礼法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lifa_2.md)
+
 <p><span class="chinese">以前东方有个夷人，他很仰慕华夏文明的礼法。</span><span class="english">In the past a tribal native east of China really admired the rites of China.</span></p>
 
 <p><span class="chinese">甚至还微微鞠了个躬，按照悟空的礼法标准来看，这算是极为尊敬了。</span><span class="english">He even made a small bow, which is extremely respectful by Wu Kong's standards!</span></p>

@@ -1,5 +1,7 @@
 # 太极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiji_1.md)
+
 <p><span class="chinese">来段日常的太极练习。</span><span class="english">Begin a daily tai chi practice.</span></p>
 
 <p><span class="chinese">练习瑜伽，太极或者气功。</span><span class="english">Practice yoga, tai chi, or Qigong.</span></p>

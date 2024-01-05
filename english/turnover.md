@@ -1,5 +1,7 @@
 # turnover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnover.md)
+
 <p><span class="chinese">他为她总结营业额。</span><span class="english">He summed up the turnover for her.</span></p>
 
 <p><span class="chinese">公司的人员流动率怎么样？</span><span class="english">What kind of turnover do you have?</span></p>

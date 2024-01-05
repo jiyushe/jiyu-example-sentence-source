@@ -1,5 +1,7 @@
 # oppress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppress.md)
+
 <p><span class="chinese">你不可欺负他。</span><span class="english">Do not oppress him.</span></p>
 
 <p><span class="chinese">至于我的百姓，孩童欺压他们，妇女辖管他们。</span><span class="english">Youths oppress my people, women rule over them.</span></p>

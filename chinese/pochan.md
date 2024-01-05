@@ -1,5 +1,7 @@
 # 破产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pochan.md)
+
 <p><span class="chinese">第一种情况是，我破产了。</span><span class="english">One, I'm broke.</span></p>
 
 <p><span class="chinese">我知道他破产了。</span><span class="english">I know he?s broke.</span></p>

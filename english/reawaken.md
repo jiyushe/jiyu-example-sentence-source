@@ -1,5 +1,7 @@
 # reawaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reawaken.md)
+
 <p><span class="chinese">现在是时候重新唤醒这个巨人了。</span><span class="english">It is time to reawaken this giant.</span></p>
 
 <p><span class="chinese">这次新的战争能唤起他的战士之心吗？</span><span class="english">But will this new battle reawaken his warrior's heart?</span></p>

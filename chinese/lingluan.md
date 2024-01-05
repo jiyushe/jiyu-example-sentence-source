@@ -1,5 +1,7 @@
 # 零乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingluan.md)
+
 <p><span class="chinese">书桌整洁还是零乱？</span><span class="english">Is the desk messy or neat?</span></p>
 
 <p><span class="chinese">他的书零乱地散置着。</span><span class="english">His books are all over the place.</span></p>

@@ -1,5 +1,7 @@
 # sclerosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sclerosis.md)
+
 <p><span class="chinese">如果结节性脑硬化的确是凶手?。</span><span class="english">What if the tuberous sclerosis is guilty?</span></p>
 
 <p><span class="chinese">哦，等等，是亚急性硬化脑膜炎！</span><span class="english">No wait, it's subacute sclerosis panencephalitis!</span></p>

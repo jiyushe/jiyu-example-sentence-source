@@ -1,5 +1,7 @@
 # permafrost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permafrost.md)
+
 <p><span class="chinese">甲烷正在从海底永冻层中释放出来？</span><span class="english">Methane Bubbling Up From Undersea Permafrost?</span></p>
 
 <p><span class="chinese">海滩上，有一个不规则的正在融化的永久冻土层。</span><span class="english">On the beach there is a jagged layer of thawing permafrost.</span></p>

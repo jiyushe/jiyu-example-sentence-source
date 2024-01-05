@@ -1,5 +1,7 @@
 # mountainous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mountainous.md)
+
 <p><span class="chinese">我居住在一个多山地区。</span><span class="english">I live in a very mountainous area.</span></p>
 
 <p><span class="chinese">南韩是一个多山的国家。</span><span class="english">South Korea is a mountainous country.</span></p>

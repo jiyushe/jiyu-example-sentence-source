@@ -1,5 +1,7 @@
 # intersexual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersexual.md)
+
 <p><span class="chinese">这些进步全都运用到了对待中间性的病人方面。</span><span class="english">All of this also applies to intersexual patients.</span></p>
 
 <p><span class="chinese">各种各样的中间性的病症，就自身来说，也是程度差异的问题。</span><span class="english">The various intersexual conditions are, in themselves, also matters of degree.</span></p>

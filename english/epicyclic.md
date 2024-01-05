@@ -1,5 +1,7 @@
 # epicyclic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicyclic.md)
+
 <p><span class="chinese">它可以通过看到切割或行星切割型。</span><span class="english">It can adopt saw cutting or epicyclic cutting type.</span></p>
 
 <p><span class="chinese">分析了汽车行星齿轮的冷模锻工艺。</span><span class="english">This paper analysed the cold die forging technology of automotive epicyclic gears.</span></p>

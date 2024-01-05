@@ -1,5 +1,7 @@
 # synopsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synopsis.md)
+
 <p><span class="chinese">这是一些新书的内容提要。</span><span class="english">This is the synopsis for some new books.</span></p>
 
 <p><span class="chinese">提交一份其书面材料的大纲</span><span class="english">provide a synopsis of their written submission</span></p>

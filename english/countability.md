@@ -1,5 +1,7 @@
 # countability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countability.md)
+
 <p><span class="chinese">他们依指示完成判断可数性质的测验。</span><span class="english">They were directed to complete a countability judgment test.</span></p>
 
 <p><span class="chinese">主要议题是传统文法书中名词可数性质的说明对于学习者的影响。</span><span class="english">The major issue is the influence of instruction for countability in traditional grammar books on learners.</span></p>

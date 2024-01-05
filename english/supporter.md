@@ -1,5 +1,7 @@
 # supporter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supporter.md)
+
 <p><span class="chinese">使某人获得一位支持者。</span><span class="english">To gain sb. a supporter.</span></p>
 
 <p><span class="chinese">我父亲是富勒姆足球队的球迷。</span><span class="english">My father is a Fulham supporter.</span></p>

@@ -1,5 +1,7 @@
 # despicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despicable.md)
+
 <p><span class="chinese">那么他真是个卑鄙的小子。</span><span class="english">Then he is a despicable piece of shit.</span></p>
 
 <p><span class="chinese">但是这并不能说这是一个卑鄙的职业。</span><span class="english">But it is not the despicable profession that some suggest.</span></p>

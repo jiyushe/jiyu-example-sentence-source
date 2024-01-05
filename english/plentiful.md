@@ -1,5 +1,7 @@
 # plentiful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plentiful.md)
+
 <p><span class="chinese">伏特加酒在我们国家多的是。</span><span class="english">Vodka is plentiful in my country.</span></p>
 
 <p><span class="chinese">鲱鱼曾经非常丰富。</span><span class="english">Herrings were once very plentiful.</span></p>

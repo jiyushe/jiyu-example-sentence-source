@@ -1,5 +1,7 @@
 # interference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interference.md)
+
 <p><span class="chinese">我决不容许任何干涉行径。</span><span class="english">I will brook no interference.</span></p>
 
 <p><span class="chinese">我没办法见好就收。</span><span class="english">I won't interference you from now on !</span></p>

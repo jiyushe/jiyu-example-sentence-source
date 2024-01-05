@@ -1,5 +1,7 @@
 # 定婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinghun.md)
+
 <p><span class="chinese">昨天我和金定婚了。</span><span class="english">Yes, yesterday Kim and I were engaged.</span></p>
 
 <p><span class="chinese">布什总统的其中一名女儿珍娜·布什定婚。</span><span class="english">One of President Bush's daughters is engaged.</span></p>

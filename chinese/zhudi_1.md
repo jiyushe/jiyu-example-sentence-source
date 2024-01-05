@@ -1,5 +1,7 @@
 # 驻地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudi_1.md)
+
 <p><span class="chinese">梦音好，你可以回到驻地了。</span><span class="english">Alright , you may return to station.</span></p>
 
 <p><span class="chinese">驻地的小姑娘水莲还主动当起了说客。</span><span class="english">Home of the little girl water lotus also served as lobbyists.</span></p>

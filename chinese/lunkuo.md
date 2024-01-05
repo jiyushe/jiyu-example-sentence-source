@@ -1,5 +1,7 @@
 # 轮廓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunkuo.md)
+
 <p><span class="chinese">轮廓整洁，象狐狸。</span><span class="english">Clean cut and fox-like.</span></p>
 
 <p><span class="chinese">他们相信这些面部轮廓的草图吗？</span><span class="english">Do they buy these sketches?</span></p>

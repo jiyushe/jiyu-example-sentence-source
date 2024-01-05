@@ -1,5 +1,7 @@
 # transition 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transition.md)
+
 <p><span class="chinese">因为我们处在转变之中。</span><span class="english">Because we are in transition.</span></p>
 
 <p><span class="chinese">从水中到陆地的变化。</span><span class="english">The transition from water to land</span></p>

@@ -1,5 +1,7 @@
 # 隐讳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhui_2.md)
+
 <p><span class="chinese">不要隐讳自己的缺点。</span><span class="english">One should not gloss over one's shortcomings.</span></p>
 
 <p><span class="chinese">他毫不隐讳自己极左的观点。</span><span class="english">He made no bones about his extreme left-wing views.</span></p>

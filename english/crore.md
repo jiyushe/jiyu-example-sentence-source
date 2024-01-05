@@ -1,5 +1,7 @@
 # crore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crore.md)
+
 <p><span class="chinese">双方最后达成一致的金额是30亿卢布。</span><span class="english">The sum finally agreed upon was Rs 300 crore.</span></p>
 
 <p><span class="chinese">这使美国失业总人数超过一千万。</span><span class="english">That makes the U. S. unemployment rat more than crore.</span></p>

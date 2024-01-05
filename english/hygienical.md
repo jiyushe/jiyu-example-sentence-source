@@ -1,5 +1,7 @@
 # hygienical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygienical.md)
+
 <p><span class="chinese">本文报道了船用超低频磁场的卫生学调查。</span><span class="english">This paper reports a hygienical survey of the ship ULF magnetic field.</span></p>
 
 <p><span class="chinese">果汁产品清泽透明，感观良好，卫生指标达到和超过了国家相关标准要求。</span><span class="english">It has a clear and transparent appearance, with hygienical indicators at or over the specifications stipulated by the corresponding national standards.</span></p>

@@ -1,5 +1,7 @@
 # crocus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crocus.md)
+
 <p><span class="chinese">可那确是番红花。</span><span class="english">But there was the crocus.</span></p>
 
 <p><span class="chinese">番红花是春天来临的前兆。</span><span class="english">The crocus is a herald of spring.</span></p>

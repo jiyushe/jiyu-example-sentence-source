@@ -1,5 +1,7 @@
 # blond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blond.md)
+
 <p><span class="chinese">他有一头金发。</span><span class="english">He has blond hair.</span></p>
 
 <p><span class="chinese">简是一个性感的金发女郎。</span><span class="english">Jane is a buxom blond.</span></p>

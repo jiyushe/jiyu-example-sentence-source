@@ -1,5 +1,7 @@
 # dominion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominion.md)
+
 <p><span class="chinese">它君临四界。</span><span class="english">It took dominion everywhere.</span></p>
 
 <p><span class="chinese">而死亡应不能统摄一切。</span><span class="english">And Death Shall Have No Dominion</span></p>

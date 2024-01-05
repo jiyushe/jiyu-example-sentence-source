@@ -1,5 +1,7 @@
 # impartially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impartially.md)
+
 <p><span class="chinese">作为领导，他必须秉公办事。</span><span class="english">As a leader, he must handle a matter impartially.</span></p>
 
 <p><span class="chinese">行政执法人员应当秉公执法。</span><span class="english">Administrative law enforcers shall enforce law impartially.</span></p>

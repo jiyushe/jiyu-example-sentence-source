@@ -1,5 +1,7 @@
 # boot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boot.md)
+
 <p><span class="chinese">引导文件。</span><span class="english">Boot files.</span></p>
 
 <p><span class="chinese">他是一只长筒靴。</span><span class="english">He was a boot.</span></p>

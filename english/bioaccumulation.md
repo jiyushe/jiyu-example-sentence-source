@@ -1,5 +1,7 @@
 # bioaccumulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioaccumulation.md)
+
 <p><span class="chinese">在60min时基本达到了吸附平衡。</span><span class="english">Its bioaccumulation balance time was about 60 minutes.</span></p>
 
 <p><span class="chinese">某些物种，例如海带，非常容易堆积放射性物质。</span><span class="english">Some species, such as brown seaweed are extremely efficient at bioaccumulation.</span></p>

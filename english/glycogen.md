@@ -1,5 +1,7 @@
 # glycogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycogen.md)
+
 <p><span class="chinese">富含蛋白质，还含有糖原和甜菜碱。</span><span class="english">Rich in protein, also contains glycogen and betaine.</span></p>
 
 <p><span class="chinese">洗发后使用GPB蛋白平衡护发素。</span><span class="english">Follow with GPB Glycogen Protein Balancing Conditioner.</span></p>

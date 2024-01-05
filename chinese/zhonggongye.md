@@ -1,5 +1,7 @@
 # 重工业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggongye.md)
+
 <p><span class="chinese">泊头是以重工业为主的老工业基地。</span><span class="english">Botou is mainly the old heavy industrial base.</span></p>
 
 <p><span class="chinese">三明是福建省的重工业基地。</span><span class="english">Sanming is Fujian Province's heavy industrial base.</span></p>

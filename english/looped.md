@@ -1,5 +1,7 @@
 # looped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/looped.md)
+
 <p><span class="chinese">他将窗帘打环卷起。</span><span class="english">He looped the curtain back.</span></p>
 
 <p><span class="chinese">萨姆醉得一踏糊涂，根本不能开车。</span><span class="english">Sam is too looped to drive.</span></p>

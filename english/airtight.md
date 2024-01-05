@@ -1,5 +1,7 @@
 # airtight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airtight.md)
+
 <p><span class="chinese">请把果酱罐密封。</span><span class="english">Please make the fruit jar airtight.</span></p>
 
 <p><span class="chinese">同时，加完油后，检查一下油箱盖是否拧紧了。</span><span class="english">Also check the seal on your fuel cap is airtight.</span></p>

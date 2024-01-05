@@ -1,5 +1,7 @@
 # powerfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powerfully.md)
+
 <p><span class="chinese">想象一下，如果您想要一个体格彪悍的斗士。</span><span class="english">Imagine, if you will, a powerfully built warrior.</span></p>
 
 <p><span class="chinese">内容生动有力，It’,感人且具有说服力。</span><span class="english">s very powerfully written, moving and persuasive.</span></p>

@@ -1,5 +1,7 @@
 # bioelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioelectric.md)
+
 <p><span class="chinese">同时采用生物电技术测定全身脂肪含量。</span><span class="english">Body fat content was measured by Bioelectric Impedance Analvsis.</span></p>
 
 <p><span class="chinese">脑电信号是大脑皮层的神经元具有的生物电活动。</span><span class="english">Electroencephalogram signal is bioelectric behavior from nerve cell in pallium.</span></p>

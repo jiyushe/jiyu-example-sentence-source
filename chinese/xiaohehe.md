@@ -1,5 +1,7 @@
 # 笑呵呵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohehe.md)
+
 <p><span class="chinese">莉莎见了我们总是笑呵呵的。</span><span class="english">Lissa smiled at the sight of us.</span></p>
 
 <p><span class="chinese">她是个快乐的人，总是笑呵呵的。</span><span class="english">She is a merry person, always smiling and laughing.</span></p>

@@ -1,5 +1,7 @@
 # improbably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improbably.md)
+
 <p><span class="chinese">瓦特研究流行趋势是从雪白树蟋开始的。</span><span class="english">Watts's journey into trend research began, improbably , with the snowy tree cricket.</span></p>
 
 <p><span class="chinese">阁楼里有只大箱子，里面满是文稿，也许是他希望我替他编订一本文集出版吧？</span><span class="english">Not improbably he wished me to edit and publish a selection from a chest full of manuscript discourses that stood in the garret.</span></p>

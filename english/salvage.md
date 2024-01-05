@@ -1,5 +1,7 @@
 # salvage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvage.md)
+
 <p><span class="chinese">海潜员是打捞专家！</span><span class="english">He is a salvage expert.</span></p>
 
 <p><span class="chinese">那么民主党将如何力挽狂澜呢？</span><span class="english">So how could Democrats salvage things?</span></p>

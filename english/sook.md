@@ -1,5 +1,7 @@
 # sook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sook.md)
+
 <p><span class="chinese">Sook是一款无线的厨房助手。</span><span class="english">The Sook is a wireless kitchen assistant.</span></p>
 
 <p><span class="chinese">“肃清行动”是什么？</span><span class="english">What does "Operation Sook Ching" refer to?</span></p>

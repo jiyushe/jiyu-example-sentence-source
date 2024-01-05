@@ -1,5 +1,7 @@
 # fortress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortress.md)
+
 <p><span class="chinese">军队袭击那个要塞。</span><span class="english">The army assailed the fortress.</span></p>
 
 <p><span class="chinese">敌人包围了他们的堡垒。</span><span class="english">The enemy circled their fortress.</span></p>

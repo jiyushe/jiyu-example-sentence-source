@@ -1,5 +1,7 @@
 # uss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uss.md)
+
 <p><span class="chinese">我们还是说说乔治·华盛顿号吧。</span><span class="english">Let's go back to the USS George Washington.</span></p>
 
 <p><span class="chinese">进取号的第一个五年任务结束。</span><span class="english">USS Enterprise's first five-year mission ends.</span></p>

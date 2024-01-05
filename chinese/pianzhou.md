@@ -1,5 +1,7 @@
 # 扁舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhou.md)
+
 <p><span class="chinese">谁家今夜扁舟子。</span><span class="english">Who a tonight skiff son.</span></p>
 
 <p><span class="chinese">父亲，像一叶扁舟。</span><span class="english">Father, just like a boat.</span></p>

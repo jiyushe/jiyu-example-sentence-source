@@ -1,5 +1,7 @@
 # criterion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criterion.md)
+
 <p><span class="chinese">那是一个准则问题。</span><span class="english">The problem of the criterion.</span></p>
 
 <p><span class="chinese">正如标题所暗示的，设立一个标准。</span><span class="english">As setting the standard, The Criterion.</span></p>

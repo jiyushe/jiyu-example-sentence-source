@@ -1,5 +1,7 @@
 # ascent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascent.md)
+
 <p><span class="chinese">启动上升段氦加压。</span><span class="english">Enables ascent He press.</span></p>
 
 <p><span class="chinese">启动上升段。</span><span class="english">Initiates the ascent stage.</span></p>

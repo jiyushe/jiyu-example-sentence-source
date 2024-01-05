@@ -1,5 +1,7 @@
 # galvanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galvanization.md)
+
 <p><span class="chinese">故镀锌钝化处理是必不可少的步骤。</span><span class="english">So galvanization passivation treatment is necessary steps.</span></p>
 
 <p><span class="chinese">电镀是指给金属覆上一层锌，或是一种刺激反应的作用。</span><span class="english">Galvanization means coating metal with zinc, or the act of stimulating action.</span></p>

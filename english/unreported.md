@@ -1,5 +1,7 @@
 # unreported
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreported.md)
+
 <p><span class="chinese">蒂萨迪的作用是以前报告。</span><span class="english">Sadiq's role was previously unreported.</span></p>
 
 <p><span class="chinese">屠杀在封闭的社会里秘而不宣。</span><span class="english">But the slaughter went unreported in that closed society.</span></p>

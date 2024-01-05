@@ -1,5 +1,7 @@
 # 进进出出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjinchuchu.md)
+
 <p><span class="chinese">整天进进出出。</span><span class="english">In and out all day.</span></p>
 
 <p><span class="chinese">啊是的。整天进进出出。</span><span class="english">Oh yes! In and out all day.</span></p>

@@ -1,5 +1,7 @@
 # laundering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laundering.md)
+
 <p><span class="chinese">星期天，她打扫房间和洗熨衣服。</span><span class="english">She does cleaning and laundering on Sundays.</span></p>
 
 <p><span class="chinese">其中九人还被控洗钱罪。</span><span class="english">Nine of them are also charged with money laundering.</span></p>

@@ -1,5 +1,7 @@
 # strange 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strange.md)
+
 <p><span class="chinese">神明是奇怪的。</span><span class="english">The gods are strange.</span></p>
 
 <p><span class="chinese">我觉得非常奇怪。</span><span class="english">I find that so strange.</span></p>

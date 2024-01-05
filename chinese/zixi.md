@@ -1,5 +1,7 @@
 # 自习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixi.md)
+
 <p><span class="chinese">我强烈要求你们去那里自习</span><span class="english">I would urge you to use that.</span></p>
 
 <p><span class="chinese">国家允许自习图书馆一直开放到午夜十点钟之后。</span><span class="english">Self-study libraries are allowed to stay open past 10 p.m.</span></p>

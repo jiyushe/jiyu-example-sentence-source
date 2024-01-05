@@ -1,5 +1,7 @@
 # withdrawal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withdrawal.md)
+
 <p><span class="chinese">戒除过程中出现的戒断症状</span><span class="english">withdrawal symptoms of quitting</span></p>
 
 <p><span class="chinese">好,停止食用是一种可能</span><span class="english">Okay, so withdrawal is a possibility.</span></p>

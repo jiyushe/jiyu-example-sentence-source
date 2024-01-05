@@ -1,5 +1,7 @@
 # accuser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accuser.md)
+
 <p><span class="chinese">所有人都会知道原告是谁。</span><span class="english">Everyone will know who the accuser is.</span></p>
 
 <p><span class="chinese">被告被传和原告对质。</span><span class="english">The accused was confronted with his accuser.</span></p>

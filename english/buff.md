@@ -1,5 +1,7 @@
 # buff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buff.md)
+
 <p><span class="chinese">不象牛子。</span><span class="english">Not like Buff.</span></p>
 
 <p><span class="chinese">我是个影戏迷。</span><span class="english">I am a movie buff.</span></p>

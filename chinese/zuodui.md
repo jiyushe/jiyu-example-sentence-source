@@ -1,5 +1,7 @@
 # 作对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuodui.md)
+
 <p><span class="chinese">计算机与我作对。</span><span class="english">The computer opposes me.</span></p>
 
 <p><span class="chinese">我觉得这台扫描仪老跟我作对。</span><span class="english">I suppose the scanner hates me.</span></p>

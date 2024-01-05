@@ -1,5 +1,7 @@
 # 海蟹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haixie.md)
+
 <p><span class="chinese">醉海蟹钳子。</span><span class="english">Drunk the sea crab pincers.</span></p>
 
 <p><span class="chinese">我喜欢这只石蟹，况且，它比海蟹、河蟹小得多，所以我愿意称它小蟹。</span><span class="english">P. S. As I know, deep fry the crabs and then cook with beer and other spices.</span></p>

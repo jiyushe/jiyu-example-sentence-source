@@ -1,5 +1,7 @@
 # 盛唐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengtang.md)
+
 <p><span class="chinese">王维是盛唐时期著名的山水田园诗人。</span><span class="english">Wangwei was a famous pastoral poet of landscape.</span></p>
 
 <p><span class="chinese">陶塑艺术也于盛唐达到了它的艺术顶峰。</span><span class="english">The ceramic sculpture art achieved its top place.</span></p>

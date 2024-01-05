@@ -1,5 +1,7 @@
 # impregnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impregnation.md)
+
 <p><span class="chinese">这是从弥尔顿孵伏怀孕的意象的推论之一。</span><span class="english">That's one consequence of Milton's image of a brooding impregnation.</span></p>
 
 <p><span class="chinese">向某物注入钙或钙盐的过程。</span><span class="english">Impregnation with calcium or calcium salts, as with calcium carbonate.</span></p>

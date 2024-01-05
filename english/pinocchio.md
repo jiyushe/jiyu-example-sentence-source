@@ -1,5 +1,7 @@
 # pinocchio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinocchio.md)
+
 <p><span class="chinese">皮诺丘找到了爸爸。</span><span class="english">Pinocchio finds his father.</span></p>
 
 <p><span class="chinese">皮诺奇躲在一面墙后面。</span><span class="english">Pinocchio hid behind a wall.</span></p>

@@ -1,5 +1,7 @@
 # gross 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gross.md)
+
 <p><span class="chinese">总吨是多少?。</span><span class="english">What is the gross tonnage ?</span></p>
 
 <p><span class="chinese">对不起，这形容有点恶心。</span><span class="english">That's kind of gross. Sorry.</span></p>

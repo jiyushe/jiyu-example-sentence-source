@@ -1,5 +1,7 @@
 # 干净利落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjingliluo.md)
+
 <p><span class="chinese">箭杆插在它的前胸上，一记干净利落的击杀。</span><span class="english">A clean kill.</span></p>
 
 <p><span class="chinese">王先生办事干净利落。</span><span class="english">Mr. Wang is very efficient.</span></p>

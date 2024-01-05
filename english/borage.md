@@ -1,5 +1,7 @@
 # borage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borage.md)
+
 <p><span class="chinese">琉璃苣油。</span><span class="english">Borage oil.</span></p>
 
 <p><span class="chinese">做一株待放的琉璃苣…</span><span class="english">To be doing a release of borage.</span></p>

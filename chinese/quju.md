@@ -1,5 +1,7 @@
 # 屈居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quju.md)
+
 <p><span class="chinese">老虎伍兹也只能屈居第二。</span><span class="english">So Tiger Woods came in second instead.</span></p>
 
 <p><span class="chinese">中国的全能冠军扬威屈居第四。</span><span class="english">All-around winner Yang Wei of China was fourth.</span></p>

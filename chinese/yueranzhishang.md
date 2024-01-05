@@ -1,5 +1,7 @@
 # 跃然纸上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueranzhishang.md)
+
 <p><span class="chinese">在看客的观赏间，美丽的女士跃然纸上。</span><span class="english">As they watch the ladies, they scribble on paper.</span></p>
 
 <p><span class="chinese">双方的痴迷分子、偏执狂和卑鄙小人都同样清楚地跃然纸上。</span><span class="english">The zealots, bigots and creeps on both sides come across with equal clarity.</span></p>

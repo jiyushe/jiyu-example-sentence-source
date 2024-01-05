@@ -1,5 +1,7 @@
 # fatally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatally.md)
+
 <p><span class="chinese">剑劈开了骑士的头盔并致命地刺进他。</span><span class="english">The Sword split the Knight's helmet and bit him fatally.</span></p>
 
 <p><span class="chinese">戴安娜用她那猎人独具的眼神死死盯住她的目标。</span><span class="english">Diana's expert hunter's eye fastens fatally on her target.</span></p>

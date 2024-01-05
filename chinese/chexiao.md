@@ -1,5 +1,7 @@
 # 撤消
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chexiao.md)
+
 <p><span class="chinese">他撤消了车驾</span><span class="english">He avoided carriages.</span></p>
 
 <p><span class="chinese">已删除撤消信息。</span><span class="english">Undo information erased.</span></p>

@@ -1,5 +1,7 @@
 # 念书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianshu.md)
+
 <p><span class="chinese">你还是得好好念书准备！</span><span class="english">You'll still need to study!</span></p>
 
 <p><span class="chinese">我周围有很多人用功念书学习。</span><span class="english">I'm around a lot of studying.</span></p>

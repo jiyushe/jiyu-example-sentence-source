@@ -1,5 +1,7 @@
 # 青云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyun_1.md)
+
 <p><span class="chinese">翻译为你在哪所学校学习？青云英…</span><span class="english">In which school do you study?</span></p>
 
 <p><span class="chinese">青云有限公司保证产品的质量。</span><span class="english">Blue Sky builds Quality products only.</span></p>

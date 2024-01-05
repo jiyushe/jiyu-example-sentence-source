@@ -1,5 +1,7 @@
 # 仗义执言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyizhiyan.md)
+
 <p><span class="chinese">所以，亲爱的青年朋友，请为和平仗义执言。</span><span class="english">So, dear young people, please speak up for peace.</span></p>
 
 <p><span class="chinese">同时你还要弄清自己仗义执言的动机。</span><span class="english">You need also to be clear of your own motives in speaking to your friend.</span></p>

@@ -1,5 +1,7 @@
 # cloverleaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloverleaf.md)
+
 <p><span class="chinese">我们立体式通灵有助于他们。</span><span class="english">We contribute Cloverleaf channelings to them.</span></p>
 
 <p><span class="chinese">在立体式术语表达文件里，我定下了其它的描述，我感觉很好！</span><span class="english">In the Cloverleaf Glossary files I located another description, which felt so good!</span></p>

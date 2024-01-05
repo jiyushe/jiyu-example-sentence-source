@@ -1,5 +1,7 @@
 # pellet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pellet.md)
+
 <p><span class="chinese">如何选购木屑颗粒机?。</span><span class="english">How to choose wood pellet machine?</span></p>
 
 <p><span class="chinese">总之，面包团落到了那个院子里。</span><span class="english">This little pellet falls in the yard.</span></p>

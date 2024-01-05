@@ -1,5 +1,7 @@
 # neurological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurological.md)
+
 <p><span class="chinese">什么是神经障碍?</span><span class="english">What are neurological disorders?</span></p>
 
 <p><span class="chinese">宗教就是神经错乱。</span><span class="english">I think religion is a neurological disorder.</span></p>

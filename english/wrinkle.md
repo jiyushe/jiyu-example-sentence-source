@@ -1,5 +1,7 @@
 # wrinkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrinkle.md)
+
 <p><span class="chinese">但是这里有一个小问题。</span><span class="english">But there is a wrinkle here.</span></p>
 
 <p><span class="chinese">买个好的皱褶喷雾。</span><span class="english">Invest in a good wrinkle spray.</span></p>

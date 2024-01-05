@@ -1,5 +1,7 @@
 # 姑娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guniang.md)
+
 <p><span class="chinese">姑娘，快跑！</span><span class="english">Run, girl!</span></p>
 
 <p><span class="chinese">我是拇指姑娘。</span><span class="english">I am Thumbelina.</span></p>

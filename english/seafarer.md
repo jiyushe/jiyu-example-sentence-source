@@ -1,5 +1,7 @@
 # seafarer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seafarer.md)
+
 <p><span class="chinese">然后我将站在你们之间，一个航海者站在许多航海者之间。</span><span class="english">And then I shall stand among you, a seafarer among seafarers.</span></p>
 
 <p><span class="chinese">船员人身伤亡的案件时有发生。</span><span class="english">The cases involving personal injury of the seafarer occur from time to time.</span></p>

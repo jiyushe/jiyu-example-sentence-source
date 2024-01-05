@@ -1,5 +1,7 @@
 # polyamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyamine.md)
+
 <p><span class="chinese">多胺类似物是一类研发中的新型抗肿瘤药物。</span><span class="english">Polyamine analogue is a new type of antitumor agents.</span></p>
 
 <p><span class="chinese">为无溶剂厚浆双组分聚酰胺固化的环氧涂料。</span><span class="english">It's a solvent-free, two-component, polyamine cured epoxy paint.</span></p>

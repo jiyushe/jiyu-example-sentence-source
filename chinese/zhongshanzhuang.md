@@ -1,5 +1,7 @@
 # 中山装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshanzhuang.md)
+
 <p><span class="chinese">这就是最早的中山装。</span><span class="english">This was the original Zhongshan Suit.</span></p>
 
 <p><span class="chinese">套衫中山装标榜点衣领和开半门襟。</span><span class="english">Pullover tunic flaunts a point collar and open half placket.</span></p>

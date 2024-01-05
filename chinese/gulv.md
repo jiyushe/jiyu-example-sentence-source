@@ -1,5 +1,7 @@
 # 顾虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulv.md)
+
 <p><span class="chinese">完全没有一点道德顾虑。</span><span class="english">There's no moral scruple.</span></p>
 
 <p><span class="chinese">不用顾虑，试试你的运气吧。</span><span class="english">Donat worry. Try your luck.</span></p>

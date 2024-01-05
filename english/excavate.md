@@ -1,5 +1,7 @@
 # excavate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excavate.md)
+
 <p><span class="chinese">第一步就是要挖掘的基座及匝道。</span><span class="english">The first step is to excavate for the pedestal and ramp.</span></p>
 
 <p><span class="chinese">1959年，俄国人为了挖掘恐龙化石而留下的小土山。</span><span class="english">Russian made these hill to excavate dino-fossils in 1959.</span></p>

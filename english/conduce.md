@@ -1,5 +1,7 @@
 # conduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conduce.md)
+
 <p><span class="chinese">做什么运动有助于健康？</span><span class="english">What motion to do to conduce to health?</span></p>
 
 <p><span class="chinese">财富不一定会给人带来快乐。</span><span class="english">Wealth does not always conduce to happiness.</span></p>

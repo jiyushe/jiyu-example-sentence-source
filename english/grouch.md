@@ -1,5 +1,7 @@
 # grouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grouch.md)
+
 <p><span class="chinese">你的角色是一个经常爱抱怨的人么？</span><span class="english">Is your character a grouch?</span></p>
 
 <p><span class="chinese">小王开始对所有的事怒目相斥。</span><span class="english">Wang started to be a grouch.</span></p>

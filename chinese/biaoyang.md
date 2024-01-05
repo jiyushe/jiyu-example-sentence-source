@@ -1,5 +1,7 @@
 # 表扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoyang.md)
+
 <p><span class="chinese">表扬他们。</span><span class="english">Praise them.</span></p>
 
 <p><span class="chinese">—他被表扬了。</span><span class="english">He kena praised.</span></p>

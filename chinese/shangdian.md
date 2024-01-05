@@ -1,5 +1,7 @@
 # 商店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdian.md)
+
 <p><span class="chinese">宠物沃卢商店。</span><span class="english">Pet Valu store.</span></p>
 
 <p><span class="chinese">买商店的自产商品。</span><span class="english">Buy store brands.</span></p>

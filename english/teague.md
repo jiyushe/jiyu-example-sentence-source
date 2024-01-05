@@ -1,5 +1,7 @@
 # teague
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teague.md)
+
 <p><span class="chinese">西蒙•蒂格注视着电脑上的雷达图像，叹息着。</span><span class="english">Simon Teague eyed the radar image on his computer and groaned.</span></p>
 
 <p><span class="chinese">贾森·蒂格将不经历流星雨之后幸存。</span><span class="english">It sounds like Jason Teague will not survive the meteor shower.</span></p>

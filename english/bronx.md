@@ -1,5 +1,7 @@
 # bronx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronx.md)
+
 <p><span class="chinese">他来自布朗克斯。</span><span class="english">He was from the Bronx.</span></p>
 
 <p><span class="chinese">好吧，布朗克斯是个好地方。</span><span class="english">Well, the Bronx is a nice place.</span></p>

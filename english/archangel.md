@@ -1,5 +1,7 @@
 # archangel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archangel.md)
+
 <p><span class="chinese">你以前曾是这位大天使。</span><span class="english">You've been this archangel before.</span></p>
 
 <p><span class="chinese">最高主教狄格拜被当场提拔为大天使。</span><span class="english">Digby had been spot-promoted to Archangel.</span></p>

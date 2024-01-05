@@ -1,5 +1,7 @@
 # ecosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecosphere.md)
+
 <p><span class="chinese">我们没有生态危机，然而在生物圈却有人类危机。</span><span class="english">We do not have an ecological crisis. the ecosphere has a human crisis.</span></p>
 
 <p><span class="chinese">人类对生态系统的攻击已经引发其反击。</span><span class="english">The human attack on the ecosphere has instigated an ecological counterattack.</span></p>

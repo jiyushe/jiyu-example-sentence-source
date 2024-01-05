@@ -1,5 +1,7 @@
 # attenuator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attenuator.md)
+
 <p><span class="chinese">双工滤波器、均衡器、衰减器采用插件式设计。</span><span class="english">Duplex filters equalizer and attenuator all adopted plug-in design.</span></p>
 
 <p><span class="chinese">光衰减器是一种广泛应用的无源光器件。</span><span class="english">Optical attenuator is a kind of widely used passive optical component.</span></p>

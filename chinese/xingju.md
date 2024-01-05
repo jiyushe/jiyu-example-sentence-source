@@ -1,5 +1,7 @@
 # 刑具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingju.md)
+
 <p><span class="chinese">即使脚镣黄金铸，无人爱上这刑具。</span><span class="english">No man loves his fetters be they made of gold.</span></p>
 
 <p><span class="chinese">各种刑具不同的受报。</span><span class="english">Different torture devices mete out different kinds of punishment.</span></p>

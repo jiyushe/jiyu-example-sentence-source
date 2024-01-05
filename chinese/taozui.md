@@ -1,5 +1,7 @@
 # 陶醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taozui.md)
+
 <p><span class="chinese">这香味使她陶醉。</span><span class="english">The scents made her drunk.</span></p>
 
 <p><span class="chinese">陶醉于“可能性游戏”</span><span class="english">Revel in the “game of maybe”</span></p>

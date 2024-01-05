@@ -1,5 +1,7 @@
 # 税源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyuan_1.md)
+
 <p><span class="chinese">如何培育地方税源经济是当前的新课题。</span><span class="english">How to develop the economy of tax fund is a new problem now.</span></p>
 
 <p><span class="chinese">如何加强对税源的监控是我国税收事业的重要课题。</span><span class="english">How to control tax resource is the very important thing in China.</span></p>

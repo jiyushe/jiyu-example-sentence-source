@@ -1,5 +1,7 @@
 # 认定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rending_1.md)
+
 <p><span class="chinese">希望赶着和认定你。</span><span class="english">Hope hurries up and finds you.</span></p>
 
 <p><span class="chinese">他们最后认定是银雾。</span><span class="english">They decided it was Silvermist.</span></p>

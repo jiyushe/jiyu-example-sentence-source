@@ -1,5 +1,7 @@
 # shat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shat.md)
+
 <p><span class="chinese">今天，我年夜出一块磁铁。</span><span class="english">Today, I shat a magnet.</span></p>
 
 <p><span class="chinese">坚持你所相信的！</span><span class="english">Stand up for shat you believe in.</span></p>

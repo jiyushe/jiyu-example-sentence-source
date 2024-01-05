@@ -1,5 +1,7 @@
 # 打猎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dalie.md)
+
 <p><span class="chinese">我准备去打猎。</span><span class="english">I'm fixing to go hunting.</span></p>
 
 <p><span class="chinese">阿卡同酷爱打猎。</span><span class="english">Actaeon loved the hunting.</span></p>

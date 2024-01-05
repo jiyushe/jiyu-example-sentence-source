@@ -1,5 +1,7 @@
 # return 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/return.md)
+
 <p><span class="chinese">胡不归?。</span><span class="english">Why not return?</span></p>
 
 <p><span class="chinese">定会以邪恶相报。</span><span class="english">Do evil in return.</span></p>

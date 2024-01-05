@@ -1,5 +1,7 @@
 # trey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trey.md)
+
 <p><span class="chinese">现在崔和夏绿蒂已经打开了沟通的之门。</span><span class="english">Now that Trey and Charlotte had opened the door of communication.</span></p>
 
 <p><span class="chinese">对了，像特里说的，听天由命。</span><span class="english">Oh well, like Trey said, inshallah , which meant, like, whatever.</span></p>

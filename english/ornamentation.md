@@ -1,5 +1,7 @@
 # ornamentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ornamentation.md)
+
 <p><span class="chinese">还包括高级装饰音课程。</span><span class="english">An advanced ornamentation tutorial is also included.</span></p>
 
 <p><span class="chinese">准宝石的石头用来做镶嵌装饰。</span><span class="english">Semi-precious stones were used for inlay ornamentation.</span></p>

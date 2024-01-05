@@ -1,5 +1,7 @@
 # doggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doggy.md)
+
 <p><span class="chinese">我叔叔是个爱狗的人。</span><span class="english">My uncle is a doggy person.</span></p>
 
 <p><span class="chinese">你能给我一个剩菜袋吗？</span><span class="english">Could you give me a doggy bage?</span></p>

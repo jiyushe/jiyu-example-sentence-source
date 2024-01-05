@@ -1,5 +1,7 @@
 # residential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/residential.md)
+
 <p><span class="chinese">学习住居空间设计。</span><span class="english">To study residential space design.</span></p>
 
 <p><span class="chinese">现在是商业区和居民区。</span><span class="english">Commercial and residential right now.</span></p>

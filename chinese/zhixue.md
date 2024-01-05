@@ -1,5 +1,7 @@
 # 治学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixue.md)
+
 <p><span class="chinese">他以治学严谨著称。</span><span class="english">He is noted for his meticulous scholarship.</span></p>
 
 <p><span class="chinese">校长大人还有什么治学妙招？</span><span class="english">The headmaster adults still have what reserch coup?</span></p>

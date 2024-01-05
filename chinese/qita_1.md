@@ -1,5 +1,7 @@
 # 其它
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qita_1.md)
+
 <p><span class="chinese">其它还有哪些矢量</span><span class="english">How about more vectors?</span></p>
 
 <p><span class="chinese">关于其它的事情。</span><span class="english">Other bits of business.</span></p>

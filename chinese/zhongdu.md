@@ -1,5 +1,7 @@
 # 中度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdu.md)
+
 <p><span class="chinese">中度的红色中透出一点紫罗兰色泽。</span><span class="english">Mid-red color with violet hues.</span></p>
 
 <p><span class="chinese">中度酒体葡萄酒，呈深宝石红色泽。</span><span class="english">Medium-bodied in deep ruby red color.</span></p>

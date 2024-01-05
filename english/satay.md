@@ -1,5 +1,7 @@
 # satay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satay.md)
+
 <p><span class="chinese">市面上最便宜的沙爹之一！</span><span class="english">One of the Cheapest Satay in Town.</span></p>
 
 <p><span class="chinese">这沙茶鸡肉丝的味道真的很独特你加了什么？</span><span class="english">The chicken satay has got a really unique flavor. What'd you use?</span></p>

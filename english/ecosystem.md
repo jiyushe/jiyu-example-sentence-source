@@ -1,5 +1,7 @@
 # ecosystem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecosystem.md)
+
 <p><span class="chinese">生态系统必须保持稳定。</span><span class="english">An ecosystem must remain stable.</span></p>
 
 <p><span class="chinese">一个城市的生态系统是怎样的？</span><span class="english">What about the ecosystem of a city?</span></p>

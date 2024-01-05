@@ -1,5 +1,7 @@
 # presidential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presidential.md)
+
 <p><span class="chinese">美国1828年总统大选</span><span class="english">U.S. presidential election, 1828</span></p>
 
 <p><span class="chinese">总统套房另外还有些什么设施呢？</span><span class="english">What extras come with a presidential suite?</span></p>

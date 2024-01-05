@@ -1,5 +1,7 @@
 # sawmill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sawmill.md)
+
 <p><span class="chinese">意外发生在一间木厂内。</span><span class="english">The accident took place inside a sawmill.</span></p>
 
 <p><span class="chinese">在锯木厂是全新的，非常可靠。</span><span class="english">The sawmill was brand new and very reliable.</span></p>

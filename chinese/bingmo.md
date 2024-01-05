@@ -1,5 +1,7 @@
 # 病魔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingmo.md)
+
 <p><span class="chinese">喜欢瘫痪和病魔缠身的题材？</span><span class="english">Prefer paralysis and disease?</span></p>
 
 <p><span class="chinese">敏妃能战胜病魔吗？</span><span class="english">Will Minfei be able to overcome her sickness?</span></p>

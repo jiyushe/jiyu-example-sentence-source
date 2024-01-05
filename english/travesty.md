@@ -1,5 +1,7 @@
 # travesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travesty.md)
+
 <p><span class="chinese">这个问题是对模仿骗子行为的一种嘲弄。</span><span class="english">The question is a mockery of a travesty of a sham.</span></p>
 
 <p><span class="chinese">在嘻哈音乐中用到小提琴会不会很滑稽</span><span class="english">Is this a travesty to use a violin with hip-hop here?</span></p>

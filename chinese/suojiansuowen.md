@@ -1,5 +1,7 @@
 # 所见所闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suojiansuowen.md)
+
 <p><span class="chinese">您有什么所见所闻吗,在过去五年里？</span><span class="english">do you see that has happened in the last five years?</span></p>
 
 <p><span class="chinese">作为一个非伪球迷，我想谈谈自己的所见所闻！</span><span class="english">As a non-pseudo-fan, I would like to talk about what they see!</span></p>

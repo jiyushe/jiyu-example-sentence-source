@@ -1,5 +1,7 @@
 # 眉心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meixin.md)
+
 <p><span class="chinese">眉心带领着变化，使整个形状开始放松。</span><span class="english">The inner brows lead the change, softening the shapes.</span></p>
 
 <p><span class="chinese">在瑜伽系统中，这里被称为眉心轮。</span><span class="english">It is known as the Aajna Chakra in the language of Yoga.</span></p>

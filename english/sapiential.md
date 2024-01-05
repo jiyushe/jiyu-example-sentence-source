@@ -1,5 +1,7 @@
 # sapiential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sapiential.md)
+
 <p><span class="chinese">没有智慧的头脑，就象没有腊烛的灯笼。</span><span class="english">No sapiential mind , as no candlelit lantern.</span></p>
 
 <p><span class="chinese">这是一个精英的团体，这是一场智慧的交流。</span><span class="english">It was a team made up of geniuses and a sapiential communication.</span></p>

@@ -1,5 +1,7 @@
 # 元宵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxiao.md)
+
 <p><span class="chinese">元宵春风暖。</span><span class="english">Yuanxiao, warm spring breeze.</span></p>
 
 <p><span class="chinese">是的。你以前吃过元宵吗？</span><span class="english">Yeah. Have you ever tasted Yuanxiao before?</span></p>

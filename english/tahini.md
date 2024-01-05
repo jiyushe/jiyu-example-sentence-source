@@ -1,5 +1,7 @@
 # tahini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tahini.md)
+
 <p><span class="chinese">什么是芝麻酱粘贴？。</span><span class="english">What is Tahini Paste?</span></p>
 
 <p><span class="chinese">蘸香辣芝麻酱的糙米、甘蓝、黑豆</span><span class="english">Spicy tahini sauce on brown rice, kale, black beans</span></p>

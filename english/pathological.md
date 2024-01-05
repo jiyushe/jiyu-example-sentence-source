@@ -1,5 +1,7 @@
 # pathological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathological.md)
+
 <p><span class="chinese">他就像一个疾病造成的佛陀。</span><span class="english">He was like a pathological Buddha.</span></p>
 
 <p><span class="chinese">他曾说，挂心不等于病态的忧心忡忡。</span><span class="english">He's not pathological or anything, he says.</span></p>

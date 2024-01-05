@@ -1,5 +1,7 @@
 # mozzarella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mozzarella.md)
+
 <p><span class="chinese">意大利番茄沙拉，加点水牛芝士。</span><span class="english">Caprese salad, a little mozzarella di buffalo.</span></p>
 
 <p><span class="chinese">一个由新成语和新鲜起司所构成的愉快夜晚。</span><span class="english">A lovely evening of new idioms and fresh mozzarella.</span></p>

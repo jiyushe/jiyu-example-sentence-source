@@ -1,5 +1,7 @@
 # predicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predicative.md)
+
 <p><span class="chinese">表语形容词放在名词后面。</span><span class="english">Predicative adjectives follow the noun.</span></p>
 
 <p><span class="chinese">动词，在句子中经常充当谓语。</span><span class="english">Verb is always the predicative in the sentence.</span></p>

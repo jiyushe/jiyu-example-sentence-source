@@ -1,5 +1,7 @@
 # 年会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianhui.md)
+
 <p><span class="chinese">2005年的年会在普罗维登斯举行。</span><span class="english">In 2005 it was held in Provo.</span></p>
 
 <p><span class="chinese">今天请您拿年会早到的票吧。</span><span class="english">Get your earlybird ticket today.</span></p>

@@ -1,5 +1,7 @@
 # 拆散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaisan.md)
+
 <p><span class="chinese">是何方神圣能把一颗恒星拆散了？</span><span class="english">What could rip a star apart?</span></p>
 
 <p><span class="chinese">离婚拆散了许多家庭。</span><span class="english">Divorce breaks up a lot of families.</span></p>

@@ -1,5 +1,7 @@
 # homophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homophone.md)
+
 <p><span class="chinese">因为在普通话里“倒”和“到”是同音字。</span><span class="english">"Dao", inversion and arrival, is homophone in Mandarin Chinese.</span></p>
 
 <p><span class="chinese">第二部分是孝南方言同音字表。</span><span class="english">The second part is about the tables of Chinese characters with homophone.</span></p>

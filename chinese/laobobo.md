@@ -1,5 +1,7 @@
 # 老伯伯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobobo.md)
+
 <p><span class="chinese">看，那位老伯伯的是一只巨龙风筝。</span><span class="english">Look, the old man's kite is a dragon.</span></p>
 
 <p><span class="chinese">你最好问问那老伯伯本人。</span><span class="english">You 'd better ask that old man himself.</span></p>

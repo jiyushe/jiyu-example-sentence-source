@@ -1,5 +1,7 @@
 # duality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duality.md)
+
 <p><span class="chinese">有一种双重性。</span><span class="english">There's a duality there.</span></p>
 
 <p><span class="chinese">人类具有二元性</span><span class="english">There's a duality of people.</span></p>

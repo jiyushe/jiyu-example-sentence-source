@@ -1,5 +1,7 @@
 # coenzyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coenzyme.md)
+
 <p><span class="chinese">1945年，他和其他科学家共同发现了辅酶A。</span><span class="english">He was a co-discoverer in 1945 of coenzyme A.</span></p>
 
 <p><span class="chinese">辅酶Q10是维生素类化合物也被称为辅酶。</span><span class="english">Coenzyme Q10 is a vitamin-like compound also called ubiquinone.</span></p>

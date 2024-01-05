@@ -1,5 +1,7 @@
 # ascribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascribe.md)
+
 <p><span class="chinese">你看，当她们属意于维纳斯的时候。</span><span class="english">Thy looks when they to Venus did ascribe.</span></p>
 
 <p><span class="chinese">要将耶和华的名所当得的荣耀归给他。</span><span class="english">Ascribe to the Lord the glory due his name.</span></p>

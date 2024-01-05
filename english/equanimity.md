@@ -1,5 +1,7 @@
 # equanimity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equanimity.md)
+
 <p><span class="chinese">行动会使猛狮般的恐惧，减缓为蚂蚁般的平静！</span><span class="english">Action reduces the lion of terror to an ant of equanimity.</span></p>
 
 <p><span class="chinese">好好享受水果给你带来的平静与健康生活吧！！</span><span class="english">May you enjoy your fruit in equanimity and abundant health!</span></p>

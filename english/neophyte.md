@@ -1,5 +1,7 @@
 # neophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neophyte.md)
+
 <p><span class="chinese">收藏新手们如何在这重重森林中找对路子呢？</span><span class="english">So how does the neophyte collector find his or her way through this jungle?</span></p>
 
 <p><span class="chinese">第一次参加驴行活动者被称为新驴。</span><span class="english">When people attend a donkey tour at first time, a neophyte is called 'a new donkey'.</span></p>

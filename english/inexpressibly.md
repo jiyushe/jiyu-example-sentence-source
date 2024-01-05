@@ -1,5 +1,7 @@
 # inexpressibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexpressibly.md)
+
 <p><span class="chinese">那出色的表演使观众感到说不出的惊讶。</span><span class="english">The audience was inexpressibly astonished at the brilliant performance.</span></p>
 
 <p><span class="chinese">月光下，他的脸色苍白，有着难以言表的沮丧。</span><span class="english">His face in the moonlight showed a pallor and fixity inexpressibly distressing.</span></p>

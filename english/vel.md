@@ -1,5 +1,7 @@
 # vel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vel.md)
+
 <p><span class="chinese">乐德维尔了卓尔齐的水平26和发展它。</span><span class="english">Le vel up Drow zee to level 26 and evolve it.</span></p>
 
 <p><span class="chinese">主体的基础在于第一轮迴的基本运作。</span><span class="english">The subject is grounded in the vel of the first essential operation.</span></p>

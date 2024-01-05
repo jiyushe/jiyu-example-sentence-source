@@ -1,5 +1,7 @@
 # colloquialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colloquialism.md)
+
 <p><span class="chinese">这是一句口语。</span><span class="english">This is a colloquialism.</span></p>
 
 <p><span class="chinese">是我们常用的口语词。</span><span class="english">It is a common colloquialism.</span></p>

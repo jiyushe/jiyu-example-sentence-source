@@ -1,5 +1,7 @@
 # gingko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingko.md)
+
 <p><span class="chinese">银杏树全身上下都是宝啊。</span><span class="english">Every part of the gingko tree is useful.</span></p>
 
 <p><span class="chinese">银杏果为银杏的成熟种子。</span><span class="english">Gingko nut is the mature seed of gingko.</span></p>

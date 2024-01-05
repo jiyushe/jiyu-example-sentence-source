@@ -1,5 +1,7 @@
 # flamingo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flamingo.md)
+
 <p><span class="chinese">这是一只火烈鸟。</span><span class="english">This is the flamingo.</span></p>
 
 <p><span class="chinese">我把书翻到了火烈鸟。</span><span class="english">I open the book to Flamingo.</span></p>

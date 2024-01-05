@@ -1,5 +1,7 @@
 # lethargy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lethargy.md)
+
 <p><span class="chinese">消除嗜睡和精神萎靡。</span><span class="english">Relieves lethargy and mental sluggishness.</span></p>
 
 <p><span class="chinese">这只鸟在早上就无生气，很不寻常。</span><span class="english">The bird's lethargy in the morning was unusual.</span></p>

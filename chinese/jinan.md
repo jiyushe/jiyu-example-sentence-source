@@ -1,5 +1,7 @@
 # 急难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinan.md)
+
 <p><span class="chinese">现在你们遭遇急难为何到我这里来呢？</span><span class="english">Why do you come to me now, when you're in trouble?</span></p>
 
 <p><span class="chinese">现在你们遭遇急难为何到我这里来呢。</span><span class="english">and why are ye come unto me now when ye are in distress?</span></p>

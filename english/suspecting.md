@@ -1,5 +1,7 @@
 # suspecting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspecting.md)
+
 <p><span class="chinese">我有很多理由怀疑这种方法。</span><span class="english">I had many reasons for suspecting this approach.</span></p>
 
 <p><span class="chinese">警方是没有理由怀疑他的。</span><span class="english">The police had no justification for suspecting him.</span></p>

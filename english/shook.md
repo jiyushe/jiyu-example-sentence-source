@@ -1,5 +1,7 @@
 # shook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shook.md)
+
 <p><span class="chinese">她却甩开了他的手。</span><span class="english">She shook it off.</span></p>
 
 <p><span class="chinese">山都在震动。</span><span class="english">The mountains shook.</span></p>

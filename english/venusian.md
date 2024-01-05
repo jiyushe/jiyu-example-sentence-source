@@ -1,5 +1,7 @@
 # venusian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venusian.md)
+
 <p><span class="chinese">金星的大气层太厚了。</span><span class="english">The Venusian atmosphere is too thick.</span></p>
 
 <p><span class="chinese">总是同一种模式，无论他们找哪个金星人搭话，结果都是这样。</span><span class="english">Always the same pattern, no matter what Venusian they tried.</span></p>

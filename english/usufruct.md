@@ -1,5 +1,7 @@
 # usufruct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usufruct.md)
+
 <p><span class="chinese">出售专利权，使用权，并提供技术支持。</span><span class="english">We sell patent right and usufruct of RIAF, and provide tech support.</span></p>
 
 <p><span class="chinese">不动产租赁权是用益物权，是传统民法上之地上权和准物权。</span><span class="english">The leasehold of real estate is the usufruct and special real right in China.</span></p>

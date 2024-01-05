@@ -1,5 +1,7 @@
 # jinx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jinx.md)
+
 <p><span class="chinese">有人说她是扫帚星。</span><span class="english">She's said to be a jinx.</span></p>
 
 <p><span class="chinese">话别说得太早！比赛还没结束呢。</span><span class="english">Don't jinx it! The game is not over yet.</span></p>

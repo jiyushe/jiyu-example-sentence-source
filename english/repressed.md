@@ -1,5 +1,7 @@
 # repressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repressed.md)
+
 <p><span class="chinese">所以欲望受到了抑制。</span><span class="english">And this stuff is repressed.</span></p>
 
 <p><span class="chinese">伯莎抑止住逗乐的情绪，开始吃饭。</span><span class="english">Bertha repressed her gaiety and began to eat.</span></p>

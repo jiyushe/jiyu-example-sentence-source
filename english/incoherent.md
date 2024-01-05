@@ -1,5 +1,7 @@
 # incoherent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incoherent.md)
+
 <p><span class="chinese">这本书有时会不连贯么？</span><span class="english">The book is at times incoherent?</span></p>
 
 <p><span class="chinese">这当然是矛盾的</span><span class="english">And that's, of course, incoherent.</span></p>

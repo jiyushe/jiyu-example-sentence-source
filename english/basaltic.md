@@ -1,5 +1,7 @@
 # basaltic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basaltic.md)
+
 <p><span class="chinese">使得夜晚的柱廊宛如玄武岩的洞穴。</span><span class="english">Made them, in the evening, like basaltic grottos.</span></p>
 
 <p><span class="chinese">首先是玄武岩浆从中间喷发，构成火山。</span><span class="english">Basaltic lava first erupted from the center and built up the volcano.</span></p>

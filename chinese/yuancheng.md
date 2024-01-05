@@ -1,5 +1,7 @@
 # 远程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuancheng.md)
+
 <p><span class="chinese">敏捷也适用于远程团队。</span><span class="english">Agile works in remote teams.</span></p>
 
 <p><span class="chinese">远程工作是一个新…</span><span class="english">Teleworking is a new concept.</span></p>

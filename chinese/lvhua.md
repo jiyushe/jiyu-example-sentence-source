@@ -1,5 +1,7 @@
 # 绿化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvhua.md)
+
 <p><span class="chinese">还有多少事情可以“绿化”?。</span><span class="english">What else Can be greened?</span></p>
 
 <p><span class="chinese">绿化系统规划。</span><span class="english">XII green system planning.</span></p>

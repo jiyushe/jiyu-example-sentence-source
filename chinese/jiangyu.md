@@ -1,5 +1,7 @@
 # 疆域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangyu.md)
+
 <p><span class="chinese">同样的疆域里现在的耕地只有2.07亿公顷。</span><span class="english">The same territory now farms 207m hectares.</span></p>
 
 <p><span class="chinese">您想置备中疆域特产品吗？</span><span class="english">Do you wish to buy some Chinese native produce?</span></p>

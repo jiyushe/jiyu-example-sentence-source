@@ -1,5 +1,7 @@
 # 不要脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyaolian.md)
+
 <p><span class="chinese">盖茨真不要脸啦”。</span><span class="english">Gates has no shame.</span></p>
 
 <p><span class="chinese">你应该控告那个不要脸的混蛋。</span><span class="english">You ought to sue the bastard.</span></p>

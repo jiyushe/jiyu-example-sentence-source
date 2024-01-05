@@ -1,5 +1,7 @@
 # 失陷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixian_1.md)
+
 <p><span class="chinese">如果今夜我和你一起失陷。</span><span class="english">But If I lose myself with you tonight.</span></p>
 
 <p><span class="chinese">这个时期的第一阶段，是在武汉失陷以前。</span><span class="english">The first stage of this period lasted until the fall of Wuhan.</span></p>

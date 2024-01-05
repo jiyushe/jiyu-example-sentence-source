@@ -1,5 +1,7 @@
 # zazen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zazen.md)
+
 <p><span class="chinese">参禅亦称坐禅。</span><span class="english">Zen meditation is called Zazen.</span></p>
 
 <p><span class="chinese">这些天，我用锻炼来代替打坐。</span><span class="english">These days, exercise is my zazen.</span></p>

@@ -1,5 +1,7 @@
 # 效忠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozhong_2.md)
+
 <p><span class="chinese">我曾发誓效忠国家！</span><span class="english">I have sworn an oath!</span></p>
 
 <p><span class="chinese">我曾宣誓效忠。</span><span class="english">I pledged allegiance.</span></p>

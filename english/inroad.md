@@ -1,5 +1,7 @@
 # inroad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inroad.md)
+
 <p><span class="chinese">孩子们早已吃掉不少食物。</span><span class="english">Already the children have make considerable inroad on the food.</span></p>
 
 <p><span class="chinese">这表现出了一个新的创新灵感上的巨大进步。</span><span class="english">It suggests a new innovative inroad of inspiration for fashion.</span></p>

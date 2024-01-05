@@ -1,5 +1,7 @@
 # 泄露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xielou_1.md)
+
 <p><span class="chinese">泄露和消除。</span><span class="english">Leakage and removal.</span></p>
 
 <p><span class="chinese">他把这个阴谋泄露给我们。</span><span class="english">He tipped the plot to us.</span></p>

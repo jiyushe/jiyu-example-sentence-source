@@ -1,5 +1,7 @@
 # 山顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanding.md)
+
 <p><span class="chinese">我都爬到山顶了。</span><span class="english">Climbed to the top.</span></p>
 
 <p><span class="chinese">香港山顶花园大厦。</span><span class="english">The Peak Garden, H. K.</span></p>

@@ -1,5 +1,7 @@
 # slideway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slideway.md)
+
 <p><span class="chinese">在滑道可调吉布斯。</span><span class="english">Adjustable gibs for the slideway.</span></p>
 
 <p><span class="chinese">本实用新型公开了一种板式滑道健身游乐设施。</span><span class="english">The present utility model discloses a plate-type slideway body-building recreational facility.</span></p>

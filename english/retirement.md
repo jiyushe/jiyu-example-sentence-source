@@ -1,5 +1,7 @@
 # retirement 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retirement.md)
+
 <p><span class="chinese">他退休后就搞起了园艺。</span><span class="english">He enjoyed his retirement.</span></p>
 
 <p><span class="chinese">他们准予他退休。</span><span class="english">They vouchsafed his retirement.</span></p>

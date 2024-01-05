@@ -1,5 +1,7 @@
 # 春华秋实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunhuaqiushi.md)
+
 <p><span class="chinese">春华秋实，我永远与妳同在！</span><span class="english">Qiushi Chunhua, I will be with you!</span></p>
 
 <p><span class="chinese">一直忘不了，那一年的春华秋实。</span><span class="english">Has been forgotten, the year of Fruitful.</span></p>

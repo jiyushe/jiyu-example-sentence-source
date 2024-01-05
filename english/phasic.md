@@ -1,5 +1,7 @@
 # phasic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phasic.md)
+
 <p><span class="chinese">相位调整电脑控制，数字显示。</span><span class="english">Phasic adjustment is controlled by computer, digital showing.</span></p>
 
 <p><span class="chinese">非感染组8项时相蛋白均在正常范围内。</span><span class="english">The 8 phasic proteins were all maintained in a normal range in control group.</span></p>

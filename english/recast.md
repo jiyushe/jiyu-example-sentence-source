@@ -1,5 +1,7 @@
 # recast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recast.md)
+
 <p><span class="chinese">她改演朱丽叶一角。</span><span class="english">She has been recast as Juliet.</span></p>
 
 <p><span class="chinese">你怎么来重铸你的梦想？</span><span class="english">How does one recast one's dream?</span></p>

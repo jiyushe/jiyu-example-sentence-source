@@ -1,5 +1,7 @@
 # cheapskate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheapskate.md)
+
 <p><span class="chinese">做个小气鬼。</span><span class="english">Be a cheapskate.</span></p>
 
 <p><span class="chinese">小气鬼不会真正的帮助任何人。</span><span class="english">Being a cheapskate never really helps anyone.</span></p>

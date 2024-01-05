@@ -1,5 +1,7 @@
 # feathery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feathery.md)
+
 <p><span class="chinese">谁是长着羽毛的朋友，问问艾尔博就知道了。</span><span class="english">Feathery friends rule. Just ask J.</span></p>
 
 <p><span class="chinese">几片羽毛似的雪花轻轻落下，被车后的气流吹走。</span><span class="english">A few sparse, feathery flakes drifted into our slipstream and were swept away.</span></p>

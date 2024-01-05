@@ -1,5 +1,7 @@
 # contemptible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemptible.md)
+
 <p><span class="chinese">多浪费和可耻啊。</span><span class="english">So wasteful and contemptible.</span></p>
 
 <p><span class="chinese">自私自利的人是可鄙的。</span><span class="english">One who is selfish is contemptible.</span></p>

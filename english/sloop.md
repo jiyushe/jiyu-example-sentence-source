@@ -1,5 +1,7 @@
 # sloop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sloop.md)
+
 <p><span class="chinese">有的单桅帆船也可能会多加一面竞速或航行用的三角帆。</span><span class="english">A sloop may also use a racing or cruising spinnaker.</span></p>
 
 <p><span class="chinese">这是另一个使用百慕大帆的单桅帆船的例子。</span><span class="english">Here’s another example of a sloop with a Bermuda rig.</span></p>

@@ -1,5 +1,7 @@
 # rebelled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebelled.md)
+
 <p><span class="chinese">亚哈死后，摩押背叛以色列。</span><span class="english">After Ahab's death, Moab rebelled against Israel.</span></p>
 
 <p><span class="chinese">当贵族谋反时，国王便出兵打他们。</span><span class="english">When the nobles rebelled , the king battled them.</span></p>

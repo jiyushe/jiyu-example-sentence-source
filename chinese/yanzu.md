@@ -1,5 +1,7 @@
 # 餍足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzu.md)
+
 <p><span class="chinese">真自高餍足再次见到你。</span><span class="english">Nice to see you when more.</span></p>
 
 <p><span class="chinese">学习的仇敌是本身的餍足。</span><span class="english">Domplacency is the enemy of study.</span></p>

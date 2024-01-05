@@ -1,5 +1,7 @@
 # 体态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titai.md)
+
 <p><span class="chinese">轻盈的是你的体态。</span><span class="english">Your posture acts airily.</span></p>
 
 <p><span class="chinese">良好体态对身体有许多益处。</span><span class="english">Good posture has many benefits.</span></p>

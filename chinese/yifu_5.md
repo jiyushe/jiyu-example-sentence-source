@@ -1,5 +1,7 @@
 # 衣服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifu_5.md)
+
 <p><span class="chinese">你会缝衣服吗？</span><span class="english">Can you sew?</span></p>
 
 <p><span class="chinese">将衣服穿好。</span><span class="english">Wear it well.</span></p>

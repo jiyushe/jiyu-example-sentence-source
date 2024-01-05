@@ -1,5 +1,7 @@
 # collaboration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collaboration.md)
+
 <p><span class="chinese">协作是协同的。</span><span class="english">Collaboration is synergistic.</span></p>
 
 <p><span class="chinese">交流和合作。</span><span class="english">Networking and collaboration.</span></p>

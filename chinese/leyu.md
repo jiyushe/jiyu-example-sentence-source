@@ -1,5 +1,7 @@
 # 乐于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leyu.md)
+
 <p><span class="chinese">他只是一个乐于拍马屁的人。</span><span class="english">He's just a brown-noser.</span></p>
 
 <p><span class="chinese">他很乐于这样做。</span><span class="english">And he relished doing this.</span></p>

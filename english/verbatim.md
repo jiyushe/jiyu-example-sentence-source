@@ -1,5 +1,7 @@
 # verbatim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbatim.md)
+
 <p><span class="chinese">逐字写下你偷听到的所有东西。</span><span class="english">Write down everything you overhear verbatim.</span></p>
 
 <p><span class="chinese">但是它的内容却在Facebook上逐字重现。</span><span class="english">But the content reappears verbatim on Facebook.</span></p>

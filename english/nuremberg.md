@@ -1,5 +1,7 @@
 # nuremberg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuremberg.md)
+
 <p><span class="chinese">他们的证词铺平了纽伦堡审判之路。</span><span class="english">Their testimony paved the way to Nuremberg.</span></p>
 
 <p><span class="chinese">德国中东部一城市，位于纽伦堡东北部。</span><span class="english">A city of east-central Germany northeast of Nuremberg.</span></p>

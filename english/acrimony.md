@@ -1,5 +1,7 @@
 # acrimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrimony.md)
+
 <p><span class="chinese">围绕汇率和贸易政策的确存在纠纷.</span><span class="english">The acrimony over currencies and trade policy is real.</span></p>
 
 <p><span class="chinese">一般而言术后7-10天忌食冷饮，一月内忌食辛辣食物。</span><span class="english">In general the 7 to 10 days a month, diet cold drinks diet acrimony food.</span></p>

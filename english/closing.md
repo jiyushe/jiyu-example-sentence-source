@@ -1,5 +1,7 @@
 # closing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closing.md)
+
 <p><span class="chinese">每天关店的时候。</span><span class="english">At closing time everyday.</span></p>
 
 <p><span class="chinese">我忘了我已经关过窗户了。</span><span class="english">I forget closing the window.</span></p>

@@ -1,5 +1,7 @@
 # splashy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splashy.md)
+
 <p><span class="chinese">谁会要这么花哨的裙子？</span><span class="english">Who on earth would want such a splashy dress?</span></p>
 
 <p><span class="chinese">我们都梦想郭作一番大事业，作有意义的事情。</span><span class="english">We dreamed of doing something big of splashy , something significant.</span></p>

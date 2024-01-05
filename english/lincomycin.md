@@ -1,5 +1,7 @@
 # lincomycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lincomycin.md)
+
 <p><span class="chinese">目的推理选育林可霉素高产菌株。</span><span class="english">Aim To rationally breed lincomycin producing strain.</span></p>
 
 <p><span class="chinese">方法用两国药典方法测定盐酸林可霉素含量。</span><span class="english">MethodsThe content of Lincomycin Hydrochloride was determined by HPLC.</span></p>

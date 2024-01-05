@@ -1,5 +1,7 @@
 # denizen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denizen.md)
+
 <p><span class="chinese">在这个国家外籍居民的孩子免费上学。</span><span class="english">In this country children of denizen go to school free.</span></p>
 
 <p><span class="chinese">如今，作为一个老道的酒店常客，用田刚自己的话来说，他也是一个挑剔的人。</span><span class="english">The denizen of luxury hotels is, using his own words, a picky guest.</span></p>

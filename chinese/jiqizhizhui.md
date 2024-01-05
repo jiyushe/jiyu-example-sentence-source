@@ -1,5 +1,7 @@
 # 急起直追
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqizhizhui.md)
+
 <p><span class="chinese">中国在规模和智慧方面可谓急起直追。</span><span class="english">China in both size and wisdom is a phenomenal and urgent opportunity.</span></p>
 
 <p><span class="chinese">但是两星期后戈尔急起直追，有些民意调查还发现戈尔逐步领先了。</span><span class="english">But two weeks later Gore caught up and some polls showed him edging ahead.</span></p>

@@ -1,5 +1,7 @@
 # amazon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amazon.md)
+
 <p><span class="chinese">亚马逊愿望单。</span><span class="english">Amazon wishlist.</span></p>
 
 <p><span class="chinese">亚马逊—杰夫-贝索斯。</span><span class="english">Amazon — Jeff Bezos.</span></p>

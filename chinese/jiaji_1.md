@@ -1,5 +1,7 @@
 # 家鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaji_1.md)
+
 <p><span class="chinese">为什么M村经常夜里家鸡会不翼而飞？</span><span class="english">Why M village often night chicken will take wings to itself?</span></p>
 
 <p><span class="chinese">以家鸡进行安全性试验，无二次中毒现象。</span><span class="english">The safety experiment with chicken had not secondary poisoning.</span></p>

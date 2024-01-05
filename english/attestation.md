@@ -1,5 +1,7 @@
 # attestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attestation.md)
+
 <p><span class="chinese">网站为什么需要网信认证？</span><span class="english">Why does the website need net letter attestation?</span></p>
 
 <p><span class="chinese">这证明了中国艺术与创造力。</span><span class="english">An attestation to the Chinese arts and creativity.</span></p>

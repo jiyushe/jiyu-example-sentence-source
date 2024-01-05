@@ -1,5 +1,7 @@
 # 茅舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoshe.md)
+
 <p><span class="chinese">她引着我们走进一所茅舍。</span><span class="english">She conducted us into a cottage.</span></p>
 
 <p><span class="chinese">这个村庄是由半圆形的茅舍构成的。</span><span class="english">The village was formed of semicircle huts.</span></p>

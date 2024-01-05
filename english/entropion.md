@@ -1,5 +1,7 @@
 # entropion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entropion.md)
+
 <p><span class="chinese">睑内翻和外翻是肯定的品种出现在。</span><span class="english">Entropion and ectropion is certainly seen in the breed.</span></p>
 
 <p><span class="chinese">眼裂过大、眼睑内翻或眼睑外翻都属于缺陷。</span><span class="english">Excessive tearing or evidence of entropion or ectropion is to be penalized.</span></p>

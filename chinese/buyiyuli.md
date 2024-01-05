@@ -1,5 +1,7 @@
 # 不遗余力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyiyuli.md)
+
 <p><span class="chinese">有样学样，我不喜欢，完全否定，不遗余力。</span><span class="english">I hate the man who has no personality.</span></p>
 
 <p><span class="chinese">她不遗余力地提供援助。</span><span class="english">She was unstinting in her efforts to help.</span></p>

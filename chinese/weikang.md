@@ -1,5 +1,7 @@
 # 违抗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weikang.md)
+
 <p><span class="chinese">明迪，你怎敢违抗我。</span><span class="english">Mindy, how dare you defy me.</span></p>
 
 <p><span class="chinese">他总是违抗上级。</span><span class="english">He always defied his superiors.</span></p>

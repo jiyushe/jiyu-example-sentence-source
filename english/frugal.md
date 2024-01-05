@@ -1,5 +1,7 @@
 # frugal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frugal.md)
+
 <p><span class="chinese">旅游与节俭的同伴。</span><span class="english">Travel with frugal companions.</span></p>
 
 <p><span class="chinese">在你的物质生活保持节俭。</span><span class="english">Be frugal in your material life.</span></p>

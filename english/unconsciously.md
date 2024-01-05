@@ -1,5 +1,7 @@
 # unconsciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconsciously.md)
+
 <p><span class="chinese">无意中说漏了嘴。</span><span class="english">I speak it out unconsciously.</span></p>
 
 <p><span class="chinese">我们常常无意识的这么作。</span><span class="english">Often we do this unconsciously.</span></p>

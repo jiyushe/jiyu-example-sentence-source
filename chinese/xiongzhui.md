@@ -1,5 +1,7 @@
 # 胸椎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzhui.md)
+
 <p><span class="chinese">高姿登列出的脊椎，胸椎，腰椎病都有哪些？</span><span class="english">Gordon listed the high position of the spine, thoracic, lumbar What are?</span></p>
 
 <p><span class="chinese">其中的一种选择是将颈椎植入装置延伸至胸椎上。</span><span class="english">One option is to extend cervical implants into the upper thoracic vertebrae.</span></p>

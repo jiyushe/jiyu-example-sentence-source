@@ -1,5 +1,7 @@
 # 版税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshui.md)
+
 <p><span class="chinese">一些站点提供免版税的图像。</span><span class="english">Several sites offer royalty-free graphics.</span></p>
 
 <p><span class="chinese">一些剪贴画需要商业使用版税。</span><span class="english">Some require royalties for commercial use.</span></p>

@@ -1,5 +1,7 @@
 # 深思熟虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensishulv.md)
+
 <p><span class="chinese">深思熟虑不误事。</span><span class="english">Deliberating is not delaying.</span></p>
 
 <p><span class="chinese">对，我会深思熟虑。</span><span class="english">Yeah, I'll take it under advisement.</span></p>

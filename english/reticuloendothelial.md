@@ -1,5 +1,7 @@
 # reticuloendothelial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticuloendothelial.md)
+
 <p><span class="chinese">我们测定了网状内皮系统的吞噬与代谢功能。</span><span class="english">The phagocytic and metabolic functions of the reticuloendothelial system were determined.</span></p>
 
 <p><span class="chinese">这些淋巴结是免疫系统和内皮系统主要部分。</span><span class="english">These nodes represent an integral part of both the immunologic and reticuloendothelial systems.</span></p>

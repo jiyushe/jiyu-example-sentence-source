@@ -1,5 +1,7 @@
 # waterlogged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterlogged.md)
+
 <p><span class="chinese">一根湿漉漉的竹棍就够了。</span><span class="english">A waterlogged stick will do just fine.</span></p>
 
 <p><span class="chinese">那场比赛因场地汪水只好取消。</span><span class="english">The match have to is abandoned because the pitch is waterlogged.</span></p>

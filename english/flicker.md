@@ -1,5 +1,7 @@
 # flicker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flicker.md)
+
 <p><span class="chinese">白色的花在月光下闪烁着。</span><span class="english">To flicker or glimmer, as light.</span></p>
 
 <p><span class="chinese">野芥菜摇曳田垅。</span><span class="english">Wild mustards flicker in the field.</span></p>

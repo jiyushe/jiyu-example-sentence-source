@@ -1,5 +1,7 @@
 # 过眼云烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoyanyunyan.md)
+
 <p><span class="chinese">不过，那对你都是过眼云烟。</span><span class="english">But to you, all are fleeting souls.</span></p>
 
 <p><span class="chinese">大风大浪已是过眼云烟。</span><span class="english">Wind and wave has already was vanish quickly.</span></p>

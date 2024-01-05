@@ -1,5 +1,7 @@
 # 揉搓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roucuo.md)
+
 <p><span class="chinese">揉搓软膏使其渗入皮肤。</span><span class="english">Rub the ointment well in the skin.</span></p>
 
 <p><span class="chinese">请不要因此而揉搓或按压您的眼睛。</span><span class="english">Avoid rubbing or pressing on your eye.</span></p>

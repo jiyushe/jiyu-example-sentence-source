@@ -1,5 +1,7 @@
 # 当耳边风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangerbianfeng.md)
+
 <p><span class="chinese">别把我的劝告当耳边风。</span><span class="english">Don't throw my warnings to the wind.</span></p>
 
 <p><span class="chinese">他把我的话当耳边风。</span><span class="english">He took my words like a passing wind.</span></p>

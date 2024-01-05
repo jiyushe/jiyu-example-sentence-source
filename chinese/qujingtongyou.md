@@ -1,5 +1,7 @@
 # 曲径通幽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qujingtongyou.md)
+
 <p><span class="chinese">曲径通幽山谷尽，溪水蜿蜒声音先。</span><span class="english">A secluded spot, streams, winding valley voice.</span></p>
 
 <p><span class="chinese">在这里可以真正领略曲径通幽的乐趣。</span><span class="english">May understand the sinuous pleasure truly in here.</span></p>

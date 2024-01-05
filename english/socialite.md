@@ -1,5 +1,7 @@
 # socialite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialite.md)
+
 <p><span class="chinese">当局于今晨较早的时间释放了该位社交名流。</span><span class="english">Authorities freed the socialite early this morning.</span></p>
 
 <p><span class="chinese">原来他有点像交际花-那是我的男孩！</span><span class="english">Turns out he's a bit of a socialite – that's my boy!</span></p>

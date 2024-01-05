@@ -1,5 +1,7 @@
 # zealous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zealous.md)
+
 <p><span class="chinese">他那热情但冗长的演讲让我们打哈欠。</span><span class="english">His zealous but long speech made us yawn.</span></p>
 
 <p><span class="chinese">秋秋很兴奋，也就忙得特别起劲。</span><span class="english">Qiuqiu was also quite excited and thus particularly zealous.</span></p>

@@ -1,5 +1,7 @@
 # 烦恼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fannao.md)
+
 <p><span class="chinese">抒解我的烦恼。</span><span class="english">Ease my troubles.</span></p>
 
 <p><span class="chinese">烦恼能杀九命猫。</span><span class="english">Care killed a cat.</span></p>

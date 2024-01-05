@@ -1,5 +1,7 @@
 # 粗鲁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culu.md)
+
 <p><span class="chinese">多麽粗鲁无礼的回答！</span><span class="english">What a rude reply!</span></p>
 
 <p><span class="chinese">不要这样粗鲁！</span><span class="english">Don't be such a boor!</span></p>

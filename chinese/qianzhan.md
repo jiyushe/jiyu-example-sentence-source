@@ -1,5 +1,7 @@
 # 前站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhan.md)
+
 <p><span class="chinese">在公园前站下车。</span><span class="english">Get off at Gongyuanqian Station.</span></p>
 
 <p><span class="chinese">就在相对论的探索前站不住了。</span><span class="english">It breaks down in the face of relativistic exploration.</span></p>

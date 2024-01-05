@@ -1,5 +1,7 @@
 # occupation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupation.md)
+
 <p><span class="chinese">他没有固定职业。</span><span class="english">He has no fixed occupation.</span></p>
 
 <p><span class="chinese">那才是真正的侵占。</span><span class="english">That was the real occupation.</span></p>

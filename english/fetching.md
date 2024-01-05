@@ -1,5 +1,7 @@
 # fetching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetching.md)
+
 <p><span class="chinese">我去拿我的课本。</span><span class="english">I'm fetching my textbook.</span></p>
 
 <p><span class="chinese">猎人用狗去取物。</span><span class="english">Hunters use dogs for fetching.</span></p>

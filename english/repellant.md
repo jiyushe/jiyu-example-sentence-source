@@ -1,5 +1,7 @@
 # repellant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repellant.md)
+
 <p><span class="chinese">那真是一段令人厌烦的经历。</span><span class="english">It was a truly repellant experience.</span></p>
 
 <p><span class="chinese">你需要防晒霜和驱蚊剂。</span><span class="english">You'll need sunscreen and insect repellant.</span></p>

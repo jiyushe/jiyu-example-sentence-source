@@ -1,5 +1,7 @@
 # thermochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermochemistry.md)
+
 <p><span class="chinese">好，让我们来做一些热化学。</span><span class="english">OK, so let's do some thermochemistry.</span></p>
 
 <p><span class="chinese">实际上，这样的物理量在化学热力学中是非常有用的。</span><span class="english">It certainly is, it still is going to be useful to do thermochemistry.</span></p>

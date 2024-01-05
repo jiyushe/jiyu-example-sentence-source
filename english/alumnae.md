@@ -1,5 +1,7 @@
 # alumnae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alumnae.md)
+
 <p><span class="chinese">她希望那些车是她的女校友的。</span><span class="english">She hoped they were alumnae cars.</span></p>
 
 <p><span class="chinese">女校友们两年聚会一次。</span><span class="english">The alumnae chapter gets together twice a year.</span></p>

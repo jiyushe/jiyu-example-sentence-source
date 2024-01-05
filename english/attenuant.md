@@ -1,5 +1,7 @@
 # attenuant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attenuant.md)
+
 <p><span class="chinese">早上空腹喝淡盐水到底好不好？</span><span class="english">Good, OK and attenuant ropy blood, very helpful to health.</span></p>
 
 <p><span class="chinese">饮酒当中来杯酸奶，以稀释酒精的浓度和有毒物质。</span><span class="english">Drink in the center come a cup of yoghurt, with the chroma of attenuant alcohol and toxic substance.</span></p>

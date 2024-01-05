@@ -1,5 +1,7 @@
 # 织女星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinvxing.md)
+
 <p><span class="chinese">坐看牵牛织女星。</span><span class="english">Thunbergia take look at Vega.</span></p>
 
 <p><span class="chinese">七夕节坐着仰望牵牛星和织女星是中国人的一个习俗。</span><span class="english">It is a custom for Chinese to watch the Altair and Vega on the chairs.</span></p>

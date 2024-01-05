@@ -1,5 +1,7 @@
 # 气枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiang.md)
+
 <p><span class="chinese">什么是气枪枪的危险？。</span><span class="english">What Are the Dangers of Airsoft Guns?</span></p>
 
 <p><span class="chinese">什么是最强大的气枪？。</span><span class="english">What Is the Most Powerful Airsoft Gun?</span></p>

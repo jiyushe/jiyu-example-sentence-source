@@ -1,5 +1,7 @@
 # 相通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtong_1.md)
+
 <p><span class="chinese">我们的感情是相通的。</span><span class="english">Our feelings are interlinked.</span></p>
 
 <p><span class="chinese">这扇门与我的房间相通。</span><span class="english">He used force to open the door.</span></p>

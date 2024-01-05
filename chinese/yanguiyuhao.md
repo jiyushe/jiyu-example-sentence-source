@@ -1,5 +1,7 @@
 # 言归于好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanguiyuhao.md)
+
 <p><span class="chinese">吵架最精彩的部分就是过后言归于好。</span><span class="english">The best part of fighting is making up afterwards!</span></p>
 
 <p><span class="chinese">在人死后你就能和他言归于好吗？</span><span class="english">Can you make peace with someone after they're dead?</span></p>

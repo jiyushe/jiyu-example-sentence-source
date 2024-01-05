@@ -1,5 +1,7 @@
 # disneyland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disneyland.md)
+
 <p><span class="chinese">迪斯尼已经成为必须要去的地方。</span><span class="english">Disneyland is a must-see place.</span></p>
 
 <p><span class="chinese">你有否曾访香港迪士尼乐园?。</span><span class="english">Have you ever visited Disneyland?</span></p>

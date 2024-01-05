@@ -1,5 +1,7 @@
 # relieving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relieving.md)
+
 <p><span class="chinese">沙包也可以用来释放压力！</span><span class="english">It's also good for relieving stress!</span></p>
 
 <p><span class="chinese">他把毕生精力贡献给医学研究工作。</span><span class="english">He devotes himself to relieving the distressed.</span></p>

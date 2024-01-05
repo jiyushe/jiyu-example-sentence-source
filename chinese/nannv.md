@@ -1,5 +1,7 @@
 # 男女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nannv.md)
+
 <p><span class="chinese">你们学校是男女合校吗?。</span><span class="english">Is your school coed?</span></p>
 
 <p><span class="chinese">什么，不分男女？</span><span class="english">What,no male and female?</span></p>

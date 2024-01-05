@@ -1,5 +1,7 @@
 # insincere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insincere.md)
+
 <p><span class="chinese">空洞的诺言是无诚意的。</span><span class="english">An empty promise is insincere.</span></p>
 
 <p><span class="chinese">他对这种假惺惺的谄谀不屑一顾。</span><span class="english">He is above the insincere flattery.</span></p>

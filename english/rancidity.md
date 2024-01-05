@@ -1,5 +1,7 @@
 # rancidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rancidity.md)
+
 <p><span class="chinese">苦味通常就是有轻微的腐烂。</span><span class="english">Bitterness is often a sign of a mild rancidity.</span></p>
 
 <p><span class="chinese">黄酒酸败主要是由乳酸杆菌发酵产酸引起的。</span><span class="english">Yellow rice wine rancidity was induced mainly by lactobacillus fermentation.</span></p>

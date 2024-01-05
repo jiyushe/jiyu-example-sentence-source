@@ -1,5 +1,7 @@
 # pertinency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pertinency.md)
+
 <p><span class="chinese">表皮冷却系统针对性可调的安全性。</span><span class="english">Safety, with corium cooling system of pertinency adjustable.</span></p>
 
 <p><span class="chinese">体育教育必须力求实用性和针对性。</span><span class="english">Physical education must strive for practicability and pertinency.</span></p>

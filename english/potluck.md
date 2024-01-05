@@ -1,5 +1,7 @@
 # potluck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potluck.md)
+
 <p><span class="chinese">这是一个聚餐会。</span><span class="english">This is a potluck.</span></p>
 
 <p><span class="chinese">请来吃顿家常便饭。</span><span class="english">Come along and take potluck.</span></p>

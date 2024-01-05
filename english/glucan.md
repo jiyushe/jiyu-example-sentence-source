@@ -1,5 +1,7 @@
 # glucan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glucan.md)
+
 <p><span class="chinese">与β葡聚糖富集速度刺激的刻痕或修理。</span><span class="english">Enriched with Beta Glucan to speed the repair of nicks or irritation.</span></p>
 
 <p><span class="chinese">作者推测这可能与葡聚糖合成的增加有关。</span><span class="english">The structure changes may be due to the increase of glucan synthesis.</span></p>

@@ -1,5 +1,7 @@
 # statistically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statistically.md)
+
 <p><span class="chinese">此种统计是没有意义的。</span><span class="english">statistically insignificant.</span></p>
 
 <p><span class="chinese">泰米说有这样的可能，但是从统计的角度来看又不太可能。</span><span class="english">Tami said it was possible, just statistically unlikely.</span></p>

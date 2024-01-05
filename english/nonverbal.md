@@ -1,5 +1,7 @@
 # nonverbal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonverbal.md)
+
 <p><span class="chinese">首先，我们探讨一些肢体上的征兆。</span><span class="english">First, we'll examine some nonverbal signs of lying.</span></p>
 
 <p><span class="chinese">这样我就能更好地了解那些非语言性的交流了。</span><span class="english">It would've helped me understand some nonverbal cues.</span></p>

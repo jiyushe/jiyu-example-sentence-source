@@ -1,5 +1,7 @@
 # 血迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueji_1.md)
+
 <p><span class="chinese">她双手沾上了血迹。</span><span class="english">Her hands were bloodstained.</span></p>
 
 <p><span class="chinese">他的衬衫上粘有血迹。</span><span class="english">His shirt was besmirched with blood.</span></p>

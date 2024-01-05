@@ -1,5 +1,7 @@
 # 次要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciyao.md)
+
 <p><span class="chinese">你们这次要多谢我。</span><span class="english">You guys owe me bigtime.</span></p>
 
 <p><span class="chinese">阿富汗是次要的。</span><span class="english">Afghanistan is secondary.</span></p>

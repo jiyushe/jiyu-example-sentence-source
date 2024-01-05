@@ -1,5 +1,7 @@
 # 再生产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaishengchan.md)
+
 <p><span class="chinese">生动的再生产带来词和想法给生活。</span><span class="english">The vivid reproductions bring words and ideas to life.</span></p>
 
 <p><span class="chinese">到1987年，该厂就不再生产军用浓缩铀了。</span><span class="english">The plant did not process weapon-grade uranium till 1987.</span></p>

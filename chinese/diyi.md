@@ -1,5 +1,7 @@
 # 地衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyi.md)
+
 <p><span class="chinese">她穿着灰色地衣衣。</span><span class="english">She was dressed in gray.</span></p>
 
 <p><span class="chinese">这个地衣测试是基于颜色数据的。</span><span class="english">The lichen identification was based on color data.</span></p>

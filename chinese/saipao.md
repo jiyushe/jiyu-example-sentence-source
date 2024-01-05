@@ -1,5 +1,7 @@
 # 赛跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saipao.md)
+
 <p><span class="chinese">火柴盒汽车赛跑.</span><span class="english">Race matchbox cars.</span></p>
 
 <p><span class="chinese">生活就像一场赛跑。</span><span class="english">Life is Iike a race.</span></p>

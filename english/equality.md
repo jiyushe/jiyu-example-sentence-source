@@ -1,5 +1,7 @@
 # equality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equality.md)
+
 <p><span class="chinese">那是太牵强的平等。</span><span class="english">That is an equality too far.</span></p>
 
 <p><span class="chinese">公平的机会均等。</span><span class="english">Fair equality of opportunity.</span></p>

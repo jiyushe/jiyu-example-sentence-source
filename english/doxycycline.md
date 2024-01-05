@@ -1,5 +1,7 @@
 # doxycycline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doxycycline.md)
+
 <p><span class="chinese">强力霉素的副作用也最低。</span><span class="english">Doxycycline also caused the lowest side effects.</span></p>
 
 <p><span class="chinese">该菌对四环素、强力霉素、环丙沙星敏感。</span><span class="english">The strains are sensitive to tetracycline, doxycycline and ciprofloxacin.</span></p>

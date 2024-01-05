@@ -1,5 +1,7 @@
 # whirligig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whirligig.md)
+
 <p><span class="chinese">或许吧，命运的改变，谁知道？</span><span class="english">Maybe, the whirligig of time, who knows?</span></p>
 
 <p><span class="chinese">河南内黄孩子和乡村游乐场里的旋转木马。</span><span class="english">The children and whirligig in a village's amusement park.</span></p>

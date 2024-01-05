@@ -1,5 +1,7 @@
 # stomp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomp.md)
+
 <p><span class="chinese">跺你的脚。</span><span class="english">Stomp your feet.</span></p>
 
 <p><span class="chinese">长臂龙喜欢跺脚。</span><span class="english">Brachiosaurus liked to stomp.</span></p>

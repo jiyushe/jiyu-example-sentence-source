@@ -1,5 +1,7 @@
 # bowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowing.md)
+
 <p><span class="chinese">这位小提琴家的弓法极好。</span><span class="english">The violinist's bowing is excellent.</span></p>
 
 <p><span class="chinese">在和我说话的时候，他们不停地鞠躬。</span><span class="english">They kept  bowing when speaking to me.</span></p>

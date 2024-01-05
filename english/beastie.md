@@ -1,5 +1,7 @@
 # beastie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beastie.md)
+
 <p><span class="chinese">节奏肆意地涌动就像野兽男孩他们做的那样。</span><span class="english">It had a mad rock beat like the Beastie Boys.</span></p>
 
 <p><span class="chinese">我不知道你这么喜欢野兽男孩乐团。</span><span class="english">I didn't know you like the Beastie Boys so much.</span></p>

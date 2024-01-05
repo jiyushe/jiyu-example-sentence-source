@@ -1,5 +1,7 @@
 # wideband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wideband.md)
+
 <p><span class="chinese">这种形式的电子商务得益于宽带网。</span><span class="english">This form of e-commerce benefits from wideband access.</span></p>
 
 <p><span class="chinese">本文主要研究宽带相控阵天线。</span><span class="english">Wideband phased-array antenna is studied in this thesis.</span></p>

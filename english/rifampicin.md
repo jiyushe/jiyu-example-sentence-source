@@ -1,5 +1,7 @@
 # rifampicin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rifampicin.md)
+
 <p><span class="chinese">利福平胶囊是一种高效“超广谱”的抗生素药物。</span><span class="english">Rifampicin Capsules is high efficacy broad-spectrum antibiotic.</span></p>
 
 <p><span class="chinese">最后一种被批准的一线结核病药物是20世纪60年代的利福平。</span><span class="english">The last first-line drug approved for TB was rifampicin in the 1960s.</span></p>

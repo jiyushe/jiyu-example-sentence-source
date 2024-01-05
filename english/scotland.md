@@ -1,5 +1,7 @@
 # scotland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scotland.md)
+
 <p><span class="chinese">在苏格兰，有格拉斯哥大学。</span><span class="english">There's Glasgow in Scotland.</span></p>
 
 <p><span class="chinese">英格兰北界苏格兰。</span><span class="english">England is south of Scotland.</span></p>

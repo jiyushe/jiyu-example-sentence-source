@@ -1,5 +1,7 @@
 # 一望无际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwangwuji.md)
+
 <p><span class="chinese">一望无际的大海——只愿我能渡到你的彼岸。</span><span class="english">So wide a sea, may I overcome.</span></p>
 
 <p><span class="chinese">我行走在一望无际的秋野上。</span><span class="english">I was walking on an endless field.</span></p>

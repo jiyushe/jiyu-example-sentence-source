@@ -1,5 +1,7 @@
 # commutation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commutation.md)
+
 <p><span class="chinese">非经法定程序不得减刑。</span><span class="english">No commutation shall be decided unless by a legal procedure.</span></p>
 
 <p><span class="chinese">换相失败是直流系统的最常见故障之一。</span><span class="english">Commutation failures are one of the common faults in HVDC systems.</span></p>

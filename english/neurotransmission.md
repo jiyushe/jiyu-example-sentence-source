@@ -1,5 +1,7 @@
 # neurotransmission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotransmission.md)
+
 <p><span class="chinese">神经传递功能重建及运动功能重新恢复。</span><span class="english">The restoration of functional neurotransmission and the recovery of function.</span></p>
 
 <p><span class="chinese">但这些淀粉样变的蛋白是如何中断神经传导尚不得而知。</span><span class="english">But how exactly these poisonous proteins disrupt neurotransmission is unknown.</span></p>

@@ -1,5 +1,7 @@
 # 活活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohuo.md)
+
 <p><span class="chinese">这些细菌活活被吞噬。</span><span class="english">The germs are ingested alive.</span></p>
 
 <p><span class="chinese">接二连三的返修简直活活要了尼克的命。</span><span class="english">THE RECHECKS WERE eating Nick alive.</span></p>

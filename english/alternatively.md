@@ -1,5 +1,7 @@
 # alternatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternatively.md)
+
 <p><span class="chinese">阅读或者看我们的网拍的评论。</span><span class="english">Read alternatively watch our racquet reviews.</span></p>
 
 <p><span class="chinese">爱情，嘦么让人成熟，嘦么让人堕落。</span><span class="english">Love makes man grow up alternatively sink down.</span></p>

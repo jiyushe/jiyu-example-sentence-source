@@ -1,5 +1,7 @@
 # harassed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harassed.md)
+
 <p><span class="chinese">该村村民常常受到土匪的侵扰。</span><span class="english">The villagers were harassed by the bandits.</span></p>
 
 <p><span class="chinese">经理不断地骚扰新来的销售员，直到他辞职为止。</span><span class="english">The manager harassed the new salesperson until he quit.</span></p>

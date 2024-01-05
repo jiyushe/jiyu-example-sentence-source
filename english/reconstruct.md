@@ -1,5 +1,7 @@
 # reconstruct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconstruct.md)
+
 <p><span class="chinese">残喉创面修复用双蒂肌软骨膜瓣重建喉功能。</span><span class="english">Bi-pedicle muscular flap were used to reconstruct the larynx.</span></p>
 
 <p><span class="chinese">因为您希望能够在以后再现已经发生的操作。</span><span class="english">Because you want to be able to reconstruct what happened later.</span></p>

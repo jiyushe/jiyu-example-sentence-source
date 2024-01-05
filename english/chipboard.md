@@ -1,5 +1,7 @@
 # chipboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chipboard.md)
+
 <p><span class="chinese">锯木屑则送到硬纸板工厂。</span><span class="english">The sawdust goes to the chipboard industry.</span></p>
 
 <p><span class="chinese">用于贴面刨花板和中密度板的钻孔和裁切。</span><span class="english">Boring and sizing paper laminated chipboard and MDF panels.</span></p>

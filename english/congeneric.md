@@ -1,5 +1,7 @@
 # congeneric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congeneric.md)
+
 <p><span class="chinese">是与茉莉不同属的异种植物。</span><span class="english">It is not as congeneric as jasmine heterogeneous plant.</span></p>
 
 <p><span class="chinese">希望能为同类工程提供一些参考。</span><span class="english">Hope that some references may be obtained for the congeneric engineering.</span></p>

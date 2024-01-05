@@ -1,5 +1,7 @@
 # endurance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endurance.md)
+
 <p><span class="chinese">宽容是真爱之流露。</span><span class="english">Endurance is an expression of love.</span></p>
 
 <p><span class="chinese">绿色暗示着稳定性和耐性。</span><span class="english">Green suggests stability and endurance.</span></p>

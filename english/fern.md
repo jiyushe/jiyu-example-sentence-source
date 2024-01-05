@@ -1,5 +1,7 @@
 # fern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fern.md)
+
 <p><span class="chinese">你喜欢凤尾竹吗？</span><span class="english">Do you like fern leaf bamboo?</span></p>
 
 <p><span class="chinese">芬趴在房门口往里窥视。</span><span class="english">Fern peered through the door.</span></p>

@@ -1,5 +1,7 @@
 # porch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porch.md)
+
 <p><span class="chinese">她跑到她家的门廊。</span><span class="english">She runs to her porch.</span></p>
 
 <p><span class="chinese">进门处有个门廊。</span><span class="english">A porch prefaces the entrance.</span></p>

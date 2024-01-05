@@ -1,5 +1,7 @@
 # explosive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explosive.md)
+
 <p><span class="chinese">一个煤气管爆炸了。</span><span class="english">A gas pipe was explosive.</span></p>
 
 <p><span class="chinese">它是爆炸式的喷发。</span><span class="english">It’s an explosive eruption.</span></p>

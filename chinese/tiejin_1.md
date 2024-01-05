@@ -1,5 +1,7 @@
 # 贴金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiejin_1.md)
+
 <p><span class="chinese">贴金箔是怎么贴上去的？</span><span class="english">Gilding is posted up how?</span></p>
 
 <p><span class="chinese">政客和权威们同样地把它作为自己工作而为其贴金。</span><span class="english">Politicians and pundits alike took it as their job to apply balm.</span></p>

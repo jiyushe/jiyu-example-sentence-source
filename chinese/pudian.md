@@ -1,5 +1,7 @@
 # 铺垫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pudian.md)
+
 <p><span class="chinese">用羽毛来铺垫自己的巢。</span><span class="english">To feather one's own nest.</span></p>
 
 <p><span class="chinese">这一章在本文中起铺垫作用。</span><span class="english">The paper consists of five chapters.</span></p>

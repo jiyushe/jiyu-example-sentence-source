@@ -1,5 +1,7 @@
 # microcomputer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcomputer.md)
+
 <p><span class="chinese">单芯片16位CMOS单片机。</span><span class="english">Single chip 16-bit CMOS microcomputer.</span></p>
 
 <p><span class="chinese">这台微电脑有点毛病。</span><span class="english">Something is wrong with this microcomputer.</span></p>

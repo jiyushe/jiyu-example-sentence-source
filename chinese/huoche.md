@@ -1,5 +1,7 @@
 # 火车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoche.md)
+
 <p><span class="chinese">咣当一声，火车撞了。</span><span class="english">Bang! Train hits.</span></p>
 
 <p><span class="chinese">他乘上一列火车。</span><span class="english">He got on a train.</span></p>

@@ -1,5 +1,7 @@
 # limiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limiting.md)
+
 <p><span class="chinese">这种极限情况是什么？</span><span class="english">What was the limiting case?</span></p>
 
 <p><span class="chinese">镁是极限反应物。</span><span class="english">Mag is the limiting reagent.</span></p>

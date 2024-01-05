@@ -1,5 +1,7 @@
 # nosing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosing.md)
+
 <p><span class="chinese">你应该制止他到处打探的作法。</span><span class="english">You'd better stop him nosing about.</span></p>
 
 <p><span class="chinese">出了什麽事？我看到有记者在打听消息。</span><span class="english">What happened? I saw some reporters nosing around.</span></p>

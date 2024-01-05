@@ -1,5 +1,7 @@
 # 遭遇战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyuzhan.md)
+
 <p><span class="chinese">难道，这是心灵和思想的遭遇战？</span><span class="english">It is a fight between my heart and my mind?</span></p>
 
 <p><span class="chinese">到底是什麽，让遭遇战变得如此特别？</span><span class="english">What makes the new skirmish game mode so unique?</span></p>

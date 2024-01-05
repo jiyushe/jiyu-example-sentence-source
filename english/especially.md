@@ -1,5 +1,7 @@
 # especially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/especially.md)
+
 <p><span class="chinese">特别是鲑鱼。</span><span class="english">Especially the salmon.</span></p>
 
 <p><span class="chinese">尤其是在比赛中。</span><span class="english">Especially at the race.</span></p>

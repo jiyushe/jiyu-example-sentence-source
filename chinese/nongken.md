@@ -1,5 +1,7 @@
 # 农垦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongken.md)
+
 <p><span class="chinese">这里孕育着农垦人的神奇与希望。</span><span class="english">Here gestates and land reclamation of magic and hope.</span></p>
 
 <p><span class="chinese">各农垦公司正在争夺可能到手的每一英亩土地。</span><span class="english">Corporate farmers are scrambling for every acre of land they can get.</span></p>

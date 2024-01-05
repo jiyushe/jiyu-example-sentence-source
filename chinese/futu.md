@@ -1,5 +1,7 @@
 # 浮土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/futu.md)
+
 <p><span class="chinese">浮土积卑丘，葬石砌城骨。</span><span class="english">The surface integral low mounds, burial stone city bone.</span></p>
 
 <p><span class="chinese">去除所有的浮土、污垢、油污和松动涂层。</span><span class="english">Remove all lose material, fouling , grease and lose coating.</span></p>

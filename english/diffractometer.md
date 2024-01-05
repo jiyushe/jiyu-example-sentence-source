@@ -1,5 +1,7 @@
 # diffractometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffractometer.md)
+
 <p><span class="chinese">这种技术可在普通衍射仪上进行。</span><span class="english">The measuring technique can be carried out with an ordinary diffractometer.</span></p>
 
 <p><span class="chinese">利用电镜和X衍射对镍膜的结构进行了分析。</span><span class="english">The structure of nickel film is analyzed by using SEM and X-ray diffractometer.</span></p>

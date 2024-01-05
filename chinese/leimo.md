@@ -1,5 +1,7 @@
 # 肋膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leimo.md)
+
 <p><span class="chinese">肋膜积液细菌培养呈现克雷白氏肺炎菌的感染。</span><span class="english">Culture of the pleural fluid grew Klebsiella pneumoniae.</span></p>
 
 <p><span class="chinese">而肋膜积水则和白蛋白、SGOT、胆红素皆无关连。</span><span class="english">The pleural effusion was not related to albumin, SGOT or bilirubin.</span></p>

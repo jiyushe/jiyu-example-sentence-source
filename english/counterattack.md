@@ -1,5 +1,7 @@
 # counterattack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterattack.md)
+
 <p><span class="chinese">削球稳且反攻凶狠。</span><span class="english">Chopping stability and vicious counterattack.</span></p>
 
 <p><span class="chinese">反击几乎立刻就开始了。</span><span class="english">The counterattack started almost immediately.</span></p>

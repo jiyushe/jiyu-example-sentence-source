@@ -1,5 +1,7 @@
 # scrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrum.md)
+
 <p><span class="chinese">每天举行一个小会。</span><span class="english">A daily scrum meeting was held.</span></p>
 
 <p><span class="chinese">这可能是使用Scrum的一个很好的机会。</span><span class="english">This might be a neat opportunity to use Scrum.</span></p>

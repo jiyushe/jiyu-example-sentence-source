@@ -1,5 +1,7 @@
 # 河湾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hewan.md)
+
 <p><span class="chinese">河面突然变宽，形成了一个宽阔的河湾。</span><span class="english">The river opens up suddenly into a broad estuary.</span></p>
 
 <p><span class="chinese">深圳河湾污水截排工程投资超过人民币5亿元。</span><span class="english">Investment on Shenzhen Hewan Sewage Run-off is over 500 million RMB.</span></p>

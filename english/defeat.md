@@ -1,5 +1,7 @@
 # defeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defeat.md)
+
 <p><span class="chinese">接受失败。</span><span class="english">Accept defeat.</span></p>
 
 <p><span class="chinese">因战败而绝望。</span><span class="english">Despair in Defeat.</span></p>

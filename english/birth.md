@@ -1,5 +1,7 @@
 # birth 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birth.md)
+
 <p><span class="chinese">谁给我的诞生呢？</span><span class="english">Whw gives me birth?</span></p>
 
 <p><span class="chinese">出生日期就是其一。</span><span class="english">Date of birth is one.</span></p>

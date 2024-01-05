@@ -1,5 +1,7 @@
 # variance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variance.md)
+
 <p><span class="chinese">这就是方差</span><span class="english">So, that's the variance.</span></p>
 
 <p><span class="chinese">这就是样本方差</span><span class="english">That is the sample variance.</span></p>

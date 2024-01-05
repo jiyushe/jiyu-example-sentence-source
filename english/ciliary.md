@@ -1,5 +1,7 @@
 # ciliary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ciliary.md)
+
 <p><span class="chinese">睫状肌痉挛松弛。</span><span class="english">The ciliary spasm relaxes.</span></p>
 
 <p><span class="chinese">虹膜固定在睫状体上。</span><span class="english">The iris is fixed to the ciliary body.</span></p>

@@ -1,5 +1,7 @@
 # unemployed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unemployed.md)
+
 <p><span class="chinese">她继续说，这么说你是无业游民。</span><span class="english">She said "Oh! So you're unemployed."</span></p>
 
 <p><span class="chinese">我们对失业的朋友深表同情。</span><span class="english">We feel empathy for my unemployed friend.</span></p>

@@ -1,5 +1,7 @@
 # kidnapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kidnapping.md)
+
 <p><span class="chinese">他因绑架而被捕。</span><span class="english">He got done for kidnapping.</span></p>
 
 <p><span class="chinese">绑架，甚至谋杀。</span><span class="english">Kidnapping and even murder.</span></p>

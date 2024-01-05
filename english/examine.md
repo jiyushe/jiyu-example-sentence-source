@@ -1,5 +1,7 @@
 # examine 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/examine.md)
+
 <p><span class="chinese">检查结果。</span><span class="english">Examine the results.</span></p>
 
 <p><span class="chinese">定期检查你的生活。</span><span class="english">Examine your life regularly.</span></p>

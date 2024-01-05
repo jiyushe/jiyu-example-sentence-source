@@ -1,5 +1,7 @@
 # 侧身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceshen.md)
+
 <p><span class="chinese">她侧身倚在情人的手臂上。</span><span class="english">She leaned on her lover's arm.</span></p>
 
 <p><span class="chinese">它也就侧身向前去倾听。</span><span class="english">It leans, and harkens after it.</span></p>

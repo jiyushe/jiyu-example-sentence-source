@@ -1,5 +1,7 @@
 # 郁郁不乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyubule.md)
+
 <p><span class="chinese">我失败后感到郁郁不乐。</span><span class="english">I felt blue when I failed.</span></p>
 
 <p><span class="chinese">在珂赛特那一面，她终日郁郁不乐。</span><span class="english">On her side, Cosette languished.</span></p>

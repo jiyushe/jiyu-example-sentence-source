@@ -1,5 +1,7 @@
 # ups
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ups.md)
+
 <p><span class="chinese">他有过自得之时，也有过倒运之日。</span><span class="english">He had his ups and downs.</span></p>
 
 <p><span class="chinese">人的一生中难免有浮沉之时。</span><span class="english">Life has its ups and downs.</span></p>

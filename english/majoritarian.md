@@ -1,5 +1,7 @@
 # majoritarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/majoritarian.md)
+
 <p><span class="chinese">就数目多寡而言，电影赢了。</span><span class="english">On majoritarian grounds, the movies win.</span></p>
 
 <p><span class="chinese">就数量多寡而言，电影赢了。</span><span class="english">On majoritarian grounds, the movies win.</span></p>

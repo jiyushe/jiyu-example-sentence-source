@@ -1,5 +1,7 @@
 # smoking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoking.md)
+
 <p><span class="chinese">我讨厌抽烟。</span><span class="english">I hate smoking.</span></p>
 
 <p><span class="chinese">我爱抽烟。</span><span class="english">I love smoking.</span></p>

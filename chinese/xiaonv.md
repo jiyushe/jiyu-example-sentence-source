@@ -1,5 +1,7 @@
 # 小女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaonv.md)
+
 <p><span class="chinese">我想念我癞蛤蟆小女朋友。</span><span class="english">I am missing my toad girlfriend.</span></p>
 
 <p><span class="chinese">小女生的情歌。软软的果冻。</span><span class="english">Little girls love song. Soft jelly.</span></p>

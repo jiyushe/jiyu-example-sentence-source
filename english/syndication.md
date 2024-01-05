@@ -1,5 +1,7 @@
 # syndication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syndication.md)
+
 <p><span class="chinese">这将提供聚合和语义双重好处。</span><span class="english">This provides the double-edged benefit of syndication with semantics.</span></p>
 
 <p><span class="chinese">为了避免这些类型的问题和丢失数据的可能性，可使用联合。</span><span class="english">To avoid these types of problems and the possible loss of data, use syndication.</span></p>

@@ -1,5 +1,7 @@
 # prolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolate.md)
+
 <p><span class="chinese">这些胶粉可以是球形，也可以是长球或扁球形。</span><span class="english">The colloidal particles may be spheroids, prolate spheroids or oblate spheroids.</span></p>
 
 <p><span class="chinese">非球面人工晶状体较传统球面人工晶状体可明显改善白内障患者的视功能。</span><span class="english">The modified prolate anterior surface IOLs can provide a better vision function than the spherical IOLs.</span></p>

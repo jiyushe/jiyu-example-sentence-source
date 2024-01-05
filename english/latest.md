@@ -1,5 +1,7 @@
 # latest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latest.md)
+
 <p><span class="chinese">这是最新柏的电影。</span><span class="english">This is her latest film.</span></p>
 
 <p><span class="chinese">这是最流行的技俩。</span><span class="english">That's the latest fashion.</span></p>

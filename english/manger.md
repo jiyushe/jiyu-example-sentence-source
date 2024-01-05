@@ -1,5 +1,7 @@
 # manger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manger.md)
+
 <p><span class="chinese">他是经理助理。</span><span class="english">He is the manger assistant.</span></p>
 
 <p><span class="chinese">你真是个站着茅坑不拉屎的人啊。</span><span class="english">I am as a dog in the manger.</span></p>

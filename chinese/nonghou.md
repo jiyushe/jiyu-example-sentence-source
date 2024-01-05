@@ -1,5 +1,7 @@
 # 浓厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonghou.md)
+
 <p><span class="chinese">玄冥中上帝的存在和浓厚的神恩。</span><span class="english">For the end of Being and ideal Grace.</span></p>
 
 <p><span class="chinese">茶香奶味，滑香浓厚的口感。</span><span class="english">Naiwei tea, incense slip strong taste.</span></p>

@@ -1,5 +1,7 @@
 # 和面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huomian.md)
+
 <p><span class="chinese">把糖和面粉和在一起。</span><span class="english">Blend the sugar and flour.</span></p>
 
 <p><span class="chinese">他们将混饨和面一起吃。</span><span class="english">They eat wontons with noodles.</span></p>

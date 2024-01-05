@@ -1,5 +1,7 @@
 # 男声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nansheng.md)
+
 <p><span class="chinese">低沉的男声利于女性记忆</span><span class="english">Deep male voice helps women remember</span></p>
 
 <p><span class="chinese">“呼吸，”一个使人镇静的男声回答道。</span><span class="english">"Breathe," replied a soothing male voice.</span></p>

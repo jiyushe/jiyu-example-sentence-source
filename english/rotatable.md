@@ -1,5 +1,7 @@
 # rotatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotatable.md)
+
 <p><span class="chinese">全部的座位都更加宽敞，都可旋转。</span><span class="english">All of the seats are more spacious and rotatable.</span></p>
 
 <p><span class="chinese">工具可旋转地安装在机床上。</span><span class="english">Its tool is rotatable and installed on the machine tool.</span></p>

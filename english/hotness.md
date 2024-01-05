@@ -1,5 +1,7 @@
 # hotness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotness.md)
+
 <p><span class="chinese">这些食物减少暑热和燥。</span><span class="english">These foods reduce the hotness and dryness.</span></p>
 
 <p><span class="chinese">血，血的炙热，血的湿润，血的闪亮。</span><span class="english">The hotness of it, the wetness, the brightness.</span></p>

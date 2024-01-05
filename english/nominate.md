@@ -1,5 +1,7 @@
 # nominate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nominate.md)
+
 <p><span class="chinese">我提名比尔为俱乐部主席候选人。</span><span class="english">I nominate Bill as the club president.</span></p>
 
 <p><span class="chinese">他们任命李先生为科长。</span><span class="english">They nominate Mr.Li head of the section.</span></p>

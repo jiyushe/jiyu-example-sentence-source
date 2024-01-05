@@ -1,5 +1,7 @@
 # autotransformer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autotransformer.md)
+
 <p><span class="chinese">而自耦变压器中性点调压则会带来相关调压问题。</span><span class="english">But there is a problem of related voltage change for an autotransformer.</span></p>
 
 <p><span class="chinese">选用三相自耦式变压器，纯电阻负载为对象进行模拟实验。</span><span class="english">Three-phase autotransformer with pure resistor load is chosed for the simulation experiments.</span></p>

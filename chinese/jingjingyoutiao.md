@@ -1,5 +1,7 @@
 # 井井有条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjingyoutiao.md)
+
 <p><span class="chinese">我们尽量保持船井井有条。</span><span class="english">We try to keep the ship shipshape.</span></p>
 
 <p><span class="chinese">一开始，一切似乎进行得井井有条。</span><span class="english">And it all seemed to begin so well.</span></p>

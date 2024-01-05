@@ -1,5 +1,7 @@
 # 茉莉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moli.md)
+
 <p><span class="chinese">茉莉照顾让佳。</span><span class="english">Jasmine took good care of Rajah.</span></p>
 
 <p><span class="chinese">茉莉拿掉了盖在礼物上的红床单。</span><span class="english">Jasmine pulled off the red sheet.</span></p>

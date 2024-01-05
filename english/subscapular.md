@@ -1,5 +1,7 @@
 # subscapular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subscapular.md)
+
 <p><span class="chinese">旋肱后动脉大多与肩胛下动脉共干。</span><span class="english">The posterior humeral circumflex artery common arises from the subscapular artery mostly.</span></p>
 
 <p><span class="chinese">在切断肩胛下肌时，应使肩关节处于内收外旋位。</span><span class="english">When the subscapular muscle, is cut the shoulder joint must be at adduction and extorsion.</span></p>

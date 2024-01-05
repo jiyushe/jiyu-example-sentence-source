@@ -1,5 +1,7 @@
 # 歇工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiegong.md)
+
 <p><span class="chinese">工人在歇工。</span><span class="english">The workmen are out.</span></p>
 
 <p><span class="chinese">矿工发起了一场歇工。</span><span class="english">The miners launched a strike.</span></p>

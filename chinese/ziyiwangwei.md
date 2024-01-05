@@ -1,5 +1,7 @@
 # 恣意妄为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyiwangwei.md)
+
 <p><span class="chinese">政府恣意妄为不顾人民的权利。</span><span class="english">The government is riding roughshod over the people's rights.</span></p>
 
 <p><span class="chinese">他还与中国一起，对恣意妄为的朝鲜实施新的制裁。</span><span class="english">He worked with China to get new sanctions on rogue North Korea.</span></p>

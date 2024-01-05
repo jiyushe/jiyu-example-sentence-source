@@ -1,5 +1,7 @@
 # 媚俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meisu.md)
+
 <p><span class="chinese">否则，即使采用了前卫的形式，也仅是媚俗的伪艺术。</span><span class="english">Otherwise, although in avantgarde form, it is but Kitsch.</span></p>
 
 <p><span class="chinese">他媚俗男女这项真棒看片，他称之为的MID。</span><span class="english">He's kitsched up this awesome looking piece which he calls the MID.</span></p>

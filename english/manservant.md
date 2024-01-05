@@ -1,5 +1,7 @@
 # manservant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manservant.md)
+
 <p><span class="chinese">夫人，那是特雷西先生的忠实男仆，凯拉诺。</span><span class="english">Milady that's mr. tracy's loyal manservant kyrano.</span></p>
 
 <p><span class="chinese">荷马扬叔叔和他的男仆占着整个顶楼。</span><span class="english">Uncle Homayoun and his manservant occupied the entire upstairs.</span></p>

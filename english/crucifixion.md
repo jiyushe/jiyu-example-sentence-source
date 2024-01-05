@@ -1,5 +1,7 @@
 # crucifixion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crucifixion.md)
+
 <p><span class="chinese">十字架上的苦痛才会带来耶稣复活。</span><span class="english">Out of crucifixion comes resurrection.</span></p>
 
 <p><span class="chinese">Sananda引导基督走向受难。</span><span class="english">Sananda lead Christ to his crucifixion.</span></p>

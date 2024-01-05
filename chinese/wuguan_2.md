@@ -1,5 +1,7 @@
 # 武馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguan_2.md)
+
 <p><span class="chinese">眼看武馆馆主将要反败为胜。</span><span class="english">See the martial arts will be crowned and win the game.</span></p>
 
 <p><span class="chinese">您能不能谈谈香港武馆的一些情况？</span><span class="english">Well, could you please say something about Kung Fu classes in HongKong?</span></p>

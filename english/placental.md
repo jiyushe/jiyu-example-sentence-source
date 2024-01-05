@@ -1,5 +1,7 @@
 # placental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placental.md)
+
 <p><span class="chinese">我甚至不确定“胎液”到底指的是什么。</span><span class="english">I am not even certain what is meant by placental fluid.</span></p>
 
 <p><span class="chinese">病理检查胎盘蜕膜细胞、绒毛膜滋养层细胞变性坏死。</span><span class="english">The placental decidua cells and villi ceil degenerated with necrosis.</span></p>

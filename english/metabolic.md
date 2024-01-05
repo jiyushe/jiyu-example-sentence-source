@@ -1,5 +1,7 @@
 # metabolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metabolic.md)
+
 <p><span class="chinese">她患的是代谢紊乱。</span><span class="english">She has a metabolic disorder.</span></p>
 
 <p><span class="chinese">患有糖尿病或其他慢性代谢性疾病。</span><span class="english">Have diabetes or another chronic metabolic disorder.</span></p>

@@ -1,5 +1,7 @@
 # shasta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shasta.md)
+
 <p><span class="chinese">沙斯塔滑雪场滑雪区。</span><span class="english">Shasta Ski Resort ski area.</span></p>
 
 <p><span class="chinese">“你是谁呢？”沙斯塔问道。</span><span class="english">"Who are you?" asked Shasta.</span></p>

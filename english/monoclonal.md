@@ -1,5 +1,7 @@
 # monoclonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monoclonal.md)
+
 <p><span class="chinese">抗毒死蜱单克隆抗体的研制。</span><span class="english">Study on the monoclonal antibody to chlorpyrifos.</span></p>
 
 <p><span class="chinese">以单克隆抗体为基础的斑点ELISA和夹心ELISA。</span><span class="english">Monoclonal antibody-based dot-ELISA and sandwich ELISA.</span></p>

@@ -1,5 +1,7 @@
 # wednesday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wednesday.md)
+
 <p><span class="chinese">今天星期三是斋期开始。</span><span class="english">It's Ash Wednesday.</span></p>
 
 <p><span class="chinese">四旬斋在开始于圣灰星期三。</span><span class="english">It begins on Ash Wednesday.</span></p>

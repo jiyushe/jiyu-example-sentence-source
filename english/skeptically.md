@@ -1,5 +1,7 @@
 # skeptically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeptically.md)
+
 <p><span class="chinese">我用怀疑的目光地看着他。</span><span class="english">I looked at him skeptically.</span></p>
 
 <p><span class="chinese">我怀疑地听着广播。</span><span class="english">I had listened skeptically to the broadcast.</span></p>

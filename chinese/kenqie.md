@@ -1,5 +1,7 @@
 # 恳切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kenqie.md)
+
 <p><span class="chinese">我恳切地请求你原谅。</span><span class="english">I earnestly pray for your pardon.</span></p>
 
 <p><span class="chinese">他们通常心如止水，诚挚恳切。</span><span class="english">Usually they are calm and sincere.</span></p>

@@ -1,5 +1,7 @@
 # 传染病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanranbing.md)
+
 <p><span class="chinese">简直就是全球传染病。</span><span class="english">It's literally global epidemic.</span></p>
 
 <p><span class="chinese">发烧常常是传染病的征兆。</span><span class="english">A fever often denotes an infection.</span></p>

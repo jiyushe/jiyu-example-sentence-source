@@ -1,5 +1,7 @@
 # 言不由衷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbuyouzhong.md)
+
 <p><span class="chinese">太多话，我们言不由衷。</span><span class="english">Too the loquacity, speaks insincerely.</span></p>
 
 <p><span class="chinese">我和他之间的暧昧都是言不由衷。</span><span class="english">He and I are ambiguous between the insincerely.</span></p>

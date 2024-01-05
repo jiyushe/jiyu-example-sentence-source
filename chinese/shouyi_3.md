@@ -1,5 +1,7 @@
 # 授意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyi_3.md)
+
 <p><span class="chinese">参议会曾经授意建造复制军队队吗?。</span><span class="english">Did the council ever authorize the creation of a clone army?</span></p>
 
 <p><span class="chinese">在杰克授意下，尼娜安排托尼去设法查看达塞特的档案。</span><span class="english">Jack requests that Nina get Tony to access the Darcet files.</span></p>

@@ -1,5 +1,7 @@
 # 非同小可
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feitongxiaoke.md)
+
 <p><span class="chinese">要成为一个神憎鬼厌的人物，要有非同小可的才干。</span><span class="english">It requires no small talent to be a deciding bear.</span></p>
 
 <p><span class="chinese">这件事非同小可，不能轻举妄动。</span><span class="english">This is not a trivial matter,don't be indiscretion.</span></p>

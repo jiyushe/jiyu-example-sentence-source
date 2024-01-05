@@ -1,5 +1,7 @@
 # 销声匿迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshengniji_1.md)
+
 <p><span class="chinese">在事实面前谣言只得销声匿迹。</span><span class="english">The rumour had to disappear before facts.</span></p>
 
 <p><span class="chinese">随后betamax制式从所有非专业应用领域中销声匿迹。</span><span class="english">Betamax disappeared from all but professional use.</span></p>

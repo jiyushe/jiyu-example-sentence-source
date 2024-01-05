@@ -1,5 +1,7 @@
 # nonage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonage.md)
+
 <p><span class="chinese">这一结论可为林木早期选择提供初步依据。</span><span class="english">The conclusion provides primary bases for forest nonage selection.</span></p>
 
 <p><span class="chinese">未成年人不能进酒吧可不在他们顾忌范围内。</span><span class="english">The nonage can not enter bar to not have scruples about inside the scope by them.</span></p>

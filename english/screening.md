@@ -1,5 +1,7 @@
 # screening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screening.md)
+
 <p><span class="chinese">在做掩护方面，博古特一直做得很好。</span><span class="english">Andrew's been pretty good at screening.</span></p>
 
 <p><span class="chinese">动作迅速意味的是没有筛选。</span><span class="english">Moving quickly means there is no screening.</span></p>

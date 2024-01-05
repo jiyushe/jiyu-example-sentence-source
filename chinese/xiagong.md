@@ -1,5 +1,7 @@
 # 夏宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiagong.md)
+
 <p><span class="chinese">一座夏宫半掩在大树的怀抱里。</span><span class="english">A summer palace was half bosomed in trees.</span></p>
 
 <p><span class="chinese">教皇正在其夏宫向朝圣者布教。</span><span class="english">The pontiff was speaking to pilgrims at his summer palace.</span></p>

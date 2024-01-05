@@ -1,5 +1,7 @@
 # 引言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyan.md)
+
 <p><span class="chinese">两个引言。</span><span class="english">Two quotes.</span></p>
 
 <p><span class="chinese">这还有一句引言。</span><span class="english">Here's another quote.</span></p>

@@ -1,5 +1,7 @@
 # allegory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegory.md)
+
 <p><span class="chinese">“天路历程”为一寓言故事。</span><span class="english">"Pilgrim's progress" is an allegory.</span></p>
 
 <p><span class="chinese">你从这个寓言里学到了什么？</span><span class="english">What did you learn from this allegory?</span></p>

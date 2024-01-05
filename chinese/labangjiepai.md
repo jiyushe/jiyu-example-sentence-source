@@ -1,5 +1,7 @@
 # 拉帮结派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/labangjiepai.md)
+
 <p><span class="chinese">他们拉帮结派，狼狈为奸。</span><span class="english">They ganged up and acted in collusion with each other.</span></p>
 
 <p><span class="chinese">他说，有人开始离职，公司内部也出现了拉帮结派的现象。</span><span class="english">We had people derailing . And we were starting to see factions develop.</span></p>

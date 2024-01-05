@@ -1,5 +1,7 @@
 # darkling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darkling.md)
+
 <p><span class="chinese">而我们在此也如同身处暗夜的平原</span><span class="english">And we are here as on a darkling plain</span></p>
 
 <p><span class="chinese">爱情只是那一小团悬浮在坟墓上的烛火。</span><span class="english">A darkling fire, faint hovering o'er a tomb.</span></p>

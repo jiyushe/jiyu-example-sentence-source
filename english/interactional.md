@@ -1,5 +1,7 @@
 # interactional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interactional.md)
+
 <p><span class="chinese">大多数交互性网站实际兼而有之。</span><span class="english">Most interactional sites are actually hybrids.</span></p>
 
 <p><span class="chinese">信息性和交互性站点如何区分</span><span class="english">How informational and interactional sites differ</span></p>

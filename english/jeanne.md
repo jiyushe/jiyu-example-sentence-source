@@ -1,5 +1,7 @@
 # jeanne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeanne.md)
+
 <p><span class="chinese">但我的表妹简妮却没有如此幸运。</span><span class="english">But my cousin Jeanne was not so fortunate.</span></p>
 
 <p><span class="chinese">亨利和珍妮彼此一见倾心。</span><span class="english">Henry and Jeanne take a shine to each other.</span></p>

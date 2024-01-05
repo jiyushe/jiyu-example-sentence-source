@@ -1,5 +1,7 @@
 # 进士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshi_3.md)
+
 <p><span class="chinese">进士我说，你是不可能在约定时间做好的。</span><span class="english">I don't think u can make it in time, I said.</span></p>
 
 <p><span class="chinese">张濯，登上元进士第。诗二首。</span><span class="english">Zhang Zhuo, boarded the Block section. Two Poems.</span></p>

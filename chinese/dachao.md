@@ -1,5 +1,7 @@
 # 大潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachao.md)
+
 <p><span class="chinese">为了抵御大潮，围了一排栅栏</span><span class="english">protected from spring tides by a palisade</span></p>
 
 <p><span class="chinese">在那次精简人员的大潮中，她幸运地保住了她的工作。</span><span class="english">She wasn't sheded in the bout of downsizing.</span></p>

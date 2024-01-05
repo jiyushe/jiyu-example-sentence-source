@@ -1,5 +1,7 @@
 # 增添
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengtian.md)
+
 <p><span class="chinese">端庄可为女人增添光彩。</span><span class="english">Modesty is ornament of woman.</span></p>
 
 <p><span class="chinese">这条裙子使她增添了魅力。</span><span class="english">The skirt lends charm to her.</span></p>

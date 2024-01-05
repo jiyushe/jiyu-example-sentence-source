@@ -1,5 +1,7 @@
 # thousands
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thousands.md)
+
 <p><span class="chinese">离耶稣受难地几千英里。</span><span class="english">thousands from Calvary.</span></p>
 
 <p><span class="chinese">数千人死于饥荒。</span><span class="english">Thousands died of famine.</span></p>

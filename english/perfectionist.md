@@ -1,5 +1,7 @@
 # perfectionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfectionist.md)
+
 <p><span class="chinese">我是个完美主义者。</span><span class="english">I’m a perfectionist.</span></p>
 
 <p><span class="chinese">第十四,戒掉完美主义的脾性。</span><span class="english">Get rid of your perfectionist streak.</span></p>

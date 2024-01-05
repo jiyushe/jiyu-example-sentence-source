@@ -1,5 +1,7 @@
 # 烟土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantu_1.md)
+
 <p><span class="chinese">烟土贩子却被神秘人击毙。</span><span class="english">But the mysterious people killed Yantu traffickers.</span></p>
 
 <p><span class="chinese">其中黄棕壤与黄壤是全县主要植烟土壤类型。</span><span class="english">Yellow-brown soil and yellow soil is the main tobacco-growing soil.</span></p>

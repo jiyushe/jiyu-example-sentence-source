@@ -1,5 +1,7 @@
 # 徒然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/turan.md)
+
 <p><span class="chinese">嘿！找来找去也是徒然。</span><span class="english">Alas! but the search was in vain.</span></p>
 
 <p><span class="chinese">有人对浅滩上嬉戏玩耍的狗徒然呼喊--查理！</span><span class="english">Someone calling in vain — 'Charlie!</span></p>

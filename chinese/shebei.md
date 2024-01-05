@@ -1,5 +1,7 @@
 # 设备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shebei.md)
+
 <p><span class="chinese">打包带设备。</span><span class="english">Packing Belt.</span></p>
 
 <p><span class="chinese">带好安全设备。</span><span class="english">Carry safety gear.</span></p>

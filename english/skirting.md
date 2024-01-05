@@ -1,5 +1,7 @@
 # skirting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skirting.md)
+
 <p><span class="chinese">下踢脚固体底部细节。</span><span class="english">Solid bottom detail beneath skirting.</span></p>
 
 <p><span class="chinese">翠竹环绕，瀑布飞泻。</span><span class="english">Skirting green bamboos and cascading waterfall.</span></p>

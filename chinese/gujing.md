@@ -1,5 +1,7 @@
 # 古井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujing.md)
+
 <p><span class="chinese">最为神奇的是在“胀气塘”旁边的一口古井。</span><span class="english">The most amazing is that in the "flatulence pond" next to the old well.</span></p>
 
 <p><span class="chinese">原来濑古井是钻法律的空子，使得他的违法行为合理化。</span><span class="english">Originally seen seto drill laws, is the illegal behavior makes him rationalized.</span></p>

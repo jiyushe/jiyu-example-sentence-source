@@ -1,5 +1,7 @@
 # bourne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourne.md)
+
 <p><span class="chinese">于是伯恩把库奇带了出来，让我们看一看。</span><span class="english">And Bourne brought out Cookie and we had a look.</span></p>
 
 <p><span class="chinese">也许在下个季度，万顺伯恩可以在这个基础上继续跟进。</span><span class="english">Perhaps next quarter, Vanson Bourne can follow up on this.</span></p>

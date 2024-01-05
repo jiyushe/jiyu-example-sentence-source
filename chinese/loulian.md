@@ -1,5 +1,7 @@
 # 露脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loulian.md)
+
 <p><span class="chinese">这给了一个网站露脸的机会。</span><span class="english">This gives a web site web presence.</span></p>
 
 <p><span class="chinese">庄稼毁了，太阳有多年都没有露脸了。</span><span class="english">The sun won't be seen again for many years.</span></p>

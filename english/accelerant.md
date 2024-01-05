@@ -1,5 +1,7 @@
 # accelerant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accelerant.md)
+
 <p><span class="chinese">植酸是一种天然抗氧剂和发酵促进剂。</span><span class="english">Phytic acid is a natural antioxidant and accelerant of fermentation.</span></p>
 
 <p><span class="chinese">研制出一种以亚硝酸钠为促进剂的室温磷化液。</span><span class="english">A zinc series phosphating solution was developed by using sodium nitrite as accelerant.</span></p>

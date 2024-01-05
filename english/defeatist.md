@@ -1,5 +1,7 @@
 # defeatist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defeatist.md)
+
 <p><span class="chinese">我不赞成你这种失败主义的态度。</span><span class="english">I don't approve of your defeatist attitude.</span></p>
 
 <p><span class="chinese">你带着一种注定失败的态度来到这里。</span><span class="english">You come in here with a defeatist attitude.</span></p>

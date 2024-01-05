@@ -1,5 +1,7 @@
 # tonne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonne.md)
+
 <p><span class="chinese">一吨二氧化碳的价格现在是28欧元。</span><span class="english">A tonne of carbon dioxide is now €28.</span></p>
 
 <p><span class="chinese">衣服吸了水，沉甸甸的，鞋子也好像有千斤重。</span><span class="english">My clothes were heavy, my shoes weighed a tonne.</span></p>

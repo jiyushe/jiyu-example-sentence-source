@@ -1,5 +1,7 @@
 # 内务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiwu.md)
+
 <p><span class="chinese">但是意大利内务部长部长罗贝尔托.马罗尼说，意大利需要国际支持。</span><span class="english">But Interior Minister Maroni said Italy needs international backing.</span></p>
 
 <p><span class="chinese">汉他病毒只影响那些个人在内务管理工作。</span><span class="english">Hantavirus can only affect those individuals working in housekeeping.</span></p>

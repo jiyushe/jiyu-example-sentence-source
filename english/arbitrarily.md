@@ -1,5 +1,7 @@
 # arbitrarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitrarily.md)
+
 <p><span class="chinese">比如这里我任意选一个“10“</span><span class="english">Here I arbitrarily chose 10.</span></p>
 
 <p><span class="chinese">好，请任意选择微笑者。</span><span class="english">Okay. Please arbitrarily decide on the smiler.</span></p>

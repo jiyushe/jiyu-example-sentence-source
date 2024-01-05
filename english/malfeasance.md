@@ -1,5 +1,7 @@
 # malfeasance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malfeasance.md)
+
 <p><span class="chinese">然而，我的不正当行为激怒了你。</span><span class="english">However, my offensive malfeasance irritates you.</span></p>
 
 <p><span class="chinese">成千上万的纽约人受到危害世台会产生碎片和政府渎职。</span><span class="english">Thousands of New Yorkers were endangered by WTC debris—and government malfeasance.</span></p>

@@ -1,5 +1,7 @@
 # bugs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bugs.md)
+
 <p><span class="chinese">但黄金投资者记恨这个。</span><span class="english">But gold bugs hated it.</span></p>
 
 <p><span class="chinese">大多数的昆虫都有六只脚。</span><span class="english">Most bugs have six legs.</span></p>

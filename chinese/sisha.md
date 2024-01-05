@@ -1,5 +1,7 @@
 # 厮杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sisha.md)
+
 <p><span class="chinese">没有为之厮杀或死亡。</span><span class="english">Nothing to kill or die for.</span></p>
 
 <p><span class="chinese">两军厮杀，难解难分。</span><span class="english">The two opposing armies are locked in battle.</span></p>

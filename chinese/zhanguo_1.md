@@ -1,5 +1,7 @@
 # 战果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanguo_1.md)
+
 <p><span class="chinese">在战争和战果上表现政治的光芒——好。</span><span class="english">Shine a light on war and its consequences—fine.</span></p>
 
 <p><span class="chinese">吉娜他们得要含辛茹苦。我们会熬过去的。我一定会确保战果。</span><span class="english">They need to suck it up. We're going to pull this off. I'll make sure of that.</span></p>

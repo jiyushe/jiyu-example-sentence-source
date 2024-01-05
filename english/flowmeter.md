@@ -1,5 +1,7 @@
 # flowmeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowmeter.md)
+
 <p><span class="chinese">这将导致非常紧凑的流量计。</span><span class="english">This will result in a very compact flowmeter.</span></p>
 
 <p><span class="chinese">校准器是容积式流量计上的重要部件。</span><span class="english">Corrector is an important part of volume flowmeter.</span></p>

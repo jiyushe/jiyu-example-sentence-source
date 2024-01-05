@@ -1,5 +1,7 @@
 # 花红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huahong.md)
+
 <p><span class="chinese">杯光酒影掩映下的花红酒绿。</span><span class="english">The light wine reflects the premium happy.</span></p>
 
 <p><span class="chinese">花红喝下了酒，和沈家门对话。</span><span class="english">Bonus to drink wine, and Shenjiamen dialogue.</span></p>

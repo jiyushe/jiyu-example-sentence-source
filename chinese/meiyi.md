@@ -1,5 +1,7 @@
 # 美意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyi.md)
+
 <p><span class="chinese">父啊，是的，这就是你的美意。</span><span class="english">Yes, Father, for this was your good pleasure.</span></p>
 
 <p><span class="chinese">我只是想帮忙。请原谅。我是出于美意的。</span><span class="english">I was just trying to help. Forgive me for being nice.</span></p>

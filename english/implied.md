@@ -1,5 +1,7 @@
 # implied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implied.md)
+
 <p><span class="chinese">好的，那么这意味着什么？</span><span class="english">Okay. So what's implied here?</span></p>
 
 <p><span class="chinese">他的话暗示出他很不高兴。</span><span class="english">His words implied displeasure.</span></p>

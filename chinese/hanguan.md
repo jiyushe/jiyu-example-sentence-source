@@ -1,5 +1,7 @@
 # 涵管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanguan.md)
+
 <p><span class="chinese">涵管做为道路中的空隙，它是一个脊梁。</span><span class="english">He slipped end-over-end as the gaps in the road, it is a backbone.</span></p>
 
 <p><span class="chinese">工程进行到一半，这些涵管就用完了。</span><span class="english">These culvert pipes will run out after half of the project is completed.</span></p>

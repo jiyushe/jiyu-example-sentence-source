@@ -1,5 +1,7 @@
 # 中山站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshanzhan.md)
+
 <p><span class="chinese">产品质量达到出口标准，。已在南极中山站成功使用。</span><span class="english">Product quality to meet export standards. Zhongshan Station in the Antarctic has been successfully used.</span></p>
 
 <p><span class="chinese">本文针对中山站白天处于极尖区的特点，研究了低能电子沉降对中山站电离层的影响。</span><span class="english">In this paper, the effects of low energy electron precipitation on the ionosphere over Zhongshan Station have been investigated.</span></p>

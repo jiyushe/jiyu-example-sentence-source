@@ -1,5 +1,7 @@
 # uganda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uganda.md)
+
 <p><span class="chinese">在2001年又在乌干达发现。</span><span class="english">In 2001 it was found in Uganda.</span></p>
 
 <p><span class="chinese">纰佑•欧康医生是乌干达的产科医生。</span><span class="english">Okong is an obstetrician from Uganda.</span></p>

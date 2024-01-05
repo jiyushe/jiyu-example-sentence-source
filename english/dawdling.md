@@ -1,5 +1,7 @@
 # dawdling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dawdling.md)
+
 <p><span class="chinese">他们老是在闲荡。</span><span class="english">They are always dawdling.</span></p>
 
 <p><span class="chinese">别瞎泡了，快把工作做完!</span><span class="english">Stop dawdling and finish your work!</span></p>

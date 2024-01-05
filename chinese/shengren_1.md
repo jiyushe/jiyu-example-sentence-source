@@ -1,5 +1,7 @@
 # 圣人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengren_1.md)
+
 <p><span class="chinese">圣人的劳作是多么艰苦！</span><span class="english">How hard the rishis laboured!</span></p>
 
 <p><span class="chinese">这就是亲鸾圣人所说。</span><span class="english">This is what the master said.</span></p>

@@ -1,5 +1,7 @@
 # hydrolysate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrolysate.md)
+
 <p><span class="chinese">对用玉米芯水解液发酵木糖醇进行了研究。</span><span class="english">The fermentation of corncob hydrolysate to xylitol was studied.</span></p>
 
 <p><span class="chinese">并对酸解产物进行氨基酸分析和脱盐。</span><span class="english">The hydrolysate was desalted and the amino acid content was also obtained.</span></p>

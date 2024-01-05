@@ -1,5 +1,7 @@
 # 牌位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiwei.md)
+
 <p><span class="chinese">他将这句誓言放在神龛内阿真的牌位旁。</span><span class="english">He put the promise in the shrine beside the tablet of O-Tei.</span></p>
 
 <p><span class="chinese">悟空二次进洞，没找到师父，却见到李天王和哪吒牌位。</span><span class="english">Monkey went to the Jade Emperor with the tablets in his hands.</span></p>

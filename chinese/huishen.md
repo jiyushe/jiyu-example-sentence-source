@@ -1,5 +1,7 @@
 # 会审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huishen.md)
+
 <p><span class="chinese">“会审”工作簿使用“未经会审的工作项”团队查询。</span><span class="english">The Triage workbook uses the Untriaged Work Items team query.</span></p>
 
 <p><span class="chinese">这些工作项的“会审”字段设置为“挂起”、“详细信息”或“收到信息”。</span><span class="english">The Triage field for these work items is set to Pending, More Info, or Info Received.</span></p>

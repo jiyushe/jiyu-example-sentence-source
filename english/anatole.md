@@ -1,5 +1,7 @@
 # anatole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatole.md)
+
 <p><span class="chinese">“嗯，给他吧。”阿纳托利说。</span><span class="english">Well, give it him then, " said Anatole ."</span></p>
 
 <p><span class="chinese">最喜欢的散文家是谁？现在是阿纳托弗朗斯和皮埃尔洛蒂。</span><span class="english">Who are your favorite prose writers? At the moment, Anatole France and Pierre Loti.</span></p>

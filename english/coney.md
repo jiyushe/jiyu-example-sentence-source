@@ -1,5 +1,7 @@
 # coney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coney.md)
+
 <p><span class="chinese">科尼岛地图请点击这里。</span><span class="english">Click here for a map of Coney Island.</span></p>
 
 <p><span class="chinese">现在我们就谈科尼岛项目的事。</span><span class="english">So we've got the Coney IsIand project.</span></p>

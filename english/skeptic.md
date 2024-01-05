@@ -1,5 +1,7 @@
 # skeptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeptic.md)
+
 <p><span class="chinese">就算我是个怀疑论者好了。</span><span class="english">Yet count me a skeptic.</span></p>
 
 <p><span class="chinese">我更是一个怀疑论者。</span><span class="english">I am much more of a skeptic.</span></p>

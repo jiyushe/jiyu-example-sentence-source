@@ -1,5 +1,7 @@
 # flagstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flagstone.md)
+
 <p><span class="chinese">翻译“我在青石板路上等你！”。</span><span class="english">I wait you at a black flagstone !</span></p>
 
 <p><span class="chinese">刀没有落到石板的地面上。</span><span class="english">The knife did not drop to the flagstone floor.</span></p>

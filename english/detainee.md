@@ -1,5 +1,7 @@
 # detainee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detainee.md)
+
 <p><span class="chinese">我工作中的被拘留者控股区。</span><span class="english">I work in the Detainee Holding Area.</span></p>
 
 <p><span class="chinese">比如，在2008年，人权部曾准备了一份有关虐待羁押者的报告。</span><span class="english">In 2008, for example, MOHR prepared a report on detainee abuse.</span></p>

@@ -1,5 +1,7 @@
 # aquiculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquiculture.md)
+
 <p><span class="chinese">畜牧水产养殖已成为湖南农村的第一大产业。</span><span class="english">Pasturage aquiculture already made the biggest industry of Hunan country.</span></p>
 
 <p><span class="chinese">结论硼镁石粉适合山区和水产养殖区灭螺。</span><span class="english">Conclusion MBOP was suitable to control the snail in montane areas and aquiculture areas.</span></p>

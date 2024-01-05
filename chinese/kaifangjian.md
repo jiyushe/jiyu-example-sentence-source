@@ -1,5 +1,7 @@
 # 开房间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifangjian.md)
+
 <p><span class="chinese">黛德打开房间的门，走到过道里。</span><span class="english">Dede opened the door to our room and stepped into the hallway.</span></p>
 
 <p><span class="chinese">她在离开房间之前，在可以转动的穿衣镜里看看她自己。</span><span class="english">She looked at herself in the cheval-glass before she left the room.</span></p>

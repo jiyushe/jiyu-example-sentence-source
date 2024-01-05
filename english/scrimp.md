@@ -1,5 +1,7 @@
 # scrimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrimp.md)
+
 <p><span class="chinese">那我们就节衣缩食吧。</span><span class="english">We'll scrimp and save.</span></p>
 
 <p><span class="chinese">我必须节省开支以支付度假的费用。</span><span class="english">I had to scrimp and save to pay for my holiday.</span></p>

@@ -1,5 +1,7 @@
 # simulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simulative.md)
+
 <p><span class="chinese">许多模拟效果都是依靠软件来仿真实现。</span><span class="english">Many simulative effects are all realized by software.</span></p>
 
 <p><span class="chinese">测试力敏开关及力敏开关的模拟显示。</span><span class="english">Testing the pressure switch and it's simulative display.</span></p>

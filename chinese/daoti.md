@@ -1,5 +1,7 @@
 # 导体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoti.md)
+
 <p><span class="chinese">铜是热的良导体。</span><span class="english">Copper is a good conductor of heat.</span></p>
 
 <p><span class="chinese">所有的金属都是良导体。</span><span class="english">Not all metals are good conductors.</span></p>

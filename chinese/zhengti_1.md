@@ -1,5 +1,7 @@
 # 整体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengti_1.md)
+
 <p><span class="chinese">冻结的整体。</span><span class="english">Frozen Wholes.</span></p>
 
 <p><span class="chinese">什么是整体医疗？</span><span class="english">What Is Holistic Medicine?</span></p>

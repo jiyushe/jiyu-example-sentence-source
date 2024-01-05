@@ -1,5 +1,7 @@
 # monotony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monotony.md)
+
 <p><span class="chinese">她不断地捆着麦子，单调得就像时钟一样。</span><span class="english">Her binding proceeds with clock-like monotony.</span></p>
 
 <p><span class="chinese">利用公馀之时摄影，可打发无聊时光。</span><span class="english">Using free time to do photography can relieve the monotony.</span></p>

@@ -1,5 +1,7 @@
 # 名篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingpian_1.md)
+
 <p><span class="chinese">他把这个故事比做托尔斯泰的道德名篇。</span><span class="english">He likened the story to Tolstoy's moral tales.</span></p>
 
 <p><span class="chinese">19世纪的文学是游记名篇的渊薮。</span><span class="english">The literature of the 19th century is rich with great travel writing.</span></p>

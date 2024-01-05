@@ -1,5 +1,7 @@
 # swan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swan.md)
+
 <p><span class="chinese">游得好，天鹅。</span><span class="english">Well swum, Swan.</span></p>
 
 <p><span class="chinese">白天鹅酒店。</span><span class="english">White swan hotel.</span></p>

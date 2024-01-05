@@ -1,5 +1,7 @@
 # godwin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godwin.md)
+
 <p><span class="chinese">古德温说，“它用预测打开你的眼界。</span><span class="english">"It opens your eyes within the precinct, " says Godwin.</span></p>
 
 <p><span class="chinese">战争结束后，戈德温回到剑桥成为一名律师。</span><span class="english">The war over, Godwin returned from Cambridge to become a lawyer.</span></p>

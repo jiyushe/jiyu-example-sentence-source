@@ -1,5 +1,7 @@
 # hac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hac.md)
+
 <p><span class="chinese">人能选择开始恋爱，但不能选择终止恋爱。</span><span class="english">A man hac choice to begin love, but not to end it.</span></p>
 
 <p><span class="chinese">获得客户需求，并向客户提供德西福格相对方案。</span><span class="english">To understand customer needs and provide HAC solutions d.</span></p>

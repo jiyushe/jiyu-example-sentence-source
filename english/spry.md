@@ -1,5 +1,7 @@
 # spry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spry.md)
+
 <p><span class="chinese">犹他是最年轻的，在未来29在轻捷。</span><span class="english">Utah is the youngest, coming in at a spry 29.</span></p>
 
 <p><span class="chinese">保罗谢尔曼耶尔身材矮小，动作敏捷，站得笔挺。</span><span class="english">Paul sherman yale was small, spry and upright.</span></p>

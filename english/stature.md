@@ -1,5 +1,7 @@
 # stature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stature.md)
+
 <p><span class="chinese">他身材矮小。</span><span class="english">He is short in stature.</span></p>
 
 <p><span class="chinese">那尊塑像风化得厉害。</span><span class="english">That stature has badly weathered.</span></p>

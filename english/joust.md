@@ -1,5 +1,7 @@
 # joust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joust.md)
+
 <p><span class="chinese">骑士们骑马比武，嬉戏作乐。</span><span class="english">Knights joust and frolic.</span></p>
 
 <p><span class="chinese">一场决定王国命运的战斗！</span><span class="english">Joust for the fate of the kingdom!</span></p>

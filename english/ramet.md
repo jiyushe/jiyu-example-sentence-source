@@ -1,5 +1,7 @@
 # ramet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramet.md)
+
 <p><span class="chinese">结缕草无性系各分株的发育时间基本相同。</span><span class="english">The developmental time of each ramet was basically same.</span></p>
 
 <p><span class="chinese">不同海拔高度上，野草莓分株种群密度在不同光照条件下的变化存在显著差异。</span><span class="english">The interaction of elevation by light was significant with respect to ramet population density.</span></p>

@@ -1,5 +1,7 @@
 # 大放厥词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafangjueci.md)
+
 <p><span class="chinese">他一登台就大放厥词。</span><span class="english">He talked a lot of nonsense when he stepped onto the platform.</span></p>
 
 <p><span class="chinese">我的同胞，你们在这儿大放厥词的时候，你能说你真的爱国吗?。</span><span class="english">My compatriots, as you blab here, can you really say you love your country?</span></p>

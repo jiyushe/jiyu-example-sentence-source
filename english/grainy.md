@@ -1,5 +1,7 @@
 # grainy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grainy.md)
+
 <p><span class="chinese">有的疣体表面呈颗粒状或分叶状，伴有少许分泌物。</span><span class="english">Some warts grainy or lobulated, with a little secretion.</span></p>
 
 <p><span class="chinese">现在表面略有诺比，感觉有点粒状。</span><span class="english">The surface is now slightly knobby and feels a bit grainy.</span></p>

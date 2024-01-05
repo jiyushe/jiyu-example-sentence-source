@@ -1,5 +1,7 @@
 # tenderness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenderness.md)
+
 <p><span class="chinese">触碰检查有无触痛。</span><span class="english">Palpate to detect tenderness.</span></p>
 
 <p><span class="chinese">是你的万种柔情融化冰雪。</span><span class="english">Your tenderness melted the ice.</span></p>

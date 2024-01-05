@@ -1,5 +1,7 @@
 # vagina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagina.md)
+
 <p><span class="chinese">我都能看到你的鸡鸡了！</span><span class="english">I can see your vagina from here!</span></p>
 
 <p><span class="chinese">只要你不去触碰她的私处。</span><span class="english">so long as you don't touch her vagina.</span></p>

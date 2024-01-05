@@ -1,5 +1,7 @@
 # 发扬光大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fayangguangda.md)
+
 <p><span class="chinese">香港是广东“汤文化”的发扬光大者。</span><span class="english">People in Hongkong are fond of making soup.</span></p>
 
 <p><span class="chinese">民主终有一天会在这个国家发扬光大。</span><span class="english">Democracy will one day prosper in the country.</span></p>

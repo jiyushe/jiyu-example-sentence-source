@@ -1,5 +1,7 @@
 # velodrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velodrome.md)
+
 <p><span class="chinese">奥运会自行车比赛是在一个赛车场。</span><span class="english">In Olympic Cycling, the races are held in a velodrome.</span></p>
 
 <p><span class="chinese">1938年世界杯上，维洛德罗姆球场只承办了两场比赛。</span><span class="english">In 1938 the Stade Velodrome was used for only two games.</span></p>

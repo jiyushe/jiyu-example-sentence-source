@@ -1,5 +1,7 @@
 # 泪人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiren.md)
+
 <p><span class="chinese">她哭成了一个泪人。</span><span class="english">She is crying in tears.</span></p>
 
 <p><span class="chinese">她哭成了一个泪人。</span><span class="english">She was bathed in tears.</span></p>

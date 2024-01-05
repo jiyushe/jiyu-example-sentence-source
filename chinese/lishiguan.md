@@ -1,5 +1,7 @@
 # 历史观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishiguan.md)
+
 <p><span class="chinese">这种官方版本的历史观在看待这场战争时非常直接简单。</span><span class="english">This official history sees the war as pretty straightforward business.</span></p>
 
 <p><span class="chinese">尼采的历史观是和生命哲学紧密相联的。</span><span class="english">Nietzsche's view of history is tightly connected to the Lebensphilosophie.</span></p>

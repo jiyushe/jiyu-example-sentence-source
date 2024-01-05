@@ -1,5 +1,7 @@
 # 转调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuandiao_1.md)
+
 <p><span class="chinese">第一个基本问题是转调条件。</span><span class="english">The first is transfer conditions.</span></p>
 
 <p><span class="chinese">我被转调到台中了。</span><span class="english">I was transferred to the Taichung office.</span></p>

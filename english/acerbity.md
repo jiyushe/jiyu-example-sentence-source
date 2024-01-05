@@ -1,5 +1,7 @@
 # acerbity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acerbity.md)
+
 <p><span class="chinese">无臭，有涩味。</span><span class="english">Odourless, with acerbity.</span></p>
 
 <p><span class="chinese">腐植酸钠如何化验?。</span><span class="english">Humic acerbity natrium how assay?</span></p>

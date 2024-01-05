@@ -1,5 +1,7 @@
 # chasteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chasteness.md)
+
 <p><span class="chinese">白色告诉孩子们纯洁无瑕。</span><span class="english">White tells children chasteness is immaculate.</span></p>
 
 <p><span class="chinese">这个宗教强调男女的贞洁。</span><span class="english">This religion emphasizes chasteness in women and men.</span></p>

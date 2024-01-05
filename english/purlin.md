@@ -1,5 +1,7 @@
 # purlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purlin.md)
+
 <p><span class="chinese">椽子钉在连系梁上，中心间距为80厘米。</span><span class="english">The rafters, spaced at approximately 80cm centers, are nailed to the purlin.</span></p>
 
 <p><span class="chinese">管桁架之间通过檩条、连系梁和支撑系统把整个结构连成整体。</span><span class="english">Pipe truss by purlin , even between a beam and the whole structure by supporting system.</span></p>

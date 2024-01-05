@@ -1,5 +1,7 @@
 # degrease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degrease.md)
+
 <p><span class="chinese">给箅子、风扇、空调格栅除污</span><span class="english">Degrease grates, fans, and air-conditioner grilles</span></p>
 
 <p><span class="chinese">灯芯采用脱脂纯棉及食用油脂制作。</span><span class="english">The wick with degrease cotton and edible oils production.</span></p>

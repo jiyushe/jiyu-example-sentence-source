@@ -1,5 +1,7 @@
 # 脱缰之马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuojiangzhima.md)
+
 <p><span class="chinese">物价飞涨，有如脱缰之马。</span><span class="english">Prices were running wild.</span></p>
 
 <p><span class="chinese">缺乏知识之热情犹如脱缰之马。</span><span class="english">Zeal without knowledge is a runaway horse.</span></p>

@@ -1,5 +1,7 @@
 # 暴风雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofengxue.md)
+
 <p><span class="chinese">中西部连降暴风雪。</span><span class="english">Big Storms in the Midwest.</span></p>
 
 <p><span class="chinese">但是，暴风雪没有松懈下来的迹象。</span><span class="english">But the storm was unrelenting.</span></p>

@@ -1,5 +1,7 @@
 # 交集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoji_1.md)
+
 <p><span class="chinese">立拓·上海城，在此交集。</span><span class="english">Lituo·Shanghai-city , in this intersection.</span></p>
 
 <p><span class="chinese">最接近的交集是阿拉珀霍和约旦。</span><span class="english">The closest intersection is Arapahoe & Jordan.</span></p>

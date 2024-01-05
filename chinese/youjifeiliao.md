@@ -1,5 +1,7 @@
 # 有机肥料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjifeiliao.md)
+
 <p><span class="chinese">这酒是用有机肥料培植长成的葡萄制成的。</span><span class="english">The wine is made from organically-grown grapes.</span></p>
 
 <p><span class="chinese">这项技术可以把垃圾转化为有机肥料。</span><span class="english">This technology can turn garbage into organic fertilizer.</span></p>

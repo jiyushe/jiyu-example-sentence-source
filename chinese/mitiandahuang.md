@@ -1,5 +1,7 @@
 # 弥天大谎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mitiandahuang.md)
+
 <p><span class="chinese">这将是个弥天大谎。</span><span class="english">It's going to be a whopper.</span></p>
 
 <p><span class="chinese">现在，非常坦率地说，那就是一个弥天大谎。</span><span class="english">Now that, quite frankly, is a flat-out lie.</span></p>

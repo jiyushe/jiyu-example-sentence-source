@@ -1,5 +1,7 @@
 # drily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drily.md)
+
 <p><span class="chinese">那位女士冷淡地朝我点头。</span><span class="english">The lady nodded drily to me.</span></p>
 
 <p><span class="chinese">他冷冷地拒绝了她的请求。</span><span class="english">He refused her request drily.</span></p>

@@ -1,5 +1,7 @@
 # 良策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangce_1.md)
+
 <p><span class="chinese">我们有什么应对良策吗？</span><span class="english">How well are we doing?</span></p>
 
 <p><span class="chinese">终非良策。</span><span class="english">It's not a good plan after all.</span></p>

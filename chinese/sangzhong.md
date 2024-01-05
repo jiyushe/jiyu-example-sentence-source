@@ -1,5 +1,7 @@
 # 丧钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangzhong.md)
+
 <p><span class="chinese">我来敲响丧钟。</span><span class="english">I'll toll the bell.</span></p>
 
 <p><span class="chinese">像为死去的水手敲响丧钟</span><span class="english">That ring the dead seaman’s knell．</span></p>

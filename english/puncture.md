@@ -1,5 +1,7 @@
 # puncture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puncture.md)
+
 <p><span class="chinese">前带撒气了。</span><span class="english">The front tyre has got a puncture.</span></p>
 
 <p><span class="chinese">第四，削弱行政膨胀。</span><span class="english">Fourth, puncture administrative bloat.</span></p>

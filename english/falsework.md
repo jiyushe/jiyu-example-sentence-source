@@ -1,5 +1,7 @@
 # falsework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falsework.md)
+
 <p><span class="chinese">曲拱桥梁可以被修建在脚手架或者临时脚手架。</span><span class="english">Arch bridge can be constructed over a falsework , or temporary scaffolding.</span></p>
 
 <p><span class="chinese">在高层、超高层建筑的施工中，外脚手架是关键的技术决策项目之一。</span><span class="english">In the construction of high level and exceeding high level building, the falsework is the key technical project.</span></p>

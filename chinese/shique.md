@@ -1,5 +1,7 @@
 # 失却
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shique.md)
+
 <p><span class="chinese">辞退后，我就失却了稳定的经济来源。</span><span class="english">I lost a steady income after I was fired.</span></p>
 
 <p><span class="chinese">你得到了使用的便利，失却了对程序的控制和速度。</span><span class="english">You trade in control and speed, for ease of use.</span></p>

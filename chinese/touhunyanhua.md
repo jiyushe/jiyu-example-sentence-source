@@ -1,5 +1,7 @@
 # 头昏眼花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touhunyanhua.md)
+
 <p><span class="chinese">泰瑞醒了过来，仍然头昏眼花。</span><span class="english">Teri wakes up, dazed.</span></p>
 
 <p><span class="chinese">她刚才一阵头昏眼花。</span><span class="english">She came over all dizzy just now.</span></p>

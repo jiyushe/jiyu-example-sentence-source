@@ -1,5 +1,7 @@
 # 母体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muti.md)
+
 <p><span class="chinese">母体可作为一种贮藏库。</span><span class="english">A mother's body serves as a reservoir.</span></p>
 
 <p><span class="chinese">他在母体内发育24周就出生了，重1磅12盎司。</span><span class="english">He was born at 24 weeks, weighing 1lb 12oz.</span></p>

@@ -1,5 +1,7 @@
 # bethlehem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bethlehem.md)
+
 <p><span class="chinese">懒散的踏向伯利恒的投生？</span><span class="english">Slouches towards Bethlehem to be born?</span></p>
 
 <p><span class="chinese">耶稣在伯利恒生于马厩中。</span><span class="english">Jesus wurde in Bethlehem in einem Stall geboren.</span></p>

@@ -1,5 +1,7 @@
 # appendage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendage.md)
+
 <p><span class="chinese">在每个末端的种子具1毛状附属物。</span><span class="english">Seeds with 1 hairlike appendage at each end.</span></p>
 
 <p><span class="chinese">雌蕊头状花序具一基部的膜质附属物。</span><span class="english">Pistil head with a basal membranous appendage.</span></p>

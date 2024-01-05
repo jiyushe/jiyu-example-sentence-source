@@ -1,5 +1,7 @@
 # trilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trilling.md)
+
 <p><span class="chinese">小鸟在树间呜啭。</span><span class="english">The birds were trilling in the trees.</span></p>
 
 <p><span class="chinese">你们是奴隶在叫迈克吗？</span><span class="english">You slaves, you were trilling for Miek?</span></p>

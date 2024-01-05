@@ -1,5 +1,7 @@
 # ncr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ncr.md)
+
 <p><span class="chinese">共和国至此扫平了当时他们最强的对手。</span><span class="english">The NCR had defeated their strongest opponent yet.</span></p>
 
 <p><span class="chinese">确保不符合品报告的有效性，协调质量事故的解决。</span><span class="english">Ensure the all NCR be efficient and concert the solution for quality incident.</span></p>

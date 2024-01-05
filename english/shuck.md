@@ -1,5 +1,7 @@
 # shuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shuck.md)
+
 <p><span class="chinese">你不应该去欺骗一个小孩。</span><span class="english">You should not shuck a little child.</span></p>
 
 <p><span class="chinese">把你的脏衬衣脱了，换一件干净的。</span><span class="english">Shuck your dirty shirt and put on a new one.</span></p>

@@ -1,5 +1,7 @@
 # 陷于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyu_2.md)
+
 <p><span class="chinese">计划陷于停顿。</span><span class="english">The scheme bogged down.</span></p>
 
 <p><span class="chinese">他中计而陷于死地。</span><span class="english">He was entrapped to destruction.</span></p>

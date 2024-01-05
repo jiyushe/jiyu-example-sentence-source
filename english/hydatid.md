@@ -1,5 +1,7 @@
 # hydatid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydatid.md)
+
 <p><span class="chinese">目的探讨破裂肝包虫囊肿的诊治方法。</span><span class="english">Objective To find a method for diagnosis and treatment of hepatic hydatid cyst.</span></p>
 
 <p><span class="chinese">上述结果表明，在河南省已存在有包虫病的自然疫源地。</span><span class="english">The above results demonstrated that there was natural nidus of hydatid disease.</span></p>

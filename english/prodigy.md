@@ -1,5 +1,7 @@
 # prodigy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prodigy.md)
+
 <p><span class="chinese">他是一位数学天才。</span><span class="english">He was a mathematical prodigy.</span></p>
 
 <p><span class="chinese">詹姆斯看起来真的是一位天才少年。</span><span class="english">Jamess appears to be a genuine prodigy.</span></p>

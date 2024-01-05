@@ -1,5 +1,7 @@
 # designer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designer.md)
+
 <p><span class="chinese">我是个网络设计师。</span><span class="english">I'm a web designer.</span></p>
 
 <p><span class="chinese">要是换我大牛设计。</span><span class="english">If I were the designer.</span></p>

@@ -1,5 +1,7 @@
 # diazonium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diazonium.md)
+
 <p><span class="chinese">对市场需求和前景进行了预测。</span><span class="english">The market demand and prospect of diazonium borofluoride was suggested.</span></p>
 
 <p><span class="chinese">重氮盐类为衬底在钯催化交叉偶联反应。</span><span class="english">Diazonium Salts as Substrates in Palladium-Catalyzed Cross-Coupling Reactions.</span></p>

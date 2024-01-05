@@ -1,5 +1,7 @@
 # 新月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyue.md)
+
 <p><span class="chinese">对不起，新月。</span><span class="english">Execuse me, new moon.</span></p>
 
 <p><span class="chinese">现在是一个新月到我这里来。</span><span class="english">It's now a new moon to me.</span></p>

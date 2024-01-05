@@ -1,5 +1,7 @@
 # 一斑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiban_1.md)
+
 <p><span class="chinese">抓一把而知全袋，窥一斑以见全豹。</span><span class="english">You may know by a handful the whole sack.</span></p>
 
 <p><span class="chinese">要是坐晚一斑的火车能使你不迟到麽？</span><span class="english">Would a later train get you to work on time?</span></p>

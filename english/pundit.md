@@ -1,5 +1,7 @@
 # pundit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pundit.md)
+
 <p><span class="chinese">他住在巴拉纳戈尔，是一位婆罗门学者的儿子。</span><span class="english">He lived at Baranagore and was the son of a brahmin pundit.</span></p>
 
 <p><span class="chinese">Moyo年轻，非裔，懂得如何在电视摄像机面前自我表现，也是一个天生的学者。</span><span class="english">Moyo is young, African, great on television, and a natural pundit.</span></p>

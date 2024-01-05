@@ -1,5 +1,7 @@
 # 显耀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyao.md)
+
 <p><span class="chinese">我们的文凭由许多显耀的大学很好认可。</span><span class="english">Our Diploma is well recognised by many renowned universities.</span></p>
 
 <p><span class="chinese">北京为它丰厚的宫殿是显耀的、寺庙和宏大的石墙和门。</span><span class="english">Beijing is renowned for its opulent palaces, temples, and huge stone walls and gates.</span></p>

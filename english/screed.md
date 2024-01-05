@@ -1,5 +1,7 @@
 # screed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screed.md)
+
 <p><span class="chinese">我想用一个令人觉得可怕的事实来结束这篇冗长的文章。</span><span class="english">I want to close this screed on a scary note.</span></p>
 
 <p><span class="chinese">当我可以使用索梅罗铜斑蛇激光整平机？</span><span class="english">When Can I Use A Somero CopperHead Laser Screed?</span></p>

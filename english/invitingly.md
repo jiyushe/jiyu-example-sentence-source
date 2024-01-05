@@ -1,5 +1,7 @@
 # invitingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invitingly.md)
+
 <p><span class="chinese">路缓缓地向湖边倾斜下去。</span><span class="english">The smooth road sloped invitingly before her.</span></p>
 
 <p><span class="chinese">这瓶打开的酒放在前面极其诱人，旁边还有一个威士忌酒杯。</span><span class="english">It was placed invitingly in front with a whisky glass by its side.</span></p>

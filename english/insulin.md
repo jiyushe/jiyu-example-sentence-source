@@ -1,5 +1,7 @@
 # insulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulin.md)
+
 <p><span class="chinese">人胰岛素注射液…</span><span class="english">Insulin Human Inj.</span></p>
 
 <p><span class="chinese">不能与NPH胰岛素的使用。</span><span class="english">Not for use with NPH insulin.</span></p>

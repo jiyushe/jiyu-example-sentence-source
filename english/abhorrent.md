@@ -1,5 +1,7 @@
 # abhorrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abhorrent.md)
+
 <p><span class="chinese">那个可恶的家伙，只是对我淡淡的一笑。</span><span class="english">That abhorrent fellow, just laugh lightly to me.</span></p>
 
 <p><span class="chinese">每个具有正义感的人无不厌恶这种行为。</span><span class="english">Such an act is abhorrent to every right-minded person.</span></p>

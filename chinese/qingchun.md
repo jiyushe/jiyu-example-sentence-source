@@ -1,5 +1,7 @@
 # 清醇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchun.md)
+
 <p><span class="chinese">去喝它，它是清醇的酒！</span><span class="english">Go and drink it, mellow wine!</span></p>
 
 <p><span class="chinese">去喝它，它是清醇的酒！</span><span class="english">Go and drink it, the mellow wine!</span></p>

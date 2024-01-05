@@ -1,5 +1,7 @@
 # 迷蒙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimeng_1.md)
+
 <p><span class="chinese">迷蒙的冰河开冻了。</span><span class="english">The misty river of ice was thawing.</span></p>
 
 <p><span class="chinese">芳汀也许就在迷蒙的暮色中。</span><span class="english">Perhaps Fantine was within that shadow.</span></p>

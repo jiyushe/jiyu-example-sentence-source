@@ -1,5 +1,7 @@
 # derogate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derogate.md)
+
 <p><span class="chinese">不要违背原则。</span><span class="english">Don't derogate from principles.</span></p>
 
 <p><span class="chinese">不要违背我们的原则!</span><span class="english">Don't derogate from our principle!</span></p>

@@ -1,5 +1,7 @@
 # recency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recency.md)
+
 <p><span class="chinese">讨论了新近效应的一种时间-背景的理论。</span><span class="english">A temporal-contextual theory of the recency effect is discussed.</span></p>
 
 <p><span class="chinese">文章最后对近因效应的性质进行了讨论。</span><span class="english">Finally, the article discussed the characters of the recency effects.</span></p>

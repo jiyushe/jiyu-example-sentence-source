@@ -1,5 +1,7 @@
 # 球拍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiupai.md)
+
 <p><span class="chinese">我们的球拍真贵。</span><span class="english">Our racquets are expensive.</span></p>
 
 <p><span class="chinese">这个球拍的避震机能大好！</span><span class="english">The shock is in good racket!</span></p>

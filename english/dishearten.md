@@ -1,5 +1,7 @@
 # dishearten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishearten.md)
+
 <p><span class="chinese">不要因为这次失败而气馁。</span><span class="english">Don t let this defeat dishearten you.</span></p>
 
 <p><span class="chinese">不良信贷可以气馁，你在许多方面。</span><span class="english">Bad credit can dishearten you in many ways.</span></p>

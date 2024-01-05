@@ -1,5 +1,7 @@
 # oneness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oneness.md)
+
 <p><span class="chinese">它的意义就在这一体性内。</span><span class="english">Its meaning lies in oneness.</span></p>
 
 <p><span class="chinese">他是闪闪的同一性生命。</span><span class="english">He is illuminating the oneness of life.</span></p>

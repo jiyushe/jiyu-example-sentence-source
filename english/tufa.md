@@ -1,5 +1,7 @@
 # tufa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tufa.md)
+
 <p><span class="chinese">凝灰岩有时可以具有像珊瑚那样的奇怪形状。</span><span class="english">The odd shapes that tufa take can sometimes resemble coral.</span></p>
 
 <p><span class="chinese">地质学上，此石材属于火山凝灰岩。</span><span class="english">In petrographic terms, this stone is defined as volcanic tufa.</span></p>

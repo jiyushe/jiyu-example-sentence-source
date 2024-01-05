@@ -1,5 +1,7 @@
 # cpsc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpsc.md)
+
 <p><span class="chinese">向消费品安全委员会举报每一个事件</span><span class="english">Report Every Incident to the CPSC</span></p>
 
 <p><span class="chinese">向消费品安全委员会举报每个事件。</span><span class="english">Report every incident to the CPSC.</span></p>

@@ -1,5 +1,7 @@
 # overspread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overspread.md)
+
 <p><span class="chinese">她脸色一阵苍白。</span><span class="english">A paleness overspread her face.</span></p>
 
 <p><span class="chinese">她的脸上布满了皱纹。</span><span class="english">Wrinkles have overspread her face.</span></p>

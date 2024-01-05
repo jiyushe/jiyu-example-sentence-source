@@ -1,5 +1,7 @@
 # 临刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linxing.md)
+
 <p><span class="chinese">临刑之际，刀锋等人及时赶到。</span><span class="english">Die of blade etc. Get there in time.</span></p>
 
 <p><span class="chinese">他曾嘲笑过那些临刑前还在念念有词地做着祷告的人。</span><span class="english">He had laughed at those who died with prayers on their lips.</span></p>

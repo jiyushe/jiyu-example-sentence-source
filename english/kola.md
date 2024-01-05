@@ -1,5 +1,7 @@
 # kola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kola.md)
+
 <p><span class="chinese">考拉在树干上休息。</span><span class="english">A kola is resting on the trunk.</span></p>
 
 <p><span class="chinese">这个小科拉木偶是一个好主意。</span><span class="english">The little kola puppet is a great idea.</span></p>

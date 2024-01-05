@@ -1,5 +1,7 @@
 # substantiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantiate.md)
+
 <p><span class="chinese">那个诽谤者不能证实他的谎言。</span><span class="english">The slanderer cannot substantiate his tale.</span></p>
 
 <p><span class="chinese">目击证人能够证实所有的证词。</span><span class="english">The eyewitness can substantiate all the testimony.</span></p>

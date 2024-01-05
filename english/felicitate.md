@@ -1,5 +1,7 @@
 # felicitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felicitate.md)
+
 <p><span class="chinese">我庆幸我找到你的那一天。</span><span class="english">I felicitate the day I found you.</span></p>
 
 <p><span class="chinese">当所有的陌生人也发短信来祝贺我生日的时候，我就知道那是包子。</span><span class="english">It was so amazing when there were so many strangers to felicitate my birthday.</span></p>

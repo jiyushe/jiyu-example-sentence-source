@@ -1,5 +1,7 @@
 # reckoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reckoning.md)
+
 <p><span class="chinese">我正在指望着你的帮助。</span><span class="english">I am reckoning on your help.</span></p>
 
 <p><span class="chinese">愚人常短于心计。</span><span class="english">A fool always comes short of his reckoning.</span></p>

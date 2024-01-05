@@ -1,5 +1,7 @@
 # duroc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duroc.md)
+
 <p><span class="chinese">杜洛克的体况在产仔时更容易掉膘。</span><span class="english">Duroc are more likely to be over conditioned at farrowing time.</span></p>
 
 <p><span class="chinese">将杜洛克猪血液导入甘肃黑猪后能使其发生染色体遗传变异。</span><span class="english">The variation of chromosomes of Gansu Black pig was caused by infusion of Duroc blood.</span></p>

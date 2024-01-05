@@ -1,5 +1,7 @@
 # eutrophication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eutrophication.md)
+
 <p><span class="chinese">滇池是中国水体富营养化最严重的湖泊之一。</span><span class="english">Dianchi is one of the most eutrophication lake in China.</span></p>
 
 <p><span class="chinese">目前水体富营养化是一个全球性的环境问题。</span><span class="english">Waterbody eutrophication is a global problem at present.</span></p>

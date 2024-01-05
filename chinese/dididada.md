@@ -1,5 +1,7 @@
 # 滴滴答答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dididada.md)
+
 <p><span class="chinese">雨，滴滴答答的下了一整夜。</span><span class="english">It rained for a whole night.</span></p>
 
 <p><span class="chinese">雨，滴滴答答的下了一整夜。</span><span class="english">The rain falls the whole night.</span></p>

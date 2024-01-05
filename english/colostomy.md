@@ -1,5 +1,7 @@
 # colostomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colostomy.md)
+
 <p><span class="chinese">低位吻合口漏的治疗应尽早采取近端结肠造瘘术。</span><span class="english">Proximal colostomy was necessary to treat low anastomotic leakage.</span></p>
 
 <p><span class="chinese">造口脱垂是环状大肠造口常见的晚期并发症。</span><span class="english">Stoma prolapse is a common late complication following loop transverse colostomy.</span></p>

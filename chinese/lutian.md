@@ -1,5 +1,7 @@
 # 露天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lutian.md)
+
 <p><span class="chinese">你可以露天就餐。</span><span class="english">You may dine alfresco.</span></p>
 
 <p><span class="chinese">我们还是买露天看台座位好了。</span><span class="english">Let's just get bleacher seats.</span></p>

@@ -1,5 +1,7 @@
 # milepost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milepost.md)
+
 <p><span class="chinese">对这一篇的回复又是一个里程碑。</span><span class="english">It is a milepost to this one reply.</span></p>
 
 <p><span class="chinese">手与脚的分工，是人类进化的一个里程碑。</span><span class="english">The division of labor of hand and foot, it is a milepost of human evolution.</span></p>

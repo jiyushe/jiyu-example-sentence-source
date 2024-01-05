@@ -1,5 +1,7 @@
 # postdoctoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postdoctoral.md)
+
 <p><span class="chinese">其中一位是博士后马克·卡普里奥</span><span class="english">One is a Postdoctoral Fellow, Mark Caprio.</span></p>
 
 <p><span class="chinese">她现在是华盛顿大学的博士后。</span><span class="english">She is now a postdoctoral fellow at Washington University.</span></p>

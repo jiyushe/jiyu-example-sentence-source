@@ -1,5 +1,7 @@
 # impersonally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impersonally.md)
+
 <p><span class="chinese">因为我们有被客体化的动物，我们能够不掺杂感情地对待它们。</span><span class="english">Because we have objectified animals , we are able to treat them impersonally.</span></p>
 
 <p><span class="chinese">随着金融和财税体制改革的深入，客观要求建立国库支持系统。</span><span class="english">With fashion's embed on finance and tax system, exchequer sustain is required impersonally.</span></p>

@@ -1,5 +1,7 @@
 # 群策群力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quncequnli.md)
+
 <p><span class="chinese">大埔区内各团体群策群力推广职业安全信息。</span><span class="english">Organizations gave concerted effort in promoting OSH message.</span></p>
 
 <p><span class="chinese">我们需要群策群力，设法找到一个长期有效的解决办法。</span><span class="english">We need to brainstorm a more permanent solution to a problem.</span></p>

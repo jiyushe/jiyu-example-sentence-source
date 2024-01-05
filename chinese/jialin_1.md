@@ -1,5 +1,7 @@
 # 驾临
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jialin_1.md)
+
 <p><span class="chinese">他的仆人通报怀特夫妇驾临。</span><span class="english">His servantannounced Mr. and Mrs. White.</span></p>
 
 <p><span class="chinese">今天女王驾临，使我们不胜荣幸。</span><span class="english">Today the Queen is honouring us with her presence.</span></p>

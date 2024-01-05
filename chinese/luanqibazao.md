@@ -1,5 +1,7 @@
 # 乱七八糟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanqibazao.md)
+
 <p><span class="chinese">新书桌上已被刻得乱七八糟。</span><span class="english">New desk was snicked badly.</span></p>
 
 <p><span class="chinese">心里面乱七八糟的。</span><span class="english">Heart inside the topsy-turvy.</span></p>

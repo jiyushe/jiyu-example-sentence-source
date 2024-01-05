@@ -1,5 +1,7 @@
 # heartsick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartsick.md)
+
 <p><span class="chinese">悲痛的心情，在此时爆发。</span><span class="english">Heartsick mood, break out at this time.</span></p>
 
 <p><span class="chinese">你听说过一个人被苦恼？</span><span class="english">Have you heard of a person being heartsick ?</span></p>

@@ -1,5 +1,7 @@
 # 试验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyan_4.md)
+
 <p><span class="chinese">交叉试验。</span><span class="english">Cross-over trials.</span></p>
 
 <p><span class="chinese">在动物体上试验。</span><span class="english">Testing in Animals.</span></p>

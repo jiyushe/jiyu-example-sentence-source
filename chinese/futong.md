@@ -1,5 +1,7 @@
 # 腹痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/futong.md)
+
 <p><span class="chinese">他们可能会主诉腹泻或腹痛。</span><span class="english">They may complain of diarrhea or bellyache.</span></p>
 
 <p><span class="chinese">这是我的结局适宜，我的最后腹痛与请。</span><span class="english">This is my final fit, my final bellyache with.</span></p>

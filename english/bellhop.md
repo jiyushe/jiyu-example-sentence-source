@@ -1,5 +1,7 @@
 # bellhop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellhop.md)
+
 <p><span class="chinese">我帮您叫行李员好吗?。</span><span class="english">Shall I call the bellhop?</span></p>
 
 <p><span class="chinese">一个服务员把我们带到房间。</span><span class="english">A bellhop conducted us to our room.</span></p>

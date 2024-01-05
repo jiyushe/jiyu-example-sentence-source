@@ -1,5 +1,7 @@
 # 小豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaodou.md)
+
 <p><span class="chinese">她莫小豆也是有骨气的！</span><span class="english">Her Mo Xiaodou also is backboned!</span></p>
 
 <p><span class="chinese">正在那个时候袋鼠妈妈和小豆走了过来。</span><span class="english">Just then Kanga and Roo came along.</span></p>

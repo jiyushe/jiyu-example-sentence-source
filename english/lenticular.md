@@ -1,5 +1,7 @@
 # lenticular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lenticular.md)
+
 <p><span class="chinese">另外，它也呈楔状至透镜状。</span><span class="english">It is also wedge-shaped to lenticular.</span></p>
 
 <p><span class="chinese">透镜仪器给艾滋病人使用后应消毒。</span><span class="english">Disinfection answers after lenticular instrument is used to AIDS person.</span></p>

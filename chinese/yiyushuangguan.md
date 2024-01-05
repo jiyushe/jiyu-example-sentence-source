@@ -1,5 +1,7 @@
 # 一语双关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyushuangguan.md)
+
 <p><span class="chinese">一语双关，威胁之意毕现。</span><span class="english">A pass, the idea of menace finishes now.</span></p>
 
 <p><span class="chinese">英国幽默有很多是靠一语双关而得。</span><span class="english">Much British humour depends on ambiguity.</span></p>

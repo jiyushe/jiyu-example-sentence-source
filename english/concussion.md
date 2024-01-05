@@ -1,5 +1,7 @@
 # concussion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concussion.md)
+
 <p><span class="chinese">福格特被打断右颧骨严重脑震荡。</span><span class="english">Voigt suffered a fractured right cheekbone and a severe concussion.</span></p>
 
 <p><span class="chinese">水下的震动也杀死了一些在被淹的主甲板附近的船员。</span><span class="english">The underwater concussion killed those near the submerged main deck.</span></p>

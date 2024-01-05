@@ -1,5 +1,7 @@
 # continua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continua.md)
+
 <p><span class="chinese">2004年4月，常青画廊参加了在北京举办的第一届当代艺术展。</span><span class="english">In April 2004 Galleria Continua participated in the first contemporary art fair in Beijing.</span></p>
 
 <p><span class="chinese">第二章考虑连续统上群作用的可扩性与几何熵。</span><span class="english">In Chapter two, we consider the expansiveness and geometric entropy of group actions on continua.</span></p>

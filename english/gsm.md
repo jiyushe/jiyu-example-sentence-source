@@ -1,5 +1,7 @@
 # gsm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gsm.md)
+
 <p><span class="chinese">一般技术移民评分标准审核将在2010年上半年进行。</span><span class="english">The GSM Points Test Review will be undertaken in the first half of 2010.</span></p>
 
 <p><span class="chinese">它有两种型号，分别是欧洲用的三频版本和美国用的双频版本。</span><span class="english">Two models available, which are Tri-Band GSM for Europe and dual band for the states.</span></p>

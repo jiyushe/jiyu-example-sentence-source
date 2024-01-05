@@ -1,5 +1,7 @@
 # 亏空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuikong.md)
+
 <p><span class="chinese">这家公司亏空3000美元。</span><span class="english">The company had a deficit of＄3000.</span></p>
 
 <p><span class="chinese">我们的教育亏空太大，不容忽视。</span><span class="english">Our education deficit is too wide to ignore.</span></p>

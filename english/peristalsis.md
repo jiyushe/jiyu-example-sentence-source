@@ -1,5 +1,7 @@
 # peristalsis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peristalsis.md)
+
 <p><span class="chinese">这就是所谓的蠕动。</span><span class="english">This is called peristalsis.</span></p>
 
 <p><span class="chinese">它的特点是肠蠕动恢复。</span><span class="english">It is characterized by a return of peristalsis.</span></p>

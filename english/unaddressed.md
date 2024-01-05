@@ -1,5 +1,7 @@
 # unaddressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaddressed.md)
+
 <p><span class="chinese">然而，该报告总结，仍存在尚未解决的问题。</span><span class="english">However, there are still unaddressed problems, the IG concluded.</span></p>
 
 <p><span class="chinese">最后结论中，主要对本文所述的内容进行概括总结，指出文中的不足之处及今后的努力方向。</span><span class="english">The conclusion sums up this paper, and points out the unaddressed field and the possible direction for future research.</span></p>

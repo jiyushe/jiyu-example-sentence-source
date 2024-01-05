@@ -1,5 +1,7 @@
 # complacence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complacence.md)
+
 <p><span class="chinese">我认为自满，就是心之凶德。</span><span class="english">I argue that it is complacence.</span></p>
 
 <p><span class="chinese">你听到的是沾沾自喜的声音。</span><span class="english">What you’re hearing is the voice of complacence.</span></p>

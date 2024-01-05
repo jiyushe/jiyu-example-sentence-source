@@ -1,5 +1,7 @@
 # axel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axel.md)
+
 <p><span class="chinese">很少的韩国人知道三个一组的前外一周半跳和三个后内结环一周跳的差别。</span><span class="english">Few South Koreans know the difference between a triple axel and a triple salchow.</span></p>
 
 <p><span class="chinese">很少的韩国人知道三个一组的前外一周半跳和三个后内结环一周跳的差别。</span><span class="english">Few South Koreans know the difference between a triple axel and a triple salchow . But they wanted Ms.</span></p>

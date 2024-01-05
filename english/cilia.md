@@ -1,5 +1,7 @@
 # cilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cilia.md)
+
 <p><span class="chinese">在呼吸道的表面布满了微小的毛发，称为为纤毛。</span><span class="english">The airways are lined with tiny hairs known as cilia.</span></p>
 
 <p><span class="chinese">请本台东亚编辑西莉亚·哈顿讲一下他们的故事。</span><span class="english">Our east Asia editor Cilia Hatton told me their story.</span></p>

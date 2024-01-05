@@ -1,5 +1,7 @@
 # perpendicularly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpendicularly.md)
+
 <p><span class="chinese">价格直线上升。</span><span class="english">Price has risen perpendicularly.</span></p>
 
 <p><span class="chinese">有时我们好像几乎是在垂直向上爬。</span><span class="english">It seemed at times that we were climbing almost perpendicularly.</span></p>

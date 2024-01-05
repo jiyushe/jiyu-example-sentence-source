@@ -1,5 +1,7 @@
 # 唐菖蒲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangchangpu.md)
+
 <p><span class="chinese">用电子束辐射唐菖蒲种球，研究唐菖蒲的诱变育种。</span><span class="english">Technique of mutation breeding in gladiola was studied by means of electron beam.</span></p>
 
 <p><span class="chinese">在郁金香之后其次受欢迎的是水仙花、唐菖蒲、百合和番红花。</span><span class="english">The tulip is followed in popularity by the daffodil, the gladiolus, the lily and the crocus.</span></p>

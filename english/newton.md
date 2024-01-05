@@ -1,5 +1,7 @@
 # newton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newton.md)
+
 <p><span class="chinese">根据牛顿定律</span><span class="english">We go to Newton.</span></p>
 
 <p><span class="chinese">即便是牛顿也掉进过这个圈套。</span><span class="english">Even Newton fell into this trap.</span></p>

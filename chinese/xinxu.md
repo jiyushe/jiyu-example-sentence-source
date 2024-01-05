@@ -1,5 +1,7 @@
 # 心绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxu.md)
+
 <p><span class="chinese">是什么令你心绪不安?</span><span class="english">What lets you het up?</span></p>
 
 <p><span class="chinese">幸福的生活存在于心绪的宁静之中。</span><span class="english">Happy life lies in a peaceful mind.</span></p>

@@ -1,5 +1,7 @@
 # 求偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuou.md)
+
 <p><span class="chinese">求偶的水蟒团成一个球。</span><span class="english">A mating ball of anacondas.</span></p>
 
 <p><span class="chinese">鸳鸯做出求偶表示然后进行交配。</span><span class="english">Mandarin duck displayed and copulated.</span></p>

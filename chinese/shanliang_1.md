@@ -1,5 +1,7 @@
 # 闪亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanliang_1.md)
+
 <p><span class="chinese">金子不都能闪亮。</span><span class="english">All gold is not glitter.</span></p>
 
 <p><span class="chinese">簇新的一天，闪亮登场！</span><span class="english">A new day ! Rise and shine!</span></p>

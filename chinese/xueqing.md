@@ -1,5 +1,7 @@
 # 血清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqing.md)
+
 <p><span class="chinese">血清胆红素是高的。</span><span class="english">Serum bilirubin levels are elevated.</span></p>
 
 <p><span class="chinese">在人的每毫升血清中约含18毫克。</span><span class="english">Per ml in human serum contains about 18 mg.</span></p>

@@ -1,5 +1,7 @@
 # 孤儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guer.md)
+
 <p><span class="chinese">她们都是孤儿。</span><span class="english">Both are orphans.</span></p>
 
 <p><span class="chinese">两个是孤儿。</span><span class="english">Two were orphans.</span></p>

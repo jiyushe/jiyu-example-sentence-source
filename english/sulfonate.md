@@ -1,5 +1,7 @@
 # sulfonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfonate.md)
+
 <p><span class="chinese">基础油中磺酸钙的加入使氮化硅的磨损速率得到降低。</span><span class="english">The calcium sulfonate additive reduces the wear rate of the materials.</span></p>
 
 <p><span class="chinese">复合磺酸钙基润滑脂是优良的通用润滑脂。</span><span class="english">Complex calcium sulfonate grease is excellent multi-purpose lubricating grease.</span></p>

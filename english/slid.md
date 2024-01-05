@@ -1,5 +1,7 @@
 # slid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slid.md)
+
 <p><span class="chinese">书从我的膝盖上滑落了。</span><span class="english">My book slid off my knee.</span></p>
 
 <p><span class="chinese">她溜出房间外。</span><span class="english">She slid out of the room.</span></p>

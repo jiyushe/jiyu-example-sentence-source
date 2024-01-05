@@ -1,5 +1,7 @@
 # Austrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austrian.md)
+
 <p><span class="chinese">他是奥地利人。</span><span class="english">He's Austrian.</span></p>
 
 <p><span class="chinese">他是一位奥地利钢琴家。</span><span class="english">He is an Austrian pianist.</span></p>

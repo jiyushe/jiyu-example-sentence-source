@@ -1,5 +1,7 @@
 # 卫队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidui.md)
+
 <p><span class="chinese">居伊国王和麾下精锐卫队。</span><span class="english">King Guy and his bodyguard.</span></p>
 
 <p><span class="chinese">我把他画成党卫队全副武装的样子。</span><span class="english">I drew him in his SS regalia.</span></p>

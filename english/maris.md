@@ -1,5 +1,7 @@
 # maris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maris.md)
+
 <p><span class="chinese">罗杰·马里斯1961年时击出61支全垒打，使得别的球员脸上无光。</span><span class="english">Maris put other players to shame when he hit 61 home runs in 1961.</span></p>
 
 <p><span class="chinese">罗杰·马里斯1961年时击出61支全垒打，使得别的球员脸上无光。</span><span class="english">Roger Maris put other players to shame when he hit 61 home runs in 1961.</span></p>

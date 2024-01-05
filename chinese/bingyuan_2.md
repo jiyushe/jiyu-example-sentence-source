@@ -1,5 +1,7 @@
 # 病原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuan_2.md)
+
 <p><span class="chinese">但是还是会有一些病原本以孢子的形式存活下来。</span><span class="english">Some pathogens, though, can survive in spore form.</span></p>
 
 <p><span class="chinese">你给我讲讲植物病害的主要病原，好吗?。</span><span class="english">Could you tell me the main causal agents of plant diseases?</span></p>

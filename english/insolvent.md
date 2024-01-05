@@ -1,5 +1,7 @@
 # insolvent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insolvent.md)
+
 <p><span class="chinese">但意大利尚未破产。</span><span class="english">But Italy is not yet insolvent.</span></p>
 
 <p><span class="chinese">你是一个无力偿债的破产者?。</span><span class="english">Are you an unrehabilitated insolvent ?</span></p>

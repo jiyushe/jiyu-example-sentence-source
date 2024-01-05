@@ -1,5 +1,7 @@
 # 轮牧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunmu.md)
+
 <p><span class="chinese">下周我们将更多地探讨轮牧。</span><span class="english">We willtalkmore rotational grazing next week.</span></p>
 
 <p><span class="chinese">专家说，轮牧不仅对草场和牲畜大有裨益，还能节约金钱。</span><span class="english">Experts say rotational grazing is good for the land and the animals, and it can save money.</span></p>

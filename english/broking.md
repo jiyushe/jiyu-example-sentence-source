@@ -1,5 +1,7 @@
 # broking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broking.md)
+
 <p><span class="chinese">天津金谷期货经纪有限公司。</span><span class="english">Tianjin jingu future broking co. ltd.</span></p>
 
 <p><span class="chinese">期货经纪合同属于行纪合同。</span><span class="english">Futures broking contract is a type of broking contract.</span></p>

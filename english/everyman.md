@@ -1,5 +1,7 @@
 # everyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everyman.md)
+
 <p><span class="chinese">他是普通人。</span><span class="english">He is Everyman.</span></p>
 
 <p><span class="chinese">人们称之为人人皆宜的车。</span><span class="english">They called it the car for Everyman.</span></p>

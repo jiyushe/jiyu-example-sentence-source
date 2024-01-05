@@ -1,5 +1,7 @@
 # junkie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junkie.md)
+
 <p><span class="chinese">所有的瘾君子都害怕这一天的到来。</span><span class="english">It's the day every junkie dreads.</span></p>
 
 <p><span class="chinese">怎么回事，你是那种战争狂人吗？</span><span class="english">Why, you some kind of war junkie?</span></p>

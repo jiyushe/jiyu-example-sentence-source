@@ -1,5 +1,7 @@
 # palpitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpitate.md)
+
 <p><span class="chinese">令我激动与心跳。</span><span class="english">So excited and palpitate.</span></p>
 
 <p><span class="chinese">我感到心在怦怦跳。</span><span class="english">I felt my heart palpitate.</span></p>

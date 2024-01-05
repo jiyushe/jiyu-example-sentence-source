@@ -1,5 +1,7 @@
 # cinch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinch.md)
+
 <p><span class="chinese">别担心，这是小事一桩。</span><span class="english">Don’t worry. It’s a cinch.</span></p>
 
 <p><span class="chinese">扣眼长流苏不在话下封闭。</span><span class="english">Grommet cinch closure with long tassels.</span></p>

@@ -1,5 +1,7 @@
 # hymen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hymen.md)
+
 <p><span class="chinese">你说的血不会因处女膜破裂造成的。</span><span class="english">You say The blood will not be caused by ruptured hymen.</span></p>
 
 <p><span class="chinese">处女膜的心理社会学意义是什么和曾经是什么？</span><span class="english">What was and is the psychosocial significance of the hymen?</span></p>

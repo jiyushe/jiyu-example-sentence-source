@@ -1,5 +1,7 @@
 # ultrathin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrathin.md)
+
 <p><span class="chinese">华硕呼吁其设计的超薄。</span><span class="english">ASUS calls its design ultrathin.</span></p>
 
 <p><span class="chinese">另一种是短小超薄型。</span><span class="english">Another kind is smallish and ultrathin model.</span></p>

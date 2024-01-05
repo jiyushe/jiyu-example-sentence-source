@@ -1,5 +1,7 @@
 # 上当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdang.md)
+
 <p><span class="chinese">我上当了!</span><span class="english">I've been diddled!</span></p>
 
 <p><span class="chinese">好好学股，天天上当。</span><span class="english">Good good stary day day up!</span></p>

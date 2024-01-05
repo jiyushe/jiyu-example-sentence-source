@@ -1,5 +1,7 @@
 # wishful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wishful.md)
+
 <p><span class="chinese">第一,一厢情愿</span><span class="english">Wishful thinking.</span></p>
 
 <p><span class="chinese">这是痴心妄想。</span><span class="english">This is wishful thinking.</span></p>

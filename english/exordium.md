@@ -1,5 +1,7 @@
 # exordium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exordium.md)
+
 <p><span class="chinese">全文由绪论和四个章节构成。</span><span class="english">Cat is composed of exordium and four chapters.</span></p>
 
 <p><span class="chinese">论文包括绪论及十章内容。</span><span class="english">This thesis consists of the exordium and ten chapters.</span></p>

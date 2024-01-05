@@ -1,5 +1,7 @@
 # unbreakable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbreakable.md)
+
 <p><span class="chinese">盖玻片不易损坏，没有扭曲面。</span><span class="english">Micro coverslips are unbreakable and non-curling.</span></p>
 
 <p><span class="chinese">因为他们都认为这些游戏是无法破解的。</span><span class="english">Because they all assumed the games are unbreakable.</span></p>

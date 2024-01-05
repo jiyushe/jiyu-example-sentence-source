@@ -1,5 +1,7 @@
 # 流失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushi.md)
+
 <p><span class="chinese">存在巨大的人才流失。</span><span class="english">There is a huge brain drain.</span></p>
 
 <p><span class="chinese">另一个问题是人才流失。</span><span class="english">Another issue is brain drain.</span></p>

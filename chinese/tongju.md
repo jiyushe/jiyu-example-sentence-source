@@ -1,5 +1,7 @@
 # 同居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongju.md)
+
 <p><span class="chinese">他已经和詹妮同居了。</span><span class="english">He's ④ shacked up with Jenny.</span></p>
 
 <p><span class="chinese">与有权势的男人同居的女人。</span><span class="english">A woman who cohabits with a man.</span></p>

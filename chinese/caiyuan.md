@@ -1,5 +1,7 @@
 # 裁员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiyuan.md)
+
 <p><span class="chinese">陈一倩也接到了公司的裁员通知。</span><span class="english">Chen Yiqian also got the pink slip.</span></p>
 
 <p><span class="chinese">裁员有是暂时的，也有是永久性的。</span><span class="english">A lay-off can be temporary or permanent.</span></p>

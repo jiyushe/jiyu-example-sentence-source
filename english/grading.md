@@ -1,5 +1,7 @@
 # grading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grading.md)
+
 <p><span class="chinese">什么是颜色分阶？</span><span class="english">What is Color Grading?</span></p>
 
 <p><span class="chinese">他的评级便显得不再那么困难了“</span><span class="english">His grading was not hard."</span></p>

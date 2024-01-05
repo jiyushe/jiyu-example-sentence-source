@@ -1,5 +1,7 @@
 # 摘抄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaichao.md)
+
 <p><span class="chinese">他从百科全书中摘抄了有关资料。</span><span class="english">He copied the relevant data out of the encyclopaedia.</span></p>
 
 <p><span class="chinese">史钞，摘抄史部书的史籍。</span><span class="english">History notes, excerpt of the history books history books.</span></p>

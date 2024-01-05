@@ -1,5 +1,7 @@
 # 社评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheping.md)
+
 <p><span class="chinese">不过在2010年它放弃了维基百科的方式，采用了新的，加入社评的口吻。</span><span class="english">But in 2010 it abandoned the wiki-style approach and adopted a new, editorialising tone.</span></p>
 
 <p><span class="chinese">至少这是中国一家国家媒体的社评所传达的信息，这篇文章在中国互联网上引起了轰动。</span><span class="english">Such at least is the message of a state media editorial that is making waves on the Chinese Internet.</span></p>

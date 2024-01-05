@@ -1,5 +1,7 @@
 # 抑郁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyu_6.md)
+
 <p><span class="chinese">抑郁是什么？</span><span class="english">What Is Depression?</span></p>
 
 <p><span class="chinese">这是一种易产生抑郁的疾病。</span><span class="english">This is a depressive illness.</span></p>

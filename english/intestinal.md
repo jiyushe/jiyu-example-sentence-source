@@ -1,5 +1,7 @@
 # intestinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intestinal.md)
+
 <p><span class="chinese">穷年忧黎元，叹息肠内热。</span><span class="english">The poor worry, intestinal heat sigh.</span></p>
 
 <p><span class="chinese">不要使用，如果您有肠阻塞。</span><span class="english">Do not use if you have intestinal blockage.</span></p>

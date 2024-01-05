@@ -1,5 +1,7 @@
 # 哀悼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aidao.md)
+
 <p><span class="chinese">我们哀悼它的消失。</span><span class="english">We lament its loss.</span></p>
 
 <p><span class="chinese">但是我们不应该哀悼。</span><span class="english">But we should not mourn.</span></p>

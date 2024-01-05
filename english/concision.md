@@ -1,5 +1,7 @@
 # concision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concision.md)
+
 <p><span class="chinese">用埃拉。庞德的话讲写作的艺术在于简洁。</span><span class="english">The whole art of writing was, in the words of Ezra Pound, concision.</span></p>
 
 <p><span class="chinese">其特点是语言的规范化、模式化、语义单一化和通话内容简洁化。</span><span class="english">Such a language is known for its standardization, normalization, unicity and concision.</span></p>

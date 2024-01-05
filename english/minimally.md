@@ -1,5 +1,7 @@
 # minimally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimally.md)
+
 <p><span class="chinese">微创种植牙的概念？</span><span class="english">Concept of Minimally Invasive Dental Implant?</span></p>
 
 <p><span class="chinese">目前他的一般状态评分为1，并有轻度的肝功能异常。</span><span class="english">Now his PS is1 and he has minimally abnormal LFTs.</span></p>

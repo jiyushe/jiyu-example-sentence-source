@@ -1,5 +1,7 @@
 # 挥汗如雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihanruyu.md)
+
 <p><span class="chinese">挥汗如雨过夏天，这也是需要一点精神力量的。</span><span class="english">That's the spirit of this summer of sweat.</span></p>
 
 <p><span class="chinese">固然我什么都没做，但仍是挥汗如雨。</span><span class="english">I am sweating like a pig, and I'm not doing anything.</span></p>

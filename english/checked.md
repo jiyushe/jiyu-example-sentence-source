@@ -1,5 +1,7 @@
 # checked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checked.md)
+
 <p><span class="chinese">他是在12点15分登记入住的。</span><span class="english">He checked in at 12.15.</span></p>
 
 <p><span class="chinese">我把行李寄存在存包处了。</span><span class="english">I've checked my bag in.</span></p>

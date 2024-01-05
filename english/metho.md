@@ -1,5 +1,7 @@
 # metho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metho.md)
+
 <p><span class="chinese">方法整理分析我院1974—2003年住院患者的病案资料。</span><span class="english">Metho ds All medical records of in-patients were collected and analyzed.</span></p>
 
 <p><span class="chinese">方法采用腹腔镜下胃局部切除术治疗91例胃良性肿瘤。</span><span class="english">Metho ds Appl ying laparoscopic local resection to treat 91 cases of benign gastric tumor.</span></p>

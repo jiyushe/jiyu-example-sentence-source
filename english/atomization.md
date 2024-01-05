@@ -1,5 +1,7 @@
 # atomization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomization.md)
+
 <p><span class="chinese">探针原子化法是一种新技术。</span><span class="english">The probe atomization is a new technique.</span></p>
 
 <p><span class="chinese">喷嘴芯是压力型雾化喷嘴的关键部件。</span><span class="english">Nozzle core is the key part of the pressure atomization nozzle.</span></p>

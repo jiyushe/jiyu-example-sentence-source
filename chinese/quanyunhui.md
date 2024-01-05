@@ -1,5 +1,7 @@
 # 全运会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyunhui.md)
+
 <p><span class="chinese">山东是11届全运会的东道主。</span><span class="english">Shandong is the host of the 11th National Games.</span></p>
 
 <p><span class="chinese">这些天11届全运会是最热门的电视节目了。</span><span class="english">These days the 11th National Games are the hottest TV shows.</span></p>

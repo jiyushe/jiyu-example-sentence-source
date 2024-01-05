@@ -1,5 +1,7 @@
 # 年轻力壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianqinglizhuang.md)
+
 <p><span class="chinese">我年轻力壮时能行。</span><span class="english">I could have in my time.</span></p>
 
 <p><span class="chinese">我不如以前那样年轻力壮了。</span><span class="english">I am not as young as I was.</span></p>

@@ -1,5 +1,7 @@
 # reduplicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reduplicate.md)
+
 <p><span class="chinese">为了让性爱存在，符号必须复制生物的存在。</span><span class="english">In order for sex to exist, signs must reduplicate biological being.</span></p>
 
 <p><span class="chinese">园林设计的设计过程是设计师与场地之间反复对话交流的过程。</span><span class="english">The procedure of landscape architecture planning is a reduplicate dialogue between a planner and the site.</span></p>

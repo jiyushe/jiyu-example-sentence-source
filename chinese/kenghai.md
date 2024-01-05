@@ -1,5 +1,7 @@
 # 坑害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kenghai.md)
+
 <p><span class="chinese">他们在热那亚一味坑害她。</span><span class="english">They let her in at Genoa.</span></p>
 
 <p><span class="chinese">他否认坑害过物主。</span><span class="english">He denied doing any harm to the owner.</span></p>

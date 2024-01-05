@@ -1,5 +1,7 @@
 # oba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oba.md)
+
 <p><span class="chinese">奥巴牛?你真的很牛！</span><span class="english">Oba buffalo? You really cow!</span></p>
 
 <p><span class="chinese">按时完成过程、最终、开箱检验工作。</span><span class="english">Timely complete in-process , finally inspection and OBA.</span></p>

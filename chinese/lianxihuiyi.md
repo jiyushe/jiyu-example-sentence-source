@@ -1,5 +1,7 @@
 # 联席会议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxihuiyi.md)
+
 <p><span class="chinese">参谋长联席会议成员要求早一点与他们会面，这带来了一个麻烦。</span><span class="english">The Joint Chiefs’ early request for a meeting created a problem.</span></p>
 
 <p><span class="chinese">韩总统李在首尔举行了参谋长联席会议。</span><span class="english">President Lee held a meeting with the Joint Chiefs of Staff in Seoul.</span></p>

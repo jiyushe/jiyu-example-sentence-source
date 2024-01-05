@@ -1,5 +1,7 @@
 # funereal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funereal.md)
+
 <p><span class="chinese">可是那样会不会太像葬礼了？</span><span class="english">Or would that be too funereal?</span></p>
 
 <p><span class="chinese">你可是等待几滴眼泪的一只骨灰瓮？</span><span class="english">A funereal urn awaiting a few tears?</span></p>

@@ -1,5 +1,7 @@
 # ashtray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashtray.md)
+
 <p><span class="chinese">请给我一个烟灰缸好吗？</span><span class="english">Can I have an ashtray ,please?</span></p>
 
 <p><span class="chinese">请阁下把烟头放在烟灰缸内。</span><span class="english">Please put dog-end into ashtray.</span></p>

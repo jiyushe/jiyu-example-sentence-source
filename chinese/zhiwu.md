@@ -1,5 +1,7 @@
 # 支吾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwu.md)
+
 <p><span class="chinese">她支吾着避而不答这个问题。</span><span class="english">She stalled and evaded the question.</span></p>
 
 <p><span class="chinese">他东拉西扯的把真相支吾过去了。</span><span class="english">He stalled off the truth with rambling.</span></p>

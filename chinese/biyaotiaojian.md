@@ -1,5 +1,7 @@
 # 必要条件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyaotiaojian.md)
+
 <p><span class="chinese">一些必要条件的它能做正确的操作。</span><span class="english">It's going to do the right thing.</span></p>
 
 <p><span class="chinese">笑的必要条件是有另一个人存在。</span><span class="english">The requirement for laughter is another person.</span></p>

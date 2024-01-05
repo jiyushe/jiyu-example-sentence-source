@@ -1,5 +1,7 @@
 # crystallization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystallization.md)
+
 <p><span class="chinese">这个反应我们称为结晶。</span><span class="english">And this reaction is what we call crystallization.</span></p>
 
 <p><span class="chinese">生活又是知识与劳动的结晶。</span><span class="english">Of life is the crystallization of knowledge and labor.</span></p>

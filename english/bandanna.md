@@ -1,5 +1,7 @@
 # bandanna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandanna.md)
+
 <p><span class="chinese">难道你不喜欢我的头巾吗？</span><span class="english">Don't you like my bandanna?</span></p>
 
 <p><span class="chinese">这些天，她的印花大手帕通常是红色的。</span><span class="english">These days, her bandanna is usually red.</span></p>

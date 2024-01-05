@@ -1,5 +1,7 @@
 # midge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midge.md)
+
 <p><span class="chinese">吸浆虫眼部分头部的特写</span><span class="english">Close-up of part of midge head</span></p>
 
 <p><span class="chinese">米吉还不能十分确定原因何在。</span><span class="english">Midge couldn't quite put her finger on the reason.</span></p>

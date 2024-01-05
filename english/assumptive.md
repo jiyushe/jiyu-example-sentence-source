@@ -1,5 +1,7 @@
 # assumptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assumptive.md)
+
 <p><span class="chinese">针对非线性系统，提出了一种新的直接自适应控制方法。</span><span class="english">This new direct adaptive control law is independent of these assumptive conditions.</span></p>
 
 <p><span class="chinese">这个过程就像我为他们提供了一个电影里的假设环境，让大家生活在其中。</span><span class="english">It's just like I set up an assumptive environment of the film to get everyone lived in.</span></p>

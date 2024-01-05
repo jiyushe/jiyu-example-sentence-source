@@ -1,5 +1,7 @@
 # beatrice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatrice.md)
+
 <p><span class="chinese">比阿特丽斯</span><span class="english">Beatrice.</span></p>
 
 <p><span class="chinese">比阿特丽斯赢了这次选举</span><span class="english">Beatrice won this election.</span></p>

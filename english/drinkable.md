@@ -1,5 +1,7 @@
 # drinkable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drinkable.md)
+
 <p><span class="chinese">当然，它是可生饮的。</span><span class="english">Sure it's drinkable.</span></p>
 
 <p><span class="chinese">房间里的自来水可生饮吗？</span><span class="english">Is the tap water in our room drinkable?</span></p>

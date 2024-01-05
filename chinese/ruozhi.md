@@ -1,5 +1,7 @@
 # 弱质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruozhi.md)
+
 <p><span class="chinese">中国是一个农业大国，但农业却是中国的弱质产业。</span><span class="english">China is a great agricultural country, but in China agriculture is weak.</span></p>
 
 <p><span class="chinese">农业是一个基础产业，同时又是一个弱质产业。</span><span class="english">Agriculture is a basic industry, at the same time it is also a weak industry.</span></p>

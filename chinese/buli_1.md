@@ -1,5 +1,7 @@
 # 不理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buli_1.md)
+
 <p><span class="chinese">孩子们都不理我。</span><span class="english">The children ignore me.</span></p>
 
 <p><span class="chinese">树熊不理会。</span><span class="english">The koala took no notice.</span></p>

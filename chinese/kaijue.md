@@ -1,5 +1,7 @@
 # 开掘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijue.md)
+
 <p><span class="chinese">他们还喜欢想象力强、开掘思维的工作，像科学家和工程师。</span><span class="english">They make great scientists and engineers.</span></p>
 
 <p><span class="chinese">开掘渠道把水引进沙漠。</span><span class="english">Canals have been built to take water to the desert.</span></p>

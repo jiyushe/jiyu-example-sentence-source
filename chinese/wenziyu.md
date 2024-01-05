@@ -1,5 +1,7 @@
 # 文字狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenziyu.md)
+
 <p><span class="chinese">清代是我国文字狱最多的朝代。</span><span class="english">The Qing Dynasty is our country literary inquisition most dynasty.</span></p>
 
 <p><span class="chinese">但真正意义上对清代文字狱的研究则从清代灭亡开始。</span><span class="english">However, a study of literary inquisition began at the end of the Qing Dynasty.</span></p>

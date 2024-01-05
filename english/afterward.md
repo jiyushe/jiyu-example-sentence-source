@@ -1,5 +1,7 @@
 # afterward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterward.md)
+
 <p><span class="chinese">许多学者之后身陷囹圄。</span><span class="english">Many were jailed afterward.</span></p>
 
 <p><span class="chinese">不久之后东扎镇就出现了。</span><span class="english">Soon afterward drought set in.</span></p>

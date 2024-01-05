@@ -1,5 +1,7 @@
 # 分句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenju.md)
+
 <p><span class="chinese">什么是短语？什么是分句？</span><span class="english">What is a phrase? What is a clause?</span></p>
 
 <p><span class="chinese">句子可分成分句。</span><span class="english">Sentences can be broken up into clauses.</span></p>

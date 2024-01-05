@@ -1,5 +1,7 @@
 # retailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retailing.md)
+
 <p><span class="chinese">汽车业和零售业继续处于困境。</span><span class="english">The auto industry and retailing remain in distress.</span></p>
 
 <p><span class="chinese">销售在中国成功与否与地理位置密切相关。</span><span class="english">locate. Retailing success in China hinges on co-location.</span></p>

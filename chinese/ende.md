@@ -1,5 +1,7 @@
 # 恩德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ende.md)
+
 <p><span class="chinese">因为许多人北方的恩德斯它依然是。</span><span class="english">For many North Enders it still is.</span></p>
 
 <p><span class="chinese">总有一天我会报答你对我的恩德。</span><span class="english">I will repay your benefaction one day.</span></p>

@@ -1,5 +1,7 @@
 # opaque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opaque.md)
+
 <p><span class="chinese">深沉的暗紫色。</span><span class="english">Deep opaque purple.</span></p>
 
 <p><span class="chinese">不透明白斗鱼就是这种鱼。</span><span class="english">White Opaques must be Opaque.</span></p>

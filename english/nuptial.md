@@ -1,5 +1,7 @@
 # nuptial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuptial.md)
+
 <p><span class="chinese">他们的婚姻出现了裂痕。</span><span class="english">A nuptial breach appeared between them.</span></p>
 
 <p><span class="chinese">弥撒中降福婚配，是什麽意思？</span><span class="english">What is the meaning of the Nuptial Blessing at Mass?</span></p>

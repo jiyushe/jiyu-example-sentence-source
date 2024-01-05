@@ -1,5 +1,7 @@
 # 绝技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueji_1.md)
+
 <p><span class="chinese">杂技演员表演的绝技。</span><span class="english">A performance by mummers.</span></p>
 
 <p><span class="chinese">他的必杀绝技是飞刀。</span><span class="english">He is deadly with a blade.</span></p>

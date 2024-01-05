@@ -1,5 +1,7 @@
 # chandelier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chandelier.md)
+
 <p><span class="chinese">我不想吊在一棵枝形吊灯上。</span><span class="english">I don't want to dangle from a chandelier.</span></p>
 
 <p><span class="chinese">这盏大吊灯从设计到制造都是在澳大利亚完成的。</span><span class="english">This chandelier was designed and made in Austria.</span></p>

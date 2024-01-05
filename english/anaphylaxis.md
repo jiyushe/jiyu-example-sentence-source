@@ -1,5 +1,7 @@
 # anaphylaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaphylaxis.md)
+
 <p><span class="chinese">我不导致过敏性反应…</span><span class="english">I didn't cause the anaphylaxis.</span></p>
 
 <p><span class="chinese">全身的过敏性也曾有报道。</span><span class="english">A systemic anaphylaxis has also been described.</span></p>

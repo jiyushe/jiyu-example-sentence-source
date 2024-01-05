@@ -1,5 +1,7 @@
 # 增辉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zenghui.md)
+
 <p><span class="chinese">你让我今天增辉不少。</span><span class="english">You brighten my day.</span></p>
 
 <p><span class="chinese">这张新地毯使房间增辉不少。</span><span class="english">The new carpet brightened the room.</span></p>

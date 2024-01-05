@@ -1,5 +1,7 @@
 # wushu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wushu.md)
+
 <p><span class="chinese">您也是武侠迷吗？</span><span class="english">Are you a wushu fan?</span></p>
 
 <p><span class="chinese">武术队的丰收日！</span><span class="english">The Vintage Day of the Wushu team!</span></p>

@@ -1,5 +1,7 @@
 # 叠翠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diecui.md)
+
 <p><span class="chinese">群峰层峦叠翠岩，峭壁林立。</span><span class="english">The mountain has numerous peaks and steep cliffs.</span></p>
 
 <p><span class="chinese">叠翠轩可以执行高达150升降机一次充电。</span><span class="english">The Pinnacle can perform up to 150 lifts on a single charge.</span></p>

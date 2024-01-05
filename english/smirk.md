@@ -1,5 +1,7 @@
 # smirk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smirk.md)
+
 <p><span class="chinese">嘲笑轻蔑或嘲弄地假笑或笑。</span><span class="english">To smirk or laughincontempt or derision.</span></p>
 
 <p><span class="chinese">看着他的笑容，那根本就是在奸笑。</span><span class="english">Look at his smile, really more of a smirk.</span></p>

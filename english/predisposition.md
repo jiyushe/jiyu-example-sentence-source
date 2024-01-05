@@ -1,5 +1,7 @@
 # predisposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predisposition.md)
+
 <p><span class="chinese">但它和结构主义,有一个共同的理论倾向。</span><span class="english">It shares, however, with structuralism a theoretical predisposition.</span></p>
 
 <p><span class="chinese">但他没有表示出将很快加息的倾向。</span><span class="english">But he did not indicate a predisposition to raise interest rates soon.</span></p>

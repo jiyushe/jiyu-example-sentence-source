@@ -1,5 +1,7 @@
 # shuttle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shuttle.md)
+
 <p><span class="chinese">不同意换球。</span><span class="english">Do not change the shuttle.</span></p>
 
 <p><span class="chinese">跑道上机场专车来回穿梭。</span><span class="english">The airport shuttle on the runway.</span></p>

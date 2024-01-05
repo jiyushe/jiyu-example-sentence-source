@@ -1,5 +1,7 @@
 # brilliantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brilliantly.md)
+
 <p><span class="chinese">那些商店灯光明亮。</span><span class="english">The shops were brilliantly lit up.</span></p>
 
 <p><span class="chinese">她的珠宝在灯光下灿烂发光。</span><span class="english">Her jewels shone brilliantly in the lamplight.</span></p>

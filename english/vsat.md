@@ -1,5 +1,7 @@
 # vsat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vsat.md)
+
 <p><span class="chinese">本文介绍卫星通信VSAT技术。</span><span class="english">The paper introduces VSAT technique in satellite communication.</span></p>
 
 <p><span class="chinese">该平台为卫星设备检测维修提供了一种新的方法。</span><span class="english">The design recommends a new method to the VSAT equipment test for servicing.</span></p>

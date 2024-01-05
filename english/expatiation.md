@@ -1,5 +1,7 @@
 # expatiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expatiation.md)
+
 <p><span class="chinese">该文就此系统作了详细阐述，意在为做此类调查船的设计师提供设计依据。</span><span class="english">This paper makes expatiation of the system to provide design basis for the designer of this ship type.</span></p>
 
 <p><span class="chinese">彭建忠的这些作品所营造出来的超现实的场景，也同样给我们一种寓言性的阐释。</span><span class="english">Also the super realistic scenes constructed by the works of Peng Jianzhong bring us an allegoric expatiation.</span></p>

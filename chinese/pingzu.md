@@ -1,5 +1,7 @@
 # 平足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzu.md)
+
 <p><span class="chinese">或者你真的属于平足？</span><span class="english">Are you in fact, truly flat-footed?</span></p>
 
 <p><span class="chinese">如果在印迹上双脚清晰可见，那么你就是平足。</span><span class="english">If your entire foot is visible in the footprint, you have a flat foot.</span></p>

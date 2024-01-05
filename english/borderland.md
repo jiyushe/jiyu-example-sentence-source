@@ -1,5 +1,7 @@
 # borderland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borderland.md)
+
 <p><span class="chinese">现在，你在这个边陲之地的学习之期已近尾声。</span><span class="english">Now, the end of your time at this borderland school draws near.</span></p>
 
 <p><span class="chinese">伯恩赛德感情强烈的抒情诗介于两个世界之间。</span><span class="english">Burnside's intensely lyric poems occupy a borderland between two worlds.</span></p>

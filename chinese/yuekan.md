@@ -1,5 +1,7 @@
 # 月刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuekan.md)
+
 <p><span class="chinese">我订了一份月刊。</span><span class="english">Me suscribí a una revista mensual.</span></p>
 
 <p><span class="chinese">本刊为月刊，大16开本。</span><span class="english">This print magazine, large format 16.</span></p>

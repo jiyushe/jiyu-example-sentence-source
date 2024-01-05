@@ -1,5 +1,7 @@
 # praxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/praxis.md)
+
 <p><span class="chinese">瑞吉斯已经不会出现在普拉西斯星上了！</span><span class="english">The Regis is no longer on Praxis !</span></p>
 
 <p><span class="chinese">信息-科学与实践。</span><span class="english">Information- Wissenschaft und Praxis.</span></p>

@@ -1,5 +1,7 @@
 # 三色堇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sansejin.md)
+
 <p><span class="chinese">最后摆上三色堇装饰。</span><span class="english">Finish with 2 pansies and serve.</span></p>
 
 <p><span class="chinese">五颜六色的三色堇是大阪，日本的花。</span><span class="english">The colorful pansy is the flower of Osaka, Japan.</span></p>

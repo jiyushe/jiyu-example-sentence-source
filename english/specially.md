@@ -1,5 +1,7 @@
 # specially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specially.md)
+
 <p><span class="chinese">团体价格另议。</span><span class="english">A group price will specially.</span></p>
 
 <p><span class="chinese">我是特地来接您的。</span><span class="english">I'm here specially to meet you.</span></p>

@@ -1,5 +1,7 @@
 # bac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bac.md)
+
 <p><span class="chinese">老人在深雪中跋涉走向家中。</span><span class="english">The old man trudged through the deep snow bac towards home.</span></p>
 
 <p><span class="chinese">HRCT是孤立型细支气管肺泡癌诊断及鉴别诊断的重要手段。</span><span class="english">HRCT is important in diagnosis and differential diagnosis of localized BAC.</span></p>

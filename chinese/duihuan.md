@@ -1,5 +1,7 @@
 # 兑换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duihuan.md)
+
 <p><span class="chinese">好的，这是兑换水单。</span><span class="english">This is exchange memo.</span></p>
 
 <p><span class="chinese">请保存好您的兑换水单。</span><span class="english">Please keep the exchange memo.</span></p>

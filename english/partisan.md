@@ -1,5 +1,7 @@
 # partisan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partisan.md)
+
 <p><span class="chinese">只是表示他们具有党派性。</span><span class="english">it just means they are partisan.</span></p>
 
 <p><span class="chinese">党派之间动嘴皮子的时间已经过去了。</span><span class="english">The time for partisan bickering is over.</span></p>

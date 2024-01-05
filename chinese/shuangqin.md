@@ -1,5 +1,7 @@
 # 双亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangqin.md)
+
 <p><span class="chinese">他依靠双亲生活。</span><span class="english">He subsists on his parents.</span></p>
 
 <p><span class="chinese">他的双亲都参与了此次战斗。</span><span class="english">Both his parents fought in it.</span></p>

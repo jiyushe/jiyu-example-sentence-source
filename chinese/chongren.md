@@ -1,5 +1,7 @@
 # 充任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongren.md)
+
 <p><span class="chinese">他充任仲裁人。</span><span class="english">He acted as arbiter.</span></p>
 
 <p><span class="chinese">这女孩子充任我们的向导。</span><span class="english">This girl acted as our guide.</span></p>

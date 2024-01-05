@@ -1,5 +1,7 @@
 # karman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karman.md)
+
 <p><span class="chinese">该卡门常数的理论公式与实测资料较为吻合。</span><span class="english">The results from this equation of Karman constant agree with measured data.</span></p>
 
 <p><span class="chinese">今天它被大多数人定义为开始于100千米处，即所谓的卡门线。</span><span class="english">Today it is defined by most as beginning at 100 km, at what is called the Kármán Line.</span></p>

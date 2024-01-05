@@ -1,5 +1,7 @@
 # 养父母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangfumu.md)
+
 <p><span class="chinese">这样的人成为养父母。</span><span class="english">These people are called foster parents.</span></p>
 
 <p><span class="chinese">最后，那对养父母还是把女儿送还给了山姆。</span><span class="english">And the foster parents gave his daughter back to him finally.</span></p>

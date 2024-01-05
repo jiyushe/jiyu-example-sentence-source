@@ -1,5 +1,7 @@
 # vagrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagrant.md)
+
 <p><span class="chinese">我们在那里遇到了一伙流浪的乞丐。</span><span class="english">We met a band of vagrant beggars there.</span></p>
 
 <p><span class="chinese">无居的林中有流浪的居者。</span><span class="english">Of vagrant dwellers in the houseless woods.</span></p>

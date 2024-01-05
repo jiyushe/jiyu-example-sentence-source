@@ -1,5 +1,7 @@
 # prime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prime.md)
+
 <p><span class="chinese">这里应该有一撇</span><span class="english">This should be prime.</span></p>
 
 <p><span class="chinese">等于零，q，is，zero。,Δu等于w2一撇。</span><span class="english">q Delta u is w2 prime.</span></p>

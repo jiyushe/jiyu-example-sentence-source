@@ -1,5 +1,7 @@
 # subway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subway.md)
+
 <p><span class="chinese">我想搭地铁去。</span><span class="english">I want to go by subway.</span></p>
 
 <p><span class="chinese">到那边，有地下铁路可搭吗?。</span><span class="english">Can I go there by subway?</span></p>

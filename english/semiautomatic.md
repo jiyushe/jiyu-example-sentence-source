@@ -1,5 +1,7 @@
 # semiautomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiautomatic.md)
+
 <p><span class="chinese">有自动式，半自动式和手工式的！</span><span class="english">Yes. We make automatic, semiautomatic and manual ones.</span></p>
 
 <p><span class="chinese">枪击者使用的是非法获取的半自动武器。</span><span class="english">The shooters used semiautomatic weapons they obtained illegally.</span></p>

@@ -1,5 +1,7 @@
 # 冷盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengpan.md)
+
 <p><span class="chinese">先生，您的冷盘来了。</span><span class="english">Here are your cold dishes, sir.</span></p>
 
 <p><span class="chinese">我想再吃些冷盘肉，但是一点也不剩了。</span><span class="english">I wanted some more cold meat but there was none left.</span></p>

@@ -1,5 +1,7 @@
 # 清流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingliu.md)
+
 <p><span class="chinese">沱江清流变美酒！</span><span class="english">Turning Tuo River into wine!</span></p>
 
 <p><span class="chinese">疲惫了，让那清流的水声小些。</span><span class="english">Tired, let the clear stream put down acoustic sound.</span></p>

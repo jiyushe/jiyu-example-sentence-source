@@ -1,5 +1,7 @@
 # undercooked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undercooked.md)
+
 <p><span class="chinese">这鸡肉没有熟。</span><span class="english">This chicken is undercooked.</span></p>
 
 <p><span class="chinese">这鸡肉么有熟。</span><span class="english">This chicken is undercooked?.</span></p>

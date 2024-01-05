@@ -1,5 +1,7 @@
 # hrs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hrs.md)
+
 <p><span class="chinese">轴承寿命可达600小时以上。</span><span class="english">The service life will be over 600 hrs.</span></p>
 
 <p><span class="chinese">可美国军队72小时就拿下了。</span><span class="english">US forces took it in just under 72 hrs.</span></p>

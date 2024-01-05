@@ -1,5 +1,7 @@
 # 情人节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingrenjie.md)
+
 <p><span class="chinese">情人节快乐!</span><span class="english">Happy Valentines Day!</span></p>
 
 <p><span class="chinese">情人节快乐！</span><span class="english">Happy Valentine's Day!</span></p>

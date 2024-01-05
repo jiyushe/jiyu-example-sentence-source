@@ -1,5 +1,7 @@
 # satirical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satirical.md)
+
 <p><span class="chinese">玛丽受到这个爱讽刺人的老太太的嘲笑。</span><span class="english">Mary was twitted by a satirical old lady.</span></p>
 
 <p><span class="chinese">滑稽或讽剌作品也受到保护。</span><span class="english">Parodies or satirical works are also protected.</span></p>

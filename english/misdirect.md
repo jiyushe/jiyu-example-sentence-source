@@ -1,5 +1,7 @@
 # misdirect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdirect.md)
+
 <p><span class="chinese">不要迁移沮丧。</span><span class="english">Don't misdirect your frustration.</span></p>
 
 <p><span class="chinese">这是在有意误导中国舆论。</span><span class="english">This is an effort to misdirect public opinion.</span></p>

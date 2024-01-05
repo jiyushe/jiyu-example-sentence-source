@@ -1,5 +1,7 @@
 # adventurer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventurer.md)
+
 <p><span class="chinese">我是个追求刺激的人，一个冒险家。</span><span class="english">I'm a thrill-seeker. An adventurer.</span></p>
 
 <p><span class="chinese">同时他也是一位轻率鲁莽而运气十足的冒险家。</span><span class="english">He was also a reckless adventurer who got lucky.</span></p>

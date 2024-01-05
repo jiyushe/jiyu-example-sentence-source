@@ -1,5 +1,7 @@
 # mythos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mythos.md)
+
 <p><span class="chinese">爱是一个永恒的主题。</span><span class="english">Love is an eternal mythos.</span></p>
 
 <p><span class="chinese">希腊人称它们为神话和逻各斯。</span><span class="english">The Greeks called them mythos and logos.</span></p>

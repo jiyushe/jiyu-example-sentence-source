@@ -1,5 +1,7 @@
 # 好玩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowan.md)
+
 <p><span class="chinese">那不好玩。</span><span class="english">That's no fun.</span></p>
 
 <p><span class="chinese">死苍蝇就不好玩鸟。</span><span class="english">Dead flies are no good.</span></p>

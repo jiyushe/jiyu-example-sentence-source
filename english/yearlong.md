@@ -1,5 +1,7 @@
 # yearlong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yearlong.md)
+
 <p><span class="chinese">正是“间隔年”令她开始了长达一年的旅行。</span><span class="english">It was a "gap year" that led to her yearlong journey.</span></p>
 
 <p><span class="chinese">此外在义乌要拿到一整年的商业签证相对容易些，这也是伊拉克人青睐该地的另一大因素。</span><span class="english">Another factor is the relative ease of obtaining a yearlong business visa.</span></p>

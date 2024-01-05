@@ -1,5 +1,7 @@
 # interpol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpol.md)
+
 <p><span class="chinese">这是最新的一个，刚从国际刑警组织传过来的。</span><span class="english">Here's the latest candidate, just in from Interpol.</span></p>
 
 <p><span class="chinese">国际刑警突袭那儿，却不知何故，哥哥又逃脱了抓捕。</span><span class="english">Interpol swooped in, but somehow my brother evaded their grasp.</span></p>

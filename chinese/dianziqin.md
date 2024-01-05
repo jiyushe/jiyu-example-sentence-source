@@ -1,5 +1,7 @@
 # 电子琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziqin.md)
+
 <p><span class="chinese">你弹奏电子琴吗？</span><span class="english">Do you play the keyboard?</span></p>
 
 <p><span class="chinese">我们学习英语和电子琴。</span><span class="english">We study English and electronic organ.</span></p>

@@ -1,5 +1,7 @@
 # 倒背如流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daobeiruliu.md)
+
 <p><span class="chinese">我对这本书是倒背如流。</span><span class="english">I know this book backward.</span></p>
 
 <p><span class="chinese">所有演员对剧本都熟知到可以倒背如流。</span><span class="english">All the actors know the play backward.</span></p>

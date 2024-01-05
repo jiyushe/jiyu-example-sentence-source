@@ -1,5 +1,7 @@
 # 休养生息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuyangshengxi.md)
+
 <p><span class="chinese">期间休养生息，调整心情。</span><span class="english">Period and relax, adjust the mood.</span></p>
 
 <p><span class="chinese">主要解决天然林的休养生息和恢复发展问题。</span><span class="english">It aims to rehabilitate and develop natural forests.</span></p>

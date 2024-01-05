@@ -1,5 +1,7 @@
 # anticline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticline.md)
+
 <p><span class="chinese">主要的类型是往复式活塞发动机。</span><span class="english">Anticline and monocline are major trap types.</span></p>
 
 <p><span class="chinese">圈闭类型主要为背斜圈闭及单斜圈闭。</span><span class="english">Anticline and monocline are major trap types.</span></p>

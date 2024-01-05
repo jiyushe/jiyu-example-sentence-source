@@ -1,5 +1,7 @@
 # 殊不知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shubuzhi.md)
+
 <p><span class="chinese">殊不知，里奥哈也生产少量出众的白葡萄酒。</span><span class="english">However, Rioja also produces rare amazing white wine.</span></p>
 
 <p><span class="chinese">我在自找苦吃，殊不知我只爱娶我的男人。</span><span class="english">I am looking for a pain I just love my man to get married.</span></p>

@@ -1,5 +1,7 @@
 # 文号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhao.md)
+
 <p><span class="chinese">药品批准文号的发放正处于低谷中。</span><span class="english">Drug approval numbers are at a multiyeartrough.</span></p>
 
 <p><span class="chinese">请问，上述内容所属文件的文号是多少？</span><span class="english">I would like to ask, the contents of their text file number?</span></p>

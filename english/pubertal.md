@@ -1,5 +1,7 @@
 # pubertal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pubertal.md)
+
 <p><span class="chinese">这样就可能把胖的孩子也误诊为性早熟。</span><span class="english">That might lead obese kids to be prematurely termed pubertal.</span></p>
 
 <p><span class="chinese">但是，对发育期老鼠来说，THP具有相反作用---增加老鼠压力。</span><span class="english">But in pubertal mice, THP has the opposite effect – increasing their stress.</span></p>

@@ -1,5 +1,7 @@
 # variant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variant.md)
+
 <p><span class="chinese">参见拷贝数目变异体。</span><span class="english">CNV --- See copy number variant.</span></p>
 
 <p><span class="chinese">第二种变式走得更远。</span><span class="english">The second variant goes further.</span></p>

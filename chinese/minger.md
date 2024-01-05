@@ -1,5 +1,7 @@
 # 明儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minger.md)
+
 <p><span class="chinese">我明儿给你打电话。</span><span class="english">I'll give you a ring tomorrow.</span></p>
 
 <p><span class="chinese">明儿我也能成为一名科学家。</span><span class="english">I will become a scientist some day.</span></p>

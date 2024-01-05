@@ -1,5 +1,7 @@
 # 结账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhang_1.md)
+
 <p><span class="chinese">请在收银处结账。</span><span class="english">Please pay at the cashier's.</span></p>
 
 <p><span class="chinese">我们想在中午结账离开旅馆。</span><span class="english">We'd like to book out at noon.</span></p>

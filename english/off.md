@@ -1,5 +1,7 @@
 # off
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/off.md)
+
 <p><span class="chinese">他跑走了。</span><span class="english">He runs off.</span></p>
 
 <p><span class="chinese">把它封上！</span><span class="english">Seal it off !</span></p>

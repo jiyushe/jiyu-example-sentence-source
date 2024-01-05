@@ -1,5 +1,7 @@
 # 幽禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjin.md)
+
 <p><span class="chinese">释放了整夜被幽禁的音乐。</span><span class="english">And loosing the pent-up music of overnight.</span></p>
 
 <p><span class="chinese">她们被幽禁在背离月光的黑暗城堡中。</span><span class="english">Just trapped in castle of dark side of moon.</span></p>

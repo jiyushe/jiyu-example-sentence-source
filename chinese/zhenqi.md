@@ -1,5 +1,7 @@
 # 珍奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqi.md)
+
 <p><span class="chinese">那种已绝迹的珍奇的鸟的羽毛中含锌.</span><span class="english">The extinct exotic bird’s feather contains zinc.</span></p>
 
 <p><span class="chinese">有太阳月亮，山海诸珍奇</span><span class="english">With sun and moon, with earth and sea's rich gems</span></p>

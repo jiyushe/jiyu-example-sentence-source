@@ -1,5 +1,7 @@
 # sidelong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidelong.md)
+
 <p><span class="chinese">贪婪的睨视，恶意的斜觑。</span><span class="english">Greedy sidelong glances and malicious squints.</span></p>
 
 <p><span class="chinese">我们转身时，我们会看见横的线条。</span><span class="english">When we are turning around, we see strings sidelong.</span></p>

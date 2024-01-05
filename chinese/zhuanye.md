@@ -1,5 +1,7 @@
 # 专业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanye.md)
+
 <p><span class="chinese">我学的专业英语。</span><span class="english">My major is english.</span></p>
 
 <p><span class="chinese">我的专业是化学.</span><span class="english">I major in Chemistry.</span></p>

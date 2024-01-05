@@ -1,5 +1,7 @@
 # zedoary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zedoary.md)
+
 <p><span class="chinese">莪只是个平常恴女子。</span><span class="english">Just a stainless zedoary extraordinary woman.</span></p>
 
 <p><span class="chinese">莪只想要拥有简略恴幸福。</span><span class="english">Zedoary only want to have a simple stainless happiness.</span></p>

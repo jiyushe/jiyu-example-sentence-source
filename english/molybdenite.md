@@ -1,5 +1,7 @@
 # molybdenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molybdenite.md)
+
 <p><span class="chinese">介绍了辉钼矿湿法冶金工艺研究进展。</span><span class="english">The development of hydrometallurgical processes of molybdenite are given.</span></p>
 
 <p><span class="chinese">YC捕收剂对辉钼矿的适应性较强。</span><span class="english">YC collector had a strong adaptability for molybdenite of different ores.</span></p>

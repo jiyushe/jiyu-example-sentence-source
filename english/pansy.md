@@ -1,5 +1,7 @@
 # pansy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pansy.md)
+
 <p><span class="chinese">半重瓣的深蓝色皱折菫型花。</span><span class="english">Semidouble dark blue frilled pansy.</span></p>
 
 <p><span class="chinese">什么一三色堇说其他？</span><span class="english">What did one pansy say to the other?</span></p>

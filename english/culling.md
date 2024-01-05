@@ -1,5 +1,7 @@
 # culling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culling.md)
+
 <p><span class="chinese">挑选是你为自己而做的选择。</span><span class="english">Culling is the choosing you do for yourself.</span></p>
 
 <p><span class="chinese">原则上，阴影切除是很简单。</span><span class="english">In principle, backface culling is pretty simple.</span></p>

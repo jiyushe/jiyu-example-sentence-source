@@ -1,5 +1,7 @@
 # profitless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profitless.md)
+
 <p><span class="chinese">继续争论是无益的。</span><span class="english">It is profitless to continue arguing.</span></p>
 
 <p><span class="chinese">我们为什么要花如此多的时间在这无益的事情上？</span><span class="english">Why should we spend so much time on the profitless matter?</span></p>

@@ -1,5 +1,7 @@
 # 砚台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantai.md)
+
 <p><span class="chinese">你没见过这样的砚台吧。</span><span class="english">Have you ever seen an inkstone like this before?</span></p>
 
 <p><span class="chinese">砚台的实用价值一直延续至今。</span><span class="english">Yantai practical value has been strong ever since.</span></p>

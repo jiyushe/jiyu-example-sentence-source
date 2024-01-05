@@ -1,5 +1,7 @@
 # morris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morris.md)
+
 <p><span class="chinese">你好！我是英里斯·济慈。</span><span class="english">Hi! I'm Morris Keats.</span></p>
 
 <p><span class="chinese">莫里斯从喀布尔发回报道称。</span><span class="english">Chirst Morris reports from Kabul.</span></p>

@@ -1,5 +1,7 @@
 # incarceration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incarceration.md)
+
 <p><span class="chinese">我们的开释率是法国的八倍。</span><span class="english">Our incarceration rate is eight times that of France.</span></p>
 
 <p><span class="chinese">不管从什么角度来看，监禁在美国的执行都是失败的。</span><span class="english">Incarceration in America is a failure by almost any measure.</span></p>

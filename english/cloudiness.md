@@ -1,5 +1,7 @@
 # cloudiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloudiness.md)
+
 <p><span class="chinese">在飓风眼里，几乎没有风，或云。</span><span class="english">In the eye, there is little wind or cloudiness.</span></p>
 
 <p><span class="chinese">房子被笼罩在一种莫名其妙的晦黯中。</span><span class="english">The house was shrouded in some strange cloudiness.</span></p>

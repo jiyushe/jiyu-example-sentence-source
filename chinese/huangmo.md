@@ -1,5 +1,7 @@
 # 荒漠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangmo.md)
+
 <p><span class="chinese">我的海盗船行驶在昏黑的荒漠公路上。</span><span class="english">My Black Pearl on a dark desert highway.</span></p>
 
 <p><span class="chinese">他们于一九二三年在这荒漠地区探险。</span><span class="english">They explored this desert region in 1923.</span></p>

@@ -1,5 +1,7 @@
 # bosomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bosomy.md)
+
 <p><span class="chinese">带着毛皮手套的饱满的玫瑰花。</span><span class="english">Of bosomy rose with fur gloves on.</span></p>
 
 <p><span class="chinese">为什么小孩子的肚皮总是鼓鼓的呢？</span><span class="english">Why is the belly of dot always of bosomy strike?</span></p>

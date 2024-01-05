@@ -1,5 +1,7 @@
 # 主题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuti_1.md)
+
 <p><span class="chinese">主题还是动机</span><span class="english">Theme or motive?</span></p>
 
 <p><span class="chinese">我喜欢这个主题。</span><span class="english">I love the subject.</span></p>

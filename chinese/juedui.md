@@ -1,5 +1,7 @@
 # 绝对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juedui.md)
+
 <p><span class="chinese">哦，绝对不会。</span><span class="english">Oh absolutely.</span></p>
 
 <p><span class="chinese">绝对不可靠。</span><span class="english">Absolutely not.</span></p>

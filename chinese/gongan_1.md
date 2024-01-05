@@ -1,5 +1,7 @@
 # 公案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongan_1.md)
+
 <p><span class="chinese">那些问题都是无头公案。</span><span class="english">They are all questions to which there are no answers.</span></p>
 
 <p><span class="chinese">“魅力”是关汉卿公案剧盛传不衰的主要原因。</span><span class="english">The"charm"is the widely known cause for Guan Hanqing s Gongan dramas.</span></p>

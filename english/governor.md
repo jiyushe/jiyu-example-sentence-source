@@ -1,5 +1,7 @@
 # governor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/governor.md)
+
 <p><span class="chinese">戴维总督。</span><span class="english">Governor Davey.</span></p>
 
 <p><span class="chinese">亚瑟总督。</span><span class="english">Governor Arthur.</span></p>

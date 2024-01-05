@@ -1,5 +1,7 @@
 # gastroenteritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastroenteritis.md)
+
 <p><span class="chinese">肠胃炎吃什么药？</span><span class="english">What drug does gastroenteritis take?</span></p>
 
 <p><span class="chinese">在早期往往与感冒、胃肠炎难以鉴别。</span><span class="english">In early and cold, often difficult to identify gastroenteritis.</span></p>

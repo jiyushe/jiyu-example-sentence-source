@@ -1,5 +1,7 @@
 # vehemently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vehemently.md)
+
 <p><span class="chinese">他言辞激烈地否认对他的谴责。</span><span class="english">He vehemently denied the accusations against him.</span></p>
 
 <p><span class="chinese">公司酋长，也有人极力主张合并。</span><span class="english">Corporate chieftains, too, argue vehemently in favor of mergers.</span></p>

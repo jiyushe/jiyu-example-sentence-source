@@ -1,5 +1,7 @@
 # 中波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbo.md)
+
 <p><span class="chinese">除中波外，你还可以收听调频台吗？</span><span class="english">Can you get the station on FM as well as on medium wave?</span></p>
 
 <p><span class="chinese">介绍了中波和长波“红外小光点扫描测试系统”。</span><span class="english">The scanning testing system of IR micron-spot about MWIR and LWIR is described.</span></p>

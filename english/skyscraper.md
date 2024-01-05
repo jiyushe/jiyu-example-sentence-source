@@ -1,5 +1,7 @@
 # skyscraper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skyscraper.md)
+
 <p><span class="chinese">这幢摩天大厦的雄伟气势令我惊叹。</span><span class="english">The majesty of the skyscraper awed me.</span></p>
 
 <p><span class="chinese">那幢摩天大楼高耸入云。</span><span class="english">The skyscraper towers into the clouds.</span></p>

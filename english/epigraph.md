@@ -1,5 +1,7 @@
 # epigraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epigraph.md)
+
 <p><span class="chinese">这种古代金石铭文，一刻千金。</span><span class="english">Every cut of ancient epigraph of this kind is precious.</span></p>
 
 <p><span class="chinese">第三章，主要对庾信碑志文作品内容进行分析。</span><span class="english">Chapter three analyzes the content of Yu Xin's epigraph works.</span></p>

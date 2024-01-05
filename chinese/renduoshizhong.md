@@ -1,5 +1,7 @@
 # 人多势众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renduoshizhong.md)
+
 <p><span class="chinese">当然那里人多势众。</span><span class="english">Surely there’s safety in numbers.</span></p>
 
 <p><span class="chinese">人多势众。</span><span class="english">Many hands provide great strength.</span></p>

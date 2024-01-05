@@ -1,5 +1,7 @@
 # interplanetary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interplanetary.md)
+
 <p><span class="chinese">星云的残余气体充斥星际空间。</span><span class="english">The remnant nebular gas pervades the interplanetary space.</span></p>
 
 <p><span class="chinese">但是即使如此，却很少被发现。</span><span class="english">And even smaller type of interplanetary debris is the meteoroid.</span></p>

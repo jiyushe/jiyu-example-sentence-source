@@ -1,5 +1,7 @@
 # pall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pall.md)
+
 <p><span class="chinese">我们会来扶棺。</span><span class="english">We'll bear the pall.</span></p>
 
 <p><span class="chinese">谁来负责棺罩？</span><span class="english">Who'll bear the pall?</span></p>

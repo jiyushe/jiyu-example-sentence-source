@@ -1,5 +1,7 @@
 # excommunication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excommunication.md)
+
 <p><span class="chinese">基督说这句话，是在祂治好一个瞎子之后，法赛人却把瞎子赶走。</span><span class="english">This verse seems to follow on the excommunication of the blind man Christ had just healed.</span></p>
 
 <p><span class="chinese">1520年，路德收到革出教会令，之后便烧毁了教谕。</span><span class="english">In December 1520 Luther received his Papal Bull of excommunication and then later burned it.</span></p>

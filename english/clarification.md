@@ -1,5 +1,7 @@
 # clarification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarification.md)
+
 <p><span class="chinese">第二项承诺需要进行一些说明。</span><span class="english">The second one needs some clarification.</span></p>
 
 <p><span class="chinese">白宫之后又对此做出了澄清。</span><span class="english">The White House later issued a clarification.</span></p>

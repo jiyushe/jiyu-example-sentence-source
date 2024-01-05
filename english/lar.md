@@ -1,5 +1,7 @@
 # lar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lar.md)
+
 <p><span class="chinese">有两种类型的地政室议定书。</span><span class="english">There are two types of LAR Protocols.</span></p>
 
 <p><span class="chinese">房间里有一个很大的壁橱，电视机。你可以把你的行李放出来。</span><span class="english">The room has a lar closet. You can put your gear in it.</span></p>

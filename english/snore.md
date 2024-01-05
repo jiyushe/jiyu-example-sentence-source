@@ -1,5 +1,7 @@
 # snore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snore.md)
+
 <p><span class="chinese">你丈夫打鼾吗？</span><span class="english">Does your husband snore?</span></p>
 
 <p><span class="chinese">他的鼾声大得使我睡不着。</span><span class="english">His loud snore kept me awake.</span></p>

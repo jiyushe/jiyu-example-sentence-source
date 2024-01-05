@@ -1,5 +1,7 @@
 # qb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qb.md)
+
 <p><span class="chinese">QB机器人也有其他缺点。</span><span class="english">QB has some other shortcomings as well.</span></p>
 
 <p><span class="chinese">我觉得再也不会见证一个像布雷迪这么成功的四分卫了。</span><span class="english">I don't think we'll ever see such a successful QB ever again.</span></p>

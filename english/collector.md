@@ -1,5 +1,7 @@
 # collector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collector.md)
+
 <p><span class="chinese">公司更像是一个收税员。</span><span class="english">It is more like a tax collector.</span></p>
 
 <p><span class="chinese">我丈夫是个集邮者。</span><span class="english">My husband is a stamp collector.</span></p>

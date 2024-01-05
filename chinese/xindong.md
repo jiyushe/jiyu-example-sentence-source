@@ -1,5 +1,7 @@
 # 心动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindong.md)
+
 <p><span class="chinese">“路遇”，随时随地，邂逅心动！</span><span class="english">Meet new friends, anytime anywhere.</span></p>
 
 <p><span class="chinese">心动描记器上标明心跳次数。</span><span class="english">A cardiograph records the heartbeat.</span></p>

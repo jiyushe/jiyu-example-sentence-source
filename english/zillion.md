@@ -1,5 +1,7 @@
 # zillion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zillion.md)
+
 <p><span class="chinese">确实，不过我已经告诉过你无数次了。</span><span class="english">No, but I've told you a zillion times.</span></p>
 
 <p><span class="chinese">无数方式敬佩，爱并且尊敬他！</span><span class="english">Zillion ways to admire, love and honor him!</span></p>

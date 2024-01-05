@@ -1,5 +1,7 @@
 # 看破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanpo.md)
+
 <p><span class="chinese">对未来抱无所谓态度，看破往事，寻求刺激。</span><span class="english">Indifferent towards the future.</span></p>
 
 <p><span class="chinese">没有人看破他的假装。</span><span class="english">Nobody saw through his disguise.</span></p>

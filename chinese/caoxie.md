@@ -1,5 +1,7 @@
 # 草鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoxie.md)
+
 <p><span class="chinese">草鞋如此，人们也是如此。</span><span class="english">Straw sandals so, it is also true.</span></p>
 
 <p><span class="chinese">的短袖衫，短裤，草鞋，袋，水壶。</span><span class="english">H&M T-shirt, shorts, shoes, bag, water bottles.</span></p>

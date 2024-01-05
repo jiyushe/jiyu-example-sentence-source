@@ -1,5 +1,7 @@
 # desquamate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desquamate.md)
+
 <p><span class="chinese">我的手为什么在脱皮啊？</span><span class="english">Why is my hand desquamate ah?</span></p>
 
 <p><span class="chinese">如何治疗手心脱皮?。</span><span class="english">How to treat control desquamate?</span></p>

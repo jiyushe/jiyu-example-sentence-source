@@ -1,5 +1,7 @@
 # faulted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faulted.md)
+
 <p><span class="chinese">断齿不作为缺陷处理。</span><span class="english">Broken teeth are not to be faulted.</span></p>
 
 <p><span class="chinese">歪嘴属于严重缺陷。</span><span class="english">Wry mouth is to be severely faulted.</span></p>

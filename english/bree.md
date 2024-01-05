@@ -1,5 +1,7 @@
 # bree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bree.md)
+
 <p><span class="chinese">我是黛博拉的朋友布里。</span><span class="english">I'm Deborah's friend Bree.</span></p>
 
 <p><span class="chinese">“是的，”布里说，“我只配作奴隶。</span><span class="english">"Yes, " said Bree. "Slavery is all I'm fit for.</span></p>

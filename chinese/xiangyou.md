@@ -1,5 +1,7 @@
 # 享有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyou.md)
+
 <p><span class="chinese">享有自由的理想。</span><span class="english">The idea of liberty.</span></p>
 
 <p><span class="chinese">我享有好胃口的福气。</span><span class="english">I'm the bearer of good news.</span></p>

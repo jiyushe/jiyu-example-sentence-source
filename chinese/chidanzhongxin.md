@@ -1,5 +1,7 @@
 # 赤胆忠心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chidanzhongxin.md)
+
 <p><span class="chinese">乔伊是一个赤胆忠心的人。</span><span class="english">Joe's a true-blue person.</span></p>
 
 <p><span class="chinese">我们必须赤胆忠心为人民。</span><span class="english">We must serve the people with utter devotion.</span></p>

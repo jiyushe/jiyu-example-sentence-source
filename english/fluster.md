@@ -1,5 +1,7 @@
 # fluster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluster.md)
+
 <p><span class="chinese">这下子公主可就慌了。</span><span class="english">Right now princess might fluster.</span></p>
 
 <p><span class="chinese">汽车喇叭的响声使司机感到慌乱。</span><span class="english">The honk of horn fluster the driver.</span></p>

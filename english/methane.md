@@ -1,5 +1,7 @@
 # methane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methane.md)
+
 <p><span class="chinese">这是甲烷。</span><span class="english">Here is methane.</span></p>
 
 <p><span class="chinese">让我们看看甲烷。</span><span class="english">Let's look at methane.</span></p>

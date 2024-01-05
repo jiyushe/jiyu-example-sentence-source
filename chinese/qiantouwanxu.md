@@ -1,5 +1,7 @@
 # 千头万绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantouwanxu.md)
+
 <p><span class="chinese">独自和千头万绪。</span><span class="english">Alone and in multitude.</span></p>
 
 <p><span class="chinese">千头万绪涌上心头。</span><span class="english">A thousand confused thoughts come to one's mind.</span></p>

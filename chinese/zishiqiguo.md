@@ -1,5 +1,7 @@
 # 自食其果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishiqiguo.md)
+
 <p><span class="chinese">贪婪者常常自食其果。</span><span class="english">Greed often overreaches itself.</span></p>
 
 <p><span class="chinese">他们自毁前程、自食其果。</span><span class="english">They self-destruct future, damn.</span></p>

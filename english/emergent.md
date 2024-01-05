@@ -1,5 +1,7 @@
 # emergent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emergent.md)
+
 <p><span class="chinese">这将我们带回到紧急设计上来。</span><span class="english">Which brings me back around to emergent design.</span></p>
 
 <p><span class="chinese">因此，它是涌现唯物主义的子分支。</span><span class="english">Hence, it is a sub-branch of emergent materialism.</span></p>

@@ -1,5 +1,7 @@
 # mercury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercury.md)
+
 <p><span class="chinese">也没有汞？</span><span class="english">No mercury?</span></p>
 
 <p><span class="chinese">水银柱在35摄氏度左右徘徊。</span><span class="english">The mercury hovered around 3512.</span></p>

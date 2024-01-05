@@ -1,5 +1,7 @@
 # 卷轴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanzhou.md)
+
 <p><span class="chinese">真龙卷轴！</span><span class="english">The dragon scroll!</span></p>
 
 <p><span class="chinese">以前的书都是卷轴。</span><span class="english">Early books were all scrolls.</span></p>

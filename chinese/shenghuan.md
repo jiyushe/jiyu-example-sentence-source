@@ -1,5 +1,7 @@
 # 生还
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghuan.md)
+
 <p><span class="chinese">在生还模式中赢得30场比赛。</span><span class="english">Tips Win 30 matches in Slayers.</span></p>
 
 <p><span class="chinese">在组队生还模式中赢得30场比赛。</span><span class="english">Tips Win 30 matches in Slayers.</span></p>

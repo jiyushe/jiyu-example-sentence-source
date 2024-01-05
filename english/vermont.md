@@ -1,5 +1,7 @@
 # vermont
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermont.md)
+
 <p><span class="chinese">故事发生在1959年的佛蒙特。</span><span class="english">It was set in Vermont in 1959.</span></p>
 
 <p><span class="chinese">你会来佛蒙特州看我们的吧？</span><span class="english">You'll come visit us in vermont ?</span></p>

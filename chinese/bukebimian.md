@@ -1,5 +1,7 @@
 # 不可避免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukebimian.md)
+
 <p><span class="chinese">冗余是不可避免的。</span><span class="english">Redundancy is inevitable.</span></p>
 
 <p><span class="chinese">一场决斗是不可避免的。</span><span class="english">One meeting was unavoidable.</span></p>

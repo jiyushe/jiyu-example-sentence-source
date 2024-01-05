@@ -1,5 +1,7 @@
 # misplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misplay.md)
+
 <p><span class="chinese">爱因斯坦的这个失误导致了宇宙膨胀假说的产生。</span><span class="english">This misplay by Einstein leads to the hypothesis of the big bang.</span></p>
 
 <p><span class="chinese">政府在经济上的失误已经渐渐明显。</span><span class="english">The government's misplay in economy is showing up little by little.</span></p>

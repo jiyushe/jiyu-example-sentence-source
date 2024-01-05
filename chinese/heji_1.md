@@ -1,5 +1,7 @@
 # 合计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heji_1.md)
+
 <p><span class="chinese">参观者合计一千人。</span><span class="english">The visitors totaled 1000.</span></p>
 
 <p><span class="chinese">他们合计了投票数。</span><span class="english">They summed up the voting.</span></p>

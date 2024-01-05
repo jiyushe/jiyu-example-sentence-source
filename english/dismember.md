@@ -1,5 +1,7 @@
 # dismember
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismember.md)
+
 <p><span class="chinese">我还要肢解剩下的。</span><span class="english">I seek to dismember , a sadist fiend.</span></p>
 
 <p><span class="chinese">他们想分割这家公司。</span><span class="english">They wanted to dismember the company.</span></p>

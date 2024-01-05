@@ -1,5 +1,7 @@
 # biquadratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biquadratic.md)
+
 <p><span class="chinese">据此，得到了SI电路的一般双二次实现。</span><span class="english">A general biquadratic realization is also proposed with this SI circuit.</span></p>
 
 <p><span class="chinese">本文主要研究双二次多项式的动力系统。</span><span class="english">D dissertation is concerned with the dynamics of biquadratic polynomials.</span></p>

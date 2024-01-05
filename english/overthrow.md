@@ -1,5 +1,7 @@
 # overthrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overthrow.md)
+
 <p><span class="chinese">他们推翻政府的企图终成泡影。</span><span class="english">A plot to overthrow the government.</span></p>
 
 <p><span class="chinese">你做不能颠覆政权的事。</span><span class="english">You cannot overthrow the government.</span></p>

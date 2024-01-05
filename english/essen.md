@@ -1,5 +1,7 @@
 # essen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essen.md)
+
 <p><span class="chinese">嗳呀，你下一次恐怕要我轰炸埃森市了！</span><span class="english">Why, you will be asking me to bomb Essen next!</span></p>
 
 <p><span class="chinese">这些工程包括于韦斯屈莱市和埃森剧院歌剧院。</span><span class="english">These works include the Jyvaskyla City Theatre and Essen Opera House.</span></p>

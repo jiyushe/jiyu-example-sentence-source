@@ -1,5 +1,7 @@
 # anatolia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatolia.md)
+
 <p><span class="chinese">贯穿安纳托利亚，现在又250个工业区。</span><span class="english">There are now 250 industrial zones throughout Anatolia.</span></p>
 
 <p><span class="chinese">皇帝被说已经在中央的安那托利亚被出生。</span><span class="english">The Emperor is said to have been born in central Anatolia.</span></p>

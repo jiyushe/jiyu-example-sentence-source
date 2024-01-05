@@ -1,5 +1,7 @@
 # 要得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaode.md)
+
 <p><span class="chinese">并且，孩子们没法要得太多。</span><span class="english">And kids can’t get enough.</span></p>
 
 <p><span class="chinese">在敬拜中，神要得著什麽？</span><span class="english">What does God desire in worship?</span></p>

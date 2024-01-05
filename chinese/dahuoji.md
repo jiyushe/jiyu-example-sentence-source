@@ -1,5 +1,7 @@
 # 打火机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahuoji.md)
+
 <p><span class="chinese">可他点燃了打火机。</span><span class="english">Then he flicked the lighter.</span></p>
 
 <p><span class="chinese">然后，他送了他们每人一个打火机。</span><span class="english">he gave one of them a lighter.</span></p>

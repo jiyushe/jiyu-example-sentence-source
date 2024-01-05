@@ -1,5 +1,7 @@
 # 面条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantiao.md)
+
 <p><span class="chinese">我也真的喜欢意大利细面条。</span><span class="english">My dad gives me big hugs.</span></p>
 
 <p><span class="chinese">意大利细面条，随你喜欢。</span><span class="english">Spaghetti, as you like it.</span></p>

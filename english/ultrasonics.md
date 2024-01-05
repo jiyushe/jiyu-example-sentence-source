@@ -1,5 +1,7 @@
 # ultrasonics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrasonics.md)
+
 <p><span class="chinese">但我知道让我害怕的是超声波。</span><span class="english">But I knew it was ultrasonics that made me afraid.</span></p>
 
 <p><span class="chinese">功率超声是超声学的一个重要分支。</span><span class="english">Power ultrasound is an important branch of ultrasonics.</span></p>

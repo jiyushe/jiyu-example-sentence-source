@@ -1,5 +1,7 @@
 # mac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mac.md)
+
 <p><span class="chinese">我要一个麦香堡。</span><span class="english">I'll have a Big Mac.</span></p>
 
 <p><span class="chinese">名字是麦克。史汀。</span><span class="english">The name is Mac Stewart.</span></p>

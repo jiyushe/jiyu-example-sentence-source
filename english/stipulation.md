@@ -1,5 +1,7 @@
 # stipulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stipulation.md)
+
 <p><span class="chinese">它的互惠只是一个附加的约定。</span><span class="english">Its reciprocity is merely an added stipulation.</span></p>
 
 <p><span class="chinese">就严格按照规定的分星去吃。</span><span class="english">Strictly eats according to a stipulation minute star.</span></p>

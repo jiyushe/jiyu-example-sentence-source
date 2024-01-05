@@ -1,5 +1,7 @@
 # reprocessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprocessed.md)
+
 <p><span class="chinese">这意味着，历史数据永远不会被修改或者再处理。</span><span class="english">This means historical data can never be altered or reprocessed.</span></p>
 
 <p><span class="chinese">此后的出租物业交还和重新处理。</span><span class="english">Hereafter the rental properties are redelivered and reprocessed.</span></p>

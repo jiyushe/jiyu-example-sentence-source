@@ -1,5 +1,7 @@
 # 分文不取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenwenbuqu.md)
+
 <p><span class="chinese">不少美国公司和机构为职工供应咖啡，大杯牛饮，分文不取。</span><span class="english">Many Usa Inc and institutions for worker supply coffee mug of drink, free of charge.</span></p>
 
 <p><span class="chinese">现有的公立寄宿学校还要收取餐饮费和住宿费，而杜兰德却是分文不取。</span><span class="english">Existing state boarding schools charge for food and lodging. This one will be entirely free.</span></p>

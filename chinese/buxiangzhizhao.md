@@ -1,5 +1,7 @@
 # 不祥之兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiangzhizhao.md)
+
 <p><span class="chinese">但是对于有些人而言，日食也被视为不祥之兆。</span><span class="english">But for others, the eclipse was seen to be a bad omen.</span></p>
 
 <p><span class="chinese">“这些都是不祥之兆！”可怜的蕾妮叹息道。</span><span class="english">"These are mournful auspices to accompany a betrothal, " sighed poor Renée.</span></p>

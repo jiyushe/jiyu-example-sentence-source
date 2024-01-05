@@ -1,5 +1,7 @@
 # 摒弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingqi_3.md)
+
 <p><span class="chinese">它将人们摒弃于天堂之外。</span><span class="english">It debars men from heaven.</span></p>
 
 <p><span class="chinese">她摒弃一切成见。</span><span class="english">She put away all prejudices.</span></p>

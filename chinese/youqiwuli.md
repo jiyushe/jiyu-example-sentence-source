@@ -1,5 +1,7 @@
 # 有气无力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqiwuli.md)
+
 <p><span class="chinese">我有气无力地握了握他的手说。</span><span class="english">I weakly shook his hand.</span></p>
 
 <p><span class="chinese">他有气无力地挥了挥手。</span><span class="english">He waved his hands feebly.</span></p>

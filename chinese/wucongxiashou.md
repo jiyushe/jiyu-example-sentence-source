@@ -1,5 +1,7 @@
 # 无从下手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wucongxiashou.md)
+
 <p><span class="chinese">你知道吗？我对你无从下手。</span><span class="english">You know what? I can't learn anything from you.</span></p>
 
 <p><span class="chinese">我根本无从下手,我能记住多少</span><span class="english">I couldn't begin to do that. How much can I hear?</span></p>

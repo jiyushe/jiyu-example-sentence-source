@@ -1,5 +1,7 @@
 # 民行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minxing.md)
+
 <p><span class="chinese">要知道民行党也是电力消费者之一。</span><span class="english">The DAPs also are the sufferers and consumers of power supply.</span></p>
 
 <p><span class="chinese">随着检察机关对审判活动监督力度的增强，民行抗诉案件正趋于增长之势。</span><span class="english">With the strengthening of the supervision in the judicial activities, the protested cases of CA are increasing.</span></p>

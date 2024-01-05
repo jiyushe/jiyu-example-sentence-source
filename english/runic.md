@@ -1,5 +1,7 @@
 # runic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runic.md)
+
 <p><span class="chinese">反魔法护罩不再消耗符能。</span><span class="english">Anti-Magic Shell no longer costs Runic Power.</span></p>
 
 <p><span class="chinese">死亡缠绕现在耗费40符文能量，原为50。</span><span class="english">Death Coil now costs 40 runic power, down from 50.</span></p>

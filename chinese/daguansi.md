@@ -1,5 +1,7 @@
 # 打官司
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguansi.md)
+
 <p><span class="chinese">但是她还是受不了这样天天打官司的生活。</span><span class="english">But she just can’t live with the lawsuit.</span></p>
 
 <p><span class="chinese">她说再也没有精力和钱去打官司了。</span><span class="english">She said no more energy and money to litigate.</span></p>

@@ -1,5 +1,7 @@
 # lymph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymph.md)
+
 <p><span class="chinese">血红根被用于肿胀的淋巴结。</span><span class="english">Bloodroot is used for swollen lymph.</span></p>
 
 <p><span class="chinese">淋巴结行为就像丙种球蛋白。</span><span class="english">Lymph acts just like gamma globulin.</span></p>

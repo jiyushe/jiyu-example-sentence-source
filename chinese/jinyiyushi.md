@@ -1,5 +1,7 @@
 # 锦衣玉食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyiyushi.md)
+
 <p><span class="chinese">无论是锦衣玉食的王子，还是衣不蔽体的流浪儿，只要愿意，就能为自己的人生确立一个目标。</span><span class="english">Either a prince who lives in luxury or a tramp dressed in rags, can have an aim in life if he will.</span></p>
 
 <p><span class="chinese">无论是锦衣玉食的王子，还是衣不蔽体的流浪儿，只要愿意，就能为自己的人生确立一个目标。</span><span class="english">Whether to live an extravagant life of a prince, or be in rags wanderer, if willing, you can make a target.</span></p>

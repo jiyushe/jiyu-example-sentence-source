@@ -1,5 +1,7 @@
 # avn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avn.md)
+
 <p><span class="chinese">房室结与心房肌之间有多条路径相连。</span><span class="english">The AVN linked the atrial muscle in several routes.</span></p>
 
 <p><span class="chinese">根据结内细胞的亚微结构特征，讨论了房室结的生理功能。</span><span class="english">On the basis of these ultrastiuctural features, the function of AVN is discussed.</span></p>

@@ -1,5 +1,7 @@
 # 鸿沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honggou.md)
+
 <p><span class="chinese">鸿沟的这场雪盲欺骗。</span><span class="english">Chasm of this snow-blind deceit.</span></p>
 
 <p><span class="chinese">美国总统未能消除鸿沟,在国内面临压力**</span><span class="english">UNBRIDGED RIFTS, DOMESTIC PRESSURE</span></p>

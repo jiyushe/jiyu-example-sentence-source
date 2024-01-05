@@ -1,5 +1,7 @@
 # 打桩机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhuangji.md)
+
 <p><span class="chinese">然而，在早上8点的时候，打桩机开始轰鸣了。</span><span class="english">However, at 8 a. m. , the pile driver started hammering.</span></p>
 
 <p><span class="chinese">想要进一步提升打桩机的效能吗？</span><span class="english">Do you want to further enhance the efficiency of the driver?</span></p>

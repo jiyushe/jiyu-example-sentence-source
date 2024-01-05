@@ -1,5 +1,7 @@
 # realism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realism.md)
+
 <p><span class="chinese">这将增加一点真实度。</span><span class="english">This will add more realism.</span></p>
 
 <p><span class="chinese">比起写实派，我更喜欢抽象派。</span><span class="english">I prefer abstract to realism.</span></p>

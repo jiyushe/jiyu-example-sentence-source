@@ -1,5 +1,7 @@
 # coastline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coastline.md)
+
 <p><span class="chinese">海岸线向南延伸。</span><span class="english">The coastline bent south.</span></p>
 
 <p><span class="chinese">420头鲸鲨，惊现墨西哥海岸</span><span class="english">Whale Sharks Swarm Mexican Coastline.</span></p>

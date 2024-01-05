@@ -1,5 +1,7 @@
 # scarecrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarecrow.md)
+
 <p><span class="chinese">稻草人能得到头脑了吗？我能变大吗？</span><span class="english">Will Scarecrow get his brain? Will l get to be big?</span></p>
 
 <p><span class="chinese">当地人认为，这样的稻草人象征着过去一年所有的烦恼和不顺。</span><span class="english">The scarecrow symbolizes all the bad things of the last year.</span></p>

@@ -1,5 +1,7 @@
 # recurrence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recurrence.md)
+
 <p><span class="chinese">那么，盆腔炎治愈后复发怎么办呢？</span><span class="english">So, after cure pelvic infection recurrence?</span></p>
 
 <p><span class="chinese">无下咽局部复发者。</span><span class="english">No local hypopharyngeal recurrence occurred.</span></p>

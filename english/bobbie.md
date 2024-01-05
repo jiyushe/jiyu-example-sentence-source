@@ -1,5 +1,7 @@
 # bobbie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobbie.md)
+
 <p><span class="chinese">吉恩与博比已经结婚68年了。</span><span class="english">Gene and Bobbie Bonti have been married for 68 years.</span></p>
 
 <p><span class="chinese">我可以留个话，请巴比明天中午与我碰面吗？</span><span class="english">Could I leave a message for Bobbie to meet me at noon tomorrow?</span></p>

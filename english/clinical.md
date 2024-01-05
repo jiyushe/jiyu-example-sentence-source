@@ -1,5 +1,7 @@
 # clinical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinical.md)
+
 <p><span class="chinese">为什么要有临床试验？</span><span class="english">Why are there clinical trials?</span></p>
 
 <p><span class="chinese">设计非随机化临床试验。</span><span class="english">Design non-randomized clinical trial.</span></p>

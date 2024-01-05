@@ -1,5 +1,7 @@
 # 珠峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufeng_1.md)
+
 <p><span class="chinese">珠峰上的每一步都很关键。</span><span class="english">Every step is critical on Mount Everest.</span></p>
 
 <p><span class="chinese">在60多岁时，他才开始尝试攀登珠峰。</span><span class="english">He only started on Everest when aged in his 60s.</span></p>

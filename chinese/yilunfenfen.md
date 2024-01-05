@@ -1,5 +1,7 @@
 # 议论纷纷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilunfenfen.md)
+
 <p><span class="chinese">人们都在议论纷纷。你正在让人看笑话。</span><span class="english">People are talking. You're committing social suicide.</span></p>
 
 <p><span class="chinese">城里的人都注意到他的丧服，议论纷纷。</span><span class="english">This mourning was noticed in the town, and commented on.</span></p>

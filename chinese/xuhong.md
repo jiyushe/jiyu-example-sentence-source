@@ -1,5 +1,7 @@
 # 蓄洪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhong.md)
+
 <p><span class="chinese">分蓄洪区是平原防洪的一种重要措施。</span><span class="english">Flood diversion and storage areas are very important to flood control.</span></p>
 
 <p><span class="chinese">洞庭湖蓄洪能力具有重要的意义。</span><span class="english">The capacity of flood storage in Dongting Lake is of great significance.</span></p>

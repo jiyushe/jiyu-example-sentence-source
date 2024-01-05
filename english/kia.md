@@ -1,5 +1,7 @@
 # kia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kia.md)
+
 <p><span class="chinese">你知道吗，姬雅?。</span><span class="english">You know what, Kia?</span></p>
 
 <p><span class="chinese">哦，拜托，姬雅需要动手术的是你的脑子。</span><span class="english">Oh please , kia what you need is lobotomy.</span></p>

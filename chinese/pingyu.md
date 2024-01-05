@@ -1,5 +1,7 @@
 # 评语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingyu.md)
+
 <p><span class="chinese">黑根对这一评语感到很诧异。</span><span class="english">Hagen wondered at this remark.</span></p>
 
 <p><span class="chinese">你的评语真是恰到好处。</span><span class="english">Your comments are on the nose.</span></p>

@@ -1,5 +1,7 @@
 # downtown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downtown.md)
+
 <p><span class="chinese">是玻璃幕墙高耸入云的闹市区？</span><span class="english">A downtown of glass towers?</span></p>
 
 <p><span class="chinese">什么地方可以乘到市区的车？</span><span class="english">Where is the bus to downtown?</span></p>

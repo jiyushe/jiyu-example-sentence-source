@@ -1,5 +1,7 @@
 # affiliated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affiliated.md)
+
 <p><span class="chinese">我们加入了他们的俱乐部。</span><span class="english">We affiliated ourselves with their club.</span></p>
 
 <p><span class="chinese">我们俱乐部已与一个全国性协会合并。</span><span class="english">Our club has affiliated with a national society.</span></p>

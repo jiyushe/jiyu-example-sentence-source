@@ -1,5 +1,7 @@
 # 不甘寂寞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buganjimo.md)
+
 <p><span class="chinese">甚至新闻媒体也不甘寂寞。</span><span class="english">The news media even gets involved.</span></p>
 
 <p><span class="chinese">他是个不甘寂寞的人，常想招人注目。</span><span class="english">He is not a very quiet man and always wants to be to the fore.</span></p>

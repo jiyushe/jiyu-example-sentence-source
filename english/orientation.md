@@ -1,5 +1,7 @@
 # orientation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orientation.md)
+
 <p><span class="chinese">恐慌后方向改变。</span><span class="english">Panic after orientation change.</span></p>
 
 <p><span class="chinese">所以没有特定的曲线。</span><span class="english">There is no preferred orientation.</span></p>

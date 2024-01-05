@@ -1,5 +1,7 @@
 # 停歇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingxie.md)
+
 <p><span class="chinese">从不停歇。</span><span class="english">They never stop.</span></p>
 
 <p><span class="chinese">鸟停歇在栖木上。</span><span class="english">The bird took its perch.</span></p>

@@ -1,5 +1,7 @@
 # trichome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichome.md)
+
 <p><span class="chinese">植物表面聚集的毛状物称为柔毛。</span><span class="english">The collective trichome cover of a plant surface is called pubescence.</span></p>
 
 <p><span class="chinese">表皮毛是由单个细胞发育而来。</span><span class="english">Each trichome was developed from a single epidermic cell, and has inflated tip.</span></p>

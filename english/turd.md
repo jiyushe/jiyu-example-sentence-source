@@ -1,5 +1,7 @@
 # turd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turd.md)
+
 <p><span class="chinese">我们可以一起做个“大粪”吗？</span><span class="english">Can we make a Turd?</span></p>
 
 <p><span class="chinese">左图是一坨狐狸的大便。</span><span class="english">Pictured left is a fox turd.</span></p>

@@ -1,5 +1,7 @@
 # made
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/made.md)
+
 <p><span class="chinese">我考上了哈佛“</span><span class="english">I made it."</span></p>
 
 <p><span class="chinese">这是我做的</span><span class="english">I made this.</span></p>

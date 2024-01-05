@@ -1,5 +1,7 @@
 # duties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duties.md)
+
 <p><span class="chinese">什么是做妻子的责任?。</span><span class="english">What are wifely duties?</span></p>
 
 <p><span class="chinese">什么是做妻子的责任？</span><span class="english">A 2 What are wifely duties?</span></p>

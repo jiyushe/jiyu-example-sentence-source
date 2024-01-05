@@ -1,5 +1,7 @@
 # separate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separate.md)
+
 <p><span class="chinese">将六个鸡蛋分开。</span><span class="english">Separate six eggs.</span></p>
 
 <p><span class="chinese">分离还是合好？</span><span class="english">Separate or united?</span></p>

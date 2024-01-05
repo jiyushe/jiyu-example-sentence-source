@@ -1,5 +1,7 @@
 # redecorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redecorate.md)
+
 <p><span class="chinese">你想如何装修你的房子？</span><span class="english">How do you want to redecorate your room?</span></p>
 
 <p><span class="chinese">你想如何装修你的房间？</span><span class="english">How do you want to redecorate your room?</span></p>

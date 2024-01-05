@@ -1,5 +1,7 @@
 # suiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suiting.md)
+
 <p><span class="chinese">除了走向战场，你可以通过更多其他的方法来帮助你的国家。</span><span class="english">You can serve your country in other ways besides suiting up in combat.</span></p>
 
 <p><span class="chinese">VFP功能强大，同样适合用于前台开发工具。</span><span class="english">The function of VFP is strong, suiting to be used for the development tool of client.</span></p>

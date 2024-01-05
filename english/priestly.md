@@ -1,5 +1,7 @@
 # priestly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priestly.md)
+
 <p><span class="chinese">另外请读约翰福音17章大祭司的祷告。</span><span class="english">Also read the high Priestly prayer in John 17.</span></p>
 
 <p><span class="chinese">大理石贤者身份神圣并且拥有祭司的权力。</span><span class="english">Marble Oracles have priestly powers and are sacred.</span></p>

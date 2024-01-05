@@ -1,5 +1,7 @@
 # 辩白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianbai.md)
+
 <p><span class="chinese">公司给了他一个辩白的机会。</span><span class="english">The company gave him an opportunity to clear himself.</span></p>
 
 <p><span class="chinese">找一个罪证，找一个理由为你辩白。</span><span class="english">Pick a crime from the menu, pick a sentence and defend you.</span></p>

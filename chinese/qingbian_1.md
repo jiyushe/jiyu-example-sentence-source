@@ -1,5 +1,7 @@
 # 请便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbian_1.md)
+
 <p><span class="chinese">好的，请便。</span><span class="english">Yes, please.</span></p>
 
 <p><span class="chinese">当然，请便。</span><span class="english">Sure, Go ahead.</span></p>

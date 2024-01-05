@@ -1,5 +1,7 @@
 # 疏浚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujun.md)
+
 <p><span class="chinese">有一个沙底要疏浚。</span><span class="english">There is a sandy bottom to dredge.</span></p>
 
 <p><span class="chinese">通过疏浚保持河道的深度。</span><span class="english">The depth of the river is maintained by dredging.</span></p>

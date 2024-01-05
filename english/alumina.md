@@ -1,5 +1,7 @@
 # alumina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alumina.md)
+
 <p><span class="chinese">具有棕，白刚玉两者的优点。</span><span class="english">With brown, white fused alumina two advantages.</span></p>
 
 <p><span class="chinese">2吨的氧化铝约可生产1吨的电解铝.</span><span class="english">Two tonnes of alumina can produce one tonne of aluminium.</span></p>

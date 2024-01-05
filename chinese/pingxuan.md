@@ -1,5 +1,7 @@
 # 评选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingxuan.md)
+
 <p><span class="chinese">评选出10大赛道，10大人物模型，10大赛车。</span><span class="english">Rate 10 tracks, 10 Mods, and 10 karts.</span></p>
 
 <p><span class="chinese">此次评选活动中演员赵薇占得次席。</span><span class="english">Actress Zhao Wei ran second in the poll.</span></p>

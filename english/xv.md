@@ -1,5 +1,7 @@
 # xv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xv.md)
+
 <p><span class="chinese">为国王路易十五表演。</span><span class="english">Performing for King Louis XV.</span></p>
 
 <p><span class="chinese">豁免的退休计划。完成第十五部份。</span><span class="english">Exempt retirement plans. Complete Part XV.</span></p>

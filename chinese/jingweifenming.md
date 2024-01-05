@@ -1,5 +1,7 @@
 # 泾渭分明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingweifenming.md)
+
 <p><span class="chinese">在现实世界中，该生命周期并非始终泾渭分明。</span><span class="english">In the real world, the lifecycle is not always as clean.</span></p>
 
 <p><span class="chinese">红砖先生的精灵戴红帽子，蓝莓女士的花戴蓝帽子，他们之间泾渭分明，相互仇恨。</span><span class="english">His have red caps, hers wear blue and they are bitter rivals.</span></p>

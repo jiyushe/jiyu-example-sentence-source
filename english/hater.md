@@ -1,5 +1,7 @@
 # hater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hater.md)
+
 <p><span class="chinese">不过，一个憎恨他的人会去说的，是吧？</span><span class="english">But then, a hater would say that, wouldn't he?</span></p>
 
 <p><span class="chinese">爱那些憎恨我们的人这一点是最难做到的。</span><span class="english">Love of the hater is the most difficult of all.</span></p>

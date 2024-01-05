@@ -1,5 +1,7 @@
 # hometown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hometown.md)
+
 <p><span class="chinese">嘉鱼是我的故乡。</span><span class="english">Jiayu is my hometown.</span></p>
 
 <p><span class="chinese">海门市是我的家乡。</span><span class="english">Haimen is my hometown.</span></p>

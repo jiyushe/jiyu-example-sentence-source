@@ -1,5 +1,7 @@
 # bating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bating.md)
+
 <p><span class="chinese">他一直表现很好。</span><span class="english">He has been bating a thousand.</span></p>
 
 <p><span class="chinese">首次系统研究了绵羊服装革的酸性酶软化技术。</span><span class="english">First, a systematic study was conducted to acid bating.</span></p>

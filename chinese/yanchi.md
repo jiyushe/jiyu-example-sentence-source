@@ -1,5 +1,7 @@
 # 延迟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchi.md)
+
 <p><span class="chinese">延迟你的反应。</span><span class="english">Delay your reaction.</span></p>
 
 <p><span class="chinese">可变延迟线路?。</span><span class="english">VDL? Variable Delay Line?</span></p>

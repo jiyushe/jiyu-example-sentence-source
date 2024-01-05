@@ -1,5 +1,7 @@
 # 旅行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvxing.md)
+
 <p><span class="chinese">来次自行车旅行？</span><span class="english">Take a bike trip?</span></p>
 
 <p><span class="chinese">你经常徒步旅行吗？</span><span class="english">Do you hike often?</span></p>

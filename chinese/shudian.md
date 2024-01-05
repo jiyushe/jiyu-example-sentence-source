@@ -1,5 +1,7 @@
 # 输电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shudian.md)
+
 <p><span class="chinese">输电线路高耸入云。</span><span class="english">Transmission lines built right among the clouds.</span></p>
 
 <p><span class="chinese">输电线路风偏放电的影响因素研究。</span><span class="english">Study on windage yaw discharge of transmission line.</span></p>

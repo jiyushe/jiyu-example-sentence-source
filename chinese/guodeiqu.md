@@ -1,5 +1,7 @@
 # 过得去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guodeiqu.md)
+
 <p><span class="chinese">我还过得去。</span><span class="english">I get by.</span></p>
 
 <p><span class="chinese">还过得去么</span><span class="english">Yeah, just barely?</span></p>

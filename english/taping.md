@@ -1,5 +1,7 @@
 # taping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taping.md)
+
 <p><span class="chinese">双按钮门襟斜纹录音。</span><span class="english">Two-button placket with twill taping.</span></p>
 
 <p><span class="chinese">解决磁铁报警器是最后一步。</span><span class="english">The taping of the magnets was the final step.</span></p>

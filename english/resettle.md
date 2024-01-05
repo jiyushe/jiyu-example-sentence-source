@@ -1,5 +1,7 @@
 # resettle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resettle.md)
+
 <p><span class="chinese">他们在澳洲重新定居下来。</span><span class="english">They resettle themselves in Australia.</span></p>
 
 <p><span class="chinese">中方希望这批物资能够有助于吉方做好相关的难民安置工作。</span><span class="english">China hopes the aid will help Kyrgyzstan to resettle the refugees.</span></p>

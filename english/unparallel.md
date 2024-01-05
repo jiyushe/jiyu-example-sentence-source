@@ -1,5 +1,7 @@
 # unparallel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unparallel.md)
+
 <p><span class="chinese">在经文的描述中，这样重复地强调欢乐是绝无仅有的。</span><span class="english">It is unparallel in the scripture where there is such emphasis on joy.</span></p>
 
 <p><span class="chinese">步履桩机用一辆平板车转场此为先例。</span><span class="english">It is unparallel that track pile driver can be transferred with a flat truck.</span></p>

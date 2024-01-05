@@ -1,5 +1,7 @@
 # programmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programmatic.md)
+
 <p><span class="chinese">这可以通过声明性或程序性安全来实现。</span><span class="english">You can do this through declarative or programmatic security.</span></p>
 
 <p><span class="chinese">新的UI控件、CSS皮肤和可编程的布局</span><span class="english">Support for  new UI controls, CSS skinning, and programmatic layout</span></p>

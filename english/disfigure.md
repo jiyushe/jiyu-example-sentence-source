@@ -1,5 +1,7 @@
 # disfigure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disfigure.md)
+
 <p><span class="chinese">我不会损毁她美丽的面容。</span><span class="english">I will not disfigure her pretty face.</span></p>
 
 <p><span class="chinese">他们用斧头砍，把犀牛的脸都砍坏了。</span><span class="english">They use an axe and disfigure the rhino's face.</span></p>

@@ -1,5 +1,7 @@
 # mit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mit.md)
+
 <p><span class="chinese">好吧，还是讲讲在麻理的那个演讲吧。</span><span class="english">So, back to the MIT talk.</span></p>
 
 <p><span class="chinese">拉里·哈狄斯提，麻省理工学院新闻办公室</span><span class="english">Larry Hardesty, MIT News Office</span></p>

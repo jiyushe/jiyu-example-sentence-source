@@ -1,5 +1,7 @@
 # inhibitory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhibitory.md)
+
 <p><span class="chinese">酒精是抑制性的</span><span class="english">Alcohol is inhibitory.</span></p>
 
 <p><span class="chinese">那么酒精是怎样起到抑制作用的呢</span><span class="english">And so in what way is alcohol inhibitory?</span></p>

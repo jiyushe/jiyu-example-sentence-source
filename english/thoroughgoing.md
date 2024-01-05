@@ -1,5 +1,7 @@
 # thoroughgoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoroughgoing.md)
+
 <p><span class="chinese">您是否不会做非常好彻底关心我是？</span><span class="english">Won't you do very good thoroughgoing care about I am?</span></p>
 
 <p><span class="chinese">因为您我伤害很彻底，我做一切是。</span><span class="english">I do everything is because you I hurt so thoroughgoing.</span></p>

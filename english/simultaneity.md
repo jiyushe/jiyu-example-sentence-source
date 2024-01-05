@@ -1,5 +1,7 @@
 # simultaneity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simultaneity.md)
+
 <p><span class="chinese">我不认为符号之间的关系是同时的。</span><span class="english">I do not understand the relation among signs as a simultaneity.</span></p>
 
 <p><span class="chinese">许多迹象都显现出这种同时性的技巧，赋予生命给沙特的角色。</span><span class="english">Many signs betray this art of simultaneity that gives life to the Sartean hero.</span></p>

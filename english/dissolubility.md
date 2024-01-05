@@ -1,5 +1,7 @@
 # dissolubility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolubility.md)
+
 <p><span class="chinese">不同的挤压条件对粕蛋白溶解性的影响差异较大。</span><span class="english">The different extruding condition to dreg prein's dissolubility inferences diversity largely.</span></p>
 
 <p><span class="chinese">结论优化处方的灯盏花素分散片其体外溶出度明显优于普通片。</span><span class="english">CONCLUSION The in-vitro dissolubility of the optimized dispersed tablet is better than that of commontable.</span></p>

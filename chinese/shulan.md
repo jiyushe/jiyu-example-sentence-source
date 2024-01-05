@@ -1,5 +1,7 @@
 # 树懒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shulan.md)
+
 <p><span class="chinese">你在威胁我吗?走，树懒！</span><span class="english">Are you threatening me?- Move, sloth!</span></p>
 
 <p><span class="chinese">树懒的智商，女妖的行为。不带脏话。</span><span class="english">IQ of sloth, and the manner of banshees.</span></p>

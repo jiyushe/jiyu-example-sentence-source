@@ -1,5 +1,7 @@
 # leto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leto.md)
+
 <p><span class="chinese">我穿透了你的防线，莱托。</span><span class="english">I have broken through your defenses, Leto.</span></p>
 
 <p><span class="chinese">我们会像勒托那样用一枝红色康乃馨当领结吗？</span><span class="english">Would we, as Leto did, wear a red carnation as a bow-tie?</span></p>

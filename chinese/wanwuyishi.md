@@ -1,5 +1,7 @@
 # 万无一失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanwuyishi.md)
+
 <p><span class="chinese">然而，生曲奇的安全性并非万无一失。</span><span class="english">But no raw cookie is necessarily safe.</span></p>
 
 <p><span class="chinese">希望万无一失，像在美国一样。</span><span class="english">You are all the same jast like America.</span></p>

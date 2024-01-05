@@ -1,5 +1,7 @@
 # psychologically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychologically.md)
+
 <p><span class="chinese">心理上他们更脆弱。</span><span class="english">Psychologically they’re more fragile.</span></p>
 
 <p><span class="chinese">对此，我们有心理上的问题。</span><span class="english">Psychologically we have a problem with it.</span></p>

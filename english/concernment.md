@@ -1,5 +1,7 @@
 # concernment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concernment.md)
+
 <p><span class="chinese">到那个时候所有的付出与思念都是值得的！</span><span class="english">All pay and concernment will be worthwhile then.</span></p>
 
 <p><span class="chinese">四是生命意识与死亡关怀。</span><span class="english">Fourth, the consciousness of life and the concernment of death.</span></p>

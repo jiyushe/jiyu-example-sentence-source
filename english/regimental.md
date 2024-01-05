@@ -1,5 +1,7 @@
 # regimental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regimental.md)
+
 <p><span class="chinese">领带上的军团条纹？</span><span class="english">Regimental stripes on ties?</span></p>
 
 <p><span class="chinese">这个团的吉祥物是山羊。</span><span class="english">The regimental mascot is a goat.</span></p>

@@ -1,5 +1,7 @@
 # gloss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloss.md)
+
 <p><span class="chinese">这种油漆的光泽很好。</span><span class="english">This paint has a fine gloss.</span></p>
 
 <p><span class="chinese">他想粉饰他的缺点。</span><span class="english">He wants to gloss over his mistakes.</span></p>

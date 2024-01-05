@@ -1,5 +1,7 @@
 # contour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contour.md)
+
 <p><span class="chinese">等高线图看起来是这样的。</span><span class="english">So, the contour plot looks like that.</span></p>
 
 <p><span class="chinese">返回一个XLD轮廓的坐标系。记住，是一个！</span><span class="english">Return the coordinates of an XLD contour.</span></p>

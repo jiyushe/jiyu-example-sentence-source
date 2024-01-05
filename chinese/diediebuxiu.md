@@ -1,5 +1,7 @@
 # 喋喋不休
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diediebuxiu.md)
+
 <p><span class="chinese">她喋喋不休地说“伙计们！</span><span class="english">She gabbled out 'Guys!</span></p>
 
 <p><span class="chinese">没必要说的话别喋喋不休地说”。</span><span class="english">Don't be a blabber mouth!</span></p>

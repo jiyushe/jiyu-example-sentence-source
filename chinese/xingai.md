@@ -1,5 +1,7 @@
 # 性爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingai.md)
+
 <p><span class="chinese">什么是密宗性爱？</span><span class="english">What is Tantric sex?</span></p>
 
 <p><span class="chinese">性爱是一种美容美体。</span><span class="english">Sex is a beauty treatment.</span></p>

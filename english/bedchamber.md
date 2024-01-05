@@ -1,5 +1,7 @@
 # bedchamber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedchamber.md)
+
 <p><span class="chinese">弗兰雅打开了卧室门。</span><span class="english">Frenya opened the bedchamber door.</span></p>
 
 <p><span class="chinese">我把她的手珍藏在卧室。</span><span class="english">I keep her hands in my bedchamber.</span></p>

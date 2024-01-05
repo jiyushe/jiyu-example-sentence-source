@@ -1,5 +1,7 @@
 # 动气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongqi.md)
+
 <p><span class="chinese">有些人容易动气。</span><span class="english">Some people are easily offended.</span></p>
 
 <p><span class="chinese">非常好的朋友不会动气。</span><span class="english">Really good friends don't take offence.</span></p>

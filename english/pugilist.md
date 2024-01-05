@@ -1,5 +1,7 @@
 # pugilist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pugilist.md)
+
 <p><span class="chinese">拳击手问。</span><span class="english">the Pugilist asked.</span></p>
 
 <p><span class="chinese">二十年后，甚至最好的拳击手也要靠边站。</span><span class="english">Some 20 later, even the best pugilist has to step aside.</span></p>

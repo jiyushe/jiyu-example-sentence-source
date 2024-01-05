@@ -1,5 +1,7 @@
 # 红皮书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongpishu.md)
+
 <p><span class="chinese">红皮书了解什么是良好的性生活——而且我们有大量的信息来证明它。</span><span class="english">Redbook knows good sex — and we've got the library to prove it.</span></p>
 
 <p><span class="chinese">熟悉这本红皮书将有益于您的迁移规划。</span><span class="english">Becoming familiar with this redbook will be a benefit to your migration planning.</span></p>

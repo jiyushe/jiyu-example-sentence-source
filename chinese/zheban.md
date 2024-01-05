@@ -1,5 +1,7 @@
 # 这般
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheban.md)
+
 <p><span class="chinese">非也……我也但愿我有这般本事。</span><span class="english">No ---- I only wish I could.</span></p>
 
 <p><span class="chinese">我是否就这般凉薄了很久。</span><span class="english">If I is so cool and thin long.</span></p>

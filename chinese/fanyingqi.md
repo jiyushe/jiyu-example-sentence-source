@@ -1,5 +1,7 @@
 # 反应器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyingqi.md)
+
 <p><span class="chinese">三种反应器的沟流情况均不明显。</span><span class="english">The reactor channel flow was not obvious.</span></p>
 
 <p><span class="chinese">可用一组间歇式生物反应器。</span><span class="english">A series of batch biological reactors are used.</span></p>

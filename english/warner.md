@@ -1,5 +1,7 @@
 # warner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warner.md)
+
 <p><span class="chinese">时代华纳是美国在线的母公司。</span><span class="english">Time Warner is parent company of AOL.</span></p>
 
 <p><span class="chinese">Warner医生则被一位悲愤的母亲射杀了。</span><span class="english">Dr. Warner was shot by a grieving mother.</span></p>

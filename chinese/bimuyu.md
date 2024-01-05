@@ -1,5 +1,7 @@
 # 比目鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimuyu.md)
+
 <p><span class="chinese">五个胖的男修道士在煎比目鱼。</span><span class="english">Five fat friars frying flat-fish.</span></p>
 
 <p><span class="chinese">淡灰白色鱼肉的比目鱼。</span><span class="english">Grayish-white flesh of a flatfish.</span></p>

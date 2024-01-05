@@ -1,5 +1,7 @@
 # 冷加工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengjiagong.md)
+
 <p><span class="chinese">冷加工。</span><span class="english">Cold working.</span></p>
 
 <p><span class="chinese">去除冷加工后的应变。</span><span class="english">To remove strains after cold working.</span></p>

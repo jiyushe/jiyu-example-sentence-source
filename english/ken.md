@@ -1,5 +1,7 @@
 # ken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ken.md)
+
 <p><span class="chinese">我是山本健。</span><span class="english">This is Ken Yamamoto.</span></p>
 
 <p><span class="chinese">肯。道格爸爸的狗死了。</span><span class="english">Ken Daug's dad's dog's dead.</span></p>

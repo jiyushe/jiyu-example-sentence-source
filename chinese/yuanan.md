@@ -1,5 +1,7 @@
 # 冤案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanan.md)
+
 <p><span class="chinese">冤案得到了昭雪。</span><span class="english">The wrong has been righted.</span></p>
 
 <p><span class="chinese">冤案终于得到了昭雪。</span><span class="english">At long last the wrong has been righted.</span></p>

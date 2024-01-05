@@ -1,5 +1,7 @@
 # 冷枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengqiang.md)
+
 <p><span class="chinese">这个放冷枪的人从远处，而且通常是靠近高速公路出口的缓坡这样安全的地方寻找目标。</span><span class="english">The sniper sighted his marks from a distance and often near the safety of a highway exit ramp.</span></p>
 
 <p><span class="chinese">放冷枪进行暗算可能是个大问题，所以高级军官路经他们地区时必须小心防范。</span><span class="english">Sniping may be a problem and senior officers must exercise due care when travelling about their areas.</span></p>

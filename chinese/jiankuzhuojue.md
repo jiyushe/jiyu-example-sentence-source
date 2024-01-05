@@ -1,5 +1,7 @@
 # 艰苦卓绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiankuzhuojue.md)
+
 <p><span class="chinese">这十年对美国来说是艰苦卓绝的十年。</span><span class="english">This has been a very tough decade for the United States.</span></p>
 
 <p><span class="chinese">让世界无核化将是一项艰苦卓绝的工程，但我们有能力做到。</span><span class="english">Getting to global zero will be arduous, but it can be done.</span></p>

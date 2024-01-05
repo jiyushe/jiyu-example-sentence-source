@@ -1,5 +1,7 @@
 # 会晤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiwu.md)
+
 <p><span class="chinese">是谁提出举行这次会晤的？</span><span class="english">Who called for the meeting?</span></p>
 
 <p><span class="chinese">我很想会晤布郎先生。</span><span class="english">I would like to meet Mr. Brow.</span></p>

@@ -1,5 +1,7 @@
 # warring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warring.md)
+
 <p><span class="chinese">交战国双方都渴望和平。</span><span class="english">Both warring nations longed for peace.</span></p>
 
 <p><span class="chinese">没错儿。战国时期有很多国家。</span><span class="english">It's called the Warring States Period.</span></p>

@@ -1,5 +1,7 @@
 # 刀枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoqiang.md)
+
 <p><span class="chinese">和平时期也不能马放南山，刀枪入库。</span><span class="english">Never put the bayonets and guns away.</span></p>
 
 <p><span class="chinese">爱情统治不用刀枪，捆绑不用绳索。</span><span class="english">Love rules without a sword and bind without a cord.</span></p>

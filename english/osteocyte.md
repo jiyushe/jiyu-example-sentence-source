@@ -1,5 +1,7 @@
 # osteocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteocyte.md)
+
 <p><span class="chinese">结论镓盐对骨质疏松引起的骨细胞超微结构的损伤有改善作用。</span><span class="english">Gallium can alleviate the damage of osteocyte ultrastructure elicited by osteoporosis.</span></p>
 
 <p><span class="chinese">目的探讨镓盐对骨质疏松骨细胞超微结构的影响。</span><span class="english">Objective to investigate the influence of gallium on osteocyte ultrastructure in osteoporosis.</span></p>

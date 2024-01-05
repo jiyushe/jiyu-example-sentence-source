@@ -1,5 +1,7 @@
 # ambulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambulate.md)
+
 <p><span class="chinese">按下左，右箭头键踯躅。</span><span class="english">Press the left and right arrow keys to ambulate.</span></p>
 
 <p><span class="chinese">当然，准备行走的病人，运动神经完全恢复是必须的。</span><span class="english">Of course, before attempting to ambulate a patient, it is essential to ensure that all motor block has resolved.</span></p>

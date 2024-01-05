@@ -1,5 +1,7 @@
 # grail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grail.md)
+
 <p><span class="chinese">以至于他们的基金甚至跑不赢大盘。</span><span class="english">So their funds or can't out-run grail.</span></p>
 
 <p><span class="chinese">这就是食品科学的'圣杯'”。</span><span class="english">It’s the food technologists’ holy grail.</span></p>

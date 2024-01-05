@@ -1,5 +1,7 @@
 # sleep 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleep.md)
+
 <p><span class="chinese">我没睡着觉。</span><span class="english">I didn't sleep.</span></p>
 
 <p><span class="chinese">他便回往继续睡他的觉。</span><span class="english">He went to sleep.</span></p>

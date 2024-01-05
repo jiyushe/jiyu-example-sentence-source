@@ -1,5 +1,7 @@
 # absoluteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absoluteness.md)
+
 <p><span class="chinese">公正的绝对性和相对性。</span><span class="english">Absoluteness and relativeness of fairness.</span></p>
 
 <p><span class="chinese">相对最大化的自我的绝对</span><span class="english">Relativism Maximizes the Absoluteness of Self</span></p>

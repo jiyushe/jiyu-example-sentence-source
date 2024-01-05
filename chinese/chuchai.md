@@ -1,5 +1,7 @@
 # 出差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchai.md)
+
 <p><span class="chinese">我接下来会在武汉出差。</span><span class="english">I next business trip in Wuhan.</span></p>
 
 <p><span class="chinese">对于出差你怎么认为?</span><span class="english">How do you feel about travelling?</span></p>

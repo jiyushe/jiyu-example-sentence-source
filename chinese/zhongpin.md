@@ -1,5 +1,7 @@
 # 中频
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongpin.md)
+
 <p><span class="chinese">神的旨谕在诗句中频显现。</span><span class="english">In verse the oracles divine were heard.</span></p>
 
 <p><span class="chinese">由混频器，本振，中频组成。</span><span class="english">They have mixers, local oscillators, and IF chains.</span></p>

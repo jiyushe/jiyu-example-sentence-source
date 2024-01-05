@@ -1,5 +1,7 @@
 # omg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omg.md)
+
 <p><span class="chinese">哦卖糕，我的下巴掉到桌子上了。</span><span class="english">OMG my chin fell on the table!</span></p>
 
 <p><span class="chinese">在通告中，OMG对BEI的描述如下</span><span class="english">In the announcement, OMG describes BEI as</span></p>

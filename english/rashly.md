@@ -1,5 +1,7 @@
 # rashly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rashly.md)
+
 <p><span class="chinese">不可率尔应战。</span><span class="english">We should not rashly accept battle.</span></p>
 
 <p><span class="chinese">“三思而后行”这条谚语是告诫人们不要鲁莽行事。</span><span class="english">"Look before you leap"is a warning against people acting rashly.</span></p>

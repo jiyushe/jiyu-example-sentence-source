@@ -1,5 +1,7 @@
 # seaworthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaworthiness.md)
+
 <p><span class="chinese">它没有达到安全性和适航性的规定标准。</span><span class="english">It didn't reach required standards of safety and seaworthiness.</span></p>
 
 <p><span class="chinese">再次，对滚装客船船型进行经济性分析。</span><span class="english">Thirdly, the economics of seaworthiness ship type was analyzed.</span></p>

@@ -1,5 +1,7 @@
 # 石竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhu_3.md)
+
 <p><span class="chinese">母亲节那天，在胸前佩戴石竹花。</span><span class="english">In the chest wearing pink.</span></p>
 
 <p><span class="chinese">香石竹再生体系的建立。</span><span class="english">Regeneration systems of carnation.</span></p>

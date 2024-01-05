@@ -1,5 +1,7 @@
 # dnf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dnf.md)
+
 <p><span class="chinese">DNF远古腰带任务怎样做？</span><span class="english">DNF ancient belt task to do?</span></p>
 
 <p><span class="chinese">这是本赛季第二次退出了！</span><span class="english">It was the second DNF for season.</span></p>

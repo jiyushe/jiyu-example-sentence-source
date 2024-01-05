@@ -1,5 +1,7 @@
 # 他乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taxiang.md)
+
 <p><span class="chinese">所以我祈祷，我将远走他乡。</span><span class="english">So I prayed, I could break away.</span></p>
 
 <p><span class="chinese">真心地谢谢你，敏你在他乡也好吗？</span><span class="english">Many sincere thanks to you, dear Min.</span></p>

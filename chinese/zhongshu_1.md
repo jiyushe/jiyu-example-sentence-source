@@ -1,5 +1,7 @@
 # 中枢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshu_1.md)
+
 <p><span class="chinese">大脑是高级神经活动的中枢。</span><span class="english">The brain is the centre of higher nervous activity.</span></p>
 
 <p><span class="chinese">跳步急停后，任何一只脚都可以成为中枢脚。</span><span class="english">After we made a jump stop, any foot can be a pivot foot.</span></p>

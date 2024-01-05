@@ -1,5 +1,7 @@
 # 记分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifen.md)
+
 <p><span class="chinese">台下评判员如何记分？</span><span class="english">How do the judges score a bout?</span></p>
 
 <p><span class="chinese">这个代码是一个网球运动的记分规则。</span><span class="english">This is code that scores sets in tennis.</span></p>

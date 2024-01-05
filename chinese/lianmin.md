@@ -1,5 +1,7 @@
 # 怜悯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianmin.md)
+
 <p><span class="chinese">我没有怜悯！</span><span class="english">I have no pity!</span></p>
 
 <p><span class="chinese">众神还有怜悯心吗？</span><span class="english">Have the gods no mercy?</span></p>

@@ -1,5 +1,7 @@
 # 骨胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujiao.md)
+
 <p><span class="chinese">最后会变成骨胶和马肉。</span><span class="english">Its glue and horse meat in the end.</span></p>
 
 <p><span class="chinese">它是一家专业生产明胶和骨胶。</span><span class="english">It is specialized in producing gelatin and bone glue.</span></p>

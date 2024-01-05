@@ -1,5 +1,7 @@
 # wisely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wisely.md)
+
 <p><span class="chinese">请明智地花费你所拥有的。</span><span class="english">Please use what you have wisely.</span></p>
 
 <p><span class="chinese">我将明智的挑选朋友。</span><span class="english">V. I will choose my friends wisely.</span></p>

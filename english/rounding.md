@@ -1,5 +1,7 @@
 # rounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rounding.md)
+
 <p><span class="chinese">对修约间隔亦有论述。</span><span class="english">Rounding interval is also discussed.</span></p>
 
 <p><span class="chinese">检查鞋跟及外底是否完善圆满。</span><span class="english">Check rounding of outsoles and heels.</span></p>

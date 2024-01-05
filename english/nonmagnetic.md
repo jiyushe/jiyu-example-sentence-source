@@ -1,5 +1,7 @@
 # nonmagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmagnetic.md)
+
 <p><span class="chinese">事实上，我们有一个非磁性冰箱。</span><span class="english">In fact, we have a nonmagnetic fridge.</span></p>
 
 <p><span class="chinese">钻铤必须是由非磁性物质做成的。</span><span class="english">The drill collars must be made of nonmagnetic material.</span></p>

@@ -1,5 +1,7 @@
 # earplug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earplug.md)
+
 <p><span class="chinese">安迪转过身把耳塞拔掉。</span><span class="english">Andy turns, removes an earplug.</span></p>
 
 <p><span class="chinese">移动耳塞用来指示相应的日期。</span><span class="english">The earplug is moved from ear to ear to indicate the current date.</span></p>

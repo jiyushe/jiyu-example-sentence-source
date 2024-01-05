@@ -1,5 +1,7 @@
 # ford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ford.md)
+
 <p><span class="chinese">这是一辆福特车。</span><span class="english">This is a Ford.</span></p>
 
 <p><span class="chinese">我要买辆福特车。</span><span class="english">I'll buy a Ford.</span></p>

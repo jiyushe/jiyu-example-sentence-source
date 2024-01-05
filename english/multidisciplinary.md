@@ -1,5 +1,7 @@
 # multidisciplinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multidisciplinary.md)
+
 <p><span class="chinese">数据挖掘是包含许多技术的多学科领域。</span><span class="english">Data mining is a multidisciplinary field with many techniques.</span></p>
 
 <p><span class="chinese">达到缓解或治愈目的需要多学科的手段。</span><span class="english">This requires a multidisciplinary approach to achieve palliation or cure.</span></p>

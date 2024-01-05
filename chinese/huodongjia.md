@@ -1,5 +1,7 @@
 # 活动家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huodongjia.md)
+
 <p><span class="chinese">这推动了保护动物活动家的动力。</span><span class="english">This fuels the drive of animal welfare activists.</span></p>
 
 <p><span class="chinese">余幼薇是一位学者、作家兼社会活动家。</span><span class="english">Katrien Jacobs is an academic, author and activist.</span></p>

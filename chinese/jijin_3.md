@@ -1,5 +1,7 @@
 # 基金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijin_3.md)
+
 <p><span class="chinese">创建一笔备用基金。</span><span class="english">Create a slush fund.</span></p>
 
 <p><span class="chinese">你会设立一个信托基金吗？</span><span class="english">Should you set up a trust?</span></p>

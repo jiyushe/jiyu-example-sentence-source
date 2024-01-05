@@ -1,5 +1,7 @@
 # 大写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxie.md)
+
 <p><span class="chinese">而花式大写就不一样。</span><span class="english">Swash capitals however do.</span></p>
 
 <p><span class="chinese">把它叫做大写的。</span><span class="english">W We'll call it capital W.</span></p>

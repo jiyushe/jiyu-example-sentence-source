@@ -1,5 +1,7 @@
 # juice 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juice_1.md)
+
 <p><span class="chinese">橙汁吗？</span><span class="english">Orange juice?</span></p>
 
 <p><span class="chinese">我喜欢喝胡萝卜汁。</span><span class="english">I like carrot juice.</span></p>

@@ -1,5 +1,7 @@
 # 粗浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuqian.md)
+
 <p><span class="chinese">对学生的评论不虚假，不粗浅。</span><span class="english">Wasn’t fake or shallow with comments to students</span></p>
 
 <p><span class="chinese">本文试对此作粗浅的探讨。</span><span class="english">This article try to make this superficial discussion.</span></p>

@@ -1,5 +1,7 @@
 # ultrabasic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrabasic.md)
+
 <p><span class="chinese">其厚度可达50公里并由超基性的橄榄岩所组成。</span><span class="english">This may be up to 50km thick and comprises ultrabasic peridotite.</span></p>
 
 <p><span class="chinese">煎茶岭金矿与煎茶岭超基性岩体有密切的成因联系。</span><span class="english">Jianchaling gold deposit is closed related to the Jianchaling ultrabasic rock mass.</span></p>

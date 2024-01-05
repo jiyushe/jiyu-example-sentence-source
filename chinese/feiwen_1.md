@@ -1,5 +1,7 @@
 # 飞吻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiwen_1.md)
+
 <p><span class="chinese">他给了她一个飞吻。</span><span class="english">He blew her a kiss.</span></p>
 
 <p><span class="chinese">他向她送了一个飞吻。</span><span class="english">He threw her a kiss.</span></p>

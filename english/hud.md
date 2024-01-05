@@ -1,5 +1,7 @@
 # hud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hud.md)
+
 <p><span class="chinese">平显可以告诉我正在以多快的速度往下掉。</span><span class="english">The HUD actually shows me how fast I'm falling.</span></p>
 
 <p><span class="chinese">我可以从平显上的指示看到尾滑是否开始了。</span><span class="english">I'll see the cue in my HUD when it starts sliding.</span></p>

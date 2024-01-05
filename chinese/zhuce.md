@@ -1,5 +1,7 @@
 # 注册
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuce.md)
+
 <p><span class="chinese">你注册了吗？</span><span class="english">Did you register?</span></p>
 
 <p><span class="chinese">下载内存注册机。</span><span class="english">Download memory Fillmore.</span></p>

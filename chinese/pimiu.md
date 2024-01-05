@@ -1,5 +1,7 @@
 # 纰缪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pimiu.md)
+
 <p><span class="chinese">我认为你是不合纰缪的。</span><span class="english">I don't think you re right.</span></p>
 
 <p><span class="chinese">人都有纰缪谬误。</span><span class="english">Every man has hellos faults.</span></p>

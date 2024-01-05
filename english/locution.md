@@ -1,5 +1,7 @@
 # locution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locution.md)
+
 <p><span class="chinese">国务院也在继续使用这个老掉牙的惯用语，就象在吹一个吹不响的哨子。</span><span class="english">The State Department continued to blow on this worn locution like a stuck whistle.</span></p>
 
 <p><span class="chinese">现代汉语中，叠音词与重叠式很容易发生混淆。</span><span class="english">In modern Chinese reiterative locution and reduplication are likely to be confused.</span></p>

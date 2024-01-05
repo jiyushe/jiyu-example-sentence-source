@@ -1,5 +1,7 @@
 # 亲族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinzu.md)
+
 <p><span class="chinese">互利主义和亲族选择是两个主要理论。</span><span class="english">Reciprocal altruism and kin selection are the two main theories.</span></p>
 
 <p><span class="chinese">附近居民大都知道这些孩子背景和亲族。</span><span class="english">The neighbors usually know the children's backgrounds and extended families.</span></p>

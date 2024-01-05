@@ -1,5 +1,7 @@
 # edifice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edifice.md)
+
 <p><span class="chinese">现在大厦倾倒.</span><span class="english">And now the edifice is crashing down.</span></p>
 
 <p><span class="chinese">这便是戈尔博老屋这一名称的由来。</span><span class="english">Hence the edifice bore the name of the Gorbeau house.</span></p>

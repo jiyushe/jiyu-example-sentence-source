@@ -1,5 +1,7 @@
 # 套房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taofang.md)
+
 <p><span class="chinese">套房配有蒸汽浴室。</span><span class="english">Steam suite with a bathroom.</span></p>
 
 <p><span class="chinese">我想在火车上预订一间套房。</span><span class="english">I'd like to reserve a roomette.</span></p>

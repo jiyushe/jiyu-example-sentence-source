@@ -1,5 +1,7 @@
 # chart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chart.md)
+
 <p><span class="chinese">这里是海图室。</span><span class="english">Here’s a chart house.</span></p>
 
 <p><span class="chinese">新图不错啊。感谢分享。</span><span class="english">The new chart is good.</span></p>

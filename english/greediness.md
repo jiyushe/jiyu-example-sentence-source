@@ -1,5 +1,7 @@
 # greediness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greediness.md)
+
 <p><span class="chinese">贪婪使他变得冷酷无情。</span><span class="english">Greediness indurated his heart.</span></p>
 
 <p><span class="chinese">他责骂她的贪婪。</span><span class="english">He blamed her for her greediness.</span></p>

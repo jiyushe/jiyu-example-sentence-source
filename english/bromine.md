@@ -1,5 +1,7 @@
 # bromine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bromine.md)
+
 <p><span class="chinese">是全国较大的盐溴生产基地。</span><span class="english">Is the larger salt bromine production base.</span></p>
 
 <p><span class="chinese">细河河水和地下水总溴浓度范围26。</span><span class="english">The total bromine from the Xi River ranged from 26.</span></p>

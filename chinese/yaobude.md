@@ -1,5 +1,7 @@
 # 要不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaobude.md)
+
 <p><span class="chinese">这种恶性循环要不得。</span><span class="english">This is a vicious cycle.</span></p>
 
 <p><span class="chinese">这样做要不得。</span><span class="english">It is no good doing that.</span></p>

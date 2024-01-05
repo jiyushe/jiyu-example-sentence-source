@@ -1,5 +1,7 @@
 # metalwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metalwork.md)
+
 <p><span class="chinese">收藏品包括陶器、刻、画、法、织品和金属制品。</span><span class="english">The collection includes ceramics, sculpture, paintings, calligraphy, textiles, and metalwork.</span></p>
 
 <p><span class="chinese">适用于所有与铝液接触的耐火材料和金属件表面。</span><span class="english">It is suitable for surfaces of refractory materials and metalwork in contact with aluminum liquid.</span></p>

@@ -1,5 +1,7 @@
 # 思想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixiang.md)
+
 <p><span class="chinese">思想开放点。</span><span class="english">Be open-minded.</span></p>
 
 <p><span class="chinese">是思想还是我们？</span><span class="english">The ideas or us?</span></p>

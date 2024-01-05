@@ -1,5 +1,7 @@
 # banister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banister.md)
+
 <p><span class="chinese">她斜靠在栏杆上。</span><span class="english">She leaned over the banister.</span></p>
 
 <p><span class="chinese">一只手扶住楼梯扶手.</span><span class="english">Hold the banister with one hand.</span></p>

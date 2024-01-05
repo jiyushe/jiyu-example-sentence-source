@@ -1,5 +1,7 @@
 # ora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ora.md)
+
 <p><span class="chinese">检查TNSNAMES.ORA文件是否存在，它所在的目录是否正确和可访问。</span><span class="english">Verify that a TNSNAMES. ORA file exists and is in the proper directory and is accessible.</span></p>
 
 <p><span class="chinese">检查网络服务名，作为连接标识符在tnsnames.ora文件中存在。</span><span class="english">Check that the net service name used as the connect identifier exists in the TNSNAMES. ORA file.</span></p>

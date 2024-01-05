@@ -1,5 +1,7 @@
 # colombo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colombo.md)
+
 <p><span class="chinese">罗兰?比尔克在科伦坡报道。</span><span class="english">Roland Buerk is in Colombo.</span></p>
 
 <p><span class="chinese">可伦坡之于斯里兰卡的西部，就如金斯敦之于什麽？</span><span class="english">Colombo is to western Sri Lanka as Kingston is to WHAT?</span></p>

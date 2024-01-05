@@ -1,5 +1,7 @@
 # 氯气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvqi.md)
+
 <p><span class="chinese">第二步，加入氯气。</span><span class="english">Next, chlorine is added.</span></p>
 
 <p><span class="chinese">氯气有毒。</span><span class="english">Chlorine gas, toxic to humans.</span></p>

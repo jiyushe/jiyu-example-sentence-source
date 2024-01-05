@@ -1,5 +1,7 @@
 # 主菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhucai.md)
+
 <p><span class="chinese">你的主菜好了，先生。</span><span class="english">Here is your entree , sir.</span></p>
 
 <p><span class="chinese">对于主菜有什么建议呢？</span><span class="english">Any Suggestion for the main Course?</span></p>

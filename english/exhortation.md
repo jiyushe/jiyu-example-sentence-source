@@ -1,5 +1,7 @@
 # exhortation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhortation.md)
+
 <p><span class="chinese">在什么是我们要保持自己根据这个劝告呢？</span><span class="english">In what are we to keep ourselves according to this exhortation ?</span></p>
 
 <p><span class="chinese">直到我来时，你要专务宣读、劝勉和教导。</span><span class="english">Until I arrive, attend to the reading, 7 exhortation , and teaching.</span></p>

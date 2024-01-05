@@ -1,5 +1,7 @@
 # 历法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lifa.md)
+
 <p><span class="chinese">这种历法代表13种力量和20种能量。</span><span class="english">This calendar represents 13 forces and 20 energies.</span></p>
 
 <p><span class="chinese">吠陀历法是建立在宇宙周期，或者说是年代之上。</span><span class="english">The Vedic calendar is based on cosmic cycles, or Yugas.</span></p>

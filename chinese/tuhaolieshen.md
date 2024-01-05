@@ -1,5 +1,7 @@
 # 土豪劣绅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuhaolieshen.md)
+
 <p><span class="chinese">大家都赞成剥夺土豪劣绅的权力。</span><span class="english">Everybody was for putting down the local tyrants and evil gentry.</span></p>
 
 <p><span class="chinese">宋代的豪横势力主要指土豪劣绅、恶霸地主以及痞流氓和流寇盗匪。</span><span class="english">The bully in the Song Dynasty includes local tyrants, evil gentry, bandits and rascals.</span></p>

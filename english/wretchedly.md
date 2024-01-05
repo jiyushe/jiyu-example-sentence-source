@@ -1,5 +1,7 @@
 # wretchedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wretchedly.md)
+
 <p><span class="chinese">“我都记不得我自己是谁了，”我沮丧地说道。</span><span class="english">I can't remember who I am, I said, wretchedly.</span></p>
 
 <p><span class="chinese">但这条路可能会极其不平坦。</span><span class="english">But the journey is likely to be wretchedly uncomfortable.</span></p>

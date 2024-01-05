@@ -1,5 +1,7 @@
 # totemism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totemism.md)
+
 <p><span class="chinese">图腾崇拜，是古代大自然信仰中发展出的信仰形式。</span><span class="english">Totemism is a faith form developed in the ancient nature faith out.</span></p>
 
 <p><span class="chinese">图腾崇拜是最古老的宗教观念之一，这种观念源于原始氏族社会。</span><span class="english">According to his point of view, the origin of religion can date back to Totemism.</span></p>

@@ -1,5 +1,7 @@
 # emancipation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emancipation.md)
+
 <p><span class="chinese">但这解放能帮到她们吗？</span><span class="english">But will emancipation help them?</span></p>
 
 <p><span class="chinese">这也有助于我的解放。</span><span class="english">That also helped in my emancipation.</span></p>

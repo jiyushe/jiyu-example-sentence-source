@@ -1,5 +1,7 @@
 # obediently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obediently.md)
+
 <p><span class="chinese">乔纳森顺从地点点头。</span><span class="english">Jonathan nodded obediently.</span></p>
 
 <p><span class="chinese">他一吹口哨，那狗就乖乖地来了。</span><span class="english">He whistled, and the dog came obediently.</span></p>

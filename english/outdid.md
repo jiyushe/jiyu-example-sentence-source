@@ -1,5 +1,7 @@
 # outdid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outdid.md)
+
 <p><span class="chinese">你今天超常发挥了！</span><span class="english">You outdid yourself today!</span></p>
 
 <p><span class="chinese">你今天超越自己了！</span><span class="english">You outdid yourself today!</span></p>

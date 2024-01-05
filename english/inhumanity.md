@@ -1,5 +1,7 @@
 # inhumanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhumanity.md)
+
 <p><span class="chinese">每天都有人会对其他的人做出不人道的事来。</span><span class="english">It is in the daily example of man's inhumanity to man.</span></p>
 
 <p><span class="chinese">每天都有人类以不人道的方式对待他人的例子。</span><span class="english">It’s in the daily examples of man’s inhumanity to man.</span></p>

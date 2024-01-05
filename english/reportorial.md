@@ -1,5 +1,7 @@
 # reportorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reportorial.md)
+
 <p><span class="chinese">他有一种典型的记者派头。</span><span class="english">He has the typical reportorial manner.</span></p>
 
 <p><span class="chinese">他们指定她去完成一次报道任务。</span><span class="english">They tapped her for a reportorial assignment.</span></p>

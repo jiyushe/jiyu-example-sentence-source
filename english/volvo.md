@@ -1,5 +1,7 @@
 # volvo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volvo.md)
+
 <p><span class="chinese">满意的沃尔沃修车师傅呢？</span><span class="english">What about a good Volvo mechanic?</span></p>
 
 <p><span class="chinese">李书福认为收购对沃尔沃也有好处。</span><span class="english">But Mr Li believes that Volvo too will benefit.</span></p>

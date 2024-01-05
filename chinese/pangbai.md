@@ -1,5 +1,7 @@
 # 旁白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangbai.md)
+
 <p><span class="chinese">这几乎是在旁白中。</span><span class="english">And let me just detail some of those.</span></p>
 
 <p><span class="chinese">他做了好几年的电影旁白工作。</span><span class="english">He has been doing voice-over for years.</span></p>

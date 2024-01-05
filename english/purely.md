@@ -1,5 +1,7 @@
 # purely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purely.md)
+
 <p><span class="chinese">这个问题是纯理论的。</span><span class="english">The question is purely academic.</span></p>
 
 <p><span class="chinese">但结果却是纯尼德兰式的。</span><span class="english">But the result is purely Flemish.</span></p>

@@ -1,5 +1,7 @@
 # clamber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamber.md)
+
 <p><span class="chinese">你要不要爬上去，把它摘下来给爸爸看？</span><span class="english">Will you clamber up, and pluck it to show to papa?</span></p>
 
 <p><span class="chinese">孩子们沿着杆子爬到深30到50米的矿井里。</span><span class="english">Teenage boys clamber down mine shafts 30 to 50 meters deep.</span></p>

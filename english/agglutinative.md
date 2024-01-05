@@ -1,5 +1,7 @@
 # agglutinative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglutinative.md)
+
 <p><span class="chinese">土耳其语是一种胶著语。</span><span class="english">Turkish is an agglutinative language.</span></p>
 
 <p><span class="chinese">汉语是孤立语，而日语是粘着语。</span><span class="english">Chinese is isolated language while Japanese is agglutinative language.</span></p>

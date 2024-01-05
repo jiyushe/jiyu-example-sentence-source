@@ -1,5 +1,7 @@
 # 炭疽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanju.md)
+
 <p><span class="chinese">抗蔓割病和炭疽病。</span><span class="english">Tolerant to fusarium wilt and anthracnose.</span></p>
 
 <p><span class="chinese">土霉素对炭疽杆菌是有效的。</span><span class="english">Oxytetracycline is effective against b anthracis.</span></p>

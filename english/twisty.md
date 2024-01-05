@@ -1,5 +1,7 @@
 # twisty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twisty.md)
+
 <p><span class="chinese">可以在下面的目录中找到折叠图像</span><span class="english">You can find the twisty image at</span></p>
 
 <p><span class="chinese">你曾经有过扭伤的治疗吗？</span><span class="english">Have you ever had a Twisty Treat?</span></p>

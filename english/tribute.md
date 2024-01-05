@@ -1,5 +1,7 @@
 # tribute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribute.md)
+
 <p><span class="chinese">交纳贡礼或顽强抵抗。</span><span class="english">Pay tribute or fight.</span></p>
 
 <p><span class="chinese">拿一个上税的钱给我看。</span><span class="english">Shew me the tribute money.</span></p>

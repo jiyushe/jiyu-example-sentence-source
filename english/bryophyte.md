@@ -1,5 +1,7 @@
 # bryophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bryophyte.md)
+
 <p><span class="chinese">苔藓植物对酸沉降的反应较为敏感。</span><span class="english">Bryophyte is sensitive to acid sedimentation.</span></p>
 
 <p><span class="chinese">新疆苔藓植物系统、全面的研究起步较晚。</span><span class="english">The study of bryophyte in Xinjiang has become relatively late.</span></p>

@@ -1,5 +1,7 @@
 # 绿茵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvyin_1.md)
+
 <p><span class="chinese">它是绿茵场地，</span><span class="english">It's grass court,</span></p>
 
 <p><span class="chinese">对我而言，那满地的松针，那海绵般的绿茵</span><span class="english">To me a lush carpet of pine needles or spongy grass</span></p>

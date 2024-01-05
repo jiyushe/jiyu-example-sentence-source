@@ -1,5 +1,7 @@
 # 非卖品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feimaipin.md)
+
 <p><span class="chinese">伱永逺是我的非卖品。，！</span><span class="english">You are my best love !</span></p>
 
 <p><span class="chinese">先生，这是非卖品。</span><span class="english">Sir, it's not for sale.</span></p>

@@ -1,5 +1,7 @@
 # 头生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tousheng.md)
+
 <p><span class="chinese">凡头生的儿子都要赎出来。</span><span class="english">Redeem all your firstborn sons.</span></p>
 
 <p><span class="chinese">凡你儿子中头生的都要赎出来。</span><span class="english">Redeem every firstborn among your sons.</span></p>

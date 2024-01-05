@@ -1,5 +1,7 @@
 # bookshelf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookshelf.md)
+
 <p><span class="chinese">我走到书架那里。</span><span class="english">I went over to the bookshelf.</span></p>
 
 <p><span class="chinese">一本书从书架上掉了下来。</span><span class="english">A book fell off the bookshelf.</span></p>

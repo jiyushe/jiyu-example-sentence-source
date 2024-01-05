@@ -1,5 +1,7 @@
 # otolaryngology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otolaryngology.md)
+
 <p><span class="chinese">耳鼻喉科学与头、颈外科学新见。</span><span class="english">Current Opinion in Otolaryngology and Head and Neck Surgery.</span></p>
 
 <p><span class="chinese">听力计是听力检查中必不可少的设备。</span><span class="english">Audiometer is an important instrument in otolaryngology clinic.</span></p>

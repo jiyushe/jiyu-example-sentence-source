@@ -1,5 +1,7 @@
 # omelette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omelette.md)
+
 <p><span class="chinese">他点了一份奶酪煎蛋饼。</span><span class="english">He ordered a cheese omelette.</span></p>
 
 <p><span class="chinese">我给你做个煎蛋卷吧？</span><span class="english">Shall I make you an omelette?</span></p>

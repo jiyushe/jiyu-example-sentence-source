@@ -1,5 +1,7 @@
 # 鞋油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyou.md)
+
 <p><span class="chinese">仆人给他的靴子擦黑鞋油。</span><span class="english">The servant blacked his boots.</span></p>
 
 <p><span class="chinese">仆人给他的靴子擦黑鞋油。</span><span class="english">Thee servant blacked his boots.</span></p>

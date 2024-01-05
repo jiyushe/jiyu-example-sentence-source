@@ -1,5 +1,7 @@
 # bandwagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandwagon.md)
+
 <p><span class="chinese">改革浪潮席卷全国。</span><span class="english">The reform bandwagon swept across the country.</span></p>
 
 <p><span class="chinese">而其他网站也几乎肯定会在2011年追赶这一“风潮”。</span><span class="english">Others will almost certainly jump on the bandwagon in 2011.</span></p>

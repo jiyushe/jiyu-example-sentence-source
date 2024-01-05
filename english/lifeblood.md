@@ -1,5 +1,7 @@
 # lifeblood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifeblood.md)
+
 <p><span class="chinese">贸易是我国的命脉。</span><span class="english">Trade is the lifeblood of our country.</span></p>
 
 <p><span class="chinese">质量是期刊的生命线。</span><span class="english">Qulity is the lifeblood of periodicals.</span></p>

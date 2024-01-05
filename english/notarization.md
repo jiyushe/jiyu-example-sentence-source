@@ -1,5 +1,7 @@
 # notarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notarization.md)
+
 <p><span class="chinese">当事人拒绝按照规定支付公证费的。</span><span class="english">The party concerned refuses to pay the notarization fees.</span></p>
 
 <p><span class="chinese">如何公证？自己一个人去公证就行了吗？</span><span class="english">How notarial? Oneself does a person go did notarization go?</span></p>

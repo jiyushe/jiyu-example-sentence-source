@@ -1,5 +1,7 @@
 # 声波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengbo.md)
+
 <p><span class="chinese">而那些短的声波</span><span class="english">They're short sound waves.</span></p>
 
 <p><span class="chinese">我们主要的探测装置是声波定位仪。</span><span class="english">Our main detection device is sonar.</span></p>

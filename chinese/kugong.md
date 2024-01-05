@@ -1,5 +1,7 @@
 # 苦功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kugong.md)
+
 <p><span class="chinese">学好一种语言。必须下苦功。</span><span class="english">The mastery of a language requires painstaking effort.</span></p>
 
 <p><span class="chinese">毕竟，生活中的教训总是需费一番苦功才能学到。</span><span class="english">After all, life lessons are always learned the hard way.</span></p>

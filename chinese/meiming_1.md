@@ -1,5 +1,7 @@
 # 美名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiming_1.md)
+
 <p><span class="chinese">我爱财富与美名。</span><span class="english">I desire fortunes and fames.</span></p>
 
 <p><span class="chinese">以此带来美名，</span><span class="english">to bring in that prestige and</span></p>

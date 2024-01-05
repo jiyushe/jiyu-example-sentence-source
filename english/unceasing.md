@@ -1,5 +1,7 @@
 # unceasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unceasing.md)
+
 <p><span class="chinese">人类社会总是不断进步的。</span><span class="english">Human society makes unceasing progress.</span></p>
 
 <p><span class="chinese">是否像那个不停呻吟的副官的样子？</span><span class="english">Was he like that unceasing moan of the adjutant?</span></p>

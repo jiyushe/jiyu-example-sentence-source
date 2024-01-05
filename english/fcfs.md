@@ -1,5 +1,7 @@
 # fcfs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fcfs.md)
+
 <p><span class="chinese">采用FCFS动态窗口优化补缀多播算法来满足一般影片的点播请求。</span><span class="english">FCFS Dynamic Optimized Patching Multicast is used in service for lukewarm movies.</span></p>
 
 <p><span class="chinese">理论分析和仿真结果显示HSA算法是一种正确可行的算法。</span><span class="english">Simulation results show that HSA outperforms tree splitting and FCFS splitting algorithm.</span></p>

@@ -1,5 +1,7 @@
 # erect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erect.md)
+
 <p><span class="chinese">我们很少能直来直去。</span><span class="english">We can seldom go erect.</span></p>
 
 <p><span class="chinese">当那只脚回到家，它又把腰杆直起。</span><span class="english">And grows erect as that comes home.</span></p>

@@ -1,5 +1,7 @@
 # swagger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swagger.md)
+
 <p><span class="chinese">朋友们，我们到底是要“扬长”呢？</span><span class="english">My friends, we really is to "swagger"?</span></p>
 
 <p><span class="chinese">有一个少年迈着大步大胆地走近了詹金斯。</span><span class="english">A youngster approached Jerkins with a bold swagger.</span></p>

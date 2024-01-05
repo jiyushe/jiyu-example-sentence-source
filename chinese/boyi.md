@@ -1,5 +1,7 @@
 # 博弈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boyi.md)
+
 <p><span class="chinese">然后重新审视博弈</span><span class="english">Then look again.</span></p>
 
 <p><span class="chinese">暂且就成为合伙人博弈吧</span><span class="english">So Partnership Game.</span></p>

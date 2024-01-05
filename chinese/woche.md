@@ -1,5 +1,7 @@
 # 卧车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woche.md)
+
 <p><span class="chinese">我需要一辆卧车。</span><span class="english">I need a sleeping car.</span></p>
 
 <p><span class="chinese">二等卧车车厢在哪儿？</span><span class="english">Where's the second-class sleeper?</span></p>

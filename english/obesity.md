@@ -1,5 +1,7 @@
 # obesity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obesity.md)
+
 <p><span class="chinese">什么是肥胖？</span><span class="english">What is obesity?</span></p>
 
 <p><span class="chinese">是婴儿肥还是肥胖症？</span><span class="english">Is it Baby Fat or Obesity?</span></p>

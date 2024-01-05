@@ -1,5 +1,7 @@
 # benz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benz.md)
+
 <p><span class="chinese">你需要你的梅赛德斯奔驰吗？</span><span class="english">Do you need your Mercedes Benz?</span></p>
 
 <p><span class="chinese">奔驰牌的床已经脱销了。</span><span class="english">The Benz beds are out of stock.</span></p>

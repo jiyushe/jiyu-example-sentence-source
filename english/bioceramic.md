@@ -1,5 +1,7 @@
 # bioceramic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioceramic.md)
+
 <p><span class="chinese">介绍了在奥氏体不锈钢基材上激光涂覆生物陶瓷涂层的研究结果。</span><span class="english">The bioceramic coating by laser cladding has high bonding strength and e.</span></p>
 
 <p><span class="chinese">目的本文对生物陶瓷涂层材料的研究进展进行综述。</span><span class="english">Objective In this paper, the research developments of bioceramic coatings are reviewed.</span></p>

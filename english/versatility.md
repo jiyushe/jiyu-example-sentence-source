@@ -1,5 +1,7 @@
 # versatility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/versatility.md)
+
 <p><span class="chinese">通用性强是其主要优势。</span><span class="english">Versatility is its main advantage.</span></p>
 
 <p><span class="chinese">我正在讲它的一些多样性。</span><span class="english">I am showing some versatility here.</span></p>

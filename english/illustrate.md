@@ -1,5 +1,7 @@
 # illustrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illustrate.md)
+
 <p><span class="chinese">试举一例来说明。</span><span class="english">One example to illustrate.</span></p>
 
 <p><span class="chinese">让我们举例说明此方法。</span><span class="english">Let us illustrate this idea.</span></p>

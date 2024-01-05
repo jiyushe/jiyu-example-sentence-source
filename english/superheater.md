@@ -1,5 +1,7 @@
 # superheater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superheater.md)
+
 <p><span class="chinese">应该关闭汽包空气门及过热器空气门了。</span><span class="english">It is time to close the drum air vent and superheater air vent.</span></p>
 
 <p><span class="chinese">过热器，再热器各部位均无超温现象。</span><span class="english">Each part of superheater and reheater shall not be over temperature.</span></p>

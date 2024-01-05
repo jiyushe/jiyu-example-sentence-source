@@ -1,5 +1,7 @@
 # 清凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingliang_1.md)
+
 <p><span class="chinese">清凉夏日在这里！</span><span class="english">Cool Summer is here !</span></p>
 
 <p><span class="chinese">可以围住一团清凉。</span><span class="english">Could keep a chancel cool.</span></p>

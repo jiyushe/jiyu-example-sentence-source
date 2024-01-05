@@ -1,5 +1,7 @@
 # 团聚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanju.md)
+
 <p><span class="chinese">五月份我们很快团聚。</span><span class="english">May Gud reunite us very soon.</span></p>
 
 <p><span class="chinese">于是，我带她去和多拉团聚。</span><span class="english">I took her to be reunited with Dorah.</span></p>

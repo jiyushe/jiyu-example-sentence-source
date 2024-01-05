@@ -1,5 +1,7 @@
 # dependability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependability.md)
+
 <p><span class="chinese">蓝色还可以象征信任和可靠性。</span><span class="english">Blue can also symbolize trust and dependability.</span></p>
 
 <p><span class="chinese">防刺穿半冲气式轮胎。</span><span class="english">DEPENDABILITY. Puncture proof semi-pneumatic wheels.</span></p>

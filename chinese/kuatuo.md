@@ -1,5 +1,7 @@
 # 夸脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuatuo.md)
+
 <p><span class="chinese">请加一夸脱机油。</span><span class="english">A quart of oil,please.</span></p>
 
 <p><span class="chinese">两夸脱机油？为什么这么多？</span><span class="english">Two quarts? Why so much?</span></p>

@@ -1,5 +1,7 @@
 # scoreline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoreline.md)
+
 <p><span class="chinese">此战之前，巴拉圭近9场胜利中，有7场均是以1球小胜。</span><span class="english">Before the game, 7 of Paraguay's last 9 wins had been by a 1-0 scoreline.</span></p>
 
 <p><span class="chinese">在七场比赛中，雷纳把持的大门保持了六场零封对手。</span><span class="english">The scoreline followed a run of six clean sheets in seven games for Reina.</span></p>

@@ -1,5 +1,7 @@
 # might 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/might.md)
+
 <p><span class="chinese">你可能会死的。</span><span class="english">You might die.</span></p>
 
 <p><span class="chinese">等猪能飞上天吧。</span><span class="english">Pigs might fly.</span></p>

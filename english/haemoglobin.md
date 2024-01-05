@@ -1,5 +1,7 @@
 # haemoglobin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemoglobin.md)
+
 <p><span class="chinese">什么是血红蛋白疾患？</span><span class="english">What are haemoglobin disorders?</span></p>
 
 <p><span class="chinese">关于血红蛋白疾患的事实</span><span class="english">Facts about haemoglobin disorders</span></p>

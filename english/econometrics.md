@@ -1,5 +1,7 @@
 # econometrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/econometrics.md)
+
 <p><span class="chinese">主要内容包括理论计量经济学和应用经济计量学。</span><span class="english">The main contents include theory econometrics and applied economic metrology.</span></p>
 
 <p><span class="chinese">对计量经济模型的简洁性和包容性提出了自己的观点。</span><span class="english">It raises its own viewpoints to terseness and containment of econometrics models.</span></p>

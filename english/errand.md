@@ -1,5 +1,7 @@
 # errand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/errand.md)
+
 <p><span class="chinese">我是专程来办一件差事的。</span><span class="english">I've come on a special errand.</span></p>
 
 <p><span class="chinese">著名的昆神盗宝的故事就发生在此。</span><span class="english">Kun-known story of God errand in this.</span></p>

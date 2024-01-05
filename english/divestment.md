@@ -1,5 +1,7 @@
 # divestment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divestment.md)
+
 <p><span class="chinese">由于这桩交易的规模，它对于摩根士丹利来说是一项重要的转让。</span><span class="english">For Morgan Stanley, the transaction is a key divestment , given its size. The U. S.</span></p>
 
 <p><span class="chinese">这场撤资运动不一定可以说服这些公司终止与石油丰富的伊朗的有利交易。</span><span class="english">It's not certain that divestment will persuade these firms to end lucrative deals with oil-rich Iran.</span></p>

@@ -1,5 +1,7 @@
 # gearbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gearbox.md)
+
 <p><span class="chinese">三种速度半自动变速箱。</span><span class="english">Three speed semi-automatic gearbox.</span></p>
 
 <p><span class="chinese">变速器是摩托车的主要噪声源之一。</span><span class="english">Gearbox is one of the essential noise sources.</span></p>

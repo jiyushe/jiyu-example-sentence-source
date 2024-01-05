@@ -1,5 +1,7 @@
 # cartographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartographer.md)
+
 <p><span class="chinese">找一个好制图师。</span><span class="english">Find a good cartographer.</span></p>
 
 <p><span class="chinese">添加编辑和删除按钮来自定义地图的制图。</span><span class="english">Added edit and delete buttons to custom maps in the Cartographer.</span></p>

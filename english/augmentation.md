@@ -1,5 +1,7 @@
 # augmentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augmentation.md)
+
 <p><span class="chinese">目的探索假体隆乳的一种新方法。</span><span class="english">Objective To explore a new method of breast augmentation.</span></p>
 
 <p><span class="chinese">军队扩编是沿着传统路线开始的。</span><span class="english">The augmentation of the army began along traditional lines.</span></p>

@@ -1,5 +1,7 @@
 # junker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junker.md)
+
 <p><span class="chinese">普鲁士容克就是欧洲的路霸。</span><span class="english">The Prussian Junker is the road-hog of Europe.</span></p>
 
 <p><span class="chinese">这可能就是为什么他们要买这一破玩艺儿，作为开端。</span><span class="english">That's probably why they bought this junker to just start working on it.</span></p>

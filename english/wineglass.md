@@ -1,5 +1,7 @@
 # wineglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wineglass.md)
+
 <p><span class="chinese">酒杯上的指纹？</span><span class="english">Fingerprints on the wineglass?</span></p>
 
 <p><span class="chinese">老马的马蹄将是我们的酒杯。</span><span class="english">An old horse's hoof is to be our wineglass.</span></p>

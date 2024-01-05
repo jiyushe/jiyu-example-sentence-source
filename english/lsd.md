@@ -1,5 +1,7 @@
 # LSD
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lsd.md)
+
 <p><span class="chinese">在19，奥托停止他的迷幻剂的探索。</span><span class="english">At nineteen, Otto discontinued his exploration of LSD.</span></p>
 
 <p><span class="chinese">停服麻醉药虽已过了两年，但他仍被幻觉困扰着。</span><span class="english">Two years after his last dose of LSD he was still deliring.</span></p>

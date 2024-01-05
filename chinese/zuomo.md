@@ -1,5 +1,7 @@
 # 琢磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuomo.md)
+
 <p><span class="chinese">他们琢磨该怎么做</span><span class="english">They reason about what to do.</span></p>
 
 <p><span class="chinese">我也正琢磨呢。</span><span class="english">I am also wondering about that.</span></p>

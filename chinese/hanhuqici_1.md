@@ -1,5 +1,7 @@
 # 含糊其词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanhuqici_1.md)
+
 <p><span class="chinese">有话直说，不许你含糊其词。</span><span class="english">Talk straight, don't double-talk me.</span></p>
 
 <p><span class="chinese">含糊其词是谎话的。</span><span class="english">Equivocation is Number1 cousin to a lie.</span></p>

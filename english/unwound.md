@@ -1,5 +1,7 @@
 # unwound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwound.md)
+
 <p><span class="chinese">他从脖子上解下围巾。</span><span class="english">He unwound the scarf from his neck.</span></p>
 
 <p><span class="chinese">这就是为什么下挥杆的时候根可以那么快速的外展他的髋关节。</span><span class="english">That's why his hips unwound so fast on the downswing.</span></p>

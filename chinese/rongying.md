@@ -1,5 +1,7 @@
 # 荣膺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongying.md)
+
 <p><span class="chinese">他荣膺赛区冠军后进入决赛。</span><span class="english">He won the regional laurels and went on to the finals.</span></p>
 
 <p><span class="chinese">这已是亚当•桑德勒连续第二年荣膺该奖。</span><span class="english">It was the second year running that Sandler had taken the Razzie.</span></p>

@@ -1,5 +1,7 @@
 # rosette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosette.md)
+
 <p><span class="chinese">莲座状植物，主根增粗，直径4毫米。</span><span class="english">Rosette plants, main root thickened, to 4 mm in diameter.</span></p>
 
 <p><span class="chinese">接着，他天天带上那小玫瑰纽上街，一连跑了八天。</span><span class="english">Then he went out for eight successive days with his rosette.</span></p>

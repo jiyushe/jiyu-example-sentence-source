@@ -1,5 +1,7 @@
 # 上空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangkong.md)
+
 <p><span class="chinese">飞机在上空发出嗡嗡声。</span><span class="english">An aircraft droned overhead.</span></p>
 
 <p><span class="chinese">都飞到北海遥远的上空。</span><span class="english">Far beyond the northern sea.</span></p>

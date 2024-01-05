@@ -1,5 +1,7 @@
 # 生来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglai.md)
+
 <p><span class="chinese">生来就不会流一滴泪的顽愚。</span><span class="english">Not to shed a tear.</span></p>
 
 <p><span class="chinese">我并非生来就是一个性情温和的人。</span><span class="english">I was not born mild.</span></p>

@@ -1,5 +1,7 @@
 # entironment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entironment.md)
+
 <p><span class="chinese">佛山多雨多水的自然条件，使得佛山的水神崇拜十分兴盛。</span><span class="english">The rainy washy entironment in Foshan makes the worship of water spirit booming.</span></p>
 
 <p><span class="chinese">本研究表明，可以通过玉米的研究，缓解吉林西部的草畜矛盾和生态矛盾。</span><span class="english">The thesis indicates it can improve grass- livestock conflict and entironment problem.</span></p>

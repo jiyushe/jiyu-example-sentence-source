@@ -1,5 +1,7 @@
 # 预备役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubeiyi.md)
+
 <p><span class="chinese">韩国的坚强的军队有687,000人以及400万预备役人员。</span><span class="english">South Korea’s tough army numbers 687,000 with 4 million reservists.</span></p>
 
 <p><span class="chinese">县人民武装部办理预备役军官登记。</span><span class="english">registration with the people's armed forces departments at the county level.</span></p>

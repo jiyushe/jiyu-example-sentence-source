@@ -1,5 +1,7 @@
 # 夺冠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoguan.md)
+
 <p><span class="chinese">中国的陶璐娜肯定夺冠，我敢打赌。</span><span class="english">Luna from China is sure to win, I bet.</span></p>
 
 <p><span class="chinese">中国的陶璐娜肯定夺冠，我敢打赌。</span><span class="english">Tao Luna from China is sure to win, I bet.</span></p>

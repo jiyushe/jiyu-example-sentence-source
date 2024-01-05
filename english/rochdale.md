@@ -1,5 +1,7 @@
 # rochdale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rochdale.md)
+
 <p><span class="chinese">之后又加入了Rochdale并且在美国踢了6年。</span><span class="english">I later joined Rochdale and played in America for six years.</span></p>
 
 <p><span class="chinese">吉姆和凯斯在斯托克和洛克达尔的工作都十分出色。</span><span class="english">And Jim and Keith are both doing marvellous jobs with Stockport and Rochdale.</span></p>

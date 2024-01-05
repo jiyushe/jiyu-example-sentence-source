@@ -1,5 +1,7 @@
 # 谢天谢地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xietianxiedi.md)
+
 <p><span class="chinese">谢天谢地，终于好了。</span><span class="english">Okay. Thanks, alright.</span></p>
 
 <p><span class="chinese">谢天谢地你平安无事。</span><span class="english">Thank God you’re safe!</span></p>

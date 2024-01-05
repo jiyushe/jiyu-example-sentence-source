@@ -1,5 +1,7 @@
 # howsoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howsoever.md)
+
 <p><span class="chinese">虽然我们谁也没有邀请他参加我们的聚会，但他还是来了。</span><span class="english">He was not invited by us, howsoever he came to the party.</span></p>
 
 <p><span class="chinese">无论你怎么看，这座了不起的大教堂总是显得雄伟，总是显得美丽！</span><span class="english">Howsoever you look at the great Cathedral, it is noble, it is beautiful!</span></p>

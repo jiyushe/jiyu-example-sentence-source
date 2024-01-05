@@ -1,5 +1,7 @@
 # 真气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqi_1.md)
+
 <p><span class="chinese">当他告诉我时，我真气坏了。</span><span class="english">I really blew my top when she told me.</span></p>
 
 <p><span class="chinese">这次，村里的人可真气坏了。</span><span class="english">This time, people are filled with fury.</span></p>

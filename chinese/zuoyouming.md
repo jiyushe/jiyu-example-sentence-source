@@ -1,5 +1,7 @@
 # 座右铭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyouming.md)
+
 <p><span class="chinese">这成为他的座右铭。</span><span class="english">It became his motto.</span></p>
 
 <p><span class="chinese">我的座右铭是运动。</span><span class="english">My motto for exercise.</span></p>

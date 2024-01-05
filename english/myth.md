@@ -1,5 +1,7 @@
 # myth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myth.md)
+
 <p><span class="chinese">神话是什么？</span><span class="english">What is Myth?</span></p>
 
 <p><span class="chinese">当然，这只是一种讹传。</span><span class="english">This is a myth.</span></p>

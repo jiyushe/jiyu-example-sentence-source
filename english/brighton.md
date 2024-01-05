@@ -1,5 +1,7 @@
 # brighton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brighton.md)
+
 <p><span class="chinese">谁叫她们不到白利屯往。</span><span class="english">They must all go to Brighton.</span></p>
 
 <p><span class="chinese">王室亭阁。</span><span class="english">Brighton Royal Pavilion, Brighton.</span></p>

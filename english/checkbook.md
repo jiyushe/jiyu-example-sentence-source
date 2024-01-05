@@ -1,5 +1,7 @@
 # checkbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkbook.md)
+
 <p><span class="chinese">他的私人支票簿。</span><span class="english">His checkbook.</span></p>
 
 <p><span class="chinese">我把我的支票簿放哪了？</span><span class="english">Now where did I leave my checkbook?</span></p>

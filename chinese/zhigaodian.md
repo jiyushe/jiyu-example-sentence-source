@@ -1,5 +1,7 @@
 # 制高点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigaodian.md)
+
 <p><span class="chinese">它占据着朴茨茅斯港的制高点。</span><span class="english">It occupies a commanding position at the head of Portsmouth Harbour.</span></p>
 
 <p><span class="chinese">然而，挥霍无度的人却并不必然能够占据道德制高点。</span><span class="english">Spendthrifts, however, don't necessarily have the moral high ground.</span></p>

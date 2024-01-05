@@ -1,5 +1,7 @@
 # 私营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siying.md)
+
 <p><span class="chinese">私营部门的CS5在层的图像文件。</span><span class="english">PSD CS5 image file in layers.</span></p>
 
 <p><span class="chinese">而三得利是一家私营的，家族经营的公司。</span><span class="english">Suntory is a private, family-run firm.</span></p>

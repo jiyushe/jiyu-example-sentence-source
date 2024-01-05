@@ -1,5 +1,7 @@
 # ruckus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruckus.md)
+
 <p><span class="chinese">想和你在一起，哪怕是打打闹闹。</span><span class="english">And you want together , even ruckus.</span></p>
 
 <p><span class="chinese">但世代居住在西溪的居民厌倦了这种躁动。</span><span class="english">But Xixinan residents are fed up with the ruckus.</span></p>

@@ -1,5 +1,7 @@
 # mano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mano.md)
+
 <p><span class="chinese">当旁观者看着开始鼓掌，马诺留在敬畏。</span><span class="english">When the bystanders watching begin clapping their hands, Mano is left in awe.</span></p>
 
 <p><span class="chinese">高铭，“计算机组织与结构金榜题库”，鼎茂图书出版。</span><span class="english">M. Morris Mano , "Computer System Architecture", Prentice Hall press, Third Edition.</span></p>

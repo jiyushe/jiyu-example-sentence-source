@@ -1,5 +1,7 @@
 # aerofoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerofoil.md)
+
 <p><span class="chinese">提出了机翼型叶轮的改造问题。</span><span class="english">Transformative problem of aerofoil impeller is put forward.</span></p>
 
 <p><span class="chinese">通过本实验，可以测得某一特定实验机翼的升力特性和阻力特性。</span><span class="english">It may obtain a special experiment aerofoil lift-drag force characteristic with this test.</span></p>

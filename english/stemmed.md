@@ -1,5 +1,7 @@
 # stemmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stemmed.md)
+
 <p><span class="chinese">我们的船逆流而行。</span><span class="english">Our ship stemmed on against the current.</span></p>
 
 <p><span class="chinese">这一切都源于我四岁时自己所说的谎言。</span><span class="english">It all stemmed from a lie I told when I was 4.</span></p>

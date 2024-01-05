@@ -1,5 +1,7 @@
 # temple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temple.md)
+
 <p><span class="chinese">那是庙吗？</span><span class="english">Is that a temple?</span></p>
 
 <p><span class="chinese">那是什么庙？</span><span class="english">What temple is that?</span></p>

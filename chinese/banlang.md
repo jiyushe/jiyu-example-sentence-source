@@ -1,5 +1,7 @@
 # 伴郎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banlang.md)
+
 <p><span class="chinese">而新郎则有伴郎。</span><span class="english">The groom has groomsmen.</span></p>
 
 <p><span class="chinese">为什么？你是我的伴郎啊。</span><span class="english">Why? You are my groomsman.</span></p>

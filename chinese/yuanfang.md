@@ -1,5 +1,7 @@
 # 远房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanfang.md)
+
 <p><span class="chinese">而天赋只是成功的远房外甥。</span><span class="english">Talent is merely success’s distant cousin.</span></p>
 
 <p><span class="chinese">亚瑟·韦斯莱是布莱克家族的第二代远房表兄。</span><span class="english">Arthur Weasley is a second cousin once removed.</span></p>

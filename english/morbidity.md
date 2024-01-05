@@ -1,5 +1,7 @@
 # morbidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morbidity.md)
+
 <p><span class="chinese">鱼鳞病的发病因素是多方面的。</span><span class="english">Ichthyosis's morbidity factor is various.</span></p>
 
 <p><span class="chinese">营养相关疾病患病率较高。</span><span class="english">Morbidity rate of nutrition-related diseases is high.</span></p>

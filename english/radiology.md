@@ -1,5 +1,7 @@
 # radiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiology.md)
+
 <p><span class="chinese">放射科是中医药领域扩大。</span><span class="english">Radiology is an expanding field in medicine.</span></p>
 
 <p><span class="chinese">训练为一个放射医学住院医师是一个复杂的任务。</span><span class="english">Training as a radiology resident is a complex task.</span></p>

@@ -1,5 +1,7 @@
 # risotto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risotto.md)
+
 <p><span class="chinese">我会做超好吃的意大利饭。</span><span class="english">I'll just make a nice risotto.</span></p>
 
 <p><span class="chinese">她在做阿马罗内意式烩饭对吧?。</span><span class="english">I mean, she's making risotto all'Amarone, right? Yeah?</span></p>

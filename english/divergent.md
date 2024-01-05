@@ -1,5 +1,7 @@
 # divergent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divergent.md)
+
 <p><span class="chinese">有分歧的声音必须得到倾听。</span><span class="english">Divergent voices must be heard.</span></p>
 
 <p><span class="chinese">必须欢迎有分歧的想法。</span><span class="english">Divergent ideas must be invited.</span></p>

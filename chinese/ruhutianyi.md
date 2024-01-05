@@ -1,5 +1,7 @@
 # 如虎添翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhutianyi.md)
+
 <p><span class="chinese">手机营销将在2010年让酒店的市场营销如虎添翼</span><span class="english">Mobile Marketing Proves to be a Big Addition in 2010</span></p>
 
 <p><span class="chinese">我希望，我的经验和洞察力能让这支本已资源充足的团队如虎添翼。</span><span class="english">I hope my experience and perspective will add to this already well-resourced team.</span></p>

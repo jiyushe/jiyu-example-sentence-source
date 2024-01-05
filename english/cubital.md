@@ -1,5 +1,7 @@
 # cubital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubital.md)
+
 <p><span class="chinese">血液样本抽自肘静脉。</span><span class="english">Blood samples were collected from cubital veins.</span></p>
 
 <p><span class="chinese">手机是肘管综合征的元凶么？</span><span class="english">Are cell phones to blame for cubital tunnel syndrome?</span></p>

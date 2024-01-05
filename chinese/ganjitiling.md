@@ -1,5 +1,7 @@
 # 感激涕零
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjitiling.md)
+
 <p><span class="chinese">太好了！感激涕零！</span><span class="english">So good, thank you!</span></p>
 
 <p><span class="chinese">我只有感激涕零。</span><span class="english">Here and now I alone shed tears.</span></p>

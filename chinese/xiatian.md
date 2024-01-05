@@ -1,5 +1,7 @@
 # 夏天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiatian.md)
+
 <p><span class="chinese">但这个夏天没戏了。</span><span class="english">Not this summer.</span></p>
 
 <p><span class="chinese">哈哈，夏天来了。</span><span class="english">Ahh, summer time.</span></p>

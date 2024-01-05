@@ -1,5 +1,7 @@
 # 环境质量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjingzhiliang.md)
+
 <p><span class="chinese">室内环境质量如何帮助绿色建筑项目？</span><span class="english">How can IEQ help green building projects?</span></p>
 
 <p><span class="chinese">中国室内环境质量的独特挑战是什么？</span><span class="english">What are unique challenges in China for IEQ?</span></p>

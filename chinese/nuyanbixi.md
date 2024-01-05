@@ -1,5 +1,7 @@
 # 奴颜婢膝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuyanbixi.md)
+
 <p><span class="chinese">人类还要在装饰面前奴颜婢膝。</span><span class="english">Humanity is still to groan under the slavery of ornament.</span></p>
 
 <p><span class="chinese">奴颜婢膝的附庸则很快就会导致外来日益增加的种种压力。</span><span class="english">A subservient client would soon face an accumulation of ever-growing pressures.</span></p>

@@ -1,5 +1,7 @@
 # 柳叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuye.md)
+
 <p><span class="chinese">医生用柳叶刀切开他手上的水泡。</span><span class="english">The doctor lanced the boil on his hand.</span></p>
 
 <p><span class="chinese">胚发育属于柳叶菜型。</span><span class="english">Embryo development is of the Onagrad type.</span></p>

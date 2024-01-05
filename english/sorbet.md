@@ -1,5 +1,7 @@
 # sorbet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorbet.md)
+
 <p><span class="chinese">这冰糕是奶油味的，而且可以完全放纵。</span><span class="english">This sorbet is so creamy and totally indulgent.</span></p>
 
 <p><span class="chinese">法芙娜巧克力塔，香草焦糖，柚珠冰沙。</span><span class="english">Valrhona Chocolate Tart, Herbs Caramel, Yuzu Sorbet.</span></p>

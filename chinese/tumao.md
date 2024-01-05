@@ -1,5 +1,7 @@
 # 兔毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumao.md)
+
 <p><span class="chinese">但纯兔毛纱强力较小，可用涤丝包芯方式采加固。</span><span class="english">But the tenacity of pure rabbit hair yarn is low.</span></p>
 
 <p><span class="chinese">陈国华。环境湿度对兔毛纤维摩擦性能的影响。</span><span class="english">Influence of environmental humidity on friction properties of rabbit hair.</span></p>

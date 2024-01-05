@@ -1,5 +1,7 @@
 # 守护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhu.md)
+
 <p><span class="chinese">她守护在病人身旁。</span><span class="english">She sat by the patient.</span></p>
 
 <p><span class="chinese">有人拼死，守护大地。</span><span class="english">Somebody keep the land.</span></p>

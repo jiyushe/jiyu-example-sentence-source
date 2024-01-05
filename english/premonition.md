@@ -1,5 +1,7 @@
 # premonition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premonition.md)
+
 <p><span class="chinese">我的预感应验了。</span><span class="english">My premonition was right.</span></p>
 
 <p><span class="chinese">如果这只是预感怎么办？</span><span class="english">And what if this is premonition ?</span></p>

@@ -1,5 +1,7 @@
 # impair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impair.md)
+
 <p><span class="chinese">这是否会损害吠陀经的可靠性？</span><span class="english">Does it not impair the credibility of the Vedas?</span></p>
 
 <p><span class="chinese">不问阿玛杏儿为什么害宝宝了？</span><span class="english">Don 't ask Ma almond did the son why impair a baby?</span></p>

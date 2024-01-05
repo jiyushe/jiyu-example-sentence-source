@@ -1,5 +1,7 @@
 # dreamt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamt.md)
+
 <p><span class="chinese">他虚度一生。</span><span class="english">He dreamt his life away.</span></p>
 
 <p><span class="chinese">我梦到我的头发梳理好了。</span><span class="english">I dreamt that my hair was kempt.</span></p>

@@ -1,5 +1,7 @@
 # 险滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantan.md)
+
 <p><span class="chinese">他的独木舟在险滩下面的河水中。</span><span class="english">His canoe was there, on the river below the rapids.</span></p>
 
 <p><span class="chinese">我们奋斗却看不清前方的急流险滩。</span><span class="english">We fought hard for our future but missed the rapids ahead.</span></p>

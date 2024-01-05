@@ -1,5 +1,7 @@
 # belongingness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belongingness.md)
+
 <p><span class="chinese">目的也是让我们的学员有一个大家庭的感觉，找到温馨，找到自信！</span><span class="english">We aim to help our students have a strong sense of belongingness.</span></p>
 
 <p><span class="chinese">非常感归属使我们无法估量的期望。</span><span class="english">The very sense of belongingness has led us to immeasurable expectations.</span></p>

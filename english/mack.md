@@ -1,5 +1,7 @@
 # mack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mack.md)
+
 <p><span class="chinese">随后我告诉了麦克.麦克拉蒂。</span><span class="english">Then I told Mack McLarty.</span></p>
 
 <p><span class="chinese">那就是刀客迈可吗？</span><span class="english">Is the someone Mack the knife?</span></p>

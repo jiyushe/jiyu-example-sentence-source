@@ -1,5 +1,7 @@
 # celibate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celibate.md)
+
 <p><span class="chinese">如果你想追随上帝，那么做一个独身者。</span><span class="english">If you want to follow God be a celibate.</span></p>
 
 <p><span class="chinese">独身神职后来才出现。</span><span class="english">The celibate ministry comes about later.</span></p>

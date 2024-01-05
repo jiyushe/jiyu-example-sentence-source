@@ -1,5 +1,7 @@
 # 票号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaohao.md)
+
 <p><span class="chinese">二是开创了金融汇兑的票号业。</span><span class="english">Two, founded the financial remittance ticket number industry.</span></p>
 
 <p><span class="chinese">在购买电子机票时，旅客会得到一个电子票号。</span><span class="english">Buy e-tickets, passengers will get an electronic ticket number.</span></p>

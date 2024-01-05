@@ -1,5 +1,7 @@
 # 突进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tujin.md)
+
 <p><span class="chinese">行动是为了突进高峰，不为其他。</span><span class="english">Action is for the high, the rush, not for something else.</span></p>
 
 <p><span class="chinese">每次我这么做时我就会发现空档所以我就自然的转身，然后突进。</span><span class="english">Every time I did that I found space so I could turn and go forward.</span></p>

@@ -1,5 +1,7 @@
 # 一再
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizai.md)
+
 <p><span class="chinese">你一再受诱惑。</span><span class="english">You are then allured.</span></p>
 
 <p><span class="chinese">斯卡夫夙昔一再漫步。</span><span class="english">Scarf used to take a stroll.</span></p>

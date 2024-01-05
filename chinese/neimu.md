@@ -1,5 +1,7 @@
 # 内幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neimu.md)
+
 <p><span class="chinese">快告诉我内幕消息！</span><span class="english">Give me the scoop!</span></p>
 
 <p><span class="chinese">跟蒂姆谈谈，他有内幕消息。</span><span class="english">Talk to Tim. He's in the know.</span></p>

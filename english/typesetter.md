@@ -1,5 +1,7 @@
 # typesetter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typesetter.md)
+
 <p><span class="chinese">我是从一个排字工人那里买的这则广告。</span><span class="english">I bought the ad from the typesetter.</span></p>
 
 <p><span class="chinese">排字工人在这儿漏了一个字母。</span><span class="english">The typesetter has dropped a letter here.</span></p>

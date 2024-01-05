@@ -1,5 +1,7 @@
 # 精英
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingying.md)
+
 <p><span class="chinese">反恐精英是一部很棒的电脑游戏。</span><span class="english">CS is a great computer game.</span></p>
 
 <p><span class="chinese">什么是西交利物浦精英计划？</span><span class="english">What is XJTLU ELITE program?</span></p>

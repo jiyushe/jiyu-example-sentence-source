@@ -1,5 +1,7 @@
 # webbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/webbing.md)
+
 <p><span class="chinese">在织带存在严重的蝗灾。</span><span class="english">In severe infestations webbing is present.</span></p>
 
 <p><span class="chinese">它颤抖着，如桦树枝在网罗空气。</span><span class="english">It trembles as birch limbs webbing the air.</span></p>

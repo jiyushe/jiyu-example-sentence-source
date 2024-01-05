@@ -1,5 +1,7 @@
 # insolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insolation.md)
+
 <p><span class="chinese">被烈日晒伤皮肤该怎么办？</span><span class="english">How should be done by skin of intense insolation injury?</span></p>
 
 <p><span class="chinese">日射纱窗风撼扉，香罗拭手春事违。</span><span class="english">Insolation wind screens to shake Fei, Chun Hong Lo hand swab things illegal.</span></p>

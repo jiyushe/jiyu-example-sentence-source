@@ -1,5 +1,7 @@
 # revealer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revealer.md)
+
 <p><span class="chinese">所有显圣者的启示者啊！</span><span class="english">O Thou Revealer of every Manifestation!</span></p>
 
 <p><span class="chinese">时间既是破坏者又是启示者。</span><span class="english">Time is both a destroyer and a revealer.</span></p>

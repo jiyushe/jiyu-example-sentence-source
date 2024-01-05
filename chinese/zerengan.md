@@ -1,5 +1,7 @@
 # 责任感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zerengan.md)
+
 <p><span class="chinese">责任感激励着我。</span><span class="english">My duty pricks me on.</span></p>
 
 <p><span class="chinese">他有强烈的责任感。</span><span class="english">He has a strong sense of duty.</span></p>

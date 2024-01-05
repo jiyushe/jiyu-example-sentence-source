@@ -1,5 +1,7 @@
 # lucid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucid.md)
+
 <p><span class="chinese">他的文体很明畅。</span><span class="english">His style is very lucid.</span></p>
 
 <p><span class="chinese">你必须保持清醒和控制力。</span><span class="english">You have to be lucid and in control.</span></p>

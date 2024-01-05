@@ -1,5 +1,7 @@
 # questioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/questioned.md)
+
 <p><span class="chinese">劳伦特博士问。</span><span class="english">Dr. Laurent questioned.</span></p>
 
 <p><span class="chinese">人家怀疑他的诚意。</span><span class="english">His bona fides was questioned.</span></p>

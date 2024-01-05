@@ -1,5 +1,7 @@
 # triple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triple.md)
+
 <p><span class="chinese">什么是三重琳蒂舞？</span><span class="english">What is Triple Lindy?</span></p>
 
 <p><span class="chinese">三H或弗拉基米尔科斯洛夫？</span><span class="english">Triple H or Vladimir Koslov?</span></p>

@@ -1,5 +1,7 @@
 # nib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nib.md)
+
 <p><span class="chinese">它是一个钢笔尖。</span><span class="english">It is a nib.</span></p>
 
 <p><span class="chinese">钢笔尖戳了。</span><span class="english">The nib is blunted.</span></p>

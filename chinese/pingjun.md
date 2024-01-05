@@ -1,5 +1,7 @@
 # 平均
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjun.md)
+
 <p><span class="chinese">平均延滞时间?。</span><span class="english">Average Delay Time?</span></p>
 
 <p><span class="chinese">人人都得平均分享。</span><span class="english">All must share alike.</span></p>

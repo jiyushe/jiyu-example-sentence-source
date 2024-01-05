@@ -1,5 +1,7 @@
 # employee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/employee.md)
+
 <p><span class="chinese">一位可敬的员工。</span><span class="english">An honorable employee.</span></p>
 
 <p><span class="chinese">我就是一个雇员罢了。</span><span class="english">I am only an employee.</span></p>

@@ -1,5 +1,7 @@
 # 营运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyun_2.md)
+
 <p><span class="chinese">一条营运的窄轨铁道。</span><span class="english">An operating narrow-gauge railroad.</span></p>
 
 <p><span class="chinese">无追索权的营运资本贷款</span><span class="english">Non-Recourse Working Capital Bank Loans</span></p>

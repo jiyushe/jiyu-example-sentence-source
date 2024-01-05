@@ -1,5 +1,7 @@
 # 一笔勾销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibigouxiao.md)
+
 <p><span class="chinese">我们的旧账可以一笔勾销！</span><span class="english">It's time we wrote off all our old scores!</span></p>
 
 <p><span class="chinese">他们希望他把他们欠的债一笔勾销。</span><span class="english">They hope he will wipe off all their debt.</span></p>

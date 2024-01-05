@@ -1,5 +1,7 @@
 # solvency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solvency.md)
+
 <p><span class="chinese">外界对中国偿付能力的错误认识。</span><span class="english">This distorts external perceptions of China's solvency.</span></p>
 
 <p><span class="chinese">外界对中国偿付能力的错误认识。</span><span class="english">This distorts external perceptions of China’s solvency.</span></p>

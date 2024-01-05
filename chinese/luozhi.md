@@ -1,5 +1,7 @@
 # 罗致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luozhi.md)
+
 <p><span class="chinese">必需从过往的战争中罗致履历哺育。</span><span class="english">Lessons must remain learned from the past wars.</span></p>
 
 <p><span class="chinese">战士能够大黑甜乡中的友善魂灵上罗致力量。</span><span class="english">The warrior is able to draw strength from the benevolent spirits of the Fade.</span></p>

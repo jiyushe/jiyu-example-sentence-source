@@ -1,5 +1,7 @@
 # 监视居住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshijuzhu.md)
+
 <p><span class="chinese">他一直被软禁在位于曼哈顿的公寓中，受到24小时监视居住。</span><span class="english">He had been confined to his Upper East Side apartment on 24-hour home detention.</span></p>
 
 <p><span class="chinese">报道说，有七人为监视居住，另有三人取保候审。</span><span class="english">Seven are under house detention while another three are out on bail, the report said.</span></p>

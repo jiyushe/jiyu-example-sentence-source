@@ -1,5 +1,7 @@
 # pinhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinhead.md)
+
 <p><span class="chinese">医生用橡皮胶把针头固定下来。</span><span class="english">The doctor fastens the pinhead with rubberized fabric.</span></p>
 
 <p><span class="chinese">核对食谱前，她捡起一只小蟋蟀。</span><span class="english">Before checking her recipe, Dunkel had picked up a pinhead.</span></p>

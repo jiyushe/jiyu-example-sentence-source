@@ -1,5 +1,7 @@
 # 雪暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuebao_1.md)
+
 <p><span class="chinese">雪暴是危险的。</span><span class="english">Winter storms can be dangerous.</span></p>
 
 <p><span class="chinese">初看起来奥兹似乎冻死于阿尔卑斯山的雪暴。</span><span class="english">At first, it looked as if Otzi had frozen to death in a snowstorm in the Alps.</span></p>

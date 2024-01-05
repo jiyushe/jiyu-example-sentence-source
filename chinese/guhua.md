@@ -1,5 +1,7 @@
 # 古画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhua.md)
+
 <p><span class="chinese">她请人将这张古画重新装裱了一番。</span><span class="english">She had the ancient painting remounted.</span></p>
 
 <p><span class="chinese">她非常珍视那幅古画。</span><span class="english">She sets great store by this old picture.</span></p>

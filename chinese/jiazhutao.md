@@ -1,5 +1,7 @@
 # 夹竹桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhutao.md)
+
 <p><span class="chinese">夹竹桃具有长叶子。</span><span class="english">The Oleander has long leaves.</span></p>
 
 <p><span class="chinese">我从此更爱夹竹桃。</span><span class="english">I love oleander more from now on.</span></p>

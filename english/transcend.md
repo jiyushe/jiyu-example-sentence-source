@@ -1,5 +1,7 @@
 # transcend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcend.md)
+
 <p><span class="chinese">我们的目标是超越竖井。</span><span class="english">Our goal is to transcend silos.</span></p>
 
 <p><span class="chinese">塔塔如何才能超越这种形象？</span><span class="english">How can Tata transcend that image?</span></p>

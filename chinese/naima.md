@@ -1,5 +1,7 @@
 # 奶妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naima.md)
+
 <p><span class="chinese">在奶妈怀中啼哭着、呕吐着。</span><span class="english">Mewling and puking in the nurse's arms.</span></p>
 
 <p><span class="chinese">请让我看看我从前的那位奶妈吧，弗洛伊！</span><span class="english">Show me that old nurse, Floy, if you please!</span></p>

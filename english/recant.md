@@ -1,5 +1,7 @@
 # recant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recant.md)
+
 <p><span class="chinese">出于形式，路德先是被要求公开认错。</span><span class="english">For form’s sake, Luther was first invited to recant.</span></p>
 
 <p><span class="chinese">从未听过有任何一位基督徒在临终时放弃信仰的。</span><span class="english">No Christian has ever been known to recant on his deathbed.</span></p>

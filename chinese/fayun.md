@@ -1,5 +1,7 @@
 # 发晕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fayun.md)
+
 <p><span class="chinese">我头发晕，两眼发黑。</span><span class="english">She had glossy black hair.</span></p>
 
 <p><span class="chinese">我头发晕，两眼发黑。</span><span class="english">Her hair's intensely black.</span></p>

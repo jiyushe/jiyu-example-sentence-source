@@ -1,5 +1,7 @@
 # 滚雪球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gunxueqiu.md)
+
 <p><span class="chinese">我喜欢债务滚雪球。</span><span class="english">I love the debt snowball.</span></p>
 
 <p><span class="chinese">从那之后，一切就如同滚雪球一般。</span><span class="english">And from there, it all snowballed.</span></p>

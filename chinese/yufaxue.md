@@ -1,5 +1,7 @@
 # 语法学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yufaxue.md)
+
 <p><span class="chinese">顺便说下，真正的语法学家已经将所有样本熟记于心。</span><span class="english">Real grammarians, by the way, have memorized the AP Stylebook.</span></p>
 
 <p><span class="chinese">一些语法学家认为这一结构不正确。</span><span class="english">A number of grammarians have labeled the construction incorrect.</span></p>

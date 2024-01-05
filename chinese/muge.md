@@ -1,5 +1,7 @@
 # 牧歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muge.md)
+
 <p><span class="chinese">喜剧，牧歌和团圆诗的原型。</span><span class="english">Comedy, eclogue withtheprototype of reunited poem.</span></p>
 
 <p><span class="chinese">稍后，意大利牧歌成为最著名的作品。</span><span class="english">Later the Italian madrigal becomes the most distinguished genre.</span></p>

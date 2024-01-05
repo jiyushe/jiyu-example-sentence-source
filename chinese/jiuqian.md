@@ -1,5 +1,7 @@
 # 酒钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuqian.md)
+
 <p><span class="chinese">我给你付酒钱。</span><span class="english">I'll stand you to a drink.</span></p>
 
 <p><span class="chinese">他们还付了酒钱。</span><span class="english">They also paid for the liquor.</span></p>

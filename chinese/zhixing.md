@@ -1,5 +1,7 @@
 # 执行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixing.md)
+
 <p><span class="chinese">执行失败。</span><span class="english">Exec failure.</span></p>
 
 <p><span class="chinese">将你的想法送出门执行！</span><span class="english">Ship it out the door.</span></p>

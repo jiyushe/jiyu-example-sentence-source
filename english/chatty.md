@@ -1,5 +1,7 @@
 # chatty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chatty.md)
+
 <p><span class="chinese">他们都开朗、微笑、健谈以及礼貌。</span><span class="english">They were all cheerful, smiling, chatty and polite.</span></p>
 
 <p><span class="chinese">这本书的文字风格是闲聊式的容易阅读的。</span><span class="english">The book is written in a chatty and reader-friendly style.</span></p>

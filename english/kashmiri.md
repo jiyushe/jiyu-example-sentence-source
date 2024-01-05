@@ -1,5 +1,7 @@
 # kashmiri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kashmiri.md)
+
 <p><span class="chinese">卡什米里被谴责策划了巴基斯坦，印度和阿富汗的一系列恐怖袭击。</span><span class="english">Kashmiri was blamed for a string of attacks in Pakistan, India and Afghanistan.</span></p>
 
 <p><span class="chinese">游客还可以品尝到日式寿司和克什米尔咖喱鸡。</span><span class="english">Visitors will also be able to dig into Japanese sushi and Kashmiri chicken curry.</span></p>

@@ -1,5 +1,7 @@
 # discordance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discordance.md)
+
 <p><span class="chinese">知识与生命实存之间的不合谐是我研究的主题。</span><span class="english">The discordance between knowledge and being is my subject.</span></p>
 
 <p><span class="chinese">这两项产品间的不一致令老板恼怒。</span><span class="english">The discordance between these two products bothered the boss.</span></p>

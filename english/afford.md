@@ -1,5 +1,7 @@
 # afford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afford.md)
+
 <p><span class="chinese">增员，你能否承受？</span><span class="english">Can You Afford to Hire?</span></p>
 
 <p><span class="chinese">她买不起裘皮大衣。</span><span class="english">She cannot afford furs.</span></p>

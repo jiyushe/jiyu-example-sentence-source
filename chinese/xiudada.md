@@ -1,5 +1,7 @@
 # 羞答答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiudada.md)
+
 <p><span class="chinese">羞答答不肯把头抬。</span><span class="english">Blushing, she turns her head without a qualm.</span></p>
 
 <p><span class="chinese">她的举止令人有种自然的羞答答的感觉。</span><span class="english">There is a natural coyness about her behavior.</span></p>

@@ -1,5 +1,7 @@
 # permanency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permanency.md)
+
 <p><span class="chinese">我们可以做些什么呢？</span><span class="english">permanency. What can be done about it?</span></p>
 
 <p><span class="chinese">另外，稳定感也是缺乏的。</span><span class="english">There is also the lack of a sense of permanency.</span></p>

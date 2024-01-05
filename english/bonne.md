@@ -1,5 +1,7 @@
 # bonne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonne.md)
+
 <p><span class="chinese">我的天使，我的公主。</span><span class="english">Bonne chance, my angel and princess.</span></p>
 
 <p><span class="chinese">该公司全资拥有的博讷机会内华达州。</span><span class="english">The company is wholly owned Bonne Chance NV.</span></p>

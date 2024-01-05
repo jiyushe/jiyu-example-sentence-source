@@ -1,5 +1,7 @@
 # futile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futile.md)
+
 <p><span class="chinese">他一生过得庸庸碌碌。</span><span class="english">He lived a futile life.</span></p>
 
 <p><span class="chinese">你的抵抗是无用的。</span><span class="english">Your resistance is futile.</span></p>

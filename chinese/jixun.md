@@ -1,5 +1,7 @@
 # 集训
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixun.md)
+
 <p><span class="chinese">疯狂英语集训营是什么？</span><span class="english">What is intensive training camp?</span></p>
 
 <p><span class="chinese">集训营就是乐成故事的起点！</span><span class="english">Training camp is where success stories start!</span></p>

@@ -1,5 +1,7 @@
 # 板上钉钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshangdingding.md)
+
 <p><span class="chinese">1973年的赎罪日战争使这种变化板上钉钉。</span><span class="english">The 1973 Yom Kippur War put the seal on the shift.</span></p>
 
 <p><span class="chinese">斯坦普尔的命运在他走进办公室的第二天就板上钉钉了。</span><span class="english">Stempel's fate was sealed on his second day in office.</span></p>

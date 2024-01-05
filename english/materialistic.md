@@ -1,5 +1,7 @@
 # materialistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/materialistic.md)
+
 <p><span class="chinese">你们律师总是唯物论者。</span><span class="english">Your lawyers are always so materialistic.</span></p>
 
 <p><span class="chinese">商业广告会让孩子们更物质化么？</span><span class="english">Do commercials make kids more materialistic?</span></p>

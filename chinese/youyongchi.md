@@ -1,5 +1,7 @@
 # 游泳池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyongchi.md)
+
 <p><span class="chinese">我去游泳池了。</span><span class="english">I went to natatorium.</span></p>
 
 <p><span class="chinese">这是我们的游泳池。</span><span class="english">This is our swimming-pool.</span></p>

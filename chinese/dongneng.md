@@ -1,5 +1,7 @@
 # 动能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongneng.md)
+
 <p><span class="chinese">之后它就有了动能。</span><span class="english">Then it has kinetic energy.</span></p>
 
 <p><span class="chinese">动能是守恒的。</span><span class="english">Kinetic energy is conserved.</span></p>

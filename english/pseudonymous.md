@@ -1,5 +1,7 @@
 # pseudonymous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudonymous.md)
+
 <p><span class="chinese">大多学者认为这些书信是伪典。</span><span class="english">Most of us scholars believe that these letters are pseudonymous.</span></p>
 
 <p><span class="chinese">他们没有说作者是何许人，而且，他们也没有使用笔名。</span><span class="english">They don't tell us who their author is. Notice, they're not pseudonymous.</span></p>

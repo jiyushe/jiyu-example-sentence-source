@@ -1,5 +1,7 @@
 # 血流如注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueliuruzhu.md)
+
 <p><span class="chinese">伤口血流如注。</span><span class="english">The wound rained blood.</span></p>
 
 <p><span class="chinese">那个同学话音刚落，姜浩就重重地打出了一拳，同学的鼻子顿时血流如注。</span><span class="english">The student’s nose was bleeding nonstop.</span></p>

@@ -1,5 +1,7 @@
 # muff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muff.md)
+
 <p><span class="chinese">别放过升级机会。</span><span class="english">Don't muff your chance to earn a promotion.</span></p>
 
 <p><span class="chinese">我甚至戴着皮手筒，都不能把手暖和过来。</span><span class="english">I can hardly keep my hands warmeven in my muff.</span></p>

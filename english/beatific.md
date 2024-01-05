@@ -1,5 +1,7 @@
 # beatific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatific.md)
+
 <p><span class="chinese">祝福朋友，马年亨通！</span><span class="english">Beatific friend, year be prosperous!</span></p>
 
 <p><span class="chinese">它可以给你带来幸福，痛苦和烦恼！</span><span class="english">It can make you pain, beatific and agonising!</span></p>

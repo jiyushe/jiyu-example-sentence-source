@@ -1,5 +1,7 @@
 # 朝气蓬勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoqipengbo.md)
+
 <p><span class="chinese">第二，技术仍然朝气蓬勃。</span><span class="english">Second, technology is still young.</span></p>
 
 <p><span class="chinese">在他朝气蓬勃的春天，那清晰的幻想</span><span class="english">He has his lusty Spring,when fancy clear</span></p>

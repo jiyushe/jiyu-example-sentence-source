@@ -1,5 +1,7 @@
 # lustrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lustrous.md)
+
 <p><span class="chinese">日下粲烂、有裴汉。</span><span class="english">Pei Han has lustrous qualities.</span></p>
 
 <p><span class="chinese">这里美神无法保持她光彩的双眼</span><span class="english">Where Beauty cannot keep her lustrous eyes</span></p>

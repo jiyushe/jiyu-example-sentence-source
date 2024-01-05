@@ -1,5 +1,7 @@
 # 随和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suihe.md)
+
 <p><span class="chinese">她非常随和。</span><span class="english">She is very easy-going.</span></p>
 
 <p><span class="chinese">老盖茨的母亲对孩子比较溺爱，为人非常随和。</span><span class="english">His mother was doting and easygoing.</span></p>

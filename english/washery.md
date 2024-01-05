@@ -1,5 +1,7 @@
 # washery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washery.md)
+
 <p><span class="chinese">虚拟煤流是虚拟选煤厂三维仿真环境中的重要组成部分。</span><span class="english">Virtual coal stream is important in virtual coal washery 3D simulating system.</span></p>
 
 <p><span class="chinese">介绍了抗磨材料在选煤厂的应用情况、应用效果以及应用前景。</span><span class="english">A brief introduction for applied situation, applied effect and applied prospects of wear-resisting in washery.</span></p>

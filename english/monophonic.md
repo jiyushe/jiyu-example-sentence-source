@@ -1,5 +1,7 @@
 # monophonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monophonic.md)
+
 <p><span class="chinese">这就是单音织体,只有一个音高</span><span class="english">So that's monophonic texture, just one pitch.</span></p>
 
 <p><span class="chinese">它也可以转换和弦和单音铃声。</span><span class="english">It can also convert polyphonic and monophonic ringtones.</span></p>

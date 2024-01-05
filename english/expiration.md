@@ -1,5 +1,7 @@
 # expiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expiration.md)
+
 <p><span class="chinese">附终止期限的合同，自期限届满时失效。</span><span class="english">The expiration of contract is coming.</span></p>
 
 <p><span class="chinese">失效日期见外包装。</span><span class="english">The expiration date is on the package.</span></p>

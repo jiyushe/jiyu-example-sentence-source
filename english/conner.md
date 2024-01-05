@@ -1,5 +1,7 @@
 # conner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conner.md)
+
 <p><span class="chinese">“对，真无聊，是吧？”约翰康纳说。</span><span class="english">"Yeah. Major drag, huh?"John Conner said.</span></p>
 
 <p><span class="chinese">康纳知不知道刀子是从哪儿来的？</span><span class="english">Does Conner know where the knife came from?</span></p>

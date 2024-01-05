@@ -1,5 +1,7 @@
 # 深闺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengui.md)
+
 <p><span class="chinese">音乐吸引那个害羞的姑娘走出了深闺。</span><span class="english">Music drew the shy girl out of her shell.</span></p>
 
 <p><span class="chinese">世博会又带其走出来“深闺”走向了世界。</span><span class="english">Expo has come out with its "purdah" to the world.</span></p>

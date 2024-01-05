@@ -1,5 +1,7 @@
 # bargaining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bargaining.md)
+
 <p><span class="chinese">光定价格不讲价。</span><span class="english">That's a fix price no bargaining.</span></p>
 
 <p><span class="chinese">这是一个强有力的谈判利器。</span><span class="english">It was a powerful bargaining tool.</span></p>

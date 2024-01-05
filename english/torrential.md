@@ -1,5 +1,7 @@
 # torrential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torrential.md)
+
 <p><span class="chinese">山洪冲毁了这个村落。</span><span class="english">The torrential flood annihilated the village.</span></p>
 
 <p><span class="chinese">古巴的骤雨降雨量达到了30英寸。</span><span class="english">Cuba could get torrential rainfalls of up to 30 inches.</span></p>

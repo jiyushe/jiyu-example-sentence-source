@@ -1,5 +1,7 @@
 # 疾呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jihu_1.md)
+
 <p><span class="chinese">第三类被称为“保护者”，为保护动物奔走疾呼。</span><span class="english">The third, called “protectionists,” strive to be the animal’s advocate.</span></p>
 
 <p><span class="chinese">无论如何，为一些新的科学工具疾呼呐喊首先使得那些新进展成为可能。</span><span class="english">First, however, a shout-out to some of the tools that made those insights possible.</span></p>

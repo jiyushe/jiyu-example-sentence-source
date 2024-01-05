@@ -1,5 +1,7 @@
 # espouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/espouse.md)
+
 <p><span class="chinese">不过，他不能毫无必要地娶那个老女人。</span><span class="english">But he must not espouse the old lady needlessly.</span></p>
 
 <p><span class="chinese">你可没必要听信任何他们支持的蠢事。</span><span class="english">You don't have to swallow every dumbass thing they espouse.</span></p>

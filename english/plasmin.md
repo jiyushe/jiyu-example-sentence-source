@@ -1,5 +1,7 @@
 # plasmin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasmin.md)
+
 <p><span class="chinese">胞浆素是消除和分解血栓的主要蛋白酶。</span><span class="english">Plasmin is the main protease to break down and dissolve thrombus.</span></p>
 
 <p><span class="chinese">研究了赤子爱胜蚓纤溶酶活性的提高条件及酶的最适作用条件。</span><span class="english">In this paper the best conditions of activity of plasmin were studied.</span></p>

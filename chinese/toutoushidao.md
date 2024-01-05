@@ -1,5 +1,7 @@
 # 头头是道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutoushidao.md)
+
 <p><span class="chinese">要把故事讲的头头是道，还得经历一个漫长的学徒期。</span><span class="english">And it was a long apprenticeship, learning to tell stories.</span></p>
 
 <p><span class="chinese">妈妈，你说得头头是道，但你能欣赏那种艺术吗？</span><span class="english">Mom, you talk well, but can you appreciate that kind of art?</span></p>

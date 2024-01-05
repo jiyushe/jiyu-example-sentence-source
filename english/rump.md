@@ -1,5 +1,7 @@
 # rump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rump.md)
+
 <p><span class="chinese">鞭子啪地一声抽在马屁股上。</span><span class="english">The whip cracked down on the horse's rump.</span></p>
 
 <p><span class="chinese">分众传媒将保持一小部分广告业务。</span><span class="english">Focus Media would retain a rump ad business.</span></p>

@@ -1,5 +1,7 @@
 # sailfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sailfish.md)
+
 <p><span class="chinese">很高兴见到你，旗鱼。</span><span class="english">It's nice to see you, sailfish.</span></p>
 
 <p><span class="chinese">这一天的开局真不错，这也是我第一次用飞杆钓到旗鱼。</span><span class="english">A fine start to the day, and my first sailfish on a fly.</span></p>

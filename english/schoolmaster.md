@@ -1,5 +1,7 @@
 # schoolmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolmaster.md)
+
 <p><span class="chinese">灾难是一个好的老师。</span><span class="english">Adversity is a good schoolmaster.</span></p>
 
 <p><span class="chinese">会议由校长怀特先生主持。</span><span class="english">The meeting was chaired by schoolmaster Mr White.</span></p>

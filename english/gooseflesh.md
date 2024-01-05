@@ -1,5 +1,7 @@
 # gooseflesh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gooseflesh.md)
+
 <p><span class="chinese">为什么会起鸡皮疙瘩?。</span><span class="english">Why can you remove gooseflesh?</span></p>
 
 <p><span class="chinese">斯内普可以看到他身上的鸡皮疙瘩。</span><span class="english">Snape could see the gooseflesh on him.</span></p>

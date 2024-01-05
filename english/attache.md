@@ -1,5 +1,7 @@
 # attache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attache.md)
+
 <p><span class="chinese">一架美国专属直升机向他们开火。</span><span class="english">An American attache helicopter opened fire on them.</span></p>
 
 <p><span class="chinese">我用公文包携带我的重要文件。</span><span class="english">I carried the important papers in the attaché case.</span></p>

@@ -1,5 +1,7 @@
 # 不均
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujun.md)
+
 <p><span class="chinese">都是经济快速增长,却分配不均的原因。</span><span class="english">It's this inequitable distribution of growth.</span></p>
 
 <p><span class="chinese">现在巴基斯坦的情势已经稳定，记者说，但是人们还是不知道为什么明显的面粉分配不均的问题任然存在。</span><span class="english">correspondents say it is not clear why apparent problems in</span></p>

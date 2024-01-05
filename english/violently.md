@@ -1,5 +1,7 @@
 # violently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violently.md)
+
 <p><span class="chinese">遇水反应剧烈。</span><span class="english">Reacts violently with water.</span></p>
 
 <p><span class="chinese">他激烈地拒捕。</span><span class="english">He resisted arrest violently.</span></p>

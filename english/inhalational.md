@@ -1,5 +1,7 @@
 # inhalational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhalational.md)
+
 <p><span class="chinese">变应原浸液内含18种常见吸入性过敏原。</span><span class="english">There were 18 inhalational allergens in allergen steep.</span></p>
 
 <p><span class="chinese">吸入麻醉中BIS监测可减少吸入麻醉药用量，但肌松药用量增加。</span><span class="english">BIS monitoring increased the amount of muscle relaxants used during inhalational anesthesia.</span></p>

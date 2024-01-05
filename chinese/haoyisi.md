@@ -1,5 +1,7 @@
 # 好意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoyisi.md)
+
 <p><span class="chinese">我怎么还好意思抱怨呢？</span><span class="english">How can I complain?</span></p>
 
 <p><span class="chinese">我怎么好意思拒绝？</span><span class="english">How could I say no?</span></p>

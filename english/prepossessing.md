@@ -1,5 +1,7 @@
 # prepossessing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepossessing.md)
+
 <p><span class="chinese">真正的人生转折点可能要普通得多。</span><span class="english">The real milestones are less prepossessing.</span></p>
 
 <p><span class="chinese">清洁的衣服和良好的举止能给人以好感。</span><span class="english">Clean clothes and good manners are prepossessing.</span></p>

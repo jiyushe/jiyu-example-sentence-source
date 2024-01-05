@@ -1,5 +1,7 @@
 # 唯一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyi_1.md)
+
 <p><span class="chinese">你是唯一无二的。</span><span class="english">You are unique.</span></p>
 
 <p><span class="chinese">唯一的好消息是？</span><span class="english">The only good news?</span></p>

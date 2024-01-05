@@ -1,5 +1,7 @@
 # cease 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cease.md)
+
 <p><span class="chinese">奇迹“何曾终止过？</span><span class="english">Do miracles never cease?</span></p>
 
 <p><span class="chinese">经历者能停止吗？</span><span class="english">Can the experiencer cease?</span></p>

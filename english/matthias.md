@@ -1,5 +1,7 @@
 # matthias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matthias.md)
+
 <p><span class="chinese">但是，马提亚不再出现，神已经选了保罗。</span><span class="english">However, Matthias is never mentioned again — God had already chosen Paul.</span></p>
 
 <p><span class="chinese">玛瑟亚斯被放逐了，然后巫妖王从五年的沉睡中醒了过来！</span><span class="english">Matthias is cast out and the Lich King awakens from his 5 year "slumber".</span></p>

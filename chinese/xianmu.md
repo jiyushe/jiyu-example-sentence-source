@@ -1,5 +1,7 @@
 # 羡慕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmu.md)
+
 <p><span class="chinese">我真羡慕你。</span><span class="english">I envied you.</span></p>
 
 <p><span class="chinese">我好羡慕你呀！</span><span class="english">How I envy you!</span></p>

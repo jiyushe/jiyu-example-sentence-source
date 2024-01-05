@@ -1,5 +1,7 @@
 # abscissa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abscissa.md)
+
 <p><span class="chinese">实验曲线几乎与横座标平行。</span><span class="english">The experimental curve runs nearly parallel to the abscissa.</span></p>
 
 <p><span class="chinese">实验曲线几乎与模座标平行。</span><span class="english">The experimental curve runs nearly parallel to the abscissa.</span></p>

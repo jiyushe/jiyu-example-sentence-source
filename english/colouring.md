@@ -1,5 +1,7 @@
 # colouring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colouring.md)
+
 <p><span class="chinese">染料染上红色。</span><span class="english">The colouring matter dyed red.</span></p>
 
 <p><span class="chinese">不添加著色料、矿物油。</span><span class="english">No colouring materials and mineral oil.</span></p>

@@ -1,5 +1,7 @@
 # innateness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innateness.md)
+
 <p><span class="chinese">我认为关于与生俱来的问题还有待商榷。</span><span class="english">I think the jury is out on the innateness question.</span></p>
 
 <p><span class="chinese">相对而言，我们在先天性频谱图上较容易看出一部分情感的位置。</span><span class="english">With some emotions, it is relatively easy to see where they are located on the innateness spectrum.</span></p>

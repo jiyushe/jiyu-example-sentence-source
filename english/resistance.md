@@ -1,5 +1,7 @@
 # resistance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resistance.md)
+
 <p><span class="chinese">用阻力拉管。</span><span class="english">Use resistance tubing.</span></p>
 
 <p><span class="chinese">你的抵抗是无用的。</span><span class="english">Your resistance is futile.</span></p>

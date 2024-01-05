@@ -1,5 +1,7 @@
 # costliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costliness.md)
+
 <p><span class="chinese">能让自己去选择是一件奢侈的事情。</span><span class="english">So having a chance to choose is a costliness for every one.</span></p>
 
 <p><span class="chinese">当前，“看病贵”已成为一种社会现象。</span><span class="english">At present "Costliness in Seeking Medical Treatment" has been a social phenomenon.</span></p>

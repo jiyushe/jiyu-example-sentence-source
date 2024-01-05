@@ -1,5 +1,7 @@
 # 劝酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjiu.md)
+
 <p><span class="chinese">别劝酒，不要以为你喜欢喝我就喜欢喝。</span><span class="english">Do no inflict your favorite drinks on me.</span></p>
 
 <p><span class="chinese">嘉绒藏族是一个能歌善舞的民族，以歌舞敬酒、劝酒。</span><span class="english">Jiarong Tibetan nationality is a people being good at dancing and singing.</span></p>

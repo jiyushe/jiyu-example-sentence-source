@@ -1,5 +1,7 @@
 # preschool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preschool.md)
+
 <p><span class="chinese">您认为幼儿教育是否应该免费？</span><span class="english">Do you think if the preschool education is free?</span></p>
 
 <p><span class="chinese">我们儿子的学前老师告诉了我们这一糟糕的消息。</span><span class="english">Our son’s preschool teacher gave us the grim news.</span></p>

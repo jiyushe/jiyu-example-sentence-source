@@ -1,5 +1,7 @@
 # histrionics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histrionics.md)
+
 <p><span class="chinese">我笑他装模作样。</span><span class="english">I laughed at his histrionics.</span></p>
 
 <p><span class="chinese">在这个阶段，大呼小叫和装腔作势都将减少。</span><span class="english">In this phase, the shouts and histrionics will abate somewhat.</span></p>

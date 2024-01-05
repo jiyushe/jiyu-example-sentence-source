@@ -1,5 +1,7 @@
 # reuptake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reuptake.md)
+
 <p><span class="chinese">这些抗抑郁药物被称作选择性血清素再摄取抑制剂。</span><span class="english">These antidepressants are known as selective serotonin reuptake inhibitors.</span></p>
 
 <p><span class="chinese">这些抗抑郁的药物都是选择性5-羟色胺再摄取抑制剂。</span><span class="english">These  antidepressants are known as selective  serotonin  reuptake  inhibitors.</span></p>

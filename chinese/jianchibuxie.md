@@ -1,5 +1,7 @@
 # 坚持不懈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchibuxie.md)
+
 <p><span class="chinese">我在坚持不懈方面做得怎样？</span><span class="english">How would I rate on persistence?</span></p>
 
 <p><span class="chinese">如果你坚持不懈，最终将成功。</span><span class="english">If you keep trying you will succeed.</span></p>

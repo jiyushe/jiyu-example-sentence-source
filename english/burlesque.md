@@ -1,5 +1,7 @@
 # burlesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burlesque.md)
+
 <p><span class="chinese">这本书读起来像部荒诞可笑的讽刺作品。</span><span class="english">The book read like a black comic burlesque.</span></p>
 
 <p><span class="chinese">他只不过是那场滑稽戏里的配角。</span><span class="english">He just is a second banana in that burlesque.</span></p>

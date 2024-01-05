@@ -1,5 +1,7 @@
 # emic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emic.md)
+
 <p><span class="chinese">主位研究视角下的彝族文化真实。</span><span class="english">Yi cultural reality from the viewpoint of emic research.</span></p>
 
 <p><span class="chinese">在通常情况下，离主位近的位子高于距主位远的位子。</span><span class="english">Normally, from emic nearly seat from emic far above the table.</span></p>

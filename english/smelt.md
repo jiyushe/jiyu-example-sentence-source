@@ -1,5 +1,7 @@
 # smelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smelt.md)
+
 <p><span class="chinese">我闻到了烟味！</span><span class="english">I smelt smoke!</span></p>
 
 <p><span class="chinese">他闻了闻花。</span><span class="english">He smelt the flowers.</span></p>

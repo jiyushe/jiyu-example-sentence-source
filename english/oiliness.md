@@ -1,5 +1,7 @@
 # oiliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oiliness.md)
+
 <p><span class="chinese">有助于皮肤在夜间恢复平衡。达到控油。</span><span class="english">Helps rebalance skin prone to oiliness during the night.</span></p>
 
 <p><span class="chinese">面汤香味浓郁，稍微有点儿滑腻，这样刚刚好。</span><span class="english">The broth has a decent richness and slight oiliness which is just right.</span></p>

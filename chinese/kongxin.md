@@ -1,5 +1,7 @@
 # 空心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxin.md)
+
 <p><span class="chinese">而我折一枚空心的芦杆。</span><span class="english">And I plucked a hollow reed.</span></p>
 
 <p><span class="chinese">我研究着空心天花板上的一个污点。</span><span class="english">I examine a stain on the tile ceiling.</span></p>

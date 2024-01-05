@@ -1,5 +1,7 @@
 # pediatric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pediatric.md)
+
 <p><span class="chinese">我敢打赌，它们一定会在儿科病房里大受欢迎的。</span><span class="english">I’ll bet they’re a big hit in the pediatric ward.</span></p>
 
 <p><span class="chinese">请叫妇产科住院医师速到抢救室来。</span><span class="english">Please call a pediatric resident to the operation room.</span></p>

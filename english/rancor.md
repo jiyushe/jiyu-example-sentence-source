@@ -1,5 +1,7 @@
 # rancor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rancor.md)
+
 <p><span class="chinese">他心中对你并无怨恨。</span><span class="english">He has no rancor at heart against you.</span></p>
 
 <p><span class="chinese">你已经死在过深的怨愤里了吗?。</span><span class="english">Have you perished in this deep rancor and bitterness?</span></p>

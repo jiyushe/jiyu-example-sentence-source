@@ -1,5 +1,7 @@
 # cloven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloven.md)
+
 <p><span class="chinese">牛、羊的蹄都是偶蹄。</span><span class="english">Cows, sheep, and goats have cloven hoofs.</span></p>
 
 <p><span class="chinese">我早就认为他迟早会原形毕露的。</span><span class="english">I thought he would show the cloven hoof sooner or later.</span></p>

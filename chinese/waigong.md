@@ -1,5 +1,7 @@
 # 外公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waigong.md)
+
 <p><span class="chinese">他是我的外公。</span><span class="english">He is my grandfather.</span></p>
 
 <p><span class="chinese">我的外公外婆去世了。</span><span class="english">My grandpa and grandma died.</span></p>

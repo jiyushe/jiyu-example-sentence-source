@@ -1,5 +1,7 @@
 # 怒发冲冠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nufachongguan.md)
+
 <p><span class="chinese">他气得怒发冲冠。</span><span class="english">He bristled with anger.</span></p>
 
 <p><span class="chinese">怒发冲冠五侠客将有一个要得到龙卷轴了！</span><span class="english">One of the five is gonna get the dragon scroll!</span></p>

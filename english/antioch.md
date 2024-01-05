@@ -1,5 +1,7 @@
 # antioch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antioch.md)
+
 <p><span class="chinese">找着了，就带他到安提阿去。</span><span class="english">And when he found him, he brought him to Antioch.</span></p>
 
 <p><span class="chinese">找着了，就带他到安提阿去。</span><span class="english">And when he had found him, he brought him unto Antioch.</span></p>

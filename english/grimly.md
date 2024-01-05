@@ -1,5 +1,7 @@
 # grimly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grimly.md)
+
 <p><span class="chinese">“我饶恕你了，”他严肃地回说。</span><span class="english">"I do, " he returned grimly.</span></p>
 
 <p><span class="chinese">他们顽固地反对弗洛伦斯和她的支持者们。</span><span class="english">They grimly opposed Florence and her allies.</span></p>

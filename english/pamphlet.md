@@ -1,5 +1,7 @@
 # pamphlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pamphlet.md)
+
 <p><span class="chinese">请给我一本观光手册。</span><span class="english">Please give me a sightseer's pamphlet.</span></p>
 
 <p><span class="chinese">我印行这小册子又是一件错误。</span><span class="english">My printing this pamphlet was another erratum.</span></p>

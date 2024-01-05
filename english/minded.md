@@ -1,5 +1,7 @@
 # minded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minded.md)
+
 <p><span class="chinese">你真有事业心。</span><span class="english">You are really career minded.</span></p>
 
 <p><span class="chinese">肯定都是些心胸狭窄的人。</span><span class="english">Small minded people to be sure.</span></p>

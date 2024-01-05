@@ -1,5 +1,7 @@
 # cis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cis.md)
+
 <p><span class="chinese">音乐是红色的，很火烈。</span><span class="english">Music cis red, very hot.</span></p>
 
 <p><span class="chinese">在2002年，反恐怖中心在俄罗斯建立。</span><span class="english">In 2002, an antiterrorist center was established in the CIS.</span></p>

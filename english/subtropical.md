@@ -1,5 +1,7 @@
 # subtropical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtropical.md)
+
 <p><span class="chinese">西双版纳属亚热带气候。</span><span class="english">Xishuangbanna has a subtropical climate.</span></p>
 
 <p><span class="chinese">属亚热带季风湿润气候区。</span><span class="english">A subtropical humid monsoon climate zone.</span></p>

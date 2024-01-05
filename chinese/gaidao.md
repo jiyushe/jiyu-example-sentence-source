@@ -1,5 +1,7 @@
 # 改道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaidao.md)
+
 <p><span class="chinese">高速道路可是改道建设。</span><span class="english">The expressway could be re-routed.</span></p>
 
 <p><span class="chinese">知道发大水的那些游客改道走了。</span><span class="english">The travellers knowing about the floods took another road.</span></p>

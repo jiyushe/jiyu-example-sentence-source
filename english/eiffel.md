@@ -1,5 +1,7 @@
 # eiffel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eiffel.md)
+
 <p><span class="chinese">次登埃菲尔塔塔顶。</span><span class="english">Eiffel Tower many a time.</span></p>
 
 <p><span class="chinese">这是埃菲尔铁塔，我知道。</span><span class="english">This is Eiffel Tower. I know it.</span></p>

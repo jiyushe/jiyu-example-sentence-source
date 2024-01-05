@@ -1,5 +1,7 @@
 # dysplasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysplasia.md)
+
 <p><span class="chinese">这种胎儿脑细胞受损的现象，会导致胎儿全身发育不良。</span><span class="english">Fetal brain cell damage that phenomenon, would lead to fetal body dysplasia.</span></p>
 
 <p><span class="chinese">病理检查结果与纤维性结构不良的诊断符合。</span><span class="english">Microscopic examination was consistent with the diagnosis of fibrous dysplasia.</span></p>

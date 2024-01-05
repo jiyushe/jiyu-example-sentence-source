@@ -1,5 +1,7 @@
 # 决一雌雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueyicixiong.md)
+
 <p><span class="chinese">政府肯定要和上院决一雌雄。</span><span class="english">The Government is certain to try conclusions with the House of Lords.</span></p>
 
 <p><span class="chinese">他们摩拳擦掌，极想打架，因此，他们到外面决一雌雄去了。</span><span class="english">They were just spoiling for a fight, and they went out to settle the matter.</span></p>

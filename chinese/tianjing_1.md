@@ -1,5 +1,7 @@
 # 田径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjing_1.md)
+
 <p><span class="chinese">田径，射击，铁饼，链球。</span><span class="english">Athletics, shot, discus, hammer.</span></p>
 
 <p><span class="chinese">这些穿着蓝色田径服的人到底是谁？</span><span class="english">Who are the men in blue tracksuits?</span></p>

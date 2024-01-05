@@ -1,5 +1,7 @@
 # lobelia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobelia.md)
+
 <p><span class="chinese">山梗菜是桔梗科半边莲属植物山梗菜的带根全草。</span><span class="english">Lobelia is Campanula half lotus plants Lobelia sessilifolia Lamb with the whole grass roots.</span></p>
 
 <p><span class="chinese">那边是个客栈，长满苔藓的门口是一簇簇的天竺葵，半边莲和攀缘着的满天星。</span><span class="english">Over there is the inn, with its moss-lined baskets of geraniums , lobelia and gypsophila hanging by the door.</span></p>

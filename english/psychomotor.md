@@ -1,5 +1,7 @@
 # psychomotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychomotor.md)
+
 <p><span class="chinese">目的检验精神运动功能测验项目的有效性。</span><span class="english">Aim To examine the effective of psychomotor function test.</span></p>
 
 <p><span class="chinese">目的探讨精神运动性癫痫儿童的生活质量。</span><span class="english">Objective To study the quality of life of the psychomotor epilepsy children.</span></p>

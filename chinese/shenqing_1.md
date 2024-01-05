@@ -1,5 +1,7 @@
 # 申请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqing_1.md)
+
 <p><span class="chinese">申请就行。</span><span class="english">Just apply.</span></p>
 
 <p><span class="chinese">我该如何去申请？</span><span class="english">How do I apply?</span></p>

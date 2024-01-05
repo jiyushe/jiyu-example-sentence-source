@@ -1,5 +1,7 @@
 # adrenal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrenal.md)
+
 <p><span class="chinese">肾上腺素的任何一组化学元。</span><span class="english">Chromaffin cells of the adrenal medulla.</span></p>
 
 <p><span class="chinese">她的母亲肾上腺机能不全。</span><span class="english">Her mother has an underactive adrenal gland.</span></p>

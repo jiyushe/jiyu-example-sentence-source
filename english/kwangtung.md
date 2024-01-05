@@ -1,5 +1,7 @@
 # kwangtung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kwangtung.md)
+
 <p><span class="chinese">广东桑树萎缩病的症状与江浙黄化型桑树萎缩病基本相同。</span><span class="english">The symptoms of mulberry dwarf in Kwangtung are similar to those reported from EastChina.</span></p>
 
 <p><span class="chinese">1936年蒋介石贿赂广东空军投靠中央政府。</span><span class="english">In 1936 Chiang Kai-shek bribed the Kwangtung air force to defect to the central government.</span></p>

@@ -1,5 +1,7 @@
 # shaving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaving.md)
+
 <p><span class="chinese">请问您是否使用剃须膏呢？</span><span class="english">Do you use shaving cream?</span></p>
 
 <p><span class="chinese">他冲我下巴打了一拳。</span><span class="english">He lathered his chin before shaving.</span></p>

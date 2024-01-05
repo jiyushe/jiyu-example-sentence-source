@@ -1,5 +1,7 @@
 # 民房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minfang.md)
+
 <p><span class="chinese">士兵们征用了民房。</span><span class="english">The soldiers commandeered the houses.</span></p>
 
 <p><span class="chinese">士兵强征民房用作办公室。</span><span class="english">The soldiers commandeered the house to use as offices.</span></p>

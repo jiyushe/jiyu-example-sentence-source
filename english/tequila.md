@@ -1,5 +1,7 @@
 # tequila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tequila.md)
+
 <p><span class="chinese">我喝了太多龙舌酒。</span><span class="english">I think I had too much tequila.</span></p>
 
 <p><span class="chinese">吻，灌满了怒意和龙舌兰的味道。</span><span class="english">Your kiss tastes of anger and Tequila.</span></p>

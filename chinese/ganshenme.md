@@ -1,5 +1,7 @@
 # 干什么
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshenme.md)
+
 <p><span class="chinese">精算师是干什么的？</span><span class="english">What is an Actuary?</span></p>
 
 <p><span class="chinese">他究竟在干什么呢?</span><span class="english">What can he be doing?</span></p>

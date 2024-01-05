@@ -1,5 +1,7 @@
 # striae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striae.md)
+
 <p><span class="chinese">长期使用可以有效地淡化妊娠纹。</span><span class="english">Persistent application could effectively fade striae of pregnancy.</span></p>
 
 <p><span class="chinese">上一次出现这种明显彗尾细纹的彗星是1997年的海尔-波普彗星。</span><span class="english">The last comet to show prominent striae was Comet Hale-Bopp in 1997.</span></p>

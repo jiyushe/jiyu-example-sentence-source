@@ -1,5 +1,7 @@
 # delay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delay.md)
+
 <p><span class="chinese">平均延滞时间?。</span><span class="english">Average Delay Time?</span></p>
 
 <p><span class="chinese">延迟你的反应。</span><span class="english">Delay your reaction.</span></p>

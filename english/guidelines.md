@@ -1,5 +1,7 @@
 # guidelines
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guidelines.md)
+
 <p><span class="chinese">我接受你的箴规。</span><span class="english">Iall take your guidelines.</span></p>
 
 <p><span class="chinese">本准则针对这一空白。</span><span class="english">The guidelines address this gap.</span></p>

@@ -1,5 +1,7 @@
 # deceive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceive.md)
+
 <p><span class="chinese">她不会诓你的。</span><span class="english">She won't deceive you.</span></p>
 
 <p><span class="chinese">谁也蒙不了他。</span><span class="english">Nobody can deceive him.</span></p>

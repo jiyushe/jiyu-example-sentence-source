@@ -1,5 +1,7 @@
 # soundboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundboard.md)
+
 <p><span class="chinese">他的面板要做到怎样的厚度呢？</span><span class="english">What soundboard thickness does he work to?</span></p>
 
 <p><span class="chinese">现在下载和体验终极音板。</span><span class="english">Download now and experience the ultimate soundboard.</span></p>

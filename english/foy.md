@@ -1,5 +1,7 @@
 # foy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foy.md)
+
 <p><span class="chinese">我想在那里呆三个月。</span><span class="english">I'm planning to stay there foy 3 months.</span></p>
 
 <p><span class="chinese">但是，他说民意测验应谨慎解读。</span><span class="english">However, Foy said, the poll should beinterpreted with caution.</span></p>

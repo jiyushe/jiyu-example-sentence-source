@@ -1,5 +1,7 @@
 # 空门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongmen.md)
+
 <p><span class="chinese">他刚错过了一个空门得分的机会。</span><span class="english">He has just missed an open goal.</span></p>
 
 <p><span class="chinese">欧文把球顶入空门。</span><span class="english">Owen headed the ball into an open goal.</span></p>

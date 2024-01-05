@@ -1,5 +1,7 @@
 # 金童玉女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintongyunv.md)
+
 <p><span class="chinese">对，是一对生过孩子的金童玉女！</span><span class="english">Yes, even if we've had a child!</span></p>
 
 <p><span class="chinese">天有牛郞织女，地上金童玉女，唯吾与尔。</span><span class="english">Sasae Weaver cattle days, on the ground, but I and Seoul.</span></p>

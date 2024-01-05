@@ -1,5 +1,7 @@
 # bosnia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bosnia.md)
+
 <p><span class="chinese">世界银行在波斯尼亚和黑塞哥维纳的参与</span><span class="english">The World Bank in Bosnia and Herzegovina</span></p>
 
 <p><span class="chinese">这是第一部参加该影节的波斯尼亚电影。</span><span class="english">Bosnia to be selected to compete in the Festival.</span></p>

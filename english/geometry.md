@@ -1,5 +1,7 @@
 # geometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geometry.md)
+
 <p><span class="chinese">高迪喜欢几何。</span><span class="english">Gaudí loved geometry.</span></p>
 
 <p><span class="chinese">剩下的部分都在那儿？</span><span class="english">Ok, what's the geometry say?</span></p>

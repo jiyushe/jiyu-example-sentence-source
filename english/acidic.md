@@ -1,5 +1,7 @@
 # acidic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidic.md)
+
 <p><span class="chinese">一种酸性成分。</span><span class="english">An acidic ingredient.</span></p>
 
 <p><span class="chinese">如果土壤酸度高则向土壤中加石灰。</span><span class="english">Add lime if the soil is acidic.</span></p>

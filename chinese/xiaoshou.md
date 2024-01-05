@@ -1,5 +1,7 @@
 # 消受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshou.md)
+
 <p><span class="chinese">反正我左右消受不起。</span><span class="english">I bestow it right and left.</span></p>
 
 <p><span class="chinese">我没有胃口，因而无福消受。</span><span class="english">Having no appetite, I did not enjoy it.</span></p>

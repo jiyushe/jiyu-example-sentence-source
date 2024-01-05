@@ -1,5 +1,7 @@
 # sphenoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphenoid.md)
+
 <p><span class="chinese">单一蝶窦之麴菌感染则甚少见。</span><span class="english">Isolated aspergillosis of the sphenoid sinus is very rare.</span></p>
 
 <p><span class="chinese">一般蝶窦可以在此点进行开放。</span><span class="english">This sphenoid can usually be opened inferiorly at this site.</span></p>

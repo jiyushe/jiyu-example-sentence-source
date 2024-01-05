@@ -1,5 +1,7 @@
 # crossbeam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossbeam.md)
+
 <p><span class="chinese">厂房的横梁是用丁字钢搭建而成的。</span><span class="english">The crossbeam of this workshop is made of T-shaped steel.</span></p>
 
 <p><span class="chinese">连接大梁和三角孔桁梁顶点的支柱。</span><span class="english">Connecting the crossbeam to the apex of a triangular truss.</span></p>

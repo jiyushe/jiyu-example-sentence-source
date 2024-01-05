@@ -1,5 +1,7 @@
 # 校徽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohui_1.md)
+
 <p><span class="chinese">我们把校徽别在外套上。</span><span class="english">We wear the school badge on our coats.</span></p>
 
 <p><span class="chinese">每个学生都应该佩带校徽。</span><span class="english">Every student should carry a school badge.</span></p>

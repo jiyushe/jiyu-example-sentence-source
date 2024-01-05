@@ -1,5 +1,7 @@
 # unqualified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unqualified.md)
+
 <p><span class="chinese">我自觉无资格就此问题发言。</span><span class="english">I feel unqualified to speak on the subject.</span></p>
 
 <p><span class="chinese">新经理解雇了所有不胜任工作的工人。</span><span class="english">The new manager kissed all unqualified workers off.</span></p>

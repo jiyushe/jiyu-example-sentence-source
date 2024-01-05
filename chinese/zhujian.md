@@ -1,5 +1,7 @@
 # 主见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujian.md)
+
 <p><span class="chinese">我讨厌所有没有主见的人。</span><span class="english">I don't like all yes-men.</span></p>
 
 <p><span class="chinese">我只是个被娇惯坏了的西方人，一个没有主见的人。</span><span class="english">I am just a pampered Western wuss.</span></p>

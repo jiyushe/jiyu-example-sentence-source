@@ -1,5 +1,7 @@
 # 牛鼻子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niubizi.md)
+
 <p><span class="chinese">牵牛要牵牛鼻子。</span><span class="english">We must lead an ox by the halter.</span></p>
 
 <p><span class="chinese">这被牛鼻子字富有的身体本文然后跟随。</span><span class="english">This is then followed by keyword rich body text.</span></p>

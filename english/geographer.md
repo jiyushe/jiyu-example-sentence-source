@@ -1,5 +1,7 @@
 # geographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geographer.md)
+
 <p><span class="chinese">李四光是一位著名的地理学家。</span><span class="english">Li Siguang is a famous geographer.</span></p>
 
 <p><span class="chinese">我将来要成为一名地理学者。</span><span class="english">I want to be a geographer in the future.</span></p>

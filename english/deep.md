@@ -1,5 +1,7 @@
 # deep 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deep.md)
+
 <p><span class="chinese">挖得深一些。</span><span class="english">Dig Deep.</span></p>
 
 <p><span class="chinese">深邃的宝石红。</span><span class="english">Deep ruby-red.</span></p>

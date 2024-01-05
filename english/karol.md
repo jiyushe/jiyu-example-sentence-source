@@ -1,5 +1,7 @@
 # karol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karol.md)
+
 <p><span class="chinese">在里，卡罗看著这一幕笑了，因为他看到了还有人比他惨。</span><span class="english">In "White" Karol smiles because he realizes this is the one person worse off than he is.</span></p>
 
 <p><span class="chinese">临近大学毕业时南宫像她求婚，她却开始踌躇不定。</span><span class="english">Wood proposed to her in the eve of their university graduation, but this time Karol hesitated.</span></p>

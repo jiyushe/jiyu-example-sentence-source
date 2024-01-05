@@ -1,5 +1,7 @@
 # transmissive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmissive.md)
+
 <p><span class="chinese">实际测量了该系统的传输效率。</span><span class="english">The transmissive efficiency of the system is measured.</span></p>
 
 <p><span class="chinese">介绍一种宽带、透射式红外辐射温度计。</span><span class="english">A wideband transmissive infrared radiation thermometer is introduced.</span></p>

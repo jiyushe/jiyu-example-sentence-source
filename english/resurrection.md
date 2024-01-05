@@ -1,5 +1,7 @@
 # resurrection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resurrection.md)
+
 <p><span class="chinese">这就是，肉体复活的概念“</span><span class="english">bodily resurrection."</span></p>
 
 <p><span class="chinese">这一切再也不能死而复苏。</span><span class="english">There would be no resurrection.</span></p>

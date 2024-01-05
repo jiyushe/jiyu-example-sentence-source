@@ -1,5 +1,7 @@
 # cognac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognac.md)
+
 <p><span class="chinese">我只要小杯黑咖啡，也要法国白兰地。</span><span class="english">I'll take just demitasse and also Cognac.</span></p>
 
 <p><span class="chinese">你想在咖啡之外再来一杯科尼亚克白兰地酒吗?。</span><span class="english">Would you like a cognac with your coffee?</span></p>

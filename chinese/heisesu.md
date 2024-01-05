@@ -1,5 +1,7 @@
 # 黑色素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heisesu.md)
+
 <p><span class="chinese">大多数黑色素瘤是黑色或褐色的。</span><span class="english">Most melanomas are black or brown.</span></p>
 
 <p><span class="chinese">但是，当黑色素瘤的转移，当心了。</span><span class="english">But when melanoma metastasizes, watch out.</span></p>

@@ -1,5 +1,7 @@
 # 转借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanjie.md)
+
 <p><span class="chinese">转借、转让用户帐号的。</span><span class="english">Lending or transferring accounts.</span></p>
 
 <p><span class="chinese">用户帐号不得转借、转让。</span><span class="english">Accounts may not be lent or transferred.</span></p>

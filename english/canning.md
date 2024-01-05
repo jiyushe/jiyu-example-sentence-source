@@ -1,5 +1,7 @@
 # canning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canning.md)
+
 <p><span class="chinese">罐装食品可以久存。</span><span class="english">The canning food can save.</span></p>
 
 <p><span class="chinese">你能扶我回得了家吗？。</span><span class="english">Can your canning hand me return to home?.</span></p>

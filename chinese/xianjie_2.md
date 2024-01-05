@@ -1,5 +1,7 @@
 # 限界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjie_2.md)
+
 <p><span class="chinese">你们双方都不允许越过限界一步！</span><span class="english">None of you can walk past the boundary.</span></p>
 
 <p><span class="chinese">或许，不定期的想一下我们的限界比较好。</span><span class="english">We might do better to periodically consider our limits.</span></p>

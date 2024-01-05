@@ -1,5 +1,7 @@
 # 神经病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingbing.md)
+
 <p><span class="chinese">你是神经病。</span><span class="english">You are psycho.</span></p>
 
 <p><span class="chinese">我觉得我就像得了神经病。</span><span class="english">I felt like I was sick.</span></p>

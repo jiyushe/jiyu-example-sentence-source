@@ -1,5 +1,7 @@
 # decoder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoder.md)
+
 <p><span class="chinese">可变长度译码器?。</span><span class="english">VLD? Variable – Length Decoder?</span></p>
 
 <p><span class="chinese">改善Vorbis音频解码器的性能。</span><span class="english">Improve Vorbis audio decoder performance.</span></p>

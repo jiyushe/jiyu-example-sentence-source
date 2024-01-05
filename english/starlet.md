@@ -1,5 +1,7 @@
 # starlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starlet.md)
+
 <p><span class="chinese">有个成天梦想成星的小姑娘，长途飞行期间，身边坐着一个律师。</span><span class="english">A starlet is seated next to a lawyer on a long flight.</span></p>
 
 <p><span class="chinese">利物浦正尾百度行西班牙新星凯文·拉克鲁兹。</span><span class="english">Liverpool are on the trail of Spanish starlet Kevin Lacruz.</span></p>

@@ -1,5 +1,7 @@
 # 紫外线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwaixian.md)
+
 <p><span class="chinese">这是在紫外线金属光泽的银。</span><span class="english">That is UV metallized in glossy silver.</span></p>
 
 <p><span class="chinese">该材料抗紫外线且耐用。</span><span class="english">The material is UV-resistant and durable.</span></p>

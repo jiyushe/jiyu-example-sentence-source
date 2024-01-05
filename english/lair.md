@@ -1,5 +1,7 @@
 # lair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lair.md)
+
 <p><span class="chinese">一只藏在窝里的狼。</span><span class="english">A wolf in its lair.</span></p>
 
 <p><span class="chinese">这个村子曾一度是海盗藏匿之处。</span><span class="english">The village was once a pirates' lair.</span></p>

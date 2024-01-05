@@ -1,5 +1,7 @@
 # mony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mony.md)
+
 <p><span class="chinese">然后我就可以赚到更多的钱了。</span><span class="english">Then I can earn more mony.</span></p>
 
 <p><span class="chinese">多少个快活日子，约翰。</span><span class="english">And mony a canty day, john.</span></p>

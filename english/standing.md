@@ -1,5 +1,7 @@
 # standing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standing.md)
+
 <p><span class="chinese">从站直开始。</span><span class="english">Begin by standing tall.</span></p>
 
 <p><span class="chinese">我就系个度。</span><span class="english">I am standing right there.</span></p>

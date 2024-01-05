@@ -1,5 +1,7 @@
 # enchant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchant.md)
+
 <p><span class="chinese">防具增强卷轴使用到项链上将不起作用。</span><span class="english">Scrolls of enchant armor will not work on these items.</span></p>
 
 <p><span class="chinese">她需要开士米羊毛的标签来增加年龄的魅力。</span><span class="english">She needs the tickle of cashmere to enchant for the ages.</span></p>

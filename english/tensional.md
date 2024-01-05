@@ -1,5 +1,7 @@
 # tensional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tensional.md)
+
 <p><span class="chinese">我可以感觉到房间里的紧张气氛。</span><span class="english">I can feel the room's tensional atmosphere.</span></p>
 
 <p><span class="chinese">在正义的价值体系里，各种价值处于张力的关系中。</span><span class="english">In the value system of justice, all values keep in tensional relationship.</span></p>

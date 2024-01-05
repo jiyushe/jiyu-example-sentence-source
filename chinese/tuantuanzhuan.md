@@ -1,5 +1,7 @@
 # 团团转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuantuanzhuan.md)
+
 <p><span class="chinese">我每天都被工作围得团团转。</span><span class="english">I'm bombarded with work every day.</span></p>
 
 <p><span class="chinese">她在厨房里忙得团团转。</span><span class="english">She bustled around in the kitchen.</span></p>

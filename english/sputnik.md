@@ -1,5 +1,7 @@
 # sputnik
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sputnik.md)
+
 <p><span class="chinese">史泼尼克卫星2号带了一只狗到太空中。</span><span class="english">Sputnik 2 put a dog into space.</span></p>
 
 <p><span class="chinese">不难想见为什么史泼尼克时代那么吸引奥巴马先生。</span><span class="english">It is not hard to see why the Sputnik era appeals to Mr Obama.</span></p>

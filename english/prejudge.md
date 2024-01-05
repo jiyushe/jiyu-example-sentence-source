@@ -1,5 +1,7 @@
 # prejudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prejudge.md)
+
 <p><span class="chinese">你不要有偏见。</span><span class="english">You don't prejudge.</span></p>
 
 <p><span class="chinese">不要过早对这个问题下判断。</span><span class="english">Try not to prejudge the issue.</span></p>

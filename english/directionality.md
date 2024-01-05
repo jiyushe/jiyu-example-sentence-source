@@ -1,5 +1,7 @@
 # directionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directionality.md)
+
 <p><span class="chinese">不过，方向是一直是很明确的。</span><span class="english">Nevertheless, the directionality was clear and consistent.</span></p>
 
 <p><span class="chinese">他们好像有些方向性方面的问。也就是说，他们迷失了方向。</span><span class="english">They seemed to have problems with directionality. In other words, they got lost.</span></p>

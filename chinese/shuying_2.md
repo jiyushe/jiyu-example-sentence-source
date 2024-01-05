@@ -1,5 +1,7 @@
 # 输赢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuying_2.md)
+
 <p><span class="chinese">那场比赛的输赢事先已讲定。</span><span class="english">That game is fixed.</span></p>
 
 <p><span class="chinese">而我，就在不远处，默默的看着，一场没有输赢的博弈。</span><span class="english">And I, not far away, quietly watching, a no-win game.</span></p>

@@ -1,5 +1,7 @@
 # 原作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzuo.md)
+
 <p><span class="chinese">最终他们同意将我列为原作的合著者。</span><span class="english">Finally agreed on co-authorship.</span></p>
 
 <p><span class="chinese">这本书是从原作删略而成的。</span><span class="english">It was abridged from to original work.</span></p>

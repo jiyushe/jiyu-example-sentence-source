@@ -1,5 +1,7 @@
 # 木构
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mugou.md)
+
 <p><span class="chinese">这座木构教堂是被搬运到这儿并重建的。</span><span class="english">The wooden churches were transported here and reconstructed.</span></p>
 
 <p><span class="chinese">木构的梁柱为未来的功能空间提供了一个框架。</span><span class="english">Wooden columns and beams create the framework for future rooms.</span></p>

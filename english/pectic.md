@@ -1,5 +1,7 @@
 # pectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pectic.md)
+
 <p><span class="chinese">富含半乳糖醛酸的果胶主链断裂。</span><span class="english">Ruptures of the pectic main chains rich in galacturonic acid occurred.</span></p>
 
 <p><span class="chinese">果胶酶是指分解果胶物质的多种酶的总称。</span><span class="english">Pecfinase is a heterogeneous group of related enzymes that hydrolyze the pectic substances.</span></p>

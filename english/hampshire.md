@@ -1,5 +1,7 @@
 # hampshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hampshire.md)
+
 <p><span class="chinese">圣若瑟医院，新罕布什尔州纳舒厄。</span><span class="english">St. Joseph Hospital, Nashua, New Hampshire.</span></p>
 
 <p><span class="chinese">他目前居住美国新罕布什尔州朴次茅斯市。</span><span class="english">He currently resides in Portsmouth, New Hampshire.</span></p>

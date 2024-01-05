@@ -1,5 +1,7 @@
 # overcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcast.md)
+
 <p><span class="chinese">天阴了。</span><span class="english">The sky is overcast.</span></p>
 
 <p><span class="chinese">天色灰蒙蒙的。</span><span class="english">The sky was overcast.</span></p>

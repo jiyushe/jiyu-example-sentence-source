@@ -1,5 +1,7 @@
 # vinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinous.md)
+
 <p><span class="chinese">带有红水果和桑娇维塞特有的酒香。</span><span class="english">It has Red fruits and characteristic vinous taste.</span></p>
 
 <p><span class="chinese">深深的宝石红，伴随这怡人的葡萄酒的香气。</span><span class="english">Deep ruby-red coloured with a pleasant vinous bouquet.</span></p>

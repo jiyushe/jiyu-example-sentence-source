@@ -1,5 +1,7 @@
 # gatehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gatehouse.md)
+
 <p><span class="chinese">大城门楼分为主楼和侧楼。</span><span class="english">City gatehouse into the main building and wing.</span></p>
 
 <p><span class="chinese">第一景观，大城门楼。</span><span class="english">The first landscape, the city of the gatehouse.</span></p>

@@ -1,5 +1,7 @@
 # 定论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinglun.md)
+
 <p><span class="chinese">然而，研究人员认为不能那么快下定论。</span><span class="english">Well, the researchers say, not so fast.</span></p>
 
 <p><span class="chinese">她的书是论述密尔顿的定论性著作。</span><span class="english">Her book is the definitive works on Milton.</span></p>

@@ -1,5 +1,7 @@
 # causally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causally.md)
+
 <p><span class="chinese">有些人丢弃的胶袋因果。</span><span class="english">Some people throw away plastic bags causally.</span></p>
 
 <p><span class="chinese">作为自然的一部分，人类的行为是由因果关系所决定的。</span><span class="english">As part of nature, human action is causally determined.</span></p>

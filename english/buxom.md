@@ -1,5 +1,7 @@
 # buxom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buxom.md)
+
 <p><span class="chinese">简是一个性感的金发女郎。</span><span class="english">Jane is a buxom blond.</span></p>
 
 <p><span class="chinese">简是一个高大而漂亮的金发女郎。</span><span class="english">Jane is a buxom blond.</span></p>

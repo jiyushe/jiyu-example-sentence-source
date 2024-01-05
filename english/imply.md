@@ -1,5 +1,7 @@
 # imply 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imply.md)
+
 <p><span class="chinese">但沉默不意指默认。</span><span class="english">But silence didn't imply consent.</span></p>
 
 <p><span class="chinese">那么，这对中国意味着什么？</span><span class="english">So what does this imply for China?</span></p>

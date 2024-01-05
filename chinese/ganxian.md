@@ -1,5 +1,7 @@
 # 干线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxian.md)
+
 <p><span class="chinese">昆千贡在一条交通主干线上。</span><span class="english">Kungyangon is on a main road.</span></p>
 
 <p><span class="chinese">阿克伦最长的干线是市场街。</span><span class="english">Akron's longest artery is Market Street.</span></p>

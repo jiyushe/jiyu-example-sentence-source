@@ -1,5 +1,7 @@
 # 到顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoding.md)
+
 <p><span class="chinese">他出丑还没有出到顶点。</span><span class="english">He did not want to be pinnacled.</span></p>
 
 <p><span class="chinese">警卫看见了你和兰缇一起，上到顶楼。</span><span class="english">The guards saw you with Lentil. Up at the penthouse.</span></p>

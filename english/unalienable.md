@@ -1,5 +1,7 @@
 # unalienable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unalienable.md)
+
 <p><span class="chinese">不可剥夺的权利。</span><span class="english">Unalienable rights.</span></p>
 
 <p><span class="chinese">不可剥夺“是什么意思？</span><span class="english">What does "Unalienable" Mean?</span></p>

@@ -1,5 +1,7 @@
 # strasbourg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strasbourg.md)
+
 <p><span class="chinese">他今年4月曾在法国东部城市斯特拉斯堡出席北约组织峰议。</span><span class="english">In April, he attended a NATO summit in the eastern city of Strasbourg.</span></p>
 
 <p><span class="chinese">斯特拉斯堡的民众在1518年遭受了饥荒。</span><span class="english">In Strasbourg in 1518, the community had recently suffered from famine.</span></p>

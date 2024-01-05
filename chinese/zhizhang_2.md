@@ -1,5 +1,7 @@
 # 滞胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhang_2.md)
+
 <p><span class="chinese">但是，中国滞胀对投资者意味着什么呢？</span><span class="english">But what does a Chinese stagflation means for investors?</span></p>
 
 <p><span class="chinese">正是79-82年的滞胀，使我成为了一个笃诚的“咸水派经济学家”2。</span><span class="english">It was 79-82 that made me a convinced saltwater economist.</span></p>

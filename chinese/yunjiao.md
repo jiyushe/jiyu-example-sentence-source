@@ -1,5 +1,7 @@
 # 韵脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunjiao.md)
+
 <p><span class="chinese">它以朗朗上口的韵脚来帮助他们记起月份。</span><span class="english">It helps them memorize the months with a catchy rhyme.</span></p>
 
 <p><span class="chinese">通通都可以，大部分的韵脚都是重新写过，不过背诵歌词对他们来说是一件无聊透顶的事。</span><span class="english">Most rhymes are prewritten, but it is a sin to recite the rhymes off the paper.</span></p>

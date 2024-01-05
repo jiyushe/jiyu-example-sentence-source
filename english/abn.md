@@ -1,5 +1,7 @@
 # abn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abn.md)
+
 <p><span class="chinese">随后荷银发表声明表示，它将仔细审察判决的执行情况。</span><span class="english">In a statement, ABN said it will examine the ruling's implications.</span></p>
 
 <p><span class="chinese">同时该银行又需要支付去年收购荷兰银行的昂贵费用。</span><span class="english">It also has to finance an expensive takeover of the Dutch bank ABN -Amro last year.</span></p>

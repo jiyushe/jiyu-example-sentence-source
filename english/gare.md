@@ -1,5 +1,7 @@
 # gare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gare.md)
+
 <p><span class="chinese">巴黎火车北站地铁站的外部装饰。</span><span class="english">Exterior, Gare du Nord railway station.</span></p>
 
 <p><span class="chinese">译裁判员以不容反对的神气作出了决定。</span><span class="english">The umpire gare his decision with an airadmitting of no gainsay.</span></p>

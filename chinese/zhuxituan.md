@@ -1,5 +1,7 @@
 # 主席团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxituan.md)
+
 <p><span class="chinese">主席团由一百四十八位代表组成。</span><span class="english">The presidium consists of 148 delegates.</span></p>
 
 <p><span class="chinese">主席团决定今天晚上的会议另选会场。</span><span class="english">The presidium has decided to hold this evening's meeting elsewhere.</span></p>

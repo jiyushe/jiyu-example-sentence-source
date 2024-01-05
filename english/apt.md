@@ -1,5 +1,7 @@
 # apt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apt.md)
+
 <p><span class="chinese">这很贴切。</span><span class="english">This is apt.</span></p>
 
 <p><span class="chinese">这是一个恰当的评论。</span><span class="english">It was an apt comment.</span></p>

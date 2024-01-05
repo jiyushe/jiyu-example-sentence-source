@@ -1,5 +1,7 @@
 # windward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windward.md)
+
 <p><span class="chinese">我们的船顶风逆浪航行。</span><span class="english">Our ship thrashed to windward.</span></p>
 
 <p><span class="chinese">法国位于欧洲迎风的一面。</span><span class="english">France lies on the windward side of Europ.</span></p>

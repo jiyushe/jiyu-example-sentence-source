@@ -1,5 +1,7 @@
 # exteriority
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exteriority.md)
+
 <p><span class="chinese">因此，意向性还原性的指向了所有外在性的内在。</span><span class="english">Intentionality thus points reductively to the immanence of all exteriority.</span></p>
 
 <p><span class="chinese">这种动态效果与克服产权制度的外部性有关。</span><span class="english">This dynamic effect is related to tiding over exteriority of property system.</span></p>

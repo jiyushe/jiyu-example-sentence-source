@@ -1,5 +1,7 @@
 # sad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sad.md)
+
 <p><span class="chinese">多么凄惨的景象!</span><span class="english">What a sad scene!</span></p>
 
 <p><span class="chinese">可是你似乎很伤心。</span><span class="english">You seemed so sad.</span></p>

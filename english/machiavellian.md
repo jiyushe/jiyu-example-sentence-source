@@ -1,5 +1,7 @@
 # machiavellian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machiavellian.md)
+
 <p><span class="chinese">马基雅维利是一位马基雅维利主义者吗？，我们。</span><span class="english">Was Machiavelli a Machiavellian? Let's see.</span></p>
 
 <p><span class="chinese">这就形成了权谋文化的虚伪性。</span><span class="english">This forms the hypocrisy of Machiavellian culture.</span></p>

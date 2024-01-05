@@ -1,5 +1,7 @@
 # 商贾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggu_1.md)
+
 <p><span class="chinese">都市宏开，商贾际会。</span><span class="english">The city is fully open and merchants gathering.</span></p>
 
 <p><span class="chinese">然后又说，韩信不能“治生商贾”。</span><span class="english">Then added, Hanshin can not "rule of Health merchants."</span></p>

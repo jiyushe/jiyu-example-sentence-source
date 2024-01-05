@@ -1,5 +1,7 @@
 # 追查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuizha.md)
+
 <p><span class="chinese">知道为什么我追查你到这里？</span><span class="english">Do you know why I do what I do?</span></p>
 
 <p><span class="chinese">帕克追查到格罗斯曼一家。</span><span class="english">Parker tracked down the Grossmans.</span></p>

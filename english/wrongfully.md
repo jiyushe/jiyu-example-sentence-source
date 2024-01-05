@@ -1,5 +1,7 @@
 # wrongfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrongfully.md)
+
 <p><span class="chinese">正义的完美成不义的丢脸。</span><span class="english">And right perfection wrongfully disgraced.</span></p>
 
 <p><span class="chinese">谣言这条毒蛇对我进行了恶意中伤。</span><span class="english">Slander , the viper , has wrongfully accused me.</span></p>

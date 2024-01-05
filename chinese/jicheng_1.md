@@ -1,5 +1,7 @@
 # 集成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jicheng_1.md)
+
 <p><span class="chinese">构建和集成。</span><span class="english">Builds and integration.</span></p>
 
 <p><span class="chinese">关注的集成。</span><span class="english">Integration of concerns.</span></p>

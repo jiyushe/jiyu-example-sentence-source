@@ -1,5 +1,7 @@
 # haystack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haystack.md)
+
 <p><span class="chinese">就是大海捞针。</span><span class="english">It is a needle in a haystack.</span></p>
 
 <p><span class="chinese">这堆干草可是无穷庞大。</span><span class="english">That haystack is infinitely large.</span></p>

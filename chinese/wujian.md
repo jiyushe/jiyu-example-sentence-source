@@ -1,5 +1,7 @@
 # 午间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujian.md)
+
 <p><span class="chinese">一般的工作餐多在午间进行。</span><span class="english">General lunch at noon in more.</span></p>
 
 <p><span class="chinese">在每一个早晨、午间和夜晚。</span><span class="english">every morning, noon and night.</span></p>

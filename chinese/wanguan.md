@@ -1,5 +1,7 @@
 # 万贯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanguan.md)
+
 <p><span class="chinese">不要追求万贯家产，财富也会散尽。</span><span class="english">Don't go for wealth even that fades away.</span></p>
 
 <p><span class="chinese">从一无所有到家财万贯-,这是精彩而鼓舞人心的生活。</span><span class="english">Rags to riches-- that's a wonderful, inspiring life.</span></p>

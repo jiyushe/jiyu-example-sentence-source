@@ -1,5 +1,7 @@
 # 环子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanzi.md)
+
 <p><span class="chinese">奥林匹克的五个环子代表什么？</span><span class="english">What do the five Olympic rings stand for ?</span></p>
 
 <p><span class="chinese">我就把环子戴在她鼻子上，把镯子戴在她两手上。</span><span class="english">I put the ring in her nose and the bracelets on her arms</span></p>

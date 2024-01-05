@@ -1,5 +1,7 @@
 # 聆听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingting.md)
+
 <p><span class="chinese">所以，去聆听音乐吧。</span><span class="english">So go for music!</span></p>
 
 <p><span class="chinese">而我总会颔首聆听。</span><span class="english">I nod and listen.</span></p>

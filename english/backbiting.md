@@ -1,5 +1,7 @@
 # backbiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backbiting.md)
+
 <p><span class="chinese">那些话是中伤之言。</span><span class="english">Words that are backbiting words.</span></p>
 
 <p><span class="chinese">你不要背后诽谤人。</span><span class="english">You should refrain your tongue from backbiting.</span></p>

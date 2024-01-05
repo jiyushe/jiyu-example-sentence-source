@@ -1,5 +1,7 @@
 # 挽回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanhui.md)
+
 <p><span class="chinese">我的不可挽回的决定可以等待。</span><span class="english">My irrevocable decision could wait.</span></p>
 
 <p><span class="chinese">我们必须以某种方式挽回损失。</span><span class="english">We must recover our losses somehow.</span></p>

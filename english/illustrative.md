@@ -1,5 +1,7 @@
 # illustrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illustrative.md)
+
 <p><span class="chinese">我引用了几句话来加以说明。</span><span class="english">I have some illustrative quotes here.</span></p>
 
 <p><span class="chinese">但是该过程的作用并不局限于此。</span><span class="english">But the process is more illustrative than that.</span></p>

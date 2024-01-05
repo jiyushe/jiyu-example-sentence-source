@@ -1,5 +1,7 @@
 # 世代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidai.md)
+
 <p><span class="chinese">项氏世代为楚将。</span><span class="english">For a generation of chu"s will."</span></p>
 
 <p><span class="chinese">这是现世代版本的情况。</span><span class="english">That's the current-gen version then.</span></p>

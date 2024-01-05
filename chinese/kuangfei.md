@@ -1,5 +1,7 @@
 # 狂吠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangfei.md)
+
 <p><span class="chinese">狂吠的狗咧嘴龇牙。</span><span class="english">A snarling dog  grins.</span></p>
 
 <p><span class="chinese">一只狗狂吠着朝他冲来。</span><span class="english">A barking dog charged at him.</span></p>

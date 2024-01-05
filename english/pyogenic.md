@@ -1,5 +1,7 @@
 # pyogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyogenic.md)
+
 <p><span class="chinese">化脓性骶髂关节炎是一种很少发生的疾病。</span><span class="english">Pyogenic sacroiliitis is a rarely occurring disease.</span></p>
 
 <p><span class="chinese">目的改进急性化脓性关节炎的治疗方法。</span><span class="english">Objective To improve the treatment of acute pyogenic arthritis.</span></p>

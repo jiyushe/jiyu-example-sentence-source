@@ -1,5 +1,7 @@
 # 焦距
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoju.md)
+
 <p><span class="chinese">这影像的焦距没调好。</span><span class="english">The image is out of focus.</span></p>
 
 <p><span class="chinese">焦距长底随透镜的厚度而变化。</span><span class="english">This is a long focus lens.</span></p>

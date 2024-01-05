@@ -1,5 +1,7 @@
 # 漫无边际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manwubianji.md)
+
 <p><span class="chinese">这个老人漫无边际的聊着他的青年时代。</span><span class="english">The old man rambled about his youth.</span></p>
 
 <p><span class="chinese">老人漫无边际地闲谈他的青年时代。</span><span class="english">The old man rambled on about his youth.</span></p>

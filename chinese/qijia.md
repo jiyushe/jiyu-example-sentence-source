@@ -1,5 +1,7 @@
 # 起价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijia.md)
+
 <p><span class="chinese">汽油价格变相提高，电费起价，已是一个例子。</span><span class="english">Petrol prices increased in disguise and TNB price increase, is one example.</span></p>
 
 <p><span class="chinese">这些起价仅为6990英镑的一流毫宅吸引了不少人。</span><span class="english">These award-winning homes from only ￡6990 have attracted quite a few people.</span></p>

@@ -1,5 +1,7 @@
 # 抒情诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuqingshi.md)
+
 <p><span class="chinese">这首抒情诗唱起好听。</span><span class="english">This lyric sings well.</span></p>
 
 <p><span class="chinese">但他的抒情诗艺术将永世长存。</span><span class="english">But the art of his lyrics will endure.</span></p>

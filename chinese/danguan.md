@@ -1,5 +1,7 @@
 # 胆管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danguan.md)
+
 <p><span class="chinese">肝内胆管结石必须开刀手术吗？</span><span class="english">Intrahepatic bile duct stones have surgery surgery?</span></p>
 
 <p><span class="chinese">有时候，内镜逆行胰胆管造影还可以用来清除胰腺结石。</span><span class="english">Occasionally, pancreatic stones can be removed by ERCP.</span></p>

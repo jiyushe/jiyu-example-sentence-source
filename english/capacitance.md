@@ -1,5 +1,7 @@
 # capacitance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capacitance.md)
+
 <p><span class="chinese">直流火花机技术对用于电容没有问题。</span><span class="english">DC technology has no problem with capacitance.</span></p>
 
 <p><span class="chinese">介绍一种新型电容测微仪。</span><span class="english">A new type of capacitance micrometer is introduced.</span></p>

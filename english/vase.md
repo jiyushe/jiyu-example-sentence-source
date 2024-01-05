@@ -1,5 +1,7 @@
 # vase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vase.md)
+
 <p><span class="chinese">她打碎了一只花瓶。</span><span class="english">She broke a vase.</span></p>
 
 <p><span class="chinese">我能够看龙舟赛。</span><span class="english">I can watch boat vase.</span></p>

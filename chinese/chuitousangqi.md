@@ -1,5 +1,7 @@
 # 垂头丧气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuitousangqi.md)
+
 <p><span class="chinese">汉密尔顿看起来垂头丧气。</span><span class="english">Hamilton looks crestfallen.</span></p>
 
 <p><span class="chinese">我就垂头丧气的走回家。</span><span class="english">I was crestfallen to go home.</span></p>

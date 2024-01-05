@@ -1,5 +1,7 @@
 # commence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commence.md)
+
 <p><span class="chinese">演出马上就开始。</span><span class="english">The performances will commence in a minute.</span></p>
 
 <p><span class="chinese">斗牛在二十分钟后开始。</span><span class="english">The bull-fight was to commence in twenty minutes.</span></p>

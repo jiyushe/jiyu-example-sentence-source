@@ -1,5 +1,7 @@
 # 遣散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiansan.md)
+
 <p><span class="chinese">战后军人都遣散了。</span><span class="english">After the war the soldiers were demobilised.</span></p>
 
 <p><span class="chinese">这个团于战争结束时被遣散了。</span><span class="english">At the end of  the war the regiment disbanded.</span></p>

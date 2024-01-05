@@ -1,5 +1,7 @@
 # nightclub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightclub.md)
+
 <p><span class="chinese">附近有一家很好的夜总会。</span><span class="english">There is a very good nightclub nearby.</span></p>
 
 <p><span class="chinese">这就像是夜总会中的保镖。</span><span class="english">This is like a bouncer in a nightclub.</span></p>

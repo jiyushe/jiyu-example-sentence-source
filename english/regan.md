@@ -1,5 +1,7 @@
 # regan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regan.md)
+
 <p><span class="chinese">罗森鲍姆认为里根能击败吉米·卡特。</span><span class="english">Rosenbaum thinks Regan can beat Jimmy Carter.</span></p>
 
 <p><span class="chinese">里根总统和他的女牛仔似的妻子南茜住在农场里。</span><span class="english">President Regan lived on a ranch with his cowgirl wife, Nancy.</span></p>

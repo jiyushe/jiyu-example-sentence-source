@@ -1,5 +1,7 @@
 # Turkish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkish.md)
+
 <p><span class="chinese">他非常想喝到土耳其咖啡。</span><span class="english">He thirsted for Turkish coffee.</span></p>
 
 <p><span class="chinese">自由小屋外的土耳其徽章。</span><span class="english">Turkish emblems on Freedom House.</span></p>

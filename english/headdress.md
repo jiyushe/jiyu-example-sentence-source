@@ -1,5 +1,7 @@
 # headdress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headdress.md)
+
 <p><span class="chinese">头戴传统发饰、脸上画着传统图案的男子。</span><span class="english">Man in traditional headdress and face paint.</span></p>
 
 <p><span class="chinese">这位男士头饰上的字代表着“灵魂”的意思。</span><span class="english">The character on this man's headdress means "spirit".</span></p>

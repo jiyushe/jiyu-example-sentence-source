@@ -1,5 +1,7 @@
 # 过期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoqi.md)
+
 <p><span class="chinese">你的签证已过期。</span><span class="english">Your visa has expired.</span></p>
 
 <p><span class="chinese">我的信用卡过期了。</span><span class="english">My credit card is expired.</span></p>

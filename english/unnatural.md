@@ -1,5 +1,7 @@
 # unnatural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unnatural.md)
+
 <p><span class="chinese">这是反常的。</span><span class="english">This is unnatural.</span></p>
 
 <p><span class="chinese">上装过于浓艳看上去不自然。</span><span class="english">Too much make-up looks unnatural.</span></p>

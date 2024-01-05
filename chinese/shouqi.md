@@ -1,5 +1,7 @@
 # 受气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouqi.md)
+
 <p><span class="chinese">以免你因我的悲罪蒙羞受气。</span><span class="english">Lest my bewailed guilt should do thee shame.</span></p>
 
 <p><span class="chinese">就连我买东西都受气，我傻啊。</span><span class="english">Even I bought everything Shouqi , I stupid ah.</span></p>

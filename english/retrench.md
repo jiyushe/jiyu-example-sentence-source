@@ -1,5 +1,7 @@
 # retrench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrench.md)
+
 <p><span class="chinese">为了弥补赤字，他们必须压缩开支。</span><span class="english">They must retrench their expenditure for the purpose of making up the deficit.</span></p>
 
 <p><span class="chinese">随着大手大脚的消费者缩减支出，预计将有更多的传统商家关门大吉。</span><span class="english">Expect more bricks and mortar stores to close as overstretched consumers retrench.</span></p>

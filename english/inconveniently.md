@@ -1,5 +1,7 @@
 # inconveniently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconveniently.md)
+
 <p><span class="chinese">此产品在测试过程中，造成不便请谅解。</span><span class="english">Product is testing, creates inconveniently please forgives!</span></p>
 
 <p><span class="chinese">另外一些是位于郊区的办公园，一切都是那么不方便。</span><span class="english">Others are in suburban office parks inconveniently removed from everything.</span></p>

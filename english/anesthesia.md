@@ -1,5 +1,7 @@
 # anesthesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anesthesia.md)
+
 <p><span class="chinese">我们必须先给你点局麻。</span><span class="english">You must be given local anesthesia first.</span></p>
 
 <p><span class="chinese">罂粟壳属于麻醉药品管理。</span><span class="english">Mecon shell belongs to anesthesia medicine.</span></p>

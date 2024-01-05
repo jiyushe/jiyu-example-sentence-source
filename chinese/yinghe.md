@@ -1,5 +1,7 @@
 # 应和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghe.md)
+
 <p><span class="chinese">婴儿应和母亲在一起生活。</span><span class="english">A baby belongs with its mother.</span></p>
 
 <p><span class="chinese">是啾啾的蟋蟀在跟你的琵琶应和！</span><span class="english">My cricket chirps against thy mandolin.</span></p>

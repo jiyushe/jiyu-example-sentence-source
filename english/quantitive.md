@@ -1,5 +1,7 @@
 # quantitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantitive.md)
+
 <p><span class="chinese">网络规划是一类广泛应用的定量管理技术。</span><span class="english">Network programming is a quantitive technique for management.</span></p>
 
 <p><span class="chinese">计算机数字图像分析技术在生物医学领域已经成为一种常规的定量技术。</span><span class="english">CDIA has become a normal quantitive technique in biology and medicine research.</span></p>

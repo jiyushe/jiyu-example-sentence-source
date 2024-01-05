@@ -1,5 +1,7 @@
 # 怂恿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songyong.md)
+
 <p><span class="chinese">他怂恿我陪他一块去。</span><span class="english">He urged me to go with him.</span></p>
 
 <p><span class="chinese">一个朋克乐队是怂恿一片哗然。</span><span class="english">A punky band is prodding uproar.</span></p>

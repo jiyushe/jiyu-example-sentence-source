@@ -1,5 +1,7 @@
 # 恰到好处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiadaohaochu.md)
+
 <p><span class="chinese">你的评语真是恰到好处。</span><span class="english">Your comments are on the nose.</span></p>
 
 <p><span class="chinese">房子的位置选得恰到好处。</span><span class="english">The situation of the house was good.</span></p>

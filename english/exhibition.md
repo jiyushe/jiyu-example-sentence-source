@@ -1,5 +1,7 @@
 # exhibition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhibition.md)
+
 <p><span class="chinese">一个很大的华丽的展览厅。</span><span class="english">A large ornate exhibition hall.</span></p>
 
 <p><span class="chinese">我十分高兴你们参加加拿大工业展会的开幕式。</span><span class="english">Canadian Industrial Exhibition.</span></p>

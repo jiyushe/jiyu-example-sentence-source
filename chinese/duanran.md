@@ -1,5 +1,7 @@
 # 断然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanran.md)
+
 <p><span class="chinese">他断然否认自己有罪。</span><span class="english">He stoutly denied his guilt.</span></p>
 
 <p><span class="chinese">他的请求遭到了断然拒绝。</span><span class="english">His application was snubbed.</span></p>

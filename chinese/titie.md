@@ -1,5 +1,7 @@
 # 体贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titie.md)
+
 <p><span class="chinese">泰国航空如丝般体贴。</span><span class="english">Thai smooth as silk.</span></p>
 
 <p><span class="chinese">你真是太体贴人了。</span><span class="english">You are so thoughtful.</span></p>

@@ -1,5 +1,7 @@
 # maim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maim.md)
+
 <p><span class="chinese">不把这个杂种弄痛、弄伤、弄残绝不善罢干休。</span><span class="english">Hurt, injure, or otherwise maim the bastard.</span></p>
 
 <p><span class="chinese">使它残废或者杀死它，这样它就不能飞行了。</span><span class="english">Maim it or kill it such that it couldn't fly.</span></p>

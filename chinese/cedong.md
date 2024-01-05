@@ -1,5 +1,7 @@
 # 策动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cedong.md)
+
 <p><span class="chinese">他策动了这次叛乱。</span><span class="english">He instigated the revolt.</span></p>
 
 <p><span class="chinese">我们需要一台岸上起重机把策动机运上岸去。</span><span class="english">We need a shore crane to shift the engine ashore.</span></p>

@@ -1,5 +1,7 @@
 # 作物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuowu.md)
+
 <p><span class="chinese">作物在肥沃的黑土地里生长。</span><span class="english">Plants grow in rich, dark soil.</span></p>
 
 <p><span class="chinese">大豆是豆料作物。</span><span class="english">Soybeans are leguminous plants.</span></p>

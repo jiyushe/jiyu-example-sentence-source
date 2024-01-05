@@ -1,5 +1,7 @@
 # quintet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quintet.md)
+
 <p><span class="chinese">节目单上的第一个节目是木管五重奏。</span><span class="english">The first item on the program is woodwind quintet.</span></p>
 
 <p><span class="chinese">目前「东风」以木管乐五重奏为主。</span><span class="english">Eastern Winds appear primarily as a woodwind quintet.</span></p>

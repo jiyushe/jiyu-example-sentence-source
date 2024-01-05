@@ -1,5 +1,7 @@
 # bassist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bassist.md)
+
 <p><span class="chinese">凤凰带回到了2001年作为永久低音。</span><span class="english">In 2001 Phoenix rejoined the band as their permanent bassist.</span></p>
 
 <p><span class="chinese">举例来说，一个站在舞台后部的左边，而且也唱的低音乐器演奏者。</span><span class="english">For example, a bassist who stands upstage left and sings as well.</span></p>

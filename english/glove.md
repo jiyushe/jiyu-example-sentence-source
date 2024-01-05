@@ -1,5 +1,7 @@
 # glove 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glove.md)
+
 <p><span class="chinese">你们可以留着手套。</span><span class="english">You can keep the glove.</span></p>
 
 <p><span class="chinese">你可以放小一英寸，就会处处皆合身了。</span><span class="english">Then it'll fit like a glove.</span></p>

@@ -1,5 +1,7 @@
 # melinda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melinda.md)
+
 <p><span class="chinese">喂，吉姆，梅琳德没事吧?。</span><span class="english">Hey, jim, is melinda ok?</span></p>
 
 <p><span class="chinese">大约2年的后，民林达生下一个很可爱的宝贝。</span><span class="english">About 2 years later, Melinda had a lovely child.</span></p>

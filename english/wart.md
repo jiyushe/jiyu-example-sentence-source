@@ -1,5 +1,7 @@
 # wart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wart.md)
+
 <p><span class="chinese">用这个溶液涂抹肉瘤。</span><span class="english">Apply the solution to the wart.</span></p>
 
 <p><span class="chinese">我要买一箱阿诗玛香烟。</span><span class="english">I wart to buy a carton of ashima.</span></p>

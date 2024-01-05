@@ -1,5 +1,7 @@
 # fisheye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fisheye.md)
+
 <p><span class="chinese">这张照片是以鱼眼镜头在水底拍摄。</span><span class="english">Picture taken with a fisheye lens underwater.</span></p>
 
 <p><span class="chinese">比较结果表明，鱼眼菜单在很多方面具有一定的优势。</span><span class="english">The results show that fisheye menu has advantages in some aspects.</span></p>

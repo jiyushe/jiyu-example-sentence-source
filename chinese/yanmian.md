@@ -1,5 +1,7 @@
 # 延绵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmian.md)
+
 <p><span class="chinese">但我知道路径延绵无尽头。</span><span class="english">Yet knowing how way leads to way.</span></p>
 
 <p><span class="chinese">但我知道路径延绵没有尽头。</span><span class="english">Yet knowing how way leads on to way.</span></p>

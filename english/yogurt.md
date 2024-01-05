@@ -1,5 +1,7 @@
 # yogurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yogurt.md)
+
 <p><span class="chinese">酸奶和维夫饼干。</span><span class="english">Yogurt and Waffles.</span></p>
 
 <p><span class="chinese">冷冻酸奶酪的营养很丰富。</span><span class="english">Yogurt is nutrient-rich.</span></p>

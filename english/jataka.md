@@ -1,5 +1,7 @@
 # jataka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jataka.md)
+
 <p><span class="chinese">历史时空的转移，对原有的本生壁画起了多少不同的开展作用。</span><span class="english">With the development of time and space, the jataka fresco has changed a lot.</span></p>
 
 <p><span class="chinese">迦特哈利本生经一位貌美的贫妇，为波罗奈国王生育了一私生子。</span><span class="english">Katthahari Jataka A beautiful poor woman once gave birth to an illegal son by the king og Benares.</span></p>

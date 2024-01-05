@@ -1,5 +1,7 @@
 # 拖曳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoye_1.md)
+
 <p><span class="chinese">拖运，拖曳，拖船费。</span><span class="english">To tow by tugboat.</span></p>
 
 <p><span class="chinese">船拖曳着它的锚。</span><span class="english">The ship dragged her anchor.</span></p>

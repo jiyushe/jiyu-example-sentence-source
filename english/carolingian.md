@@ -1,5 +1,7 @@
 # carolingian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carolingian.md)
+
 <p><span class="chinese">他统治下的加洛林王朝被认为是罗马文明的重生。</span><span class="english">The Carolingian empire was considered a rebirth of the culture of the Roman Empire.</span></p>
 
 <p><span class="chinese">查理一世的种种努力创造了欧洲历史上重要的“加洛林文艺复兴”。</span><span class="english">The result of Charlemagne's efforts is ususlly called the "Carolingian Renaissance".</span></p>

@@ -1,5 +1,7 @@
 # operation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operation_1.md)
+
 <p><span class="chinese">胸部手术。</span><span class="english">A chest operation.</span></p>
 
 <p><span class="chinese">需要动手术吗？</span><span class="english">Do I need operation?</span></p>

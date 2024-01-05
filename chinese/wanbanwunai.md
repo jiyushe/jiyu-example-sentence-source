@@ -1,5 +1,7 @@
 # 万般无奈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanbanwunai.md)
+
 <p><span class="chinese">万般无奈，我们只好把非送回中国。</span><span class="english">We had no choice but to bring him back to China.</span></p>
 
 <p><span class="chinese">有所谓「千金难买早知道，万般无奈想不到！」</span><span class="english">There is the so-called " priceless knew, not helpless!"</span></p>

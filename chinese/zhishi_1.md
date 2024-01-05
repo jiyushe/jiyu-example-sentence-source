@@ -1,5 +1,7 @@
 # 志士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_1.md)
+
 <p><span class="chinese">革命志士们推翻了政府。</span><span class="english">The revolutionaries toppled the government.</span></p>
 
 <p><span class="chinese">我在坎贝尔堡见到了这些爱国的美国志士。</span><span class="english">I met some of these patriotic Americans at Fort Campbell.</span></p>

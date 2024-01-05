@@ -1,5 +1,7 @@
 # 运费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunfei.md)
+
 <p><span class="chinese">这些价格是船上交货价还是运费及保险费在内价？</span><span class="english">Are those prices FOB or CIF ?</span></p>
 
 <p><span class="chinese">你们所有价格都是成本加运费保险费价格。</span><span class="english">All your prices are on C.I.F. basis.</span></p>

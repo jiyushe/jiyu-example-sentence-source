@@ -1,5 +1,7 @@
 # afternoon 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afternoon.md)
+
 <p><span class="chinese">每天下午，嘣！</span><span class="english">Every afternoon. Boom!</span></p>
 
 <p><span class="chinese">下午好。我是李丹。</span><span class="english">Afternoon. I am Li Dan.</span></p>

@@ -1,5 +1,7 @@
 # overshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overshot.md)
+
 <p><span class="chinese">导弹未击中目标。</span><span class="english">The missile overshot its target.</span></p>
 
 <p><span class="chinese">上颚或下颚突出为失格。</span><span class="english">Undershot or overshot bite is a disqualification.</span></p>

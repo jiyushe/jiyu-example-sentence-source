@@ -1,5 +1,7 @@
 # xxix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xxix.md)
+
 <p><span class="chinese">北京奥运会主题曲由刘欢和莎拉布莱曼演唱。</span><span class="english">The theme song of the XXIX Beijing Olympic Games was sung by Liu Huan and Sarah Brightman.</span></p>
 
 <p><span class="chinese">2008年北京将举办第二十九届奥运会，这是中国第一次承办奥运盛会。</span><span class="english">China's first chance to host the Olympic Games will arrive in 2008 when Beijing will be the host city for the XXIX Olympiad.</span></p>

@@ -1,5 +1,7 @@
 # leveler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leveler.md)
+
 <p><span class="chinese">婚姻是最伟大的杠杆原理。</span><span class="english">Marriage is the greatest leveler.</span></p>
 
 <p><span class="chinese">填写勺轻轻使用内置的匀染剂。</span><span class="english">Fill the scoop lightly using the built-in leveler.</span></p>

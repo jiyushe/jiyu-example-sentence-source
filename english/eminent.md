@@ -1,5 +1,7 @@
 # eminent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eminent.md)
+
 <p><span class="chinese">小野马和卓越为7。</span><span class="english">Little Mustang and Eminent were 7.</span></p>
 
 <p><span class="chinese">华生在同代人里很出名。</span><span class="english">Watson was eminent among his contemporaries.</span></p>

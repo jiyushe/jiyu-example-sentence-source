@@ -1,5 +1,7 @@
 # juggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juggle.md)
+
 <p><span class="chinese">千万不要混淆黑白。</span><span class="english">Never juggle black and white.</span></p>
 
 <p><span class="chinese">一心二用，同时进行两项工作。</span><span class="english">Juggle two tasks at the same time.</span></p>

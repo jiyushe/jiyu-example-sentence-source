@@ -1,5 +1,7 @@
 # lazybones
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lazybones.md)
+
 <p><span class="chinese">快起床，你这懒骨头！</span><span class="english">Get up, you lazybones.</span></p>
 
 <p><span class="chinese">这个男孩是个彻头彻尾的懒虫。</span><span class="english">The boy is lazybones through and through.</span></p>

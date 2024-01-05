@@ -1,5 +1,7 @@
 # colligative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colligative.md)
+
 <p><span class="chinese">这是依数性。</span><span class="english">This is a colligative property.</span></p>
 
 <p><span class="chinese">那四种依数性到底是什么？</span><span class="english">OK what are the four colligative properties?</span></p>

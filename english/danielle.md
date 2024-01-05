@@ -1,5 +1,7 @@
 # danielle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/danielle.md)
+
 <p><span class="chinese">纽约是她唯一的选择。</span><span class="english">There was, for Danielle Minkoff, only New York.</span></p>
 
 <p><span class="chinese">丹尼尔沉吟片刻，“我从来没听说过他。”</span><span class="english">Danielle thought a moment. "I've never heard of him."</span></p>

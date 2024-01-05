@@ -1,5 +1,7 @@
 # 铁杉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieshan_1.md)
+
 <p><span class="chinese">喝下了剧毒的铁杉。</span><span class="english">He's drunk the hemlock.</span></p>
 
 <p><span class="chinese">铁杉是一种优良的软木材。</span><span class="english">Tsuga is a fine kind of softwood.</span></p>

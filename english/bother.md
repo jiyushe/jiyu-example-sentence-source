@@ -1,5 +1,7 @@
 # bother 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bother.md)
+
 <p><span class="chinese">不用麻烦了。</span><span class="english">Don’t bother.</span></p>
 
 <p><span class="chinese">这些话我都听腻了，所以，别来烦我了。</span><span class="english">So don't bother.</span></p>

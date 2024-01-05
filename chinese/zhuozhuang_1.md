@@ -1,5 +1,7 @@
 # 茁壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuozhuang_1.md)
+
 <p><span class="chinese">那些幼小的植物茁壮成长。</span><span class="english">The young plants grew lustily.</span></p>
 
 <p><span class="chinese">小雨浸育着小草，使其茁壮成长。</span><span class="english">The rain helps the grass to grow.</span></p>

@@ -1,5 +1,7 @@
 # groupthink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groupthink.md)
+
 <p><span class="chinese">心理学家称此为“趋同思维”。</span><span class="english">Psychologist call this groupthink.</span></p>
 
 <p><span class="chinese">为了对抗这种思维，我们可以培育权威的不同意见。</span><span class="english">We can combat groupthink by nurturing authentic dissent.</span></p>

@@ -1,5 +1,7 @@
 # brimstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brimstone.md)
+
 <p><span class="chinese">一个会喷出硫磺的卫星。</span><span class="english">A moon that spews brimstone.</span></p>
 
 <p><span class="chinese">也许消防和硫磺和威胁的地狱。</span><span class="english">Maybe fire and brimstone and threats of Hell.</span></p>

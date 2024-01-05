@@ -1,5 +1,7 @@
 # tagalog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tagalog.md)
+
 <p><span class="chinese">这意味着他加禄语和英语一样有价值一样令人信服。</span><span class="english">This means that Tagalog is every bit as valid and valuable as English.</span></p>
 
 <p><span class="chinese">拿着木制十字架的菲律宾人边走边以他加禄语唱着诗歌。有些人热泪盈眶。</span><span class="english">Filipinos carrying wooden crosses marched singing a hymn in Tagalog , some in tears.</span></p>

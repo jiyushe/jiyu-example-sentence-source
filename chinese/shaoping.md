@@ -1,5 +1,7 @@
 # 烧瓶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoping.md)
+
 <p><span class="chinese">圆底烧瓶用于许多化学反应。</span><span class="english">A round-bottomed flask is used for a lot of reactions.</span></p>
 
 <p><span class="chinese">这是最好的方法来记录用户操作在烧瓶的观点吗?。</span><span class="english">Which is the best way to log user actions in flask views?</span></p>

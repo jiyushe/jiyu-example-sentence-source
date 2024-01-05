@@ -1,5 +1,7 @@
 # 倦意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanyi.md)
+
 <p><span class="chinese">顿时，我的倦意消失了。</span><span class="english">Suddenly my tiredness vanished.</span></p>
 
 <p><span class="chinese">Towser的声音带着倦意颤抖着。</span><span class="english">Towser's voice wavered sleepily.</span></p>

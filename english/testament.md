@@ -1,5 +1,7 @@
 # testament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testament.md)
+
 <p><span class="chinese">“新约”则贩卖与人为善的道德准则。</span><span class="english">The new testament is a good code of ethics.</span></p>
 
 <p><span class="chinese">为什么想要研究新约？</span><span class="english">Why do you want to study the New Testament?</span></p>

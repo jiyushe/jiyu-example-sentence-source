@@ -1,5 +1,7 @@
 # 定性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxing_1.md)
+
 <p><span class="chinese">定性结果与之前一样。</span><span class="english">Same qualitative result as before.</span></p>
 
 <p><span class="chinese">即,一台可以有定性体验的机器</span><span class="english">That is, have a qualitative experience.</span></p>

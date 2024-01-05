@@ -1,5 +1,7 @@
 # 阿拉伯胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/alabojiao.md)
+
 <p><span class="chinese">我们用阿拉伯胶作壁材，包埋SOD。</span><span class="english">We used Arabic gum as Wall material to imbed SOD.</span></p>
 
 <p><span class="chinese">用阿拉伯胶修饰胰蛋白酶。</span><span class="english">An experiment on modification of trypsin with Arabic gum is reported.</span></p>

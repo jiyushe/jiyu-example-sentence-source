@@ -1,5 +1,7 @@
 # 标榜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaobang.md)
+
 <p><span class="chinese">元稹自叙“艳诗”定义，以“干教化”相标榜。</span><span class="english">YUAN Zhen gave definition of erotic poetry.</span></p>
 
 <p><span class="chinese">尽管如此，我们还被标榜为名不副实的饮食之国。</span><span class="english">And yet, we are also labelled a bad food nation.</span></p>

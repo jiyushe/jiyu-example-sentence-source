@@ -1,5 +1,7 @@
 # hittite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hittite.md)
+
 <p><span class="chinese">我能旁听你的“中级希泰语”课程吗？</span><span class="english">Can I sit in on your Intermediate Hittite class?</span></p>
 
 <p><span class="chinese">你母亲是赫人，你父亲是亚摩利人。</span><span class="english">Your mother was a Hittite and your father an Amorite.</span></p>

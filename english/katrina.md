@@ -1,5 +1,7 @@
 # katrina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/katrina.md)
+
 <p><span class="chinese">想象一下卡特琳娜加上浮油。</span><span class="english">Imagine Katrina plus oil spill.</span></p>
 
 <p><span class="chinese">科莱娜吃许多有营养的食品。</span><span class="english">Katrina eats lots of healthy food.</span></p>

@@ -1,5 +1,7 @@
 # sustenance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sustenance.md)
+
 <p><span class="chinese">就是你进入了一个自我维生的状态。</span><span class="english">One enters a state of self- sustenance.</span></p>
 
 <p><span class="chinese">伟大的讽刺作品需要伟大的怪异故事来滋养它。</span><span class="english">Great satire needs the sustenance of great fable.</span></p>

@@ -1,5 +1,7 @@
 # 非常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feichang.md)
+
 <p><span class="chinese">非常大。</span><span class="english">Very big.</span></p>
 
 <p><span class="chinese">非常禅！</span><span class="english">Very zen.</span></p>

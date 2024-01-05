@@ -1,5 +1,7 @@
 # straightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straightness.md)
+
 <p><span class="chinese">改变平直或者原有的形状。</span><span class="english">Altered from straightness or original position.</span></p>
 
 <p><span class="chinese">正直也是服从的重要部分。</span><span class="english">Also straightness is an important part of submission.</span></p>

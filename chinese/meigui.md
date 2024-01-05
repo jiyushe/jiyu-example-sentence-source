@@ -1,5 +1,7 @@
 # 玫瑰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meigui.md)
+
 <p><span class="chinese">我带着我的玫瑰。</span><span class="english">I bring my Rose.</span></p>
 
 <p><span class="chinese">玫瑰是多刺的植物。</span><span class="english">Rose is a briar.</span></p>

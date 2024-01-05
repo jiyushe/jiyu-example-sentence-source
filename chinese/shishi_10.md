@@ -1,5 +1,7 @@
 # 时世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_10.md)
+
 <p><span class="chinese">虽然有这样的艰难时世来考验我们作为一个国家的性格和价值观。</span><span class="english">Tough times like these test our character and values as a nation.</span></p>
 
 <p><span class="chinese">艰难时世里，从消费者到银行家，全民都会把货币捂在坐垫下面的时间更长。</span><span class="english">In tough times, people from consumers to bankers sit on more money longer.</span></p>

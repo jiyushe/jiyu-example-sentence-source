@@ -1,5 +1,7 @@
 # faddish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faddish.md)
+
 <p><span class="chinese">拨号上网一说，从那时起开始风行。</span><span class="english">Dial get online to say, begin since thenceforth faddish.</span></p>
 
 <p><span class="chinese">李戈晔的绘画似乎从来都不曾属于过那种风尚美学的范畴。</span><span class="english">The paintings of Li Geye never belong to the category of faddish esthetics.</span></p>

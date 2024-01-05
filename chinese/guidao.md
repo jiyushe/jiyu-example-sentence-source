@@ -1,5 +1,7 @@
 # 轨道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guidao.md)
+
 <p><span class="chinese">在3s轨道里有两个节点。</span><span class="english">two. That's correct.</span></p>
 
 <p><span class="chinese">有一个sigma轨道。</span><span class="english">There is a sigma orbital.</span></p>

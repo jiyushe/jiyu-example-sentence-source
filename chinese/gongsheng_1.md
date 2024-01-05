@@ -1,5 +1,7 @@
 # 共生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongsheng_1.md)
+
 <p><span class="chinese">互利共生。</span><span class="english">Mutualism.</span></p>
 
 <p><span class="chinese">我们和它是共生关系-共生关系?。</span><span class="english">And we are symbionts with them. -Symbionts?</span></p>

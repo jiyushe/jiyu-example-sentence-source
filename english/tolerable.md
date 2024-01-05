@@ -1,5 +1,7 @@
 # tolerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tolerable.md)
+
 <p><span class="chinese">“什么程度的危险能被视为可以容忍？”</span><span class="english">"What level of risk can be considered tolerable?</span></p>
 
 <p><span class="chinese">他的发音如果说不算好，至少也还过得去。</span><span class="english">His pronunciation, if not good, is at least tolerable.</span></p>

@@ -1,5 +1,7 @@
 # adopted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adopted.md)
+
 <p><span class="chinese">这孩子是领的。</span><span class="english">This child is adopted.</span></p>
 
 <p><span class="chinese">老两口收养了一个儿子。</span><span class="english">The old couple adopted a son.</span></p>

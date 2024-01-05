@@ -1,5 +1,7 @@
 # popularize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popularize.md)
+
 <p><span class="chinese">这项补栽保全苗技术，可普遍推广。</span><span class="english">It is possible to popularize generally the technique.</span></p>
 
 <p><span class="chinese">新异独创的大众化风格，使赵树理成为名动一时的人民作家。</span><span class="english">Special and popularize Style made him become the top writer.</span></p>

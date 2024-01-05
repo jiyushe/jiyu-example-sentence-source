@@ -1,5 +1,7 @@
 # ascot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascot.md)
+
 <p><span class="chinese">皇家赛马会是一个赛马比赛。</span><span class="english">Royal Ascot is a horse race.</span></p>
 
 <p><span class="chinese">谁获得了1904年爱斯科特赛马会金杯？</span><span class="english">Who won the Ascot Gold Cup in 1904?</span></p>

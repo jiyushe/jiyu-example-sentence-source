@@ -1,5 +1,7 @@
 # tackling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tackling.md)
+
 <p><span class="chinese">那如何解决由此带来的财政赤字呢？</span><span class="english">But what about tackling the deficit?</span></p>
 
 <p><span class="chinese">策略中都是基本的阻挡与抢断。</span><span class="english">It is all basic blocking and tackling.</span></p>

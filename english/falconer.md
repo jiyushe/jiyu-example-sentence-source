@@ -1,5 +1,7 @@
 # falconer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falconer.md)
+
 <p><span class="chinese">我是一个以鹰狩猎者8年。</span><span class="english">I have been a falconer for 8 years.</span></p>
 
 <p><span class="chinese">他很喜欢他们，并且他命令最好的驯鹰师去训练他们飞翔。</span><span class="english">He loved them so much and he ordered the best falconer to train them to fly.</span></p>

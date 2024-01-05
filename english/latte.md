@@ -1,5 +1,7 @@
 # latte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latte.md)
+
 <p><span class="chinese">我不喜欢我那堤上有奶泡。</span><span class="english">I don't like foam on my latte.</span></p>
 
 <p><span class="chinese">浓咖啡，玛奇朵，或拿铁？</span><span class="english">An espresso, macchiato, or latte?</span></p>

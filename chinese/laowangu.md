@@ -1,5 +1,7 @@
 # 老顽固
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laowangu.md)
+
 <p><span class="chinese">那人是个老顽固。</span><span class="english">The man is a fossil.</span></p>
 
 <p><span class="chinese">他是个老顽固.</span><span class="english">He's a stubborn old man.</span></p>

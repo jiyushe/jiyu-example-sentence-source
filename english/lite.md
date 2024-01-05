@@ -1,5 +1,7 @@
 # lite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lite.md)
+
 <p><span class="chinese">免费下载飞溅建兴，享受！</span><span class="english">Download free Splash Lite now and enjoy!</span></p>
 
 <p><span class="chinese">游戏是建兴射击战略游戏。</span><span class="english">The game is a lite shooting-strategy game.</span></p>

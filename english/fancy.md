@@ -1,5 +1,7 @@
 # fancy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fancy.md)
+
 <p><span class="chinese">我猜想天会下雨。</span><span class="english">I fancy it will rain.</span></p>
 
 <p><span class="chinese">真没想到你认识他!</span><span class="english">Fancy you knowing him!</span></p>

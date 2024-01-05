@@ -1,5 +1,7 @@
 # waxberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waxberry.md)
+
 <p><span class="chinese">什么东西可以祛除杨梅汁？</span><span class="english">What gets out waxberry juice?</span></p>
 
 <p><span class="chinese">对杨梅果酒降酸技术进行了研究。</span><span class="english">Deacidification on waxberry wine was studied.</span></p>

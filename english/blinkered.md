@@ -1,5 +1,7 @@
 # blinkered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blinkered.md)
+
 <p><span class="chinese">一个理由是或然率蒙蔽了他们的视线。</span><span class="english">One reason is that probabilism blinkered their vision.</span></p>
 
 <p><span class="chinese">希望我对理论的这种观点只是因为我狭隘的“大男子主义”。</span><span class="english">It may well be that my view of theory is blinkered by chauvinism.</span></p>

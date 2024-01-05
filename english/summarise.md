@@ -1,5 +1,7 @@
 # summarise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summarise.md)
+
 <p><span class="chinese">让我们对这些技术简单地总结一下。</span><span class="english">Let's briefly summarise these techniques.</span></p>
 
 <p><span class="chinese">然而，这不能概括所有的技能·。</span><span class="english">Nevertheless, this cannot summarise all of Vezzali's skills.</span></p>

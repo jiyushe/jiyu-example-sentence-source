@@ -1,5 +1,7 @@
 # 毁灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huimie.md)
+
 <p><span class="chinese">酒毁灭你的生活。</span><span class="english">Drink your life away.</span></p>
 
 <p><span class="chinese">以及自我毁灭。</span><span class="english">About self-destruction.</span></p>

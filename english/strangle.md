@@ -1,5 +1,7 @@
 # strangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strangle.md)
+
 <p><span class="chinese">我真想掐死他。</span><span class="english">I really want to strangle him.</span></p>
 
 <p><span class="chinese">碰到毒蛇，就得把它扼死。</span><span class="english">Mett snakes, have to strangle it.</span></p>

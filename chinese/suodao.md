@@ -1,5 +1,7 @@
 # 索道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suodao.md)
+
 <p><span class="chinese">索道的终点站在山顶。</span><span class="english">The cable terminal at the top.</span></p>
 
 <p><span class="chinese">欢迎乘坐玉屏索道！</span><span class="english">Welcome to take Yuping Ropeway!</span></p>

@@ -1,5 +1,7 @@
 # 着实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshi.md)
+
 <p><span class="chinese">这小孩着实聪明。</span><span class="english">The boy is really clever.</span></p>
 
 <p><span class="chinese">这着实更让他厌烦。</span><span class="english">This annoyed him even more.</span></p>

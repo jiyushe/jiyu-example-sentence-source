@@ -1,5 +1,7 @@
 # methodology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methodology.md)
+
 <p><span class="chinese">XP是一种方法学么？</span><span class="english">Is XP a methodology?</span></p>
 
 <p><span class="chinese">什么是分阶段方法？</span><span class="english">What is phased methodology?</span></p>

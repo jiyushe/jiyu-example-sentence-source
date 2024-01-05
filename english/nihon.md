@@ -1,5 +1,7 @@
 # nihon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nihon.md)
+
 <p><span class="chinese">为了学习日本舞踊，丹妮丝在日本呆了十年。</span><span class="english">Denise stayed in Japan for ten years to study Nihon Buyo.</span></p>
 
 <p><span class="chinese">日本大学政治科学教授岩井说。</span><span class="english">Momentum will build for Kan to resign, " said Nihon University political science professor Tomoaki Iwai."</span></p>

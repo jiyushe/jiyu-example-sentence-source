@@ -1,5 +1,7 @@
 # 依依惜别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyixibie.md)
+
 <p><span class="chinese">车站送别，依依惜别。</span><span class="english">Station  to bid farewell.</span></p>
 
 <p><span class="chinese">在他们依依惜别的时候，他耐心地等待着。</span><span class="english">He waited patiently while they said their farewells.</span></p>

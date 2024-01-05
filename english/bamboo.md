@@ -1,5 +1,7 @@
 # bamboo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bamboo.md)
+
 <p><span class="chinese">我们喜欢吃竹子。</span><span class="english">We like bamboo.</span></p>
 
 <p><span class="chinese">你喜欢竹子吗?</span><span class="english">Do you like bamboo?</span></p>

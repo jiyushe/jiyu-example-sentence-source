@@ -1,5 +1,7 @@
 # repayable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repayable.md)
+
 <p><span class="chinese">恶债不予偿还。</span><span class="english">Odious debt is not repayable.</span></p>
 
 <p><span class="chinese">这些金额可以分期偿还。</span><span class="english">The amounts are repayable by instalments.</span></p>

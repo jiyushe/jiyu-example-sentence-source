@@ -1,5 +1,7 @@
 # iea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iea.md)
+
 <p><span class="chinese">国际能源机构甚至警告称，可能会形成一个天然气垄断组织。</span><span class="english">The IEA even warned of the possible formation of a cartel for natural gas.</span></p>
 
 <p><span class="chinese">像国际能源署那样把这称为是“参考案例”，这种做法可谓大错特错。</span><span class="english">It's a non-trivial error to call it a 'reference case, ' as the IEA has done.</span></p>

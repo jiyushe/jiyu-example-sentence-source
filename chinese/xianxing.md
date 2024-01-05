@@ -1,5 +1,7 @@
 # 先行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxing.md)
+
 <p><span class="chinese">什么是移动先行产品呢？</span><span class="english">What are "mobile-first" products?</span></p>
 
 <p><span class="chinese">这写可都是博弈论的先行课啊</span><span class="english">It's a pre-req for the class, right?</span></p>

@@ -1,5 +1,7 @@
 # dent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dent.md)
+
 <p><span class="chinese">钉子能钉进金属。</span><span class="english">Nails dent into metal.</span></p>
 
 <p><span class="chinese">那辆雪韦却连一个小坑也没有。</span><span class="english">The Chevvy , though , didn't have a dent.</span></p>

@@ -1,5 +1,7 @@
 # tantamount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantamount.md)
+
 <p><span class="chinese">异议人士按叛国罪论处。</span><span class="english">Dissent was tantamount to treason.</span></p>
 
 <p><span class="chinese">他说这五个国家手中的否决权就等同于恐怖主义。</span><span class="english">Their veto was tantamount to terrorism.</span></p>

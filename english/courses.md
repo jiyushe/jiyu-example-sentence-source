@@ -1,5 +1,7 @@
 # courses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courses.md)
+
 <p><span class="chinese">公开课程有版权吗？</span><span class="english">Are open courses copyrighted?</span></p>
 
 <p><span class="chinese">学员对课程很受落。</span><span class="english">The courses were well received.</span></p>

@@ -1,5 +1,7 @@
 # dying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dying.md)
+
 <p><span class="chinese">害怕垂死。</span><span class="english">Of dying.</span></p>
 
 <p><span class="chinese">农作物濒临干死。</span><span class="english">CROPS are dying.</span></p>

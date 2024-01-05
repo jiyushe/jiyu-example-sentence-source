@@ -1,5 +1,7 @@
 # narcissus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narcissus.md)
+
 <p><span class="chinese">那喀索斯的故事也为其提供重要资源。</span><span class="english">The story of Narcissus does too.</span></p>
 
 <p><span class="chinese">尼罗和那喀索斯永远和我们在一起。</span><span class="english">Nero and Narcissus are always with us.</span></p>

@@ -1,5 +1,7 @@
 # biter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biter.md)
+
 <p><span class="chinese">那只猴子咬人。</span><span class="english">That monkey is a biter.</span></p>
 
 <p><span class="chinese">真是一场精彩的比赛。</span><span class="english">It was a real nail biter.</span></p>

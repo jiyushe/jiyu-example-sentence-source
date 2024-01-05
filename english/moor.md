@@ -1,5 +1,7 @@
 # moor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moor.md)
+
 <p><span class="chinese">把船湾在那边。</span><span class="english">Moor the boat over there.</span></p>
 
 <p><span class="chinese">你船必须在2号码头系泊。</span><span class="english">You must moor at No. 2 jetty.</span></p>

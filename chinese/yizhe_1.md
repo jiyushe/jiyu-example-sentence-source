@@ -1,5 +1,7 @@
 # 衣着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhe_1.md)
+
 <p><span class="chinese">她的衣着很简朴。</span><span class="english">Her dress is severely plain.</span></p>
 
 <p><span class="chinese">不要过分讲究你的衣着。</span><span class="english">Don't fuss with your clothes.</span></p>

@@ -1,5 +1,7 @@
 # anaemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaemic.md)
+
 <p><span class="chinese">贫血会加重乙肝吗?。</span><span class="english">Liver of second of anaemic meeting accentuation?</span></p>
 
 <p><span class="chinese">单用胸腺放射治疗不能缓解贫血。</span><span class="english">Sheet radiates with thymus cure cannot alleviate anaemic.</span></p>

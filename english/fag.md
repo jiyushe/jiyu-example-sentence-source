@@ -1,5 +1,7 @@
 # fag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fag.md)
+
 <p><span class="chinese">那是受不了的苦活。</span><span class="english">It is too much fag.</span></p>
 
 <p><span class="chinese">那是一件受不了的苦活。</span><span class="english">It is too much of a fag.</span></p>

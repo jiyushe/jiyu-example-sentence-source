@@ -1,5 +1,7 @@
 # fukien
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fukien.md)
+
 <p><span class="chinese">该船在福建海岸“遇难”了。</span><span class="english">The ship was wrecked off the coast of Fukien.</span></p>
 
 <p><span class="chinese">该船在福建海岸帠“遇难”了。</span><span class="english">The ship was wrecked off the coast of Fukien.</span></p>

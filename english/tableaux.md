@@ -1,5 +1,7 @@
 # tableaux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tableaux.md)
+
 <p><span class="chinese">与其说他作了一个前后连贯的分析，倒不如说他描绘了一系列出色的场景。</span><span class="english">He developed less a coherent analysis than a series of brilliant tableaux.</span></p>
 
 <p><span class="chinese">现在的麦迪文跪坐在了地上，双眼牢牢地盯着面前的舞台剧。</span><span class="english">The present-Medivh had sunk to his knees, his eyes locked on the tableaux before him.</span></p>

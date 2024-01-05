@@ -1,5 +1,7 @@
 # 粘膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianmo_2.md)
+
 <p><span class="chinese">央行监测和粘膜炎周。</span><span class="english">Monitor CBC and for mucositis weekly.</span></p>
 
 <p><span class="chinese">在粘膜内可见实性的肿瘤细胞巢。</span><span class="english">There are solid neoplastic nests in the mucosa.</span></p>

@@ -1,5 +1,7 @@
 # tribal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribal.md)
+
 <p><span class="chinese">下载最新的免费应用程序现在部落！</span><span class="english">Download the new tribal footie app NOW!</span></p>
 
 <p><span class="chinese">这是用来表示一个部落社会。</span><span class="english">It was used to denote a tribal society.</span></p>

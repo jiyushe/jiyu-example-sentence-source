@@ -1,5 +1,7 @@
 # 里拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lila.md)
+
 <p><span class="chinese">猫在我鞋子里拉屎啦。</span><span class="english">The cat pooped in my shoes?</span></p>
 
 <p><span class="chinese">柱塞应从导套里拉出。</span><span class="english">Draw out the cylinder liner.</span></p>

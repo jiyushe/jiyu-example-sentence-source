@@ -1,5 +1,7 @@
 # 禾苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hemiao.md)
+
 <p><span class="chinese">禾苗枯焦。</span><span class="english">The seedlings were scorched.</span></p>
 
 <p><span class="chinese">禾苗长三尺，雨露昨夜功。</span><span class="english">Three feet seedlings, rain last night.</span></p>

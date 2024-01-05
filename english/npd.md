@@ -1,5 +1,7 @@
 # npd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/npd.md)
+
 <p><span class="chinese">新产品开发组的科恩先生说有些公司正在这样做。</span><span class="english">Mr. Cohen of the NPD Group says some companies are doing this.</span></p>
 
 <p><span class="chinese">在NPD调查集团数据里，这已经是连续第五个月下降。</span><span class="english">It was the fifth consecutive monthly decline in the figures from the research group NPD.</span></p>

@@ -1,5 +1,7 @@
 # 椰枣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yezao.md)
+
 <p><span class="chinese">产椰枣、多种蔬菜与水果。</span><span class="english">Production dates, a variety of fruits and vegetables.</span></p>
 
 <p><span class="chinese">他牵着我的手去看人们收获马苏德的椰枣。</span><span class="english">He pulled me by the hand and we went off to the harvesting of Masood's dates.</span></p>

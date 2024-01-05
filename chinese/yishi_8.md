@@ -1,5 +1,7 @@
 # 衣食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_8.md)
+
 <p><span class="chinese">孩子们靠他们的父母供给衣食。</span><span class="english">Children their parents for food and clothes.</span></p>
 
 <p><span class="chinese">以后全家住在武南庄衣食无忧。</span><span class="english">Later the family live in wu need not founded.</span></p>

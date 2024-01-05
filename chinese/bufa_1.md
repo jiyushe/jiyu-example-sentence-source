@@ -1,5 +1,7 @@
 # 不法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufa_1.md)
+
 <p><span class="chinese">吉布森极力否认有不法行为。</span><span class="english">Gibson denies wrongdoing.</span></p>
 
 <p><span class="chinese">不法侵害的范围。</span><span class="english">The scope of the actualizing action.</span></p>

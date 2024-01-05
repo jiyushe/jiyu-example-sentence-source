@@ -1,5 +1,7 @@
 # ece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ece.md)
+
 <p><span class="chinese">我们应节省不学会计的出路必要的开支。</span><span class="english">We should save u ece ary expe es.</span></p>
 
 <p><span class="chinese">欧洲经委会集团管理着94个购物中心，在欧洲和中东地区。</span><span class="english">The ECE Group manages 94 shopping centers in Europe and the Middle East.</span></p>

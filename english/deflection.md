@@ -1,5 +1,7 @@
 # deflection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflection.md)
+
 <p><span class="chinese">可配专用偏转线圈。</span><span class="english">It can equip with deflection coil.</span></p>
 
 <p><span class="chinese">防止护舷系统剪切变形。</span><span class="english">Prevent fender system from shear deflection.</span></p>

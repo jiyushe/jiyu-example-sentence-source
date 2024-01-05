@@ -1,5 +1,7 @@
 # 夜深人静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeshenrenjing.md)
+
 <p><span class="chinese">夜深人静时有人偷偷溜进了他的房间。</span><span class="english">Someone stole into his room in the still of night.</span></p>
 
 <p><span class="chinese">当夜深人静时，就默默缝补他的旧袜子……</span><span class="english">Darning his socks in the night when there's nobody there...</span></p>

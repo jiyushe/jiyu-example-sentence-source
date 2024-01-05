@@ -1,5 +1,7 @@
 # 入场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruchang.md)
+
 <p><span class="chinese">免费入场！</span><span class="english">Free Entrance!</span></p>
 
 <p><span class="chinese">凭票入场。</span><span class="english">Admission by ticket only.</span></p>

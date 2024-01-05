@@ -1,5 +1,7 @@
 # mauritius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mauritius.md)
+
 <p><span class="chinese">而且毛里求斯没有衰落的迹象。</span><span class="english">And there’s nothing ramshackle about Mauritius.</span></p>
 
 <p><span class="chinese">毛里求斯安娜希塔四季度假村。</span><span class="english">Welcome to Four Seasons Resort Mauritius at Anahita.</span></p>

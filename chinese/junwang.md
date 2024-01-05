@@ -1,5 +1,7 @@
 # 君王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junwang.md)
+
 <p><span class="chinese">君王阿，要听!</span><span class="english">Hear this, you kings!</span></p>
 
 <p><span class="chinese">他称这些法官为"巴赛勒斯","君王"</span><span class="english">He calls them basileis, kings.</span></p>

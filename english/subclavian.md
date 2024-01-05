@@ -1,5 +1,7 @@
 # subclavian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subclavian.md)
+
 <p><span class="chinese">锁骨下动脉是到上肢的主要动脉。</span><span class="english">The chief artery to the upper limb is the subclavian artery.</span></p>
 
 <p><span class="chinese">非血液透析原因所致的锁骨下静脉狭窄少见。</span><span class="english">Subclavian vein stenosis caused by non-hemodialysis reasons is uncommon.</span></p>

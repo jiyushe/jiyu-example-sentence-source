@@ -1,5 +1,7 @@
 # audibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audibly.md)
+
 <p><span class="chinese">许多人都义愤填膺，溢于言表。</span><span class="english">Many were audibly outraged.</span></p>
 
 <p><span class="chinese">他阶段性的吸烟，还经常自言自语有时还能被听见，他有时还抽搐。</span><span class="english">Sometimes audibly. She may have a twitch.</span></p>

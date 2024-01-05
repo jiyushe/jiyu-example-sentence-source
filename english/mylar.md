@@ -1,5 +1,7 @@
 # mylar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mylar.md)
+
 <p><span class="chinese">以聚脂膜为基材，涂上压敏胶。</span><span class="english">Mylar base material with glue.</span></p>
 
 <p><span class="chinese">个人喜欢用那种叫做聚酯薄膜的保温材料。</span><span class="english">What I like to use is that thermal blanket material called mylar.</span></p>

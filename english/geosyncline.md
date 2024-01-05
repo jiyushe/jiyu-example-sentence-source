@@ -1,5 +1,7 @@
 # geosyncline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geosyncline.md)
+
 <p><span class="chinese">地槽常受深断裂控制。</span><span class="english">Geosyncline is always controlled by deep fractures.</span></p>
 
 <p><span class="chinese">得克萨斯海湾有一海岸在墨西哥湾海岸地槽中。</span><span class="english">One, the Texas Gulf Coast , is in the Gulf Coast geosyncline.</span></p>

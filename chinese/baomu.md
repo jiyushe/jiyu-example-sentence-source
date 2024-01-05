@@ -1,5 +1,7 @@
 # 保姆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baomu.md)
+
 <p><span class="chinese">保姆是个魔女。</span><span class="english">Matron is a sorceress.</span></p>
 
 <p><span class="chinese">大堰河，是我的保姆。</span><span class="english">My wet-nurse, Dayanhe.</span></p>

@@ -1,5 +1,7 @@
 # alchemy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alchemy.md)
+
 <p><span class="chinese">炼金术受到了占星术影响。</span><span class="english">Alchemy is influenced by horoscope.</span></p>
 
 <p><span class="chinese">冲破恐惧的点金术究竟是什么东西？</span><span class="english">What is the alchemy of fear breaking?</span></p>

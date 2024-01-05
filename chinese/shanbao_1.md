@@ -1,5 +1,7 @@
 # 山包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanbao_1.md)
+
 <p><span class="chinese">他策马跑上山包。</span><span class="english">He ran hellos horse up the helloll.</span></p>
 
 <p><span class="chinese">小山包上长着一簇低矮的灌木丛。</span><span class="english">Ran a hill tufted with small bushes.</span></p>

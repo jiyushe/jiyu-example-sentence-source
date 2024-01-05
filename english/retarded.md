@@ -1,5 +1,7 @@
 # retarded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retarded.md)
+
 <p><span class="chinese">企鹅，蠢物也！</span><span class="english">Penguins are retarded.</span></p>
 
 <p><span class="chinese">他是个十足的智障。</span><span class="english">He is completely retarded.</span></p>

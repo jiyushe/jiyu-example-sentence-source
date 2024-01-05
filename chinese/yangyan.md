@@ -1,5 +1,7 @@
 # 扬言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyan.md)
+
 <p><span class="chinese">我扬言要公开揭发他们。</span><span class="english">I threatened them with public exposure.</span></p>
 
 <p><span class="chinese">金姆扬言说她能够照顾好她自己。</span><span class="english">Kim threatens that she can handle herself.</span></p>

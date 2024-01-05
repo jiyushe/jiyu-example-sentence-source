@@ -1,5 +1,7 @@
 # lacing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacing.md)
+
 <p><span class="chinese">额外的潇洒和舒适适合不对称的鞋带设计。</span><span class="english">Asymmetrical lacing design for extra pizazz and a snug fit.</span></p>
 
 <p><span class="chinese">擦鞋店花边的一些黑色和白色运动鞋的白色花边。</span><span class="english">Shoe Shop Lacing on some black and white shoes with white laces.</span></p>

@@ -1,5 +1,7 @@
 # 三焦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiao.md)
+
 <p><span class="chinese">在中医理论中，三焦也是划分躯体部位的一个概念。</span><span class="english">In the theory of TCM the term "triple warmer" is also used to locate the body parts.</span></p>
 
 <p><span class="chinese">以气分血分及上中下三焦划分泻热法，等等。</span><span class="english">Even the heat-draining method was developed into qi-blood and triple burner patterns.</span></p>

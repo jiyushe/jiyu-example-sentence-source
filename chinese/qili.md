@@ -1,5 +1,7 @@
 # 凄厉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qili.md)
+
 <p><span class="chinese">猎犬凄厉地嚎叫。</span><span class="english">The hound bayed mournfully.</span></p>
 
 <p><span class="chinese">珂赛特发出一声凄厉的叫声。</span><span class="english">Cosette uttered a heartrending cry.</span></p>

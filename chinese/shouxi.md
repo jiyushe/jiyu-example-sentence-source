@@ -1,5 +1,7 @@
 # 受洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxi.md)
+
 <p><span class="chinese">你受洗了没有？</span><span class="english">Have you been baptized?</span></p>
 
 <p><span class="chinese">那孩子受洗时得教名杰克。</span><span class="english">The child was baptized Jack.</span></p>

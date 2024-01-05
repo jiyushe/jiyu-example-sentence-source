@@ -1,5 +1,7 @@
 # abduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abduction.md)
+
 <p><span class="chinese">记住儿童绑架是很少发生的。</span><span class="english">Remember that child abduction is very rare.</span></p>
 
 <p><span class="chinese">究竟什么导致他们被绑架，至今仍不清楚。</span><span class="english">It is not clear what actually provoked their abduction.</span></p>

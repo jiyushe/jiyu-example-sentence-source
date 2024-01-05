@@ -1,5 +1,7 @@
 # 锁孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suokong.md)
+
 <p><span class="chinese">把钥匙留在锁孔里。</span><span class="english">Leave the key in the lock.</span></p>
 
 <p><span class="chinese">钥匙在锁孔里转动，发出喀哒的声音。</span><span class="english">The key clicked as it turned in the lock.</span></p>

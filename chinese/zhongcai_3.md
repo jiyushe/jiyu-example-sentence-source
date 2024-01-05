@@ -1,5 +1,7 @@
 # 重彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcai_3.md)
+
 <p><span class="chinese">该画为典型的宋代院体画，是工笔重彩画中的佳作。</span><span class="english">It is a typical imperial-court decorative painting of Song Dynasty.</span></p>
 
 <p><span class="chinese">在这方面，我的建议是幽默最好不要重彩浓墨。</span><span class="english">My best advice in this area is to try not to pour the humor on too thick.</span></p>

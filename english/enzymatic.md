@@ -1,5 +1,7 @@
 # enzymatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enzymatic.md)
+
 <p><span class="chinese">乙酰-D-神经氨酸的酶法合成。</span><span class="english">Enzymatic synthesis of N-Acetyl-D-neuraminic acid.</span></p>
 
 <p><span class="chinese">曲霉菌酶学性质的研究。</span><span class="english">Studies on enzymatic properties of Aspergillus spp.</span></p>

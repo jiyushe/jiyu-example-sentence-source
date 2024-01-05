@@ -1,5 +1,7 @@
 # pontiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pontiff.md)
+
 <p><span class="chinese">这是本笃十六世第一次以教皇的身份访问法国。</span><span class="english">This is Benedict's first trip to France as pontiff.</span></p>
 
 <p><span class="chinese">教皇正在其夏宫向朝圣者布教。</span><span class="english">The pontiff was speaking to pilgrims at his summer palace.</span></p>

@@ -1,5 +1,7 @@
 # questionnaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/questionnaire.md)
+
 <p><span class="chinese">请回答背面的问卷。</span><span class="english">Answer the questionnaire overleaf.</span></p>
 
 <p><span class="chinese">请回答下面的判断题。</span><span class="english">Please answer the following questionnaire.</span></p>

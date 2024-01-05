@@ -1,5 +1,7 @@
 # menstrual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menstrual.md)
+
 <p><span class="chinese">减缓月经疼痛。</span><span class="english">Eases menstrual pain.</span></p>
 
 <p><span class="chinese">为什么月经量减少了？</span><span class="english">Why did menstrual quantity decrease?</span></p>

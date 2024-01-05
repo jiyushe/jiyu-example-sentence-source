@@ -1,5 +1,7 @@
 # gosling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gosling.md)
+
 <p><span class="chinese">你安静下来，我的小鹅。</span><span class="english">You just quiet down, my gosling.</span></p>
 
 <p><span class="chinese">我们都指望你，傻帽。</span><span class="english">We're all relying on you, gosling.</span></p>

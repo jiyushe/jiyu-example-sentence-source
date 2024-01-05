@@ -1,5 +1,7 @@
 # brayton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brayton.md)
+
 <p><span class="chinese">受到惊吓的布雷顿摔倒在地板上，死了。</span><span class="english">Frightened, Brayton fell to the floor, dead.</span></p>
 
 <p><span class="chinese">Brayton很快由于家庭原因离开了竞选运动。</span><span class="english">Brayton left the campaign soon after for family reasons.</span></p>

@@ -1,5 +1,7 @@
 # 动脉粥样硬化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmaizhouyangyinghua.md)
+
 <p><span class="chinese">肥胖儿的确有发生动脉粥样硬化的危险。</span><span class="english">Obese children are at risk to atherosclerosis.</span></p>
 
 <p><span class="chinese">大血管开始发生动脉粥样硬化。</span><span class="english">The large vessels begin to develop atherosclerosis.</span></p>

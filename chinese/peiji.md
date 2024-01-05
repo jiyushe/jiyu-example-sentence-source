@@ -1,5 +1,7 @@
 # 配给
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiji.md)
+
 <p><span class="chinese">食物是配给的。</span><span class="english">Food was rationed.</span></p>
 
 <p><span class="chinese">息票，赠品券，附单，配给券。</span><span class="english">The allotment of ration coupons.</span></p>

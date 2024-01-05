@@ -1,5 +1,7 @@
 # nettlesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nettlesome.md)
+
 <p><span class="chinese">开放这些地区可能带来棘手问题。</span><span class="english">Opening these areas up could prove nettlesome.</span></p>
 
 <p><span class="chinese">其他困扰的问题仍悬而未决。</span><span class="english">Other nettlesome issues are still open, as well.</span></p>

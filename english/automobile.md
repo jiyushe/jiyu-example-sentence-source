@@ -1,5 +1,7 @@
 # automobile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automobile.md)
+
 <p><span class="chinese">汽车花线“，”</span><span class="english">Automobile Wire.</span></p>
 
 <p><span class="chinese">安亭新镇“汽车之城”</span><span class="english">Anting New Town "Automobile City"</span></p>

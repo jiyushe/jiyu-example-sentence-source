@@ -1,5 +1,7 @@
 # complicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complicity.md)
+
 <p><span class="chinese">同谋使他们走到一齐，减弱比赛。</span><span class="english">Complicity makes them come together and attenuate the rivalry.</span></p>
 
 <p><span class="chinese">英国被指控串谋折磨囚犯事件使政府备受关注。</span><span class="english">The issue of alleged British complicity to torture is dogging the government.</span></p>

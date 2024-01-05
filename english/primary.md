@@ -1,5 +1,7 @@
 # primary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primary.md)
+
 <p><span class="chinese">原发性淀粉样变。</span><span class="english">Primary amyloidosis.</span></p>
 
 <p><span class="chinese">一级交易商是什么？</span><span class="english">What is a primary dealer?</span></p>

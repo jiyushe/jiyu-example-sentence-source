@@ -1,5 +1,7 @@
 # 干贝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbei_1.md)
+
 <p><span class="chinese">当然要干贝。</span><span class="english">The scallops, of course.</span></p>
 
 <p><span class="chinese">希望你喜欢吃干贝。</span><span class="english">I hope you like scallops.</span></p>

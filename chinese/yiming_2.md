@@ -1,5 +1,7 @@
 # 译名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiming_2.md)
+
 <p><span class="chinese">我是译名公司职员。</span><span class="english">I am an office clerk.</span></p>
 
 <p><span class="chinese">但译名室的人理解其工作的严肃性所在。</span><span class="english">But the office grasps the seriousness of its role.</span></p>

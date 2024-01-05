@@ -1,5 +1,7 @@
 # 界说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshuo.md)
+
 <p><span class="chinese">第一章、斯宾诺莎对自由的界说。</span><span class="english">Chapter 1, Spinoza's Definition of liberty.</span></p>
 
 <p><span class="chinese">如果我们硬要给它下一个明确的界说，那么别人就可能提出异议。</span><span class="english">If we insist on it to the next sector to clear, then others may raise objections.</span></p>

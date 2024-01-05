@@ -1,5 +1,7 @@
 # foldout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foldout.md)
+
 <p><span class="chinese">在编辑器窗口中的折叠标签。</span><span class="english">Foldout in an Editor Window.</span></p>
 
 <p><span class="chinese">随著奖金摺页和更多！</span><span class="english">With a bonus foldout and more!</span></p>

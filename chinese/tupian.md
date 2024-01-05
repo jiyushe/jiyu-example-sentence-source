@@ -1,5 +1,7 @@
 # 图片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tupian.md)
+
 <p><span class="chinese">发图片。</span><span class="english">Post pictures.</span></p>
 
 <p><span class="chinese">载入一个暗场图片。</span><span class="english">Loads a dark frame.</span></p>

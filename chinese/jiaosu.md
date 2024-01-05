@@ -1,5 +1,7 @@
 # 酵素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaosu.md)
+
 <p><span class="chinese">凝乳酵素的来源是什么？</span><span class="english">What Is The Source Of Rennet?</span></p>
 
 <p><span class="chinese">抗氧化剂有利于阻止组织胺酵素起作用。</span><span class="english">The antioxidant helps to block histamine.</span></p>

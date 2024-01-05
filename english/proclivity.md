@@ -1,5 +1,7 @@
 # proclivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proclivity.md)
+
 <p><span class="chinese">但proclivity本身又具有倾向性。</span><span class="english">But there is a tone to proclivity too.</span></p>
 
 <p><span class="chinese">暴虐和专横跋扈的癖性。</span><span class="english">A proclivity for violence and authoritarianism.</span></p>

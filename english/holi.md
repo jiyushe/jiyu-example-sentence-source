@@ -1,5 +1,7 @@
 # holi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holi.md)
+
 <p><span class="chinese">假日的每一分钟他都过得很愉快。</span><span class="english">He enjoyed every minute of his holi day.</span></p>
 
 <p><span class="chinese">维伦达文是庆祝洒红节的著名场所。</span><span class="english">Vrindavan is a famous place for Holi celebrations.</span></p>

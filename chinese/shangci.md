@@ -1,5 +1,7 @@
 # 上次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangci.md)
+
 <p><span class="chinese">上次你什么时侯来的？</span><span class="english">When did you come last?</span></p>
 
 <p><span class="chinese">上次你们命大。</span><span class="english">You were lucky last time.</span></p>

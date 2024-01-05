@@ -1,5 +1,7 @@
 # livorno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livorno.md)
+
 <p><span class="chinese">贝来里在考虑来自利沃诺的邀请。</span><span class="english">Belleri is considering an offer from Livorno.</span></p>
 
 <p><span class="chinese">我们很清楚在尤文与利沃诺一役中，利沃诺的几次错误造成了什么。</span><span class="english">We already saw with Livorno what Juve can do when errors are made.</span></p>

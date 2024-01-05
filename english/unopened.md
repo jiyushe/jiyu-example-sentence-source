@@ -1,5 +1,7 @@
 # unopened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unopened.md)
+
 <p><span class="chinese">我把那封信原封退回去了。</span><span class="english">I returned the letter unopened.</span></p>
 
 <p><span class="chinese">花萼围绕在花瓣的外层。</span><span class="english">Calyx encloses an unopened flower bud.</span></p>

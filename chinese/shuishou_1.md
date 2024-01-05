@@ -1,5 +1,7 @@
 # 税收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishou_1.md)
+
 <p><span class="chinese">并且在此制度下的税收是很重的</span><span class="english">He wanted huge taxation.</span></p>
 
 <p><span class="chinese">甚至超越税收制度呢。</span><span class="english">and even beyond taxation.</span></p>

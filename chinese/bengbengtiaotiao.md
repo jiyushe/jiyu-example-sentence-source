@@ -1,5 +1,7 @@
 # 蹦蹦跳跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengbengtiaotiao.md)
+
 <p><span class="chinese">一会儿，一只小兔蹦蹦跳跳来了。</span><span class="english">Soon a  rabbit hopped by.</span></p>
 
 <p><span class="chinese">小女孩在床上蹦蹦跳跳。</span><span class="english">The child bounced on the bed.</span></p>

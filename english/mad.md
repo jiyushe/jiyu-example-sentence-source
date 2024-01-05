@@ -1,5 +1,7 @@
 # mad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mad.md)
+
 <p><span class="chinese">你生我的气吗？</span><span class="english">You mad at me?</span></p>
 
 <p><span class="chinese">他一定是疯了。</span><span class="english">He must be mad.</span></p>

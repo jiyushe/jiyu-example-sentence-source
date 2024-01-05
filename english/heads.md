@@ -1,5 +1,7 @@
 # heads
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heads.md)
+
 <p><span class="chinese">二锅头。</span><span class="english">Two pots of heads.</span></p>
 
 <p><span class="chinese">塞韦林头婴儿。</span><span class="english">Severin heads baby.</span></p>

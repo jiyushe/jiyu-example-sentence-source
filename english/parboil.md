@@ -1,5 +1,7 @@
 # parboil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parboil.md)
+
 <p><span class="chinese">把土豆大致切一下，煮成半熟。</span><span class="english">Roughly chop and parboil the potatoes.</span></p>
 
 <p><span class="chinese">西芹及甘笋放入沸水中略煮，沥乾。</span><span class="english">Parboil celery and carrot in boiling water. Drain.</span></p>

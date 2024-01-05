@@ -1,5 +1,7 @@
 # library 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/library.md)
+
 <p><span class="chinese">借书证？</span><span class="english">A library card?</span></p>
 
 <p><span class="chinese">这是图书管吗？</span><span class="english">Is this the library ?</span></p>

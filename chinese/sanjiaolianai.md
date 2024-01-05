@@ -1,5 +1,7 @@
 # 三角恋爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiaolianai.md)
+
 <p><span class="chinese">那是个三角恋爱的电影。</span><span class="english">It's a film of triangular love affair.</span></p>
 
 <p><span class="chinese">最荒诞不经的一种三角恋爱。</span><span class="english">A love triangle of the most grotesque kind.</span></p>

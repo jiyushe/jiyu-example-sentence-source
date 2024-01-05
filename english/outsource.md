@@ -1,5 +1,7 @@
 # outsource
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsource.md)
+
 <p><span class="chinese">不要外包你不能内部管理的工作。</span><span class="english">Don't outsource what you can't manage in-house.</span></p>
 
 <p><span class="chinese">如果你没有足够的周转资金去外包？</span><span class="english">What If You Don’t Have the Cashflow To Outsource Yet?</span></p>

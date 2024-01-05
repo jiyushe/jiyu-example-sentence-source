@@ -1,5 +1,7 @@
 # 小两口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoliangkou.md)
+
 <p><span class="chinese">很适合年青的小两口！</span><span class="english">Suit young young couple very much!</span></p>
 
 <p><span class="chinese">务实的小两口原本打算是去租一套礼服的。</span><span class="english">The pragmatic bride-to-be initially planned to rent a gown.</span></p>

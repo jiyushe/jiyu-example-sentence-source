@@ -1,5 +1,7 @@
 # 大牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daya.md)
+
 <p><span class="chinese">笑掉我只大牙！</span><span class="english">Laugh Out My Big Teeth!</span></p>
 
 <p><span class="chinese">是的，要是你喜欢大牙的话。</span><span class="english">Yeah, if you like big teeth.</span></p>

@@ -1,5 +1,7 @@
 # passably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passably.md)
+
 <p><span class="chinese">也就是说我的诱饵只是一只会爬的小虫罢了。</span><span class="english">Which means my lure was behaving passably bug-like.</span></p>
 
 <p><span class="chinese">不过对懒学生是坏事，对他却有好处，这话也说到家了。</span><span class="english">But, bad for idle schoolboys, it did so happen that they were passably good for him.</span></p>

@@ -1,5 +1,7 @@
 # 如梦初醒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumengchuxing.md)
+
 <p><span class="chinese">这次他才如梦初醒。</span><span class="english">This time he had a rude awakening.</span></p>
 
 <p><span class="chinese">我问玛丽，似乎如梦初醒。</span><span class="english">I asked Mary, coming out of my reverie.</span></p>

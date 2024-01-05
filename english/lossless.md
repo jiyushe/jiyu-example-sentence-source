@@ -1,5 +1,7 @@
 # lossless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lossless.md)
+
 <p><span class="chinese">提出的结构可以应用于实现PFC的无源无损吸收。</span><span class="english">It can also be used for passive lossless snubber in PFC.</span></p>
 
 <p><span class="chinese">一种免费的快速且压缩比很好的无损音频格式。</span><span class="english">A very fast Free lossless audio format with good compression.</span></p>

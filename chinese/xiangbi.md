@@ -1,5 +1,7 @@
 # 想必
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbi.md)
+
 <p><span class="chinese">好了，想必。</span><span class="english">Well, presumably.</span></p>
 
 <p><span class="chinese">想必现在准备好了吧。</span><span class="english">It ought to be ready now.</span></p>

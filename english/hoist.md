@@ -1,5 +1,7 @@
 # hoist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoist.md)
+
 <p><span class="chinese">把人救上来并报告。</span><span class="english">Hoist person and report.</span></p>
 
 <p><span class="chinese">用自己的炸药炸死自己。</span><span class="english">Hoist with one's own petard.</span></p>

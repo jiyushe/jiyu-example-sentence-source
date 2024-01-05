@@ -1,5 +1,7 @@
 # revoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revoke.md)
+
 <p><span class="chinese">请别因此取消我的户口。</span><span class="english">Please don't revoke my citizenship.</span></p>
 
 <p><span class="chinese">奢侈品限额已被撤消。</span><span class="english">The quota on luxury item have is revoke.</span></p>

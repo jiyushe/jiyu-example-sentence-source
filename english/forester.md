@@ -1,5 +1,7 @@
 # forester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forester.md)
+
 <p><span class="chinese">佛瑞斯特一直都认为美国处在十字路口。</span><span class="english">Forester has long believed the U.S. is at a crossroads.</span></p>
 
 <p><span class="chinese">下午股市大涨之后，佛瑞斯特认为一切终于回归正轨。</span><span class="english">After a big afternoon run-up, Forester thought everything might be back on track.</span></p>

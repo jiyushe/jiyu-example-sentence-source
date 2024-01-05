@@ -1,5 +1,7 @@
 # prophylaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophylaxis.md)
+
 <p><span class="chinese">这就是所谓的药物预防法。</span><span class="english">This is known as drug prophylaxis.</span></p>
 
 <p><span class="chinese">谁付钱给医生谁去预防。</span><span class="english">He who pays the doctor decides the prophylaxis.</span></p>

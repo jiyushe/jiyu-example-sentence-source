@@ -1,5 +1,7 @@
 # 剖析
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pouxi.md)
+
 <p><span class="chinese">投资于自我剖析？</span><span class="english">Invest in some self-exploration.</span></p>
 
 <p><span class="chinese">形容这种做法的术语就是”刻板剖析“</span><span class="english">The term for this would be "profiling."</span></p>

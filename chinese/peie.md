@@ -1,5 +1,7 @@
 # 配额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peie.md)
+
 <p><span class="chinese">他们也会被削减一半配额的口粮。</span><span class="english">They may also be put on half-rations.</span></p>
 
 <p><span class="chinese">你的工作是销售并且完成自己的配额。</span><span class="english">Your job is to sell and make your  quota.</span></p>

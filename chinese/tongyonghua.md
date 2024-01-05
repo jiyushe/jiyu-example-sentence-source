@@ -1,5 +1,7 @@
 # 通用化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyonghua.md)
+
 <p><span class="chinese">通过自动化和通用化使您自己掌握所有这些可变性。</span><span class="english">Put yourself in charge of all this variability by automating and generalizing.</span></p>
 
 <p><span class="chinese">测控系统的通用化研究现已成为促进测控系统进一步发展的关键。</span><span class="english">The study of currency has become the key point of developing motor vehicle safety measuring system.</span></p>

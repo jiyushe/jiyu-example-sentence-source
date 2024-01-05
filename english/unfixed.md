@@ -1,5 +1,7 @@
 # unfixed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfixed.md)
+
 <p><span class="chinese">新的弹性同样放松了社会的边界。</span><span class="english">That new unfixed social boundaries as well.</span></p>
 
 <p><span class="chinese">但一些民主的缺陷却没有得到弥补。</span><span class="english">But several democratic flaws were left unfixed.</span></p>

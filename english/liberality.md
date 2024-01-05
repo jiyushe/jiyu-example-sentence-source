@@ -1,5 +1,7 @@
 # liberality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberality.md)
+
 <p><span class="chinese">看着父亲宽大的手掌。</span><span class="english">Looking atthepalm of father's liberality.</span></p>
 
 <p><span class="chinese">慷慨不在于给得多而在于给得好。</span><span class="english">Liberality is not giving much but giving wisely.</span></p>

@@ -1,5 +1,7 @@
 # polyimide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyimide.md)
+
 <p><span class="chinese">聚酰亚胺是一种高分子聚合物材料。</span><span class="english">Polyimide is a macromolecule polymer material.</span></p>
 
 <p><span class="chinese">本文介绍了聚酰亚胺树脂粉在金刚石抛光片中的应用。</span><span class="english">The paper introduces polyimide resin and its wheel's manufacturing and application.</span></p>

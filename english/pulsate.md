@@ -1,5 +1,7 @@
 # pulsate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulsate.md)
+
 <p><span class="chinese">空气似乎随着亮光而颤动。</span><span class="english">The air seemed to pulsate with the bright light.</span></p>
 
 <p><span class="chinese">淡紫色、玫瑰色和琥珀色，名种色彩开始在苍穹涌动。</span><span class="english">Hues of lavender, rose and amber begin to pulsate in the sky.</span></p>

@@ -1,5 +1,7 @@
 # matronly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matronly.md)
+
 <p><span class="chinese">一个主管模样的人出现在门口。</span><span class="english">A matronly head appeared around a door.</span></p>
 
 <p><span class="chinese">她那主妇的声名任凭所有的人践踏在脚下。</span><span class="english">Her matronly fame was trodden under all men's feet.</span></p>

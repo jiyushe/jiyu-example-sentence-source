@@ -1,5 +1,7 @@
 # lassen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lassen.md)
+
 <p><span class="chinese">拉森附近没有宾馆饭店。</span><span class="english">Lassen has no hotels.</span></p>
 
 <p><span class="chinese">在拉森智商是一个典型。</span><span class="english">The Lassen iQ is a classic.</span></p>

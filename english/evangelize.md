@@ -1,5 +1,7 @@
 # evangelize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelize.md)
+
 <p><span class="chinese">既警告又宣讲福音是必须的。</span><span class="english">It is necessary to warn as well as evangelize.</span></p>
 
 <p><span class="chinese">既要宣讲福音，也要给予警告。</span><span class="english">It is necessary to warn as well as evangelize.</span></p>

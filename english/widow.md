@@ -1,5 +1,7 @@
 # widow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widow.md)
+
 <p><span class="chinese">她是一位寡妇。</span><span class="english">She was a widow.</span></p>
 
 <p><span class="chinese">我母亲是一个寡妇。</span><span class="english">My mother is a widow.</span></p>

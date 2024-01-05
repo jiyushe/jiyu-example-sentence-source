@@ -1,5 +1,7 @@
 # extermination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extermination.md)
+
 <p><span class="chinese">他们宣誓这将是一场毁灭以色列的战争。</span><span class="english">They vowed to wage a war of extermination.</span></p>
 
 <p><span class="chinese">社会环境的好坏对灭蝗效果有很大影响。</span><span class="english">Environment had a great effect in locusts extermination.</span></p>

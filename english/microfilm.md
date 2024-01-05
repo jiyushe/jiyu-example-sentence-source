@@ -1,5 +1,7 @@
 # microfilm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microfilm.md)
+
 <p><span class="chinese">直观搜索缩微胶片文件?。</span><span class="english">VSMF? Visual Search Microfilm File?</span></p>
 
 <p><span class="chinese">这篇文章存在缩微胶片还是缩影胶片里?。</span><span class="english">Is this article on microfiche or microfilm?</span></p>

@@ -1,5 +1,7 @@
 # verbally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbally.md)
+
 <p><span class="chinese">其实我妈妈祗是口头上告诉DC怎麽做这道菜。</span><span class="english">My mom told DC how to make the dish verbally.</span></p>
 
 <p><span class="chinese">其中一些是口头的，一些是直接写的书面的。</span><span class="english">We make some of them verbally or in writing directly.</span></p>

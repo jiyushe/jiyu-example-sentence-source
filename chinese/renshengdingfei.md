@@ -1,5 +1,7 @@
 # 人声鼎沸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshengdingfei.md)
+
 <p><span class="chinese">像战争一样，选战也是人声鼎沸、情绪激昂。</span><span class="english">Like warfare, it is noisy and passionate.</span></p>
 
 <p><span class="chinese">五月花号上礼炮轰鸣，人声鼎沸，共同庆祝新生活的开始。</span><span class="english">May flower number in salute, Jaleo, began to celebrate a new life.</span></p>

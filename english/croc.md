@@ -1,5 +1,7 @@
 # croc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croc.md)
+
 <p><span class="chinese">我是在说牛师傅和鳄鱼师傅。</span><span class="english">I'm talking about Master Ox and Croc.</span></p>
 
 <p><span class="chinese">这是张用鳄鱼皮做成的皮革。</span><span class="english">This is a leather made from croc skin.</span></p>

@@ -1,5 +1,7 @@
 # 挪动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuodong.md)
+
 <p><span class="chinese">向新的发射点挪动转移。</span><span class="english">Moving to new launch site.</span></p>
 
 <p><span class="chinese">他笨拙地挪动身体，坐起来。</span><span class="english">He moves awkwardly, sitting up.</span></p>

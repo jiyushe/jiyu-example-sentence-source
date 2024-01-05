@@ -1,5 +1,7 @@
 # hall 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hall.md)
+
 <p><span class="chinese">镇公所的塔。</span><span class="english">Town Hall Tower.</span></p>
 
 <p><span class="chinese">反应堆大厅。</span><span class="english">The reactor hall.</span></p>

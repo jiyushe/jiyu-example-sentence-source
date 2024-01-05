@@ -1,5 +1,7 @@
 # glottis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glottis.md)
+
 <p><span class="chinese">空气从肺部输出，首先通过声门。</span><span class="english">Air that is expelled from the lungs passes through the glottis.</span></p>
 
 <p><span class="chinese">谢晋用他那特有的大嗓门，介绍了几句自己的拍摄计划。</span><span class="english">Xie Jin with he that unique big glottis , introduced several his shooting plan.</span></p>

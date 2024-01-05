@@ -1,5 +1,7 @@
 # 同乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxiang.md)
+
 <p><span class="chinese">出市，同市之人就是同乡。</span><span class="english">The City, who is a fellow with the City.</span></p>
 
 <p><span class="chinese">出国，同国之人就是同乡。</span><span class="english">Abroad, who is a fellow with the country.</span></p>

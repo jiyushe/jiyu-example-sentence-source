@@ -1,5 +1,7 @@
 # donald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donald.md)
+
 <p><span class="chinese">唐老鸭哪去了?</span><span class="english">Where is Donald?</span></p>
 
 <p><span class="chinese">唐老鸭摔倒了.</span><span class="english">Donald falls down.</span></p>

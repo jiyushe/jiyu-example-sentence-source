@@ -1,5 +1,7 @@
 # pulpwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulpwood.md)
+
 <p><span class="chinese">初步认为云杉纸浆材培育周期为25年。</span><span class="english">Rotation of picea asperata for pulpwood was tentatively determined as 25 year.</span></p>
 
 <p><span class="chinese">纸浆价格下跌了6月底，但没有保证这种下降趋势将继续下去。</span><span class="english">Pulpwood prices dropped at the end of June, but there is no assurance this decline will continue.</span></p>

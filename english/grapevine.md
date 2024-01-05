@@ -1,5 +1,7 @@
 # grapevine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grapevine.md)
+
 <p><span class="chinese">葡萄繦沿墙壁向上生长。</span><span class="english">The grapevine climbed the wall.</span></p>
 
 <p><span class="chinese">我听得是小道消息。</span><span class="english">I heard it through the grapevine.</span></p>

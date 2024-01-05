@@ -1,5 +1,7 @@
 # tramcar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tramcar.md)
+
 <p><span class="chinese">我能在这附近搭电车吗？</span><span class="english">Can I get a tramcar near here?</span></p>
 
 <p><span class="chinese">有轨电车'和'电车'是英国的术语。</span><span class="english">Tram' and ' tramcar ' are British terms.</span></p>

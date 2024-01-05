@@ -1,5 +1,7 @@
 # 组织
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhi.md)
+
 <p><span class="chinese">组织病理学。</span><span class="english">Histopathology.</span></p>
 
 <p><span class="chinese">重新组织自己面临的状况。</span><span class="english">Reframe the situation.</span></p>

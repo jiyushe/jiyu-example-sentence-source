@@ -1,5 +1,7 @@
 # immoderately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immoderately.md)
+
 <p><span class="chinese">他明白了,他过去过于专横跋扈</span><span class="english">He understands that,he has acted immoderately.</span></p>
 
 <p><span class="chinese">现在你可以吃了，不过还是得节制。</span><span class="english">Now you may eat, though still not immoderately.</span></p>

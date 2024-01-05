@@ -1,5 +1,7 @@
 # inquisition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquisition.md)
+
 <p><span class="chinese">1633年，伽利略受到宗教法庭审讯。</span><span class="english">In 1633 Galileo faced the Inquisition.</span></p>
 
 <p><span class="chinese">想想十字军和宗教法庭吧。</span><span class="english">Think of the crusades and the Inquisition.</span></p>

@@ -1,5 +1,7 @@
 # hopscotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopscotch.md)
+
 <p><span class="chinese">你想玩跳房子吗？</span><span class="english">Do you want to play hopscotch?</span></p>
 
 <p><span class="chinese">比利，跳房子是女孩子玩的游戏。</span><span class="english">Hopscotch is a girls game, Billy.</span></p>

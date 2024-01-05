@@ -1,5 +1,7 @@
 # livability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livability.md)
+
 <p><span class="chinese">乙醚对细胞的存活率影响不大。</span><span class="english">Aether has little influence on the cell livability.</span></p>
 
 <p><span class="chinese">随着自行车交通的增加，博兹曼的宜居性也在增加。</span><span class="english">As bike traffic increases, so too the livability of Bozeman.</span></p>

@@ -1,5 +1,7 @@
 # anthology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthology.md)
+
 <p><span class="chinese">您的精选辑包括三首新曲目。</span><span class="english">Your anthology includes 3 new tracks.</span></p>
 
 <p><span class="chinese">买一些灵性教导的诗集。</span><span class="english">Buy an anthology of spiritual teachings.</span></p>

@@ -1,5 +1,7 @@
 # 深交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjiao_2.md)
+
 <p><span class="chinese">你知道对抗结有深交的规则。</span><span class="english">You KNOW the rules against fraternization.</span></p>
 
 <p><span class="chinese">这个说法听起来很冷酷，可是你没有办法跟你认识的每一个朋友继续深交。</span><span class="english">It sounds harsh, but you cannot keep every friend you have ever made.</span></p>

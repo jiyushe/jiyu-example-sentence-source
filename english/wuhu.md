@@ -1,5 +1,7 @@
 # wuhu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wuhu.md)
+
 <p><span class="chinese">我说，我去芜湖看她吧！</span><span class="english">I said I went to Wuhu to see her.</span></p>
 
 <p><span class="chinese">她希望有一天能访问芜湖。</span><span class="english">She hopes to visit Wuhu some day.</span></p>

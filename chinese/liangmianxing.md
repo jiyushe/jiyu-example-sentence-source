@@ -1,5 +1,7 @@
 # 两面性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangmianxing.md)
+
 <p><span class="chinese">每一件事都有它的两面性。</span><span class="english">Everything has its double sides.</span></p>
 
 <p><span class="chinese">每一项选择都具有正反两面性。</span><span class="english">Every option has its pros and cons.</span></p>

@@ -1,5 +1,7 @@
 # politeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politeness.md)
+
 <p><span class="chinese">他是礼貌待人的典范。</span><span class="english">He is the pink of politeness.</span></p>
 
 <p><span class="chinese">礼多人不怪，谦虚无所失。</span><span class="english">One never lose anything but politeness.</span></p>

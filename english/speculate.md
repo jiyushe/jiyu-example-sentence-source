@@ -1,5 +1,7 @@
 # speculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speculate.md)
+
 <p><span class="chinese">我们推测这应该有电子邮件。</span><span class="english">We speculate there may be neutronic mail here.</span></p>
 
 <p><span class="chinese">那么我们可以从这里推测出什么呢</span><span class="english">So what can we speculate is the meaning of that?</span></p>

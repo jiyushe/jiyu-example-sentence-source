@@ -1,5 +1,7 @@
 # poorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poorly.md)
+
 <p><span class="chinese">计划性差。</span><span class="english">Planning poorly.</span></p>
 
 <p><span class="chinese">这种鱼经不起运输。</span><span class="english">This fish travels poorly.</span></p>

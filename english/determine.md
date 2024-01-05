@@ -1,5 +1,7 @@
 # determine 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determine.md)
+
 <p><span class="chinese">确定曲面的因素。</span><span class="english">Determine the camber factor.</span></p>
 
 <p><span class="chinese">您如何确定思考时间呢？</span><span class="english">How do you determine think time?</span></p>

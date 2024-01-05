@@ -1,5 +1,7 @@
 # misconstrue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misconstrue.md)
+
 <p><span class="chinese">很容易将信心误解为傲慢。</span><span class="english">It is easy to misconstrue confidence as arrogance.</span></p>
 
 <p><span class="chinese">不要把它误解为需要卯尽全力或施加压力的苦差事。</span><span class="english">Do not misconstrue it as an effort to exert force or pressure.</span></p>

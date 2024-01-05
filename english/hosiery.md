@@ -1,5 +1,7 @@
 # hosiery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hosiery.md)
+
 <p><span class="chinese">您得到袜子专柜去买。</span><span class="english">You can get them at the hosiery department.</span></p>
 
 <p><span class="chinese">衣服、裤子、袜子、鞋子统统一种颜色。</span><span class="english">Dress, or pants and hosiery and shoes all one color.</span></p>

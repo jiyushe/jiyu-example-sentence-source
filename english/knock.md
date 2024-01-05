@@ -1,5 +1,7 @@
 # knock 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knock.md)
+
 <p><span class="chinese">门那里来了一阵敲门声。</span><span class="english">A knock.</span></p>
 
 <p><span class="chinese">哦！打倒这个！</span><span class="english">Ow! Knock out this!</span></p>

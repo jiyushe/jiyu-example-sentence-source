@@ -1,5 +1,7 @@
 # gangrene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangrene.md)
+
 <p><span class="chinese">他的脚生了坏疽，必须解除。</span><span class="english">When gangrene set in, his foot have to be amputate.</span></p>
 
 <p><span class="chinese">如果血管受损，可能会感受到一个坏疽感染。</span><span class="english">If blood vessels are damaged, people can suffer a gangrene infection.</span></p>

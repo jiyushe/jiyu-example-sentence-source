@@ -1,5 +1,7 @@
 # amplify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amplify.md)
+
 <p><span class="chinese">对于微波低噪声放大。</span><span class="english">For amplify microwave and low noise.</span></p>
 
 <p><span class="chinese">节俭时光就是延永生命。</span><span class="english">To save time is to amplify activity.</span></p>

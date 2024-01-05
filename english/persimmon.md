@@ -1,5 +1,7 @@
 # persimmon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persimmon.md)
+
 <p><span class="chinese">这柿子涩。</span><span class="english">The persimmon tastes puckery.</span></p>
 
 <p><span class="chinese">邻居给我柿子树插枝。</span><span class="english">I got the persimmon cuttings from a neighbor.</span></p>

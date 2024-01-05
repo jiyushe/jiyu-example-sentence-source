@@ -1,5 +1,7 @@
 # tasteless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tasteless.md)
+
 <p><span class="chinese">这汤淡而无味。</span><span class="english">The soup was rather tasteless.</span></p>
 
 <p><span class="chinese">你怎么能吃下这么无味的食物呢？</span><span class="english">How can you eat such tasteless food?</span></p>

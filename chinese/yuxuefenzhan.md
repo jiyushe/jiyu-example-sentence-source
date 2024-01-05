@@ -1,5 +1,7 @@
 # 浴血奋战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxuefenzhan.md)
+
 <p><span class="chinese">士兵们浴血奋战，保卫他们的城市，不让侵略者攻进来。</span><span class="english">The soldiers fought hard to defend the city from the invaders.</span></p>
 
 <p><span class="chinese">南部苏丹人民为了赢得独立，经历了长期的浴血奋战。</span><span class="english">Southern Sudanese had fought a long, bloody war to win independence.</span></p>

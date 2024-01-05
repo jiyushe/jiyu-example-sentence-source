@@ -1,5 +1,7 @@
 # thus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thus.md)
+
 <p><span class="chinese">它压着，狠狠地压着，于是她们死了。</span><span class="english">Thus they die.</span></p>
 
 <p><span class="chinese">他心里这样暗忖。</span><span class="english">Thus he groped.</span></p>

@@ -1,5 +1,7 @@
 # 珍本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenben.md)
+
 <p><span class="chinese">这是一本不可多得的珍本。</span><span class="english">It's a rare book.</span></p>
 
 <p><span class="chinese">他们主要经营珍本图书。</span><span class="english">They mainly deal in rare books.</span></p>

@@ -1,5 +1,7 @@
 # 木樨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxi.md)
+
 <p><span class="chinese">他得摆好戴著月木樨冠的姿态。</span><span class="english">He had to pose wearing a laurel wreath.</span></p>
 
 <p><span class="chinese">本人的家乡有很多特产，最有名的是茶叶和木樨。</span><span class="english">There are many specialties in my hometown, tea and fragrans are the most famous.</span></p>

@@ -1,5 +1,7 @@
 # 掌心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangxin.md)
+
 <p><span class="chinese">掌心向下压入地板。</span><span class="english">Press palms into the floor.</span></p>
 
 <p><span class="chinese">端详一下自己的掌心。</span><span class="english">Look at the palms of your hands.</span></p>

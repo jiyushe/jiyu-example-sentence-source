@@ -1,5 +1,7 @@
 # 共鸣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongming_1.md)
+
 <p><span class="chinese">根本没有共鸣。</span><span class="english">Not resonate at all.</span></p>
 
 <p><span class="chinese">她能从中找到共鸣。</span><span class="english">It resonated for her.</span></p>

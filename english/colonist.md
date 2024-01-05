@@ -1,5 +1,7 @@
 # colonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonist.md)
+
 <p><span class="chinese">美洲的英国清教徒殖民者。</span><span class="english">English puritan colonist in america.</span></p>
 
 <p><span class="chinese">他是一个殖民者，帝国建造者。</span><span class="english">He is the colonist , the empire builder.</span></p>

@@ -1,5 +1,7 @@
 # 热敷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/refu.md)
+
 <p><span class="chinese">用热敷布把脓肿包住。</span><span class="english">Apply hot compresses to a boil.</span></p>
 
 <p><span class="chinese">热敷与冷敷都可以缓解症状。</span><span class="english">Hot packs and cold compresses ease symptoms.</span></p>

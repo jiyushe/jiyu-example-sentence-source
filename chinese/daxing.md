@@ -1,5 +1,7 @@
 # 大型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxing.md)
+
 <p><span class="chinese">我想要一辆大型的私家轿车。</span><span class="english">I want a big sedan.</span></p>
 
 <p><span class="chinese">它们都是大型商业银行</span><span class="english">Those are the big ones.</span></p>

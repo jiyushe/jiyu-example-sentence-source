@@ -1,5 +1,7 @@
 # 散放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanfang.md)
+
 <p><span class="chinese">那座坟墓上散放着几朵红玫瑰。</span><span class="english">A few red roses were scattered on the tomb.</span></p>
 
 <p><span class="chinese">他们把石头都散放在地</span><span class="english">Where they have left not one stone on a stone</span></p>

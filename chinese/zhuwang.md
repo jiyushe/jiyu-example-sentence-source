@@ -1,5 +1,7 @@
 # 蛛网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwang.md)
+
 <p><span class="chinese">蛛网逃生。</span><span class="english">Survive a spiderweb.</span></p>
 
 <p><span class="chinese">蜘蛛使地窖布满了蛛网。</span><span class="english">Spiders cobwebbed the cellar.</span></p>

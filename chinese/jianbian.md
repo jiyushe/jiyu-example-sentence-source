@@ -1,5 +1,7 @@
 # 简便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbian.md)
+
 <p><span class="chinese">简便的防滑耐磨。</span><span class="english">Easy slip-on wear.</span></p>
 
 <p><span class="chinese">现在就试一下这种简便的眼操吧。</span><span class="english">Try it just now as a simple exercise.</span></p>

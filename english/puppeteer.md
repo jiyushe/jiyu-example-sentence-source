@@ -1,5 +1,7 @@
 # puppeteer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puppeteer.md)
+
 <p><span class="chinese">一个流浪的人偶师来到了一个小镇上。</span><span class="english">A A wandering puppeteer goes to a town.</span></p>
 
 <p><span class="chinese">事实上，我小时候想当一位玩木偶的。</span><span class="english">Actually, when I was younger I wanted to be a puppeteer.</span></p>

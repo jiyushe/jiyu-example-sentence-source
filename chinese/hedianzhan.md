@@ -1,5 +1,7 @@
 # 核电站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedianzhan.md)
+
 <p><span class="chinese">但核电站的工作人员却团结在一起。</span><span class="english">But workers at the plants have a bond.</span></p>
 
 <p><span class="chinese">如果一颗流星砸中核电站又怎么办?</span><span class="english">What if a meteorite falls on the plant?</span></p>

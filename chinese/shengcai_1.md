@@ -1,5 +1,7 @@
 # 生财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcai_1.md)
+
 <p><span class="chinese">8个比免费更好的生财要素</span><span class="english">Eight Generatives Better Than Free</span></p>
 
 <p><span class="chinese">偶然生财的一个bug。</span><span class="english">A bug thataccidentally generates money.</span></p>

@@ -1,5 +1,7 @@
 # enterprising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterprising.md)
+
 <p><span class="chinese">她很有事业心.</span><span class="english">She is enterprising.</span></p>
 
 <p><span class="chinese">奋发向上的精神消失了</span><span class="english">The enterprising spirit seems gone.</span></p>

@@ -1,5 +1,7 @@
 # 肾炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyan_3.md)
+
 <p><span class="chinese">你可以发展肾盂肾炎在任何年龄。</span><span class="english">You can develop pyelonephritis at any age.</span></p>
 
 <p><span class="chinese">刘娟息有肾炎已经多年。</span><span class="english">Liu Juanxi had nephritis to be already many year.</span></p>

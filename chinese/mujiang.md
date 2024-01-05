@@ -1,5 +1,7 @@
 # 木匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mujiang.md)
+
 <p><span class="chinese">他年轻时当过木匠。</span><span class="english">He carpentered in his youth.</span></p>
 
 <p><span class="chinese">木匠把夹板修平。</span><span class="english">The carpenter dubbed the splint.</span></p>

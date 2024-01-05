@@ -1,5 +1,7 @@
 # 一清二楚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqingerchu.md)
+
 <p><span class="chinese">我了解得一清二楚。</span><span class="english">I know if from A to Z.</span></p>
 
 <p><span class="chinese">我对你的诡计呵手段一清二楚。</span><span class="english">I’m on to your tricks and manipulations.</span></p>

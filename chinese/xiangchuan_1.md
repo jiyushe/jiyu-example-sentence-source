@@ -1,5 +1,7 @@
 # 相传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchuan_1.md)
+
 <p><span class="chinese">所以很多都是口口相传。</span><span class="english">So, a lot of it has been word of mouth.</span></p>
 
 <p><span class="chinese">众口相传，消息不胫而走。</span><span class="english">The news was passed on by word of mouth.</span></p>

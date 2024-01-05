@@ -1,5 +1,7 @@
 # 以上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishang.md)
+
 <p><span class="chinese">中技或高中以上毕业。</span><span class="english">High school or above.</span></p>
 
 <p><span class="chinese">大学专科或以上学历。</span><span class="english">College degree or above.</span></p>

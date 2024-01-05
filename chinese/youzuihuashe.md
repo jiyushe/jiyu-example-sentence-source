@@ -1,5 +1,7 @@
 # 油嘴滑舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzuihuashe.md)
+
 <p><span class="chinese">他是一个油嘴滑舌的推销员。</span><span class="english">He is a glib salesman.</span></p>
 
 <p><span class="chinese">是的，很油嘴滑舌。</span><span class="english">Yes, she is so mealy-mouthed.</span></p>

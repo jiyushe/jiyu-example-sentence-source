@@ -1,5 +1,7 @@
 # 气味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwei_1.md)
+
 <p><span class="chinese">我闻到你的气味了，臭小子！</span><span class="english">I smell you, boy!</span></p>
 
 <p><span class="chinese">这气味有益的！</span><span class="english">This smells good!</span></p>

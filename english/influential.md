@@ -1,5 +1,7 @@
 # influential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/influential.md)
+
 <p><span class="chinese">脂肪瘤对身体有影响吗？</span><span class="english">Is lipoma influential to the body?</span></p>
 
 <p><span class="chinese">这是句非常有影响力的名言。</span><span class="english">This wa s a very influential quote.</span></p>

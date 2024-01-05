@@ -1,5 +1,7 @@
 # loaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loaves.md)
+
 <p><span class="chinese">面包师傅从烤箱取出一条条的面包。</span><span class="english">The baker took the loaves out of the oven.</span></p>
 
 <p><span class="chinese">他总是要买两个不新鲜的面包。</span><span class="english">He always bought two loaves of stale bread.</span></p>

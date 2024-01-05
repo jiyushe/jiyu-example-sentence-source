@@ -1,5 +1,7 @@
 # diazo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diazo.md)
+
 <p><span class="chinese">研究了重氮母片的特性对重氮复印的影响。</span><span class="english">The influence of the characteristics of diazo master on the copy process were studied.</span></p>
 
 <p><span class="chinese">对称重氮化合物，含有它们的组合物，染色方法和设备。</span><span class="english">Symmetrical diazo compounds, compositions comprising them, method of coloring, and device.</span></p>

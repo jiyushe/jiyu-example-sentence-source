@@ -1,5 +1,7 @@
 # antipodal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipodal.md)
+
 <p><span class="chinese">三个反足细胞是短命的。</span><span class="english">Three antipodal cells are ephemeral.</span></p>
 
 <p><span class="chinese">胚囊的发育为蓼型，具多个反足细胞。</span><span class="english">The development of the embryo sac is Polygonum type with numberous antipodal cells.</span></p>

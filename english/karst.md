@@ -1,5 +1,7 @@
 # karst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karst.md)
+
 <p><span class="chinese">桂林有溶洞。</span><span class="english">There are karst caves in Guilin.</span></p>
 
 <p><span class="chinese">是非常罕见的喀斯特地貌景观。</span><span class="english">This is a rare type of karst topography.</span></p>

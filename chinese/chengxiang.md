@@ -1,5 +1,7 @@
 # 丞相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxiang.md)
+
 <p><span class="chinese">他是一个好丞相，所有的蜀国人都很爱戴他。</span><span class="english">He was so great that everyone in the state of Shu loved him.</span></p>
 
 <p><span class="chinese">丞相信誓旦旦说自己没有篡夺汉室之意。</span><span class="english">Though you have solemnly vowed yourself loyal to His Majesty's Court.</span></p>

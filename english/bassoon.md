@@ -1,5 +1,7 @@
 # bassoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bassoon.md)
+
 <p><span class="chinese">巴松管表现的是祖父</span><span class="english">The bassoon is the grandfather.</span></p>
 
 <p><span class="chinese">大调巴松四四重奏，作品第1号，第一首。</span><span class="english">Bassoon Quartet in C major, Op. 1, No. 1</span></p>

@@ -1,5 +1,7 @@
 # swim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swim.md)
+
 <p><span class="chinese">我经常游泳。</span><span class="english">I swim alot.</span></p>
 
 <p><span class="chinese">鱼都会游水。</span><span class="english">All fish swim.</span></p>

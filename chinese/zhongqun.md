@@ -1,5 +1,7 @@
 # 种群
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqun.md)
+
 <p><span class="chinese">这是有肺的种群。</span><span class="english">This is the class of lunged things.</span></p>
 
 <p><span class="chinese">或者是我们的种群消灭了他们？</span><span class="english">Or did our species do away with them?</span></p>

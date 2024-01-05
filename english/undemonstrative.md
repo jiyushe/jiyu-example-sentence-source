@@ -1,5 +1,7 @@
 # undemonstrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undemonstrative.md)
+
 <p><span class="chinese">他是个性情含蓄的男子。</span><span class="english">He is a man of undemonstrative nature.</span></p>
 
 <p><span class="chinese">李想是一个腼腆的人。</span><span class="english">Li Xiang is an undemonstrative person.</span></p>

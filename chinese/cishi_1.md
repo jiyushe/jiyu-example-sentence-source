@@ -1,5 +1,7 @@
 # 辞世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cishi_1.md)
+
 <p><span class="chinese">她于1817年辞世，时年不足42岁。</span><span class="english">She died in 1817, only 42.</span></p>
 
 <p><span class="chinese">母亲辞世后不久，父亲也紧随其后，悄然离去。</span><span class="english">her mother died and her father followed.</span></p>

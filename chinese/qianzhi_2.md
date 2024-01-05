@@ -1,5 +1,7 @@
 # 钳制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhi_2.md)
+
 <p><span class="chinese">他想做的就是想把他们牢牢地钳制住</span><span class="english">But he can control them there.</span></p>
 
 <p><span class="chinese">学术结舌失语，饱受当局钳制。</span><span class="english">And art made tongue-tied by authority.</span></p>

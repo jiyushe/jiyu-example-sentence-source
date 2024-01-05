@@ -1,5 +1,7 @@
 # 红颜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongyan_1.md)
+
 <p><span class="chinese">我喜欢你那双红颜色的鞋子。</span><span class="english">I like your red shoes.</span></p>
 
 <p><span class="chinese">我送给丽丽一个红颜色的棒球。</span><span class="english">I have a red baseball for Lily.</span></p>

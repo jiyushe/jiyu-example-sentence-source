@@ -1,5 +1,7 @@
 # mesoderm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesoderm.md)
+
 <p><span class="chinese">南方鲶的颌齿均由外胚层及中胚层分化而成。</span><span class="english">The jaw teeth and pharyngeal teeth are derived from the ectoderm and mesoderm.</span></p>
 
 <p><span class="chinese">成纤维细胞是胚胎中胚层起源的间叶细胞。</span><span class="english">Fibroblasts are mesenchymal cells which are derived from the embryonic mesoderm.</span></p>

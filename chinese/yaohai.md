@@ -1,5 +1,7 @@
 # 要害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaohai.md)
+
 <p><span class="chinese">他的批评击中了要害。</span><span class="english">His criticism hit home.</span></p>
 
 <p><span class="chinese">她的批评切中要害。</span><span class="english">Her criticism struck home.</span></p>

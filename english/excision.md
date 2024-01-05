@@ -1,5 +1,7 @@
 # excision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excision.md)
+
 <p><span class="chinese">躲毛窦或囊肿切除术。</span><span class="english">Excision of pilonidal sinus or cyst.</span></p>
 
 <p><span class="chinese">垂体切除，VP含量变化？</span><span class="english">Do excision , VP contents change a hypophysis?</span></p>

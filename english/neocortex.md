@@ -1,5 +1,7 @@
 # neocortex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neocortex.md)
+
 <p><span class="chinese">小脑和大脑皮层都可以收到来自体觉系统的输入信息。</span><span class="english">Both cerebellum and neocortex receive input from the somatosensory system.</span></p>
 
 <p><span class="chinese">在大脑半球上覆盖着的共六层的大脑新皮层是哺乳动物所特有的。</span><span class="english">The neocortex – the six-layered mantle covering the brain's hemispheres – is unique to mammals.</span></p>

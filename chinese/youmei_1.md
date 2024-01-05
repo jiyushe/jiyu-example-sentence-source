@@ -1,5 +1,7 @@
 # 幽美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmei_1.md)
+
 <p><span class="chinese">公园的景致非常幽美、洁净。</span><span class="english">Park scenery is very beautiful, clean.</span></p>
 
 <p><span class="chinese">好一幅美丽的图画——文静、朦胧、幽美。</span><span class="english">It was a beautiful picture-very soft, and dreamy and beautiful.</span></p>

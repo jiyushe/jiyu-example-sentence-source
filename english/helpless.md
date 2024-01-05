@@ -1,5 +1,7 @@
 # helpless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helpless.md)
+
 <p><span class="chinese">没有你，我感到无助。</span><span class="english">I feel helpless without you.</span></p>
 
 <p><span class="chinese">他中风之后成了废人。</span><span class="english">The stroke left him a helpless.</span></p>

@@ -1,5 +1,7 @@
 # specification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specification.md)
+
 <p><span class="chinese">行为规范。</span><span class="english">A behavioral specification.</span></p>
 
 <p><span class="chinese">IDL是一种规范语言。</span><span class="english">IDL is a specification language.</span></p>

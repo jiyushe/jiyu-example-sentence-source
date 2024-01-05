@@ -1,5 +1,7 @@
 # tripartite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tripartite.md)
+
 <p><span class="chinese">三段论试图为“知识”下一个精确的定义。</span><span class="english">Tripartite theory attempts to define what knowledge is.</span></p>
 
 <p><span class="chinese">三国合作的前景将更加广阔。</span><span class="english">The tripartite cooperation will enjoy a brighter future.</span></p>

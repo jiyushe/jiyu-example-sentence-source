@@ -1,5 +1,7 @@
 # bumpkin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bumpkin.md)
+
 <p><span class="chinese">我是东北土包子。</span><span class="english">I am a North East bumpkin.</span></p>
 
 <p><span class="chinese">你死定了，土包子兔子。</span><span class="english">Youre dead, bunny bumpkin.</span></p>

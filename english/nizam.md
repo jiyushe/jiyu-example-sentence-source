@@ -1,5 +1,7 @@
 # nizam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nizam.md)
+
 <p><span class="chinese">尽管如此，尼扎姆仍然难以确定生活的方向。</span><span class="english">Still, Nizam didn’t know what direction to take in life.</span></p>
 
 <p><span class="chinese">尼扎姆说，他父母的人生哲学使餐馆得以幸存。</span><span class="english">His parents’ philosophy sustained the restaurant, Nizam said.</span></p>

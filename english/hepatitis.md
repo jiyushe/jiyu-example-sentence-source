@@ -1,5 +1,7 @@
 # hepatitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatitis.md)
+
 <p><span class="chinese">什么是肝炎？</span><span class="english">What is hepatitis?</span></p>
 
 <p><span class="chinese">你得了肝炎。</span><span class="english">You contracted hepatitis.</span></p>

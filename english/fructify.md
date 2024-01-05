@@ -1,5 +1,7 @@
 # fructify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fructify.md)
+
 <p><span class="chinese">我能有幸结实全国有名的小说家吗？</span><span class="english">Is the my ability lucky to fructify national well-known novelist?</span></p>
 
 <p><span class="chinese">钞票缝得这样结实，还缀内衣里，到商场咋往出掏？</span><span class="english">The bill sew fructify so, underwear in, arrive the market go toward ?</span></p>

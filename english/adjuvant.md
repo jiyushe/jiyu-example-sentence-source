@@ -1,5 +1,7 @@
 # adjuvant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjuvant.md)
+
 <p><span class="chinese">细胞因子IL-2发挥了免疫佐剂的作用。</span><span class="english">IL-2 show good effect to ha sued as immune adjuvant.</span></p>
 
 <p><span class="chinese">这可以从增效剂上加以改进。</span><span class="english">This can be improved by the addition of an adjuvant.</span></p>

@@ -1,5 +1,7 @@
 # 修习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxi_1.md)
+
 <p><span class="chinese">你也可以为对自己做此修习。</span><span class="english">You can do it for yourself also.</span></p>
 
 <p><span class="chinese">其修习顺序极为不同。</span><span class="english">The order here is very different.</span></p>

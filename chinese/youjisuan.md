@@ -1,5 +1,7 @@
 # 有机酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjisuan.md)
+
 <p><span class="chinese">醋酸酯淀粉是有机酸酯类衍生物。</span><span class="english">The acetic ester of starch is organic acids derivatives.</span></p>
 
 <p><span class="chinese">而茅莓根的主要化学成分是有机酸酯和烷烃。</span><span class="english">In the roots, there were carboxylic acid ester and alkane.</span></p>

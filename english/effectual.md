@@ -1,5 +1,7 @@
 # effectual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectual.md)
+
 <p><span class="chinese">目的探索维思通的起效过程。</span><span class="english">ObjectiveTo explore risperidone effectual procedure.</span></p>
 
 <p><span class="chinese">实践表明，该监督控制系统是行之有效的。</span><span class="english">The practice has shown that the system is effectual.</span></p>

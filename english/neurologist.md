@@ -1,5 +1,7 @@
 # neurologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurologist.md)
+
 <p><span class="chinese">弗洛伊德医生被培训成为一个神经科专家。</span><span class="english">Doctor Freud was trained as a neurologist.</span></p>
 
 <p><span class="chinese">一个神经科专家在一个神经学上的问题上错了?。</span><span class="english">The neurologist is wrong about a neurological problem.</span></p>

@@ -1,5 +1,7 @@
 # 精打细算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdaxisuan.md)
+
 <p><span class="chinese">她是一个精打细算的女孩。</span><span class="english">She is a budget-minded girl.</span></p>
 
 <p><span class="chinese">精打细算是一件吝啬的事。</span><span class="english">Nice calculation is a niggardly thing.</span></p>

@@ -1,5 +1,7 @@
 # hol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hol.md)
+
 <p><span class="chinese">是的，我是约翰·霍兰。</span><span class="english">Yes, I am John Hol land.</span></p>
 
 <p><span class="chinese">他有一个红色的霍顿旅行车。</span><span class="english">He has a red Hol den Commodore station wagon.</span></p>

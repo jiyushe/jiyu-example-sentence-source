@@ -1,5 +1,7 @@
 # mass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mass.md)
+
 <p><span class="chinese">这是一个巨大的转折。</span><span class="english">It is a mass turn.</span></p>
 
 <p><span class="chinese">你怎么去测出它的质量</span><span class="english">How do you find this mass?</span></p>

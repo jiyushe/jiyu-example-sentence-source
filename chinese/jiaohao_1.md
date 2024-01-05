@@ -1,5 +1,7 @@
 # 叫好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohao_1.md)
+
 <p><span class="chinese">全街垒鼓掌叫好。</span><span class="english">The barricade applauded.</span></p>
 
 <p><span class="chinese">叫好的教师也有。</span><span class="english">Applauds the teacher also has.</span></p>

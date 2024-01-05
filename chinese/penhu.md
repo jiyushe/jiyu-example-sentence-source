@@ -1,5 +1,7 @@
 # 喷壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penhu.md)
+
 <p><span class="chinese">老天虽下雨，喷壶不成弃。</span><span class="english">Although is rain, throw not away thy watering pot.</span></p>
 
 <p><span class="chinese">将溶液灌入压力喷壶内，喷于待消毒表面，使其自然干燥。</span><span class="english">Clean equipment. Spray with sanitizing solution. Drain and air dry.</span></p>

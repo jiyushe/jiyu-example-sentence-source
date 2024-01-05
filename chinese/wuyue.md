@@ -1,5 +1,7 @@
 # 五岳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyue.md)
+
 <p><span class="chinese">喝令三山五岳开道。</span><span class="english">Let the mountains make way.</span></p>
 
 <p><span class="chinese">孔子就是五岳独尊的泰山吗?。</span><span class="english">Is Confucius the paragon of Mount Tai?</span></p>

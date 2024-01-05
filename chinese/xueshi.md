@@ -1,5 +1,7 @@
 # 学时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshi.md)
+
 <p><span class="chinese">跳级证书意味着需要更少的学时。</span><span class="english">A. P. credits can mean fewer required classes.</span></p>
 
 <p><span class="chinese">但是当地政府削减了我的学时。</span><span class="english">But my studies were cut short by the local government.</span></p>

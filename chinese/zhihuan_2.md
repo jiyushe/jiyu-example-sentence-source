@@ -1,5 +1,7 @@
 # 置换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihuan_2.md)
+
 <p><span class="chinese">给出了一种置换盒S的生成算法。</span><span class="english">Advanced a design methods of S-boxes.</span></p>
 
 <p><span class="chinese">为了实现这一点，我们要用到置换。</span><span class="english">To do that, we’ll apply a Displacement map.</span></p>

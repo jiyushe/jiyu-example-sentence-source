@@ -1,5 +1,7 @@
 # 溶洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongdong.md)
+
 <p><span class="chinese">在去溶洞的路上。</span><span class="english">On the way to the cave.</span></p>
 
 <p><span class="chinese">桂林有溶洞。</span><span class="english">There are karst caves in Guilin.</span></p>

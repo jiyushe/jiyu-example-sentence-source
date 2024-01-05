@@ -1,5 +1,7 @@
 # lifespan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifespan.md)
+
 <p><span class="chinese">动物的寿命大约是十亿次心跳的时间。</span><span class="english">A lifespan is a billion heartbeats.</span></p>
 
 <p><span class="chinese">15年的寿命对狗而言是比较常见的。</span><span class="english">A 15-year lifespan is not uncommon for a dog.</span></p>

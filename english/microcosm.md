@@ -1,5 +1,7 @@
 # microcosm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcosm.md)
+
 <p><span class="chinese">仙台市的现状，就是整个日本的缩影。</span><span class="english">Sendai is a microcosm of what ails Japan.</span></p>
 
 <p><span class="chinese">你应该把这看做是宇宙的微缩标本。</span><span class="english">Think of it as a microcosm of the universe.</span></p>

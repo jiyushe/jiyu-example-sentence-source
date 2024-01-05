@@ -1,5 +1,7 @@
 # joist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joist.md)
+
 <p><span class="chinese">角撑板一种三角形的金属托架，用来加固地板托梁。</span><span class="english">A triangular metal bracket used to strengthen a joist.</span></p>
 
 <p><span class="chinese">研究了轻钢龙骨体系的抗侧能力。</span><span class="english">The resisting lateral deformation capability of joist structure system is studied.</span></p>

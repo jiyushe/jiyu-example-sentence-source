@@ -1,5 +1,7 @@
 # monosaccharide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monosaccharide.md)
+
 <p><span class="chinese">目前糖醛酸的合成主要是以单糖为原料氧化而得。</span><span class="english">Uronic acid can be synthesized by oxidation of monosaccharide.</span></p>
 
 <p><span class="chinese">双糖的糖苷配基是一个单糖单元的苷。</span><span class="english">A compound containing three monosaccharide units is a trisaccharide.</span></p>

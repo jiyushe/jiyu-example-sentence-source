@@ -1,5 +1,7 @@
 # sympathectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympathectomy.md)
+
 <p><span class="chinese">应用双侧交感神经切除术来检测感觉通路。</span><span class="english">To determine sensory pathways, bilateral sympathectomy was performed.</span></p>
 
 <p><span class="chinese">结论内镜下胸交感神经链切断术比较安全。</span><span class="english">Conclusions Endoscopic thoracic sympathectomy is simple and safe, procedure.</span></p>

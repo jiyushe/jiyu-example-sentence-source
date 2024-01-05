@@ -1,5 +1,7 @@
 # 四大发明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sidafaming.md)
+
 <p><span class="chinese">你知道我国的四大发明吗？</span><span class="english">Do you know our four great inventions?</span></p>
 
 <p><span class="chinese">他们不再需要四大发明。</span><span class="english">They don't need the four great inventions anymore.</span></p>

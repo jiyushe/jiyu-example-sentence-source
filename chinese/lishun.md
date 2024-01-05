@@ -1,5 +1,7 @@
 # 理顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishun.md)
+
 <p><span class="chinese">她理顺了乱蓬蓬的头发。</span><span class="english">She smoothed her dishevelled hair.</span></p>
 
 <p><span class="chinese">你得先把你的思路理顺。</span><span class="english">You should straighten up your ideas first.</span></p>

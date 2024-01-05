@@ -1,5 +1,7 @@
 # 雪花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehua.md)
+
 <p><span class="chinese">雪花白。</span><span class="english">Snow Flower White.</span></p>
 
 <p><span class="chinese">雪花可有回天乏力之术？</span><span class="english">What sorcery had snow?</span></p>

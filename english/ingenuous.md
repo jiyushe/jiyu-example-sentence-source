@@ -1,5 +1,7 @@
 # ingenuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingenuous.md)
+
 <p><span class="chinese">她是个纯真的乡村姑娘。</span><span class="english">She's an ingenuous country girl.</span></p>
 
 <p><span class="chinese">作为一名记者，他太老实了。</span><span class="english">He seemed too ingenuous for a reporter.</span></p>

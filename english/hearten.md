@@ -1,5 +1,7 @@
 # hearten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearten.md)
+
 <p><span class="chinese">他对我说了许多鼓励的话。</span><span class="english">He said a lot to hearten me.</span></p>
 
 <p><span class="chinese">我要先让你振作起来。</span><span class="english">I will go first hearten thee.</span></p>

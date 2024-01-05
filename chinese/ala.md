@@ -1,5 +1,7 @@
 # 阿拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ala.md)
+
 <p><span class="chinese">那阿拉姆会是新的领导人么？</span><span class="english">So is Alam the new leader?</span></p>
 
 <p><span class="chinese">是的。-我是那卖“阿拉米香水”的。</span><span class="english">Yes. -I was the Aramis guy.</span></p>

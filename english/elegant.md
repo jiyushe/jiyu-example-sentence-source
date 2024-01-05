@@ -1,5 +1,7 @@
 # elegant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elegant.md)
+
 <p><span class="chinese">一个人很静很淡雅。</span><span class="english">A very quiet very elegant.</span></p>
 
 <p><span class="chinese">您老一直在我心中。</span><span class="english">You are as elegant as a cloud.</span></p>

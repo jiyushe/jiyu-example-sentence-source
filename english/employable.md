@@ -1,5 +1,7 @@
 # employable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/employable.md)
+
 <p><span class="chinese">更多的教育并不能使你获得更好的工作。</span><span class="english">And more education does not make one more employable.</span></p>
 
 <p><span class="chinese">你掌握的技能越多，你在就业市场上就越有竞争力。</span><span class="english">The more different kinds of skills you have, the more employable you are.</span></p>

@@ -1,5 +1,7 @@
 # foggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foggy.md)
+
 <p><span class="chinese">那里的天气凉爽多雾。</span><span class="english">It's cool and foggy there.</span></p>
 
 <p><span class="chinese">早上好啊。今天下雾了。</span><span class="english">Morning! It is foggy today.</span></p>

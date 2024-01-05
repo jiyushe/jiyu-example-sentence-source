@@ -1,5 +1,7 @@
 # 心火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuo.md)
+
 <p><span class="chinese">是什么点燃了心火？</span><span class="english">What ignites that spark.</span></p>
 
 <p><span class="chinese">我是一团熊熊燃烧的地心火！</span><span class="english">I am the flaming fire inside the earth!</span></p>

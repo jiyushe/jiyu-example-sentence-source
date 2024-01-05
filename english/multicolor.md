@@ -1,5 +1,7 @@
 # multicolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicolor.md)
+
 <p><span class="chinese">长安回望绣成堆，山顶千门次第开。</span><span class="english">I look back Chang'an hilltop embroidered in multicolor.</span></p>
 
 <p><span class="chinese">会标多色的的路易威登袋格里塔是一个古典和优雅。</span><span class="english">Multicolor Louis Vuitton bags Greta is a classic and elegant.</span></p>

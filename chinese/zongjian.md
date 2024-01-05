@@ -1,5 +1,7 @@
 # 总监
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongjian.md)
+
 <p><span class="chinese">这是封信是写给总监的。</span><span class="english">Here is the letter to majordomo.</span></p>
 
 <p><span class="chinese">这是一封给总监的信。</span><span class="english">Here is the letter for majordomo.</span></p>

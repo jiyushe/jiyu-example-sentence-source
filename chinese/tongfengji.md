@@ -1,5 +1,7 @@
 # 通风机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongfengji.md)
+
 <p><span class="chinese">货舱通风机能工作吗？</span><span class="english">Are hold ventilators operational?</span></p>
 
 <p><span class="chinese">窗上的通风机发出了耳语般轻微的嗡嗡声。</span><span class="english">The fan at the window made a small whispering roar.</span></p>

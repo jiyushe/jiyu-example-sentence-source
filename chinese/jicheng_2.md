@@ -1,5 +1,7 @@
 # 继承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jicheng_2.md)
+
 <p><span class="chinese">在这些国家里，继承问题都是家务事。</span><span class="english">All in the Family.</span></p>
 
 <p><span class="chinese">父亲剥夺了自己继承人的继承资格。</span><span class="english">The father disowned his heirs.</span></p>

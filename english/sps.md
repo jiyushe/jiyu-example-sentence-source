@@ -1,5 +1,7 @@
 # sps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sps.md)
+
 <p><span class="chinese">放电等离子烧结材料的电导率高于常规烧结材料。</span><span class="english">Conductivities of the SPS materials were higher than that of the CS ones.</span></p>
 
 <p><span class="chinese">第二部分对社会主义初级阶段民族矛盾的原因进行了分析。</span><span class="english">The second part is dedicate to analysis the cause of national contradiction in SPS.</span></p>

@@ -1,5 +1,7 @@
 # pesticidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pesticidal.md)
+
 <p><span class="chinese">本发明提供了改进的包膜杀虫剂基质及其它们的制备方法。</span><span class="english">The present invention provides improved coated pesticidal matrices and a process for their preparation.</span></p>
 
 <p><span class="chinese">本文主要介绍了米满的杀虫机制及在国内的应用情况。</span><span class="english">In this paper, the pathway of synthesis, pesticidal mechanism, bioactivity of tebufenozide were introduced.</span></p>

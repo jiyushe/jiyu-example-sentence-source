@@ -1,5 +1,7 @@
 # investigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investigate.md)
+
 <p><span class="chinese">为了调查服毒自杀理论。</span><span class="english">To investigate the poison theory.</span></p>
 
 <p><span class="chinese">科学家研究自然。</span><span class="english">Scientists investigate the nature.</span></p>

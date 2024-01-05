@@ -1,5 +1,7 @@
 # 欲望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwang.md)
+
 <p><span class="chinese">我们有欲望。</span><span class="english">We have inclinations.</span></p>
 
 <p><span class="chinese">欲望主导生活。</span><span class="english">Desire dominants life.</span></p>

@@ -1,5 +1,7 @@
 # blockage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blockage.md)
+
 <p><span class="chinese">不要使用，如果您有肠阻塞。</span><span class="english">Do not use if you have intestinal blockage.</span></p>
 
 <p><span class="chinese">动脉中的堵塞会重新打开吗？</span><span class="english">Does the blockage in the artery ever re-open?</span></p>

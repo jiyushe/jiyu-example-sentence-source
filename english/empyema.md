@@ -1,5 +1,7 @@
 # empyema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empyema.md)
+
 <p><span class="chinese">脓胸症最常见的原因为支气管及肺部感染。</span><span class="english">The most common cause of empyema is broncho-pulmonary infection.</span></p>
 
 <p><span class="chinese">因肝脓疡破裂后而迅速形成脓胸的情况并不多见。</span><span class="english">Rapid formation of empyema secondary to ruptured liver abscess is rare.</span></p>

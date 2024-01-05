@@ -1,5 +1,7 @@
 # colt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colt.md)
+
 <p><span class="chinese">小雄马叫做colt。</span><span class="english">A young male is a colt.</span></p>
 
 <p><span class="chinese">雌马生了一匹小马。</span><span class="english">The mare gave birth to a colt.</span></p>

@@ -1,5 +1,7 @@
 # 强弩之末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangnuzhimo.md)
+
 <p><span class="chinese">然而他的医生承认这是强弩之末。</span><span class="english">But his doctors admit it's a long shot.</span></p>
 
 <p><span class="chinese">在情感上已经是强弩之末。</span><span class="english">We've been a spent bullet for the love.</span></p>

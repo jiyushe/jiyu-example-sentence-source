@@ -1,5 +1,7 @@
 # slough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slough.md)
+
 <p><span class="chinese">删除无关紧要的空话。</span><span class="english">Slough off unimportant verbiage.</span></p>
 
 <p><span class="chinese">希望可以使她摆脱悲伤。</span><span class="english">A hope could slough off her sadness.</span></p>

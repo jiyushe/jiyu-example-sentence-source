@@ -1,5 +1,7 @@
 # clinician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinician.md)
+
 <p><span class="chinese">罗杰斯是一个非常具有天赋的临床医师。</span><span class="english">Rogers is reputed to have been a very gifted clinician.</span></p>
 
 <p><span class="chinese">对于临床医生，骨缺损是一个很难解决的问题。</span><span class="english">Bone defects represent a difficult problem for the clinician.</span></p>

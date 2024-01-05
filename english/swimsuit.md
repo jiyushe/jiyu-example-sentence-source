@@ -1,5 +1,7 @@
 # swimsuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swimsuit.md)
+
 <p><span class="chinese">你的游泳衣有没有带在身边？</span><span class="english">Do you have your swimsuit with you?</span></p>
 
 <p><span class="chinese">年度最佳泳装美少女登场！</span><span class="english">Here comes the best swimsuit of the year!</span></p>

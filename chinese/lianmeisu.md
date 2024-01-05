@@ -1,5 +1,7 @@
 # 链霉素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianmeisu.md)
+
 <p><span class="chinese">对硫酸链霉素低度敏感。</span><span class="english">Low-alcohol sensitive to streptomycin sulphate.</span></p>
 
 <p><span class="chinese">例如阿莫西林，链霉素，红霉素。</span><span class="english">For example amoxicillin, streptomycin and erythromycin.</span></p>

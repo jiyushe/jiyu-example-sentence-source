@@ -1,5 +1,7 @@
 # 竹林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulin.md)
+
 <p><span class="chinese">森林，包括乔木林和竹林。</span><span class="english">Forest includes arbor forest and bamboo forest.</span></p>
 
 <p><span class="chinese">森林，包括乔木林和竹林。</span><span class="english">Forests include arbor forests and bamboo forests.</span></p>

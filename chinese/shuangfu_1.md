@@ -1,5 +1,7 @@
 # 孀妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangfu_1.md)
+
 <p><span class="chinese">西院病孀妇，后床孤侄儿。</span><span class="english">West Court disease widow, nephew after bed alone.</span></p>
 
 <p><span class="chinese">这位孀妇拥有这幢大楼及其周围的地产。</span><span class="english">The widow owns this building and its surrounding lands.</span></p>

@@ -1,5 +1,7 @@
 # rotterdam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotterdam.md)
+
 <p><span class="chinese">荷兰鹿特丹港。</span><span class="english">Rotterdam of the Netherlands.</span></p>
 
 <p><span class="chinese">这些冷藏集装箱是到鹿特丹的吗？</span><span class="english">Are these reefer containers for Rotterdam?</span></p>

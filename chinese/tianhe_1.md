@@ -1,5 +1,7 @@
 # 天河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianhe_1.md)
+
 <p><span class="chinese">我打算去天河购书中心。</span><span class="english">A. I am going to Haizhu BookCenter.</span></p>
 
 <p><span class="chinese">天河-1A超级计算机，天津，中国</span><span class="english">The Tianhe-1A supercomputer in Tianjin, China.</span></p>

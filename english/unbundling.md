@@ -1,5 +1,7 @@
 # unbundling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbundling.md)
+
 <p><span class="chinese">钱德勒本身就是个鉴戒，警告人们不要把拆分风尚演绎得太为过分。</span><span class="english">He himself was a warning against taking the unbundling fad too far.</span></p>
 
 <p><span class="chinese">保持原来风格，但这听起来更像是品牌机票和非捆绑式定价。</span><span class="english">Hold the sauce, but that sounds a lot to me like branded fares and a whole lot of unbundling.</span></p>

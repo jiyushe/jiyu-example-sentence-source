@@ -1,5 +1,7 @@
 # snook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snook.md)
+
 <p><span class="chinese">斯努克表示，里德尔将会在法庭上进行自我辩护。</span><span class="english">Snook said Riddell planned to represent himself in court.</span></p>
 
 <p><span class="chinese">斯努克，以及是物件导向的并被埋伏的犯罪分子。</span><span class="english">Snook are object-oriented as well, and are ambushing predators.</span></p>

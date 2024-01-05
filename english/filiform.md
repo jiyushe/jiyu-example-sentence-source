@@ -1,5 +1,7 @@
 # filiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filiform.md)
+
 <p><span class="chinese">花柱丝状，与花瓣等长。</span><span class="english">Style filiform , as long as petals.</span></p>
 
 <p><span class="chinese">全部相似的叶，通常沉水的，具丝状的裂片。</span><span class="english">Leaves all similar, usually submerged, with filiform segments.</span></p>

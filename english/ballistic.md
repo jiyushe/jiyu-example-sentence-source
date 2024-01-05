@@ -1,5 +1,7 @@
 # ballistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballistic.md)
+
 <p><span class="chinese">弹道飞弹？他们从哪里发射这种东西的？</span><span class="english">A ballistic missile? Where'd they launch that from?</span></p>
 
 <p><span class="chinese">Vincen反驳他，突然间乔布斯暴走了。</span><span class="english">Vincent argued back and suddenly Jobs went ballistic.</span></p>

@@ -1,5 +1,7 @@
 # wheeler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheeler.md)
+
 <p><span class="chinese">惠勒先生是个什么人物？</span><span class="english">Who was Mr. Wheeler?</span></p>
 
 <p><span class="chinese">惠勒就没有你的资料。</span><span class="english">Wheeler has no record of you.</span></p>

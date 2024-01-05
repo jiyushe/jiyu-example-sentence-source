@@ -1,5 +1,7 @@
 # divine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divine.md)
+
 <p><span class="chinese">进到神圣的自我！</span><span class="english">Into the Divine Self!</span></p>
 
 <p><span class="chinese">“神光”是什么？</span><span class="english">What is Divine Light?</span></p>

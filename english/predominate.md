@@ -1,5 +1,7 @@
 # predominate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predominate.md)
+
 <p><span class="chinese">那里的森林中松树最多。</span><span class="english">Pines predominate the forest there.</span></p>
 
 <p><span class="chinese">这里的树林中最多的是杨树。</span><span class="english">Poplars predominate the woods here.</span></p>

@@ -1,5 +1,7 @@
 # famously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/famously.md)
+
 <p><span class="chinese">西班牙有名地有午休。</span><span class="english">The Spanish famously have siestas.</span></p>
 
 <p><span class="chinese">这个班出了名的难治理的班。</span><span class="english">The class is famously hard to govern.</span></p>

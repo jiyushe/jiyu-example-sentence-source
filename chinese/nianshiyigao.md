@@ -1,5 +1,7 @@
 # 年事已高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianshiyigao.md)
+
 <p><span class="chinese">虽然年事已高，我还是要学开车。</span><span class="english">Despite advanced years, I'm learning to drive.</span></p>
 
 <p><span class="chinese">但他年事已高，也不了解现在的世界是怎样的。</span><span class="english">But he is old and he doesn't know how the world is.</span></p>

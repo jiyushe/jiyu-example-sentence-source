@@ -1,5 +1,7 @@
 # 公堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtang.md)
+
 <p><span class="chinese">这间办公室看起来像是一个私设的公堂。</span><span class="english">The office looked like a kangaroo court.</span></p>
 
 <p><span class="chinese">娱乐公司应该珍惜它们，而非将其告上公堂。</span><span class="english">They need to be cherished byentertainment companies, not sued.</span></p>

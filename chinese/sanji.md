@@ -1,5 +1,7 @@
 # 散剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanji.md)
+
 <p><span class="chinese">用HPLC法对阿斯匹林散剂中阿斯匹林含量进行了测定。</span><span class="english">HPLC method was used in the determination of aspirin in granules.</span></p>
 
 <p><span class="chinese">当采用扩散剂N时，与腐殖酸混合使用效果也较好。</span><span class="english">The mix of humic acid with diffusion agent N have good effect too.</span></p>

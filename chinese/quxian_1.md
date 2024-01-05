@@ -1,5 +1,7 @@
 # 曲线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxian_1.md)
+
 <p><span class="chinese">这是一条向里弯曲的曲线。</span><span class="english">This is an inward curve.</span></p>
 
 <p><span class="chinese">从供应曲线上面跳下去吧！</span><span class="english">Go jump off a supply curve!</span></p>

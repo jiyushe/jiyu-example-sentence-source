@@ -1,5 +1,7 @@
 # luminescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminescence.md)
+
 <p><span class="chinese">特殊的发光角度，价格较高。</span><span class="english">Luminescence special point of view, higher prices.</span></p>
 
 <p><span class="chinese">由于吸收光辐射而发光的现象。</span><span class="english">Luminescence caused by absorption of optical radiation.</span></p>

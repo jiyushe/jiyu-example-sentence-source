@@ -1,5 +1,7 @@
 # 胎盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taipan.md)
+
 <p><span class="chinese">这就是所谓的前置胎盘。</span><span class="english">This is called placenta praevia.</span></p>
 
 <p><span class="chinese">把孕育它们的胎盘变成荒坟。</span><span class="english">Making their tomb the womb wherein they grew?</span></p>

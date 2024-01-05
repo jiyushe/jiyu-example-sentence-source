@@ -1,5 +1,7 @@
 # anatomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatomy.md)
+
 <p><span class="chinese">解剖是命运。</span><span class="english">Anatomy is destiny.</span></p>
 
 <p><span class="chinese">动物解剖学。</span><span class="english">The anatomy of animals.</span></p>

@@ -1,5 +1,7 @@
 # discreetly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discreetly.md)
+
 <p><span class="chinese">他们讲话的语气谨慎平静。</span><span class="english">The mood is discreetly calm.</span></p>
 
 <p><span class="chinese">她审慎地咳了一声以让人注意自己在场。</span><span class="english">She coughed discreetly to announce her presence.</span></p>

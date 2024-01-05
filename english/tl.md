@@ -1,5 +1,7 @@
 # tl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tl.md)
+
 <p><span class="chinese">我要往里昂打电话，对方付费。</span><span class="english">Je voudrais tl phoner Lyon, en PCV.</span></p>
 
 <p><span class="chinese">只有这样，才能做到原语和译语在信息量上的等值。</span><span class="english">Only in this way can the information load of SL and TL be equalized.</span></p>

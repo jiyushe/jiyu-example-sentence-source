@@ -1,5 +1,7 @@
 # eugene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eugene.md)
+
 <p><span class="chinese">助手尤金•卡恩也加入了他们。</span><span class="english">Aide Eugene Kang also joined them.</span></p>
 
 <p><span class="chinese">我不知道欧也纳对你说了些什么。</span><span class="english">I do not know what Eugene has told you.</span></p>

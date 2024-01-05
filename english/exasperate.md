@@ -1,5 +1,7 @@
 # exasperate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exasperate.md)
+
 <p><span class="chinese">这话似乎激怒了王子。</span><span class="english">This seemed to exasperate the Prince.</span></p>
 
 <p><span class="chinese">激怒或激怒某人写辱骂人身攻击。</span><span class="english">To Enrage or exasperate someone is to write an abusive personal attack.</span></p>

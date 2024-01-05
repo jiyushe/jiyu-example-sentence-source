@@ -1,5 +1,7 @@
 # 整理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengli_1.md)
+
 <p><span class="chinese">整理一些文件。</span><span class="english">File some papers.</span></p>
 
 <p><span class="chinese">她整理了房间。</span><span class="english">She tidied the room.</span></p>

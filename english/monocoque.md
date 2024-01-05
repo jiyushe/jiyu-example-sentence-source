@@ -1,5 +1,7 @@
 # monocoque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monocoque.md)
+
 <p><span class="chinese">更大且采用硬壳式结构。</span><span class="english">It is larger and of monocoque construction.</span></p>
 
 <p><span class="chinese">身体和帧是一个混合单体结构。</span><span class="english">The body and frame are a hybrid monocoque structure.</span></p>

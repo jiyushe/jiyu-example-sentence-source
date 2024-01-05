@@ -1,5 +1,7 @@
 # 抛光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoguang.md)
+
 <p><span class="chinese">然后用抛光机抛光。</span><span class="english">Use polishing machine to polish.</span></p>
 
 <p><span class="chinese">水晶体、电子芯片等的抛光。</span><span class="english">Polishing crystalline lens and chip.</span></p>

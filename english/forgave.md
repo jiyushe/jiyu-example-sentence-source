@@ -1,5 +1,7 @@
 # forgave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgave.md)
+
 <p><span class="chinese">多多的原谅我。</span><span class="english">Forgave me a lot.</span></p>
 
 <p><span class="chinese">她原谅了她的虐待者。</span><span class="english">She forgave her abuser.</span></p>

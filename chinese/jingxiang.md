@@ -1,5 +1,7 @@
 # 镜象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxiang.md)
+
 <p><span class="chinese">它可能只是镜象。</span><span class="english">It could be on reflection.</span></p>
 
 <p><span class="chinese">广义镜象变换保留着镜象变换的主要特性。</span><span class="english">Major properties of the HT remain in the GHT.</span></p>

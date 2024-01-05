@@ -1,5 +1,7 @@
 # carnauba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnauba.md)
+
 <p><span class="chinese">纯白“或”象牙白“棕梠蜡是不存在的。</span><span class="english">"White" or "Ivory" carnauba wax does not exist, period.</span></p>
 
 <p><span class="chinese">巴西棕榈是一种天然的最硬物质。</span><span class="english">Carnauba is the hardest natural occurring wax available.</span></p>

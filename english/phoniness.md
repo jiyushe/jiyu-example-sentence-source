@@ -1,5 +1,7 @@
 # phoniness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoniness.md)
+
 <p><span class="chinese">我可以看透他的虚情假意。</span><span class="english">I can see through his phoniness.</span></p>
 
 <p><span class="chinese">通过这种方法来判明真伪还远远达不到万无一失的程度，但它提供了一个不错的方向。</span><span class="english">Detecting phoniness this way is far from fail-safe, but it is a good guide.</span></p>

@@ -1,5 +1,7 @@
 # gullible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gullible.md)
+
 <p><span class="chinese">而且现在也不会那么容易受骗了。</span><span class="english">And I’m less gullible now.</span></p>
 
 <p><span class="chinese">现在,你们或许也在纠结于这段历史</span><span class="english">Now, you might think of this as, indeed, gullible.</span></p>

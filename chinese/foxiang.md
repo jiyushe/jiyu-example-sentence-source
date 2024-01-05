@@ -1,5 +1,7 @@
 # 佛像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foxiang.md)
+
 <p><span class="chinese">这尊佛像简直是太大了！</span><span class="english">So large a joss it is!</span></p>
 
 <p><span class="chinese">这尊佛像啊是全铜制作的。</span><span class="english">This joss is cast with bronze.</span></p>

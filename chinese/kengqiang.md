@@ -1,5 +1,7 @@
 # 铿锵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kengqiang.md)
+
 <p><span class="chinese">敲出铿锵的音符。</span><span class="english">Strike a note.</span></p>
 
 <p><span class="chinese">她们的球迷把她们叫做铿锵玫瑰。</span><span class="english">Their fans call them Steel Roses.</span></p>

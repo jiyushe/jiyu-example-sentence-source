@@ -1,5 +1,7 @@
 # malar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malar.md)
+
 <p><span class="chinese">“贝恩·马拉”这个名字令科舍尔香料矿区的囚犯闻之色变。</span><span class="english">The inmates of the Kessel spice mines dreaded the name Bane Malar.</span></p>
 
 <p><span class="chinese">目的探讨治疗颧骨复合体肥大的新型外科整复术。</span><span class="english">Objective To present a new method of osteotomy for malar complex hypertrophy.</span></p>

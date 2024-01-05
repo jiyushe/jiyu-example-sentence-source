@@ -1,5 +1,7 @@
 # 大学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxue.md)
+
 <p><span class="chinese">该大学。</span><span class="english">The Univ.</span></p>
 
 <p><span class="chinese">去上大学。</span><span class="english">Go to college.</span></p>

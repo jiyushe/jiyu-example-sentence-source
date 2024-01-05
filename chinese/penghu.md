@@ -1,5 +1,7 @@
 # 棚户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penghu.md)
+
 <p><span class="chinese">家庭的棚户烧伤年年中冬季地面。</span><span class="english">The family's shanty burns to the ground in mid-winter.</span></p>
 
 <p><span class="chinese">雅加达实际不过是一大堆闷热的棚户和茅舍。</span><span class="english">Djakarta was a collection of sweltering huts and hovels.</span></p>

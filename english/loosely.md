@@ -1,5 +1,7 @@
 # loosely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loosely.md)
+
 <p><span class="chinese">他用字太不严谨。</span><span class="english">He used words too loosely.</span></p>
 
 <p><span class="chinese">这把小提琴装的松了。</span><span class="english">The violin is loosely strung.</span></p>

@@ -1,5 +1,7 @@
 # salt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salt.md)
+
 <p><span class="chinese">泥在盐上。</span><span class="english">Mud on salt.</span></p>
 
 <p><span class="chinese">加盐，尝尝咸淡。</span><span class="english">Salt to taste.</span></p>

@@ -1,5 +1,7 @@
 # 顺水推舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshuituizhou.md)
+
 <p><span class="chinese">假如它是个好工作，我们就顺水推舟。</span><span class="english">If it's a good one, then we'll make it work for us.</span></p>
 
 <p><span class="chinese">过放荡不羁的生活，容易得像顺水推舟，但是要结识良朋益友，却难如登天。</span><span class="english">A lead a fast life, was as easy as it, but to meet friends, but impossible.</span></p>

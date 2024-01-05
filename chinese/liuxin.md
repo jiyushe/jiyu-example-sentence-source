@@ -1,5 +1,7 @@
 # 留心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuxin.md)
+
 <p><span class="chinese">留心火烛。</span><span class="english">Beware of the fire.</span></p>
 
 <p><span class="chinese">留心你的健康。</span><span class="english">Be careful of your health.</span></p>

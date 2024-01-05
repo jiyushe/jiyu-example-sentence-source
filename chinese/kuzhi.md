@@ -1,5 +1,7 @@
 # 枯枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuzhi.md)
+
 <p><span class="chinese">握在枯枝之中。</span><span class="english">In withered twig.</span></p>
 
 <p><span class="chinese">这些枯枝被捆在一起。</span><span class="english">The sticks are tied together.</span></p>

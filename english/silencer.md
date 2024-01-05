@@ -1,5 +1,7 @@
 # silencer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silencer.md)
+
 <p><span class="chinese">于是见他装上灭音器，一枪把他毙了！</span><span class="english">You can put a silencer on a gun.</span></p>
 
 <p><span class="chinese">一把带着消音器的枪立即开火了。</span><span class="english">A gun with a silencer fires once.</span></p>

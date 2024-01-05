@@ -1,5 +1,7 @@
 # incident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incident.md)
+
 <p><span class="chinese">你听说过“西安事变”吗？</span><span class="english">Have you heard of Xi'an Incident?</span></p>
 
 <p><span class="chinese">向消费品安全委员会举报每一个事件</span><span class="english">Report Every Incident to the CPSC</span></p>

@@ -1,5 +1,7 @@
 # imbibition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbibition.md)
+
 <p><span class="chinese">该结论与常规吸入法所得结论一致。</span><span class="english">The result is very closely to that by the normal imbibition method.</span></p>
 
 <p><span class="chinese">大多数品种种子的水分吸胀作用在播种后进行很快。</span><span class="english">In seeds of most varieties imbibition of water takes place rapidly following planting.</span></p>

@@ -1,5 +1,7 @@
 # 耳针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erzhen.md)
+
 <p><span class="chinese">耳针针刺的注意事项。</span><span class="english">The matters need attention of auricular acupunture.</span></p>
 
 <p><span class="chinese">了解耳针的近代研究概况。</span><span class="english">Know about the development of auricular acupuncture therapy.</span></p>

@@ -1,5 +1,7 @@
 # insuperable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insuperable.md)
+
 <p><span class="chinese">还有他的年纪也成为不能制胜的障碍。</span><span class="english">That, and his age, may be insuperable handicaps.</span></p>
 
 <p><span class="chinese">光是提出这样的问题,就像是丢出了许多不能克服的障碍。</span><span class="english">Even to raise such a question seems to pose insuperable obstacles.</span></p>

@@ -1,5 +1,7 @@
 # 橡实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshi_1.md)
+
 <p><span class="chinese">每一棵橡树都曾是一颗小橡实。</span><span class="english">Every oak has been an acorn.</span></p>
 
 <p><span class="chinese">橡实是橡树固有的。</span><span class="english">The oak is implicit in the acorn.</span></p>

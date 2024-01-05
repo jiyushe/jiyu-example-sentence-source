@@ -1,5 +1,7 @@
 # 生殖器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhiqi.md)
+
 <p><span class="chinese">你就在生殖器阶段。</span><span class="english">You're in the phallic stage.</span></p>
 
 <p><span class="chinese">印度教中湿婆的生殖器的象征。</span><span class="english">The hindu phallic symbol of siva.</span></p>

@@ -1,5 +1,7 @@
 # 准则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunze.md)
+
 <p><span class="chinese">一套道德准则？</span><span class="english">A code of ethics?</span></p>
 
 <p><span class="chinese">这是影视圈的准则。</span><span class="english">This is standard in TV.</span></p>

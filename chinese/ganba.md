@@ -1,5 +1,7 @@
 # 干巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganba.md)
+
 <p><span class="chinese">当然我也要干巴爹。</span><span class="english">Of course, I also should be ganbade.</span></p>
 
 <p><span class="chinese">枣儿都晒干巴了。</span><span class="english">The dates have all dried up in the sun.</span></p>

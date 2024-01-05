@@ -1,5 +1,7 @@
 # 字音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyin.md)
+
 <p><span class="chinese">虽然它的字音不一样。</span><span class="english">Despite its different pronunciations.</span></p>
 
 <p><span class="chinese">老师把每一个字音都读得很慢。</span><span class="english">PRONOUNCE】The teacher pronounced each word slowly.</span></p>

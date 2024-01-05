@@ -1,5 +1,7 @@
 # unforgettable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unforgettable.md)
+
 <p><span class="chinese">忘不了你的迷惑。</span><span class="english">Your unforgettable mystify.</span></p>
 
 <p><span class="chinese">乐队表演的纯熟定会令你难以忘怀。</span><span class="english">The band will make you unforgettable.</span></p>

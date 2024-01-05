@@ -1,5 +1,7 @@
 # 缩减
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suojian.md)
+
 <p><span class="chinese">在此我有点缩减。</span><span class="english">Here I am abbreviating.</span></p>
 
 <p><span class="chinese">人们缩减劳动执行要求</span><span class="english">they undercut labor practices,</span></p>

@@ -1,5 +1,7 @@
 # ruddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruddy.md)
+
 <p><span class="chinese">她的同类，火狐狸。</span><span class="english">Her the same variety, ruddy fox.</span></p>
 
 <p><span class="chinese">那个年轻人脸色红润。</span><span class="english">That young man has a ruddy face.</span></p>

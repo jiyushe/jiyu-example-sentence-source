@@ -1,5 +1,7 @@
 # interlinkage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlinkage.md)
+
 <p><span class="chinese">蓝牙技术是一种开放的无线短距互联技术。</span><span class="english">Bluetooth technology is an open short-range wireless interlinkage technology.</span></p>
 
 <p><span class="chinese">在部分课文后面，安排有“资料袋”或“阅读链接”。</span><span class="english">Make arrangements for having "the data bag " or "reading interlinkage " behind part text.</span></p>

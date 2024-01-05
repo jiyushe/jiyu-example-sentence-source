@@ -1,5 +1,7 @@
 # prosperous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosperous.md)
+
 <p><span class="chinese">至少人家有一个是长胜。</span><span class="english">At least one is prosperous.</span></p>
 
 <p><span class="chinese">乔治二世统治下的英国繁荣昌盛。</span><span class="english">England under George II was prosperous.</span></p>

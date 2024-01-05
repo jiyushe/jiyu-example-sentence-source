@@ -1,5 +1,7 @@
 # accommodating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accommodating.md)
+
 <p><span class="chinese">或许你的前臂更加具有可调性。</span><span class="english">Maybe your forearm could be more accommodating.</span></p>
 
 <p><span class="chinese">美丽，爱自由，有主见，随性。</span><span class="english">Pretty, love freedom, definite view, accommodating.</span></p>

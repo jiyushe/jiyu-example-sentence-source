@@ -1,5 +1,7 @@
 # 八国联军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baguolianjun.md)
+
 <p><span class="chinese">八国联军一家门啊，我的天，摆出来才知道女人唔易做。</span><span class="english">Eight-one door ah, my God, put out to know a woman Dancer.</span></p>
 
 <p><span class="chinese">有种八国联军进京城的感觉呵呵…济南人民太热情了。</span><span class="english">Beijing has allied forces into the feeling. Jinan people's enthusiasm.</span></p>

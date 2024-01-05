@@ -1,5 +1,7 @@
 # 贪图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantu_2.md)
+
 <p><span class="chinese">所以世间的荣华富贵绝不能贪图啊！</span><span class="english">So the world the splendor can never covet!</span></p>
 
 <p><span class="chinese">懒惰，贪图舒服，多么险恶的悬崖！</span><span class="english">What precipices are idleness and pleasure!</span></p>

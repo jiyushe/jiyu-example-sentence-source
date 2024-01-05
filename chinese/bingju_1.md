@@ -1,5 +1,7 @@
 # 病句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingju_1.md)
+
 <p><span class="chinese">可以做的就是你这句话是病句…</span><span class="english">If you english is very good , What can you do?</span></p>
 
 <p><span class="chinese">我操，这个句子是病句，不给力啊。</span><span class="english">I speak, this sentence is wrong sentences, not to force ah.</span></p>

@@ -1,5 +1,7 @@
 # impetuosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impetuosity.md)
+
 <p><span class="chinese">浮躁是无能的同义语。</span><span class="english">Impetuosity is the synonym of incompetence.</span></p>
 
 <p><span class="chinese">清醒的理智战胜了盲目冲动的急躁情绪。</span><span class="english">Good sense has triumphed over unreasoning impetuosity.</span></p>

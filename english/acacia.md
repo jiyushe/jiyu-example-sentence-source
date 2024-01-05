@@ -1,5 +1,7 @@
 # acacia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acacia.md)
+
 <p><span class="chinese">明月清风寄相思！</span><span class="english">Send Acacia moon breeze!</span></p>
 
 <p><span class="chinese">何处相思明月楼？</span><span class="english">Acacia House, where the moon?</span></p>

@@ -1,5 +1,7 @@
 # overbalance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overbalance.md)
+
 <p><span class="chinese">我们的义务可能超过我们的权利。</span><span class="english">Our duties may overbalance our rights.</span></p>
 
 <p><span class="chinese">利大于弊。</span><span class="english">The  advantages overbalance the disadvantages.</span></p>

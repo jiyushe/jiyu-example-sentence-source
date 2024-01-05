@@ -1,5 +1,7 @@
 # compressor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compressor.md)
+
 <p><span class="chinese">这个空气压缩机不能工作。</span><span class="english">This air compressor doesn't work.</span></p>
 
 <p><span class="chinese">气体燃料增压撬装体。</span><span class="english">MH62 fuel gas boosting compressor unit.</span></p>

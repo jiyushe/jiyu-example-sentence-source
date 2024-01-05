@@ -1,5 +1,7 @@
 # sup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sup.md)
+
 <p><span class="chinese">他已经两天不吃不喝了。</span><span class="english">He has been without bite or sup for two days.</span></p>
 
 <p><span class="chinese">第一次浆板&跑步参赛者！</span><span class="english">The first ever SUP & Run Biathlon constestants!</span></p>

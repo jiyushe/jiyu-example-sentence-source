@@ -1,5 +1,7 @@
 # triassic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triassic.md)
+
 <p><span class="chinese">其时代为早三叠世晚期。</span><span class="english">Its age is late Early Triassic.</span></p>
 
 <p><span class="chinese">那时已是三叠纪末期。</span><span class="english">This was towards the end of the Triassic period.</span></p>

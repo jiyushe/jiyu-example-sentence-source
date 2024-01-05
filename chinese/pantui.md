@@ -1,5 +1,7 @@
 # 盘腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pantui.md)
+
 <p><span class="chinese">我们在塌塌米上盘腿而坐。</span><span class="english">We sat cross-legged on the matting.</span></p>
 
 <p><span class="chinese">我从来不能象其他孩子那样挺直腰板盘腿而坐。</span><span class="english">I could never sit Indian-style the way other kids did.</span></p>

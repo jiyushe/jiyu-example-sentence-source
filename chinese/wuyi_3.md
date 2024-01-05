@@ -1,5 +1,7 @@
 # 无异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyi_3.md)
+
 <p><span class="chinese">对我来说,那和失去一个孩子无异。</span><span class="english">To me, it was like losing a child.</span></p>
 
 <p><span class="chinese">有书闭卷不阅读，你知道教育。无异是一块木头。</span><span class="english">A book that remains shut is but a block.</span></p>

@@ -1,5 +1,7 @@
 # reciprocal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reciprocal.md)
+
 <p><span class="chinese">这就是为什么我们讨论相互的爱。</span><span class="english">That's why we talk about reciprocal love.</span></p>
 
 <p><span class="chinese">阻光率是透射率的倒数。</span><span class="english">Opacity is the reciprocal of transmission.</span></p>

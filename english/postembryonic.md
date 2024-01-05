@@ -1,5 +1,7 @@
 # postembryonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postembryonic.md)
+
 <p><span class="chinese">在蝌蚪的胚后发育过程中，小肠和直肠中没有检测到GAS阳性细胞。</span><span class="english">During the whole postembryonic development, GAS-IR cells were not detected in small intestine and rectum.</span></p>
 
 <p><span class="chinese">报道了温度对真水狼蛛发育和繁殖的影响。</span><span class="english">The postembryonic development and fecundity of P. piraticus were investigated at 6 constant temperatures.</span></p>

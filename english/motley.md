@@ -1,5 +1,7 @@
 # motley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motley.md)
+
 <p><span class="chinese">什么时候杂种乐队也变成了经典摇滚？</span><span class="english">When did Motley Crue become classic rock?</span></p>
 
 <p><span class="chinese">可口可乐公司是一个傻瓜式收入的投资选择。</span><span class="english">Coca-Cola is a Motley Fool Income Investor pick.</span></p>

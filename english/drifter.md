@@ -1,5 +1,7 @@
 # drifter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drifter.md)
+
 <p><span class="chinese">船长曾在流刺网渔船上工作过。</span><span class="english">The captain used to work on a drifter.</span></p>
 
 <p><span class="chinese">他不过是个流浪汉--哪儿也呆不住。</span><span class="english">He's just a drifter he can't settle down anywhere.</span></p>

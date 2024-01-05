@@ -1,5 +1,7 @@
 # bachelor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bachelor.md)
+
 <p><span class="chinese">我已经成了老光棍啦。</span><span class="english">I am already quite an old bachelor.</span></p>
 
 <p><span class="chinese">还是老样子，依然是光棍一根！</span><span class="english">In my old ways ,still be one bachelor.</span></p>

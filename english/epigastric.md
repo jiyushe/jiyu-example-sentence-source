@@ -1,5 +1,7 @@
 # epigastric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epigastric.md)
+
 <p><span class="chinese">主要症状为上腹不适与黑便。</span><span class="english">Epigastric distress and melena were main symptoms.</span></p>
 
 <p><span class="chinese">上腹不适是其常见表现。</span><span class="english">Epigastric upset is the most common manifestation.</span></p>

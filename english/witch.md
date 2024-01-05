@@ -1,5 +1,7 @@
 # witch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witch.md)
+
 <p><span class="chinese">疯狂的贝蒂是一个女巫。</span><span class="english">Batty Betty is a witch.</span></p>
 
 <p><span class="chinese">德文是一个巫婆指南。</span><span class="english">Devin is a witch guide.</span></p>

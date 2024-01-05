@@ -1,5 +1,7 @@
 # machinability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machinability.md)
+
 <p><span class="chinese">增加机械加工性能。</span><span class="english">To improve machinability.</span></p>
 
 <p><span class="chinese">镍铜，易加工，但抗裂性较差。</span><span class="english">Copper nickel, good machinability and bad crack resistance.</span></p>

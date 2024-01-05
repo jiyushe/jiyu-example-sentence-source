@@ -1,5 +1,7 @@
 # instill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instill.md)
+
 <p><span class="chinese">但它也是灌输“忍”的一种努力。</span><span class="english">But it was one more effort to instill "gaman."</span></p>
 
 <p><span class="chinese">你怎样逐步帮她树立自豪感和适应能力呢？</span><span class="english">How do you instill pride and resilience in her?</span></p>

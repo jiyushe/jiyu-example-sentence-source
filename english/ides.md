@@ -1,5 +1,7 @@
 # ides
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ides.md)
+
 <p><span class="chinese">什么玩艺有黑客语言支持？</span><span class="english">What IDEs have support for the Hack Language?</span></p>
 
 <p><span class="chinese">还有一些其他的客户端编辑软件,我们也授权给，你们使用。</span><span class="english">And then there are other client side IDEs we'll also empower you with.</span></p>

@@ -1,5 +1,7 @@
 # 中士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshi.md)
+
 <p><span class="chinese">不会，我很好，中士。</span><span class="english">No, I'm fine, Sarge.</span></p>
 
 <p><span class="chinese">那是托伊中士。</span><span class="english">It was Sergeant Troy.</span></p>

@@ -1,5 +1,7 @@
 # cochlear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cochlear.md)
+
 <p><span class="chinese">现在，我每只耳朵里都植入了一个耳蜗。</span><span class="english">Now I have a cochlear implant in each ear.</span></p>
 
 <p><span class="chinese">耳蜗铺片显示外毛细胞大部分受损。</span><span class="english">Cochlear preparation indicated the out hair cells were impaired.</span></p>

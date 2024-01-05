@@ -1,5 +1,7 @@
 # 灭种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miezhong.md)
+
 <p><span class="chinese">黑猩猩是濒于灭种的动物。</span><span class="english">The chimpanzee is an endangered species.</span></p>
 
 <p><span class="chinese">没有大屠杀或谋杀或灭种。</span><span class="english">There is no massacre or mass killings or genocides.</span></p>

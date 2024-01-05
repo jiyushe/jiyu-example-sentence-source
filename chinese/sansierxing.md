@@ -1,5 +1,7 @@
 # 三思而行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sansierxing.md)
+
 <p><span class="chinese">三思而行是一个很通俗的说法。</span><span class="english">"Look before you leap" is a familiar expression.</span></p>
 
 <p><span class="chinese">但是，各位绅士，我劝这位珀尔修斯先生三思而行。</span><span class="english">Sir, I hope that Perseus should think better of it.</span></p>

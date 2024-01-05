@@ -1,5 +1,7 @@
 # 金刚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingang.md)
+
 <p><span class="chinese">我有2迷你金刚鹦鹉。</span><span class="english">I have 2 mini-Macaws.</span></p>
 
 <p><span class="chinese">金刚鹦鹉用嘴整理它的羽毛。</span><span class="english">A macaw preens its feathers.</span></p>

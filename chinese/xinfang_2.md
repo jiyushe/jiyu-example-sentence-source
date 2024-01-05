@@ -1,5 +1,7 @@
 # 新房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfang_2.md)
+
 <p><span class="chinese">我看到了有珠帘的新房，我晕。</span><span class="english">I faint when coming to Dream Garden.</span></p>
 
 <p><span class="chinese">自我搬家以来这个地区就不断地盖起了新房。</span><span class="english">The area has been built up since I moved.</span></p>

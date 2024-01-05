@@ -1,5 +1,7 @@
 # styptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/styptic.md)
+
 <p><span class="chinese">夫人的地幔是一个具有止血收敛和属性。</span><span class="english">Lady's Mantle is an astringent and has styptic properties.</span></p>
 
 <p><span class="chinese">本发明还包括止血纤维的气体牵伸法纺丝工艺，该工艺流程简单、生产效率高。</span><span class="english">Said invention also includes the air-drawing process spinning technology for styptic fibre.</span></p>

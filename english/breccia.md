@@ -1,5 +1,7 @@
 # breccia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breccia.md)
+
 <p><span class="chinese">主要矿石类型为角砾岩型。</span><span class="english">The ores are mainly of breccia type.</span></p>
 
 <p><span class="chinese">集块岩是一种火山性角砾石。</span><span class="english">An agglomerate is a volcanic breccia.</span></p>

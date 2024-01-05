@@ -1,5 +1,7 @@
 # 平滑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinghua.md)
+
 <p><span class="chinese">子宫平滑肌瘤。</span><span class="english">Uterine fibroids.</span></p>
 
 <p><span class="chinese">平滑塔夫绸衬里。</span><span class="english">Smooth taffeta lining.</span></p>

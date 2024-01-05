@@ -1,5 +1,7 @@
 # sharpener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharpener.md)
+
 <p><span class="chinese">我有一支卷笔刀。</span><span class="english">I have a sharpener.</span></p>
 
 <p><span class="chinese">我要用你的铅笔刀。</span><span class="english">I need your sharpener.</span></p>

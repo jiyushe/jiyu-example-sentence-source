@@ -1,5 +1,7 @@
 # hagen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hagen.md)
+
 <p><span class="chinese">“不，”黑根说。</span><span class="english">"No, " Hagen said.</span></p>
 
 <p><span class="chinese">他问汤姆-黑根其中的奥妙。</span><span class="english">He asked Tom Hagen about it.</span></p>

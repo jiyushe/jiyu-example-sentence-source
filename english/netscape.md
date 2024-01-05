@@ -1,5 +1,7 @@
 # netscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netscape.md)
+
 <p><span class="chinese">可能是Netscape内存不足或正忙。</span><span class="english">Netscape may be out of memory or busy.</span></p>
 
 <p><span class="chinese">网景2只支持少数事件。</span><span class="english">Netscape 2 supported only a few events.</span></p>

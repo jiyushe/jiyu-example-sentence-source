@@ -1,5 +1,7 @@
 # neotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neotype.md)
+
 <p><span class="chinese">目的探讨新型健康教育模式对精神分裂症患者认知功能的影响。</span><span class="english">Objective To explore effects of neotype health education mode on cognitive function of schizophrenics.</span></p>
 
 <p><span class="chinese">本发明属固化剂技术领域，具体为一种新型环氧树脂组合物。</span><span class="english">This invention is a neotype ethoxyline resin compounds, and it's belongs to curing agent technological field.</span></p>

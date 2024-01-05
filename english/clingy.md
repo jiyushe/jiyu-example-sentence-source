@@ -1,5 +1,7 @@
 # clingy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clingy.md)
+
 <p><span class="chinese">我变得很空虚又很黏人。</span><span class="english">I got all needy ad clingy.</span></p>
 
 <p><span class="chinese">而心理上的粘乎乎则更糟糕。</span><span class="english">But being psychologically clingy iseven worse.</span></p>

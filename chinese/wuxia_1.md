@@ -1,5 +1,7 @@
 # 无瑕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxia_1.md)
+
 <p><span class="chinese">纯净无瑕、不染纤尘。</span><span class="english">Perfect purity, non-staining.</span></p>
 
 <p><span class="chinese">她穿了一身洁白无瑕的衣服。</span><span class="english">She was dressed in virginal white.</span></p>

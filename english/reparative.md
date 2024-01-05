@@ -1,5 +1,7 @@
 # reparative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reparative.md)
+
 <p><span class="chinese">我们推测这可能已经造成修复性的变化，内肌腱，他说。</span><span class="english">We hypothesized that this may have been the result of reparative changes inside the tendon, he said.</span></p>
 
 <p><span class="chinese">本文观察了兔眼滤过手术愈合过程的组织病理学变化。</span><span class="english">The authors observed the morphologie changes of reparative tissue after filtering procedure in rabbit.</span></p>

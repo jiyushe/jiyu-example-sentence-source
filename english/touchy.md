@@ -1,5 +1,7 @@
 # touchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touchy.md)
+
 <p><span class="chinese">这是个辣手得问题！</span><span class="english">That is a touchy issue!</span></p>
 
 <p><span class="chinese">我不明白你为什么这么敏感。</span><span class="english">I do not see why you are so touchy.</span></p>

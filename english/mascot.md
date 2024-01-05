@@ -1,5 +1,7 @@
 # mascot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mascot.md)
+
 <p><span class="chinese">它就是我们的吉祥物。</span><span class="english">And that's our mascot.</span></p>
 
 <p><span class="chinese">同时，龙也是一种祥瑞之物。</span><span class="english">Meanwhile, Loong is a mascot.</span></p>

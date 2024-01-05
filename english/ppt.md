@@ -1,5 +1,7 @@
 # ppt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ppt.md)
+
 <p><span class="chinese">演示文稿有时候不正如一把利刃吗？</span><span class="english">Is not PPT something like a set of sharp knives?</span></p>
 
 <p><span class="chinese">附设于AEC行业百分点给思想和展示服务。</span><span class="english">Attached ppt for AEC industry to give ideas and show services.</span></p>

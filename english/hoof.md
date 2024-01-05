@@ -1,5 +1,7 @@
 # hoof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoof.md)
+
 <p><span class="chinese">伙计，把这个家伙轰出去!</span><span class="english">Guy, hoof this fellow out!</span></p>
 
 <p><span class="chinese">她打算走着去那儿。</span><span class="english">She's going to hoof there.</span></p>

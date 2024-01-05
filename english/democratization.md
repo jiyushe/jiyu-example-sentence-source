@@ -1,5 +1,7 @@
 # democratization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/democratization.md)
+
 <p><span class="chinese">第一修正案毋庸置疑地养育着民主化知识。</span><span class="english">The First Amendment unapologetically nurtures the democratization of knowledge.</span></p>
 
 <p><span class="chinese">专家说，随着过去十年印尼的民主化，英语变成了新的荷兰语。</span><span class="english">With Indonesia's democratization in the past decade, experts say, English became the new Dutch.</span></p>

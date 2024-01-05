@@ -1,5 +1,7 @@
 # 算不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanbude.md)
+
 <p><span class="chinese">即使不愚蠢，也算不得聪明。</span><span class="english">Ineptly, if not stupidly.</span></p>
 
 <p><span class="chinese">对某些人来说，高昂的生活费用算不得什么。</span><span class="english">The high cost of living means nothing to some people.</span></p>

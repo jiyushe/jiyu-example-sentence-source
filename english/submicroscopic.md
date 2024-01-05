@@ -1,5 +1,7 @@
 # submicroscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submicroscopic.md)
+
 <p><span class="chinese">不过在1905年时，微观的分子也抓住了他的视线。</span><span class="english">But in 1905 submicroscopic molecules also gripped his attention.</span></p>
 
 <p><span class="chinese">有机分子和无机分子在胶体溶液中的亚微观集合体。</span><span class="english">A submicroscopic aggregate of organic and inorganic molecules in colloidal solution.</span></p>

@@ -1,5 +1,7 @@
 # 毛子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maozi.md)
+
 <p><span class="chinese">又几天过去了，近乎绝望的毛子已经放弃了求生的欲望。</span><span class="english">Those Russians had overcomed more days in despair and thought they had been dying.</span></p>
 
 <p><span class="chinese">别提倭寇，美帝的规模都木有如此牛逼，还是租的毛子的。</span><span class="english">The size, the size. US could not do it for heavier rockets and has to rely on Russians.</span></p>

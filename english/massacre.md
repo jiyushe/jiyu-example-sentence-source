@@ -1,5 +1,7 @@
 # massacre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massacre.md)
+
 <p><span class="chinese">挖了一堆大屠杀受难者出来？</span><span class="english">Dig up lots of massacre victims?</span></p>
 
 <p><span class="chinese">当年在那礼拜堂里也有过一番屠杀。</span><span class="english">A massacre took place in the chapel.</span></p>

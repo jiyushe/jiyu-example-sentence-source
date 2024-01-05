@@ -1,5 +1,7 @@
 # intelsat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelsat.md)
+
 <p><span class="chinese">国际卫星六号通信卫星投入商业使用。</span><span class="english">The Intelsat IV communications satellite goes into commercial operation.</span></p>
 
 <p><span class="chinese">国际通信卫星组织在2月1日的声明中说，来自这些卫星的服务将像往常一样继续。</span><span class="english">Intelsat said in a Feb. 1 statement that services from these satellites will continue as usual.</span></p>

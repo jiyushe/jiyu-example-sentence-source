@@ -1,5 +1,7 @@
 # 头虱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toushi_1.md)
+
 <p><span class="chinese">这些尼特是其中最大的问题，头虱感染。</span><span class="english">These nits are one of the biggest problems with head lice infestations.</span></p>
 
 <p><span class="chinese">在这篇文章中，我们将回答更多的问题，人们有大约头虱。</span><span class="english">In this article, we'll answer more of the questions that people have about head lice.</span></p>

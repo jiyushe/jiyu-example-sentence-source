@@ -1,5 +1,7 @@
 # indissoluble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indissoluble.md)
+
 <p><span class="chinese">不可在水中。</span><span class="english">Indissoluble in water.</span></p>
 
 <p><span class="chinese">军阀与鸦片结下了不解之缘。</span><span class="english">Warlord and opium forge the indissoluble bound.</span></p>

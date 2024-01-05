@@ -1,5 +1,7 @@
 # benelux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benelux.md)
+
 <p><span class="chinese">那以后我又去过几次比荷卢地区。</span><span class="english">I've since been back to the Benelux area multiple times.</span></p>
 
 <p><span class="chinese">之一，这些组织是比荷卢商会。</span><span class="english">One of these organizations is the Benelux Chamber of Commerce.</span></p>

@@ -1,5 +1,7 @@
 # motherfucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motherfucker.md)
+
 <p><span class="chinese">帽子还不错，你这个蠢蛋！</span><span class="english">Nice hat, you stupid motherfucker.</span></p>
 
 <p><span class="chinese">那个大坏蛋伤了我的小妹。</span><span class="english">That motherfucker hurt my little sister!</span></p>

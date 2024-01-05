@@ -1,5 +1,7 @@
 # flinders
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flinders.md)
+
 <p><span class="chinese">福林德斯夫人决定让人给她画肖像。</span><span class="english">Mrs Flinders decided to have her portrait painted.</span></p>
 
 <p><span class="chinese">弗林德斯太太决心请人给她画幅肖像画。</span><span class="english">Mrs. Flinders decided to have her portrait painted.</span></p>

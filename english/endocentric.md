@@ -1,5 +1,7 @@
 # endocentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endocentric.md)
+
 <p><span class="chinese">止住内心的想法，他轻喃出口。</span><span class="english">Live endocentric perspective, he light Nan backup.</span></p>
 
 <p><span class="chinese">因此向心结构也叫做中心结构。</span><span class="english">Hence an endocentric construction is also known as a headed construction.</span></p>

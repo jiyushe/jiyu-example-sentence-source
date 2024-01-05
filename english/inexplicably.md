@@ -1,5 +1,7 @@
 # inexplicably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexplicably.md)
+
 <p><span class="chinese">你说我喜欢这个莫明其妙。</span><span class="english">You said me like this inexplicably.</span></p>
 
 <p><span class="chinese">老穆被吩咐莫名其妙地抱着罐子站在傍边。</span><span class="english">Muras were inexplicably told to hold the jar standing sideways.</span></p>

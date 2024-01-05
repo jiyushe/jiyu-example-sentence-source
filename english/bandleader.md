@@ -1,5 +1,7 @@
 # bandleader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandleader.md)
+
 <p><span class="chinese">于是家父去见乐队负责人。</span><span class="english">My father went to see this bandleader.</span></p>
 
 <p><span class="chinese">里奇是在纽约的古巴领队。</span><span class="english">Ricky is a Cuban bandleader in New York.</span></p>

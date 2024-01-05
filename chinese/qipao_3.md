@@ -1,5 +1,7 @@
 # 起跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipao_3.md)
+
 <p><span class="chinese">赛跑诌以极高的速度起跑。</span><span class="english">The runners set off at a pace.</span></p>
 
 <p><span class="chinese">起跑的枪声响了。</span><span class="english">The starting-gun shot split the air.</span></p>

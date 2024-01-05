@@ -1,5 +1,7 @@
 # abstention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstention.md)
+
 <p><span class="chinese">目标是彻底戒绝所有致幻物质。</span><span class="english">The goal is complete abstention from all mind-altering substances.</span></p>
 
 <p><span class="chinese">在华盛顿，欧洲事务司主张弃权。</span><span class="english">In Washington the Bureau of European Affairs recommended abstention.</span></p>

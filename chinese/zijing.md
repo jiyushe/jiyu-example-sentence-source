@@ -1,5 +1,7 @@
 # 紫荆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijing.md)
+
 <p><span class="chinese">谁把寒冷的王子，赶下紫荆宫的宝座？</span><span class="english">The prince, who put cold out of the palace next bauhinia throne?</span></p>
 
 <p><span class="chinese">金紫荆广场面向海，也就是维多利亚港。</span><span class="english">Golden Bauhinia Square for the sea, which is the Victoria Harbor.</span></p>

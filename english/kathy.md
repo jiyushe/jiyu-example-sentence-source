@@ -1,5 +1,7 @@
 # kathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kathy.md)
+
 <p><span class="chinese">我是凯东·金。</span><span class="english">I'm Kathy King.</span></p>
 
 <p><span class="chinese">凯西把手指划破了。</span><span class="english">Kathy has cut her finger.</span></p>

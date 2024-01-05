@@ -1,5 +1,7 @@
 # 请柬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjian.md)
+
 <p><span class="chinese">简，我刚收到你们的请柬。</span><span class="english">I just broke up with Jane.</span></p>
 
 <p><span class="chinese">我们有三张请柬。</span><span class="english">We have three invitations.</span></p>

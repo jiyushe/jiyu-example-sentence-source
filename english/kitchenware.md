@@ -1,5 +1,7 @@
 # kitchenware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitchenware.md)
+
 <p><span class="chinese">但是厨房用具和餐具是本公司主要系列产品。</span><span class="english">But kitchenware and tableware are our mainlines.</span></p>
 
 <p><span class="chinese">竹子也是亚洲厨房用具中很受欢迎的材料。</span><span class="english">Bamboo is a popular material for traditional Asian kitchenware as well.</span></p>

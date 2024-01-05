@@ -1,5 +1,7 @@
 # accusation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accusation.md)
+
 <p><span class="chinese">你的指控真是荒谬。</span><span class="english">What a ridiculous accusation.</span></p>
 
 <p><span class="chinese">我无法逃避这个指责。</span><span class="english">I can't dodge this accusation.</span></p>

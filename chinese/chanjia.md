@@ -1,5 +1,7 @@
 # 产假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanjia.md)
+
 <p><span class="chinese">第二、你休过产假了吗？</span><span class="english">Did you take maternity leave?</span></p>
 
 <p><span class="chinese">在给受款人三个月产假时使用。</span><span class="english">Use when you give three months maternity leave to payees.</span></p>

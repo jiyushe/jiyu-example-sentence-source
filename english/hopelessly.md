@@ -1,5 +1,7 @@
 # hopelessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopelessly.md)
+
 <p><span class="chinese">他毫无希望地单恋着帕特。</span><span class="english">He's hopelessly in love with Pat.</span></p>
 
 <p><span class="chinese">我曾经默默无语毫无指望地爱过你</span><span class="english">Silently and hopelessly I loved you</span></p>

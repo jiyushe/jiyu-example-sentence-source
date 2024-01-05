@@ -1,5 +1,7 @@
 # delimitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delimitation.md)
+
 <p><span class="chinese">第二部分，不法侵害的限定。</span><span class="english">Chapter 2 researches the delimitation of the illegal infringement.</span></p>
 
 <p><span class="chinese">该方法还有处理边值定界问题十分方便等特点，易于编程。</span><span class="english">The method is conventional in treating boundary value and delimitation and easy in programming.</span></p>

@@ -1,5 +1,7 @@
 # 转机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanji_5.md)
+
 <p><span class="chinese">它们是怎样出现转机的呢？</span><span class="english">How did they turn things around?</span></p>
 
 <p><span class="chinese">看情形，转机停留多久？</span><span class="english">It depends, how long is stop over?</span></p>

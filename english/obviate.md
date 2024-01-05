@@ -1,5 +1,7 @@
 # obviate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obviate.md)
+
 <p><span class="chinese">这一延期将消除卢布汇率面临的压力。</span><span class="english">This deferral would obviate pressure on the rouble exchange rate.</span></p>
 
 <p><span class="chinese">机器翻译已经足够好了，可以避免全球出现某个语言主导的情况。</span><span class="english">Machine translation could be good enough to obviate the need for a primary global language.</span></p>

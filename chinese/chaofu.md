@@ -1,5 +1,7 @@
 # 朝服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaofu.md)
+
 <p><span class="chinese">他们把国王的朝服脱下来。</span><span class="english">They divested the King of his robes of state.</span></p>
 
 <p><span class="chinese">皇帝身穿朝服坐在座上。</span><span class="english">With the emperor in full attire on the throne.</span></p>

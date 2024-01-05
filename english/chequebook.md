@@ -1,5 +1,7 @@
 # chequebook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chequebook.md)
+
 <p><span class="chinese">中国，带着支票簿来了！</span><span class="english">Enter China, chequebook in hand.</span></p>
 
 <p><span class="chinese">你支票本带来了没有？</span><span class="english">Have you got your chequebook with you?</span></p>

@@ -1,5 +1,7 @@
 # warren
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warren.md)
+
 <p><span class="chinese">伊丽莎白.沃伦，何许人也？</span><span class="english">Who Is Elizabeth Warren?</span></p>
 
 <p><span class="chinese">嘿，杰克，你认识维达吗?。</span><span class="english">Hey, Jack, you know Vida Warren?</span></p>

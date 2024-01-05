@@ -1,5 +1,7 @@
 # nacre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nacre.md)
+
 <p><span class="chinese">珍珠与贝壳珍珠层具有较多的相似性，但也存在很多不同。</span><span class="english">There is much comparability between pearl and nacre in shells.</span></p>
 
 <p><span class="chinese">我是那粒沙，也是牡蛎哭泣时流出的珍珠泪。</span><span class="english">I am that grain of salt, and I am also the nacre tears that the oyster cried.</span></p>

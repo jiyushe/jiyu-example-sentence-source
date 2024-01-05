@@ -1,5 +1,7 @@
 # 站岗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangang.md)
+
 <p><span class="chinese">边防战士在站岗。</span><span class="english">The border guards are on guard.</span></p>
 
 <p><span class="chinese">“我亲自去站岗！”伊林说。</span><span class="english">"I'll be sentinel myself! " said Ilyin.</span></p>

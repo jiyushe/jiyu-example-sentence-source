@@ -1,5 +1,7 @@
 # enchilada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchilada.md)
+
 <p><span class="chinese">他是最重要的人物。</span><span class="english">He's the Big Enchilada.</span></p>
 
 <p><span class="chinese">玉米卷是墨西哥菜。</span><span class="english">An enchilada is a Mexican dish.</span></p>

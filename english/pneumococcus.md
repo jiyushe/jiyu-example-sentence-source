@@ -1,5 +1,7 @@
 # pneumococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumococcus.md)
+
 <p><span class="chinese">抗生素是治疗肺炎球菌疾病唯一有效手段。</span><span class="english">The antibiotic treats the pneumococcus disease only effective measure.</span></p>
 
 <p><span class="chinese">肺炎球菌肺炎病人的，可以用那些药护理了？</span><span class="english">Pneumococcus is pneumonic of the patient, can you nurse with those medicine?</span></p>

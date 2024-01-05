@@ -1,5 +1,7 @@
 # 煞车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shache_1.md)
+
 <p><span class="chinese">哦，天哪，我的煞车。</span><span class="english">Oh, my God, the brakes!</span></p>
 
 <p><span class="chinese">手煞车杆已磨损。</span><span class="english">The hand-brake lever is worn out.</span></p>

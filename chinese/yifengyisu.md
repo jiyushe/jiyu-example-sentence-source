@@ -1,5 +1,7 @@
 # 移风易俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifengyisu.md)
+
 <p><span class="chinese">该是移风易俗，禁放鞭炮的时候了。</span><span class="english">It's time to abandon the old, bad social traditions and prohibit the firecrackers.</span></p>
 
 <p><span class="chinese">遗体捐献对于科学普及、医学进步、殡葬改革、移风易俗和文明建设都有深远的社会意义。</span><span class="english">Donation of relique is important to not only medicine development, but the social civilization also.</span></p>

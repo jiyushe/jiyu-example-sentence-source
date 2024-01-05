@@ -1,5 +1,7 @@
 # sublicense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublicense.md)
+
 <p><span class="chinese">您不能对本著作为再授权。</span><span class="english">You may not sublicense the Work.</span></p>
 
 <p><span class="chinese">在合同下可以进行分许可吗？</span><span class="english">May a sublicense be granted under the contract?</span></p>

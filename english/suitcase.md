@@ -1,5 +1,7 @@
 # suitcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suitcase.md)
+
 <p><span class="chinese">他提着一个衣箱。</span><span class="english">He carted a suitcase.</span></p>
 
 <p><span class="chinese">这是你的手提箱呢？</span><span class="english">Is this your suitcase?</span></p>

@@ -1,5 +1,7 @@
 # seating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seating.md)
+
 <p><span class="chinese">这里是固定座位的吗？</span><span class="english">Is there assigned seating?</span></p>
 
 <p><span class="chinese">我们没有固定座位表。</span><span class="english">We don't have fixed seating chart.</span></p>

@@ -1,5 +1,7 @@
 # 五线谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxianpu.md)
+
 <p><span class="chinese">五线谱是偶然来的，你也是偶然来的。</span><span class="english">The staff has come by chance, so do you.</span></p>
 
 <p><span class="chinese">不过我给你的信值得写在五线谱里呢。</span><span class="english">But my letter to you is worth to be written there.</span></p>

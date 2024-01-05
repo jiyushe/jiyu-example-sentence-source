@@ -1,5 +1,7 @@
 # 摇荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaodang.md)
+
 <p><span class="chinese">树枝在风中微微摇荡。</span><span class="english">Branches sway gently in the wind.</span></p>
 
 <p><span class="chinese">你可以在上面摇荡，</span><span class="english">there's rings you could swing on.</span></p>

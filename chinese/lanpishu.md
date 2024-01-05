@@ -1,5 +1,7 @@
 # 蓝皮书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanpishu.md)
+
 <p><span class="chinese">蓝皮书认为，2005年房地产市场的需求将持续旺盛。</span><span class="english">Blue Book that in 2005 the real estate market will continue strong demand.</span></p>
 
 <p><span class="chinese">1952年，美国空军开始着手实施“蓝皮书计划”，这是一项针对不明飞行物的研究项目。</span><span class="english">In 1952, the US Air Force began Project Blue Book, a study program on UFOs.</span></p>

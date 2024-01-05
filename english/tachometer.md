@@ -1,5 +1,7 @@
 # tachometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tachometer.md)
+
 <p><span class="chinese">本表是一种高精度电子数字式转速、线速度测量仪表。</span><span class="english">DSZ-9983A is a high-precision tachometer with free power supply.</span></p>
 
 <p><span class="chinese">一部实验短片，有关公共空间中发生的动作和速度。</span><span class="english">Tachometer is a short experiment about motion and speed in a public space.</span></p>

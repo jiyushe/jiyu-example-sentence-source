@@ -1,5 +1,7 @@
 # 软骨头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruangutou.md)
+
 <p><span class="chinese">我看我的妹妹大概是嫁了一个真正的软骨头。</span><span class="english">I'm afraid my sister married a real wimp.</span></p>
 
 <p><span class="chinese">谁会想到他原来是这样一个软骨头。</span><span class="english">Who'd have thought he'd turn out to be such a softy.</span></p>

@@ -1,5 +1,7 @@
 # ballooning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballooning.md)
+
 <p><span class="chinese">倾侧了一瞬，衬衫呼啸膨胀如气球</span><span class="english">Tilting there momently, shrill shirt ballooning</span></p>
 
 <p><span class="chinese">她的丈夫让-皮埃尔·布兰查是一位气球工程师。</span><span class="english">Her husband Jean-Pierre Blanchard was also a ballooning pioneer.</span></p>

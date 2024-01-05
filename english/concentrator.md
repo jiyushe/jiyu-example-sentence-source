@@ -1,5 +1,7 @@
 # concentrator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentrator.md)
+
 <p><span class="chinese">连接集中器的工作原理</span><span class="english">How the connection concentrator works</span></p>
 
 <p><span class="chinese">启用连接集中器必须将连接池打开？</span><span class="english">Must connection pooling be ON with concentrator enabled?</span></p>

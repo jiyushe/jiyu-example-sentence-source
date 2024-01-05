@@ -1,5 +1,7 @@
 # madden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madden.md)
+
 <p><span class="chinese">是理查德·马登上尉。</span><span class="english">It was Captain Richard Madden.</span></p>
 
 <p><span class="chinese">是理查德·马登的声音。</span><span class="english">It was that of Captain Richard Madden.</span></p>

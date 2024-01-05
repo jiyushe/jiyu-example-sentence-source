@@ -1,5 +1,7 @@
 # annatto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annatto.md)
+
 <p><span class="chinese">红木家具还可以从油漆上鉴别优劣。</span><span class="english">Annatto furniture still can differentiate actor bad from paint.</span></p>
 
 <p><span class="chinese">红木家具的产流程要求十分峻厉。</span><span class="english">The annatto furniture production flow demand is very greatly lawless.</span></p>

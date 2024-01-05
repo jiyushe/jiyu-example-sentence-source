@@ -1,5 +1,7 @@
 # 半壁江山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbijiangshan.md)
+
 <p><span class="chinese">小小骑士迎娶了公主，分得半壁江山。</span><span class="english">The littlest knight married her and got half the kingdom.</span></p>
 
 <p><span class="chinese">现在对其他新兴经济体的出口占到了中国出口总额的的半壁江山。</span><span class="english">Half of China’s exports now go to other emerging economies.</span></p>

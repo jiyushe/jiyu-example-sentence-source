@@ -1,5 +1,7 @@
 # hart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hart.md)
+
 <p><span class="chinese">哈特先生训练他的女儿已经多年了。</span><span class="english">Mr.Hart has trained his daughter for years.</span></p>
 
 <p><span class="chinese">维克·塞克萨斯和多丽丝·哈特赢得了混合双打冠军。</span><span class="english">Seixas and Doris Hart won the mixed doubles.</span></p>

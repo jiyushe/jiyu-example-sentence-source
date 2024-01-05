@@ -1,5 +1,7 @@
 # 假说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashuo.md)
+
 <p><span class="chinese">大陆漂移“假说。</span><span class="english">Continental Drift.</span></p>
 
 <p><span class="chinese">我们提出了另一种假说。</span><span class="english">We have another hypothesis as well.</span></p>

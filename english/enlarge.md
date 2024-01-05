@@ -1,5 +1,7 @@
 # enlarge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlarge.md)
+
 <p><span class="chinese">我们扩大并扩展着。</span><span class="english">We enlarge and expand.</span></p>
 
 <p><span class="chinese">扩展一下。</span><span class="english">Let's enlarge this further.</span></p>

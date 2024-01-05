@@ -1,5 +1,7 @@
 # Filipino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filipino.md)
+
 <p><span class="chinese">你也能说菲律宾语对吗？</span><span class="english">You speak Filipino too, right?</span></p>
 
 <p><span class="chinese">菲律宾和菲律宾籍考生踊跃申请。</span><span class="english">Filipino and Filipina candidates encouraged to apply.</span></p>

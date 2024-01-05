@@ -1,5 +1,7 @@
 # 拉练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lalian.md)
+
 <p><span class="chinese">水声，轻声细语，风声，拉练。</span><span class="english">Disc 28 Water, Whistles, Wind, Zippers.</span></p>
 
 <p><span class="chinese">“我受不了这种拉练了！”我真的很生气。</span><span class="english">"I'm getting tired of this drill! " I said. It was truly exasperating.</span></p>

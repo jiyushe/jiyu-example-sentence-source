@@ -1,5 +1,7 @@
 # tamil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamil.md)
+
 <p><span class="chinese">两个城镇均有大量塔米尔人口。</span><span class="english">Both towns have overwhelmingly Tamil populations.</span></p>
 
 <p><span class="chinese">但这也为赢得泰米尔人的忠心提供了机会。</span><span class="english">But it might offer the chance to win Tamil loyalties.</span></p>

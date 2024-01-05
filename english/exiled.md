@@ -1,5 +1,7 @@
 # exiled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exiled.md)
+
 <p><span class="chinese">他已流亡出去了。</span><span class="english">He has exiled himself.</span></p>
 
 <p><span class="chinese">他被放逐到一个很远的地方。</span><span class="english">He was exiled to a distant land.</span></p>

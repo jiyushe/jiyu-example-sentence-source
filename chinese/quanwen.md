@@ -1,5 +1,7 @@
 # 全文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanwen.md)
+
 <p><span class="chinese">全文索引。</span><span class="english">Full-text indexes.</span></p>
 
 <p><span class="chinese">全文如下。</span><span class="english">The full text follows.</span></p>

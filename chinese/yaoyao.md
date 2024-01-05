@@ -1,5 +1,7 @@
 # 咬咬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyao.md)
+
 <p><span class="chinese">用它的牙齿咬咬咬。</span><span class="english">With his teeth, cut cut cut.</span></p>
 
 <p><span class="chinese">咬咬女士佐沙拉。</span><span class="english">Croque Madame with fresh salad.</span></p>

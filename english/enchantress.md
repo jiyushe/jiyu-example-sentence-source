@@ -1,5 +1,7 @@
 # enchantress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchantress.md)
+
 <p><span class="chinese">他被那个妖妇迷住了。</span><span class="english">He is enamoured by that enchantress.</span></p>
 
 <p><span class="chinese">一个可恶的女巫把我变成了一只青蛙。</span><span class="english">A foul enchantress turned me into a frog.</span></p>

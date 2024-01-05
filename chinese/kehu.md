@@ -1,5 +1,7 @@
 # 客户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kehu.md)
+
 <p><span class="chinese">我的普拉提操客户。</span><span class="english">My Pilates clients.</span></p>
 
 <p><span class="chinese">客户也喜欢它！</span><span class="english">Customers like that!</span></p>

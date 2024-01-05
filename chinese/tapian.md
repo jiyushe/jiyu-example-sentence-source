@@ -1,5 +1,7 @@
 # 拓片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tapian.md)
+
 <p><span class="chinese">拓片是一种特殊的文献形式。</span><span class="english">Rubbing is a sort of special document.</span></p>
 
 <p><span class="chinese">用剪刀将叶子拓片剪下。</span><span class="english">Cut out the leaf rubbings with scissors.</span></p>

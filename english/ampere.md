@@ -1,5 +1,7 @@
 # ampere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ampere.md)
+
 <p><span class="chinese">电流是按安培计量的。</span><span class="english">Electric current is measured by the ampere.</span></p>
 
 <p><span class="chinese">单相脉宽调制IOH额定三五安培每阶段。</span><span class="english">Single Phase IOH PWM rated at 35 Ampere per Phase.</span></p>

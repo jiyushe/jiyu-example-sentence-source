@@ -1,5 +1,7 @@
 # 规矩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiju_1.md)
+
 <p><span class="chinese">希望你也能改改自己的规矩吧。</span><span class="english">I hope you will too.</span></p>
 
 <p><span class="chinese">这里的规矩是这样的。</span><span class="english">The custom here is this.</span></p>

@@ -1,5 +1,7 @@
 # 趁便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenbian.md)
+
 <p><span class="chinese">我在回来的路上趁便去他家看了看。</span><span class="english">I dropped in on him on my way home.</span></p>
 
 <p><span class="chinese">我们趁便参观了皇宫。</span><span class="english">We took the opportunity of visiting the palace.</span></p>

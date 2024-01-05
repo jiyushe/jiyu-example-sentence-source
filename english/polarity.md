@@ -1,5 +1,7 @@
 # polarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarity.md)
+
 <p><span class="chinese">极性并不重要。</span><span class="english">Polarity isn't important.</span></p>
 
 <p><span class="chinese">连接导入电流的正电极。</span><span class="english">An electric terminal with positive polarity.</span></p>

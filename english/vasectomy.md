@@ -1,5 +1,7 @@
 # vasectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasectomy.md)
+
 <p><span class="chinese">输精管切除术恰恰切断的就是这根管道。</span><span class="english">It is this vas deferens that is cut in a vasectomy.</span></p>
 
 <p><span class="chinese">对于男性来讲，输精管结扎术是唯一的绝育手术。</span><span class="english">For men vasectomy is the only option for sterilization.</span></p>

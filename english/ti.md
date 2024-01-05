@@ -1,5 +1,7 @@
 # ti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ti.md)
+
 <p><span class="chinese">现在我已经不信任你了。</span><span class="english">Ya no tengo confianza en ti.</span></p>
 
 <p><span class="chinese">易倜汉觉得不要怕。</span><span class="english">Yi Ti han think dont be afraid.</span></p>

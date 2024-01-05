@@ -1,5 +1,7 @@
 # pdm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdm.md)
+
 <p><span class="chinese">本文针对设计院的特点，提出了项目管理系统的模型。</span><span class="english">This article proposes a new system model for PDM project management system.</span></p>
 
 <p><span class="chinese">过去很少有PDM系统被认为简单易用的。</span><span class="english">Very few PDM systems in the past were recognized as simple and easy to use.</span></p>

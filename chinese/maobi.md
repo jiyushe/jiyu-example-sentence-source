@@ -1,5 +1,7 @@
 # 毛笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maobi.md)
+
 <p><span class="chinese">首先，用毛笔直接写上去。</span><span class="english">First, write with a writing brush.</span></p>
 
 <p><span class="chinese">当时他没有找到毛笔。</span><span class="english">Because he didn't find any writing brush.</span></p>

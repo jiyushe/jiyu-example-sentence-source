@@ -1,5 +1,7 @@
 # usb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usb.md)
+
 <p><span class="chinese">使用USB接口充电的电子产品</span><span class="english">Use USB Rechargeable Electronics</span></p>
 
 <p><span class="chinese">这其实是一个优盘。</span><span class="english">It is actually a USB flash drive.</span></p>

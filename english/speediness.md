@@ -1,5 +1,7 @@
 # speediness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speediness.md)
+
 <p><span class="chinese">他们的迅速到来出乎我的意料之外。</span><span class="english">I was surprised by the speediness of their arrival.</span></p>
 
 <p><span class="chinese">该法具有快速、准确、客观和不损坏样品等特点。</span><span class="english">The method features speediness , exactness, impersonality, and non-invasion to the sample.</span></p>

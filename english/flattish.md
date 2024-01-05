@@ -1,5 +1,7 @@
 # flattish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flattish.md)
+
 <p><span class="chinese">今天，他预料今年的网络需求呈扁平式。</span><span class="english">Today, he forecast ' flattish ' demand for networks this year.</span></p>
 
 <p><span class="chinese">在未来若干年，美国经济都会表现平平。</span><span class="english">The odds are that the US would stay flattish for years to come.</span></p>

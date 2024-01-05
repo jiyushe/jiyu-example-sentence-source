@@ -1,5 +1,7 @@
 # epicurean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epicurean.md)
+
 <p><span class="chinese">他年轻时是个花花公子。</span><span class="english">In his youth he was an extravagant epicurean.</span></p>
 
 <p><span class="chinese">他几乎对所有享乐主义的东西都加以批判。</span><span class="english">He was largely critical of all things Epicurean.</span></p>

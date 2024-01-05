@@ -1,5 +1,7 @@
 # ophthalmologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmologist.md)
+
 <p><span class="chinese">父亲约耳是位眼科医师。</span><span class="english">Her father, Joel, is an ophthalmologist.</span></p>
 
 <p><span class="chinese">我匆忙的跑回办公室近乎发狂的给我的眼科医生打电话。</span><span class="english">I ran into my office and frantically called my ophthalmologist.</span></p>

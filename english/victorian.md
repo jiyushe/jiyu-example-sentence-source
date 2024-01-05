@@ -1,5 +1,7 @@
 # victorian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victorian.md)
+
 <p><span class="chinese">我们称之为维多利亚式的忧伤。</span><span class="english">Victorian mawkishness, we say.</span></p>
 
 <p><span class="chinese">我们住在一幢维多利亚式的红砖房里。</span><span class="english">We lived in a Victorian red-brick house.</span></p>

@@ -1,5 +1,7 @@
 # empirical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empirical.md)
+
 <p><span class="chinese">第4章为实证分析。</span><span class="english">Part 4 is empirical research.</span></p>
 
 <p><span class="chinese">Oracle建议的经验值是10。</span><span class="english">Oracle recommends an empirical value of 10.</span></p>

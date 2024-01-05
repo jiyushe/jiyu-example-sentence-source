@@ -1,5 +1,7 @@
 # torpid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torpid.md)
+
 <p><span class="chinese">长睡一觉后他仍然觉得有气无力。</span><span class="english">After a long sleep, he still felt torpid.</span></p>
 
 <p><span class="chinese">他醒着的时候也完全麻木不动。</span><span class="english">Even when he was awake he was completely torpid.</span></p>

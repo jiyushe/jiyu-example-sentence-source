@@ -1,5 +1,7 @@
 # salome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salome.md)
+
 <p><span class="chinese">莎乐美公主想看看他。</span><span class="english">The Princess Salome desires to see him.</span></p>
 
 <p><span class="chinese">你写的关于莎乐美的故事很精彩。</span><span class="english">Profit, Your story on Salome Bey is fantastic.</span></p>

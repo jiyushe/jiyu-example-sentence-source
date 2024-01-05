@@ -1,5 +1,7 @@
 # 比美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimei.md)
+
 <p><span class="chinese">和粉红色的桃花在一起比美斗艳。</span><span class="english">In beauty with the pink peach blossom side by side.</span></p>
 
 <p><span class="chinese">中国055型驱逐舰堪比美科幻战舰？</span><span class="english">China's Type 055 destroyer as good as US Zumwalt-class destroyer?</span></p>

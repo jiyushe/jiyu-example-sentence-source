@@ -1,5 +1,7 @@
 # 下坡路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiapolu.md)
+
 <p><span class="chinese">剩下的路都是下坡路。</span><span class="english">The rest of the way is downhill.</span></p>
 
 <p><span class="chinese">但不这样做的话，那将继续走在一条渐渐衰亡的下坡路上。</span><span class="english">But the alternative is to continue stumbling down a path of decline.</span></p>

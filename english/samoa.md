@@ -1,5 +1,7 @@
 # samoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samoa.md)
+
 <p><span class="chinese">瓦立斯岛位于萨摩亚群岛以西很远的地方。</span><span class="english">Wallis Island is a long way west of Samoa.</span></p>
 
 <p><span class="chinese">萨摩人的，萨摩亚语言，或萨摩亚文化的，或与其相关的。</span><span class="english">Of or relating to Samoa or its people, language, or culture.</span></p>

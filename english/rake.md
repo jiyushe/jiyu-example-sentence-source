@@ -1,5 +1,7 @@
 # rake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rake.md)
+
 <p><span class="chinese">今天下地干活要用铁耙了。</span><span class="english">A rake made of iron.</span></p>
 
 <p><span class="chinese">那耙子是做什么用的?。</span><span class="english">What's that rake for?</span></p>

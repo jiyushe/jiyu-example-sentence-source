@@ -1,5 +1,7 @@
 # 香椿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchun.md)
+
 <p><span class="chinese">再吃几口香椿炒蛋后。</span><span class="english">After taking more scrambled eggs with Toona Sinensis.</span></p>
 
 <p><span class="chinese">燃烧的一根红蜡烛引起了气味，像是山艾树或香椿。</span><span class="english">A red candle Fiery scented incense, such as sage or cedar.</span></p>

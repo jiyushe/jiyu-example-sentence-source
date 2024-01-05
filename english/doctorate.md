@@ -1,5 +1,7 @@
 # doctorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctorate.md)
+
 <p><span class="chinese">她是在哪里攻读博士学位的?</span><span class="english">Where did she do her doctorate?</span></p>
 
 <p><span class="chinese">我在清华大学读的博士。</span><span class="english">I did my doctorate in Qinghua University.</span></p>

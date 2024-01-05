@@ -1,5 +1,7 @@
 # picket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picket.md)
+
 <p><span class="chinese">把你的马拴在这里。</span><span class="english">Picket your horse here.</span></p>
 
 <p><span class="chinese">他们向工厂前进，并组成了纠察队。</span><span class="english">They marched to the factory and formed a picket.</span></p>

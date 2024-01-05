@@ -1,5 +1,7 @@
 # individualism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individualism.md)
+
 <p><span class="chinese">X一代倾向于个人主义。</span><span class="english">Generation X tends to individualism.</span></p>
 
 <p><span class="chinese">本位主义是放大了的个人主义。</span><span class="english">Departmentalism is magnified individualism.</span></p>

@@ -1,5 +1,7 @@
 # 左翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyi_1.md)
+
 <p><span class="chinese">你梳你左翼。</span><span class="english">You preen your left wing.</span></p>
 
 <p><span class="chinese">我卖给左翼和右翼。</span><span class="english">I sell to leftist and rightist.</span></p>

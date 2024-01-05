@@ -1,5 +1,7 @@
 # doings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doings.md)
+
 <p><span class="chinese">你停止你自己的活动。</span><span class="english">You cease from your own doings.</span></p>
 
 <p><span class="chinese">他干的种种坏事使他自食其果。</span><span class="english">His ill doings redounded upon himself.</span></p>

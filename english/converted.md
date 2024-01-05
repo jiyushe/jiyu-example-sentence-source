@@ -1,5 +1,7 @@
 # converted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/converted.md)
+
 <p><span class="chinese">他改信佛教了。</span><span class="english">He converted to Buddhism.</span></p>
 
 <p><span class="chinese">所以他们转向信仰犹太教。</span><span class="english">So they converted to Judaism.</span></p>

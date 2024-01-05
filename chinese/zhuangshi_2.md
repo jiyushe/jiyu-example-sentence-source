@@ -1,5 +1,7 @@
 # 装饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshi_2.md)
+
 <p><span class="chinese">外观和装饰。</span><span class="english">Look and décor.</span></p>
 
 <p><span class="chinese">不要过度装饰。</span><span class="english">But don't overdress.</span></p>

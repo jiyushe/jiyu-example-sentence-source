@@ -1,5 +1,7 @@
 # 水箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixiang_1.md)
+
 <p><span class="chinese">膨胀水箱的清洗。</span><span class="english">A. expansion water tank cleaning.</span></p>
 
 <p><span class="chinese">他排去储水箱中所有的水。</span><span class="english">He drained the tank of all water.</span></p>

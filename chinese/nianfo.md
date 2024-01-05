@@ -1,5 +1,7 @@
 # 念佛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianfo.md)
+
 <p><span class="chinese">在厕所里可以默念佛号吗？</span><span class="english">Can I chant Amitabha Buddha silently?</span></p>
 
 <p><span class="chinese">恩师引领四众弟子念佛。</span><span class="english">The teacher led four Buddha disciple.</span></p>

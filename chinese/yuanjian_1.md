@@ -1,5 +1,7 @@
 # 原件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjian_1.md)
+
 <p><span class="chinese">玻璃平板上没有原件。</span><span class="english">No original on platen glass.</span></p>
 
 <p><span class="chinese">装箱单，三份原件。</span><span class="english">Packing list in three originals.</span></p>

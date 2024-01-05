@@ -1,5 +1,7 @@
 # 百叶窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyechuang.md)
+
 <p><span class="chinese">美国百叶窗和窗帘公司。</span><span class="english">American Blinds and Draperies Inc.</span></p>
 
 <p><span class="chinese">他们这会儿正在拉下百叶窗。</span><span class="english">They were putting up the shutters.</span></p>

@@ -1,5 +1,7 @@
 # rutted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rutted.md)
+
 <p><span class="chinese">这条路留有很深的车辙。</span><span class="english">The road was deeply rutted.</span></p>
 
 <p><span class="chinese">道路坎坷不平，到处是坑坑洼洼的雨水。</span><span class="english">The road was deeply rutted and pooled with rain.</span></p>

@@ -1,5 +1,7 @@
 # brutally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brutally.md)
+
 <p><span class="chinese">残忍的或者无人性的杀害。</span><span class="english">To kill brutally or inhumanly.</span></p>
 
 <p><span class="chinese">他有些近乎极端地、残忍地诚实。</span><span class="english">He is extremely and brutally honest.</span></p>

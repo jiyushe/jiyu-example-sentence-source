@@ -1,5 +1,7 @@
 # 资料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziliao.md)
+
 <p><span class="chinese">少读垃圾资料。</span><span class="english">Read less junk.</span></p>
 
 <p><span class="chinese">好了,资料</span><span class="english">Okay. Materials.</span></p>

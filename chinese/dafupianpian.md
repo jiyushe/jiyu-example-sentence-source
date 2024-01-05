@@ -1,5 +1,7 @@
 # 大腹便便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafupianpian.md)
+
 <p><span class="chinese">大腹便便是可以遗传的吗？</span><span class="english">Is belly fat inherited?</span></p>
 
 <p><span class="chinese">那位孕妇大腹便便。</span><span class="english">The pregnant woman has an enlarged abdomen.</span></p>

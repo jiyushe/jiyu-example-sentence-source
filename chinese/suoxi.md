@@ -1,5 +1,7 @@
 # 琐细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoxi.md)
+
 <p><span class="chinese">仅只是眼睑，如此琐细。</span><span class="english">Merely lid. How trivial it is.</span></p>
 
 <p><span class="chinese">有一些指令的琐细的变更。</span><span class="english">There are trivial variations in a few commands.</span></p>

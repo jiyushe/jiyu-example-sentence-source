@@ -1,5 +1,7 @@
 # 许久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xujiu.md)
+
 <p><span class="chinese">他这样呆了许久。</span><span class="english">He remained a long time thus.</span></p>
 
 <p><span class="chinese">刀锋愣怔许久，轻轻点头。</span><span class="english">LengZheng long blade, gently nod.</span></p>

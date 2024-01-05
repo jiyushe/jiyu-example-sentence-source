@@ -1,5 +1,7 @@
 # 问心无愧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxinwukui.md)
+
 <p><span class="chinese">问心无愧，高枕无忧。</span><span class="english">A clear conscience is a soft pillow.</span></p>
 
 <p><span class="chinese">因为问心无愧-有句话怎么说?。</span><span class="english">Clear conscience. -What's that saying?</span></p>

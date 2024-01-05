@@ -1,5 +1,7 @@
 # 声音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyin.md)
+
 <p><span class="chinese">运用你的声音。</span><span class="english">Use your voice.</span></p>
 
 <p><span class="chinese">我讨厌我的声音！</span><span class="english">I hate my voice!</span></p>

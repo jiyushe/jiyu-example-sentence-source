@@ -1,5 +1,7 @@
 # ita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ita.md)
+
 <p><span class="chinese">还是在公园里面吹泡泡比较安全.</span><span class="english">Itâ s much safer to blow bubbles in the park.</span></p>
 
 <p><span class="chinese">反过来，印度烟草协会减少了采购的估计量。</span><span class="english">In turn, the ITA had cut its procurement estimates.</span></p>

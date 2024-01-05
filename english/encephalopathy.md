@@ -1,5 +1,7 @@
 # encephalopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encephalopathy.md)
+
 <p><span class="chinese">NA在大鼠CLF所致肝性脑病时明显下降。</span><span class="english">The content of NA decreases remarkably in CLF encephalopathy.</span></p>
 
 <p><span class="chinese">脑病介绍了与大脑的运作问题。</span><span class="english">Encephalopathy describes problems with the workings of the brain.</span></p>

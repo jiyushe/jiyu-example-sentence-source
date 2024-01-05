@@ -1,5 +1,7 @@
 # 盛况空前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengkuangkongqian.md)
+
 <p><span class="chinese">此次参加比赛、交易会和联欢活动的多达60余万人，可谓盛况空前。</span><span class="english">The play, fair and celebration of as many as 600,000, is unprecedented.</span></p>
 
 <p><span class="chinese">为了把它办成一届历史上盛况空前的运动会，首都城市将有几项重大变化。</span><span class="english">To make it the best ever Games, the capital city will make several big changes.</span></p>

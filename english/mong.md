@@ -1,5 +1,7 @@
 # mong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mong.md)
+
 <p><span class="chinese">旺角中心第二期。</span><span class="english">Mong Kok Centre phase Ⅱ.</span></p>
 
 <p><span class="chinese">今天，我带你去油尖旺看看。</span><span class="english">Today, I'll take you to Yau Tsim Mong.</span></p>

@@ -1,5 +1,7 @@
 # arabella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arabella.md)
+
 <p><span class="chinese">我跟阿拉贝拉的事也一样。</span><span class="english">It was the same with me and Arabella.</span></p>
 
 <p><span class="chinese">阿里贝拉离开我有十年了。</span><span class="english">It's ten years since Arabella left me.</span></p>

@@ -1,5 +1,7 @@
 # assessable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assessable.md)
+
 <p><span class="chinese">事实上，有些损失是不可估价的。</span><span class="english">In fact, some losses are not assessable.</span></p>
 
 <p><span class="chinese">你去年可徵税的收入是多少？</span><span class="english">What was your assessable income last year?</span></p>

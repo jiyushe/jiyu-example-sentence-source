@@ -1,5 +1,7 @@
 # formant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formant.md)
+
 <p><span class="chinese">共振峰合成使用滤波器氦发志。</span><span class="english">Formant synthesis simulates the vocal tract through a filter.</span></p>
 
 <p><span class="chinese">共振峰参数是反映声道特性的一个重要参数。</span><span class="english">Formant parameters are important parameters in track characteristics.</span></p>

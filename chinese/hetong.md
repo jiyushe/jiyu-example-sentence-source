@@ -1,5 +1,7 @@
 # 合同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hetong.md)
+
 <p><span class="chinese">草拟合同。</span><span class="english">Draw up the contract.</span></p>
 
 <p><span class="chinese">这是我们的合同。</span><span class="english">This is our contract.</span></p>

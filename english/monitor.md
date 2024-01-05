@@ -1,5 +1,7 @@
 # monitor 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monitor.md)
+
 <p><span class="chinese">胎儿监护仪？</span><span class="english">A fetal monitor?</span></p>
 
 <p><span class="chinese">他是我们班长。</span><span class="english">He is our monitor.</span></p>

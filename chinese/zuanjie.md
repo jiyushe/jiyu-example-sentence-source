@@ -1,5 +1,7 @@
 # 钻戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanjie.md)
+
 <p><span class="chinese">我还想买只钻戒。</span><span class="english">I wish to buy a diamond ring, too.</span></p>
 
 <p><span class="chinese">她的钻戒闪耀夺目。</span><span class="english">Her diamond ring dazzled with brilliancy.</span></p>

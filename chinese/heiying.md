@@ -1,5 +1,7 @@
 # 黑影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heiying.md)
+
 <p><span class="chinese">黑影没有回答。</span><span class="english">The shadow didn't answer.</span></p>
 
 <p><span class="chinese">在它黑影之上，天门打开了。</span><span class="english">Above its shadows heaven stood open.</span></p>

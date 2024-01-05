@@ -1,5 +1,7 @@
 # 如花似玉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhuasiyu.md)
+
 <p><span class="chinese">爱德蒙你拥有一位如花似玉的爱人。</span><span class="english">Edmond, you have a very beautiful lady-love.</span></p>
 
 <p><span class="chinese">她如花似玉的昔日已经一去不复返，但是她的心灵却成了美丽的避难所。</span><span class="english">All the beauty that had forsaken her face, seemed to have found refuge in her heart.</span></p>

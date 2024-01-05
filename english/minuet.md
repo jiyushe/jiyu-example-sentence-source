@@ -1,5 +1,7 @@
 # minuet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minuet.md)
+
 <p><span class="chinese">白鹭在跳小步舞。</span><span class="english">E—Egret in a minuet.</span></p>
 
 <p><span class="chinese">周冬雪在家演奏小步舞曲。</span><span class="english">Tung Suet plays Bach's minuet at home.</span></p>

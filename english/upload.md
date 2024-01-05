@@ -1,5 +1,7 @@
 # upload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upload.md)
+
 <p><span class="chinese">公安局系统正确上传。</span><span class="english">PSB System Upload correctly.</span></p>
 
 <p><span class="chinese">上传数据啦，万岁！</span><span class="english">Time to upload my data. Hooray!</span></p>

@@ -1,5 +1,7 @@
 # 冷僻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengpi.md)
+
 <p><span class="chinese">这是一条很冷僻的路，到现在我们还未遇到任何其它车子。</span><span class="english">This is a lonely road, we have not met another car so far.</span></p>
 
 <p><span class="chinese">蒙昧是不冷僻的，因为和它统一的是一个的天下！</span><span class="english">Ignorance is not free, because its opposite is a strange world!</span></p>

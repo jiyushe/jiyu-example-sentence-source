@@ -1,5 +1,7 @@
 # 东坡肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongporou.md)
+
 <p><span class="chinese">我喜欢西湖醋鱼和东坡肉。</span><span class="english">I like West Lake Fish in Sweet Sour Source and Dongpo Pork.</span></p>
 
 <p><span class="chinese">而我最喜欢肉形石了，因为它就像是一块多汁的东坡肉，是我最喜欢的食物。</span><span class="english">And I like a piece of Tung-Po Meat which is my favorite food.</span></p>

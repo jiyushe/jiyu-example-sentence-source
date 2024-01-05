@@ -1,5 +1,7 @@
 # dishonorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonorable.md)
+
 <p><span class="chinese">他不会屈尊去做任何不名誉的事情。</span><span class="english">He would not stoop to do anything dishonorable.</span></p>
 
 <p><span class="chinese">他对他以前不光彩的行为感到羞愧。</span><span class="english">He is ashamed for his former dishonorable action.</span></p>

@@ -1,5 +1,7 @@
 # anglo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anglo.md)
+
 <p><span class="chinese">她参加了第二次和第三次英荷战争。</span><span class="english">It was used in the second and third Anglo & Dutch War.</span></p>
 
 <p><span class="chinese">请“盎格鲁亲戚们”来帮助他对抗皮克特人。</span><span class="english">Please "Anglo relatives" to help him fight against Picts.</span></p>

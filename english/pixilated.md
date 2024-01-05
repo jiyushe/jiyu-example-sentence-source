@@ -1,5 +1,7 @@
 # pixilated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pixilated.md)
+
 <p><span class="chinese">女人们可以买一条裹身裙，然后给自己的虚拟化身也穿上同一条裙子。</span><span class="english">Women can buy a wrap dress and outfit their pixilated selves in the same one.</span></p>
 
 <p><span class="chinese">如此送入你头脑的未加工的数据就像有个洞的模样古怪的图像。</span><span class="english">And so the raw data sent to the brain are like a badly pixilated picture with a hole in it.</span></p>

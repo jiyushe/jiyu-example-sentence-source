@@ -1,5 +1,7 @@
 # photographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photographic.md)
+
 <p><span class="chinese">你的记性真不赖。</span><span class="english">You have a photographic memory.</span></p>
 
 <p><span class="chinese">我还有照片为证。</span><span class="english">Well, I have photographic proof.</span></p>

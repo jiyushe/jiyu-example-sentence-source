@@ -1,5 +1,7 @@
 # apomixis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apomixis.md)
+
 <p><span class="chinese">这是一种单性生殖。</span><span class="english">This is a form of APOMIXIS.</span></p>
 
 <p><span class="chinese">无融合生殖在育种工作中具有潜在的应用价值。</span><span class="english">The practical value of apomixis in plant breeding is rem.</span></p>

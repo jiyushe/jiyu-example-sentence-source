@@ -1,5 +1,7 @@
 # 计较
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijiao_1.md)
+
 <p><span class="chinese">一物已失，计较无益。</span><span class="english">For a lost thing care nothing.</span></p>
 
 <p><span class="chinese">一物既失，计较无益。</span><span class="english">For a lost thing cares nothing.</span></p>

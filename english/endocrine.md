@@ -1,5 +1,7 @@
 # endocrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endocrine.md)
+
 <p><span class="chinese">收束影响了各个内分泌腺体。</span><span class="english">Bandhas affect the endocrine glands.</span></p>
 
 <p><span class="chinese">内分泌科是国家重点学科。</span><span class="english">The endocrine branch is the national professional ethics.</span></p>

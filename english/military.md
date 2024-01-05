@@ -1,5 +1,7 @@
 # military 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/military.md)
+
 <p><span class="chinese">我的打算？参军。</span><span class="english">My future plan? Military.</span></p>
 
 <p><span class="chinese">这是一座军事设施。</span><span class="english">This is a military place.</span></p>

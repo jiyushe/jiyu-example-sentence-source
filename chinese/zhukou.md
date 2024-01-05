@@ -1,5 +1,7 @@
 # 住口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhukou.md)
+
 <p><span class="chinese">然后我又停住口。</span><span class="english">Then I pause again.</span></p>
 
 <p><span class="chinese">住口，要不我就砸烂你的脑袋。</span><span class="english">Shut up or I'll crown you.</span></p>

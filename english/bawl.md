@@ -1,5 +1,7 @@
 # bawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bawl.md)
+
 <p><span class="chinese">痛痛快快大哭一场使她好过些了。</span><span class="english">A good bawl made her feel better.</span></p>
 
 <p><span class="chinese">她喜欢对人大声喊叫。</span><span class="english">She likes to bawl against people.</span></p>

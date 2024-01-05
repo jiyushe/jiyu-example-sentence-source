@@ -1,5 +1,7 @@
 # 长年累月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changnianleiyue_1.md)
+
 <p><span class="chinese">空气里长年累月充满着缭绕不绝的浓烟和蒸气。</span><span class="english">Clouds of smoke and steam filled the air for ever and ever.</span></p>
 
 <p><span class="chinese">翻译大瀑布长年累月地冲刷着巨石。</span><span class="english">The cataract is flattening the huge stone all the year round.</span></p>

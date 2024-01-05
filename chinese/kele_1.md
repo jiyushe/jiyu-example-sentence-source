@@ -1,5 +1,7 @@
 # 可乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kele_1.md)
+
 <p><span class="chinese">还有炸土豆条，可乐。</span><span class="english">And a coke.</span></p>
 
 <p><span class="chinese">请来可乐吧。</span><span class="english">Coke , please.</span></p>

@@ -1,5 +1,7 @@
 # leakproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leakproof.md)
+
 <p><span class="chinese">塑料管和螺旋管防漏接口！</span><span class="english">The leakproof connection to plastics and spiro-tubes!</span></p>
 
 <p><span class="chinese">所有锥管螺纹预涂聚四氟乙烯防漏胶，密封性能好。</span><span class="english">All awl tube thread pre-coated PTEF leakproof gum, with excellent sealing property.</span></p>

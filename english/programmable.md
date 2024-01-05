@@ -1,5 +1,7 @@
 # programmable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programmable.md)
+
 <p><span class="chinese">安装一个设定程序的恒温调节器。</span><span class="english">Install a programmable thermostat.</span></p>
 
 <p><span class="chinese">什么是一个可编程房间温控器？</span><span class="english">What is a programmable room thermostat?</span></p>

@@ -1,5 +1,7 @@
 # esmeralda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esmeralda.md)
+
 <p><span class="chinese">爱斯梅拉达是什么意思？</span><span class="english">What is the meaning of the words, 'la Esmeralda ?'</span></p>
 
 <p><span class="chinese">在酒店前台登记，该酒店名叫艾斯么拉达公园。</span><span class="english">Checking in at the hotels reception, the Esmeralda Park.</span></p>

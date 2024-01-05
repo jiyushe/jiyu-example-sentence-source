@@ -1,5 +1,7 @@
 # 台钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taizhong_1.md)
+
 <p><span class="chinese">台钟在滴答滴答地响。</span><span class="english">The clock is ticking.</span></p>
 
 <p><span class="chinese">那台钟走对准确吗？</span><span class="english">Can that clock be right?</span></p>

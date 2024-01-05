@@ -1,5 +1,7 @@
 # dust 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dust_1.md)
+
 <p><span class="chinese">化作了风中之尘。</span><span class="english">Dust in the wind.</span></p>
 
 <p><span class="chinese">我是一团灰尘。</span><span class="english">I'm a cloud of dust.</span></p>

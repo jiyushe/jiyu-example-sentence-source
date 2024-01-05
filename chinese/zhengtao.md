@@ -1,5 +1,7 @@
 # 征讨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengtao.md)
+
 <p><span class="chinese">是时候征讨中国了！</span><span class="english">They were fighting for their country.</span></p>
 
 <p><span class="chinese">东晋国家严格控制征讨都督的设置权力。</span><span class="english">The setting power was strictly controlled by the country.</span></p>

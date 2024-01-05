@@ -1,5 +1,7 @@
 # fauna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fauna.md)
+
 <p><span class="chinese">形成于内陆棚浅海环境。</span><span class="english">The Taijiang fauna formed in inner shelf environment.</span></p>
 
 <p><span class="chinese">农村拥有丰富的植物群和动物群。</span><span class="english">The countryside is home to plenty of flora and fauna.</span></p>

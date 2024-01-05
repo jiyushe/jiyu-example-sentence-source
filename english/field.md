@@ -1,5 +1,7 @@
 # field
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/field.md)
+
 <p><span class="chinese">字子野。</span><span class="english">Word sub field.</span></p>
 
 <p><span class="chinese">苍翠繁茂的玉黍蜀田人。</span><span class="english">A lush corn field.</span></p>

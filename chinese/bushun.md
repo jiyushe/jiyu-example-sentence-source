@@ -1,5 +1,7 @@
 # 不顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushun.md)
+
 <p><span class="chinese">为什么近来我的渔轮抛投不顺。</span><span class="english">My reel doesn't cast well recently.</span></p>
 
 <p><span class="chinese">生活中不顺意的事一大堆。</span><span class="english">Do not ring true meaning of life a lot.</span></p>

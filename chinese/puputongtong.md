@@ -1,5 +1,7 @@
 # 普普通通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puputongtong.md)
+
 <p><span class="chinese">我发现，他原来是个普普通通的人！</span><span class="english">I found he was just an ordinary man!</span></p>
 
 <p><span class="chinese">只是一个普普通通的人，喜欢中国女人。</span><span class="english">Just an average middleclass guy who likes chinese women.</span></p>

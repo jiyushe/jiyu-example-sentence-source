@@ -1,5 +1,7 @@
 # digitizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digitizer.md)
+
 <p><span class="chinese">模拟/数字转换器，或数字转换器。</span><span class="english">Analog to Digital converter, or digitizer.</span></p>
 
 <p><span class="chinese">高速宽带数字化示波器在高扫速工作时，仅能采集信号的少数样点。</span><span class="english">In high-speed wide-band- digitizer at high sweep speed, only a few samples screen.</span></p>

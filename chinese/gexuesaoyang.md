@@ -1,5 +1,7 @@
 # 隔靴搔痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gexuesaoyang.md)
+
 <p><span class="chinese">捕获感兴趣的文本仅仅是隔靴搔痒。</span><span class="english">Capturing text of interest just scratches the surface.</span></p>
 
 <p><span class="chinese">但是，如果流行病真的发生了，这将只是隔靴搔痒。</span><span class="english">But if a pandemic does occur, this would be small comfort indeed.</span></p>

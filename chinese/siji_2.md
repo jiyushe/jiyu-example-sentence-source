@@ -1,5 +1,7 @@
 # 四季
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siji_2.md)
+
 <p><span class="chinese">四季循环往复。</span><span class="english">The seasons revolve.</span></p>
 
 <p><span class="chinese">一颗手雷中的四季。</span><span class="english">Four seasons in one nade.</span></p>

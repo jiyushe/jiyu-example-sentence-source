@@ -1,5 +1,7 @@
 # bugbear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bugbear.md)
+
 <p><span class="chinese">我最愁的是钱。</span><span class="english">Money is my biggest bugbear.</span></p>
 
 <p><span class="chinese">通货膨胀是政府的主要难题。</span><span class="english">Inflation is the Government's main bugbear.</span></p>

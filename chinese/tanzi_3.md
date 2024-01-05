@@ -1,5 +1,7 @@
 # 毯子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzi_3.md)
+
 <p><span class="chinese">我喜欢我的毯子！</span><span class="english">I like my blanket!</span></p>
 
 <p><span class="chinese">请给我加一条毯子。</span><span class="english">Pls. get me a blanket.</span></p>

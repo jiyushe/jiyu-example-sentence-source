@@ -1,5 +1,7 @@
 # 圈养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyang.md)
+
 <p><span class="chinese">圈养鲸鱼亚卡。</span><span class="english">Yaka, captive whale.</span></p>
 
 <p><span class="chinese">雪貂是圈养动物吗？</span><span class="english">Are ferrets cage animals?</span></p>

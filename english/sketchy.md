@@ -1,5 +1,7 @@
 # sketchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sketchy.md)
+
 <p><span class="chinese">想想临界速度和大致的连通性。</span><span class="english">Think about Edge speeds and sketchy connectivity.</span></p>
 
 <p><span class="chinese">你说听起来什么？你不信小陈说的话？</span><span class="english">What?don't believe her. That story sounds sketchy.</span></p>

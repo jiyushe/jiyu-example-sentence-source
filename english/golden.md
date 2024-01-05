@@ -1,5 +1,7 @@
 # golden 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/golden.md)
+
 <p><span class="chinese">金的佛佗。</span><span class="english">A golden Buddha.</span></p>
 
 <p><span class="chinese">哦，五朵金花？</span><span class="english">Five golden flowers?</span></p>

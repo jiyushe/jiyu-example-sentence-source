@@ -1,5 +1,7 @@
 # 府上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushang.md)
+
 <p><span class="chinese">卢府上有好几个孩子。</span><span class="english">They had several children.</span></p>
 
 <p><span class="chinese">独孤皇后来到太子府上。</span><span class="english">Queen dugu came to prince round.</span></p>

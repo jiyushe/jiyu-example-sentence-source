@@ -1,5 +1,7 @@
 # hepatectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatectomy.md)
+
 <p><span class="chinese">目的探讨肝切除术治疗肝内结石的效果。</span><span class="english">Objective To evaluate the effect of hepatectomy for hepatolithiasis.</span></p>
 
 <p><span class="chinese">术前PVE和两步肝切除术可提高手术安全性和切除率。</span><span class="english">PVE and two-stage hepatectomy can raise the operation safety and excision rates.</span></p>

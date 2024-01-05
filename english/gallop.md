@@ -1,5 +1,7 @@
 # gallop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallop.md)
+
 <p><span class="chinese">那匹马突然飞跑起来。</span><span class="english">The horse struck a gallop.</span></p>
 
 <p><span class="chinese">他们热爱奔跑，也喜欢四处漫步。</span><span class="english">They love to gallop and roam.</span></p>

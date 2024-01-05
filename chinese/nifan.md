@@ -1,5 +1,7 @@
 # 腻烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nifan.md)
+
 <p><span class="chinese">我腻烦开车。</span><span class="english">I hate driving.</span></p>
 
 <p><span class="chinese">我腻烦办公室。</span><span class="english">I hate offices.</span></p>

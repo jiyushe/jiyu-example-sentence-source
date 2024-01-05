@@ -1,5 +1,7 @@
 # videotape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/videotape.md)
+
 <p><span class="chinese">很好，那么我的录象带在哪儿？</span><span class="english">Good, and then where is my videotape ?</span></p>
 
 <p><span class="chinese">电视台的人来鲜货市场录制节目来哩。</span><span class="english">The TV people came to videotape the market!</span></p>

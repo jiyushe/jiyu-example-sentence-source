@@ -1,5 +1,7 @@
 # veterinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veterinary.md)
+
 <p><span class="chinese">一直寻求兽医师的意见。</span><span class="english">Always seek veterinary advice.</span></p>
 
 <p><span class="chinese">受体激动剂是兽药的一种。</span><span class="english">Agonist is one kind of veterinary.</span></p>

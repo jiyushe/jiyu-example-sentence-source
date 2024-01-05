@@ -1,5 +1,7 @@
 # 拦河坝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanheba.md)
+
 <p><span class="chinese">水电站必须有拦河坝。</span><span class="english">A water power station must have a dam.</span></p>
 
 <p><span class="chinese">一道拦河坝将会在上游拦住水流，抬升水位。</span><span class="english">A barrage would halt the flow upstream and lift the water level.</span></p>

@@ -1,5 +1,7 @@
 # 省略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglve.md)
+
 <p><span class="chinese">为什么省略它们？</span><span class="english">Why omit them?</span></p>
 
 <p><span class="chinese">你可以省略的最大参数。</span><span class="english">You can omit the max parameter.</span></p>

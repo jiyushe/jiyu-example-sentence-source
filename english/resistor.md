@@ -1,5 +1,7 @@
 # resistor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resistor.md)
+
 <p><span class="chinese">电阻器芯片无裂痕。</span><span class="english">The resistor body is crack-free.</span></p>
 
 <p><span class="chinese">电动机起动用电抗器或电阻器“，”</span><span class="english">Motor Starting Reactor and Resistor.</span></p>

@@ -1,5 +1,7 @@
 # napier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napier.md)
+
 <p><span class="chinese">我是英国爱丁堡龙比亚大学的BA学生。</span><span class="english">I am a BA student in Edinburgh Napier University.</span></p>
 
 <p><span class="chinese">纳皮尔大学位于苏格兰的首都兼主要大城爱丁堡。</span><span class="english">Napier University is situated in Edinburgh, Scotland's capital and a major UK city.</span></p>

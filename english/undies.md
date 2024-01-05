@@ -1,5 +1,7 @@
 # undies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undies.md)
+
 <p><span class="chinese">她把自己的几件内衣挂在那里晾着。</span><span class="english">She hung some of her undies there to dry.</span></p>
 
 <p><span class="chinese">这是小男孩的包裹不一钢模。</span><span class="english">This is the package for little boy undies.</span></p>

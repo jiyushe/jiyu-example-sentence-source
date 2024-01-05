@@ -1,5 +1,7 @@
 # 工区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongqu.md)
+
 <p><span class="chinese">图为7月14日，石庙沟工区职工雨后检查隧道顶部。</span><span class="english">Staff of Shimiaogou Section checking up the tunnel roof on July 14th.</span></p>
 
 <p><span class="chinese">同意日立环球公司在加工区用地范围内配套建设厨房。</span><span class="english">VII. HGST was approved to construct supporting kitchen within the lot in SEPZ.</span></p>

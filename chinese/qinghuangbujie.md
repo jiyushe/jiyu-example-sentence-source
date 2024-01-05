@@ -1,5 +1,7 @@
 # 青黄不接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghuangbujie.md)
+
 <p><span class="chinese">昆曲传人青黄不接，他是其中之一。</span><span class="english">He is also one of a dwindling breed of Kunqu artists.</span></p>
 
 <p><span class="chinese">其优秀的外交家很少，又青黄不接。</span><span class="english">Its few diplomats are good, but terribly overstretched.</span></p>

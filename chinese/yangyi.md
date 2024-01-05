@@ -1,5 +1,7 @@
 # 洋溢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyi.md)
+
 <p><span class="chinese">现在，我激情洋溢的生活着。</span><span class="english">I’m now living my passion.</span></p>
 
 <p><span class="chinese">她是个才华洋溢的设计师。</span><span class="english">She is a talented designers.</span></p>

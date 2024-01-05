@@ -1,5 +1,7 @@
 # 鞋帮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiebang.md)
+
 <p><span class="chinese">鞋匠，鞋匠，给我补鞋帮。</span><span class="english">Cobbler, Cobbler, mend my shoe.</span></p>
 
 <p><span class="chinese">鞋底不必是皮质的，但是鞋帮得是。</span><span class="english">The soles don’t have to be leather, but the uppers do.</span></p>

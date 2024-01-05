@@ -1,5 +1,7 @@
 # 寒流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanliu.md)
+
 <p><span class="chinese">寒流正在发威呢!</span><span class="english">This cold front is taking its toll!</span></p>
 
 <p><span class="chinese">我知道寒流来到，你遭遇风霜。</span><span class="english">I know you have come to the cold, frost.</span></p>

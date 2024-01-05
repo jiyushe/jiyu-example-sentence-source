@@ -1,5 +1,7 @@
 # 消溶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaorong.md)
+
 <p><span class="chinese">他说，“泰姬陵正在消溶。</span><span class="english">and he said,“the Taj Mahal is dying.</span></p>
 
 <p><span class="chinese">此起彼伏的鼾声消溶在昏黄的夜灯里。</span><span class="english">As one falls snoring dissolving in the dim light.</span></p>

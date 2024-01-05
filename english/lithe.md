@@ -1,5 +1,7 @@
 # lithe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithe.md)
+
 <p><span class="chinese">她有体操运动员轻盈而美丽的体态。</span><span class="english">She has the lithe grace of a gymnast.</span></p>
 
 <p><span class="chinese">表皮毛的差异较小。</span><span class="english">The difference of the trichomes is lithe.</span></p>

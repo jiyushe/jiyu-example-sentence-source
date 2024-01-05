@@ -1,5 +1,7 @@
 # 风景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjing.md)
+
 <p><span class="chinese">剩下的只是风景。</span><span class="english">The rest is landscape.</span></p>
 
 <p><span class="chinese">西溪风景好。</span><span class="english">Xixi's scenery is good.</span></p>

@@ -1,5 +1,7 @@
 # 胎儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taier.md)
+
 <p><span class="chinese">胎儿监护仪？</span><span class="english">A fetal monitor?</span></p>
 
 <p><span class="chinese">胎儿还会撒尿。</span><span class="english">The baby also pees.</span></p>

@@ -1,5 +1,7 @@
 # joel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joel.md)
+
 <p><span class="chinese">乔尔眯了眯眼。</span><span class="english">Joel narrows his eyes.</span></p>
 
 <p><span class="chinese">“哦……我跟乔尔。比利睡觉了”。</span><span class="english">I slept with Billy Joel.</span></p>

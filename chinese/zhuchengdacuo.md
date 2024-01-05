@@ -1,5 +1,7 @@
 # 铸成大错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchengdacuo.md)
+
 <p><span class="chinese">如此进攻将铸成大错。</span><span class="english">Such an attack would be a mistake.</span></p>
 
 <p><span class="chinese">我们相信，不进军农村市场的企业正铸成大错。</span><span class="english">Ignoring the rural market, we believe, is a mistake.</span></p>

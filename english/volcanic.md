@@ -1,5 +1,7 @@
 # volcanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volcanic.md)
+
 <p><span class="chinese">火山作用和火山的种类。</span><span class="english">Volcanism and volcanic types.</span></p>
 
 <p><span class="chinese">该城建立在火成岩与火山灰上。</span><span class="english">It’s built on volcanic rock and ash.</span></p>

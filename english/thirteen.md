@@ -1,5 +1,7 @@
 # thirteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirteen.md)
+
 <p><span class="chinese">十三等于一。</span><span class="english">Thirteen equals one.</span></p>
 
 <p><span class="chinese">那时的我才十三岁。</span><span class="english">I was thirteen years old then.</span></p>

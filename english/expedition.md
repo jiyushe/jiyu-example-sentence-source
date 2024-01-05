@@ -1,5 +1,7 @@
 # expedition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expedition.md)
+
 <p><span class="chinese">又见刘易斯和克拉克远征。</span><span class="english">See also Lewis and Clark Expedition.</span></p>
 
 <p><span class="chinese">他是远征队的指挥官。</span><span class="english">He is the commander of an expedition.</span></p>

@@ -1,5 +1,7 @@
 # consumption 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumption.md)
+
 <p><span class="chinese">什么是消费？</span><span class="english">What is consumption?</span></p>
 
 <p><span class="chinese">加算消费税。</span><span class="english">I add the consumption tax.</span></p>

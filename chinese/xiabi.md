@@ -1,5 +1,7 @@
 # 下笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabi.md)
+
 <p><span class="chinese">所以，我不知道该如何下笔。</span><span class="english">So, I don't know how to draw it.</span></p>
 
 <p><span class="chinese">读书破万卷，下笔如有神。</span><span class="english">He owns a gifted pen, who reads tremendously.</span></p>

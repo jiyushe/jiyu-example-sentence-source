@@ -1,5 +1,7 @@
 # 军饷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junxiang.md)
+
 <p><span class="chinese">前方军队将拿不到军饷</span><span class="english">Military troops will fight without pay.</span></p>
 
 <p><span class="chinese">有好多次军队一无粮食二无军饷。</span><span class="english">Many times the army had no food and no pay.</span></p>

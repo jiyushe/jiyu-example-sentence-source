@@ -1,5 +1,7 @@
 # purvey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purvey.md)
+
 <p><span class="chinese">他们供应食品给军队。</span><span class="english">They purvey food for the army.</span></p>
 
 <p><span class="chinese">马上把你的变态话说了，然后出去。</span><span class="english">Say whatever purvey thing you're going to say and just leave?</span></p>

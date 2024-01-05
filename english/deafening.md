@@ -1,5 +1,7 @@
 # deafening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deafening.md)
+
 <p><span class="chinese">巨大的响声震耳欲聋。</span><span class="english">The sound was deafening.</span></p>
 
 <p><span class="chinese">这音乐把我们耳朵都震聋了!</span><span class="english">The music is deafening us!</span></p>

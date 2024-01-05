@@ -1,5 +1,7 @@
 # anesthesiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anesthesiology.md)
+
 <p><span class="chinese">研究发表在十月版的麻醉学上。</span><span class="english">The study is in the October issue of Anesthesiology.</span></p>
 
 <p><span class="chinese">这是全球麻醉学服务网。</span><span class="english">This is the website of Global Anesthesiology Server Network.</span></p>

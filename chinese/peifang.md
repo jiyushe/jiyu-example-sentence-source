@@ -1,5 +1,7 @@
 # 配方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peifang.md)
+
 <p><span class="chinese">给出了基本配方。</span><span class="english">Their basic recept is presented.</span></p>
 
 <p><span class="chinese">独家无刺激性配方。</span><span class="english">Exclusive non-irritating formula.</span></p>

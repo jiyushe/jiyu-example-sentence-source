@@ -1,5 +1,7 @@
 # 衔铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantie.md)
+
 <p><span class="chinese">是软铁的衔铁。</span><span class="english">Is armature of soft iron.</span></p>
 
 <p><span class="chinese">如果马拒绝，让马闻薄荷的同时再试着将衔铁放入。</span><span class="english">If they don't take the bit, try again while they smell the peppermint.</span></p>

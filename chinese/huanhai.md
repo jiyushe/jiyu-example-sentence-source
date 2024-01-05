@@ -1,5 +1,7 @@
 # 环海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhai.md)
+
 <p><span class="chinese">这个国家四面环海。</span><span class="english">The country is encircled by the sea.</span></p>
 
 <p><span class="chinese">三亚四面环海，所以有许多的海产品。</span><span class="english">Sanya is around with seas, so there is much seafood.</span></p>

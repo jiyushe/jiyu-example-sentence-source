@@ -1,5 +1,7 @@
 # preserver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preserver.md)
+
 <p><span class="chinese">你是一个食物储藏者吗？</span><span class="english">Are you a food preserver?</span></p>
 
 <p><span class="chinese">救生衣使他保持浮在水面直到小船来救他。</span><span class="english">The life preserver kept him up until the boat came.</span></p>

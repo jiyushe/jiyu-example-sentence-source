@@ -1,5 +1,7 @@
 # chorizo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chorizo.md)
+
 <p><span class="chinese">我帮他挑西班牙香肠。</span><span class="english">I helped him pick out a chorizo.</span></p>
 
 <p><span class="chinese">哈瓦那——想要些加辣椒的熏猪肉香肠吗？</span><span class="english">HAVANA — Want some paprika-infused chorizo sausage?</span></p>

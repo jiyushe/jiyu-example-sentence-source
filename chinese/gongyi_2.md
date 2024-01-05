@@ -1,5 +1,7 @@
 # 工艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyi_2.md)
+
 <p><span class="chinese">这项采矿工艺不可靠。</span><span class="english">The mining technique is shaky.</span></p>
 
 <p><span class="chinese">浅水安装工艺法。</span><span class="english">Assemblage craft in deep water.</span></p>

@@ -1,5 +1,7 @@
 # unmounted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmounted.md)
+
 <p><span class="chinese">没有正确卸载文件系统</span><span class="english">Any file system is improperly unmounted</span></p>
 
 <p><span class="chinese">现在这个加速器几乎是废弃了。</span><span class="english">Now the synchrophasotron is almost unmounted.</span></p>

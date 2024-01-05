@@ -1,5 +1,7 @@
 # audiometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audiometry.md)
+
 <p><span class="chinese">声导抗无明显异常。</span><span class="english">No abnormality were found in acoustic immittance audiometry.</span></p>
 
 <p><span class="chinese">方法对外伤性聋进行客观声导抗测试和主观纯音测试。</span><span class="english">Methods To check on objective acoustic impedance and subjective pure tone audiometry.</span></p>

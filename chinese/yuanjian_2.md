@@ -1,5 +1,7 @@
 # 远见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjian_2.md)
+
 <p><span class="chinese">远见者是对的。</span><span class="english">Visionaries are right.</span></p>
 
 <p><span class="chinese">相信远见和玩耍。</span><span class="english">Believe in vision and playmaking.</span></p>

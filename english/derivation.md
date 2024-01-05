@@ -1,5 +1,7 @@
 # derivation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derivation.md)
+
 <p><span class="chinese">这是真实的冷驱动。</span><span class="english">It is a really cool derivation.</span></p>
 
 <p><span class="chinese">这种连接并不只是衍生性的。</span><span class="english">The connexion is not a simple derivation.</span></p>

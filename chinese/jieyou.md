@@ -1,5 +1,7 @@
 # 解忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyou.md)
+
 <p><span class="chinese">你是想为我解忧吗？</span><span class="english">Be you trying to distract me?</span></p>
 
 <p><span class="chinese">你可用唱歌解忧消愁！</span><span class="english">You can sing your cares away!</span></p>

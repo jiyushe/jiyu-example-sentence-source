@@ -1,5 +1,7 @@
 # recline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recline.md)
+
 <p><span class="chinese">我可以把椅子放下来吗？</span><span class="english">Can I recline my seat?</span></p>
 
 <p><span class="chinese">我是否可将座位向后倾倒?</span><span class="english">May I recline my seat?</span></p>

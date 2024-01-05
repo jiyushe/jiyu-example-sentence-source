@@ -1,5 +1,7 @@
 # linesman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linesman.md)
+
 <p><span class="chinese">在东面看台那边奔跑的边线裁判。</span><span class="english">The linesman running the East Stand side.</span></p>
 
 <p><span class="chinese">同样的这个边裁却举旗了。</span><span class="english">The same linesman instantly raised his flag for offside.</span></p>

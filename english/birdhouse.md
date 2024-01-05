@@ -1,5 +1,7 @@
 # birdhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birdhouse.md)
+
 <p><span class="chinese">其实是个鸟窝模型。</span><span class="english">It's actually a birdhouse kiT.</span></p>
 
 <p><span class="chinese">你可以种一棵树或建一个鸟巢。</span><span class="english">You can plant a tree or build a birdhouse.</span></p>

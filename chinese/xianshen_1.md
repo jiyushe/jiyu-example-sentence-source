@@ -1,5 +1,7 @@
 # 现身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshen_1.md)
+
 <p><span class="chinese">耶和华在每一场战役中都现身。</span><span class="english">Yahweh was present at every battle.</span></p>
 
 <p><span class="chinese">我们的“主”很快会现身的。</span><span class="english">Our Lord is coming very soon. Pastor F. M.</span></p>

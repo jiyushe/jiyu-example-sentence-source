@@ -1,5 +1,7 @@
 # liquefy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquefy.md)
+
 <p><span class="chinese">用来使氮液化的过程。</span><span class="english">A process that is used to liquefy nitrogen.</span></p>
 
 <p><span class="chinese">不幸地是，一次地震就可能将水坝的关键之处毁于一旦。</span><span class="english">Unfortunately, an earthquake might liquefy the core of the dam.</span></p>

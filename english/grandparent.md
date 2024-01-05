@@ -1,5 +1,7 @@
 # grandparent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandparent.md)
+
 <p><span class="chinese">或许是个祖父母，抑或是一个婶婶这样说？</span><span class="english">Perhaps a grandparent or an aunt?</span></p>
 
 <p><span class="chinese">没有祖父母会为我自豪地站起来。</span><span class="english">I had no grandparent to stand proudly for me.</span></p>

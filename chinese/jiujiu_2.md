@@ -1,5 +1,7 @@
 # 啾啾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujiu_2.md)
+
 <p><span class="chinese">小啾啾想去玩。</span><span class="english">Little ChuChu wants to play.</span></p>
 
 <p><span class="chinese">我听见鸟儿在枝头啾啾。</span><span class="english">I heard birds chirping in the tree.</span></p>

@@ -1,5 +1,7 @@
 # pteridophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pteridophyte.md)
+
 <p><span class="chinese">它是阳性陆生蕨类植物。</span><span class="english">It is land—growing, positive pteridophyte.</span></p>
 
 <p><span class="chinese">对进一步研究、合理开发利用药用蕨类植物资源提出建议。</span><span class="english">Some suggestions on farther development and utilization of pteridophyte resources are put forward.</span></p>

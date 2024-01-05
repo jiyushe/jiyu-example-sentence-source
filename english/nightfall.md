@@ -1,5 +1,7 @@
 # nightfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightfall.md)
+
 <p><span class="chinese">黄昏时你能看到那颗星星。</span><span class="english">You can see the star at nightfall.</span></p>
 
 <p><span class="chinese">今日他将在夜暗之前死去。</span><span class="english">Today he will die before nightfall.</span></p>

@@ -1,5 +1,7 @@
 # 酒吧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuba.md)
+
 <p><span class="chinese">一小我酒吧买醉！</span><span class="english">One bar drink!</span></p>
 
 <p><span class="chinese">我回到了酒吧里。</span><span class="english">Back to the bar.</span></p>

@@ -1,5 +1,7 @@
 # cairn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cairn.md)
+
 <p><span class="chinese">新格兰奇的大多数遗迹是被泥土覆盖的石堆。</span><span class="english">Most of the new grange site is an earth-covered cairn.</span></p>
 
 <p><span class="chinese">一只叫特里的凯恩梗狗饰演了小狗托托。</span><span class="english">A Cairn terrier called Terry played the role of the dog Toto.</span></p>

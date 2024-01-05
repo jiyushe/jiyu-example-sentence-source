@@ -1,5 +1,7 @@
 # 铺位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puwei.md)
+
 <p><span class="chinese">我睡在他旁边的铺位。</span><span class="english">I berthed beside him.</span></p>
 
 <p><span class="chinese">在这和我一起，轮船铺位。</span><span class="english">Out here with me, bunking up.</span></p>

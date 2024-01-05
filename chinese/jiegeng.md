@@ -1,5 +1,7 @@
 # 桔梗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiegeng.md)
+
 <p><span class="chinese">后来他遇到了真正的桔梗。</span><span class="english">He then ran into the real Kikyo.</span></p>
 
 <p><span class="chinese">戈薇是桔梗的转世。</span><span class="english">Kagome is the reincarnation of Kikyo.</span></p>

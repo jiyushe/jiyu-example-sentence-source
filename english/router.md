@@ -1,5 +1,7 @@
 # router
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/router.md)
+
 <p><span class="chinese">把它插到你的路由器里。</span><span class="english">Plug it into your router.</span></p>
 
 <p><span class="chinese">按下回车键进入路由器提示符状态。</span><span class="english">Press to get to the router prompt.</span></p>

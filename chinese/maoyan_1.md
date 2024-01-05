@@ -1,5 +1,7 @@
 # 帽檐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoyan_1.md)
+
 <p><span class="chinese">宽阔的帽檐遮住了他的脸。</span><span class="english">The wide hat's brim hid his face.</span></p>
 
 <p><span class="chinese">插一支天竺葵在帽檐，快乐吧！</span><span class="english">Stick a geranium in your hat and be happy!</span></p>

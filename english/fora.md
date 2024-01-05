@@ -1,5 +1,7 @@
 # fora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fora.md)
+
 <p><span class="chinese">但不要劳神去这家公司找工作了。</span><span class="english">But don't bother to apply fora job there.</span></p>
 
 <p><span class="chinese">那我来中国的年头儿也不短了。</span><span class="english">Well, I've been in China also fora long time.</span></p>

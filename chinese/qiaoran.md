@@ -1,5 +1,7 @@
 # 悄然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoran.md)
+
 <p><span class="chinese">破晓你悄然离去。</span><span class="english">And at day break you leave.</span></p>
 
 <p><span class="chinese">不过一场争论还是悄然临近了。</span><span class="english">But a face-off may be looming.</span></p>

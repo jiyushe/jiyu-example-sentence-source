@@ -1,5 +1,7 @@
 # assuring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assuring.md)
+
 <p><span class="chinese">课堂秩序是教学的基本保障。</span><span class="english">Classroom order is basic assuring of teaching.</span></p>
 
 <p><span class="chinese">深度填料函确保较长的填料使用寿命。</span><span class="english">Stuffing box is deep, assuring long packing life.</span></p>

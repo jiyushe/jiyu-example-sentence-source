@@ -1,5 +1,7 @@
 # psychiatric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychiatric.md)
+
 <p><span class="chinese">有三分之一曾接受过精神科药物治疗。</span><span class="english">One-third have taken psychiatric medication.</span></p>
 
 <p><span class="chinese">这里是蓝染花私立精神科疗养院。</span><span class="english">This is Aizome Private Psychiatric Sanatorium.</span></p>

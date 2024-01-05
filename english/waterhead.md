@@ -1,5 +1,7 @@
 # waterhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterhead.md)
+
 <p><span class="chinese">裂缝水流量与水位不呈正比关系。</span><span class="english">The water-flow in fracture is not directly proportional to the waterhead.</span></p>
 
 <p><span class="chinese">黄河上游来水是控制黄河三角洲湿地发育的主导因素。</span><span class="english">Waterhead is a dominant factor for controlling the development of the Yellow River's new wetland.</span></p>

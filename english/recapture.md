@@ -1,5 +1,7 @@
 # recapture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recapture.md)
+
 <p><span class="chinese">但我却不能再次体验到它的美。</span><span class="english">But I cannot recapture its beauty.</span></p>
 
 <p><span class="chinese">生怕你以为他永远不会重现</span><span class="english">Lest you should think he never could recapture</span></p>

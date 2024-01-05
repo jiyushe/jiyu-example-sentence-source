@@ -1,5 +1,7 @@
 # changeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changeless.md)
+
 <p><span class="chinese">他们是不变的。</span><span class="english">They are changeless.</span></p>
 
 <p><span class="chinese">数字3是不变的。</span><span class="english">The number 3 is changeless.</span></p>

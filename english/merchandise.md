@@ -1,5 +1,7 @@
 # merchandise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merchandise.md)
+
 <p><span class="chinese">促进货品销售。</span><span class="english">Liquidates sales merchandise.</span></p>
 
 <p><span class="chinese">谁可以生产501军团产品？</span><span class="english">Who Can Buy 501st Merchandise?</span></p>

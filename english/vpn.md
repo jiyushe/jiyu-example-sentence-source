@@ -1,5 +1,7 @@
 # vpn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vpn.md)
+
 <p><span class="chinese">还有一个可以提供VPN网关。</span><span class="english">Yet another could provide a VPN gateway.</span></p>
 
 <p><span class="chinese">但是如果商业数据也依赖VPN链接怎么办？</span><span class="english">But what if businesses relied on VPN connections?</span></p>

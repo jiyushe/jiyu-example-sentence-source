@@ -1,5 +1,7 @@
 # vermouth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermouth.md)
+
 <p><span class="chinese">杜松子酒和甜苦艾酒。</span><span class="english">I ordered gin and vermouth.</span></p>
 
 <p><span class="chinese">我要了杜松子酒和苦艾酒。</span><span class="english">I ordered gin and vermouth.</span></p>

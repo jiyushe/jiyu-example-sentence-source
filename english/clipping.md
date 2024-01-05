@@ -1,5 +1,7 @@
 # clipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clipping.md)
+
 <p><span class="chinese">一匹马正沿路奔驰。</span><span class="english">A horse is clipping down the road.</span></p>
 
 <p><span class="chinese">所以，这被称为票息剪券。</span><span class="english">So, that was called coupon clipping.</span></p>

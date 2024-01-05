@@ -1,5 +1,7 @@
 # 生母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmu_2.md)
+
 <p><span class="chinese">格兰王的妻子，特利斯坦和简的生母。</span><span class="english">The wife of King Gran, and mother of Tristan and Jan.</span></p>
 
 <p><span class="chinese">至少，克拉普塞尔还有个生母在等他。</span><span class="english">At least Mr. Crapser has a birth mother waiting for him.</span></p>

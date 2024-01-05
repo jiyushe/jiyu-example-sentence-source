@@ -1,5 +1,7 @@
 # 甚而
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shener.md)
+
 <p><span class="chinese">我仍然听见了他们甚而在亚洲穴和德国天沟。</span><span class="english">I still heard them even in Asian dens and German gutters.</span></p>
 
 <p><span class="chinese">权力是政治、业—甚而婚姻的腐蚀剂。</span><span class="english">Power is the great corrupter of politics, business– and marriage.</span></p>

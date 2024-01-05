@@ -1,5 +1,7 @@
 # anzac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anzac.md)
+
 <p><span class="chinese">澳新军团日袋鼠特兹饮料，褴褛及两个向上！</span><span class="english">Wallaby Teds ANZAC Day drinks, footy & TWO UP!</span></p>
 
 <p><span class="chinese">纪念一战中澳洲的第一次重大军事行动的节日。</span><span class="english">Anzac Day -- Australia and New Zealand Army Corps.</span></p>

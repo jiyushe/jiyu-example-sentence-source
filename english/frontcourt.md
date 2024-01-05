@@ -1,5 +1,7 @@
 # frontcourt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frontcourt.md)
+
 <p><span class="chinese">除了前场，这个球队都有明显的不足。</span><span class="english">Outside the frontcourt , this team is pretty thin.</span></p>
 
 <p><span class="chinese">加索尔和拜纳姆在一起的前场有足够的空间给他们两人发挥么？</span><span class="english">Is there room in the frontcourt for both Pau Gasol and Andrew Bynum ?</span></p>

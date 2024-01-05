@@ -1,5 +1,7 @@
 # 十全十美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiquanshimei.md)
+
 <p><span class="chinese">十全十美，你这可爱的宝贝。</span><span class="english">Everything's geat , you pretty thing.</span></p>
 
 <p><span class="chinese">如果曼德尔是一个类型的狗，这是十全十美的。</span><span class="english">If mand is a type of dog, this is perfect.</span></p>

@@ -1,5 +1,7 @@
 # superiority
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superiority.md)
+
 <p><span class="chinese">死刑有什么不可替代的优越性？</span><span class="english">Any non-replaceable superiority of DS?</span></p>
 
 <p><span class="chinese">那它干麽说什麽社群的优越性？</span><span class="english">So what's this about community superiority?</span></p>

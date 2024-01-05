@@ -1,5 +1,7 @@
 # lantern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lantern.md)
+
 <p><span class="chinese">我们来猜灯谜。</span><span class="english">Let's guess lantern riddles.</span></p>
 
 <p><span class="chinese">那里有一只超大的灯笼。</span><span class="english">There is a huge lantern there.</span></p>

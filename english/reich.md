@@ -1,5 +1,7 @@
 # reich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reich.md)
+
 <p><span class="chinese">曾经所向披靡的第三帝国。</span><span class="english">The ever-invincible Third Reich.</span></p>
 
 <p><span class="chinese">我还任命了鲍勃.赖克为劳工部长。</span><span class="english">I also named Bob Reich labor secretary.</span></p>

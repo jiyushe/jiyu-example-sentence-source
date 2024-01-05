@@ -1,5 +1,7 @@
 # 闹腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoteng.md)
+
 <p><span class="chinese">他们俩在那里闹腾，老板娘差点休克。</span><span class="english">They were there Naoteng, she almost shock.</span></p>
 
 <p><span class="chinese">玲珑又去郭湘成府上闹腾了。</span><span class="english">Delicate went into your home Naoteng of Guo.</span></p>

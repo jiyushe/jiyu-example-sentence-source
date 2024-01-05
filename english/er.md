@@ -1,5 +1,7 @@
 # er
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/er.md)
+
 <p><span class="chinese">我想要一把尺。子。</span><span class="english">I want a rul. er.</span></p>
 
 <p><span class="chinese">现在时他住在上海。</span><span class="english">Er wohnt in Shanghai.</span></p>

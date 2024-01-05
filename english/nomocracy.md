@@ -1,5 +1,7 @@
 # nomocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nomocracy.md)
+
 <p><span class="chinese">无程序便无法治。</span><span class="english">Without procedures there will be no nomocracy.</span></p>
 
 <p><span class="chinese">因此，社会主义法治建设必须从“体制型“法治走向“生活型”法治。</span><span class="english">So socialist nomocracy must go to life style from system style.</span></p>

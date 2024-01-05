@@ -1,5 +1,7 @@
 # succession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succession.md)
+
 <p><span class="chinese">公元前1304年继位。</span><span class="english">BC succession in 1304.</span></p>
 
 <p><span class="chinese">我为什么要有接班计划？</span><span class="english">Why do I need succession planning?</span></p>

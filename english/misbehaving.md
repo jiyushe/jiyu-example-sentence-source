@@ -1,5 +1,7 @@
 # misbehaving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misbehaving.md)
+
 <p><span class="chinese">我知道最近他表现不好。</span><span class="english">I know he was misbehaving.</span></p>
 
 <p><span class="chinese">看那男孩，他老是淘气。</span><span class="english">Look at the boy! He is always misbehaving.</span></p>

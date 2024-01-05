@@ -1,5 +1,7 @@
 # tientsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tientsin.md)
+
 <p><span class="chinese">1929年，摩根大通在天津开设了第二家分行。</span><span class="english">By 1929, the firm had opened a second China branch in Tientsin.</span></p>
 
 <p><span class="chinese">这是天津的一座烧煤的现代化发电厂。</span><span class="english">This is a modern coal-burning electric power plant in Tientsin.</span></p>

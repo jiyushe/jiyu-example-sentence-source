@@ -1,5 +1,7 @@
 # impudent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impudent.md)
+
 <p><span class="chinese">请不要如此鲁莽。</span><span class="english">Please don't be so impudent.</span></p>
 
 <p><span class="chinese">他是一个多么厚颜无耻的无赖之徒！</span><span class="english">What an impudent rascal he is!</span></p>

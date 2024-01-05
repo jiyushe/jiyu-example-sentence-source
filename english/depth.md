@@ -1,5 +1,7 @@
 # depth 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depth.md)
+
 <p><span class="chinese">由于孔深。</span><span class="english">Due to hole depth.</span></p>
 
 <p><span class="chinese">它是感觉的深度。</span><span class="english">It’s depth of feeling.</span></p>

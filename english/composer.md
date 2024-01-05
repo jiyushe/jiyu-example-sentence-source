@@ -1,5 +1,7 @@
 # composer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composer.md)
+
 <p><span class="chinese">他是个很有天赋的作曲家。</span><span class="english">He is a highly gifted composer.</span></p>
 
 <p><span class="chinese">莫扎特是一位古典乐派作曲家。</span><span class="english">Mozart is a classical composer.</span></p>

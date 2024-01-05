@@ -1,5 +1,7 @@
 # liege
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liege.md)
+
 <p><span class="chinese">我很想念标准列日和那座城市。</span><span class="english">I miss Standard and the city of Liege.</span></p>
 
 <p><span class="chinese">从现在开始我必须专注于标准烈日的比赛。</span><span class="english">From now on, I can focus on Standard Liege again.</span></p>

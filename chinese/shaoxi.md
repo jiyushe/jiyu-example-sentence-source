@@ -1,5 +1,7 @@
 # 稍息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoxi.md)
+
 <p><span class="chinese">听了这稍息，他们放心了。</span><span class="english">They were relieved at the news.</span></p>
 
 <p><span class="chinese">士兵们现在在立正稍息。</span><span class="english">The soldiers are standing at ease now.</span></p>

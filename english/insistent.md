@@ -1,5 +1,7 @@
 # insistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insistent.md)
+
 <p><span class="chinese">当你开始感到小说急不可待的脉动时，就动笔写作。</span><span class="english">Write your story when you begin to feel its insistent pulse.</span></p>
 
 <p><span class="chinese">从有礼貌但固执的学生身上我发现了类似的义愤。</span><span class="english">I found similar indignation from polite but insistent students.</span></p>

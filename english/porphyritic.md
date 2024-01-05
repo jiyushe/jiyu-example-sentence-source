@@ -1,5 +1,7 @@
 # porphyritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porphyritic.md)
+
 <p><span class="chinese">山地属燕山期酸性花岗岩，多为粗粒花岗岩和斑状花岗岩。</span><span class="english">Yanshanian acid is a mountain of granite, mostly coarse-grained granite and porphyritic granite.</span></p>
 
 <p><span class="chinese">围岩蚀变的空间分布具有斑岩型单侧成矿模式特征。</span><span class="english">Wallrock alteration has character of porphyritic profile metallogenetic model in the spatial distribution.</span></p>

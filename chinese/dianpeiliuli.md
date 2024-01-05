@@ -1,5 +1,7 @@
 # 颠沛流离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianpeiliuli.md)
+
 <p><span class="chinese">我想过用一场颠沛流离的生活来遗忘所有。</span><span class="english">I wanted to use a displaced life to forget all.</span></p>
 
 <p><span class="chinese">所以选择用颠沛流离的生活来遗忘。</span><span class="english">So I chose to use the displaced living forgotten.</span></p>

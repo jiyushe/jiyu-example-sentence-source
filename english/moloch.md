@@ -1,5 +1,7 @@
 # moloch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moloch.md)
+
 <p><span class="chinese">火神他的埃是不尽的油料和石头！</span><span class="english">Moloch whose love is endless oil and stone!</span></p>
 
 <p><span class="chinese">火神他的灵魂是电力和银行！</span><span class="english">Moloch whose soul is electricity and banks !</span></p>

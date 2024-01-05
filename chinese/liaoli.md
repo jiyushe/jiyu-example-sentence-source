@@ -1,5 +1,7 @@
 # 料理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoli.md)
+
 <p><span class="chinese">没有肉我们也能设法料理。</span><span class="english">We can contrive without meat.</span></p>
 
 <p><span class="chinese">望京不多的好料理店。</span><span class="english">Wangjing not a good restaurant.</span></p>

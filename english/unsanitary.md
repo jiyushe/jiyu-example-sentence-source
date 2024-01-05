@@ -1,5 +1,7 @@
 # unsanitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsanitary.md)
+
 <p><span class="chinese">这完全不卫生，而且会违反规定！</span><span class="english">It's completely unsanitary and probably against the rules!</span></p>
 
 <p><span class="chinese">不要在带回它们来的时候里面还残留着苏打水，这不卫生，而且让人厌恶。</span><span class="english">Leaving soda inside is unsanitary and we find it disgusting.</span></p>

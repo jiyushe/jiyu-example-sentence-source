@@ -1,5 +1,7 @@
 # figuratively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figuratively.md)
+
 <p><span class="chinese">不过一般说来，我们所有人都是以比喻的方式使用这个单词。</span><span class="english">Figuratively we all use the word.</span></p>
 
 <p><span class="chinese">我突然发现“控制自己的出口”从喻意方面来说也是正确的。</span><span class="english">It occurs to me that "Control your exit" is advice that's figuratively true, too.</span></p>

@@ -1,5 +1,7 @@
 # 调羹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaogeng.md)
+
 <p><span class="chinese">这个调羹是谁的？</span><span class="english">Whose spoon is this?</span></p>
 
 <p><span class="chinese">给每人一把刀和一只调羹。</span><span class="english">Give each person a knife and a spoon.</span></p>

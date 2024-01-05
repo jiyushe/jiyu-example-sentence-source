@@ -1,5 +1,7 @@
 # 如胶似漆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rujiaosiqi.md)
+
 <p><span class="chinese">他如胶似漆地寸步不离开她。</span><span class="english">He sticks to her like glue, ie never leaves her.</span></p>
 
 <p><span class="chinese">他们如胶似漆的像是没有明天了。</span><span class="english">They cling to each other as if there were no tomorrow.</span></p>

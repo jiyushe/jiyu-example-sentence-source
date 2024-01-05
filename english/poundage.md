@@ -1,5 +1,7 @@
 # poundage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poundage.md)
+
 <p><span class="chinese">刷卡则不收手续费。</span><span class="english">Brush card not to receive poundage.</span></p>
 
 <p><span class="chinese">首先是除掉多余的体重。</span><span class="english">The first is to get rid of excess poundage.</span></p>

@@ -1,5 +1,7 @@
 # 剧痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jutong.md)
+
 <p><span class="chinese">剧痛孕育了狂喜。</span><span class="english">Transport is taught by throe.</span></p>
 
 <p><span class="chinese">一阵剧痛像刀割似地穿过他的身体。</span><span class="english">A terrible pain knifed his body.</span></p>

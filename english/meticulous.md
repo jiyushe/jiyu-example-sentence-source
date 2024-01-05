@@ -1,5 +1,7 @@
 # meticulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meticulous.md)
+
 <p><span class="chinese">爱是无微不至的窝心呵护。</span><span class="english">Love is the Woxin meticulous care.</span></p>
 
 <p><span class="chinese">整体声音华丽而细致。</span><span class="english">Integral voice luxuriant and meticulous.</span></p>

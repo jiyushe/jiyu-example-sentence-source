@@ -1,5 +1,7 @@
 # broadway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadway.md)
+
 <p><span class="chinese">她的这出戏在百老汇不受欢迎。</span><span class="english">Her play bombed on Broadway.</span></p>
 
 <p><span class="chinese">这齣戏在百老汇砸了锅。</span><span class="english">The play flopped on Broadway.</span></p>

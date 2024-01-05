@@ -1,5 +1,7 @@
 # juror
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juror.md)
+
 <p><span class="chinese">被告辩护律师不同意这位陪审员。</span><span class="english">The attorney for the defense challenged the juror.</span></p>
 
 <p><span class="chinese">这部影片赢得了戛纳金棕榈奖，那个评审组里没有评论家。</span><span class="english">This film won the Palmed'Or at Cannes no critics on that juror.</span></p>

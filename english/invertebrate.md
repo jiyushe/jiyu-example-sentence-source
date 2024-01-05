@@ -1,5 +1,7 @@
 # invertebrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invertebrate.md)
+
 <p><span class="chinese">这是无脊椎动物系统分类学的网页。</span><span class="english">This is the web page of Invertebrate Systematics.</span></p>
 
 <p><span class="chinese">一半的无脊椎动物物种生活在热带雨林中。</span><span class="english">Half of all invertebrate species live in tropical rain forests.</span></p>

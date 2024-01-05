@@ -1,5 +1,7 @@
 # 伸张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhang.md)
+
 <p><span class="chinese">抑或是正义得到了伸张？</span><span class="english">Justice served?</span></p>
 
 <p><span class="chinese">正义是否在我们主审的法庭上得到伸张？</span><span class="english">Was justice done in our courtroom?</span></p>

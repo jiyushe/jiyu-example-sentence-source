@@ -1,5 +1,7 @@
 # windlass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windlass.md)
+
 <p><span class="chinese">锚机已经可以用了。</span><span class="english">The windlass is ready for use.</span></p>
 
 <p><span class="chinese">检查锚机及绞车的各轴承间隙。</span><span class="english">Check the bearing clearance of windlass and winch.</span></p>

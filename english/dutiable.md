@@ -1,5 +1,7 @@
 # dutiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dutiable.md)
+
 <p><span class="chinese">您有应缴税的东西吗？</span><span class="english">Have you anything dutiable?</span></p>
 
 <p><span class="chinese">它们是缴税的物品。</span><span class="english">They are dutiable articles.</span></p>

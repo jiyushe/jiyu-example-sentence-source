@@ -1,5 +1,7 @@
 # 箴言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyan_1.md)
+
 <p><span class="chinese">所罗门的箴言。</span><span class="english">The proverbs of Solomon.</span></p>
 
 <p><span class="chinese">哈佛的箴言是“真理”。</span><span class="english">Harvard's motto is "Veritas."</span></p>

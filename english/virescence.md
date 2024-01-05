@@ -1,5 +1,7 @@
 # virescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virescence.md)
+
 <p><span class="chinese">关于重庆城市园林绿化形象建设。</span><span class="english">Chongqing city identity building about virescence and gardening.</span></p>
 
 <p><span class="chinese">公路绿化是公路建设的一项重要内容。</span><span class="english">Highway virescence is one important part of highway construction.</span></p>

@@ -1,5 +1,7 @@
 # guano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guano.md)
+
 <p><span class="chinese">一个蝙蝠粪和硫磺小球。</span><span class="english">A tiny ball of bat guano and sulfur.</span></p>
 
 <p><span class="chinese">早上我比较喜欢蝙蝠粪的味道。</span><span class="english">I love the smell of bat guano in the morning.</span></p>

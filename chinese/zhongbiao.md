@@ -1,5 +1,7 @@
 # 中表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbiao.md)
+
 <p><span class="chinese">年试题中表达“妹妹走向河边阿福跟随。</span><span class="english">My sister went to the river and A Fu followed her.</span></p>
 
 <p><span class="chinese">法文中表『情绪』的luné一字，同样也源自luna。</span><span class="english">One French word for mood, luné, also comes from luna.</span></p>

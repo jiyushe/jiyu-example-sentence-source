@@ -1,5 +1,7 @@
 # voluptuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluptuous.md)
+
 <p><span class="chinese">贵族阶层过着骄奢淫逸的生活。</span><span class="english">The nobility led voluptuous lives.</span></p>
 
 <p><span class="chinese">好消息是你感觉自己十分有情欲。</span><span class="english">The good news is you’ll feel quite voluptuous.</span></p>

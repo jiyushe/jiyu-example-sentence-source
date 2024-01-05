@@ -1,5 +1,7 @@
 # joyride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joyride.md)
+
 <p><span class="chinese">不要放过每个出去快乐兜风的机会。</span><span class="english">Never pass up the opportunity to go for a joyride.</span></p>
 
 <p><span class="chinese">宴会后他们一起搭她父亲的车子去兜风。</span><span class="english">After the party they all went on a joyride in her father's car.</span></p>

@@ -1,5 +1,7 @@
 # distracted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distracted.md)
+
 <p><span class="chinese">你是个困恼的男人。</span><span class="english">You are one distracted guy.</span></p>
 
 <p><span class="chinese">他用谈话分散她的注意力。</span><span class="english">He distracted her with talk.</span></p>

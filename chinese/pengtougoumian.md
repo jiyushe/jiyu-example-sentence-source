@@ -1,5 +1,7 @@
 # 蓬头垢面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengtougoumian.md)
+
 <p><span class="chinese">她蓬头垢面。</span><span class="english">Dirt had coated her face.</span></p>
 
 <p><span class="chinese">谁喜欢看到一个蓬头垢面的空间呢？</span><span class="english">Who likes to see an unkempt room?</span></p>

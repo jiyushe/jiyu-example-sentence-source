@@ -1,5 +1,7 @@
 # plenteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plenteous.md)
+
 <p><span class="chinese">证据来自丰富的渠道。</span><span class="english">The proof came from a plenteous source.</span></p>
 
 <p><span class="chinese">你瞭解那快乐是丰足的饮宴者，纵情狂欢的饮乐吗？</span><span class="english">Joy of the plenteous dinner, strong carouse and drinking?</span></p>

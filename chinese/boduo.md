@@ -1,5 +1,7 @@
 # 剥夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boduo.md)
+
 <p><span class="chinese">剥夺了我的世界。</span><span class="english">Rob me of my world.</span></p>
 
 <p><span class="chinese">不可剥夺的权利。</span><span class="english">Unalienable rights.</span></p>

@@ -1,5 +1,7 @@
 # hacienda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hacienda.md)
+
 <p><span class="chinese">让我们用“幼虫”。</span><span class="english">Let's use "hacienda."</span></p>
 
 <p><span class="chinese">位于哈岗最好的地区。</span><span class="english">Located in the best area of Hacienda Heights.</span></p>

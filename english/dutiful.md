@@ -1,5 +1,7 @@
 # dutiful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dutiful.md)
+
 <p><span class="chinese">这个孝顺的女儿。</span><span class="english">The dutiful daughter.</span></p>
 
 <p><span class="chinese">首先，他必须是一位孝子。</span><span class="english">Firstly, he must be a dutiful son.</span></p>

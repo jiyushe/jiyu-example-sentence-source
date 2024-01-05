@@ -1,5 +1,7 @@
 # asphyxiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphyxiate.md)
+
 <p><span class="chinese">我会因为那气味窒息的。</span><span class="english">Thought I'd asphyxiate from the smell.</span></p>
 
 <p><span class="chinese">因为二氧化碳比空气要重，纯净的二氧化碳可以使人窒息。</span><span class="english">Carbon dioxide in pure form can asphyxiate because it is heavier than air.</span></p>

@@ -1,5 +1,7 @@
 # 奇闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwen.md)
+
 <p><span class="chinese">什么是奇闻趣事新闻？。</span><span class="english">What Is Gonzo Journalism?</span></p>
 
 <p><span class="chinese">就没些个奇闻异事要跟家里人分享的？</span><span class="english">no little anecdotes to share with the folks?</span></p>

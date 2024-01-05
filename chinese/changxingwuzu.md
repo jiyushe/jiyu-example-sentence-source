@@ -1,5 +1,7 @@
 # 畅行无阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changxingwuzu.md)
+
 <p><span class="chinese">那畅行无阻的充满原初活力的天性。</span><span class="english">Nature without check with original energy.</span></p>
 
 <p><span class="chinese">请千万记住，伟大的创意可以在任何语言畅行无阻。</span><span class="english">Remember, a great idea works in any language.</span></p>

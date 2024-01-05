@@ -1,5 +1,7 @@
 # phytotoxicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytotoxicity.md)
+
 <p><span class="chinese">许多可湿性粉剂和水基悬浮剂杀虫药可以安全地用在多肉植物上。</span><span class="english">Most wettable powders and water based or aqueous suspension insecticides can be used on succulents with no phytotoxicity.</span></p>
 
 <p><span class="chinese">随着化学药剂的频繁使用，药害成为影响蔬菜生产的重要因素。</span><span class="english">With the frequent use of chemicals, the phytotoxicity has become the important factor influencing the vegetable production.</span></p>

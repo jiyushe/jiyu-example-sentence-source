@@ -1,5 +1,7 @@
 # importer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/importer.md)
+
 <p><span class="chinese">你也知道，我们是一家大的针织品进口商。</span><span class="english">As you know, we're a large knitwear importer.</span></p>
 
 <p><span class="chinese">不知疲倦的产品出口国和就业进口国？</span><span class="english">Tireless exporter of goods and importer of jobs?</span></p>

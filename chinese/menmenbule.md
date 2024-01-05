@@ -1,5 +1,7 @@
 # 闷闷不乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menmenbule.md)
+
 <p><span class="chinese">他会闷闷不乐吗？</span><span class="english">Does he mope?</span></p>
 
 <p><span class="chinese">他看上去有点闷闷不乐的样子。</span><span class="english">He looked a little morose.</span></p>

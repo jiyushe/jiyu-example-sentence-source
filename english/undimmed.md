@@ -1,5 +1,7 @@
 # undimmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undimmed.md)
+
 <p><span class="chinese">从这些观点来看，莫特显然热情不减。</span><span class="english">As the ideas tumble out, it is clear that the enthusiasm remains undimmed.</span></p>
 
 <p><span class="chinese">但是她也会带面纱，表示她的宗教信仰依然清晰明亮。</span><span class="english">But she also wears a veil, a sign that her religious faith remains undimmed.</span></p>

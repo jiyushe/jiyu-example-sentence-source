@@ -1,5 +1,7 @@
 # 产业革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyegeming.md)
+
 <p><span class="chinese">我们不再在产业革命。</span><span class="english">We are no longer in the Industrial Revolution.</span></p>
 
 <p><span class="chinese">习惯上，这种转变被称为“产业革命”。</span><span class="english">This transformation is customarily called the Industrial Revolution.</span></p>

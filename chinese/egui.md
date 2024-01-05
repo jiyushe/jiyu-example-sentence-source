@@ -1,5 +1,7 @@
 # 恶鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/egui.md)
+
 <p><span class="chinese">最关键的是那恶鬼的来历。</span><span class="english">The background of that devil is most decisive.</span></p>
 
 <p><span class="chinese">直到怪物骚动了，那恶鬼，那妖魔</span><span class="english">Till the monster stirred, that demon, that fiend</span></p>

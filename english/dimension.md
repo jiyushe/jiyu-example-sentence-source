@@ -1,5 +1,7 @@
 # dimension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimension.md)
+
 <p><span class="chinese">量纲在这儿指的是什么？</span><span class="english">What is the dimension here?</span></p>
 
 <p><span class="chinese">维数最小只能是1</span><span class="english">One is the lowest dimension.</span></p>

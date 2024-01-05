@@ -1,5 +1,7 @@
 # subjugate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjugate.md)
+
 <p><span class="chinese">偶尔，她也要占据一回上峰。</span><span class="english">Occasionally, she also wants to subjugate once last Feng.</span></p>
 
 <p><span class="chinese">愿意天涯天涯随你往。无论是救赎还是沦陷堕落。</span><span class="english">As you go to cape there. Whether redemption or subjugate depravity.</span></p>

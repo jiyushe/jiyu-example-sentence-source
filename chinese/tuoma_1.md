@@ -1,5 +1,7 @@
 # 驮马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoma_1.md)
+
 <p><span class="chinese">英国品种的大型体重的驮马。</span><span class="english">British breed of large heavy draft horse.</span></p>
 
 <p><span class="chinese">驮马探险队用驮马运载干粮和帐篷越过了这些崇山峻岭。</span><span class="english">The expedition used packhorses to carry their food and tents across the mountains.</span></p>

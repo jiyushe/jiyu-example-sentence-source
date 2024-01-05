@@ -1,5 +1,7 @@
 # ancestor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ancestor.md)
+
 <p><span class="chinese">她已拜过她的祖先。</span><span class="english">She has worshipped her ancestor.</span></p>
 
 <p><span class="chinese">软绵绵是羊族的祖先，创建了羊村。</span><span class="english">The ancestor of the goat family.</span></p>

@@ -1,5 +1,7 @@
 # humdrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humdrum.md)
+
 <p><span class="chinese">通过一些熟悉无聊的事情讨论一下。</span><span class="english">Take them more familiar humdrum case.</span></p>
 
 <p><span class="chinese">举个更熟悉的乏味的例子。</span><span class="english">After all, take a more familiar humdrum example.</span></p>

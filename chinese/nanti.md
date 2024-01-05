@@ -1,5 +1,7 @@
 # 难题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanti.md)
+
 <p><span class="chinese">安迪有一个难题。</span><span class="english">Andy has a problem.</span></p>
 
 <p><span class="chinese">这只狐狸有一个难题。</span><span class="english">The fox has a problem.</span></p>

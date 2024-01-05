@@ -1,5 +1,7 @@
 # 爱慕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aimu.md)
+
 <p><span class="chinese">恩宠和爱慕。</span><span class="english">Blessings and love.</span></p>
 
 <p><span class="chinese">她对他怀有爱慕之心。</span><span class="english">She bore love to him.</span></p>

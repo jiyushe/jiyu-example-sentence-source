@@ -1,5 +1,7 @@
 # instigation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instigation.md)
+
 <p><span class="chinese">不过，此类煽动，不单为麦凯恩所独有。</span><span class="english">But the instigation isn't coming exclusively from McCain.</span></p>
 
 <p><span class="chinese">该模块将用于编译紧急情况触发模块。</span><span class="english">This will be used for compilation of our panic instigation module.</span></p>

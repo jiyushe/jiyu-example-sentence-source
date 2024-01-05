@@ -1,5 +1,7 @@
 # possibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possibly.md)
+
 <p><span class="chinese">焉能不去?</span><span class="english">How could I possibly not go?</span></p>
 
 <p><span class="chinese">你怎么有可能知道？</span><span class="english">How could you possibly know?</span></p>

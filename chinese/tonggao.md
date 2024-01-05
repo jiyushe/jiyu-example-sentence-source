@@ -1,5 +1,7 @@
 # 通告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggao.md)
+
 <p><span class="chinese">网站书签和发送通告。</span><span class="english">Sites bookmarked and pinged.</span></p>
 
 <p><span class="chinese">已贴出通告宣布该船失踪。</span><span class="english">The ship was posted missing.</span></p>

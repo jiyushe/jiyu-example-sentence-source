@@ -1,5 +1,7 @@
 # 疏密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumi.md)
+
 <p><span class="chinese">疏密是文艺评论中一个重要概念。</span><span class="english">Density is an important concept in literary criticism.</span></p>
 
 <p><span class="chinese">螺旋的疏密、大小与相对沉积速度有关。</span><span class="english">The density and size of whorls are related to sedimentation rate.</span></p>

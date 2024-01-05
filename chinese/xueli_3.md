@@ -1,5 +1,7 @@
 # 雪梨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueli_3.md)
+
 <p><span class="chinese">瑞柏出生于澳洲的雪梨。</span><span class="english">Ribb was born at Sydney in Australia.</span></p>
 
 <p><span class="chinese">一只母袋鼠和她的小宝宝。五月十九日摄于雪梨。</span><span class="english">A mother and her joey in Sydney on May 19, 2008.</span></p>

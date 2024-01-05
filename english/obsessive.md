@@ -1,5 +1,7 @@
 # obsessive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsessive.md)
+
 <p><span class="chinese">这本书是沉迷的么？</span><span class="english">The book is obsessive?</span></p>
 
 <p><span class="chinese">执迷不悟的人并不只有你。</span><span class="english">Youre not the only one who can be obsessive.</span></p>

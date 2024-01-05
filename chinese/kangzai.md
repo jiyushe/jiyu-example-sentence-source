@@ -1,5 +1,7 @@
 # 抗灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangzai.md)
+
 <p><span class="chinese">第十，切实抓好防讯抗灾工作。</span><span class="english">Tenth, attaching importance to flood-control and disaster-relief work.</span></p>
 
 <p><span class="chinese">湖南电网抗灾救灾恢复重建工程全面竣工仪式9日在长沙举行。</span><span class="english">The ceremony of restoration for Hunan Power networks was held in March 9, 2008.</span></p>

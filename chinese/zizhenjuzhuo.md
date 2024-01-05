@@ -1,5 +1,7 @@
 # 字斟句酌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhenjuzhuo.md)
+
 <p><span class="chinese">他努力字斟句酌地回答。</span><span class="english">He struggled to formulate an answer.</span></p>
 
 <p><span class="chinese">他的回答是经过字斟句酌的。</span><span class="english">His reply was given in measured phrases.</span></p>

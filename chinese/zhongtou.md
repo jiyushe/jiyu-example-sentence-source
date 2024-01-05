@@ -1,5 +1,7 @@
 # 钟头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtou.md)
+
 <p><span class="chinese">一两个钟头后。</span><span class="english">After an hour or awo.</span></p>
 
 <p><span class="chinese">反正是一个钟头。</span><span class="english">An hour is the saree.</span></p>

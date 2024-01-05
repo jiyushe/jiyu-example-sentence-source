@@ -1,5 +1,7 @@
 # 简讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxun.md)
+
 <p><span class="chinese">访问隐藏手机简讯的密码保护！</span><span class="english">Access to Hidden SMSs is Password Protected!</span></p>
 
 <p><span class="chinese">防垃圾邮件功能会阻止恼人的广告电话和手机简讯。</span><span class="english">Anti-Spam feature blocks annoying ad calls and SMSs.</span></p>

@@ -1,5 +1,7 @@
 # souter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/souter.md)
+
 <p><span class="chinese">他是在1990年被乔治∙H∙W∙布什总统任命为最高法院大法官的。</span><span class="english">Souter was appointed to the court by President George H.W. Bush in 1990.</span></p>
 
 <p><span class="chinese">苏特被认为是一个温和派法官，他通常支持那些意见更加倾向自由派的法官。</span><span class="english">Souter was considered a moderate who often sided with the more liberal justices.</span></p>

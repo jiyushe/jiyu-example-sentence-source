@@ -1,5 +1,7 @@
 # bacchus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacchus.md)
+
 <p><span class="chinese">你真的叫高乐吗？</span><span class="english">Are you really named Bacchus?</span></p>
 
 <p><span class="chinese">巴克斯神庙外观。</span><span class="english">Exterior of Temple of Bacchus.</span></p>

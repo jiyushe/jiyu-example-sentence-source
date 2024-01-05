@@ -1,5 +1,7 @@
 # roo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roo.md)
+
 <p><span class="chinese">但是笨笨不害怕小袋鼠。</span><span class="english">"What is a heffalump?" asks Roo.</span></p>
 
 <p><span class="chinese">小袋鼠捉住了一只长鼻怪。</span><span class="english">But Roo wants to find a heffalump.</span></p>

@@ -1,5 +1,7 @@
 # distribute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distribute.md)
+
 <p><span class="chinese">不良岩土体分布广。</span><span class="english">Bad soil body is distribute widely.</span></p>
 
 <p><span class="chinese">把草籽撒在草坪上。</span><span class="english">Distribute grass seed over the lawn.</span></p>

@@ -1,5 +1,7 @@
 # turbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbo.md)
+
 <p><span class="chinese">滚筒式双层玻璃洗衣机。</span><span class="english">Double glazing, turbo washing machine.</span></p>
 
 <p><span class="chinese">摩托奶奶家出来的慢，现在该怎么办？</span><span class="english">Turbo Granny is out of the slow home, now what?</span></p>

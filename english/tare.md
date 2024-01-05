@@ -1,5 +1,7 @@
 # tare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tare.md)
+
 <p><span class="chinese">你在那儿做什么?。</span><span class="english">What tare you doing there?</span></p>
 
 <p><span class="chinese">你打算在那做什么？</span><span class="english">What tare you doing there?</span></p>

@@ -1,5 +1,7 @@
 # 抛撒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paosa.md)
+
 <p><span class="chinese">我的工作是抛撒干扰片。</span><span class="english">My job was to drop chaff.</span></p>
 
 <p><span class="chinese">介绍了爆炸型集束弹头抛撒机构的工作原理。</span><span class="english">The work principle of explosive cluster warhead dispense device is presented.</span></p>

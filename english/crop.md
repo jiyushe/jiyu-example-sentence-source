@@ -1,5 +1,7 @@
 # crop 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crop.md)
+
 <p><span class="chinese">仅仅是麦田怪圈？</span><span class="english">Or just crop circles?</span></p>
 
 <p><span class="chinese">主林木是米。</span><span class="english">The main crop is rice.</span></p>

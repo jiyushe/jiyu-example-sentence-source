@@ -1,5 +1,7 @@
 # 讼案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songan.md)
+
 <p><span class="chinese">那件讼案因而尚未解决。</span><span class="english">The lawsuit was then pending.</span></p>
 
 <p><span class="chinese">这是一起正在审理的医疗事故讼案。</span><span class="english">This is an ongoing malpractice suit.</span></p>

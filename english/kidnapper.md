@@ -1,5 +1,7 @@
 # kidnapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kidnapper.md)
+
 <p><span class="chinese">一名警察向那个绑匪射击。</span><span class="english">A policeman shot at the kidnapper.</span></p>
 
 <p><span class="chinese">万一司机是个绑匪怎么办？</span><span class="english">What if the driver was a kidnapper?</span></p>

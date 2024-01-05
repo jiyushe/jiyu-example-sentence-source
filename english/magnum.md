@@ -1,5 +1,7 @@
 # magnum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnum.md)
+
 <p><span class="chinese">购买或浏览马格南安全鞋。</span><span class="english">Buy or Browse Magnum Safety Footwear.</span></p>
 
 <p><span class="chinese">这部巨著历时十年方始告成。</span><span class="english">This magnum opus took ten years to complete.</span></p>

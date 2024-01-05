@@ -1,5 +1,7 @@
 # 铁砂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiesha.md)
+
 <p><span class="chinese">这样高的生产值自然会耗尽美国较佳的铁砂。</span><span class="english">Naturally these high rates of production were exhaustive of America's better ore supplies.</span></p>
 
 <p><span class="chinese">为此类海滨铁砂矿的开发与利用提供了依据。</span><span class="english">This research provides a basis for the development and utilization of beach Ferro resources of this type.</span></p>

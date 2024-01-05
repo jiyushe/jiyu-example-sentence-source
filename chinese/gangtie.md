@@ -1,5 +1,7 @@
 # 钢铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gangtie.md)
+
 <p><span class="chinese">涌入它的钢铁之躯。</span><span class="english">Pours into its steel.</span></p>
 
 <p><span class="chinese">将给我束上钢铁的腰带。</span><span class="english">Shall girdle me with steel.</span></p>

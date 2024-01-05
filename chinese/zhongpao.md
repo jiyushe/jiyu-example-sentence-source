@@ -1,5 +1,7 @@
 # 重炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongpao.md)
+
 <p><span class="chinese">这是一门重炮。</span><span class="english">This is a heavy artillery piece.</span></p>
 
 <p><span class="chinese">那么,藏在后面的是重炮</span><span class="english">So, held back here the heavy artillery.</span></p>

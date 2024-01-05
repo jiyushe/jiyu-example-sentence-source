@@ -1,5 +1,7 @@
 # microcosmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcosmic.md)
+
 <p><span class="chinese">第二部分，存款保险制度的微观和宏观法律分析。</span><span class="english">Part II is the analysis in microcosmic and macrocosmic.</span></p>
 
 <p><span class="chinese">扫描电子显微镜分析了表微观形貌的变化。</span><span class="english">The microphotographs of SEM indicated the change of microcosmic morphology.</span></p>

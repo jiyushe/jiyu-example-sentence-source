@@ -1,5 +1,7 @@
 # subsidize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsidize.md)
+
 <p><span class="chinese">鼓励和资助在家里煮饭。</span><span class="english">Encourage and subsidize home cooking.</span></p>
 
 <p><span class="chinese">实际上，美国再也不能资助亚洲的增长。</span><span class="english">The US can no longer, in effect, subsidize Asia's growth.</span></p>

@@ -1,5 +1,7 @@
 # 刑期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqi_1.md)
+
 <p><span class="chinese">他的刑期还没满。</span><span class="english">His term of imprisonment hasn't expired yet.</span></p>
 
 <p><span class="chinese">呃，我的刑期快到了，我想处理一下。</span><span class="english">Ehh, my sentence is coming, I want to handle it.</span></p>

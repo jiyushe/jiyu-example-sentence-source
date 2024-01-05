@@ -1,5 +1,7 @@
 # concretely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concretely.md)
+
 <p><span class="chinese">我将具体分析其中道理。</span><span class="english">I will analyze this question concretely.</span></p>
 
 <p><span class="chinese">此次访问的目的是为了非常具体地表明这一点”。</span><span class="english">This trip is really meant to manifest that very concretely.</span></p>

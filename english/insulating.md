@@ -1,5 +1,7 @@
 # insulating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulating.md)
+
 <p><span class="chinese">杯子并不十分绝热。</span><span class="english">The glass is not very insulating.</span></p>
 
 <p><span class="chinese">我们给电线裹上了绝缘胶布。</span><span class="english">We put insulating tape on electric wires.</span></p>

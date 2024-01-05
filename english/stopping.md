@@ -1,5 +1,7 @@
 # stopping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopping.md)
+
 <p><span class="chinese">我的表总停。</span><span class="english">My watch keeps stopping.</span></p>
 
 <p><span class="chinese">他说个不停。</span><span class="english">He talks without stopping.</span></p>

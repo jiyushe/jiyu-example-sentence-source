@@ -1,5 +1,7 @@
 # pare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pare.md)
+
 <p><span class="chinese">我缠裹，神医治。</span><span class="english">I bandage, God heals. Ambroise Pare.</span></p>
 
 <p><span class="chinese">如果我们能恰当地使用小刀，那它能削去苹果皮。</span><span class="english">If we use it properly, it can pare apples.</span></p>

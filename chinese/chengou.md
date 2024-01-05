@@ -1,5 +1,7 @@
 # 尘垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengou.md)
+
 <p><span class="chinese">我们必须“滤除”尘垢。</span><span class="english">We must filter out the dirt.</span></p>
 
 <p><span class="chinese">他们曾生活在尘垢与肮脏之中。</span><span class="english">They had lived amid dirt and foulness.</span></p>

@@ -1,5 +1,7 @@
 # raised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raised.md)
+
 <p><span class="chinese">她掀起面罩。</span><span class="english">She raised her veil.</span></p>
 
 <p><span class="chinese">他从小就是天主教徒。</span><span class="english">He was raised Catholic.</span></p>

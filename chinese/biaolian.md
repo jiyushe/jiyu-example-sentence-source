@@ -1,5 +1,7 @@
 # 表链
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaolian.md)
+
 <p><span class="chinese">你这是金表链吗？</span><span class="english">Is that a gold watch-chain?</span></p>
 
 <p><span class="chinese">黑色陶瓷表壳和表链。</span><span class="english">Black ceramic case and bracelet.</span></p>

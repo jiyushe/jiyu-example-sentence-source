@@ -1,5 +1,7 @@
 # 纱窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shachuang.md)
+
 <p><span class="chinese">把纱窗卸下来。</span><span class="english">Take the screen window off.</span></p>
 
 <p><span class="chinese">就是现在我们经常用的纱门、纱窗。</span><span class="english">And the fifth is the so-called leisure gate.</span></p>

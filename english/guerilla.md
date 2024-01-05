@@ -1,5 +1,7 @@
 # guerilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guerilla.md)
+
 <p><span class="chinese">第三，“尝试游击战术”。</span><span class="english">Third, "Try guerilla tactics."</span></p>
 
 <p><span class="chinese">他率领一支游击队抗击日本侵略者。</span><span class="english">He led a guerilla band against Japanese invaders.</span></p>

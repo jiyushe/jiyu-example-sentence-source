@@ -1,5 +1,7 @@
 # path 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/path.md)
+
 <p><span class="chinese">找到你的路。</span><span class="english">Finding your path.</span></p>
 
 <p><span class="chinese">每个人都有一条路。</span><span class="english">Everyone has a path.</span></p>

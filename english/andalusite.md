@@ -1,5 +1,7 @@
 # andalusite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andalusite.md)
+
 <p><span class="chinese">红柱石属多晶型物，含蓝晶石和硅线石两种不同矿物。</span><span class="english">Andalusite is a polymorph with two other minerals, Kyanite and Sillimanite.</span></p>
 
 <p><span class="chinese">此外还有石灰石、铁矿、红柱石、石英砂和高岭土等。</span><span class="english">In addition there are limestone iron ores andalusite quartz sand and kaolin etc.</span></p>

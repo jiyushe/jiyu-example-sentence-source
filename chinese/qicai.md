@@ -1,5 +1,7 @@
 # 七彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qicai.md)
+
 <p><span class="chinese">吹着七彩球笑看落花。</span><span class="english">Colorful falling ball Xiaokan blowing.</span></p>
 
 <p><span class="chinese">祝大家生活七彩缤纷，七星高照！</span><span class="english">Wish you a colorful life, Seven is high!</span></p>

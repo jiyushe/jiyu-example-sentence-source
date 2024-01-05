@@ -1,5 +1,7 @@
 # torrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torrent.md)
+
 <p><span class="chinese">涓涓小溪也会成为滚滚洪流。</span><span class="english">A trickle becomes a torrent.</span></p>
 
 <p><span class="chinese">他的回答是连珠炮式的“漫骂”。</span><span class="english">His answer was a torrent of abuses.</span></p>

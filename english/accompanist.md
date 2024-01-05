@@ -1,5 +1,7 @@
 # accompanist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accompanist.md)
+
 <p><span class="chinese">这个人是钢琴伴奏者。</span><span class="english">The man is a piano accompanist.</span></p>
 
 <p><span class="chinese">我会为你雇个人为你伴奏。</span><span class="english">And I'll hire somebody, an accompanist for you.</span></p>

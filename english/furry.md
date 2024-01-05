@@ -1,5 +1,7 @@
 # furry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furry.md)
+
 <p><span class="chinese">她毛绒绒的大尾巴摇摇。</span><span class="english">Her big furry tail shook.</span></p>
 
 <p><span class="chinese">有整圈的颈毛和毛茸茸的尾部。</span><span class="english">A circle of neck ruff and furry tail.</span></p>

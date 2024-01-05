@@ -1,5 +1,7 @@
 # 墨家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mojia.md)
+
 <p><span class="chinese">你们墨家从来都是这么理智的吗？</span><span class="english">Is that what you Mozi would have done sanely?</span></p>
 
 <p><span class="chinese">墨家在汉代以后湮没无闻。</span><span class="english">After the Han Dynasty, Mohism fell into oblivion.</span></p>

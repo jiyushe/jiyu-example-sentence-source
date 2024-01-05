@@ -1,5 +1,7 @@
 # involution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involution.md)
+
 <p><span class="chinese">退化是从灵魂向物质的降落。</span><span class="english">Involution is the descent of spirit into matter.</span></p>
 
 <p><span class="chinese">萎缩和退化的区别是什么？</span><span class="english">What's the difference between atrophy and involution?</span></p>

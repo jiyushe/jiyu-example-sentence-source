@@ -1,5 +1,7 @@
 # absolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absolution.md)
+
 <p><span class="chinese">宽恕是一件极其私人的事。</span><span class="english">Absolution is an intensely private matter.</span></p>
 
 <p><span class="chinese">悔过者获得了赦免。</span><span class="english">Those who were penitent obtained absolution.</span></p>

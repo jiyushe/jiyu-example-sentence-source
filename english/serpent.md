@@ -1,5 +1,7 @@
 # serpent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serpent.md)
+
 <p><span class="chinese">每一个死了的孩子都盘成圈，一条白蛇。</span><span class="english">Each dead child coiled, a white serpent.</span></p>
 
 <p><span class="chinese">而且，大蛇也没有咬她们。</span><span class="english">Moreover, the serpent did not bite them.</span></p>

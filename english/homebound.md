@@ -1,5 +1,7 @@
 # homebound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homebound.md)
+
 <p><span class="chinese">我是一个不会再回到故乡去的人了。</span><span class="english">I'm the one who would never go homebound any more.</span></p>
 
 <p><span class="chinese">为病人或者生病在家的邻居照顾宠物。</span><span class="english">Offer to take care of a pet for an ill or homebound neighbor.</span></p>

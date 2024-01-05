@@ -1,5 +1,7 @@
 # davit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/davit.md)
+
 <p><span class="chinese">备用支艇架手柄不转动。</span><span class="english">The handle for store davit not turn.</span></p>
 
 <p><span class="chinese">备用支艇架的扶手应改为便携式。</span><span class="english">The handrails around store davit to be changed with portable type.</span></p>

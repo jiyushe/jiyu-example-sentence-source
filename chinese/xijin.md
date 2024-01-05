@@ -1,5 +1,7 @@
 # 西晋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijin.md)
+
 <p><span class="chinese">西晋郭璞认为他是一部可信的地理文献。</span><span class="english">West Jin Dynasty Guo Pu thought it was a credible geographic literature.</span></p>
 
 <p><span class="chinese">西晋太康时期是中国诗歌发展史上进行模拟创作的初创时期。</span><span class="english">Tai Kang of west Jin dynasty is the early period in Chinese poetry history.</span></p>

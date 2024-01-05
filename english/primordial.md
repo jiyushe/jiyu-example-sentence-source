@@ -1,5 +1,7 @@
 # primordial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primordial.md)
+
 <p><span class="chinese">原始的产甲烷菌足以担当这个重任吗？</span><span class="english">Were primordial methanogens up to the task?</span></p>
 
 <p><span class="chinese">但这种夸克——胶子原始宇宙物质混合体的属性如何呢？</span><span class="english">But what was the nature of this quark-gluon primordial soup?</span></p>

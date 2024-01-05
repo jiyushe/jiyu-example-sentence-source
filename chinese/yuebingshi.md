@@ -1,5 +1,7 @@
 # 阅兵式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuebingshi.md)
+
 <p><span class="chinese">这里会有大型的阅兵式。</span><span class="english">There will be a big parade.</span></p>
 
 <p><span class="chinese">阅兵式那宏伟的场面是无法用语言来表达的。</span><span class="english">No words can express the grandeur of that parade.</span></p>

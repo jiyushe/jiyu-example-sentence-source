@@ -1,5 +1,7 @@
 # 年复一年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianfuyinian.md)
+
 <p><span class="chinese">年复一年。</span><span class="english">Year succeeds to year.</span></p>
 
 <p><span class="chinese">春来秋往，年复一年。</span><span class="english">Years had come and gone.</span></p>

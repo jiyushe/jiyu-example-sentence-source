@@ -1,5 +1,7 @@
 # backwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backwards.md)
+
 <p><span class="chinese">他把椅子向后翘起来。</span><span class="english">He tilted his chair backwards.</span></p>
 
 <p><span class="chinese">这个问题完全反过来了</span><span class="english">This is the backwards problem.</span></p>

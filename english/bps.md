@@ -1,5 +1,7 @@
 # bps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bps.md)
+
 <p><span class="chinese">麦盖提早些时候说，为期5年的信用违约掉期上升了3个基点到达62个。</span><span class="english">Earlier Markit said five-year CDS was up by 3 bps at 62 bps.</span></p>
 
 <p><span class="chinese">该指数上周五曾扩大至150bps，创2009年7月以来最高水平。</span><span class="english">The index had widened to 150 bps on Friday, the highest since July 2009.</span></p>

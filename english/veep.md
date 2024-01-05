@@ -1,5 +1,7 @@
 # veep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veep.md)
+
 <p><span class="chinese">你们可以说我是野蛮人，那你们是什么？50几个平民就想让我哭？</span><span class="english">You call me a barbarian, the what are you?What you expect me to veep over 50 civilians?</span></p>
 
 <p><span class="chinese">“基本上，我们将不断沉积硅收获”的高科技veep指出。</span><span class="english">“Basically, we’re continually harvesting the deposited silicon,” the tech veep pointed out.</span></p>

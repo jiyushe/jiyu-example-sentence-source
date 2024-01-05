@@ -1,5 +1,7 @@
 # 论资排辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzipaibei.md)
+
 <p><span class="chinese">论资排辈的体制逐渐走向现代化。</span><span class="english">The seniority system is slowly modernizing.</span></p>
 
 <p><span class="chinese">第十条必须论资排辈。</span><span class="english">Article tenth must be promoted according to status.</span></p>

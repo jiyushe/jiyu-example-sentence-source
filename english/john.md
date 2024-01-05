@@ -1,5 +1,7 @@
 # john
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/john.md)
+
 <p><span class="chinese">作者约翰·格里森姆。</span><span class="english">By John Grisham.</span></p>
 
 <p><span class="chinese">去吧，约翰。</span><span class="english">Go for it, John.</span></p>

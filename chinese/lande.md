@@ -1,5 +1,7 @@
 # 懒得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lande.md)
+
 <p><span class="chinese">我们的猫懒得连老鼠都不管捕。</span><span class="english">Our cat is too lazy to mouse.</span></p>
 
 <p><span class="chinese">当她懒懒得无精打采地。</span><span class="english">When, in her lazy listlessness.</span></p>

@@ -1,5 +1,7 @@
 # hayes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hayes.md)
+
 <p><span class="chinese">这是我朋友安杰拉·海斯。</span><span class="english">This is my friend, Angela Hayes.</span></p>
 
 <p><span class="chinese">该死，海耶斯走了，火箭完了。</span><span class="english">Damn, Hayes out, the Rockets are doomed.</span></p>

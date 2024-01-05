@@ -1,5 +1,7 @@
 # 击中要害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhongyaohai.md)
+
 <p><span class="chinese">他的回答正好击中要害。</span><span class="english">His answer just hit the mark.</span></p>
 
 <p><span class="chinese">这是一个击中要害的质问。</span><span class="english">This is a very home question.</span></p>

@@ -1,5 +1,7 @@
 # geostrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geostrophic.md)
+
 <p><span class="chinese">地转适应过程是大气中的一个重要过程。</span><span class="english">Geostrophic adjustment is an important process in the atmosphere.</span></p>
 
 <p><span class="chinese">文中研究了处于地转平衡状态的切变基流中的地转适应过程。</span><span class="english">The geostrophic adjustment process with the basic current in shear is studied.</span></p>

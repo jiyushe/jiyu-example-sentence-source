@@ -1,5 +1,7 @@
 # 一片汪洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipianwangyang.md)
+
 <p><span class="chinese">当看见那一片汪洋大海的时候，我整个人都惊呆了。</span><span class="english">When I saw all that water, I was mesmerized!</span></p>
 
 <p><span class="chinese">我面前是一片汪洋的丹麦海，冷清清，灰沉沉，广阔无垠。</span><span class="english">Before me stretches a Danish sea. Cold, gray, limitless.</span></p>

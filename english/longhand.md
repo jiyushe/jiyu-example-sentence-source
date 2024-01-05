@@ -1,5 +1,7 @@
 # longhand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longhand.md)
+
 <p><span class="chinese">他有帮手，但是他将亲自手写出来。</span><span class="english">He has help, but will write it himself, in longhand.</span></p>
 
 <p><span class="chinese">我得将这些速记的笔记译成普通文字。</span><span class="english">I have to translate these shorthand notes into longhand.</span></p>

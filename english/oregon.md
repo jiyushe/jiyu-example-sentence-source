@@ -1,5 +1,7 @@
 # oregon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oregon.md)
+
 <p><span class="chinese">胡安住在纽约，他给住在俄勒冈州的的戴夫写了一封信。</span><span class="english">Dave lives in Oregon.</span></p>
 
 <p><span class="chinese">我们打算搬回俄勒冈州去。</span><span class="english">We’re moving back to Oregon.</span></p>

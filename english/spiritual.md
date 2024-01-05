@@ -1,5 +1,7 @@
 # spiritual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiritual.md)
+
 <p><span class="chinese">精神家园一片荒芜。</span><span class="english">Spiritual home is barren.</span></p>
 
 <p><span class="chinese">他的精神和罪孽深重。</span><span class="english">He's spiritual and sinful.</span></p>

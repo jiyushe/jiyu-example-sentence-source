@@ -1,5 +1,7 @@
 # 泥塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nitang.md)
+
 <p><span class="chinese">我们必须进入没脚的泥塘。</span><span class="english">We had to step in mud over our ankles.</span></p>
 
 <p><span class="chinese">把雪橇拖进泥塘里，害得我们糟了殃。</span><span class="english">Pull a sled into the mud, so we worse calamity.</span></p>

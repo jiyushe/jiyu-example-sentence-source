@@ -1,5 +1,7 @@
 # arecoline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arecoline.md)
+
 <p><span class="chinese">槟榔碱稳定性较好。</span><span class="english">And arecoline stability is good.</span></p>
 
 <p><span class="chinese">槟榔碱是槟榔的最主要功效成分。</span><span class="english">Arecoline is the main function component of betelnut.</span></p>

@@ -1,5 +1,7 @@
 # obvious 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obvious.md)
+
 <p><span class="chinese">一点都不明显。</span><span class="english">Not at all obvious.</span></p>
 
 <p><span class="chinese">这明显是一个骗局。</span><span class="english">It’s an obvious hoax.</span></p>

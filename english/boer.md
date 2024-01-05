@@ -1,5 +1,7 @@
 # boer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boer.md)
+
 <p><span class="chinese">曾经有一个叫波儿的梦，我只能轻轻说出来。</span><span class="english">There was once a dream that was Boer. I could only whisper it.</span></p>
 
 <p><span class="chinese">他甚至在布尔战争中为英国帝国主义辩护。</span><span class="english">He even wrote a defense of British imperialism during the Boer War.</span></p>

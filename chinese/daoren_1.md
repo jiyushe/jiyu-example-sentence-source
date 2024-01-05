@@ -1,5 +1,7 @@
 # 到任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoren_1.md)
+
 <p><span class="chinese">这一个在到任之初，还象个善良的宗徒。</span><span class="english">This man played the good priest when he first came.</span></p>
 
 <p><span class="chinese">渴望，很多的，加饰边于的直线可能落到任一边。</span><span class="english">Long, profuse, straight fringing may fall to either side.</span></p>

@@ -1,5 +1,7 @@
 # phthisis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phthisis.md)
+
 <p><span class="chinese">他在四十四岁的壮年因为肺痨病死去。</span><span class="english">At the early age of forty-three he died of phthisis.</span></p>
 
 <p><span class="chinese">新医治疗肺结核很有一套。</span><span class="english">Western medicine is very effective in treating phthisis.</span></p>

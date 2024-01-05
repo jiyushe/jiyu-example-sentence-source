@@ -1,5 +1,7 @@
 # rheologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheologic.md)
+
 <p><span class="chinese">研究了乳液的室温流变性并跟踪了乳液的成膜情况。</span><span class="english">Furthermore, the rheologic performance and film-forming of the emulsion were inspected.</span></p>
 
 <p><span class="chinese">实验发现树脂水凝胶呈现假塑性流变行为，具有显著的增稠性。</span><span class="english">The hydrogel of the resin appears pseudoplastic rheologic behaviour and high thickening power.</span></p>

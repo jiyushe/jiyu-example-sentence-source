@@ -1,5 +1,7 @@
 # incan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incan.md)
+
 <p><span class="chinese">印加帝国在1533年迅速垮台。</span><span class="english">The Incan empire fell quickly 1533.</span></p>
 
 <p><span class="chinese">右上角的拱形标志是黑色的，但丰富的印加历史或许能为其增添色彩。</span><span class="english">They're not quite golden, but maybe the rich Incan history makes up for that.</span></p>

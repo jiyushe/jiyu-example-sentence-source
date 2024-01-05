@@ -1,5 +1,7 @@
 # 厄运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eyun.md)
+
 <p><span class="chinese">她哀叹自己的厄运。</span><span class="english">She bewailed her misfortune.</span></p>
 
 <p><span class="chinese">蜡黄的脸色预示厄运就要降临。</span><span class="english">With the yellow face of Doom.</span></p>

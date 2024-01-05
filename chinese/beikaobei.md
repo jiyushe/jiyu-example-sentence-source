@@ -1,5 +1,7 @@
 # 背靠背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beikaobei.md)
+
 <p><span class="chinese">露西和莉莉背靠背坐著。</span><span class="english">Lucy and Lily sit back to back.</span></p>
 
 <p><span class="chinese">使用背靠背片染技术涂放金色系。</span><span class="english">Back to back slices technique apply with blonde tone.</span></p>

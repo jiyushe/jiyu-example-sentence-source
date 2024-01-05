@@ -1,5 +1,7 @@
 # earshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earshot.md)
+
 <p><span class="chinese">当我感觉妈妈走的远到听不到我们说话的时候，我看了看我妻子。</span><span class="english">I looked at my wife when Mom got out of earshot.</span></p>
 
 <p><span class="chinese">别忘了在老板能听到的情况下，抱怨下接种时的疼痛。</span><span class="english">Don't forget to complain that those inoculations hurt within earshot of Bob.</span></p>

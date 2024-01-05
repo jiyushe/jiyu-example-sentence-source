@@ -1,5 +1,7 @@
 # aesthetician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesthetician.md)
+
 <p><span class="chinese">许多哲学家和美学家都受到他的影响。</span><span class="english">Both a lot of philosopher and aesthetician accept his effect.</span></p>
 
 <p><span class="chinese">克罗齐是康德、黑格尔之后西方影响最大的美学家。</span><span class="english">Croce is the most influential aesthetician in the West after Kant and Hegel.</span></p>

@@ -1,5 +1,7 @@
 # riboflavin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riboflavin.md)
+
 <p><span class="chinese">包括钙质、蛋白质、核黄素和其他矿物质和维生素。</span><span class="english">These include calcium, protein, riboflavin and other minerals and vitamins.</span></p>
 
 <p><span class="chinese">方法用分光光度法测定核黄素磷酸钠的含量。</span><span class="english">METHODS Determinating the contents of riboflavin sodium phosphate by UV-vis.</span></p>

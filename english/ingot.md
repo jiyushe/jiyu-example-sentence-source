@@ -1,5 +1,7 @@
 # ingot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingot.md)
+
 <p><span class="chinese">主人赏给他一锭银子。</span><span class="english">His master granted him a small ingot of silver.</span></p>
 
 <p><span class="chinese">请报铝锭每公吨单价。</span><span class="english">Planate unit price per m. t. for aluminum ingot.</span></p>

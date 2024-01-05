@@ -1,5 +1,7 @@
 # cohosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohosh.md)
+
 <p><span class="chinese">数以百万计的人使用黑升麻，而没有一点负面影响。</span><span class="english">Millions of people have used black cohosh without problems.</span></p>
 
 <p><span class="chinese">黑升麻普遍举荐对更年期欧洲的年夜夫。</span><span class="english">Black Cohosh is widely recommended by European doctors for menopause.</span></p>

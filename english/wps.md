@@ -1,5 +1,7 @@
 # wps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wps.md)
+
 <p><span class="chinese">比如，我们不能生成一个构建在WPS中的服务的客户端。</span><span class="english">For example, we could not create a client for a service we built in WPS.</span></p>
 
 <p><span class="chinese">焊接规范或认可的WPS中规定的公差应予以适用。</span><span class="english">Tolerances specified in the welding specification or approved WPS shall apply.</span></p>

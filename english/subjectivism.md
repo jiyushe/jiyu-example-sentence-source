@@ -1,5 +1,7 @@
 # subjectivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjectivism.md)
+
 <p><span class="chinese">结果是主观主义与相对主义。</span><span class="english">The result is subjectivism and relativism.</span></p>
 
 <p><span class="chinese">这是主观主义和相对主义的横行。</span><span class="english">This is subjectivism and relativism run amuck.</span></p>

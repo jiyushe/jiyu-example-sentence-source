@@ -1,5 +1,7 @@
 # astrologer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrologer.md)
+
 <p><span class="chinese">并非占星师才可以应用这些信息。</span><span class="english">You don't have to be an astrologer to use this information.</span></p>
 
 <p><span class="chinese">你应该找一个占星家，让他告诉你你的星象。</span><span class="english">You should go to an astrologer to have your horoscope read.</span></p>

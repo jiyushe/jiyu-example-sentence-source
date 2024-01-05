@@ -1,5 +1,7 @@
 # graceless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graceless.md)
+
 <p><span class="chinese">这是一间非常难看的大房子。</span><span class="english">It was a massive, graceless house.</span></p>
 
 <p><span class="chinese">爱要如何在这样丑陋的时期存活?。</span><span class="english">How can love survive in such a graceless age?</span></p>

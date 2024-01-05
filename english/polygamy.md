@@ -1,5 +1,7 @@
 # polygamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygamy.md)
+
 <p><span class="chinese">一妻多夫，太恶心了。</span><span class="english">Polygamy is disgusting.</span></p>
 
 <p><span class="chinese">举一个一夫多妻制的主题。</span><span class="english">Take the subject of polygamy.</span></p>

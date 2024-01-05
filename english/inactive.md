@@ -1,5 +1,7 @@
 # inactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inactive.md)
+
 <p><span class="chinese">这些是惰性元素。</span><span class="english">These are inactive elements.</span></p>
 
 <p><span class="chinese">外消旋体是不旋光的。</span><span class="english">The racemate is optically inactive.</span></p>

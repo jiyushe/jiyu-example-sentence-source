@@ -1,5 +1,7 @@
 # asuncion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asuncion.md)
+
 <p><span class="chinese">运费付至布宜诺斯艾利斯，再转运到巴拉圭的亚松森。</span><span class="english">Freight prepaid to Buenos aires in transit to Asuncion Paraguay.</span></p>
 
 <p><span class="chinese">巴拉圭球迷的停顿后，巴拉圭亚松森失掉了7月3日到西班牙。</span><span class="english">A fan of Paraguay pauses after Paraguay lost to Spain in Asuncion July 3.</span></p>

@@ -1,5 +1,7 @@
 # 花鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huagu.md)
+
 <p><span class="chinese">花鼓表演成为流民觅食乞钱的手段之一。</span><span class="english">So, Flower-Drum performance became a main means using of finding food or begging money.</span></p>
 
 <p><span class="chinese">在交接仪式后，首届花鼓戏剧节也正式上演，为期三天。</span><span class="english">The first three-day flower-drum opera festival kicked off right after the handover ceremony.</span></p>

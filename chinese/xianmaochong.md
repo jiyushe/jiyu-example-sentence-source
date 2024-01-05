@@ -1,5 +1,7 @@
 # 纤毛虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmaochong.md)
+
 <p><span class="chinese">结肠小袋绦虫是一种造成腹泻的巨大纤毛虫。</span><span class="english">Balantinium coli is a giant ciliate that causes diarrhea in humans.</span></p>
 
 <p><span class="chinese">在玉龙雪山共鉴定到90种土壤纤毛虫。</span><span class="english">A total of 90 species were found in the soil samples of the Yulong Mountains.</span></p>

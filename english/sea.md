@@ -1,5 +1,7 @@
 # sea 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sea.md)
+
 <p><span class="chinese">哇，大海龟呀！</span><span class="english">Wow, sea turtle!</span></p>
 
 <p><span class="chinese">水陆路还是航空？</span><span class="english">By sea or by air?</span></p>

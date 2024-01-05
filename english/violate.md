@@ -1,5 +1,7 @@
 # violate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violate.md)
+
 <p><span class="chinese">那违背了洪特定律。</span><span class="english">That would violate Pauli.</span></p>
 
 <p><span class="chinese">不要违反道德的准则。</span><span class="english">Don't violate moral codes.</span></p>

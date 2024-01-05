@@ -1,5 +1,7 @@
 # roomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roomy.md)
+
 <p><span class="chinese">你有多么宽敞的一个洞啊！</span><span class="english">What a roomy hole you have!</span></p>
 
 <p><span class="chinese">哦，房间很宽敞、亮堂。</span><span class="english">Oh, it's quite roomy and bright.</span></p>

@@ -1,5 +1,7 @@
 # 溘然长逝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keranchangshi.md)
+
 <p><span class="chinese">或许我下周就要溘然长逝了。</span><span class="english">I may not be here next week.</span></p>
 
 <p><span class="chinese">她躺下，把脸转向墙壁，便溘然长逝了。</span><span class="english">She lay down and, turning her face to the wall, passed away.</span></p>

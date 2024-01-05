@@ -1,5 +1,7 @@
 # revaluation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revaluation.md)
+
 <p><span class="chinese">货币升值有时候对我们的公司没有好处。</span><span class="english">Upward revaluation of currency is sometimes disbenefit to our company.</span></p>
 
 <p><span class="chinese">资产重估是由董事与输入从合格的估价师进行的。</span><span class="english">Asset revaluation is carried out by directors with input from qualified valuer.</span></p>

@@ -1,5 +1,7 @@
 # 幸灾乐祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzailehuo.md)
+
 <p><span class="chinese">你在这里幸灾乐祸？</span><span class="english">You here to gloat?</span></p>
 
 <p><span class="chinese">幸灾乐祸是快乐的事。</span><span class="english">Schadenfreude is beste Freude.</span></p>

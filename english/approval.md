@@ -1,5 +1,7 @@
 # approval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approval.md)
+
 <p><span class="chinese">不需要批准。</span><span class="english">No approval needed.</span></p>
 
 <p><span class="chinese">他微笑着表示了他的同意。</span><span class="english">He smiled his approval.</span></p>

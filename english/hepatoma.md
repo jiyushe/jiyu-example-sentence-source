@@ -1,5 +1,7 @@
 # hepatoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatoma.md)
+
 <p><span class="chinese">经体外实验表明，雪山豆凝集素对人肝癌细胞有抑制作用。</span><span class="english">Inhibition of human hepatoma cells in vitro has been suggested for SML.</span></p>
 
 <p><span class="chinese">在体试验显示黄癸素可抑制B16黑色素肿瘤和H22肝癌的肺转移。</span><span class="english">HB can inhibit lung metastasis of B16 melanoma and H22 hepatoma in mice.</span></p>

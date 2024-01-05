@@ -1,5 +1,7 @@
 # 他日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tari.md)
+
 <p><span class="chinese">他日我会成为国王。</span><span class="english">Some day I will become king.</span></p>
 
 <p><span class="chinese">今日之事件乃预示他日之不幸。</span><span class="english">Today's event bespeak future tragedy.</span></p>

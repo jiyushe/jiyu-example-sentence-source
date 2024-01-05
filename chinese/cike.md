@@ -1,5 +1,7 @@
 # 刺客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cike.md)
+
 <p><span class="chinese">刺客？</span><span class="english">Assassin?</span></p>
 
 <p><span class="chinese">他们也许是刺客。</span><span class="english">Maybe they were assassins.</span></p>

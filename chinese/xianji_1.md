@@ -1,5 +1,7 @@
 # 献技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianji_1.md)
+
 <p><span class="chinese">若是你喜欢戏剧献技，就加退学校的戏剧社团。</span><span class="english">If you enjoy representing in plays join your school's thespian club.</span></p>
 
 <p><span class="chinese">欧比喜欢听我弹唱，但从没尝试加入献技“。</span><span class="english">Obi loves listening to me playing, but he never attempts to join in.</span></p>

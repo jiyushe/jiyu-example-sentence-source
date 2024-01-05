@@ -1,5 +1,7 @@
 # cannery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannery.md)
+
 <p><span class="chinese">或者你可以自己开一家罐头工厂。</span><span class="english">Or open a cannery on your own.</span></p>
 
 <p><span class="chinese">然后你可以自己开一家罐头工厂。</span><span class="english">Then you can open your own cannery.</span></p>

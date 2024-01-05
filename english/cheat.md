@@ -1,5 +1,7 @@
 # cheat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheat.md)
+
 <p><span class="chinese">没秂能欺骗我！</span><span class="english">No one can cheat me!</span></p>
 
 <p><span class="chinese">是什么使男人偷吃？</span><span class="english">What makes men cheat?</span></p>

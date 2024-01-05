@@ -1,5 +1,7 @@
 # centric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centric.md)
+
 <p><span class="chinese">网站把我定为“轻度冒险者”。</span><span class="english">The site pegged me as a centric venturer.</span></p>
 
 <p><span class="chinese">以语音为中心的具有信息功能的手机的通用名。</span><span class="english">A generic name for voice centric mobile phones with information capability.</span></p>

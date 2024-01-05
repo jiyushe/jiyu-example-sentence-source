@@ -1,5 +1,7 @@
 # spc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spc.md)
+
 <p><span class="chinese">钻孔制程是否使用SPC？</span><span class="english">Is SPC used in Drilling process?</span></p>
 
 <p><span class="chinese">因此，这是更解放军特种部队之间的特殊警察部队722尊重？</span><span class="english">So which are more respected between PLA SOF and SPC 722?</span></p>

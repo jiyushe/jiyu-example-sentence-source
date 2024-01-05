@@ -1,5 +1,7 @@
 # jock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jock.md)
+
 <p><span class="chinese">斯滕格斯是一个渴望的男人。</span><span class="english">Jock Sturges is a hungry man.</span></p>
 
 <p><span class="chinese">约克把桶里的水倒出来。</span><span class="english">Jock tipped the water out of his bucket.</span></p>

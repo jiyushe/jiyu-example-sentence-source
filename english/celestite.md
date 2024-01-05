@@ -1,5 +1,7 @@
 # celestite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celestite.md)
+
 <p><span class="chinese">天青石持有光之语中水下世界的振动。</span><span class="english">Celestite holds the vibration of underwater worlds in the language of light.</span></p>
 
 <p><span class="chinese">意法半导体业界认为，金瑞，风山家天青石矿，是摆脱了沉重的负担。</span><span class="english">Industry believe that ST Jinrui, the home of wind Celestite Mine Hill, is to get rid of a heavy burden.</span></p>

@@ -1,5 +1,7 @@
 # broom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broom.md)
+
 <p><span class="chinese">扫帚和簸箕。</span><span class="english">A broom and dustpan.</span></p>
 
 <p><span class="chinese">一只扫帚可怕地扫尽。</span><span class="english">A broom is drearily sweeping.</span></p>

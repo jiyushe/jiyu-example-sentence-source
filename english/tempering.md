@@ -1,5 +1,7 @@
 # tempering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempering.md)
+
 <p><span class="chinese">采用钢化外罩设计，清洁卫生。</span><span class="english">Adopt tempering cover, clean and sanitary.</span></p>
 
 <p><span class="chinese">但是单纯的退火是不够的。</span><span class="english">But tempering alone is usually not enough.</span></p>

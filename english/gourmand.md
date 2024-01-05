@@ -1,5 +1,7 @@
 # gourmand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gourmand.md)
+
 <p><span class="chinese">即使最贪吃的人也吃不下这么多东西啊。</span><span class="english">Even the top gourmand can't eat so much food.</span></p>
 
 <p><span class="chinese">嗜食者是喜欢好吃的东西的人。</span><span class="english">A gourmand is someone who is fond of good eating.</span></p>

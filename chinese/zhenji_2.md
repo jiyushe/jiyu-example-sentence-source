@@ -1,5 +1,7 @@
 # 真迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenji_2.md)
+
 <p><span class="chinese">这幅才是唐伯虎的真迹，皇爷。</span><span class="english">This is the painting by Tong Pak Fu.</span></p>
 
 <p><span class="chinese">这幅画无疑是真迹。</span><span class="english">The painting is undoubtedly authentic.</span></p>

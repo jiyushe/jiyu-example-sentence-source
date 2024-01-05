@@ -1,5 +1,7 @@
 # escort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escort.md)
+
 <p><span class="chinese">我要一辆福特雅士。</span><span class="english">I want a Ford Escort.</span></p>
 
 <p><span class="chinese">你应该陪她回家。</span><span class="english">You should escort her home.</span></p>

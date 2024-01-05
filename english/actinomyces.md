@@ -1,5 +1,7 @@
 # actinomyces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actinomyces.md)
+
 <p><span class="chinese">结论支持放线菌是根面龋优势菌。</span><span class="english">Conclusion Actinomyces is the dominant bacterium of dental root surface caries.</span></p>
 
 <p><span class="chinese">利用噬菌体是一种有效分离稀有放线菌的方法。</span><span class="english">It is a useful method to utilize phages in selective isolation of rare actinomyces.</span></p>

@@ -1,5 +1,7 @@
 # uselessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uselessly.md)
+
 <p><span class="chinese">多数的身体的能量就这样白白浪费了。</span><span class="english">Much of the body's energy is wasted uselessly.</span></p>
 
 <p><span class="chinese">无所事事地在天空漂游，哦，荣耀永恒的太阳！</span><span class="english">uselessly roaming in the sky, O my sun ever-glorious!</span></p>

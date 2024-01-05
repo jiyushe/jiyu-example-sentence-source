@@ -1,5 +1,7 @@
 # frisky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frisky.md)
+
 <p><span class="chinese">一个当地人和狗玩。</span><span class="english">Local gets frisky with Fido.</span></p>
 
 <p><span class="chinese">轮椅女孩越来越活泼。</span><span class="english">Wheelchair Girl getting frisky.</span></p>

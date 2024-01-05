@@ -1,5 +1,7 @@
 # citizenry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citizenry.md)
+
 <p><span class="chinese">您是无名英雄，做了许多有助我们老百姓的事情。</span><span class="english">You are the unsung hero of so many deeds benefiting our citizenry.</span></p>
 
 <p><span class="chinese">如此广泛和多样的公民队伍不可能永远在每一个问题上都取得一致，我们也不应该如此。</span><span class="english">This vast and diverse citizenry will not always agree on every issue -- nor should we.</span></p>

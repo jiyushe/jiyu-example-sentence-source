@@ -1,5 +1,7 @@
 # 制作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizuo.md)
+
 <p><span class="chinese">制作一个钟盘。</span><span class="english">Make a plate clock.</span></p>
 
 <p><span class="chinese">全家庭制作的批萨。</span><span class="english">Totally home-made pizza.</span></p>

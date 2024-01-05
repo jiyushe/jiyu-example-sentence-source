@@ -1,5 +1,7 @@
 # formosan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formosan.md)
+
 <p><span class="chinese">台湾凤尾蕨科之孢子形态。</span><span class="english">Title Spore morphology of Formosan Pteridaceae.</span></p>
 
 <p><span class="chinese">台湾南岛语言有着重要的历史意义。</span><span class="english">The Formosan languages have great historic value.</span></p>

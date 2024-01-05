@@ -1,5 +1,7 @@
 # 鬼怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiguai.md)
+
 <p><span class="chinese">他的鬼怪故事使我汗毛直竖。</span><span class="english">His ghost story made my flesh creep.</span></p>
 
 <p><span class="chinese">我读过关于这类可怕的化身鬼怪的书。</span><span class="english">I had read of such hideous incarnate demons.</span></p>

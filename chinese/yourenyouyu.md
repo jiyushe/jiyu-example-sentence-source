@@ -1,5 +1,7 @@
 # 游刃有余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yourenyouyu.md)
+
 <p><span class="chinese">社交也游刃有余。</span><span class="english">I was doing well socially.</span></p>
 
 <p><span class="chinese">如果他们明智，他们就能学以致用，使自己变得更游刃有余。</span><span class="english">If they're wise, they can put this to use, and appear smarter.</span></p>

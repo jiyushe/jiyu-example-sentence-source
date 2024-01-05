@@ -1,5 +1,7 @@
 # indie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indie.md)
+
 <p><span class="chinese">新裤子乐队将于独音唱片签售！</span><span class="english">New Pants will be at Indie Music!</span></p>
 
 <p><span class="chinese">我希望保留我最喜欢的独立书店吗？</span><span class="english">Do I want to save my favorite indie bookstores?</span></p>

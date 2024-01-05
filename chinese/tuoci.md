@@ -1,5 +1,7 @@
 # 托词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoci.md)
+
 <p><span class="chinese">这里有健康的托词。</span><span class="english">There's a subterfuge of health.</span></p>
 
 <p><span class="chinese">他的托词只是缓兵之计。</span><span class="english">What he said is just to delay the time.</span></p>

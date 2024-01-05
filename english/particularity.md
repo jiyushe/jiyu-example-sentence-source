@@ -1,5 +1,7 @@
 # particularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/particularity.md)
+
 <p><span class="chinese">卵石的起动有其特殊性。</span><span class="english">Incipit of pebble has its particularity.</span></p>
 
 <p><span class="chinese">卵石的起动有其特殊性。</span><span class="english">Incipit of pebble has its particularity.</span></p>

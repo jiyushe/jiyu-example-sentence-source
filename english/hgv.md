@@ -1,5 +1,7 @@
 # hgv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hgv.md)
+
 <p><span class="chinese">何不对跟每个载重物车辆的司机说？</span><span class="english">Tell that to every single HGV driver then?</span></p>
 
 <p><span class="chinese">各临床类型间庚型肝炎病毒感染无明显差别。</span><span class="english">HGV infection rates in all clinical types had not difference.</span></p>

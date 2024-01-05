@@ -1,5 +1,7 @@
 # 繁杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanza_1.md)
+
 <p><span class="chinese">尤其是在交通繁杂的北京？</span><span class="english">Especialy in al the traffic in Beijing?</span></p>
 
 <p><span class="chinese">西方的＂苏联学＂是一个庞大和繁杂的体系。</span><span class="english">Sovietology was a huge enterprise in the West.</span></p>

@@ -1,5 +1,7 @@
 # sail 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sail_1.md)
+
 <p><span class="chinese">我有一台赛欧。</span><span class="english">I have a Sail.</span></p>
 
 <p><span class="chinese">升帆并报告。</span><span class="english">Set sail and report.</span></p>

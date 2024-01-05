@@ -1,5 +1,7 @@
 # forecourt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forecourt.md)
+
 <p><span class="chinese">这样确定阳光能直接进入前厅。</span><span class="english">This ensures sunlight entry directly into the forecourt.</span></p>
 
 <p><span class="chinese">警卫是在前庭的栏杆后面完成每天早上的换班的。</span><span class="english">The guards are changed in the morning in the forecourt behind the railings.</span></p>

@@ -1,5 +1,7 @@
 # syndic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syndic.md)
+
 <p><span class="chinese">曾任中国青年诗歌学会理事。</span><span class="english">He was syndic of China Youth Poetry Academy.</span></p>
 
 <p><span class="chinese">中国作家协会会员，上海作家协会理事。</span><span class="english">He is a member of China Writers' Association and syndic of Shanghai Writers' Association.</span></p>

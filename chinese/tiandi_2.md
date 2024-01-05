@@ -1,5 +1,7 @@
 # 田地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiandi_2.md)
+
 <p><span class="chinese">他可能会夺占我们的田地。</span><span class="english">He might foray our lands.</span></p>
 
 <p><span class="chinese">那田地正在休耕中。</span><span class="english">The field was lying fallow.</span></p>

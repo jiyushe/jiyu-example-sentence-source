@@ -1,5 +1,7 @@
 # unsullied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsullied.md)
+
 <p><span class="chinese">人不再被统治者的罪恶所玷污。</span><span class="english">When man unsullied by his leaders' crime.</span></p>
 
 <p><span class="chinese">他们被阉割成为无垢者。</span><span class="english">They had been gelded and made into Unsullied.</span></p>

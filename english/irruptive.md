@@ -1,5 +1,7 @@
 # irruptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irruptive.md)
+
 <p><span class="chinese">在火成岩系列中最常见的侵入体是花岗岩。</span><span class="english">Irruptive rock body reservoir is one of important volcanic rock reservoirs.</span></p>
 
 <p><span class="chinese">杨成武和战士们冲入院中，制止其残忍的行径。</span><span class="english">Yang Chengwu and soldiers are irruptive in the courtyard, check its ferocious act.</span></p>

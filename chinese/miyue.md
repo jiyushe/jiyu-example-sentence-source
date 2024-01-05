@@ -1,5 +1,7 @@
 # 密约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miyue.md)
+
 <p><span class="chinese">日本政府力求搞清对美载核航母停靠日本港口密约。</span><span class="english">Japan seeks to come clean from secret nuke deal.</span></p>
 
 <p><span class="chinese">雅尔达密约，原名为〈苏联参加对日作战协定〉，英文名为。</span><span class="english">"Agreement Regarding Entry of Soviet Union The War Against Japan".</span></p>

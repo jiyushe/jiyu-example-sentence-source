@@ -1,5 +1,7 @@
 # 不自量力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buziliangli.md)
+
 <p><span class="chinese">贪多嚼不烂。别不自量力。</span><span class="english">Dont bite off more than you can chew.</span></p>
 
 <p><span class="chinese">每个贷款使用者都有可能作出不自量力的事。</span><span class="english">Any users of credit may overextend themselves.</span></p>

@@ -1,5 +1,7 @@
 # 看中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanzhong.md)
+
 <p><span class="chinese">他看中了这位姑娘。</span><span class="english">He took a fancy to the girl.</span></p>
 
 <p><span class="chinese">我是一个被恶魔看中的孩子！</span><span class="english">I'm a child chosen by Belial.</span></p>

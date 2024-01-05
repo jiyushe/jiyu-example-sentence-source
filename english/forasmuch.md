@@ -1,5 +1,7 @@
 # forasmuch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forasmuch.md)
+
 <p><span class="chinese">下面还有五个人要同时以共和国敌人的罪名受到审判，因为他们并没有用言论或行动支持过它。</span><span class="english">Five were to be tried together next as enemies of the republic forasmuch as they had not assisted it by word or deed.</span></p>
 
 <p><span class="chinese">法老对约瑟说，神既将这事都指示你，可见没有人像你这样有聪明有智慧。</span><span class="english">And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art</span></p>

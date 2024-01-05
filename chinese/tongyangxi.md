@@ -1,5 +1,7 @@
 # 童养媳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyangxi.md)
+
 <p><span class="chinese">她是一个童养媳。</span><span class="english">She is a child Bride.</span></p>
 
 <p><span class="chinese">你有童养媳吗？</span><span class="english">Do you have child brides?</span></p>

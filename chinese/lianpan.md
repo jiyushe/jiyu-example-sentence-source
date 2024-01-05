@@ -1,5 +1,7 @@
 # 脸盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpan.md)
+
 <p><span class="chinese">他脸盘狭小，其貌不扬。</span><span class="english">His face was small and ugly.</span></p>
 
 <p><span class="chinese">他宽大的脸盘上布满了深深的皱纹。</span><span class="english">He has a large, generous face with deep lines.</span></p>

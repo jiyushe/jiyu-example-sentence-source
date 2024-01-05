@@ -1,5 +1,7 @@
 # 出台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chutai.md)
+
 <p><span class="chinese">一项罪恶的策划已出台。</span><span class="english">A guilty plan has been schemed.</span></p>
 
 <p><span class="chinese">再次，出台明确的惩戒标准。</span><span class="english">Again, publish specific chasten standard.</span></p>

@@ -1,5 +1,7 @@
 # 舾装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhuang_1.md)
+
 <p><span class="chinese">舾装工作包括哪些？</span><span class="english">What work does the outfitting include?</span></p>
 
 <p><span class="chinese">使舾装工时达到最小。</span><span class="english">To minimize outfit installation manhours.</span></p>

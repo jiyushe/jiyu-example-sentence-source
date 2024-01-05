@@ -1,5 +1,7 @@
 # medical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medical.md)
+
 <p><span class="chinese">她是一名卫生员。</span><span class="english">She is a medical orderly.</span></p>
 
 <p><span class="chinese">艾贝是个医科学生。</span><span class="english">Abe was a medical student.</span></p>

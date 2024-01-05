@@ -1,5 +1,7 @@
 # 歧义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyi_2.md)
+
 <p><span class="chinese">这下没有歧义了。</span><span class="english">No ambiguity there.</span></p>
 
 <p><span class="chinese">语言很容易有歧义。</span><span class="english">Language can be ambiguous.</span></p>

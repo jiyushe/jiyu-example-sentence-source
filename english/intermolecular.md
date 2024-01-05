@@ -1,5 +1,7 @@
 # intermolecular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermolecular.md)
+
 <p><span class="chinese">分子间以氢键形成二聚体。</span><span class="english">The dimer was formed through intermolecular hydrogen bonds.</span></p>
 
 <p><span class="chinese">不同种类,分子之间的相互作用是引力。</span><span class="english">Where the unlike intermolecular interactions are attractive.</span></p>

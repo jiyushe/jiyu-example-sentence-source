@@ -1,5 +1,7 @@
 # geomorphology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomorphology.md)
+
 <p><span class="chinese">尺度是一个老生常谈的地学问题。</span><span class="english">Scale is a platitude problem of geomorphology.</span></p>
 
 <p><span class="chinese">其中，黄土地貌是典型地貌之一。</span><span class="english">Loess geomorphology belongs to one of typical landforms.</span></p>

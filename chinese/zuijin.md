@@ -1,5 +1,7 @@
 # 最近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuijin.md)
+
 <p><span class="chinese">这本书是最近刚出版的。</span><span class="english">Came out recently.</span></p>
 
 <p><span class="chinese">直到最近才想过。</span><span class="english">Not until recently.</span></p>

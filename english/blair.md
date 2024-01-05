@@ -1,5 +1,7 @@
 # blair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blair.md)
+
 <p><span class="chinese">夹头并不想伤害布莱尔。</span><span class="english">Chuck does not try to hurt Blair.</span></p>
 
 <p><span class="chinese">托尼布莱尔以为他是谁呀？</span><span class="english">JUST who does Tony Blair think he is?</span></p>

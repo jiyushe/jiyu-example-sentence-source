@@ -1,5 +1,7 @@
 # 逢迎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengying_1.md)
+
 <p><span class="chinese">他认为泰南太过于逢迎当前时髦的意见。</span><span class="english">Tynan bent too much to current hip opinion, he thought.</span></p>
 
 <p><span class="chinese">米勒为了逢迎柴斯特菲尔德夫人而替她画了一幅像。</span><span class="english">Millet made a portrait of Lady Chesterfield, which flattered her.</span></p>

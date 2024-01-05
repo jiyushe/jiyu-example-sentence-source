@@ -1,5 +1,7 @@
 # programming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programming.md)
+
 <p><span class="chinese">电脑程序编制。</span><span class="english">Computer programming.</span></p>
 
 <p><span class="chinese">你们懂得-我很纳闷？</span><span class="english">Good programming style?</span></p>

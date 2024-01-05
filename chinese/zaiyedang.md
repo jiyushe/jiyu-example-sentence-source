@@ -1,5 +1,7 @@
 # 在野党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiyedang.md)
+
 <p><span class="chinese">2009年大选中虽然社民党落败为在野党，选民却依旧支持默克尔。</span><span class="english">The SPD was ejected in 2009, but voters chose to keep Mrs Merkel on.</span></p>
 
 <p><span class="chinese">对于在野党来说，它是对国家稳定的最严重威胁。</span><span class="english">For the minority, the gravest threat to the stability of the Republic.</span></p>

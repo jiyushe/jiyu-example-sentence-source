@@ -1,5 +1,7 @@
 # 警报器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingbaoqi.md)
+
 <p><span class="chinese">你家装自动防盗警报器了吗？</span><span class="english">Does your house have a burglar alarm?</span></p>
 
 <p><span class="chinese">甚至这个警示牌根本就没有安装警报器。</span><span class="english">Or even the sign with no alarm at all.</span></p>

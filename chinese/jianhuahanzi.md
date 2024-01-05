@@ -1,5 +1,7 @@
 # 简化汉字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianhuahanzi.md)
+
 <p><span class="chinese">新加皮和马来西亚都使用简化汉字，美国和其他地区的中文学生也在使用。</span><span class="english">Simplified characters are being used by more people in the world.</span></p>
 
 <p><span class="chinese">简化汉字在很多年里，已经成为我们生活的一部分。</span><span class="english">Simplified characters have been a part of our life for too many years.</span></p>

@@ -1,5 +1,7 @@
 # 三叶虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanyechong.md)
+
 <p><span class="chinese">但“三叶虫”并非一个玩具。</span><span class="english">But the Trilobite is not a toy.</span></p>
 
 <p><span class="chinese">这只三叶虫补充道“我甚至还不知道他们长什么样！”</span><span class="english">I'm not even sure what those are!</span></p>

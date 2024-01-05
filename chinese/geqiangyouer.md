@@ -1,5 +1,7 @@
 # 隔墙有耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geqiangyouer.md)
+
 <p><span class="chinese">要知道，隔墙有耳。</span><span class="english">Walls have ears.</span></p>
 
 <p><span class="chinese">隔墙有耳呀！</span><span class="english">The walls have eats!</span></p>

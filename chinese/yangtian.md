@@ -1,5 +1,7 @@
 # 仰天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangtian.md)
+
 <p><span class="chinese">他仰天而嘘。</span><span class="english">He sighs with his face looking up.</span></p>
 
 <p><span class="chinese">小心点，不然你会仰天摔一跤。</span><span class="english">Be careful or you'll fall on your backside.</span></p>

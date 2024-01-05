@@ -1,5 +1,7 @@
 # mum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mum.md)
+
 <p><span class="chinese">你说话挺象我妈妈。</span><span class="english">You sound like my mum.</span></p>
 
 <p><span class="chinese">妈妈，我好想你呀！</span><span class="english">Mum I miss you very much!</span></p>

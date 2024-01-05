@@ -1,5 +1,7 @@
 # mousse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mousse.md)
+
 <p><span class="chinese">我爱这个摩丝。</span><span class="english">I love this mousse.</span></p>
 
 <p><span class="chinese">我在头发上抹了些摩丝。</span><span class="english">I put some mousse on my hair.</span></p>

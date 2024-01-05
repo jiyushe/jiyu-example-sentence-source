@@ -1,5 +1,7 @@
 # 水力发电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilifadian.md)
+
 <p><span class="chinese">俄罗斯水力发电公司说已经关闭了水电站。</span><span class="english">RusHydro said the plant had been shut down.</span></p>
 
 <p><span class="chinese">同时，陆地上的主要威胁来自于水力发电。</span><span class="english">Meanwhile, on land, the threat comes from hydropower.</span></p>

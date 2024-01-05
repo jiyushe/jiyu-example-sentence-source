@@ -1,5 +1,7 @@
 # hemothorax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemothorax.md)
+
 <p><span class="chinese">目的总结开放性血气胸临床治疗经验。</span><span class="english">Objective To sum up clinical experience of open hemothorax.</span></p>
 
 <p><span class="chinese">我们认为使用胸部的电脑断层扫瞄检查对于非外伤性血胸是可靠的。</span><span class="english">It is also reliable to diagnose non-traumatic hemothorax by chest CT.</span></p>

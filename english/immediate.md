@@ -1,5 +1,7 @@
 # immediate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immediate.md)
+
 <p><span class="chinese">疯魔现在立即生效。</span><span class="english">Madness is now immediate.</span></p>
 
 <p><span class="chinese">肖先生没有立即回答。</span><span class="english">Shaw made no immediate answer.</span></p>

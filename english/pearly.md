@@ -1,5 +1,7 @@
 # pearly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pearly.md)
+
 <p><span class="chinese">花朵是珍珠般的淡紫色。</span><span class="english">The flowers are pearly mauve.</span></p>
 
 <p><span class="chinese">该死，那只白狐狸跑哪里去了？</span><span class="english">Damn, namely pearly fox runs where go to?</span></p>

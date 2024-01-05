@@ -1,5 +1,7 @@
 # stylish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylish.md)
+
 <p><span class="chinese">苍鹭是一家时髦的公寓。</span><span class="english">A stylish lodging-house.</span></p>
 
 <p><span class="chinese">擦了防晒油的脸不漂亮。</span><span class="english">A sunburned face is not stylish.</span></p>

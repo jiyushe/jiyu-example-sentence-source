@@ -1,5 +1,7 @@
 # centimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centimeter.md)
+
 <p><span class="chinese">谁觉得是一厘米？</span><span class="english">Who guesses one centimeter?</span></p>
 
 <p><span class="chinese">在中国是用十进位制。</span><span class="english">We go by the centimeter in China.</span></p>

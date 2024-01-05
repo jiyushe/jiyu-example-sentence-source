@@ -1,5 +1,7 @@
 # 衣料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiliao_2.md)
+
 <p><span class="chinese">这种衣料很容易破。</span><span class="english">This dress material rips easily.</span></p>
 
 <p><span class="chinese">这种衣料一洗要缩水。</span><span class="english">This dress material shrinks in the wash.</span></p>

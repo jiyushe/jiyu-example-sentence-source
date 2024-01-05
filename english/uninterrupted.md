@@ -1,5 +1,7 @@
 # uninterrupted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninterrupted.md)
+
 <p><span class="chinese">每晚8小时的不间断睡眠。</span><span class="english">Get uninterrupted 8 hours sleep each night.</span></p>
 
 <p><span class="chinese">不间断地提供质量有保证的药物</span><span class="english">Uninterrupted supply of quality-assured drugs</span></p>

@@ -1,5 +1,7 @@
 # 写本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieben.md)
+
 <p><span class="chinese">你想写本小说么？</span><span class="english">Do you want to write a novel?</span></p>
 
 <p><span class="chinese">请写本关于这场战争的书。</span><span class="english">Please write a book about the war.</span></p>

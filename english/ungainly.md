@@ -1,5 +1,7 @@
 # ungainly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungainly.md)
+
 <p><span class="chinese">她现在看起来茫然而笨拙。</span><span class="english">She looks vacant and ungainly.</span></p>
 
 <p><span class="chinese">他迈著笨拙的大步子行走。</span><span class="english">He walked in long ungainly strides.</span></p>

@@ -1,5 +1,7 @@
 # haze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haze.md)
+
 <p><span class="chinese">再见“，Haze说。</span><span class="english">Goodbye," Haze said.</span></p>
 
 <p><span class="chinese">清晨那如烟的雾。</span><span class="english">The smoky morning haze.</span></p>

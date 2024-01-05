@@ -1,5 +1,7 @@
 # counsellor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counsellor.md)
+
 <p><span class="chinese">如果你还在上学，你也可以和学校辅导员谈一谈。</span><span class="english">Talk to your school counsellor if you are still at school.</span></p>
 
 <p><span class="chinese">也许我们可以去咨询同一个心理医生，以弄明白是怎么回事儿？</span><span class="english">Maybe we could see the same counsellor to find out what’s going on?</span></p>

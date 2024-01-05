@@ -1,5 +1,7 @@
 # checkpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkpoint.md)
+
 <p><span class="chinese">我靠近第二个检查站。</span><span class="english">I approached the second checkpoint.</span></p>
 
 <p><span class="chinese">每隔100米就有一个检查站。</span><span class="english">Every 100 meters there is a checkpoint.</span></p>

@@ -1,5 +1,7 @@
 # 杂家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zajia_1.md)
+
 <p><span class="chinese">秦王朝的统治思想是一种杂家思想，它利用宗教神学思想来神化统治。</span><span class="english">It makes use of theology thought of the religion to deify and rule.</span></p>
 
 <p><span class="chinese">作为一个有使命感和责任感的编辑工作者，就应该有“为他人作嫁衣”的奉献精神，努力做一名杂家。</span><span class="english">As a editor who should have a mission and responsibility, a spirit of devotion and try to be a jack-of all-trades.</span></p>

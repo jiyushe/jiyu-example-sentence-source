@@ -1,5 +1,7 @@
 # 兜售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doushou.md)
+
 <p><span class="chinese">或者尝试兜售他们？</span><span class="english">Try to sell them?</span></p>
 
 <p><span class="chinese">只能兜售叫卖在通衢。</span><span class="english">Peddled in the thoroughfares.</span></p>

@@ -1,5 +1,7 @@
 # flaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaming.md)
+
 <p><span class="chinese">那种火红色的?。</span><span class="english">That flaming red?</span></p>
 
 <p><span class="chinese">火红的郁金香，蓝色的玫瑰。</span><span class="english">Flaming tulips. Blue roses.</span></p>

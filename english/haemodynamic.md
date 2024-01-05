@@ -1,5 +1,7 @@
 # haemodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemodynamic.md)
+
 <p><span class="chinese">血流动力学试验可助于鉴别。</span><span class="english">Haemodynamic tests can help identify the above situation.</span></p>
 
 <p><span class="chinese">灌注固定前，进行血流动力学检测。</span><span class="english">Before perfusion–fixation, haemodynamic measurements were obtained.</span></p>

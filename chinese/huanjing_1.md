@@ -1,5 +1,7 @@
 # 环境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanjing_1.md)
+
 <p><span class="chinese">在每一种环境。</span><span class="english">In every circumstance.</span></p>
 
 <p><span class="chinese">你是我的环境。</span><span class="english">You are my surroundings.</span></p>

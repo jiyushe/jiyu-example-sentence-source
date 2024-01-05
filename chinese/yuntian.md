@@ -1,5 +1,7 @@
 # 云天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuntian.md)
+
 <p><span class="chinese">高高住在云天外。</span><span class="english">Up up the state so high.</span></p>
 
 <p><span class="chinese">没有大山阻—高薄云天。</span><span class="english">Never a mountain, rocky and steep.</span></p>

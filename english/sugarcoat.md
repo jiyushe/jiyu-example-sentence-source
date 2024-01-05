@@ -1,5 +1,7 @@
 # sugarcoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sugarcoat.md)
+
 <p><span class="chinese">不用粉饰太平。</span><span class="english">No need to sugarcoat the peace.</span></p>
 
 <p><span class="chinese">没有必要粉饰批评。</span><span class="english">There's no need to sugarcoat it.</span></p>

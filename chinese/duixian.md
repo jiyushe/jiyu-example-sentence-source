@@ -1,5 +1,7 @@
 # 兑现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duixian.md)
+
 <p><span class="chinese">我拒绝兑现你的票据。</span><span class="english">I refuse to honour your bill.</span></p>
 
 <p><span class="chinese">收件人会兑现它。</span><span class="english">The recipient will encash it.</span></p>

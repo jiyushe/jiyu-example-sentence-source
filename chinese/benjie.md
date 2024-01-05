@@ -1,5 +1,7 @@
 # 本届
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benjie.md)
+
 <p><span class="chinese">我预祝本届年会取得成功！</span><span class="english">I look forward to a successful meeting.</span></p>
 
 <p><span class="chinese">本届奥斯卡似乎可以说是躲过一劫。</span><span class="english">The Oscars appear to have dodged a bullet.</span></p>

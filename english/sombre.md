@@ -1,5 +1,7 @@
 # sombre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sombre.md)
+
 <p><span class="chinese">难道他没有一脸阴沉吗？</span><span class="english">Has he not a sombre look?</span></p>
 
 <p><span class="chinese">当阴霾的天空只余雷鸣。</span><span class="english">Thundered across the sombre sky.</span></p>

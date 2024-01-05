@@ -1,5 +1,7 @@
 # ointment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ointment.md)
+
 <p><span class="chinese">这是您的药膏.</span><span class="english">And here's your ointment.</span></p>
 
 <p><span class="chinese">他用手背抹抹嘴。</span><span class="english">He rubbed the ointment on.</span></p>

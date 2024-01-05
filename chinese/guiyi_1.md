@@ -1,5 +1,7 @@
 # 皈依
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiyi_1.md)
+
 <p><span class="chinese">我正式皈依。</span><span class="english">I'm officially a convert.</span></p>
 
 <p><span class="chinese">直到犹太人全都皈依。</span><span class="english">Till the Conversion of the Jews.</span></p>

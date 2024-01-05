@@ -1,5 +1,7 @@
 # electroplating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroplating.md)
+
 <p><span class="chinese">电镀时间搅拌效果不良。</span><span class="english">Electroplating time mixing effect is bad.</span></p>
 
 <p><span class="chinese">镀锡在…镀锡，通过浸染或电镀的方式。</span><span class="english">To coat with tin, either by dipping or electroplating.</span></p>

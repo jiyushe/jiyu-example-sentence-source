@@ -1,5 +1,7 @@
 # sarcophagi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcophagi.md)
+
 <p><span class="chinese">我建起巨大的石棺。</span><span class="english">I build massive sarcophagi.</span></p>
 
 <p><span class="chinese">红色花岗岩是常用的官员在底比斯为石棺高。</span><span class="english">Red granite was commonly used in Thebes for the sarcophagi of high officials.</span></p>

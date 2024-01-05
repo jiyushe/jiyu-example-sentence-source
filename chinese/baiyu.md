@@ -1,5 +1,7 @@
 # 白玉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyu.md)
+
 <p><span class="chinese">红山上，红山下，三十二匹白玉马。</span><span class="english">Thirty-two white horses on a red hill.</span></p>
 
 <p><span class="chinese">这个白玉挂件真的是物美价廉。</span><span class="english">This white jade pendant is a good buy.</span></p>

@@ -1,5 +1,7 @@
 # 瑕疵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaci_1.md)
+
 <p><span class="chinese">一个瑕疵一8D报告。</span><span class="english">One defect one 8D report.</span></p>
 
 <p><span class="chinese">这块玉有一个瑕疵。</span><span class="english">There is a flaw in the jade.</span></p>

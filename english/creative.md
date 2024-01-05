@@ -1,5 +1,7 @@
 # creative 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creative.md)
+
 <p><span class="chinese">有创造力的。</span><span class="english">Righty is creative.</span></p>
 
 <p><span class="chinese">他们的创造力更强。</span><span class="english">And they are more creative.</span></p>

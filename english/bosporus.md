@@ -1,5 +1,7 @@
 # bosporus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bosporus.md)
+
 <p><span class="chinese">伊斯坦布尔双年展在博斯普鲁斯海峡岸边的两座巨大的老旧库房里举行。</span><span class="english">The Istanbul Biennial is held in two huge former warehouses on the banks of the Bosporus.</span></p>
 
 <p><span class="chinese">伊斯坦布尔位于黑海和马尔马拉海之间，博斯普鲁斯海峡及金角湾横贯其中。</span><span class="english">Istanbul lies between the Black Sea and Sea of Marmara, forming Strait of Bosporus and Golden Horn Bay.</span></p>

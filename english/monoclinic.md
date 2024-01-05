@@ -1,5 +1,7 @@
 # monoclinic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monoclinic.md)
+
 <p><span class="chinese">固体正交硫在95℃转变为固体单斜硫。</span><span class="english">At 95℃, solid rhombic sulfur is transformed to solid monoclinic sulfur.</span></p>
 
 <p><span class="chinese">暗淡蓝绿单斜晶系晶体性粉末或颗粒。</span><span class="english">Gray and turquoise single monoclinic system crystalline powder or granule.</span></p>

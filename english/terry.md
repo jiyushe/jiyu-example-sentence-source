@@ -1,5 +1,7 @@
 # terry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terry.md)
+
 <p><span class="chinese">副队长是费迪南德。</span><span class="english">The captain is John Terry.</span></p>
 
 <p><span class="chinese">呃，我更爱特里·布鲁克斯。</span><span class="english">Ehhh, I prefer Terry Brooks!</span></p>

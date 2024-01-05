@@ -1,5 +1,7 @@
 # shooter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shooter.md)
+
 <p><span class="chinese">神射手也有不能命中的时候。</span><span class="english">A good shooter may miss.</span></p>
 
 <p><span class="chinese">那射手对她动武了。</span><span class="english">The shooter bent weapons on her.</span></p>

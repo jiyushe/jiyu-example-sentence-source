@@ -1,5 +1,7 @@
 # 口口声声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koukoushengsheng.md)
+
 <p><span class="chinese">口口声声说撒旦规则大地。</span><span class="english">Proclaiming that satan rules the earth.</span></p>
 
 <p><span class="chinese">还口口声声说自己才是米家的准女婿。</span><span class="english">Also claim that they are m future son-in-law.</span></p>

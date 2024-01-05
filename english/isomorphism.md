@@ -1,5 +1,7 @@
 # isomorphism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomorphism.md)
+
 <p><span class="chinese">这两个属性，你是独一无二的同构。</span><span class="english">With these two properties, U is unique up to isomorphism.</span></p>
 
 <p><span class="chinese">一个地图的自同构就是到它本身的一个同构。</span><span class="english">An automorphism of a map is an isomorphism from the map to itself.</span></p>

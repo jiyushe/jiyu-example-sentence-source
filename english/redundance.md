@@ -1,5 +1,7 @@
 # redundance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redundance.md)
+
 <p><span class="chinese">该模型能有效降低数据冗余，提高数据访问效率。</span><span class="english">It can reduce data redundance and improve data access efficiency.</span></p>
 
 <p><span class="chinese">级联型逆变器具有开关冗余和隔离直流电源冗余。</span><span class="english">There are switch redundance and dc source redundance in cascaded inverter.</span></p>

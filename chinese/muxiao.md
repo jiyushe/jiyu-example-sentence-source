@@ -1,5 +1,7 @@
 # 母校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxiao.md)
+
 <p><span class="chinese">我真想念我的母校！</span><span class="english">How I miss my old school!</span></p>
 
 <p><span class="chinese">清华大学是我的母校。</span><span class="english">Qinghua University is my Alma Mater.</span></p>

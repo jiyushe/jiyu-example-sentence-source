@@ -1,5 +1,7 @@
 # pathetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathetically.md)
+
 <p><span class="chinese">她总是这样感情冲动。</span><span class="english">She has always been pathetically sentimental.</span></p>
 
 <p><span class="chinese">他感到有点难为情，低声下气地说，会写作。</span><span class="english">He was embarrassed. I can write, he said pathetically.</span></p>

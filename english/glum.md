@@ -1,5 +1,7 @@
 # glum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glum.md)
+
 <p><span class="chinese">他对世界形势感到怏怏不乐。</span><span class="english">He is glum about world affairs.</span></p>
 
 <p><span class="chinese">他头发灰白，戴着眼镜，显得严肃和阴郁。</span><span class="english">He looks grey, owlish , bespectacled, and glum.</span></p>

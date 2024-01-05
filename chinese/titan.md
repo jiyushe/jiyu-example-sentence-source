@@ -1,5 +1,7 @@
 # 体坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titan.md)
+
 <p><span class="chinese">你觉得谁是中国体坛的骄傲？</span><span class="english">Yeah ,they are the prides of China.</span></p>
 
 <p><span class="chinese">易小荷，中国体坛著名记者之一。</span><span class="english">Coco Yee, One of the famous chinese sport reporter.</span></p>

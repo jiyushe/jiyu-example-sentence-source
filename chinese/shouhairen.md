@@ -1,5 +1,7 @@
 # 受害人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhairen.md)
+
 <p><span class="chinese">那些歹徒打伤了受害人。</span><span class="english">Those guys striked the victim.</span></p>
 
 <p><span class="chinese">那…这个受害人是个体育赌徒么？</span><span class="english">Your victim's a sports bettor ?</span></p>

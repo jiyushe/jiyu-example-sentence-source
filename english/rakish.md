@@ -1,5 +1,7 @@
 # rakish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rakish.md)
+
 <p><span class="chinese">所以行为放荡还是一件好事。</span><span class="english">So being rakish is a good thing.</span></p>
 
 <p><span class="chinese">他扮演小说中放荡的主人公。</span><span class="english">He plays the novel's rakish hero.</span></p>

@@ -1,5 +1,7 @@
 # willoughby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willoughby.md)
+
 <p><span class="chinese">威洛比·帕忒恩是个无可指责的高尚的人。</span><span class="english">Willoughby Pattern is a man of unimpeachable honour.</span></p>
 
 <p><span class="chinese">威洛比经常提醒德·克雷，他是个正宗的诺曼底人。</span><span class="english">De Craye, as Willoughby had often reminded him, was properly Norman.</span></p>

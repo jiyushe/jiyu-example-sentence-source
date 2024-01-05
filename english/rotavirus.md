@@ -1,5 +1,7 @@
 # rotavirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotavirus.md)
+
 <p><span class="chinese">接种轮状病毒疫苗。</span><span class="english">rotavirus vaccination.</span></p>
 
 <p><span class="chinese">轮状病毒分许多不同的病毒株。</span><span class="english">There are many different strains of rotavirus.</span></p>

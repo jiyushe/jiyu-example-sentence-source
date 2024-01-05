@@ -1,5 +1,7 @@
 # 三宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbao_1.md)
+
 <p><span class="chinese">刘一刀还是放过了三宝。</span><span class="english">That knife or pass the triple gem.</span></p>
 
 <p><span class="chinese">不信三宝不植善根。</span><span class="english">They do not believe the Triple Gems.</span></p>

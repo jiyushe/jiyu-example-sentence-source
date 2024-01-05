@@ -1,5 +1,7 @@
 # yank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yank.md)
+
 <p><span class="chinese">她猛拉了一下绳子。</span><span class="english">She gave the rope a yank.</span></p>
 
 <p><span class="chinese">这倒是真的“激励”到了我——我把手赶紧抽了回来。</span><span class="english">Which motivates me to yank my hand back.</span></p>

@@ -1,5 +1,7 @@
 # 神经纤维
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingxianwei.md)
+
 <p><span class="chinese">一些神经纤维束也是可见的。</span><span class="english">Some nerve fiber tracts are also visible.</span></p>
 
 <p><span class="chinese">神经纤维瘤一般行手术切除。</span><span class="english">General travel operation excises nerve fibroma.</span></p>

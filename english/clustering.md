@@ -1,5 +1,7 @@
 # clustering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clustering.md)
+
 <p><span class="chinese">简而言之，就是聚合力。</span><span class="english">This in a nutshell is the clustering force.</span></p>
 
 <p><span class="chinese">为测试迁移和集群做准备。</span><span class="english">Prepare for the test migration and clustering.</span></p>

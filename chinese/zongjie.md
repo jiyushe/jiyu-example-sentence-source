@@ -1,5 +1,7 @@
 # 总结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongjie.md)
+
 <p><span class="chinese">先来总结一下。</span><span class="english">Here's a summary.</span></p>
 
 <p><span class="chinese">回顾和总结。</span><span class="english">Review and summarize.</span></p>

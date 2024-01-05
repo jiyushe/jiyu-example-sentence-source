@@ -1,5 +1,7 @@
 # synchrony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchrony.md)
+
 <p><span class="chinese">好，现在我们回到了语言的同步分析和历时分析上。</span><span class="english">All right. I need to come back to synchrony and diachrony.</span></p>
 
 <p><span class="chinese">因为耦合，成对的行走者将进入某种同步状态。</span><span class="english">Due to coupling, a pair of walkers arrive at some synchrony state.</span></p>

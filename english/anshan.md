@@ -1,5 +1,7 @@
 # anshan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anshan.md)
+
 <p><span class="chinese">我住在辽宁鞍山市。</span><span class="english">I'm in Liaoning, at Anshan.</span></p>
 
 <p><span class="chinese">鞍山是我国的钢都。</span><span class="english">Anshan is our country's steel metropolis.</span></p>

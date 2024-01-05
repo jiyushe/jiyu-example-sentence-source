@@ -1,5 +1,7 @@
 # thenar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thenar.md)
+
 <p><span class="chinese">足底按摩法是我国传统的按摩疗法之一。</span><span class="english">Thenar massage a traditional massage treatments in China.</span></p>
 
 <p><span class="chinese">上述这些血管在大鱼际交织成网状，营养整个大鱼际皮肤。</span><span class="english">Vessels mentioned above formed a vessel net to supply thenar skin.</span></p>

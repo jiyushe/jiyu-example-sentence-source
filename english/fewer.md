@@ -1,5 +1,7 @@
 # fewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fewer.md)
+
 <p><span class="chinese">知道的人更少了</span><span class="english">Fewer people do.</span></p>
 
 <p><span class="chinese">写入磁盘的字节数更少。</span><span class="english">Fewer bytes written to disk.</span></p>

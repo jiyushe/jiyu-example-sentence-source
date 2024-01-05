@@ -1,5 +1,7 @@
 # novell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novell.md)
+
 <p><span class="chinese">介绍一个DOS操作系统的菜单程序。</span><span class="english">DOS menu programmed by using Novell Netware principles is presented.</span></p>
 
 <p><span class="chinese">另外他们也将协助Novell工作，以扩展到Linux平台上。</span><span class="english">Additionally they will be working with Novell to extend support to Linux.</span></p>

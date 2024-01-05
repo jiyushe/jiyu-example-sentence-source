@@ -1,5 +1,7 @@
 # 传票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanpiao.md)
+
 <p><span class="chinese">传票被撤回。</span><span class="english">The summons was withdrawn.</span></p>
 
 <p><span class="chinese">我只是一个传票投递员。</span><span class="english">He's just a process server.</span></p>

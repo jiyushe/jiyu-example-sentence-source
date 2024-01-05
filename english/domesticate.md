@@ -1,5 +1,7 @@
 # domesticate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domesticate.md)
+
 <p><span class="chinese">人们不能驯服野马，所以就毁掉它们。</span><span class="english">They couldn't domesticate them, so they destory them.</span></p>
 
 <p><span class="chinese">贝多因人是养驯这个出色的品种第一。</span><span class="english">The Bedouins were the first to domesticate this magnificent breed.</span></p>

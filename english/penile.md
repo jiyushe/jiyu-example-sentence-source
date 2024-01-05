@@ -1,5 +1,7 @@
 # penile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penile.md)
+
 <p><span class="chinese">这就是为什么他要用“长劲”来证明他的男子气概。</span><span class="english">The penile power was a way to prove his manhood.</span></p>
 
 <p><span class="chinese">目的探索一种新的尿道下裂手术方法。</span><span class="english">ObjectiveTo investigate new methods of treatment for penile hypospadias.</span></p>

@@ -1,5 +1,7 @@
 # 莨菪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langdang.md)
+
 <p><span class="chinese">维生素E和山莨菪碱有部分保护作用。</span><span class="english">Vit E and Anisodamine have some alleviatory effect on above changes.</span></p>
 
 <p><span class="chinese">山莨菪碱的这种作用可能是多方面的综合作用结果。</span><span class="english">Such effect of anisodamine may be a integrated result of various actions.</span></p>

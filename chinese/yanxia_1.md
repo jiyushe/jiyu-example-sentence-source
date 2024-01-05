@@ -1,5 +1,7 @@
 # 眼下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxia_1.md)
+
 <p><span class="chinese">那么，中国眼下应该怎样做呢？</span><span class="english">So what should Beijing be doing now?</span></p>
 
 <p><span class="chinese">这是一场曾经的美梦，还是眼下的噩梦？</span><span class="english">Was it a dream or is it a nightmare?</span></p>

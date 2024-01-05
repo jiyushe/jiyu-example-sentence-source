@@ -1,5 +1,7 @@
 # blackberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackberry.md)
+
 <p><span class="chinese">黑莓崩溃？</span><span class="english">BlackBerry crumble?</span></p>
 
 <p><span class="chinese">秀一下你包里的黑莓2！</span><span class="english">What's In My Bag blackberry 2!</span></p>

@@ -1,5 +1,7 @@
 # 粉墨登场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmodengchang.md)
+
 <p><span class="chinese">先是苍白，而后粉墨登场。</span><span class="english">And, white first, grow incarnadined, because.</span></p>
 
 <p><span class="chinese">在公共互联网接入点的舞台创建当中，许多演员粉墨登场。</span><span class="english">There were a number of actors that created PIAPs.</span></p>

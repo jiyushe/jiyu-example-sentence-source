@@ -1,5 +1,7 @@
 # 囊中羞涩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nangzhongxiuse.md)
+
 <p><span class="chinese">本来就囊中羞涩的人们如今一无所有。</span><span class="english">People who always had very little now have nothing.</span></p>
 
 <p><span class="chinese">这家饭馆向胃口很大但囊中羞涩的人供餐。</span><span class="english">This restaurant catered to large appetites and modest purses.</span></p>

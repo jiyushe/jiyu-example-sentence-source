@@ -1,5 +1,7 @@
 # intersectional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersectional.md)
+
 <p><span class="chinese">医学人类学是一门新兴交叉学科。</span><span class="english">Medical anthropology is a new intersectional subject.</span></p>
 
 <p><span class="chinese">测试结果使用验证和交叉验证方法得到。</span><span class="english">Experiment result is get by the means of confirmation and intersectional confirmation.</span></p>

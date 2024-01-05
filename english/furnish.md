@@ -1,5 +1,7 @@
 # furnish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furnish.md)
+
 <p><span class="chinese">信念付之于行动。</span><span class="english">Action will furnish belief.</span></p>
 
 <p><span class="chinese">我们将向你提供你所需要的一切。</span><span class="english">We'll furnish you with all you need.</span></p>

@@ -1,5 +1,7 @@
 # tormentor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tormentor.md)
+
 <p><span class="chinese">认识到折磨的人有问题。</span><span class="english">Realize that the tormentor has a problem.</span></p>
 
 <p><span class="chinese">别把这个直接告诉给折磨者。</span><span class="english">Don't tell this to the tormentor directly.</span></p>

@@ -1,5 +1,7 @@
 # elitism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elitism.md)
+
 <p><span class="chinese">它有点属灵骄傲与菁英的味道。</span><span class="english">It smacks of spiritual pride and elitism.</span></p>
 
 <p><span class="chinese">事实上，我希望有更多的行业能表现出强烈的精英主义。</span><span class="english">In fact, I wish more jobs had clear forms of elitism.</span></p>

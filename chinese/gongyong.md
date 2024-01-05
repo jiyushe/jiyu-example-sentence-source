@@ -1,5 +1,7 @@
 # 公用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyong.md)
+
 <p><span class="chinese">公用之马，掌子最差。</span><span class="english">The common horse is worst shod.</span></p>
 
 <p><span class="chinese">他的两位室友公用一张双层床。</span><span class="english">His two room mates share a bunk bed.</span></p>

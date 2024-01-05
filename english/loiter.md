@@ -1,5 +1,7 @@
 # loiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loiter.md)
+
 <p><span class="chinese">不要虚度时光。</span><span class="english">Don't loiter your time away.</span></p>
 
 <p><span class="chinese">不要在回家的路上閒逛！</span><span class="english">Don't loiter on the way home!</span></p>

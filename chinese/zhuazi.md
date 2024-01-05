@@ -1,5 +1,7 @@
 # 爪子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuazi.md)
+
 <p><span class="chinese">但是狮子张开了他的爪子。</span><span class="english">But Lion opens his paw.</span></p>
 
 <p><span class="chinese">狗正在用爪子挖洞。</span><span class="english">The dog is clawing a hole.</span></p>

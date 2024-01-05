@@ -1,5 +1,7 @@
 # type 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/type_1.md)
+
 <p><span class="chinese">任何类型。</span><span class="english">Any type.</span></p>
 
 <p><span class="chinese">你能打字吗？</span><span class="english">Can you type?</span></p>

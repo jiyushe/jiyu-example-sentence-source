@@ -1,5 +1,7 @@
 # sulfhydryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfhydryl.md)
+
 <p><span class="chinese">结论1L1B可提升血浆巯基物质含量。</span><span class="english">Conclusion 1L1B elevated plasma level of sulfhydryl compounds.</span></p>
 
 <p><span class="chinese">木瓜蛋白酶是一类巯基蛋白酶，大量存在于木瓜乳汁中。</span><span class="english">Papain is a sulfhydryl protease from the latex of the papaya fruit.</span></p>

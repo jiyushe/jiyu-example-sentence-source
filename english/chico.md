@@ -1,5 +1,7 @@
 # chico
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chico.md)
+
 <p><span class="chinese">你的儿子阿茂？</span><span class="english">Your son Chico?</span></p>
 
 <p><span class="chinese">他对音乐的就像对英语一样。</span><span class="english">Chico did to music what he did to the English language.</span></p>

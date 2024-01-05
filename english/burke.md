@@ -1,5 +1,7 @@
 # burke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burke.md)
+
 <p><span class="chinese">比尔。柏尔。你是安。米勒，对不对？</span><span class="english">Bill Burke. And you're Ann Miller, right?</span></p>
 
 <p><span class="chinese">柏克→法国大革命反思。</span><span class="english">Burke. Reflections on the Revolution in France.</span></p>

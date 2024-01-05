@@ -1,5 +1,7 @@
 # donut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donut.md)
+
 <p><span class="chinese">好，好，拿上一个油炸圈饼。</span><span class="english">Here, take another donut.</span></p>
 
 <p><span class="chinese">我看到一朵象面包圈的云。</span><span class="english">I see a cloud that looks like a donut.</span></p>

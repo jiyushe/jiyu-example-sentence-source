@@ -1,5 +1,7 @@
 # sulphate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphate.md)
+
 <p><span class="chinese">对硫酸链霉素低度敏感。</span><span class="english">Low-alcohol sensitive to streptomycin sulphate.</span></p>
 
 <p><span class="chinese">硫酸钙晶须属于新型材料。</span><span class="english">Calcium sulphate whisker is a new type material.</span></p>

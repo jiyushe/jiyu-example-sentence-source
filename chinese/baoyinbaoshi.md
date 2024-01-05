@@ -1,5 +1,7 @@
 # 暴饮暴食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoyinbaoshi.md)
+
 <p><span class="chinese">如果愿意，他们可以暴饮暴食，增加体重。</span><span class="english">They can overeat and gainweight if they want to.</span></p>
 
 <p><span class="chinese">暴饮暴食有妨你的健康。</span><span class="english">It's no good for your health to surfeit yourself.</span></p>

@@ -1,5 +1,7 @@
 # telecom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telecom.md)
+
 <p><span class="chinese">电信业能否重新振兴?。</span><span class="english">Can Telecom Industry Re-collect?</span></p>
 
 <p><span class="chinese">电信业就是个例子。</span><span class="english">One example is the telecom industry.</span></p>

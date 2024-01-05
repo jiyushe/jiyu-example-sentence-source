@@ -1,5 +1,7 @@
 # discursive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discursive.md)
+
 <p><span class="chinese">他是个散漫的人。</span><span class="english">He is a discursive person.</span></p>
 
 <p><span class="chinese">拒绝空洞地理想，拒绝不着边际的政治。</span><span class="english">We refuse empty ideals and discursive politics.</span></p>

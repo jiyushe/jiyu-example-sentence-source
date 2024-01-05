@@ -1,5 +1,7 @@
 # florescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florescence.md)
+
 <p><span class="chinese">花信风，随着花期而来的风。</span><span class="english">Florescence wind accompanies the florescence.</span></p>
 
 <p><span class="chinese">当春天再来的时候，不必再询问花期。</span><span class="english">When come again in spring , needn't inquire florescence.</span></p>

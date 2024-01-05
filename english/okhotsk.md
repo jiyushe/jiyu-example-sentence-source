@@ -1,5 +1,7 @@
 # okhotsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/okhotsk.md)
+
 <p><span class="chinese">其中的千岛盆地，是研究鄂霍茨克海的一个窗口。</span><span class="english">Kuril Basin is the window to study the Okhotsk Sea.</span></p>
 
 <p><span class="chinese">所有这些意味着中国面临着“中国鄂霍次克海”的困境。</span><span class="english">All this means that China faces a dilemma in the 'Chinese Okhotsk.</span></p>

@@ -1,5 +1,7 @@
 # 火势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshi_1.md)
+
 <p><span class="chinese">火势炽盛。</span><span class="english">The fire is blazing.</span></p>
 
 <p><span class="chinese">风向的转变阻止了火势的蔓延。</span><span class="english">A change of wind checked the fire.</span></p>

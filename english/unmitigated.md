@@ -1,5 +1,7 @@
 # unmitigated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmitigated.md)
+
 <p><span class="chinese">这一晚完全是一场灾难。</span><span class="english">The evening was an unmitigated disaster.</span></p>
 
 <p><span class="chinese">你或许认为“雷厉风行，只争朝夕”是最好的办事风格吧。</span><span class="english">You would think that immediate, unmitigated action is best.</span></p>

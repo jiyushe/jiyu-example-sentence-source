@@ -1,5 +1,7 @@
 # transgress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transgress.md)
+
 <p><span class="chinese">但是,他们后来的行为越界了</span><span class="english">Well, what happens? They transgress.</span></p>
 
 <p><span class="chinese">你的主确是知道过分者的。</span><span class="english">Thy Lord knoweth best those who transgress.</span></p>

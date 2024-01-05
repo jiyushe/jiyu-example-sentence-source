@@ -1,5 +1,7 @@
 # multicolour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicolour.md)
+
 <p><span class="chinese">实验结果表明该方法做出的全息图效果良好。</span><span class="english">The experiment result indicates that a good multicolour holography can be made.</span></p>
 
 <p><span class="chinese">高强度多色装饰布对强度和色彩鲜艳度的要求较高。</span><span class="english">The key of high strength and multicolour decoration cloth was strength and brightness.</span></p>

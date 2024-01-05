@@ -1,5 +1,7 @@
 # 隐隐约约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyinyueyue.md)
+
 <p><span class="chinese">这种想法隐隐约约地浮现在我的脑海中。</span><span class="english">The thought rose dimly in my mind.</span></p>
 
 <p><span class="chinese">一艘海盗船隐隐约约在雾中出现了。</span><span class="english">A sea rover has appeared indistinctly in the fog.</span></p>

@@ -1,5 +1,7 @@
 # 蓄积
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuji.md)
+
 <p><span class="chinese">他们用橡皮艇蓄积雨水。</span><span class="english">The men collected rain-water in the rubber dinghy.</span></p>
 
 <p><span class="chinese">镉是一种有毒的重金属元素，具有蓄积性毒性。</span><span class="english">Cadmium is a heavy metal element with accumulation toxicity.</span></p>

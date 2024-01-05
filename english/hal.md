@@ -1,5 +1,7 @@
 # hal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hal.md)
+
 <p><span class="chinese">出版哈尔伦纳德。</span><span class="english">Published by Hal Leonard.</span></p>
 
 <p><span class="chinese">打开别离舱门，美国经典片子。哈尔。</span><span class="english">Open the pod bay doors- HAL.</span></p>

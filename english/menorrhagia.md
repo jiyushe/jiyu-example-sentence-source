@@ -1,5 +1,7 @@
 # menorrhagia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menorrhagia.md)
+
 <p><span class="chinese">可治疗月经过多。</span><span class="english">Treatment of menorrhagia.</span></p>
 
 <p><span class="chinese">子宫肌瘤会引起月经过多吗？</span><span class="english">Uterine fibroids can cause menorrhagia it?</span></p>

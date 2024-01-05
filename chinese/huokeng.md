@@ -1,5 +1,7 @@
 # 火坑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huokeng.md)
+
 <p><span class="chinese">跳出油锅又入火坑。</span><span class="english">Out of the frying-pan into the fire.</span></p>
 
 <p><span class="chinese">你愿意掉进火坑吗？</span><span class="english">Should you like to fall into that pit full of fire?</span></p>

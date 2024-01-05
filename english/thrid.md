@@ -1,5 +1,7 @@
 # thrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrid.md)
+
 <p><span class="chinese">叫咩名第三个火枪手?。</span><span class="english">What was the name of the thrid Musketeer?</span></p>
 
 <p><span class="chinese">他下降阴府，第三日从死者中复活。</span><span class="english">He descended to the dead. On the thrid day He rose again.</span></p>

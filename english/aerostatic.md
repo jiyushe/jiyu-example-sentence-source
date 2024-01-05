@@ -1,5 +1,7 @@
 # aerostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerostatic.md)
+
 <p><span class="chinese">在空气静压导轨中，节流孔形状和孔径大小是主要振源之一。</span><span class="english">The orifice shape and aperture size is one vibration source on aerostatic bearing.</span></p>
 
 <p><span class="chinese">详细地介绍了空气静压径向轴承试验台的设计过程。</span><span class="english">This paper introduces a design process of a testing stand for aerostatic journal bearings.</span></p>

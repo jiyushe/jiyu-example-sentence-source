@@ -1,5 +1,7 @@
 # 小气鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqigui.md)
+
 <p><span class="chinese">做个小气鬼。</span><span class="english">Be a cheapskate.</span></p>
 
 <p><span class="chinese">什么是小气鬼？</span><span class="english">What is niggard?</span></p>

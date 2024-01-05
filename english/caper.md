@@ -1,5 +1,7 @@
 # caper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caper.md)
+
 <p><span class="chinese">缤纷的爬满了山坡。</span><span class="english">caper along the hill.</span></p>
 
 <p><span class="chinese">回到我的厨房活动中。</span><span class="english">Back to my kitchen caper.</span></p>

@@ -1,5 +1,7 @@
 # silane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silane.md)
+
 <p><span class="chinese">硅烷是无色的，可以自燃的压缩气体。</span><span class="english">Silane is a colorless, pyrophoric compressed gas.</span></p>
 
 <p><span class="chinese">水与硅烷反应形成硅醇基因。</span><span class="english">Water reacts with the silane forming silanol groups.</span></p>

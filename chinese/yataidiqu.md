@@ -1,5 +1,7 @@
 # 亚太地区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yataidiqu.md)
+
 <p><span class="chinese">亚太地区进入地震活动期，我们怎么办?。</span><span class="english">Face Period of Seismic Activites, Do What Must?</span></p>
 
 <p><span class="chinese">中国和美国决定了亚太地区安全局势的阴晴雨雪。</span><span class="english">CHINA and America make the weather in Asia-Pacific security.</span></p>

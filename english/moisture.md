@@ -1,5 +1,7 @@
 # moisture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moisture.md)
+
 <p><span class="chinese">植物吸收了水分。</span><span class="english">The plant drank moisture.</span></p>
 
 <p><span class="chinese">这层涂料能防潮。</span><span class="english">This coating repels moisture.</span></p>

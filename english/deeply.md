@@ -1,5 +1,7 @@
 # deeply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deeply.md)
+
 <p><span class="chinese">我深深地爱着他。</span><span class="english">I loved him deeply.</span></p>
 
 <p><span class="chinese">往昔情太浓。</span><span class="english">Too deeply to tell.</span></p>

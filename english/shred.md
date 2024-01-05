@@ -1,5 +1,7 @@
 # shred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shred.md)
+
 <p><span class="chinese">狗也许会脱毛，但猫会把布弄成碎条。</span><span class="english">Dogs may shed, but cats shred.</span></p>
 
 <p><span class="chinese">将青瓜及红萝卜去皮，切丝。</span><span class="english">Peel cucumber and carrot, shred.</span></p>

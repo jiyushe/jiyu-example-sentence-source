@@ -1,5 +1,7 @@
 # genevieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genevieve.md)
+
 <p><span class="chinese">我现在相信吉纳维夫是为每一个人而生的。</span><span class="english">I now believe Genevieve is here for everyone.</span></p>
 
 <p><span class="chinese">珍妮妃甫低声的说着，却因听见自己的声音而觉得不安起来。</span><span class="english">Whispered Genevieve , and started nervously at the sound of her own voice.</span></p>

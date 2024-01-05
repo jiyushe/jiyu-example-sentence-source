@@ -1,5 +1,7 @@
 # 灾情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiqing.md)
+
 <p><span class="chinese">台北市灾情较轻。</span><span class="english">Taipei escaped comparatively lightly.</span></p>
 
 <p><span class="chinese">灾情严重。</span><span class="english">The losses caused by the disaster were serious.</span></p>

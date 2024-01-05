@@ -1,5 +1,7 @@
 # storybook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storybook.md)
+
 <p><span class="chinese">它是一本故事书。</span><span class="english">It's a storybook.</span></p>
 
 <p><span class="chinese">这是他的故事书。</span><span class="english">This is his storybook.</span></p>

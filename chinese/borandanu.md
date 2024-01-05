@@ -1,5 +1,7 @@
 # 勃然大怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/borandanu.md)
+
 <p><span class="chinese">他勃然大怒，扯我的头发。</span><span class="english">He fell into rage and tore at my hair.</span></p>
 
 <p><span class="chinese">他勃然大怒，把包朝我掷来。</span><span class="english">He spunked up and threw the bag at me.</span></p>

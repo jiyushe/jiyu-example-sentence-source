@@ -1,5 +1,7 @@
 # 无轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugui_1.md)
+
 <p><span class="chinese">这无轨车是去市动物园的吗？</span><span class="english">Does the trolley-bus go to the city's Zoo?</span></p>
 
 <p><span class="chinese">介绍小型无轨设备在规模较小的753矿巷道掘进中的试验应用情况。</span><span class="english">The running of the small trackless equipments in 753 project are expounded.</span></p>

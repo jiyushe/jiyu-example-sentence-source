@@ -1,5 +1,7 @@
 # 怒目而视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/numuershi.md)
+
 <p><span class="chinese">他对老板怒目而视。</span><span class="english">He loured at the boss.</span></p>
 
 <p><span class="chinese">她对那个粗鲁的男子怒目而视。</span><span class="english">She gave the rude man a glare.</span></p>

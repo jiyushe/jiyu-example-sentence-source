@@ -1,5 +1,7 @@
 # pps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pps.md)
+
 <p><span class="chinese">首席财务官帕特里克皮切特将接管人力资源和商业运营。</span><span class="english">Now, CFO Patrick Pichette, will be taking over HR and BizO pps.</span></p>
 
 <p><span class="chinese">PPS紧密结合其它临床前的基础科学课程。</span><span class="english">PPS is closely integrated with other preclinical "basic science" courses.</span></p>

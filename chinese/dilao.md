@@ -1,5 +1,7 @@
 # 地牢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilao.md)
+
 <p><span class="chinese">你以为是什么样像棺材地牢或者城壕那样的？</span><span class="english">When the moat is deep a ladder can be used.</span></p>
 
 <p><span class="chinese">我在哪读过过关于地牢的东西啊？</span><span class="english">Where have I read something about dungeons?</span></p>

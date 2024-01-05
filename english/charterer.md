@@ -1,5 +1,7 @@
 # charterer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charterer.md)
+
 <p><span class="chinese">第一百四十条承租人应当按照合同约定支付租金。</span><span class="english">Article 140 The charterer shall pay the hire as agreed upon in the charter.</span></p>
 
 <p><span class="chinese">船东和租船人围绕这个内容产生的纠纷为数不少。</span><span class="english">Large amount of disputes occurs spontaneously between shipowner and charterer on this case.</span></p>

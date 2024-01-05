@@ -1,5 +1,7 @@
 # goalpost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goalpost.md)
+
 <p><span class="chinese">但是没有战胜门柱！</span><span class="english">Although he is over the goalpost.</span></p>
 
 <p><span class="chinese">足球击中球门柱弹了出去。</span><span class="english">The football bounced off the goalpost.</span></p>

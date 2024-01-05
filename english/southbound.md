@@ -1,5 +1,7 @@
 # southbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southbound.md)
+
 <p><span class="chinese">往南开的A列地铁上写着“布鲁克林”。</span><span class="english">The southbound A trains say Brooklyn.</span></p>
 
 <p><span class="chinese">所有南下的列车都从第一月台开出。</span><span class="english">All southbound trains leave from platform one.</span></p>

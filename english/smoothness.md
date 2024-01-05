@@ -1,5 +1,7 @@
 # smoothness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoothness.md)
+
 <p><span class="chinese">这是一种令人安心、快慰的均匀。</span><span class="english">This is a kind of comfortable, happy smoothness.</span></p>
 
 <p><span class="chinese">平滑和锐利设置有什么用？</span><span class="english">What do the smoothness and crispness settings do?</span></p>

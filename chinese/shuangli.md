@@ -1,5 +1,7 @@
 # 爽利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangli.md)
+
 <p><span class="chinese">成熟而清新爽利。</span><span class="english">Ripe but refreshing on the palate.</span></p>
 
 <p><span class="chinese">情急之下，毕竟是母语用的爽利，但老子直接无视！</span><span class="english">In desperation, after all, is the native language of crisp, but I ignored!</span></p>

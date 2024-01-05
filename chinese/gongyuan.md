@@ -1,5 +1,7 @@
 # 公元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyuan.md)
+
 <p><span class="chinese">圣阿弗拉哈提斯于公元370年去世。</span><span class="english">He died in the year 370.</span></p>
 
 <p><span class="chinese">乔治一世死于公元1727年。</span><span class="english">George I died in A. D. 1727.</span></p>

@@ -1,5 +1,7 @@
 # blacken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blacken.md)
+
 <p><span class="chinese">云遮暗了天。</span><span class="english">Clouds blacken the heavens.</span></p>
 
 <p><span class="chinese">烟把墙熏黑了。</span><span class="english">The smoke has blacken the walls.</span></p>

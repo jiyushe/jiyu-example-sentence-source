@@ -1,5 +1,7 @@
 # 力排众议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lipaizhongyi.md)
+
 <p><span class="chinese">力排众议之时，他常有倍受人身攻击之感。</span><span class="english">When overcoming objections, he often "experiences" as personal attacks.</span></p>
 
 <p><span class="chinese">尽管如此，他仍应该试图力排众议，为美国经济搬来更多的救兵。</span><span class="english">Still, he should be trying to push through as much aid to the economy as possible.</span></p>

@@ -1,5 +1,7 @@
 # 狼毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langdu.md)
+
 <p><span class="chinese">瑞香狼毒化学成分的研究。</span><span class="english">Research on Chemical Constituents of Stellera chamaejasme L.</span></p>
 
 <p><span class="chinese">波特，那你说说舟形乌头和狼毒乌头有什么区别？</span><span class="english">What is the difference, Potter, between monkshood and wolfsbane?</span></p>

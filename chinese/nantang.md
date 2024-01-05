@@ -1,5 +1,7 @@
 # 南唐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nantang.md)
+
 <p><span class="chinese">一个是把“四十年来家国，三千里路山河”拱手送与他人的南唐后主。</span><span class="english">Li Yi is the Southern Tang emperor who gives way to other people.</span></p>
 
 <p><span class="chinese">一南唐后主，肉担降宋，过着如同囚犯的日子，屈辱挨打。</span><span class="english">Nantang, meat and descending song, live like prisoners day, humiliation.</span></p>

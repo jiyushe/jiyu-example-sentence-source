@@ -1,5 +1,7 @@
 # protuberance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protuberance.md)
+
 <p><span class="chinese">圆形的隆起或突起。</span><span class="english">A rounded hump or protuberance.</span></p>
 
 <p><span class="chinese">树干上有个大包。</span><span class="english">There is a big protuberance on the trunk.</span></p>

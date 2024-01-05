@@ -1,5 +1,7 @@
 # highlighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highlighted.md)
+
 <p><span class="chinese">曾任美国驻俄大使的伯恩斯在发言中强调了三点。</span><span class="english">Burns highlighted three points.</span></p>
 
 <p><span class="chinese">我把头发弄靓点怎么样?。</span><span class="english">Should I get my hair highlighted?</span></p>

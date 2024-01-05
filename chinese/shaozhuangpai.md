@@ -1,5 +1,7 @@
 # 少壮派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaozhuangpai.md)
+
 <p><span class="chinese">前原诚司在日本执政的民主党内是著名的鹰派人物、少壮派中坚。</span><span class="english">Maehara within the ruling Democratic Party of Japan is famous hawk, young guard backbone.</span></p>
 
 <p><span class="chinese">似乎现在进行改革为时已晚，已经不能说服当代的少壮派亿万富豪让孩子留在国内读书。</span><span class="english">Reform appears to have come too late to convince the current generation of young billionaires to educate their kids at home.</span></p>

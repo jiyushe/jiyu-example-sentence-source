@@ -1,5 +1,7 @@
 # 罩子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozi.md)
+
 <p><span class="chinese">她拿过罩子将打字机套上。</span><span class="english">She drew a cover over the typewriter.</span></p>
 
 <p><span class="chinese">需要罩子盖住您的外衣吗？</span><span class="english">Would you like a cover for your coat?</span></p>

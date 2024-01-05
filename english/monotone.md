@@ -1,5 +1,7 @@
 # monotone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monotone.md)
+
 <p><span class="chinese">不，你看到的是单调的树木。</span><span class="english">No, you see is monotone trees.</span></p>
 
 <p><span class="chinese">瞧他的衣服，一划的都是黑色的，真单调。</span><span class="english">All of his clothes are in monotone black.</span></p>

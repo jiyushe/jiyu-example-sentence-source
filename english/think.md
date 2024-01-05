@@ -1,5 +1,7 @@
 # think
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/think.md)
+
 <p><span class="chinese">以大格局来思考。</span><span class="english">Think big.</span></p>
 
 <p><span class="chinese">我这样认为。</span><span class="english">I think so.</span></p>

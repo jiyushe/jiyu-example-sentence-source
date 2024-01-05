@@ -1,5 +1,7 @@
 # blatant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blatant.md)
+
 <p><span class="chinese">德布西是细致又喧闹的吗？</span><span class="english">Is Debussy both subtle and blatant?</span></p>
 
 <p><span class="chinese">所谓“不知怎么”的话，顺便说一句，其实是句明白的谎话。</span><span class="english">The somehow bit, by the way, is a blatant lie.</span></p>

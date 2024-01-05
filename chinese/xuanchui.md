@@ -1,5 +1,7 @@
 # 悬垂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanchui.md)
+
 <p><span class="chinese">有一块岩石悬垂在绝壁之上。</span><span class="english">A rock overhangs out of the cliff.</span></p>
 
 <p><span class="chinese">有玫瑰花悬垂其上的花园围墙。</span><span class="english">The walls of the garden overhung with roses.</span></p>

@@ -1,5 +1,7 @@
 # 牛蒡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niubang.md)
+
 <p><span class="chinese">野莴苣与牛蒡花。</span><span class="english">Wild mustard green and burdock.</span></p>
 
 <p><span class="chinese">牛蒡为强力的净血剂。</span><span class="english">Burdock is a powerful blood purifier.</span></p>

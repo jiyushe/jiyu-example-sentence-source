@@ -1,5 +1,7 @@
 # evidential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evidential.md)
+
 <p><span class="chinese">将融合识别结果与基于D-S理论的方法进行了比较。</span><span class="english">And we also compare the result with that based on D-S evidential theory.</span></p>
 
 <p><span class="chinese">首先论述了侗族合唱音乐具有可考的悠久历史。</span><span class="english">Firstly, the article expounds that chorus music's long history is evidential.</span></p>

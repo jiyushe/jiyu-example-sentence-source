@@ -1,5 +1,7 @@
 # conceive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceive.md)
+
 <p><span class="chinese">构思新项目。</span><span class="english">Conceive New Project.</span></p>
 
 <p><span class="chinese">埃丝特不能生育。</span><span class="english">Esther could not conceive.</span></p>

@@ -1,5 +1,7 @@
 # mazu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mazu.md)
+
 <p><span class="chinese">那为了表示对妈祖的尊敬。</span><span class="english">To show their respect for Mazu.</span></p>
 
 <p><span class="chinese">等她把这些书都读完之后呢。</span><span class="english">So Mazu read one book after another.</span></p>

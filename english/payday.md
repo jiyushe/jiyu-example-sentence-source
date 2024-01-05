@@ -1,5 +1,7 @@
 # payday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payday.md)
+
 <p><span class="chinese">发工资那天我总是要出去吃一顿。</span><span class="english">I always eat out on my payday.</span></p>
 
 <p><span class="chinese">赚钱快的项目发薪。</span><span class="english">Make Money Fast With Project Payday.</span></p>

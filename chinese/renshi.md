@@ -1,5 +1,7 @@
 # 人世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshi.md)
+
 <p><span class="chinese">1910年，他离开了人世。</span><span class="english">He died in 1910.</span></p>
 
 <p><span class="chinese">人世沧桑就是如此。</span><span class="english">So the world wags.</span></p>

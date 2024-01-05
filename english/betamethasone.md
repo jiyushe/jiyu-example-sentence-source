@@ -1,5 +1,7 @@
 # betamethasone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betamethasone.md)
+
 <p><span class="chinese">倍他米松可能只获得了处方。</span><span class="english">Betamethasone may only be obtained by prescription.</span></p>
 
 <p><span class="chinese">使用倍他米松应监督医生。</span><span class="english">Use of betamethasone should be monitored by a physician.</span></p>

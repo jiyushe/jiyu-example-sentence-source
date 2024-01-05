@@ -1,5 +1,7 @@
 # endarterectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endarterectomy.md)
+
 <p><span class="chinese">通过在颈部切口去除内膜上的脂肪斑块。</span><span class="english">Endarterectomy removes fatty plaque through an incision in the neck.</span></p>
 
 <p><span class="chinese">目的探讨动脉内膜剥脱术治疗下肢缺血性疾病。</span><span class="english">Objective To treat ischemia of the lower extremity, endarterectomy was performed.</span></p>

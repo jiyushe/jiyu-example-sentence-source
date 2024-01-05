@@ -1,5 +1,7 @@
 # 家乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxiang_4.md)
+
 <p><span class="chinese">我爱我的家乡。</span><span class="english">I love my home town.</span></p>
 
 <p><span class="chinese">海门市是我的家乡。</span><span class="english">Haimen is my hometown.</span></p>

@@ -1,5 +1,7 @@
 # momenta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/momenta.md)
+
 <p><span class="chinese">共轭动量正好是磁场强度矢量。</span><span class="english">The conjugate momenta of the system are just magnetic field vectors.</span></p>
 
 <p><span class="chinese">此外，轴外传输的孤子会获得附加的角动量。</span><span class="english">Moreover, additional angular momenta are added to the off-axis propagating solitons.</span></p>

@@ -1,5 +1,7 @@
 # twice  
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twice.md)
+
 <p><span class="chinese">一天中要充两次电。</span><span class="english">Or twice a day.</span></p>
 
 <p><span class="chinese">下了两次雪。</span><span class="english">It snowed twice.</span></p>

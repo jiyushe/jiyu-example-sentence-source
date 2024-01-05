@@ -1,5 +1,7 @@
 # venice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venice.md)
+
 <p><span class="chinese">我变老了，水城也是。</span><span class="english">I was older, so was Venice.</span></p>
 
 <p><span class="chinese">他们在威尼斯度了蜜月。</span><span class="english">They honeymooned in Venice.</span></p>

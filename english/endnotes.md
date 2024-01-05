@@ -1,5 +1,7 @@
 # endnotes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endnotes.md)
+
 <p><span class="chinese">教授正在为这段难懂的文字添加尾注。</span><span class="english">The professor is adding endnotes to this difficult paragraph.</span></p>
 
 <p><span class="chinese">您只能在第一个框架集中插入脚注或尾注。</span><span class="english">You can only insert footnotes or endnotes into the first frameset.</span></p>

@@ -1,5 +1,7 @@
 # deoxidization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deoxidization.md)
+
 <p><span class="chinese">氢气还原活化效果明显优于环己烯还原效果。</span><span class="english">The deoxidization effect with hydrogen was superior to that with cyclohexene.</span></p>
 
 <p><span class="chinese">氢气还原活化效果明显优于环己烯还原效果。</span><span class="english">The deoxidization effect with hydrogen was superior to that with cyclohexene.</span></p>

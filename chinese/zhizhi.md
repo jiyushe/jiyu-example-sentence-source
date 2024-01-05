@@ -1,5 +1,7 @@
 # 吱吱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhi.md)
+
 <p><span class="chinese">不要把门弄得吱吱地响。</span><span class="english">Don't creak the door.</span></p>
 
 <p><span class="chinese">小鸟吱吱喳喳地叫着。</span><span class="english">The birds are chirping.</span></p>

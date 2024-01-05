@@ -1,5 +1,7 @@
 # 舆论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulun.md)
+
 <p><span class="chinese">即行动始于舆论。</span><span class="english">Actions proceed from opinions.</span></p>
 
 <p><span class="chinese">公众舆论也许会一致起来。</span><span class="english">The public opinion may solidify.</span></p>

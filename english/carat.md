@@ -1,5 +1,7 @@
 # carat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carat.md)
+
 <p><span class="chinese">克拉。</span><span class="english">Carat.</span></p>
 
 <p><span class="chinese">克拉基里的公主！</span><span class="english">The princess in the carat radicle!</span></p>

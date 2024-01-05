@@ -1,5 +1,7 @@
 # zircon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zircon.md)
+
 <p><span class="chinese">十二月--绿松石或锆石</span><span class="english">December -- Turquoise or Blue Zircon</span></p>
 
 <p><span class="chinese">锆石比其他宝石材料的脆性高。</span><span class="english">Zircon is most brittle than other gem materials.</span></p>

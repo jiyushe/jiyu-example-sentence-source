@@ -1,5 +1,7 @@
 # mal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mal.md)
+
 <p><span class="chinese">真相就是，你无法控制你潜意识里的茉儿。</span><span class="english">The truth that Mal is bursting through your subconscious.</span></p>
 
 <p><span class="chinese">在玛拉基书3，1-4中，耶稣的行为想要传达什麽。</span><span class="english">In the context of Mal 3.1-4, what does Jesus' action convey.</span></p>

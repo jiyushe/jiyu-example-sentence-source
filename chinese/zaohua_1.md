@@ -1,5 +1,7 @@
 # 造化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaohua_1.md)
+
 <p><span class="chinese">出生的造化。</span><span class="english">the accident of birth.</span></p>
 
 <p><span class="chinese">我是独一无二的造化。</span><span class="english">I am a unique creature.</span></p>

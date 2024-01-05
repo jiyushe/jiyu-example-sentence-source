@@ -1,5 +1,7 @@
 # crummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crummy.md)
+
 <p><span class="chinese">多倒运的一天。</span><span class="english">What a crummy day.</span></p>
 
 <p><span class="chinese">多倒运的一天。</span><span class="english">What"s a crummy day."</span></p>

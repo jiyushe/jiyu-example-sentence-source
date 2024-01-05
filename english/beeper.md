@@ -1,5 +1,7 @@
 # beeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beeper.md)
+
 <p><span class="chinese">你有呼机吗？是的，我有。</span><span class="english">Do you have a beeper? Yes, I do.</span></p>
 
 <p><span class="chinese">找到一个寻呼机和存款它的起源。</span><span class="english">Find a beeper and deposit it on the origin.</span></p>

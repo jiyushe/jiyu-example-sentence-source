@@ -1,5 +1,7 @@
 # 题诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tishi_2.md)
+
 <p><span class="chinese">尝作墨竹，题诗寄意，并皆佳妙。</span><span class="english">Taste for bamboo, a poem to express his and all Jiamiao.</span></p>
 
 <p><span class="chinese">欲知松老看尘壁，死却题诗几许人。</span><span class="english">For more information see the dust loose old walls, and death poem dash of people.</span></p>

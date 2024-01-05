@@ -1,5 +1,7 @@
 # 见怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianguai.md)
+
 <p><span class="chinese">等上十分钟你不会见怪吧?</span><span class="english">Do you mind waiting for ten minutes?</span></p>
 
 <p><span class="chinese">我只能给你小小的意思一下，不要见怪。</span><span class="english">I’d like to give you a little extra.</span></p>

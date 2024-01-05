@@ -1,5 +1,7 @@
 # creditable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creditable.md)
+
 <p><span class="chinese">这个学生在这篇短论上所作的努力值得赞扬。</span><span class="english">The student made a creditable effort on the essay.</span></p>
 
 <p><span class="chinese">好价格将是可信的商业合作伙伴。</span><span class="english">Good price will be for creditable business partner.</span></p>

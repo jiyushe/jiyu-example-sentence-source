@@ -1,5 +1,7 @@
 # abhor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abhor.md)
+
 <p><span class="chinese">我痛恨那些打笔战的人。</span><span class="english">I abhor people who wage paper-warfare.</span></p>
 
 <p><span class="chinese">我厌恶自己，在尘土和炉灰中懊悔。</span><span class="english">I abhor myself and repent in dust and ashes.</span></p>

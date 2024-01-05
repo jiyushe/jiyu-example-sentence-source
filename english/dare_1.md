@@ -1,5 +1,7 @@
 # dare 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dare_1.md)
+
 <p><span class="chinese">我们敢么？</span><span class="english">Dare we?</span></p>
 
 <p><span class="chinese">我们敢吗？</span><span class="english">Do we dare?</span></p>

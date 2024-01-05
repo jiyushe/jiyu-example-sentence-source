@@ -1,5 +1,7 @@
 # provident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provident.md)
+
 <p><span class="chinese">及早和有预见性的恐惧，是安全之母。</span><span class="english">Early and provident fear is the mother of safety.</span></p>
 
 <p><span class="chinese">深谋远虑的人为家庭贮蓄钱财。</span><span class="english">Provident men lay aside money for their families.</span></p>

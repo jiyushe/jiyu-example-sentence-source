@@ -1,5 +1,7 @@
 # boh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boh.md)
+
 <p><span class="chinese">BOH型适用于中厚料、厚料。</span><span class="english">BOH in applying to thick makings, thick makings.</span></p>
 
 <p><span class="chinese">她的邻居来问“为什么没去派对？”</span><span class="english">Her neighbour came over and ask, 'Eh, an-zhua lu boh kee party?</span></p>

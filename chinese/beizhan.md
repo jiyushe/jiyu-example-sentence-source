@@ -1,5 +1,7 @@
 # 备战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beizhan.md)
+
 <p><span class="chinese">鼓手们击备战鼓。</span><span class="english">The drummer beat the soldiers to arms.</span></p>
 
 <p><span class="chinese">一种备战的意图在她的心里起伏。</span><span class="english">A substratum of war stirred within her.</span></p>

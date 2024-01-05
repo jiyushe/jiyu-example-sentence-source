@@ -1,5 +1,7 @@
 # 顽固不化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangubuhua.md)
+
 <p><span class="chinese">男人是如此可笑的死脑筋和顽固不化。</span><span class="english">Men are ridiculously pig-headed and stubborn.</span></p>
 
 <p><span class="chinese">尽管我有点顽固不化甚至有点象出土文物。</span><span class="english">Even though Im ancient and somewhat of a relic.</span></p>

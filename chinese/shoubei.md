@@ -1,5 +1,7 @@
 # 手背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoubei.md)
+
 <p><span class="chinese">他用手背抹抹嘴。</span><span class="english">He rubbed the ointment on.</span></p>
 
 <p><span class="chinese">我很熟悉这片土地，就像熟悉我的手背一样。</span><span class="english">I know the area like the back of my hand.</span></p>

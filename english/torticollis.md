@@ -1,5 +1,7 @@
 # torticollis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torticollis.md)
+
 <p><span class="chinese">研究对象电视性斜颈儿童30例，正常儿童30例。</span><span class="english">Participant 30 children with TV torticollis and 30 normal children.</span></p>
 
 <p><span class="chinese">探讨推拿治疗小儿肌性斜颈的临床疗效。</span><span class="english">To explore the clinical effect of treating children muscular torticollis with massage.</span></p>

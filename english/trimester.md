@@ -1,5 +1,7 @@
 # trimester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trimester.md)
+
 <p><span class="chinese">特别是在怀孕终期。</span><span class="english">Especially during the final trimester.</span></p>
 
 <p><span class="chinese">在怀孕的前三个月要去看眼科医生。</span><span class="english">See your eye doctor within the first trimester of pregnancy.</span></p>

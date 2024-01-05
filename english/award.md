@@ -1,5 +1,7 @@
 # award 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/award.md)
+
 <p><span class="chinese">我想得那个奖。</span><span class="english">I wanted that award.</span></p>
 
 <p><span class="chinese">诺贝尔奖冇嚸诎亽噫外。</span><span class="english">And a surprise Nobel award.</span></p>

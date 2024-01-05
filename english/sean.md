@@ -1,5 +1,7 @@
 # sean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sean.md)
+
 <p><span class="chinese">这就是。</span><span class="english">Sean This is Sean.</span></p>
 
 <p><span class="chinese">但这并不意味着马宏升是个坏孩子。</span><span class="english">Not that Sean was a bad kid.</span></p>

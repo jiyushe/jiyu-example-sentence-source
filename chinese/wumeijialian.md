@@ -1,5 +1,7 @@
 # 物美价廉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumeijialian.md)
+
 <p><span class="chinese">很明显，这个女人知道能从哪里买到物美价廉的东西！</span><span class="english">The woman knows where to get a deal!</span></p>
 
 <p><span class="chinese">这个白玉挂件真的是物美价廉。</span><span class="english">This white jade pendant is a good buy.</span></p>

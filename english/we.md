@@ -1,5 +1,7 @@
 # we
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/we.md)
+
 <p><span class="chinese">我们敢么？</span><span class="english">Dare we?</span></p>
 
 <p><span class="chinese">我们就去”。</span><span class="english">We went.</span></p>

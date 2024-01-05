@@ -1,5 +1,7 @@
 # 科级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keji_2.md)
+
 <p><span class="chinese">差异表明科级位错误的发生。</span><span class="english">Differences indicate the occurrence of section-level bit errors.</span></p>
 
 <p><span class="chinese">而科级水平的聚类反映出人工紫胶林和天然紫胶林更接近。</span><span class="english">While at the family level, plantation forest was close to natural forest.</span></p>

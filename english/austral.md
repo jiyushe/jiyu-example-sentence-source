@@ -1,5 +1,7 @@
 # austral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austral.md)
+
 <p><span class="chinese">沿南大路的规划没有看到过。</span><span class="english">The program of the highroad austral the edge had not seen.</span></p>
 
 <p><span class="chinese">奥斯特拉尔航空公司计划从2014年起运作该航班。</span><span class="english">Air Austral plans to start operating the flights from 2014.</span></p>

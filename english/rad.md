@@ -1,5 +1,7 @@
 # rad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rad.md)
+
 <p><span class="chinese">超剂量照射人员中，最大累积吸收剂量为160.89拉德。</span><span class="english">The maximum load dosage was 160.89 rad.</span></p>
 
 <p><span class="chinese">RAD为内存泄漏分析提供了以下视图</span><span class="english">RAD offers the following views for memory leak analysis</span></p>

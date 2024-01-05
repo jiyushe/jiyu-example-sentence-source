@@ -1,5 +1,7 @@
 # 燎原之势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoyuanzhishi.md)
+
 <p><span class="chinese">无论出于何种原因，总之到2002年以后沃尔恰的网络犯罪已经成为了燎原之势。</span><span class="english">Whatever the reason, online crime was widespread by 2002.</span></p>
 
 <p><span class="chinese">这个举动就像一颗火种点燃了牛仔诗的复兴，并以燎原之势传遍了草原。</span><span class="english">That sparked a revival that has spread like fire through mustard grass.</span></p>

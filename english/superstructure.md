@@ -1,5 +1,7 @@
 # superstructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superstructure.md)
+
 <p><span class="chinese">穿过上层建筑。</span><span class="english">Go through superstructure.</span></p>
 
 <p><span class="chinese">上层建筑用水冷却。</span><span class="english">Cool down superstructure with water.</span></p>

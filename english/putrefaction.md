@@ -1,5 +1,7 @@
 # putrefaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putrefaction.md)
+
 <p><span class="chinese">腐败的属于，有关腐败的，或以腐败为特点的。</span><span class="english">Of, relating to, or characterized by putrefaction.</span></p>
 
 <p><span class="chinese">发酵作用于腐败作用有明显区别。</span><span class="english">There is a clear difference between fermentation and putrefaction.</span></p>

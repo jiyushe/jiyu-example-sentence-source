@@ -1,5 +1,7 @@
 # chirp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chirp.md)
+
 <p><span class="chinese">夜里蟋蟀在林中唧唧地叫。</span><span class="english">At night the crickets chirp in the woods.</span></p>
 
 <p><span class="chinese">鸟儿在枝头欢快地啾啾鸣唱。</span><span class="english">The birds chirp merrily at the top of tree.</span></p>

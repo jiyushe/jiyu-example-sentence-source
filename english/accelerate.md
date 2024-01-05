@@ -1,5 +1,7 @@
 # accelerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accelerate.md)
+
 <p><span class="chinese">加速衰老的种种积习。</span><span class="english">Practices that accelerate ageing lift.</span></p>
 
 <p><span class="chinese">游戏用左右键移动，下键加速。</span><span class="english">Key game around with mobile, keys accelerate.</span></p>

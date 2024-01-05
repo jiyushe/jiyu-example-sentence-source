@@ -1,5 +1,7 @@
 # sdram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sdram.md)
+
 <p><span class="chinese">视频数据流通过该控制器接收，然后存入片外SDRAM中。</span><span class="english">Video data stream is stored into SDRAM via It's controller.</span></p>
 
 <p><span class="chinese">经由字幕解码器，字幕可以被存入片外SDRAM。</span><span class="english">By the subtitle decoder, the subtitles will be held in SDRAM in the receiver.</span></p>

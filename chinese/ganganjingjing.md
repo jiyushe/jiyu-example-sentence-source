@@ -1,5 +1,7 @@
 # 干干净净
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganganjingjing.md)
+
 <p><span class="chinese">这个老人干干净净。</span><span class="english">This old man is clean.</span></p>
 
 <p><span class="chinese">它的表面还是干干净净的。</span><span class="english">Its surface is still clean.</span></p>

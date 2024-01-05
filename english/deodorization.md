@@ -1,5 +1,7 @@
 # deodorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deodorization.md)
+
 <p><span class="chinese">污水处理场、焚化炉废气除臭。</span><span class="english">Deodorization of sewage treatment plant incinerator flue gas.</span></p>
 
 <p><span class="chinese">第二部分为蚯蚓粪实验室除臭效果的研究。</span><span class="english">On the second phase, the deodorization effect of wormcast was researched in the laboratory.</span></p>

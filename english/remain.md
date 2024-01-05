@@ -1,5 +1,7 @@
 # remain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remain.md)
+
 <p><span class="chinese">他屈伏下去了吗？</span><span class="english">Did he remain bowed?</span></p>
 
 <p><span class="chinese">他们依旧无知。</span><span class="english">They remain ignorant.</span></p>

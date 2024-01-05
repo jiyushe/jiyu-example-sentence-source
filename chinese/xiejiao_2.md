@@ -1,5 +1,7 @@
 # 邪教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiejiao_2.md)
+
 <p><span class="chinese">邪教是假借宗教名义。</span><span class="english">The cults borrow the religious name.</span></p>
 
 <p><span class="chinese">邪教都有一些相同的特点，作为支派。</span><span class="english">Cults have some of the same characteristics as sects.</span></p>

@@ -1,5 +1,7 @@
 # cns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cns.md)
+
 <p><span class="chinese">主要发生于少年儿童。</span><span class="english">CNS GCTs predominantly occur in children and adolescents.</span></p>
 
 <p><span class="chinese">这提示可卡因的神经毒性作用具有长时程效应。</span><span class="english">From above, we can cue that cocaine has long toxicity effect on CNS.</span></p>

@@ -1,5 +1,7 @@
 # concentration 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentration.md)
+
 <p><span class="chinese">这是浓度。</span><span class="english">This is concentration.</span></p>
 
 <p><span class="chinese">这是我们的初始浓度。</span><span class="english">This is our initial concentration.</span></p>

@@ -1,5 +1,7 @@
 # doxorubicin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doxorubicin.md)
+
 <p><span class="chinese">使用蒽环类药物阿霉素是限制其心脏毒性。</span><span class="english">The use of the anthracycline doxorubicin is restricted by its cardiac toxicity.</span></p>
 
 <p><span class="chinese">研究化疗药物阿霉素在磁性纳米微球表面的吸脱附行为。</span><span class="english">The adsorption behavior of chemotherapy doxorubicin on magnetic nanoparticles was studied.</span></p>

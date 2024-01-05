@@ -1,5 +1,7 @@
 # 人和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renhe.md)
+
 <p><span class="chinese">那正是我们所谈的这个人和珂赛特。</span><span class="english">It was our man and Cosette.</span></p>
 
 <p><span class="chinese">人和马都疲惫不堪了。</span><span class="english">Men and horses werepretty done.</span></p>

@@ -1,5 +1,7 @@
 # 禁地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jindi.md)
+
 <p><span class="chinese">我青不自禁地回首我的过去。</span><span class="english">I can't help looking back on my past.</span></p>
 
 <p><span class="chinese">但即使他下榻的不再是禁地。</span><span class="english">But even his Airness is no longer off limits.</span></p>

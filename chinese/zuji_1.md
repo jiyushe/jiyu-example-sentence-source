@@ -1,5 +1,7 @@
 # 足迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuji_1.md)
+
 <p><span class="chinese">抹去沙滩人足迹。</span><span class="english">Efface the footprints in the sands.</span></p>
 
 <p><span class="chinese">落叶覆盖，没有人的足迹。</span><span class="english">In leaves no step ahd trodden black.</span></p>

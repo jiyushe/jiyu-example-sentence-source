@@ -1,5 +1,7 @@
 # 寻机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunji.md)
+
 <p><span class="chinese">而当真正的敌人前来寻机行恶时，你要勇敢地抵制他。</span><span class="english">And yet, when a real enemy comes, and seeks to do evil, be brave to resist him.</span></p>
 
 <p><span class="chinese">但鉴于局势的严重性，仅仅靠寻机性会计行为和骗取市场信任是不够的。</span><span class="english">But the seriousness of the situation deserved more than creative accounting and confidence tricks.</span></p>

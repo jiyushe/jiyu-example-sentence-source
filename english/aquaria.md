@@ -1,5 +1,7 @@
 # aquaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquaria.md)
+
 <p><span class="chinese">冰块水族缸。</span><span class="english">Ice aquaria.</span></p>
 
 <p><span class="chinese">高科技水族缸。</span><span class="english">Hi-tech aquaria.</span></p>

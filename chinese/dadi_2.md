@@ -1,5 +1,7 @@
 # 大帝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadi_2.md)
+
 <p><span class="chinese">公元前44年，凯撒大帝被刺。</span><span class="english">BC 44, Julius Caesar was stabbed.</span></p>
 
 <p><span class="chinese">则是凯撒大帝唯一和合法的儿子！</span><span class="english">Legitimate and only son of great Caesar!</span></p>

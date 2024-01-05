@@ -1,5 +1,7 @@
 # macao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macao.md)
+
 <p><span class="chinese">澳门于1999年不谈政治说英语早日回归祖国怀抱祖国。</span><span class="english">Macao came back to China in 1999.</span></p>
 
 <p><span class="chinese">澳门立法院选举开始投票。</span><span class="english">Macao kicks off legislative election.</span></p>

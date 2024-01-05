@@ -1,5 +1,7 @@
 # straggly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straggly.md)
+
 <p><span class="chinese">声音从一片稀稀拉拉的杂树林中传来。</span><span class="english">The voices were coming from a copse of straggly trees.</span></p>
 
 <p><span class="chinese">伦敦的例行表演中登场的那些舞者简直就是群丑跳梁。</span><span class="english">The dancing was a bit straggly in the " London " routine.</span></p>

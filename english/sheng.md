@@ -1,5 +1,7 @@
 # sheng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheng.md)
+
 <p><span class="chinese">新声在演“甘地”。</span><span class="english">Gandhi is at the Hsin Sheng.</span></p>
 
 <p><span class="chinese">没碗怎么盛菜呢？</span><span class="english">How Sheng Cai does not bowl?</span></p>

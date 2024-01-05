@@ -1,5 +1,7 @@
 # 无知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhi_1.md)
+
 <p><span class="chinese">他们依旧无知。</span><span class="english">They remain ignorant.</span></p>
 
 <p><span class="chinese">他的无知让我震惊。</span><span class="english">His ignorance appals me.</span></p>

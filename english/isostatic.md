@@ -1,5 +1,7 @@
 # isostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isostatic.md)
+
 <p><span class="chinese">均衡校正实际上是地壳厚薄不均的校正。</span><span class="english">The isostatic correction is actually the correction for crust thickness.</span></p>
 
 <p><span class="chinese">在均衡校正中有时将其作为软流层的顶部。</span><span class="english">Involved in isostatic correction sometimes taken as the top of the asthenosphere.</span></p>

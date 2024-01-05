@@ -1,5 +1,7 @@
 # mio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mio.md)
+
 <p><span class="chinese">欢迎来到秋山澪粉丝俱乐部！</span><span class="english">Welcome to Akiyama Mio Fan Club!</span></p>
 
 <p><span class="chinese">罗莎，让我介绍一下我的朋友。</span><span class="english">Rosa, permíteme presentarte a un amigo mío.</span></p>

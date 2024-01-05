@@ -1,5 +1,7 @@
 # 染病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranbing.md)
+
 <p><span class="chinese">他们可能会因这样做而染病。</span><span class="english">In doing so they would be inviting disease.</span></p>
 
 <p><span class="chinese">在接下来的几天里，有更多病人死去，还有更多人染病。</span><span class="english">The next few days, more patients died and still more fell ill.</span></p>

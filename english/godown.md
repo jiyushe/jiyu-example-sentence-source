@@ -1,5 +1,7 @@
 # godown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godown.md)
+
 <p><span class="chinese">我们等待风势减弱。</span><span class="english">We waited for the wind to godown.</span></p>
 
 <p><span class="chinese">出版商以前走过应用之路。</span><span class="english">Publishers have godown the app road before.</span></p>

@@ -1,5 +1,7 @@
 # disease 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disease.md)
+
 <p><span class="chinese">肺病。</span><span class="english">Lung disease.</span></p>
 
 <p><span class="chinese">疾病和灾荒？</span><span class="english">Disease and famine?</span></p>

@@ -1,5 +1,7 @@
 # industrialisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialisation.md)
+
 <p><span class="chinese">中国的工业化仍处于中期发展阶段。</span><span class="english">China's industrialisation is still at the mid-stage.</span></p>
 
 <p><span class="chinese">安德?瓦伦堡是瑞典工业化的融资者。</span><span class="english">Andr é Wallenberg was the financier of Sweden's industrialisation.</span></p>

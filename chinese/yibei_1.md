@@ -1,5 +1,7 @@
 # 椅背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibei_1.md)
+
 <p><span class="chinese">向上滚动盖至座位椅背的顶上。</span><span class="english">Roll cover upward to top of seat back.</span></p>
 
 <p><span class="chinese">从闩眼放松座椅背锁闩。</span><span class="english">Release the seatback latch from the striker.</span></p>

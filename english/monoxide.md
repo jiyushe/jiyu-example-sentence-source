@@ -1,5 +1,7 @@
 # monoxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monoxide.md)
+
 <p><span class="chinese">一氧化碳是一种危险的燃烧产物。</span><span class="english">Carbon monoxide is a dangerous product of fire.</span></p>
 
 <p><span class="chinese">一氧化碳中毒，马钱子碱，窒息。</span><span class="english">Carbon monoxide poisoning, Strychnine, suffocation.</span></p>

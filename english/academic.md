@@ -1,5 +1,7 @@
 # academic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academic.md)
+
 <p><span class="chinese">克鲁格曼是纯粹的学院派。</span><span class="english">Krugman is an academic.</span></p>
 
 <p><span class="chinese">那是纯理论的观点。</span><span class="english">That's an academic point.</span></p>

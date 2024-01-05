@@ -1,5 +1,7 @@
 # 早市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoshi.md)
+
 <p><span class="chinese">早市旁边的厕所总是不干净。</span><span class="english">The john by the morning market is always dirty.</span></p>
 
 <p><span class="chinese">逛早市已成为许多北京人的习惯。</span><span class="english">Many people in Peking have made morning shopping a hobby.</span></p>

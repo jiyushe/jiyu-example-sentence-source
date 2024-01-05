@@ -1,5 +1,7 @@
 # edmond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edmond.md)
+
 <p><span class="chinese">所有描述爱德蒙唐太斯性格。</span><span class="english">All describe the character of Edmond Dantes.</span></p>
 
 <p><span class="chinese">这封信让埃德蒙心痛和想家。</span><span class="english">The letter had made Edmond heart sick and home sick.</span></p>

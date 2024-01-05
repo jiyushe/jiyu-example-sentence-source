@@ -1,5 +1,7 @@
 # 奉陪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengpei.md)
+
 <p><span class="chinese">随时奉陪！</span><span class="english">Anytime!</span></p>
 
 <p><span class="chinese">假如你要坚持到底，那么我也将奉陪。</span><span class="english">If you insist then I'll endure it.</span></p>

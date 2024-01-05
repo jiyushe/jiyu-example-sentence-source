@@ -1,5 +1,7 @@
 # buggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buggy.md)
+
 <p><span class="chinese">这个是。</span><span class="english">buggy3 This is buggy three.</span></p>
 
 <p><span class="chinese">租上一辆马车，花上六十戈比。</span><span class="english">Go rent a buggy. For six grivnas.</span></p>

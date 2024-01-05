@@ -1,5 +1,7 @@
 # 误伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushang_3.md)
+
 <p><span class="chinese">要不然也可能会误伤好人和平民。</span><span class="english">Or you might fritz the good guys and civilians by mistake.</span></p>
 
 <p><span class="chinese">纵然你是从炫丽的彩虹一端滑下来，也还是有被擦破误伤的可能的。</span><span class="english">Sometimes you can get a splinter even sliding down a rainbow.</span></p>

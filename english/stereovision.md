@@ -1,5 +1,7 @@
 # stereovision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereovision.md)
+
 <p><span class="chinese">建立了适合本研究的立体视觉系统。</span><span class="english">A suitable stereovision system was set up for this research.</span></p>
 
 <p><span class="chinese">探讨共同性内斜视对立体视觉的影响。</span><span class="english">To investigate the influence of concomitant esotropia on stereovision.</span></p>

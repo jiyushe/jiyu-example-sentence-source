@@ -1,5 +1,7 @@
 # 热力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reli.md)
+
 <p><span class="chinese">激情洋溢，充满活力，热力四射。</span><span class="english">Exude Passion, Energy, and Enthusiasm.</span></p>
 
 <p><span class="chinese">阳光热力渐强，天气也日渐温暖。</span><span class="english">Warmer grow the sunbeams , and softer the air.</span></p>

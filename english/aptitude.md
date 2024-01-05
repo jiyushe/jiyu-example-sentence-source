@@ -1,5 +1,7 @@
 # aptitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aptitude.md)
+
 <p><span class="chinese">她表现出她的天资并不令人感到奇怪。</span><span class="english">It’s no surprise that she shows an aptitude.</span></p>
 
 <p><span class="chinese">他们正在发能力倾向测验的表格。</span><span class="english">They're handing out forms for an aptitude test.</span></p>

@@ -1,5 +1,7 @@
 # spherically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spherically.md)
+
 <p><span class="chinese">球差透镜对高斯光束质量的影响。</span><span class="english">Effect of spherically aberrated lens on beam quality.</span></p>
 
 <p><span class="chinese">从图1可以看出，一个有球差的透镜是没有严格意义的、清晰的焦点的。</span><span class="english">From Fig . 1 it appears that a spherically aberrated lens has no well-defined focus.</span></p>

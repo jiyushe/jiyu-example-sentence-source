@@ -1,5 +1,7 @@
 # MBA
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mba.md)
+
 <p><span class="chinese">嗯，我不确定MBA。</span><span class="english">Well, I'm not sure MBA.</span></p>
 
 <p><span class="chinese">你为什么觉得MBA好呢？</span><span class="english">Why do you think the MBA is good?</span></p>

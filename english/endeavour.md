@@ -1,5 +1,7 @@
 # endeavour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endeavour.md)
+
 <p><span class="chinese">我们应当希望中国这次的努力富有成效。</span><span class="english">We should wish China well in this endeavour.</span></p>
 
 <p><span class="chinese">我们会致力促进公平竞争。</span><span class="english">We will endeavour to promote fair competition.</span></p>

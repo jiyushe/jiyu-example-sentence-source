@@ -1,5 +1,7 @@
 # 日日夜夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ririyeye.md)
+
 <p><span class="chinese">这个念头日日夜夜咬着她的心。</span><span class="english">This thought gnawed her night and day.</span></p>
 
 <p><span class="chinese">黄河日日夜夜地奔腾不息。</span><span class="english">The Yellow River rolls on day and night.</span></p>

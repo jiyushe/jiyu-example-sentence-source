@@ -1,5 +1,7 @@
 # infraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infraction.md)
+
 <p><span class="chinese">你说的好像是交通违规似的。</span><span class="english">You make it sound like a traffic infraction.</span></p>
 
 <p><span class="chinese">田亮没有为他所谓的违反规定而道歉。</span><span class="english">Tian did not apologize for his alleged infraction.</span></p>

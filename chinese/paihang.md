@@ -1,5 +1,7 @@
 # 排行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paihang.md)
+
 <p><span class="chinese">她在四姐妹中排行第二。</span><span class="english">She was the second of four daughters.</span></p>
 
 <p><span class="chinese">台北市排行第廿八名。</span><span class="english">Taipei City was ranked 28th on the list.</span></p>

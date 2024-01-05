@@ -1,5 +1,7 @@
 # 枢机主教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujizhujiao.md)
+
 <p><span class="chinese">当地枢机主教费迪南·派里埃一开始持怀疑态度。</span><span class="english">The local Archbishop, Ferdinand Périer, was initially skeptical.</span></p>
 
 <p><span class="chinese">今天，教皇弗郎西斯在梵蒂冈西廷斯教堂主持了首场弥撒仪式，众多枢机主教参加。</span><span class="english">At the Vatican today, Pope Francis led his first mass for cardinals in the Sistine Chapel.</span></p>

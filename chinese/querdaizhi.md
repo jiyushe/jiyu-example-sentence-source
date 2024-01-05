@@ -1,5 +1,7 @@
 # 取而代之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/querdaizhi.md)
+
 <p><span class="chinese">因此大卫-戴恩将取而代之。</span><span class="english">So it'll be David Dein instead.</span></p>
 
 <p><span class="chinese">取而代之，他们转向模型。</span><span class="english">Instead, they turn to the model.</span></p>

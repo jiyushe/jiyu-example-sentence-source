@@ -1,5 +1,7 @@
 # 顾全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guquan_1.md)
+
 <p><span class="chinese">其次，他充分显出他的骄傲和顾全面子。</span><span class="english">Secondly his pride seems to have shown up very badly.</span></p>
 
 <p><span class="chinese">为了顾全面子，玛丽对于经理的侮辱只好忍气吞声。</span><span class="english">For saving face Mary had to choke down the manager's insult.</span></p>

@@ -1,5 +1,7 @@
 # quaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaver.md)
+
 <p><span class="chinese">她这么说时，声音几乎没有颤抖。</span><span class="english">There was the least quaver in her voice as she said this.</span></p>
 
 <p><span class="chinese">午餐八分饱，能够吃一些新颖蔬菜、鱼类和瘦肉。</span><span class="english">Full, can eat lunch quaver some novel vegetable, fish and lean.</span></p>

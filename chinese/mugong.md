@@ -1,5 +1,7 @@
 # 木工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mugong.md)
+
 <p><span class="chinese">他是个木工。</span><span class="english">He is a woodworker.</span></p>
 
 <p><span class="chinese">我学会了做木工。</span><span class="english">Father, I have become a joiner.</span></p>

@@ -1,5 +1,7 @@
 # veronica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veronica.md)
+
 <p><span class="chinese">薇罗尼卡的双重生命。</span><span class="english">The Double Life Of Veronica.</span></p>
 
 <p><span class="chinese">我真是一个大白痴呀我。</span><span class="english">I am so sorry to you Veronica.</span></p>

@@ -1,5 +1,7 @@
 # 偷偷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutou.md)
+
 <p><span class="chinese">你必须把我们偷偷带进去。</span><span class="english">You must sneak us in.</span></p>
 
 <p><span class="chinese">剧作家偷偷溜走了。</span><span class="english">The dramatist sneaked away.</span></p>

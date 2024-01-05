@@ -1,5 +1,7 @@
 # topline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topline.md)
+
 <p><span class="chinese">背线直且平。</span><span class="english">Topline straight and level.</span></p>
 
 <p><span class="chinese">她的整个背线也显得非常精确？</span><span class="english">Her entire topline is so very correct.</span></p>

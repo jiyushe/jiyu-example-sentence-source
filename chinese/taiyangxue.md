@@ -1,5 +1,7 @@
 # 太阳穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangxue.md)
+
 <p><span class="chinese">凯西奥在他太阳穴上摩擦摩擦。</span><span class="english">Cassio. Rub him about the temples.</span></p>
 
 <p><span class="chinese">她太阳穴里血管卜卜跳。</span><span class="english">The blood throbbed in her temples.</span></p>

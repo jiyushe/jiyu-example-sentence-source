@@ -1,5 +1,7 @@
 # 推移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiyi.md)
+
 <p><span class="chinese">但是，随着时间的推移，这一点将会改变。</span><span class="english">But that's going to change over time.</span></p>
 
 <p><span class="chinese">随着时间的推移也会出现一些常数。</span><span class="english">Afew constants also emerged with time.</span></p>

@@ -1,5 +1,7 @@
 # imperfectness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperfectness.md)
+
 <p><span class="chinese">我的不完美可能是你的完美。</span><span class="english">My imperfectness perhaps is your perfectness.</span></p>
 
 <p><span class="chinese">你的不完美可能是我的完美。</span><span class="english">Your imperfectness perhaps is my perfectness.</span></p>

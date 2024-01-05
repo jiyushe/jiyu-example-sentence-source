@@ -1,5 +1,7 @@
 # 飞扬跋扈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyangbahu.md)
+
 <p><span class="chinese">他走的时候脸上飞扬跋扈的样子。</span><span class="english">He walks with an imperious look.</span></p>
 
 <p><span class="chinese">他是一个飞扬跋扈的人。</span><span class="english">He is a domineering sort of fellow.</span></p>

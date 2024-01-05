@@ -1,5 +1,7 @@
 # reis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reis.md)
+
 <p><span class="chinese">保李嘉欣店的创始人的名字。</span><span class="english">Paula Reis is the name of the founder of the store.</span></p>
 
 <p><span class="chinese">李嘉欣的婚礼过亿，够贵了吧。</span><span class="english">Michelle Reis wedding billions of dollars, enough of your bar.</span></p>

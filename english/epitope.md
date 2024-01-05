@@ -1,5 +1,7 @@
 # epitope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epitope.md)
+
 <p><span class="chinese">疏水性分析证明其可能构成一个表位。</span><span class="english">Hydrophobic cluster analysis showed that the peptide was likely to form an epitope.</span></p>
 
 <p><span class="chinese">结论通过首位串联可以实现HEV线性表位较高效的表达。</span><span class="english">ConclusionHigh level expression of epitope from HEV could be achieved by tandem repeats.</span></p>

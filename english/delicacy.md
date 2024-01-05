@@ -1,5 +1,7 @@
 # delicacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delicacy.md)
+
 <p><span class="chinese">豆丹是一种美味佳肴。</span><span class="english">Doudan is a tasty delicacy.</span></p>
 
 <p><span class="chinese">茹斯蒂羊肉是设得兰群岛的美食。</span><span class="english">Reestit mutton is a delicacy of Shetland.</span></p>

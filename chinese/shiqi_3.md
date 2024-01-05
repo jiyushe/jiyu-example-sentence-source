@@ -1,5 +1,7 @@
 # 湿气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqi_3.md)
+
 <p><span class="chinese">“这是湿气在蒸发哩，”乔答。</span><span class="english">"It's the dampness drying, " replied Jo.</span></p>
 
 <p><span class="chinese">因坟头湿气降临我头颅。</span><span class="english">Because of grave-damps falling round my head?</span></p>

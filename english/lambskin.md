@@ -1,5 +1,7 @@
 # lambskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lambskin.md)
+
 <p><span class="chinese">现在已经不用羊皮纸书写文案了。</span><span class="english">Official documents are no longer written on lambskin.</span></p>
 
 <p><span class="chinese">她的脚上穿着一双银色的小羊皮高跟鞋。</span><span class="english">She is wearing a pair of silver lambskin high-heel shoes.</span></p>

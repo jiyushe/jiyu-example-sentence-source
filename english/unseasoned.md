@@ -1,5 +1,7 @@
 # unseasoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseasoned.md)
+
 <p><span class="chinese">雅马哈的工厂在中国是新的，工作人员业务能力不精。</span><span class="english">Yamaha's factory in China is new, with a reletively unseasoned staff.</span></p>
 
 <p><span class="chinese">色拉，现在指未加调味料的一堆蔬菜，也是来自“加了盐的”这层意思。</span><span class="english">Salad, which can now refer to an unseasoned pile of vegetables, also comes from the idea of "salted. ""</span></p>

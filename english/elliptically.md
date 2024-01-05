@@ -1,5 +1,7 @@
 # elliptically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elliptically.md)
+
 <p><span class="chinese">省略两旁扶手，更便于活动。</span><span class="english">Elliptically both sides armrest, more facilitating activity.</span></p>
 
 <p><span class="chinese">素描椭圆。问题三地球围绕太阳的椭圆与太阳作为一个重点。</span><span class="english">Problem 3 The Earth orbits the Sun elliptically with the Sun as one focus.</span></p>

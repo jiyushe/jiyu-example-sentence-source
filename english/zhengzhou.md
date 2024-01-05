@@ -1,5 +1,7 @@
 # zhengzhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zhengzhou.md)
+
 <p><span class="chinese">我去郑州大学。</span><span class="english">I'm going to Zhengzhou University.</span></p>
 
 <p><span class="chinese">郑州机场公司相关负责人说。</span><span class="english">Zhengzhou airport company official said.</span></p>

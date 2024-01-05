@@ -1,5 +1,7 @@
 # 抒怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuhuai.md)
+
 <p><span class="chinese">没有诗人可以抒怀。</span><span class="english">No poet can poet it.</span></p>
 
 <p><span class="chinese">于是，我想了许多，大概是些细微的抒怀，但我却又如此真实和诚恳。</span><span class="english">So, I think a lot of, presumably a slight lyrical, but I'm so real and sincere.</span></p>

@@ -1,5 +1,7 @@
 # evaluation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaluation.md)
+
 <p><span class="chinese">下面我们来说分数</span><span class="english">The evaluation goes like this.</span></p>
 
 <p><span class="chinese">如何在个别讲评竞赛中胜出？</span><span class="english">How to Win the Evaluation Contest?</span></p>

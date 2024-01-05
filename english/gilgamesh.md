@@ -1,5 +1,7 @@
 # gilgamesh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gilgamesh.md)
+
 <p><span class="chinese">故事的开始，是一段对吉尔伽美什的描写。</span><span class="english">The story opens with a description of Gilgamesh.</span></p>
 
 <p><span class="chinese">当Enkidu死了，吉尔伽美什几近崩溃。</span><span class="english">And when Enkidu dies, Gilgamesh is absolutely devastated.</span></p>

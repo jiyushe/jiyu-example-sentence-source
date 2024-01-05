@@ -1,5 +1,7 @@
 # pillared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pillared.md)
+
 <p><span class="chinese">以光柱支撑苍天梦到的他?。</span><span class="english">And pillared the blue firmament with light?</span></p>
 
 <p><span class="chinese">湖的对面是一个有柱廊的小旅店。</span><span class="english">Facing the lake was a little inn with its pillared veranda.</span></p>

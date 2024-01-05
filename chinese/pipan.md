@@ -1,5 +1,7 @@
 # 批判
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipan.md)
+
 <p><span class="chinese">感谢批判者。</span><span class="english">By thanking the critic.</span></p>
 
 <p><span class="chinese">没有批判的关注。</span><span class="english">Notice without critiquing.</span></p>

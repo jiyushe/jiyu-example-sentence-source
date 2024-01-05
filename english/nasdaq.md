@@ -1,5 +1,7 @@
 # nasdaq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasdaq.md)
+
 <p><span class="chinese">纳斯达克上涨了25点在1955点收盘。</span><span class="english">The NASDAQ rose 25 points to close at 1,955.</span></p>
 
 <p><span class="chinese">纳斯达克综合指数下降54点，至2444点。</span><span class="english">The Nasdaq composite index is down 54 at 2, 444.</span></p>

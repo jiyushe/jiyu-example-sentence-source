@@ -1,5 +1,7 @@
 # pledgee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pledgee.md)
+
 <p><span class="chinese">第二百一十八条质权人可以放弃质权。</span><span class="english">Article 218 The pledgee may waive his interest to the pledge.</span></p>
 
 <p><span class="chinese">它对质权人和出质人具有不同的效力。</span><span class="english">Pledgee and the quality of its people have a different effect.</span></p>

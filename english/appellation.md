@@ -1,5 +1,7 @@
 # appellation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appellation.md)
+
 <p><span class="chinese">那些旧的称呼已经没有了。</span><span class="english">The old days appellation no longer existed.</span></p>
 
 <p><span class="chinese">少数菲克辛酿造的红酒也适合这个等级。</span><span class="english">A few wines from Fixin are also in the appellation.</span></p>

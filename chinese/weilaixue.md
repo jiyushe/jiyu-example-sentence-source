@@ -1,5 +1,7 @@
 # 未来学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilaixue.md)
+
 <p><span class="chinese">未来学家说机器人将是我们生活的一大部分。</span><span class="english">Futurists say robots will be a large part of life.</span></p>
 
 <p><span class="chinese">马克思主义辩证法是未来学的方法论。</span><span class="english">Marxist's dialectics is the methodology of the futurology.</span></p>

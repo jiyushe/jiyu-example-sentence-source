@@ -1,5 +1,7 @@
 # 精诚团结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingchengtuanjie.md)
+
 <p><span class="chinese">我们必须让我们的队伍精诚团结，那么如何让我们的队伍精诚团结？</span><span class="english">We must make our team united, and how to make our team united?</span></p>
 
 <p><span class="chinese">打造了一支精诚团结、作风硬朗的专业工作团队，成为业主最为信赖的合作伙伴。</span><span class="english">Since now , we have built up a team of sincerity and profession, who is the most reliable.</span></p>

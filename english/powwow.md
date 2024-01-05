@@ -1,5 +1,7 @@
 # powwow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powwow.md)
+
 <p><span class="chinese">不过，powwow并非一直是会议的意思。</span><span class="english">But a powwow wasn’t always a meeting.</span></p>
 
 <p><span class="chinese">每年九月，公园内会举办一场祈祷仪式。</span><span class="english">Every September, there is a powwow in the park.</span></p>

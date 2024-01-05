@@ -1,5 +1,7 @@
 # fundus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundus.md)
+
 <p><span class="chinese">缡我眼底的悲伤，除了你谁都看得见。</span><span class="english">I fundus of sadness, except for you who can see.</span></p>
 
 <p><span class="chinese">追踪观察视力、眼底、患者自觉视野中心暗影是否消失。</span><span class="english">Changes of vision, fundus and central scotoma were observed.</span></p>

@@ -1,5 +1,7 @@
 # shogun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shogun.md)
+
 <p><span class="chinese">日本首领尊重来访的中国领导人。</span><span class="english">Japan's Shogun to the visiting Emperor of China.</span></p>
 
 <p><span class="chinese">1477年的应仁之乱撼动了古老的幕府统治。</span><span class="english">In 1477, the Onin War let the fall of the old shogun.</span></p>

@@ -1,5 +1,7 @@
 # 邮筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtong_2.md)
+
 <p><span class="chinese">他站在邮筒旁边。</span><span class="english">He stood by the postbox.</span></p>
 
 <p><span class="chinese">大错特错她看起来像一个邮筒。</span><span class="english">Colossal . She looks like a mailbox.</span></p>

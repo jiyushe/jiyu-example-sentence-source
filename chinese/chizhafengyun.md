@@ -1,5 +1,7 @@
 # 叱咤风云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizhafengyun.md)
+
 <p><span class="chinese">不管日后如何叱咤风云，任何人都无法在年少时便预知自身的命运。</span><span class="english">No young man, no matter how great, can know his destiny.</span></p>
 
 <p><span class="chinese">叱咤风云的经理第1部分，让你有机会与外星人的战斗。</span><span class="english">Masterful manager part 1 gives you a chance to battle with aliens.</span></p>

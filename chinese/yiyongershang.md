@@ -1,5 +1,7 @@
 # 一拥而上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyongershang.md)
+
 <p><span class="chinese">卡车停了下来，等候着的人就一拥而上。</span><span class="english">The lorry drew up and the waiting people piled on.</span></p>
 
 <p><span class="chinese">汽车一到，孩子们一拥而上。</span><span class="english">When the bus arrived, the children all piled on it.</span></p>

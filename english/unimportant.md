@@ -1,5 +1,7 @@
 # unimportant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimportant.md)
+
 <p><span class="chinese">删除无关紧要的空话。</span><span class="english">Slough off unimportant verbiage.</span></p>
 
 <p><span class="chinese">你应当删除掉这些不重要的细节。</span><span class="english">You should cut out the unimportant details.</span></p>

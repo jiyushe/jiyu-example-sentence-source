@@ -1,5 +1,7 @@
 # depressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depressed.md)
+
 <p><span class="chinese">还会沮丧消沉</span><span class="english">We get depressed.</span></p>
 
 <p><span class="chinese">她的去世使他意志消沈。</span><span class="english">Her death depressed him.</span></p>

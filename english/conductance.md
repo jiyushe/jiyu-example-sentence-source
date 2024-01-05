@@ -1,5 +1,7 @@
 # conductance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conductance.md)
+
 <p><span class="chinese">用电导法测定食盐中氯化钠的含量。</span><span class="english">Determination of sodium chloride in salt by conductance.</span></p>
 
 <p><span class="chinese">用有效介质理论研究了聚合物改性砂浆界面的电导特性。</span><span class="english">The conductance of PMM was discussed based on the effective media theory.</span></p>

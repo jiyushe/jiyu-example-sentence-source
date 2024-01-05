@@ -1,5 +1,7 @@
 # 赚钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanqian.md)
+
 <p><span class="chinese">节约就是赚钱。</span><span class="english">To save is  to get.</span></p>
 
 <p><span class="chinese">伊藤在这里赚钱。</span><span class="english">Here ito earn money.</span></p>

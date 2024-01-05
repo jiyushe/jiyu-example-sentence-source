@@ -1,5 +1,7 @@
 # artistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artistry.md)
+
 <p><span class="chinese">炫燿他们的艺术。</span><span class="english">To show off their artistry.</span></p>
 
 <p><span class="chinese">什么是雅姿营养系列？</span><span class="english">What is Artistry? essentialsearch. php?</span></p>

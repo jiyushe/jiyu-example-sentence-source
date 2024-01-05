@@ -1,5 +1,7 @@
 # recollection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recollection.md)
+
 <p><span class="chinese">追忆往事，使他的眼睛都亮了。</span><span class="english">The recollection brightened his eyes.</span></p>
 
 <p><span class="chinese">这就是源于记忆的论证。</span><span class="english">That's the argument from recollection.</span></p>

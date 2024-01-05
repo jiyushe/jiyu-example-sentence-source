@@ -1,5 +1,7 @@
 # spindle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spindle.md)
+
 <p><span class="chinese">锭子速度高。</span><span class="english">Higher spindle speed.</span></p>
 
 <p><span class="chinese">大口径的MT4主轴。</span><span class="english">Large MT4 spindle bore.</span></p>

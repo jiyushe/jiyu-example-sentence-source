@@ -1,5 +1,7 @@
 # zenith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zenith.md)
+
 <p><span class="chinese">这位作家已经鼎鼎有名了。</span><span class="english">The writer's fame was at its zenith.</span></p>
 
 <p><span class="chinese">四天以后，他已经在齐尼斯号火车上了。</span><span class="english">And four days afterward he was on the Zenith train.</span></p>

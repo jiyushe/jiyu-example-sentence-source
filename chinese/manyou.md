@@ -1,5 +1,7 @@
 # 漫游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manyou.md)
+
 <p><span class="chinese">首位中国宇航员太空漫游。</span><span class="english">First taikonaut space walk.</span></p>
 
 <p><span class="chinese">他们在山里漫游。</span><span class="english">They roamed over the hills.</span></p>

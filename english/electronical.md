@@ -1,5 +1,7 @@
 # electronical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electronical.md)
+
 <p><span class="chinese">我们知道现在一切都是电子的。</span><span class="english">We know everything is electronical now.</span></p>
 
 <p><span class="chinese">目前“电子民主”还不能说是一种独立意义的民主形式。</span><span class="english">At present, Electronical democracy is not even absolute democracy form.</span></p>

@@ -1,5 +1,7 @@
 # 样儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanger.md)
+
 <p><span class="chinese">告诉俺，这玩样儿是咋转弯滴？</span><span class="english">Tell me, how does it turn ?</span></p>
 
 <p><span class="chinese">行、行。汤米过来！你可别再扮傻样儿啦。</span><span class="english">Certainly. Here Tommy! You stop acting the fool.</span></p>

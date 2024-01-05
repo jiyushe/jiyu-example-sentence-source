@@ -1,5 +1,7 @@
 # 安居乐业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anjuleye.md)
+
 <p><span class="chinese">肖恩•普拉特致力于帮助优秀作家实现安居乐业的生活。</span><span class="english">Sean Platt helps good writers make a great living.</span></p>
 
 <p><span class="chinese">我希望国家繁荣昌盛，人民安居乐业。</span><span class="english">I hope that the country prospers and the people are at peace.</span></p>

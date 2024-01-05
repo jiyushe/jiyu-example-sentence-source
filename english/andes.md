@@ -1,5 +1,7 @@
 # andes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andes.md)
+
 <p><span class="chinese">安第斯山脉正在拔高。</span><span class="english">The Andes are actively growing.</span></p>
 
 <p><span class="chinese">融化的安地斯山冰川会造成威胁吗？</span><span class="english">Will Melted Andes Glaciers Make a Threat?</span></p>

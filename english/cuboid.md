@@ -1,5 +1,7 @@
 # cuboid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuboid.md)
+
 <p><span class="chinese">这个长方体有几个面?。</span><span class="english">How many surfaces on the cuboid?</span></p>
 
 <p><span class="chinese">长方体的表面积计算。</span><span class="english">Count the surface area of cuboid.</span></p>

@@ -1,5 +1,7 @@
 # 掸子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzi_2.md)
+
 <p><span class="chinese">去给我找把掸子来。</span><span class="english">Go and find a duster for me.</span></p>
 
 <p><span class="chinese">她用掸子掸掉家具上的灰尘。</span><span class="english">She dusted the furniture with a duster.</span></p>

@@ -1,5 +1,7 @@
 # 军用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junyong.md)
+
 <p><span class="chinese">悍马是军用型汽车。</span><span class="english">Hummers are military-like vehicles.</span></p>
 
 <p><span class="chinese">俄罗斯-格鲁吉亚“军用”山路</span><span class="english">Russian-Georgian "Military" Mountain Roads</span></p>

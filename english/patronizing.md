@@ -1,5 +1,7 @@
 # patronizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patronizing.md)
+
 <p><span class="chinese">我受够了你这种“垂怜“的口气！</span><span class="english">I'm over your patronizing tone.</span></p>
 
 <p><span class="chinese">我就是典型的狮子座，忠诚却又自负。</span><span class="english">I’m a typical Leo. I’m faithful but patronizing.</span></p>

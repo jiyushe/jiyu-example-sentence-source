@@ -1,5 +1,7 @@
 # render
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/render.md)
+
 <p><span class="chinese">绘制颜色代码渲染路径。</span><span class="english">Draw color-coded render paths.</span></p>
 
 <p><span class="chinese">既然如此，为什么要动态产生呢？</span><span class="english">So why render that dynamically?</span></p>

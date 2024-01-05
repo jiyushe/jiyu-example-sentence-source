@@ -1,5 +1,7 @@
 # 死囚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siqiu.md)
+
 <p><span class="chinese">这位被判决死刑的杀人犯住在死囚牢房已5年了。</span><span class="english">This convicted killer has been on death row for 5 years.</span></p>
 
 <p><span class="chinese">这位被判决死刑的杀人犯住在死囚牢房已15年了。</span><span class="english">This convicted killer has been on death row for 15 years.</span></p>

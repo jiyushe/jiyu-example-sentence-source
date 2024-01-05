@@ -1,5 +1,7 @@
 # horse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horse.md)
+
 <p><span class="chinese">还得是一匹好马。</span><span class="english">A good horse.</span></p>
 
 <p><span class="chinese">我是属马的。</span><span class="english">I am a horse.</span></p>

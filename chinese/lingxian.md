@@ -1,5 +1,7 @@
 # 领先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingxian.md)
+
 <p><span class="chinese">他们以2比利时领先。</span><span class="english">They're leading by 2-1.</span></p>
 
 <p><span class="chinese">上半场中国队以67比30领先。</span><span class="english">China led 67-30 at half time.</span></p>

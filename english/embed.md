@@ -1,5 +1,7 @@
 # embed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embed.md)
+
 <p><span class="chinese">如何在讨论区崁入影片?。</span><span class="english">How to embed Video form Forum?</span></p>
 
 <p><span class="chinese">最好在转角处预埋一个穿墙导管。</span><span class="english">You'd better embed a wall bushing at the corner.</span></p>

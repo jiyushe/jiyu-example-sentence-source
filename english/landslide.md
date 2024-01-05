@@ -1,5 +1,7 @@
 # landslide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landslide.md)
+
 <p><span class="chinese">山崩挟带下大量的碎岩石。</span><span class="english">A landslide brings down tons of debris.</span></p>
 
 <p><span class="chinese">最近发生了一次大滑坡。</span><span class="english">A large landslide has recently occured.</span></p>

@@ -1,5 +1,7 @@
 # 金字塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzita.md)
+
 <p><span class="chinese">所以它是三角形金字塔。</span><span class="english">So it's trigonal pyramidal.</span></p>
 
 <p><span class="chinese">这是一个完全不同的金字塔</span><span class="english">It's a whole different pyramid.</span></p>

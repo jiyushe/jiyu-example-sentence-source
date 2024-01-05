@@ -1,5 +1,7 @@
 # herein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herein.md)
+
 <p><span class="chinese">这正是问题的症结所在。</span><span class="english">Herein lies the nub of the problem.</span></p>
 
 <p><span class="chinese">发展中国家的意见应该得到充分体现，发展中国家的利益应该得到切实维护，这是联合国改革取得成功的关键。</span><span class="english">Herein lies the key to the success of UN reform.</span></p>

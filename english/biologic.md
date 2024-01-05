@@ -1,5 +1,7 @@
 # biologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biologic.md)
+
 <p><span class="chinese">如果我选择生物治疗，我应该知道些什么？</span><span class="english">How do I know if biologic therapy is working for me?</span></p>
 
 <p><span class="chinese">腹膜是生物半透膜。</span><span class="english">The peritoneum is a biologic semi-permeable membrane.</span></p>

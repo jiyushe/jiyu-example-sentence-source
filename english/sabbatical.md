@@ -1,5 +1,7 @@
 # sabbatical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabbatical.md)
+
 <p><span class="chinese">休假的地点也很重要。</span><span class="english">Sabbatical location is also important.</span></p>
 
 <p><span class="chinese">他于是在1999年带薪离职一年。</span><span class="english">He had already taken a one-year 1999 sabbatical.</span></p>

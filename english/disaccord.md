@@ -1,5 +1,7 @@
 # disaccord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaccord.md)
+
 <p><span class="chinese">你的论据与事实不符。</span><span class="english">Your arguments disaccord with the facts.</span></p>
 
 <p><span class="chinese">我没有理由不和淘宝合作。</span><span class="english">I clean out treasure to cooperate by disaccord without manage.</span></p>

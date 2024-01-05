@@ -1,5 +1,7 @@
 # sequencer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequencer.md)
+
 <p><span class="chinese">MIDI音乐可以由定序器生成。</span><span class="english">MIDI music can be created with a sequencer.</span></p>
 
 <p><span class="chinese">中间的转换器包括一台固定的音序器引擎。</span><span class="english">MID Converter includes a built-in sequencer engine.</span></p>

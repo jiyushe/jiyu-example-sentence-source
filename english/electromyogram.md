@@ -1,5 +1,7 @@
 # electromyogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromyogram.md)
+
 <p><span class="chinese">本文对72例周围性面神经炎进行神经传导速度、肌电图检测分析。</span><span class="english">Nerve conduction velocity and electromyogram were studied in 72 patients with facial neuritis.</span></p>
 
 <p><span class="chinese">目的探讨肌电图和神经电图对踝管综合征的诊断作用。</span><span class="english">Objective To discuss the role of electromyogram and electroneurogram to diagnose the tarsal tunnel syndrome.</span></p>

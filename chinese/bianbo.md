@@ -1,5 +1,7 @@
 # 辩驳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianbo.md)
+
 <p><span class="chinese">她的案件辩驳得很有说服力。</span><span class="english">Her case was cogently argued.</span></p>
 
 <p><span class="chinese">与神辩驳的可以回答这些吧！</span><span class="english">He that reproves God, let him answer it.</span></p>

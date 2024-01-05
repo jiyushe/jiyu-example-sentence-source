@@ -1,5 +1,7 @@
 # parasitosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasitosis.md)
+
 <p><span class="chinese">鸡球虫病是一种感染鸡的传染性的、致死性的寄生虫病。</span><span class="english">Avian coccidiosis is an infectious and deadly parasitosis which infects chickens.</span></p>
 
 <p><span class="chinese">目的掌握山东省人体重要寄生虫病流行现状。</span><span class="english">Objective To understand the epidemic status of important human parasitosis in Shandong Province.</span></p>

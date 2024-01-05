@@ -1,5 +1,7 @@
 # density
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/density.md)
+
 <p><span class="chinese">降低电流密度。</span><span class="english">Reduce the current density.</span></p>
 
 <p><span class="chinese">它具有较高的电荷密度。</span><span class="english">It is a high charged density.</span></p>

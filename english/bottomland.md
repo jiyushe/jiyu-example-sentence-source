@@ -1,5 +1,7 @@
 # bottomland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bottomland.md)
+
 <p><span class="chinese">洲滩是鄱阳湖区分布广泛、数量众多和最为活跃的景观要素之一。</span><span class="english">Bottomland is a widespread, huge in number and most active in Poyang Lake area.</span></p>
 
 <p><span class="chinese">有一年春天，我在一片容易被淹的低洼地过早种下了玉米，邻居们都为此嘲笑我。</span><span class="english">One spring I planted corn too early in a bottomland so flood-prone that neighbors laughed.</span></p>

@@ -1,5 +1,7 @@
 # 挠头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naotou.md)
+
 <p><span class="chinese">替我挠挠头。</span><span class="english">Scratch my head.</span></p>
 
 <p><span class="chinese">汤姆森挠挠头皮。</span><span class="english">Thomson scratched his head.</span></p>

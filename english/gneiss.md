@@ -1,5 +1,7 @@
 # gneiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gneiss.md)
+
 <p><span class="chinese">宝贝，你是如此的片麻岩，我永远不会把你当花岗岩的。</span><span class="english">Baby, you're so gneiss I'll never take you for granite.</span></p>
 
 <p><span class="chinese">片麻岩蚀变后呈黄褐色块体。</span><span class="english">The gneiss has been altered in to yellow-grey rock mass.</span></p>

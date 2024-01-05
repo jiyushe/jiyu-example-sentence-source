@@ -1,5 +1,7 @@
 # dyadic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyadic.md)
+
 <p><span class="chinese">文章证明，基数B样条的各阶导数是一类二进小波。</span><span class="english">Dirivatives of cardinal B-splines are proved to be dyadic wavelets.</span></p>
 
 <p><span class="chinese">选配在线式水份检测仪。</span><span class="english">On line dyadic selective breeding water share checks an instrument.</span></p>

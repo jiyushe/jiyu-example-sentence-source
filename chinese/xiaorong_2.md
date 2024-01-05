@@ -1,5 +1,7 @@
 # 笑容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaorong_2.md)
+
 <p><span class="chinese">那是你的笑容？</span><span class="english">Is that your smile?</span></p>
 
 <p><span class="chinese">阿纳金藏起了他的笑容。</span><span class="english">Anakin hid his grin.</span></p>

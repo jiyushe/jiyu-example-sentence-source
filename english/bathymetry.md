@@ -1,5 +1,7 @@
 # bathymetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathymetry.md)
+
 <p><span class="chinese">图17示出的区域的地形。</span><span class="english">Figure 17 shows the bathymetry of the area.</span></p>
 
 <p><span class="chinese">这些环流主要是潮与局部地形相互作用所致。</span><span class="english">The change of the circulation is mainly due to the interaction between tides and bathymetry.</span></p>

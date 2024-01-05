@@ -1,5 +1,7 @@
 # reiterate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reiterate.md)
+
 <p><span class="chinese">我再次重申我希望能够留在那不勒斯。</span><span class="english">I reiterate that my wish is to remain at Napoli.</span></p>
 
 <p><span class="chinese">业绩符合预期，基本面仍然强劲，重申买入。</span><span class="english">In-line results, fundaments still strong, reiterate Buy.</span></p>

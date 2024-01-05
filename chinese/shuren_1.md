@@ -1,5 +1,7 @@
 # 熟人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuren_1.md)
+
 <p><span class="chinese">我的熟人中很少有人喜欢赛拉。</span><span class="english">Few of my acquaintances like Sarah.</span></p>
 
 <p><span class="chinese">用这些试题去考考你的熟人吧。</span><span class="english">Try these tests on your acquaintances.</span></p>

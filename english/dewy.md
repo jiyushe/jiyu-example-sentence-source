@@ -1,5 +1,7 @@
 # dewy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dewy.md)
+
 <p><span class="chinese">洞穴边缘，朝露盈盈。</span><span class="english">And the brink of the dewy caves.</span></p>
 
 <p><span class="chinese">这缀满了露酒的麝香蔷薇</span><span class="english">The coming musk-rose, full of dewy wine</span></p>

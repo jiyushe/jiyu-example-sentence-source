@@ -1,5 +1,7 @@
 # 水战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhan.md)
+
 <p><span class="chinese">如果你出现在演唱会结束之后的外面，你可能会被我们的水战而浸湿。</span><span class="english">If you show up outside the arena after the show, you might get soaked in one of our epic water fights.</span></p>
 
 <p><span class="chinese">有些其他的人可能宁愿写一部伟大的美国小说，而不愿去赢得水战或驾驭马。</span><span class="english">Some other fellow would prefer writing the great American novel to winning the water-fight or mastering the horse.</span></p>

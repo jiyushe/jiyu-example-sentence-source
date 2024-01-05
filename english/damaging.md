@@ -1,5 +1,7 @@
 # damaging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damaging.md)
+
 <p><span class="chinese">用墨水毁坏木质地板也是如此。</span><span class="english">The same with damaging wood floors with ink.</span></p>
 
 <p><span class="chinese">如果一个谎言变得根深蒂固，它会变得有害。</span><span class="english">If a lie becomes entrenched it will be damaging.</span></p>

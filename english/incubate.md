@@ -1,5 +1,7 @@
 # incubate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incubate.md)
+
 <p><span class="chinese">酝酿出一个梦。</span><span class="english">Incubate a dream.</span></p>
 
 <p><span class="chinese">微生物课上，我们试着培养黑霉。</span><span class="english">We try to incubate black mould in biology class.</span></p>

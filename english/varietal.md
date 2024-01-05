@@ -1,5 +1,7 @@
 # varietal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varietal.md)
+
 <p><span class="chinese">品种鉴定对保证种子质量具有重要作用。</span><span class="english">Varietal identification is important to ensure the seed quality.</span></p>
 
 <p><span class="chinese">中度酒体，口感悠长，收结雅致，柔软。</span><span class="english">Great varietal length on the mid-palate and finishing with a classy , soft.</span></p>

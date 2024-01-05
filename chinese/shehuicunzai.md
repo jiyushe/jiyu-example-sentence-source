@@ -1,5 +1,7 @@
 # 社会存在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuicunzai.md)
+
 <p><span class="chinese">人们的社会存在决定人们的意识。</span><span class="english">Men's social existence determines their consciousness.</span></p>
 
 <p><span class="chinese">人权是当今国际社会存在尖锐对立的一个焦点问题。</span><span class="english">The problem of human rights is the focus of global conflicts.</span></p>

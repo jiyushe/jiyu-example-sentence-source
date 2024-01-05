@@ -1,5 +1,7 @@
 # gunship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunship.md)
+
 <p><span class="chinese">直升机飞过池塘时，她潜入的水面立即被燃烧的碎片所环绕。</span><span class="english">She surfaces amid burning debris as the gunship flies on.</span></p>
 
 <p><span class="chinese">他和猎人们举起机甲沉重的机械臂，用臂上的GAU90瞄准一个正在靠近的武装直升机。</span><span class="english">He and the hunters lift the heavy arm, aiming the GAU 90 at an approaching gunship.</span></p>

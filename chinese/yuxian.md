@@ -1,5 +1,7 @@
 # 余弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxian.md)
+
 <p><span class="chinese">正弦和余弦都是有限大小的数</span><span class="english">sine and cosine are definite numbers.</span></p>
 
 <p><span class="chinese">我还听到了余弦，还有正弦。</span><span class="english">I hear some cosines. I hear some sines.</span></p>

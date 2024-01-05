@@ -1,5 +1,7 @@
 # 裸麦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luomai_1.md)
+
 <p><span class="chinese">再，它是金枪鱼和裸麦面包。</span><span class="english">Again, it is tuna and rye bread.</span></p>
 
 <p><span class="chinese">有些小麦和裸麦大量分蘖。</span><span class="english">Some wheats and ryes tiller freely.</span></p>

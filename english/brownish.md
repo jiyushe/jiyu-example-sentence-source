@@ -1,5 +1,7 @@
 # brownish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brownish.md)
+
 <p><span class="chinese">DHA植物素的颜色是金褐色。</span><span class="english">DHA 200mg vegetarian capsules are brownish gold.</span></p>
 
 <p><span class="chinese">水可能会变成绿色，红色，或褐色。</span><span class="english">The water may turn greenish, reddish, or brownish.</span></p>

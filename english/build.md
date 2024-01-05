@@ -1,5 +1,7 @@
 # build
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/build.md)
+
 <p><span class="chinese">砌一座堡垒。</span><span class="english">Build a fort.</span></p>
 
 <p><span class="chinese">创建您所知道的。</span><span class="english">Build what you know.</span></p>

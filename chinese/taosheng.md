@@ -1,5 +1,7 @@
 # 逃生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taosheng.md)
+
 <p><span class="chinese">蛛网逃生。</span><span class="english">Survive a spiderweb.</span></p>
 
 <p><span class="chinese">全体船员弃船逃生。</span><span class="english">The whole crew deserted.</span></p>

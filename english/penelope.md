@@ -1,5 +1,7 @@
 # penelope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penelope.md)
+
 <p><span class="chinese">VOA美国之音的佩内洛普Poulou更多。</span><span class="english">VOA's Penelope Poulou has more.</span></p>
 
 <p><span class="chinese">她把自己的手表对准了佩内洛普。</span><span class="english">She held the watch towards Penelope.</span></p>

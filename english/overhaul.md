@@ -1,5 +1,7 @@
 # overhaul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overhaul.md)
+
 <p><span class="chinese">QF3为检修电源开关。</span><span class="english">QF3 is overhaul power switch.</span></p>
 
 <p><span class="chinese">这台发动机需要检修。</span><span class="english">This engine needs an overhaul.</span></p>

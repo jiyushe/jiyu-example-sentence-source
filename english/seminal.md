@@ -1,5 +1,7 @@
 # seminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seminal.md)
+
 <p><span class="chinese">这是一个开创性的时刻，周一。</span><span class="english">It's a seminal moment, mon.</span></p>
 
 <p><span class="chinese">精囊炎治疗存在哪些误区？</span><span class="english">Seminal vesicle phlogistic treatment which error there?</span></p>

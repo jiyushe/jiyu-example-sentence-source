@@ -1,5 +1,7 @@
 # category
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/category.md)
+
 <p><span class="chinese">软件类。</span><span class="english">Software category.</span></p>
 
 <p><span class="chinese">分类码是唯一的。</span><span class="english">Category Codes are unique.</span></p>

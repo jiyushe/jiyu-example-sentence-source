@@ -1,5 +1,7 @@
 # munch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/munch.md)
+
 <p><span class="chinese">我们在花园的桌子旁坐了下来，品尝我们的苹果。</span><span class="english">We sit at my garden table and munch.</span></p>
 
 <p><span class="chinese">那就大吃西瓜，粉红色葡萄柚，还有红辣椒吧。</span><span class="english">Munch on some watermelon, pink grapefruit, or red bell peppers.</span></p>

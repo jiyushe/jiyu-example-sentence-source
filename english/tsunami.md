@@ -1,5 +1,7 @@
 # tsunami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsunami.md)
+
 <p><span class="chinese">海涛聚集后就是海啸了。</span><span class="english">Tsunami is fit for you!</span></p>
 
 <p><span class="chinese">预计协调世界时0900时出现海啸。</span><span class="english">Tsunami wave expected by 0900 UTC.</span></p>

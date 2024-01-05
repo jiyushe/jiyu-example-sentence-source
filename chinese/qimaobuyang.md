@@ -1,5 +1,7 @@
 # 其貌不扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qimaobuyang.md)
+
 <p><span class="chinese">他脸盘狭小，其貌不扬。</span><span class="english">His face was small and ugly.</span></p>
 
 <p><span class="chinese">相比之下燃料作物可以其貌不扬或发育矮小。</span><span class="english">Crops for fuel, in contrast, can be ugly or stunted.</span></p>

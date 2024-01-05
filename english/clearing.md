@@ -1,5 +1,7 @@
 # clearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearing.md)
+
 <p><span class="chinese">什么叫清肺？</span><span class="english">What is clearing the lung ?</span></p>
 
 <p><span class="chinese">我把足球的案例擦掉吧</span><span class="english">So clearing off my soccer game.</span></p>

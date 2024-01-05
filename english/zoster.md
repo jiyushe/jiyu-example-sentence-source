@@ -1,5 +1,7 @@
 # zoster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoster.md)
+
 <p><span class="chinese">不同部位的带状疱疹应用不同疗法。</span><span class="english">The different therapy was used for deferent parts of herpes zoster.</span></p>
 
 <p><span class="chinese">带状疱疹、风疹的鉴别诊断、注意事项。</span><span class="english">Differentiation , diagnosis and cautions of Herpes Zoster and wind eruption.</span></p>

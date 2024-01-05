@@ -1,5 +1,7 @@
 # flippancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flippancy.md)
+
 <p><span class="chinese">你轻率的回答令我懊恼。</span><span class="english">The flippancy of your answer peeved me.</span></p>
 
 <p><span class="chinese">就在这一时刻，我看到了自己曾经的浮躁，这让我无地自容。</span><span class="english">Gradually, I find my flippancy and it made me ashamed.</span></p>

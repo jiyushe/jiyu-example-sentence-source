@@ -1,5 +1,7 @@
 # 台布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taibu.md)
+
 <p><span class="chinese">我公司出售中国台布。</span><span class="english">We sell Chinese tablecloths.</span></p>
 
 <p><span class="chinese">桌上摊着一块台布。</span><span class="english">There\’s a cloth over the table.</span></p>

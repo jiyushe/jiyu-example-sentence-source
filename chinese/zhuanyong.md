@@ -1,5 +1,7 @@
 # 专用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyong.md)
+
 <p><span class="chinese">狗狗专用的盘圈型蚊香。</span><span class="english">Mosquito coil for dogs.</span></p>
 
 <p><span class="chinese">使用专用点药器。</span><span class="english">Use the special applicator.</span></p>

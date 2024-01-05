@@ -1,5 +1,7 @@
 # bowed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowed.md)
+
 <p><span class="chinese">达西先生耸了耸身子。</span><span class="english">Mr. Darcy bowed.</span></p>
 
 <p><span class="chinese">我鞠躬还礼。</span><span class="english">I bowed in return.</span></p>

@@ -1,5 +1,7 @@
 # capsulotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsulotomy.md)
+
 <p><span class="chinese">作者应用立体定向内囊前肢毁损术治疗顽固性强迫症3例。</span><span class="english">Stereotactic capsulotomy was performed in 3 patients with intractable obsession.</span></p>
 
 <p><span class="chinese">目的探讨后囊连续环形撕囊术在儿童白内障手术临床应用的价值。</span><span class="english">Objective To study the application of posterior continuous curvilinear capsulotomy in pediatric cataract operation.</span></p>

@@ -1,5 +1,7 @@
 # slew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slew.md)
+
 <p><span class="chinese">那英雄杀死了邪恶的独眼怪兽。</span><span class="english">The hero slew the vicious cyclops.</span></p>
 
 <p><span class="chinese">奴隶们用乱刀砍死主人。</span><span class="english">The slaves slew their master with swords.</span></p>

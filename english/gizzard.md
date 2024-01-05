@@ -1,5 +1,7 @@
 # gizzard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gizzard.md)
+
 <p><span class="chinese">嗉囊与砂囊可明显区分。</span><span class="english">The craw and gizzard could be defined.</span></p>
 
 <p><span class="chinese">从这里再转移到肌肉质的砂囊。</span><span class="english">From here it travels to the muscular gizzard.</span></p>

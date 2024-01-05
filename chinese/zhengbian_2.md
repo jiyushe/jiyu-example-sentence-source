@@ -1,5 +1,7 @@
 # 整编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbian_2.md)
+
 <p><span class="chinese">他们将一个师整编成为一个团。</span><span class="english">They reformed a division into a regiment.</span></p>
 
 <p><span class="chinese">你无法再弄乱，或重新整编你的诗篇。</span><span class="english">You can't derange , or re-arrange, your poems again.</span></p>

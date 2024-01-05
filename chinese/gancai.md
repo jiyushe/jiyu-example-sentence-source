@@ -1,5 +1,7 @@
 # 干才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gancai.md)
+
 <p><span class="chinese">没错，政府需要有经验的干才。</span><span class="english">Yes, the administration needed experienced hands.</span></p>
 
 <p><span class="chinese">所以农民割完草要等草干才贮藏起来。</span><span class="english">That's why farmers cut and store their hay when it's dry.</span></p>

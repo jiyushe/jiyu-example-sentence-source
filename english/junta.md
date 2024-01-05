@@ -1,5 +1,7 @@
 # junta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junta.md)
+
 <p><span class="chinese">不到一年后，军政府即告倒台。</span><span class="english">The junta fell less than a year later.</span></p>
 
 <p><span class="chinese">即使全民盟也受到了军政府的严重削弱。</span><span class="english">Even NLD efforts were severely curtailed by the junta.</span></p>

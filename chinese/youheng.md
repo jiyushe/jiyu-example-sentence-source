@@ -1,5 +1,7 @@
 # 有恒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youheng.md)
+
 <p><span class="chinese">劳教中心计划强调严守纪律、刻苦训练、辛勤工作和起居有恒。</span><span class="english">It emphasises strict discipline, strenuous training, hard work and a vigorous routine.</span></p>
 
 <p><span class="chinese">从治学态度来看，学生要有学而不厌和学贵有恒的精神。</span><span class="english">From his scholarly attitude of the students have Insatiable and the immutability of your spirit.</span></p>

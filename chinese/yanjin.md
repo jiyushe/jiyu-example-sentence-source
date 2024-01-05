@@ -1,5 +1,7 @@
 # 严禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjin.md)
+
 <p><span class="chinese">这里严禁吸烟。</span><span class="english">No smoking here.</span></p>
 
 <p><span class="chinese">严禁烟火。</span><span class="english">No smoke, no fire.</span></p>

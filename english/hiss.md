@@ -1,5 +1,7 @@
 # hiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiss.md)
+
 <p><span class="chinese">他全家在看电视。</span><span class="english">Hiss family are watching TV.</span></p>
 
 <p><span class="chinese">他的衣服掩饰了他的身分。</span><span class="english">Hiss clothes belie his station.</span></p>

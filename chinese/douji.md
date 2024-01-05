@@ -1,5 +1,7 @@
 # 斗鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douji.md)
+
 <p><span class="chinese">他剪去斗鸡的鸡冠和鸡垂。</span><span class="english">He dubbed the gamecock.</span></p>
 
 <p><span class="chinese">第一个表演是蟒蛇斗鸡。</span><span class="english">The first show was Python cockfighting.</span></p>

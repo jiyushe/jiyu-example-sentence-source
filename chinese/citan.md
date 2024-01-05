@@ -1,5 +1,7 @@
 # 刺探
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citan.md)
+
 <p><span class="chinese">我们来刺探杰里科城的情报。</span><span class="english">We want to spy in Jericho.</span></p>
 
 <p><span class="chinese">你是又一个白人派来刺探情报的奸细！</span><span class="english">You're another of the white man's tools sent to spy!</span></p>

@@ -1,5 +1,7 @@
 # 礼仪之邦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyizhibang.md)
+
 <p><span class="chinese">中国事礼仪之邦，现在我以茶示礼。</span><span class="english">Now, allow me to show my decorum with a cu of tea.</span></p>
 
 <p><span class="chinese">我们中国历来都是礼仪之邦，文明之国。</span><span class="english">We Chinese always own the civilization of decorum.</span></p>

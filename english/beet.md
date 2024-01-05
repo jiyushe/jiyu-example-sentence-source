@@ -1,5 +1,7 @@
 # beet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beet.md)
+
 <p><span class="chinese">将西谷米和甜菜汁放入锅中烹煮。</span><span class="english">Place tapioca in a pan with the beet juice.</span></p>
 
 <p><span class="chinese">她窘得满脸通红。</span><span class="english">She was so embarrassed she turned beet red.</span></p>

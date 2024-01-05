@@ -1,5 +1,7 @@
 # dallas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dallas.md)
+
 <p><span class="chinese">一场小牛必须赢的比赛？</span><span class="english">A must-win outing for Dallas?</span></p>
 
 <p><span class="chinese">在某个时段，她搬去了达拉斯。</span><span class="english">At some point, she moved to Dallas.</span></p>

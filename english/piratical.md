@@ -1,5 +1,7 @@
 # piratical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piratical.md)
+
 <p><span class="chinese">实际使用效果明显。</span><span class="english">It effect is obvious in piratical use.</span></p>
 
 <p><span class="chinese">这个骗局是政治问题却也是盗版问题。</span><span class="english">The trick will be to become political but remain piratical.</span></p>

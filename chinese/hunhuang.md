@@ -1,5 +1,7 @@
 # 昏黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunhuang.md)
+
 <p><span class="chinese">在昏黄的烛光中打扮。</span><span class="english">Anddress by yellow candle -light.</span></p>
 
 <p><span class="chinese">才到下午四点，便又冷又昏黄。</span><span class="english">Afternoon, four o'clock, dusky and cold.</span></p>

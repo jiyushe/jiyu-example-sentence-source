@@ -1,5 +1,7 @@
 # 荒疏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangshu.md)
+
 <p><span class="chinese">他的英语丢荒疏了。</span><span class="english">His English is rusty.</span></p>
 
 <p><span class="chinese">我的法语荒疏了。</span><span class="english">I'm forgetting my French.</span></p>

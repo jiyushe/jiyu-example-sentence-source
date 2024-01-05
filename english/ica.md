@@ -1,5 +1,7 @@
 # ica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ica.md)
+
 <p><span class="chinese">C1螺钉固定颈内动脉的危险还不知道。</span><span class="english">The risk of ICA injury from C1 screws is unknown.</span></p>
 
 <p><span class="chinese">利用独立分量分析的方法对脑电中眼电伪迹成分进行剔除。</span><span class="english">The method is to use ICA remove ocular artifact from EEG.</span></p>

@@ -1,5 +1,7 @@
 # motivator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motivator.md)
+
 <p><span class="chinese">爱是个很好的激励因素。</span><span class="english">Love is a strong motivator.</span></p>
 
 <p><span class="chinese">资金是一种强大的动力。</span><span class="english">Money is a great motivator.</span></p>

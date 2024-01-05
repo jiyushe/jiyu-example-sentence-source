@@ -1,5 +1,7 @@
 # 张狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangkuang.md)
+
 <p><span class="chinese">哪有这些丫鬟们张狂的余地。</span><span class="english">Which have these waiter girls rude leeway.</span></p>
 
 <p><span class="chinese">带者瘟疫肆虐张狂，直把婚礼变成灵堂。</span><span class="english">And blights with Plagues the Marriage hearse.</span></p>

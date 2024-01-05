@@ -1,5 +1,7 @@
 # phenix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenix.md)
+
 <p><span class="chinese">费尼克斯是知识分类的主要代表人物。</span><span class="english">Phenix is a leading character in knowledge classification.</span></p>
 
 <p><span class="chinese">在我的印象里，我只转过一元的板子，而且创下了一条龙和两只凤凰的记录。</span><span class="english">In my memory, I just used 1 yuan's board and pointed one dragon and two phenix.</span></p>

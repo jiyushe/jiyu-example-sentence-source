@@ -1,5 +1,7 @@
 # 打火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahuo.md)
+
 <p><span class="chinese">失火是由于电器打火引起的。</span><span class="english">The fire stemed from light stricken by the electrical appliance.</span></p>
 
 <p><span class="chinese">配有打火灶，排油烟机，热水器，双人床，大衣柜！</span><span class="english">Equipped with ignition stove, range hood, water heater, double bed, large wardrobe!</span></p>

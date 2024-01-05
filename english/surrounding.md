@@ -1,5 +1,7 @@
 # surrounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surrounding.md)
+
 <p><span class="chinese">周围的肾小管也正常。</span><span class="english">The surrounding tubules are normal.</span></p>
 
 <p><span class="chinese">花岗岩是金矿的有利赋矿围岩。</span><span class="english">Granite are ore-rich surrounding rocks.</span></p>

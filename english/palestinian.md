@@ -1,5 +1,7 @@
 # palestinian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palestinian.md)
+
 <p><span class="chinese">你立即就看出他是巴勒斯坦人了吗？</span><span class="english">Did you immediately know he is Palestinian?</span></p>
 
 <p><span class="chinese">其他巴勒斯坦重要人物也心有戚戚。</span><span class="english">Other Palestinian figures share the frustrations.</span></p>

@@ -1,5 +1,7 @@
 # incommensurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incommensurable.md)
+
 <p><span class="chinese">事实上，这个关系是不可约分的。</span><span class="english">In effect, this relation is incommensurable.</span></p>
 
 <p><span class="chinese">其实很多年了，我们一直生活在巨大的差距里。</span><span class="english">We've actually been living in this state of incommensurable differences for many years now.</span></p>

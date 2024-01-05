@@ -1,5 +1,7 @@
 # candor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candor.md)
+
 <p><span class="chinese">我惊异于他的坦率。</span><span class="english">I was surprised at his candor.</span></p>
 
 <p><span class="chinese">我曾柔情似水满怀真挚地爱过你。</span><span class="english">I loved you tenderness and candor.</span></p>

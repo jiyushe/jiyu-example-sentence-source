@@ -1,5 +1,7 @@
 # 斗牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douniu.md)
+
 <p><span class="chinese">就像一个斗牛士。</span><span class="english">Like a torero.</span></p>
 
 <p><span class="chinese">那位斗牛士真帅。</span><span class="english">The matador is so handsome.</span></p>

@@ -1,5 +1,7 @@
 # preclinical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preclinical.md)
+
 <p><span class="chinese">狂犬病潜伏期过了，还有没有事？</span><span class="english">Hydrophobic preclinical passed, still have a thing?</span></p>
 
 <p><span class="chinese">临床或临床前样品分析批汇总表。</span><span class="english">Summary tables of analytical runs of clinical or preclinical samples.</span></p>

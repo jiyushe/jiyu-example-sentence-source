@@ -1,5 +1,7 @@
 # floriferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floriferous.md)
+
 <p><span class="chinese">办身份证多花钱可以加急办。</span><span class="english">Handle id card floriferous money is OK and urgent do.</span></p>
 
 <p><span class="chinese">单瓣暗深紫色小花，每支花梗开5-8朵花，非常会开花。</span><span class="english">Single small dark purple, 5-8 per peduncle, very floriferous.</span></p>

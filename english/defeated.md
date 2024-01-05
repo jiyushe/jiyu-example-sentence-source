@@ -1,5 +1,7 @@
 # defeated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defeated.md)
+
 <p><span class="chinese">我感到挫败。</span><span class="english">I felt defeated.</span></p>
 
 <p><span class="chinese">谁击败了他？</span><span class="english">Who defeated him?</span></p>

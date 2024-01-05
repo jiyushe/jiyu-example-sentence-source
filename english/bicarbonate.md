@@ -1,5 +1,7 @@
 # bicarbonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicarbonate.md)
+
 <p><span class="chinese">你对碳酸氢纳认识多少？</span><span class="english">What do you know about sodium bicarbonate?</span></p>
 
 <p><span class="chinese">谁有抗酸剂或者重碳酸盐苏打水么?。</span><span class="english">Anybody got any antacid or bicarbonate of soda?</span></p>

@@ -1,5 +1,7 @@
 # cardinality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardinality.md)
+
 <p><span class="chinese">支持完全集势和连通性。</span><span class="english">Full cardinality and connectivity support.</span></p>
 
 <p><span class="chinese">这个基数会大大影响连接顺序和连接方法。</span><span class="english">Cardinality affects join orders and join methods to a large extent.</span></p>

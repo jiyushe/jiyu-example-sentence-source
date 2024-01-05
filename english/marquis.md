@@ -1,5 +1,7 @@
 # marquis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marquis.md)
+
 <p><span class="chinese">他是卡拉巴司侯爵。</span><span class="english">He is the Marquis of Carabas.</span></p>
 
 <p><span class="chinese">这位侯爵是艺术的大恩主。</span><span class="english">The marquis is a great patron of art.</span></p>

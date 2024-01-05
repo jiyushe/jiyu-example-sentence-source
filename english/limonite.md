@@ -1,5 +1,7 @@
 # limonite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limonite.md)
+
 <p><span class="chinese">主要载金矿物是褐铁矿和石英。</span><span class="english">Gold are mainly hosted in limonite and quartz.</span></p>
 
 <p><span class="chinese">主要载金矿物是石英、黄铁矿和褐铁矿。</span><span class="english">The main gold-carrying mineral is quartz, pyrite and limonite.</span></p>

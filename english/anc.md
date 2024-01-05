@@ -1,5 +1,7 @@
 # anc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anc.md)
+
 <p><span class="chinese">非洲人国民大会与种族主义进行了半个世纪的斗争。</span><span class="english">The ANC has spent half a century fighting against racialism.</span></p>
 
 <p><span class="chinese">以此为武器，祖马和他在ANC高层的盟友撼动并倾覆了姆贝基。</span><span class="english">With that, Zuma and his allies at the top of the ANC moved and toppled Mbeki.</span></p>

@@ -1,5 +1,7 @@
 # 水鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiniao.md)
+
 <p><span class="chinese">海鸥科长翅、蹼足的水鸟。</span><span class="english">A gull skimmed the water.</span></p>
 
 <p><span class="chinese">几只水鸟飞掠过了湖面。</span><span class="english">Some water birds skittered over the lake.</span></p>

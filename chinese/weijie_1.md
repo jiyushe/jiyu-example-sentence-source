@@ -1,5 +1,7 @@
 # 慰藉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijie_1.md)
+
 <p><span class="chinese">行动是可以慰藉的。</span><span class="english">Action is consolatory.</span></p>
 
 <p><span class="chinese">我从文字中找寻慰藉。</span><span class="english">I seek comfort in them.</span></p>

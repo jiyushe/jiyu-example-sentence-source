@@ -1,5 +1,7 @@
 # flue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flue.md)
+
 <p><span class="chinese">沿着火红的烟道，爬上山岗。</span><span class="english">And climbed up to its flaming flue.</span></p>
 
 <p><span class="chinese">就那样，牠们就飞越了烟道里的一条裂纹。</span><span class="english">So we flew over a flaw in the flue.</span></p>

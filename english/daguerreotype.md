@@ -1,5 +1,7 @@
 # daguerreotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daguerreotype.md)
+
 <p><span class="chinese">很快的，很多人开始用这种摄影方法。</span><span class="english">This kind of photo was called a Daguerreotype.</span></p>
 
 <p><span class="chinese">我那可怜的爹告诉我，他曾搞过一间银板照相的暗室。</span><span class="english">Poor papa's daguerreotype atelier he told me of.</span></p>

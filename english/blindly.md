@@ -1,5 +1,7 @@
 # blindly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blindly.md)
+
 <p><span class="chinese">我瞎猜的。</span><span class="english">I guess blindly.</span></p>
 
 <p><span class="chinese">他盲目相信一切印刷品。</span><span class="english">He accepted blindly anything printed.</span></p>

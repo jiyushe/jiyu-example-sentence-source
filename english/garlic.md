@@ -1,5 +1,7 @@
 # garlic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garlic.md)
+
 <p><span class="chinese">用大蒜裹住海虾。</span><span class="english">Coat prawns with garlic.</span></p>
 
 <p><span class="chinese">每盘菜都得有大蒜才行。</span><span class="english">Every dish needs garlic.</span></p>

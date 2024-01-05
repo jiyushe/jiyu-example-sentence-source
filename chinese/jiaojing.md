@@ -1,5 +1,7 @@
 # 交警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojing.md)
+
 <p><span class="chinese">交警试图填补这一空白。</span><span class="english">Traffic police have been trying to fill that void.</span></p>
 
 <p><span class="chinese">让交警带上黑棉手套。</span><span class="english">Let the traffic policemen wear black cotton gloves.</span></p>

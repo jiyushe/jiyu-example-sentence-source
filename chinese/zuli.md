@@ -1,5 +1,7 @@
 # 阻力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuli.md)
+
 <p><span class="chinese">这个阻力太大。</span><span class="english">That checks.</span></p>
 
 <p><span class="chinese">用阻力拉管。</span><span class="english">Use resistance tubing.</span></p>

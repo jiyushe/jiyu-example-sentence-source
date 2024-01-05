@@ -1,5 +1,7 @@
 # 夹杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaza.md)
+
 <p><span class="chinese">都夹杂着金线的灿烂。</span><span class="english">There twines a thread of gold.</span></p>
 
 <p><span class="chinese">她买了一套夹杂着红绿两色的女服。</span><span class="english">She bought a red and green dress.</span></p>

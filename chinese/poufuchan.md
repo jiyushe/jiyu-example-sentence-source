@@ -1,5 +1,7 @@
 # 剖腹产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poufuchan.md)
+
 <p><span class="chinese">第30周时，古德里奇太太进行了人工剖腹产。</span><span class="english">At 30 weeks, Mrs. Goodrich had an emergency caesarean.</span></p>
 
 <p><span class="chinese">我是在38周还没有出现症状的时候去做的剖腹产。</span><span class="english">I was not yet 38 weeks, when symptoms do Caesarean section.</span></p>

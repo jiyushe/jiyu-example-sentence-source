@@ -1,5 +1,7 @@
 # crystallite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystallite.md)
+
 <p><span class="chinese">微晶水泥具有低成本、高性能的特点。</span><span class="english">The oilwell cement with crystallite exhibits high performance and low cost.</span></p>
 
 <p><span class="chinese">马铃薯淀粉采取与玉米淀粉相同的处理后，也可得到B型和A型马铃薯淀粉微晶。</span><span class="english">A- and B-type crystallite of potato starch come into being by taking the same method as maize starch.</span></p>

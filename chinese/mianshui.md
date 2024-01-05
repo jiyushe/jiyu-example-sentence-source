@@ -1,5 +1,7 @@
 # 免税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshui.md)
+
 <p><span class="chinese">我可以享受免税吗?</span><span class="english">Can l have it tax-free?</span></p>
 
 <p><span class="chinese">免税商店在那里?。</span><span class="english">Where is the duty-free shop?</span></p>

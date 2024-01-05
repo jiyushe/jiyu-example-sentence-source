@@ -1,5 +1,7 @@
 # trowel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trowel.md)
+
 <p><span class="chinese">有些板栅碎块可能立即堆积在刮刀的地方。</span><span class="english">Some of the grid sections will accumulate immediately in the trowel areas.</span></p>
 
 <p><span class="chinese">砂浆可用喷枪喷涂或者抹子手工涂抹。</span><span class="english">The plaster is applied with a sprayer or by hand using a twohanded trowel.</span></p>

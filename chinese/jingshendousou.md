@@ -1,5 +1,7 @@
 # 精神抖擞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshendousou.md)
+
 <p><span class="chinese">那匹马精神抖擞地昂起头来。</span><span class="english">The horse perked up its head.</span></p>
 
 <p><span class="chinese">士兵们精神抖擞地齐步走。</span><span class="english">The man stepped off in good spirits.</span></p>

@@ -1,5 +1,7 @@
 # 四时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishi.md)
+
 <p><span class="chinese">草木枯荣分四时，一岁月有十二圆。</span><span class="english">Vegetation Kurong four, a round twelve years.</span></p>
 
 <p><span class="chinese">每天四时左右我就觉得很饿了。</span><span class="english">Every day at about four o'clock I get very hungry.</span></p>

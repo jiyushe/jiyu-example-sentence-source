@@ -1,5 +1,7 @@
 # 立志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhi_4.md)
+
 <p><span class="chinese">一人立志，万夫莫敌。</span><span class="english">A person to spartacus.</span></p>
 
 <p><span class="chinese">包含了温立志的结果。</span><span class="english">Wen Lizhi' s results are contained.</span></p>

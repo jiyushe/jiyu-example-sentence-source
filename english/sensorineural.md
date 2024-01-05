@@ -1,5 +1,7 @@
 # sensorineural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensorineural.md)
+
 <p><span class="chinese">感音神经性听力障碍可采取以下措施加以预防</span><span class="english">Sensorineural hearing impairment can be prevented by</span></p>
 
 <p><span class="chinese">耳蜗畸形是先天性感音性聋的常见病因。</span><span class="english">Cochlear malformation is the common reason for congenital sensorineural hearing loss.</span></p>

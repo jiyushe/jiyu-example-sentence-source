@@ -1,5 +1,7 @@
 # drill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drill.md)
+
 <p><span class="chinese">操练完毕。</span><span class="english">The drill is over.</span></p>
 
 <p><span class="chinese">现在，打开电钻。</span><span class="english">Now, run the drill.</span></p>

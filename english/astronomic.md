@@ -1,5 +1,7 @@
 # astronomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronomic.md)
+
 <p><span class="chinese">日食是非常引人入胜的天文现象。</span><span class="english">Eclipse is a very intriguing astronomic phenomenon.</span></p>
 
 <p><span class="chinese">它指向将在2012年发生的一次特殊天文事件。</span><span class="english">It refers to special astronomic events that will happen in 2012.</span></p>

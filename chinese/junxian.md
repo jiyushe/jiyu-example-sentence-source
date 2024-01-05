@@ -1,5 +1,7 @@
 # 郡县
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junxian.md)
+
 <p><span class="chinese">其中四个郡县男人和女人的平均寿命相同。</span><span class="english">Four of the five counties are the same for both men and women.</span></p>
 
 <p><span class="chinese">福布斯的排名倾向于那些具有好学区的郡县。</span><span class="english">Forbes' rankings are skewed toward counties with good school districts.</span></p>

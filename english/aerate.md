@@ -1,5 +1,7 @@
 # aerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerate.md)
+
 <p><span class="chinese">用玻璃料制成的一个独立进口暴露在灌流液中。</span><span class="english">A separate inlet with a ceramic frit is used to aerate the perfusate.</span></p>
 
 <p><span class="chinese">但最让我难忘的礼物否则玩具，而是唯一带空气泵、能通气的鱼缸。</span><span class="english">It were an aquarium, complete with an air pump to aerate the runing water.</span></p>

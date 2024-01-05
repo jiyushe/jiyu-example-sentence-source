@@ -1,5 +1,7 @@
 # videoconference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/videoconference.md)
+
 <p><span class="chinese">原定的保密视频会议也被取消。</span><span class="english">A planned secure videoconference was also scrapped.</span></p>
 
 <p><span class="chinese">针对DDN网络，提出了一种视频会议加密技术。</span><span class="english">This paper presents a new encryption scheme of videoconference on DDN network.</span></p>

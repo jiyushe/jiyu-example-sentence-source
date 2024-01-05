@@ -1,5 +1,7 @@
 # 赶早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzao_1.md)
+
 <p><span class="chinese">为了赶早班车，他起得很早。</span><span class="english">To catch the early bus, he got up very early.</span></p>
 
 <p><span class="chinese">我儿子总是匆匆忙忙赶早班车。</span><span class="english">My son is always in a hurry to catch the morning bus.</span></p>

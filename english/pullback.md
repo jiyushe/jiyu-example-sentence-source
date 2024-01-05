@@ -1,5 +1,7 @@
 # pullback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pullback.md)
+
 <p><span class="chinese">他说，我会等待股市有所回调。</span><span class="english">I would wait for some sort of pullback.</span></p>
 
 <p><span class="chinese">但即便是逐步撤出也会产生重大影响。</span><span class="english">But even a gradual pullback could have big repercussions.</span></p>

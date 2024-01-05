@@ -1,5 +1,7 @@
 # 鼓风炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufenglu.md)
+
 <p><span class="chinese">铅团在鼓风炉中被溶解。</span><span class="english">The lead paste is then smelted in a blast furnace.</span></p>
 
 <p><span class="chinese">焦炭最初是在鼓风炉里作为助燃剂使用。</span><span class="english">Coke is used predominantly as a fuel reluctant in the blast furnace.</span></p>

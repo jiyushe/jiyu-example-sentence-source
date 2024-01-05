@@ -1,5 +1,7 @@
 # blastema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blastema.md)
+
 <p><span class="chinese">塔纳卡接下来希望破译控制芽基形成的基因指令。</span><span class="english">Tanaka next hopes to decipher the genetic instructions governing blastema formation.</span></p>
 
 <p><span class="chinese">但如果我们小心地将一条神经转向受伤的地方，我们就可诱导那些纤维母细胞形成芽基。</span><span class="english">But if we carefully deviated a nerve to the wound site, we could induce those fibroblasts to form a blastema instead.</span></p>

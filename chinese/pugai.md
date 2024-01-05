@@ -1,5 +1,7 @@
 # 铺盖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pugai.md)
+
 <p><span class="chinese">又象黄色的棉被，铺盖在田地里，或者水面上。</span><span class="english">Also like the yellow quilt, blanket in the fields, or water.</span></p>
 
 <p><span class="chinese">农夫将动物垫草铺盖果树护根。</span><span class="english">Nung-fu turned the animal bedding into mulch for fruit trees.</span></p>

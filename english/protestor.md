@@ -1,5 +1,7 @@
 # protestor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protestor.md)
+
 <p><span class="chinese">戈姆利向他欢呼，打趣地说示威者在做“暖场演出。”</span><span class="english">Gormley jokingly hailed the protestor as "a warm-up act".</span></p>
 
 <p><span class="chinese">一个抗议者挥舞着一幅英国女王的画像。</span><span class="english">One protestor appeared to be waving a portrait of the British Queen.</span></p>

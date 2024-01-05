@@ -1,5 +1,7 @@
 # 行囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingnang.md)
+
 <p><span class="chinese">理理行囊，迎接明日的曙光。</span><span class="english">Making up the bag, meeting the dawn of tomorrow.</span></p>
 
 <p><span class="chinese">他们将行囊装在杰克的小型巴士上朝北开去。</span><span class="english">So they loaded up Jack's minivan and headed north.</span></p>

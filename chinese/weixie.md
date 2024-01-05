@@ -1,5 +1,7 @@
 # 威胁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixie.md)
+
 <p><span class="chinese">我威胁道。</span><span class="english">I threatened.</span></p>
 
 <p><span class="chinese">许诺还是威胁？</span><span class="english">Promise or Threat?</span></p>

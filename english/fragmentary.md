@@ -1,5 +1,7 @@
 # fragmentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragmentary.md)
+
 <p><span class="chinese">现在我所掌握的事实只是一些断简残篇。</span><span class="english">The facts that I have now are fragmentary.</span></p>
 
 <p><span class="chinese">有关这学科他的知识残缺不全。</span><span class="english">His knowledge of the subject is fragmentary.</span></p>

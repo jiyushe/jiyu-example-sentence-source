@@ -1,5 +1,7 @@
 # walrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walrus.md)
+
 <p><span class="chinese">你是说我的小海象?。</span><span class="english">You mean my pet baby walrus?</span></p>
 
 <p><span class="chinese">老海象突然大声地喷着鼻息。</span><span class="english">The walrus snorted suddenly and loudly.</span></p>

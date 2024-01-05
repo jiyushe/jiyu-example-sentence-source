@@ -1,5 +1,7 @@
 # 猫眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoyan_2.md)
+
 <p><span class="chinese">把自己家的猫眼反装。</span><span class="english">Reverse the cat's-eye in your own door.</span></p>
 
 <p><span class="chinese">在黑暗中猫眼睁大了。</span><span class="english">The cat's eyes dilated in the darkness.</span></p>

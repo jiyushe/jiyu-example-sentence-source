@@ -1,5 +1,7 @@
 # bisect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisect.md)
+
 <p><span class="chinese">新马路将把城市分成两部分。</span><span class="english">The new road will bisect the town.</span></p>
 
 <p><span class="chinese">用圆规把一个角二等分。</span><span class="english">Use your compass to bisect an angle.</span></p>

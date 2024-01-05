@@ -1,5 +1,7 @@
 # 如云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyun.md)
+
 <p><span class="chinese">厚厚酥饼如云层。</span><span class="english">And clouds of thick eclair.</span></p>
 
 <p><span class="chinese">轻如风，柔如云。</span><span class="english">Light as breeze, soft as cloud.</span></p>

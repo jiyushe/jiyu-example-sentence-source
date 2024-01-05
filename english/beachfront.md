@@ -1,5 +1,7 @@
 # beachfront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beachfront.md)
+
 <p><span class="chinese">你能不能帮我在海上修条高速公路能从我家门口直达那里？</span><span class="english">Could you create a highway from my beachfront home in Malibu to Hawaii?</span></p>
 
 <p><span class="chinese">迪拜的海滩熠熠生辉，其上遍布为富人打造的风格化海景地产。</span><span class="english">Dubai's coast has grown garish with stylized beachfront lots for the wealthy.</span></p>

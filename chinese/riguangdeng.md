@@ -1,5 +1,7 @@
 # 日光灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riguangdeng.md)
+
 <p><span class="chinese">尽量避免使用日光灯和晒黑机。</span><span class="english">And avoid sunlamps and tanning booths.</span></p>
 
 <p><span class="chinese">照明用的是带灯罩的日光灯。</span><span class="english">It was lit by hooded fluorescent lamps.</span></p>

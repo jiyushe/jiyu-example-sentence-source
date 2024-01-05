@@ -1,5 +1,7 @@
 # trophoblast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trophoblast.md)
+
 <p><span class="chinese">绒毛水肿和滋养叶细胞增生无临床意义。</span><span class="english">Villous edema and trophoblast of cell proliferation without clinical significance.</span></p>
 
 <p><span class="chinese">部分病例绒毛高度水肿，滋养叶细胞明显增生。</span><span class="english">Some cases villous height edema and trophoblast cells of the apparent proliferation.</span></p>

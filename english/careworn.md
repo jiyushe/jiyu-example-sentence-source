@@ -1,5 +1,7 @@
 # careworn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/careworn.md)
+
 <p><span class="chinese">像等候一个迟归的亲人。</span><span class="english">As if to wait for a late returning kid careworn.</span></p>
 
 <p><span class="chinese">北欧的侦探经常疲惫而不修边幅。</span><span class="english">The Nordic detective is often careworn and rumpled.</span></p>

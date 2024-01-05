@@ -1,5 +1,7 @@
 # inefficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inefficiency.md)
+
 <p><span class="chinese">另外一个低效率的地方是字节拷贝。</span><span class="english">The other inefficiency is in byte copying.</span></p>
 
 <p><span class="chinese">他说，“整个体制由于缺乏效率而步履蹒跚。</span><span class="english">The system is staggering in its inefficiency.</span></p>

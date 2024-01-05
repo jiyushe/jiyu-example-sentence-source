@@ -1,5 +1,7 @@
 # replacer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replacer.md)
+
 <p><span class="chinese">牠们被喂食从母牛的血液提炼制造出来奶代品。</span><span class="english">They're being fed milk replacer that's made in part from cow's blood.</span></p>
 
 <p><span class="chinese">利用在香肠中添加脂肪替代品的方式降低脂肪含量。</span><span class="english">Reducing the quantity of fat in sausage by the application of fat replacer.</span></p>

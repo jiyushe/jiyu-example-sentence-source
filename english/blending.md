@@ -1,5 +1,7 @@
 # blending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blending.md)
+
 <p><span class="chinese">大的话和希腊预言混合。</span><span class="english">David's Word with Sibyl's blending.</span></p>
 
 <p><span class="chinese">将图层混合模式设置为正片叠底。</span><span class="english">Set the layer blending mode to Multiply</span></p>

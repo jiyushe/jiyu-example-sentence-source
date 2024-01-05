@@ -1,5 +1,7 @@
 # 中科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongke.md)
+
 <p><span class="chinese">中科会致力研究科学及高科技。</span><span class="english">Academia Sinica is devoted to researching science and technology.</span></p>
 
 <p><span class="chinese">第五章，中科博微公司团队建设对策。</span><span class="english">The fifth chapter, Shenyang Microcyber Inc team constructs the countermeasure.</span></p>

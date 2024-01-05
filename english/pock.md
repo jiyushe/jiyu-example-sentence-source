@@ -1,5 +1,7 @@
 # pock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pock.md)
+
 <p><span class="chinese">那个男的脸上有许多麻子。</span><span class="english">The man's face was badly pock -marked.</span></p>
 
 <p><span class="chinese">痘疤完整结好后基本上就没用了，所以要赶忙。</span><span class="english">After a complete end pock basically useless, so quickly.</span></p>

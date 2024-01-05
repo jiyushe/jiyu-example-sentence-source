@@ -1,5 +1,7 @@
 # 奖品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangpin.md)
+
 <p><span class="chinese">哦，多么好的奖品！</span><span class="english">Oh,what a prize!</span></p>
 
 <p><span class="chinese">我们俩共获一个奖品。</span><span class="english">We both won a prize.</span></p>

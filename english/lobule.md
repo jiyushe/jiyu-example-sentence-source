@@ -1,5 +1,7 @@
 # lobule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobule.md)
+
 <p><span class="chinese">肝脏和胰脏的小叶界限不清晰。</span><span class="english">The boundary of liver lobule and pancreatic lobule was obscure.</span></p>
 
 <p><span class="chinese">第18天以后，正常的肝小叶结构开始恢复。</span><span class="english">After day 18, the normal liver lobule structures began to recover.</span></p>

@@ -1,5 +1,7 @@
 # armhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armhole.md)
+
 <p><span class="chinese">这件上衣的袖孔太长了。</span><span class="english">The armhole of the coat is too long.</span></p>
 
 <p><span class="chinese">宽袖孔、窄袖口的袖子。</span><span class="english">A sleeve with a large armhole and tight cuff.</span></p>

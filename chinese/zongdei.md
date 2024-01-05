@@ -1,5 +1,7 @@
 # 总得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongdei.md)
+
 <p><span class="chinese">那么说，你跳起舞来照例总得要谈上几句吗？</span><span class="english">Do you talk as a rule while dancing?</span></p>
 
 <p><span class="chinese">总得平等的对待问题的双方。</span><span class="english">The larger issue is one of equality.</span></p>

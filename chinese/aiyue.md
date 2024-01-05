@@ -1,5 +1,7 @@
 # 哀乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiyue.md)
+
 <p><span class="chinese">广播电台整天都在播放哀乐。</span><span class="english">The radio played dirges all day long.</span></p>
 
 <p><span class="chinese">走在后面的护卫提着一个小立体声，播放着哀乐。</span><span class="english">Another guard walks behind them, carrying a small stereo playing funeral music.</span></p>

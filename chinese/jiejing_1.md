@@ -1,5 +1,7 @@
 # 捷径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejing_1.md)
+
 <p><span class="chinese">没有捷径。</span><span class="english">No shortcuts.</span></p>
 
 <p><span class="chinese">没有其他的捷径了吗?</span><span class="english">Isn't there any shortcut?</span></p>

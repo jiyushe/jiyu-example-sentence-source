@@ -1,5 +1,7 @@
 # 海洋环境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyanghuanjing.md)
+
 <p><span class="chinese">萨芬娜表示，目前海洋环境的确面临着很大的压力。</span><span class="english">Of course, Safina said, the oceans today are stressed.</span></p>
 
 <p><span class="chinese">海运业是海洋环境污染的重要来源之一。</span><span class="english">Ocean shipping is one of main source of marine pollution.</span></p>

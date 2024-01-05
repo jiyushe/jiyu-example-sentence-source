@@ -1,5 +1,7 @@
 # 不合时宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buheshiyi.md)
+
 <p><span class="chinese">这多么不合时宜！</span><span class="english">How inappropriate!</span></p>
 
 <p><span class="chinese">现在读已经不合时宜了。</span><span class="english">It's actually out of place now.</span></p>

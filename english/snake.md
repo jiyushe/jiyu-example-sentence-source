@@ -1,5 +1,7 @@
 # snake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snake.md)
+
 <p><span class="chinese">一条蛇怎么样？</span><span class="english">How about a snake?</span></p>
 
 <p><span class="chinese">这条蛇盘卷起身体。</span><span class="english">The snake coiled up.</span></p>

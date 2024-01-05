@@ -1,5 +1,7 @@
 # 称雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxiong.md)
+
 <p><span class="chinese">公鸡总是在自己的粪堆上称雄。</span><span class="english">A cock is bold on his own dunghill.</span></p>
 
 <p><span class="chinese">公鸡总是在自己粪堆上称雄。</span><span class="english">Every cock crows on its own dunghill.</span></p>

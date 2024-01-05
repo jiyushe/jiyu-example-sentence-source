@@ -1,5 +1,7 @@
 # jowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jowl.md)
+
 <p><span class="chinese">不能有食物和饮料。</span><span class="english">No food or drink. We're seated cheek to jowl here.</span></p>
 
 <p><span class="chinese">我家紧靠一家百货商店。</span><span class="english">My house stands cheek by jowl with a department store.</span></p>

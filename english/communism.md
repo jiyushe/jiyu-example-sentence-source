@@ -1,5 +1,7 @@
 # communism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communism.md)
+
 <p><span class="chinese">用脑子想，别盲目嘲笑资本主义。</span><span class="english">Think about it instead of mindlessly deriding communism.</span></p>
 
 <p><span class="chinese">人们对社会的制度失却了信心，共产制度于是来临。</span><span class="english">People lost faith in the social system and then communism came in.</span></p>

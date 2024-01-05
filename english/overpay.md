@@ -1,5 +1,7 @@
 # overpay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overpay.md)
+
 <p><span class="chinese">让其他人来这么做吧还是。</span><span class="english">Let somebody else overpay for them.</span></p>
 
 <p><span class="chinese">没有人愿意多付的二手设备。</span><span class="english">No one wants to overpay for used equipment.</span></p>

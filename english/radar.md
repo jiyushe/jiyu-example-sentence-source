@@ -1,5 +1,7 @@
 # radar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radar.md)
+
 <p><span class="chinese">雷达转换至相对运动船首向上。</span><span class="english">Change radar to relative head-up.</span></p>
 
 <p><span class="chinese">在我们那个地区有一个雷达网。</span><span class="english">There is a radar net in our area.</span></p>

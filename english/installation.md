@@ -1,5 +1,7 @@
 # installation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/installation.md)
+
 <p><span class="chinese">安装费没有包含在内。</span><span class="english">Installation isn't included.</span></p>
 
 <p><span class="chinese">更加顺畅的安装。</span><span class="english">A much smoother installation.</span></p>

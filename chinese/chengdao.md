@@ -1,5 +1,7 @@
 # 称道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengdao.md)
+
 <p><span class="chinese">但是它最为人所称道的是杂志中的精美图片。</span><span class="english">But what it is best known for is its images.</span></p>
 
 <p><span class="chinese">他的道德品质和性情值得称道。</span><span class="english">His moral character and habits are praiseworthy.</span></p>

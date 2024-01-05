@@ -1,5 +1,7 @@
 # diagonally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagonally.md)
+
 <p><span class="chinese">它应该在斜对面。</span><span class="english">It should be diagonally opposite.</span></p>
 
 <p><span class="chinese">那就是这条对角线了。</span><span class="english">That means I'm going to go diagonally like this.</span></p>

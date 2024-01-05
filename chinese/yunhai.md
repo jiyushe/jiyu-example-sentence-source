@@ -1,5 +1,7 @@
 # 云海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunhai.md)
+
 <p><span class="chinese">黄山云海，特别奇绝。</span><span class="english">Huangshan sea of clouds, especially Qijue.</span></p>
 
 <p><span class="chinese">云海像童话中一样美丽。</span><span class="english">The sea of clouds has a fairy tale beauty.</span></p>

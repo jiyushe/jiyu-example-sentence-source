@@ -1,5 +1,7 @@
 # 生意人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyiren.md)
+
 <p><span class="chinese">她是一个很有教养的人，也是一名成功的生意人。</span><span class="english">She was a cultured person.</span></p>
 
 <p><span class="chinese">你看，我们是文明的生意人。</span><span class="english">You see, we are civilized businessmen.</span></p>

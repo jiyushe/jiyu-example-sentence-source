@@ -1,5 +1,7 @@
 # pachinko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pachinko.md)
+
 <p><span class="chinese">弹球馆通过现金刺激计划受益是有历史先例。</span><span class="english">The filter-through of stimulus cash to the pachinko parlours has historical precedent.</span></p>
 
 <p><span class="chinese">帕金宫股票是接下来6个月中市场表现最好的一支股票。</span><span class="english">Pachinko stocks were the best-performing equities in the market over the following six months.</span></p>

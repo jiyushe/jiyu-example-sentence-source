@@ -1,5 +1,7 @@
 # salutary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salutary.md)
+
 <p><span class="chinese">她在一次攀登事故中折断了脊梁骨。</span><span class="english">The accident is a salutary reminder of the danger of climbing.</span></p>
 
 <p><span class="chinese">我们只能希望这本书引发是一场同样有益的争论。</span><span class="english">One can only hope that the result will be an equally salutary debate.</span></p>

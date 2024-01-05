@@ -1,5 +1,7 @@
 # pasta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasta.md)
+
 <p><span class="chinese">这意大利面太油了。</span><span class="english">This pasta is too greasy.</span></p>
 
 <p><span class="chinese">学会怎么做好吃的意大利面豆浓汤。</span><span class="english">How to make good Pasta Fazul.</span></p>

@@ -1,5 +1,7 @@
 # recomposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recomposition.md)
+
 <p><span class="chinese">重新组合或上下文更改。</span><span class="english">Recomposition or context change.</span></p>
 
 <p><span class="chinese">尤其是他的钢琴改编曲最具代表性。</span><span class="english">His representative work is piano recomposition.</span></p>

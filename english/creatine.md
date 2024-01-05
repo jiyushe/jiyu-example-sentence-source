@@ -1,5 +1,7 @@
 # creatine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creatine.md)
+
 <p><span class="chinese">因此，肌酸应该如何服用？</span><span class="english">So how should you take creatine?</span></p>
 
 <p><span class="chinese">肌肉素和蛋白质不起作用。</span><span class="english">Creatine and protein shakes didn't help.</span></p>

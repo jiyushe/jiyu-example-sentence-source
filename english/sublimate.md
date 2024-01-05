@@ -1,5 +1,7 @@
 # sublimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublimate.md)
+
 <p><span class="chinese">第四章由读创写，是将所读的升华成写法。</span><span class="english">Chapter IV tells we should sublimate reading into writing.</span></p>
 
 <p><span class="chinese">这是非常强大的升华土星的邪恶的影响。</span><span class="english">It is very powerful to sublimate the malefic effects of Saturn.</span></p>

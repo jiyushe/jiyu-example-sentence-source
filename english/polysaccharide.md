@@ -1,5 +1,7 @@
 # polysaccharide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polysaccharide.md)
+
 <p><span class="chinese">琼脂糖是一种天然的直链多糖。</span><span class="english">Agarose is naturally linear polysaccharide.</span></p>
 
 <p><span class="chinese">该MBF中含多糖和蛋白质等有机高分子物质。</span><span class="english">The MBF was found to contain polysaccharide and protein.</span></p>

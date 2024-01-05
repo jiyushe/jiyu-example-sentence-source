@@ -1,5 +1,7 @@
 # overtook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overtook.md)
+
 <p><span class="chinese">我们正赶上不合时季的淫雨。</span><span class="english">Unseasonable rains overtook us.</span></p>
 
 <p><span class="chinese">在到达终点线时他超过了我。</span><span class="english">At last he overtook me at the finishing line.</span></p>

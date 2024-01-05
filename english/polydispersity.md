@@ -1,5 +1,7 @@
 # polydispersity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polydispersity.md)
+
 <p><span class="chinese">可溶性添加物能够增加沥青质胶团的分散度，使之更趋向多分散。</span><span class="english">The additives could increase the polydispersity of asphaltene colloidal particles as well.</span></p>
 
 <p><span class="chinese">采用激光动态光散射法检测粒度与粒度分布。</span><span class="english">The particle diameter and its polydispersity were determined with laser dynamic light-scattering method.</span></p>

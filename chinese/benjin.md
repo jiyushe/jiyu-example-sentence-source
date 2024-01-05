@@ -1,5 +1,7 @@
 # 本金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benjin.md)
+
 <p><span class="chinese">无本金交割合同中的结算货币是美元。</span><span class="english">Non-deliverable contracts are settled in dollars.</span></p>
 
 <p><span class="chinese">每一个本金保证产品都是在与一家客户商讨之后设立的。</span><span class="english">Each CGP is created in consultation with a client.</span></p>

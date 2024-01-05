@@ -1,5 +1,7 @@
 # phallic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phallic.md)
+
 <p><span class="chinese">处于性器官期。</span><span class="english">You're in the phallic stage.</span></p>
 
 <p><span class="chinese">你就在生殖器阶段。</span><span class="english">You're in the phallic stage.</span></p>

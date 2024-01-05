@@ -1,5 +1,7 @@
 # frightening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frightening.md)
+
 <p><span class="chinese">吓人的是那张床。</span><span class="english">It's the bed that is frightening.</span></p>
 
 <p><span class="chinese">这些统计数据令人心寒。</span><span class="english">These are frightening statistics.</span></p>

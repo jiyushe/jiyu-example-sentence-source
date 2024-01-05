@@ -1,5 +1,7 @@
 # deceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceptive.md)
+
 <p><span class="chinese">沙漠中的海市蜃楼是一种假象。</span><span class="english">A mirage in the desert is deceptive.</span></p>
 
 <p><span class="chinese">他走到哪里，却总有人感恩戴德。</span><span class="english">He go to where, but someone deceptive.</span></p>

@@ -1,5 +1,7 @@
 # gnu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnu.md)
+
 <p><span class="chinese">猎人在密林中追踪一只牛羚。</span><span class="english">The hunter slotted a gnu in the woods.</span></p>
 
 <p><span class="chinese">主要是和二进制文件相关的。</span><span class="english">The GNU Binutils are a collection of binary tools.</span></p>

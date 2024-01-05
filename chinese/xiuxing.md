@@ -1,5 +1,7 @@
 # 修行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxing.md)
+
 <p><span class="chinese">逃避非善法，面对是修行。</span><span class="english">Evasion is not a good method.</span></p>
 
 <p><span class="chinese">一个人应该怎样修行禅定？</span><span class="english">How does one practise samadhi?</span></p>

@@ -1,5 +1,7 @@
 # inarticulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inarticulate.md)
+
 <p><span class="chinese">她看到了他的眼睛，又发出一声含糊不清的喊叫。</span><span class="english">She saw his eyes and gave another inarticulate cry.</span></p>
 
 <p><span class="chinese">口齿不清的野兽是我长期这样的人。</span><span class="english">Inarticulate beasts is what I would term such people.</span></p>

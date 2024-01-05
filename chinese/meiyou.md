@@ -1,5 +1,7 @@
 # 没有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyou.md)
+
 <p><span class="chinese">没有，先生。</span><span class="english">No sir.</span></p>
 
 <p><span class="chinese">没有拥抱。</span><span class="english">No hugs.</span></p>

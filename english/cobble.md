@@ -1,5 +1,7 @@
 # cobble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cobble.md)
+
 <p><span class="chinese">它看起来就像一块巨大的灰色鹅卵石，带着劈过的痕迹。</span><span class="english">It looks like a large, chipped grey cobble.</span></p>
 
 <p><span class="chinese">我还是想要凑出一张排名来。</span><span class="english">Still I managed to  cobble a list together.</span></p>

@@ -1,5 +1,7 @@
 # relent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relent.md)
+
 <p><span class="chinese">到时候我也许会仁慈一些。</span><span class="english">I may relent somewhat when the time comes.</span></p>
 
 <p><span class="chinese">这可能迫使宝钢软化了立场。</span><span class="english">That may have pressured Baosteel to relent.</span></p>

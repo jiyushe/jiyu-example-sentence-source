@@ -1,5 +1,7 @@
 # 战功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangong.md)
+
 <p><span class="chinese">这支赫赫有名的部队曾立过很大的战功。</span><span class="english">This famous unit had rendered the highest service.</span></p>
 
 <p><span class="chinese">他的另一个战功是诺拉战役。</span><span class="english">Another of his Achievements was the battle of Nola.</span></p>

@@ -1,5 +1,7 @@
 # lever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lever.md)
+
 <p><span class="chinese">当然。拉一下这个操作杆就行了。</span><span class="english">Sure . Just pull this lever.</span></p>
 
 <p><span class="chinese">它们只会去压动杠杆。</span><span class="english">They just pressed the lever.</span></p>

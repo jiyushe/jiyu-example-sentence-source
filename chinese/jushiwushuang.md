@@ -1,5 +1,7 @@
 # 举世无双
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushiwushuang.md)
+
 <p><span class="chinese">他是位举世无双的爵士乐演奏者。</span><span class="english">He is unequaled, as a jazz player.</span></p>
 
 <p><span class="chinese">贝利是举世无双的足球健将。</span><span class="english">Pele was in a class of his own as a footballer.</span></p>

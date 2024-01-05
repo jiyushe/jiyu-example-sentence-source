@@ -1,5 +1,7 @@
 # naturopathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturopathic.md)
+
 <p><span class="chinese">如需转介或查询详情，请联络莎莉自然疗法医疗中心。</span><span class="english">For referral or details, pls. contact Shirley Naturopathic Holistic Centre.</span></p>
 
 <p><span class="chinese">如需转介或查询详情，请联络莎莉自然疗法医疗中心。</span><span class="english">For referral or check details, pls. contact Shirley Naturopathic Holistic Centre.</span></p>

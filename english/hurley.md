@@ -1,5 +1,7 @@
 # hurley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurley.md)
+
 <p><span class="chinese">债市"根本忧虑"犹在,Hurley称,"通膨的问题还未消失,下周市场还要应付供应的问题."</span><span class="english">The bond market's "underlying concerns" remain, Hurley said.</span></p>
 
 <p><span class="chinese">此前，休格兰特最著名的恋情就是和女星伊丽莎白赫利的爱情马拉松，俩人在一起13年，却在2000年分道扬镳。</span><span class="english">Grant's best known relationship was with actress Elizabeth Hurley.</span></p>

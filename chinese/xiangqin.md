@@ -1,5 +1,7 @@
 # 乡亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqin.md)
+
 <p><span class="chinese">乡亲父老，欢迎来到现实世界。</span><span class="english">Welcome to the real world, folks.</span></p>
 
 <p><span class="chinese">这是撒旦的计划，我亲爱的乡亲。</span><span class="english">This is Satan's design, my dear folks.</span></p>

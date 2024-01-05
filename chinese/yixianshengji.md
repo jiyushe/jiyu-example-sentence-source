@@ -1,5 +1,7 @@
 # 一线生机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixianshengji.md)
+
 <p><span class="chinese">“她还有一线生机——有百分之十的希望，”他说。</span><span class="english">"She has one chance in – let us say ten, " he said.</span></p>
 
 <p><span class="chinese">在种种挫折之余，仍有着一线生机。</span><span class="english">Amid all this disappointment came yet another prospect for survival.</span></p>

@@ -1,5 +1,7 @@
 # outrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outrage.md)
+
 <p><span class="chinese">这种义愤不合理么？</span><span class="english">Doesn't this outrage justice?</span></p>
 
 <p><span class="chinese">我想，愤怒让我走了很远。</span><span class="english">I guess outrage got me pretty far.</span></p>

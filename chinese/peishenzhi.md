@@ -1,5 +1,7 @@
 # 陪审制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peishenzhi.md)
+
 <p><span class="chinese">陪审制是公民参与司法审判的主要方式之一。</span><span class="english">Jury system is one of the important methods of the people's judicature.</span></p>
 
 <p><span class="chinese">陪审制的运用是英国刑事审判的主要特征。</span><span class="english">The jury's utilization is the main characteristic of England criminal trial.</span></p>

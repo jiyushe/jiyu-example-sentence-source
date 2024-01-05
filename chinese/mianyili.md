@@ -1,5 +1,7 @@
 # 免疫力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyili.md)
+
 <p><span class="chinese">如何提高皮肤的免疫力？</span><span class="english">How to enhance cutaneous immunity power?</span></p>
 
 <p><span class="chinese">全面提升爱宠免疫力。</span><span class="english">All-round lifting love bestows favor on immunity.</span></p>

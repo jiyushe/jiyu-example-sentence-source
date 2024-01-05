@@ -1,5 +1,7 @@
 # 放射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshe.md)
+
 <p><span class="chinese">放射医学。</span><span class="english">Radiation Medicine.</span></p>
 
 <p><span class="chinese">太阳放射出热量。</span><span class="english">The sun radiates heat.</span></p>

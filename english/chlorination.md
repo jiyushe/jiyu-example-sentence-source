@@ -1,5 +1,7 @@
 # chlorination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorination.md)
+
 <p><span class="chinese">是氯水投加还是废水处理。</span><span class="english">Of chlorination in water and wastewater treatment.</span></p>
 
 <p><span class="chinese">氯化法在实践中已得到广泛应用。</span><span class="english">The practice of chlorination has become so widespread.</span></p>

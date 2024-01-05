@@ -1,5 +1,7 @@
 # 雨鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxie.md)
+
 <p><span class="chinese">这是我的雨鞋。</span><span class="english">These are my boots.</span></p>
 
 <p><span class="chinese">往欧洲出口雨鞋。</span><span class="english">Exporting rain boots to Europe.</span></p>

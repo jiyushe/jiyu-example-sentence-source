@@ -1,5 +1,7 @@
 # timetable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timetable.md)
+
 <p><span class="chinese">你有时刻表吗？</span><span class="english">Do you have a timetable?</span></p>
 
 <p><span class="chinese">这是一张列车时刻表。</span><span class="english">It is a railway timetable.</span></p>

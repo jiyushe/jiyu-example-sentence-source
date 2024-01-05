@@ -1,5 +1,7 @@
 # 堂堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangtang.md)
+
 <p><span class="chinese">堂堂英格兰-你们的茔墓！</span><span class="english">England be your sepulchre.</span></p>
 
 <p><span class="chinese">但你步履沉稳，是个堂堂男子汉！</span><span class="english">But you will walk like a man!</span></p>

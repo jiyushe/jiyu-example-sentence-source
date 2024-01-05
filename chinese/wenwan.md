@@ -1,5 +1,7 @@
 # 温婉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenwan.md)
+
 <p><span class="chinese">此时，月华如水，温婉动人。</span><span class="english">At this time, clean-washed, gentle moving.</span></p>
 
 <p><span class="chinese">甜蜜而又温婉，正是南歌子的特点。</span><span class="english">So sweet and tender, as is any Southern Song.</span></p>

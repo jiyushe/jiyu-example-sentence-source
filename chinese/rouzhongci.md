@@ -1,5 +1,7 @@
 # 肉中刺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouzhongci.md)
+
 <p><span class="chinese">拉登是布什的肉中刺。</span><span class="english">Laden is the thorn in Bush's flesh.</span></p>
 
 <p><span class="chinese">例2那个问题是他们的肉中刺。</span><span class="english">That problem is a thorn in their flesh.</span></p>

@@ -1,5 +1,7 @@
 # 节约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyue.md)
+
 <p><span class="chinese">浪费还是节约？</span><span class="english">Waste or Save?</span></p>
 
 <p><span class="chinese">节约用电。</span><span class="english">Save electricity.</span></p>

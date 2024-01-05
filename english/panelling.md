@@ -1,5 +1,7 @@
 # panelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panelling.md)
+
 <p><span class="chinese">有些房子用的是木板材条。</span><span class="english">Some houses have wood panelling.</span></p>
 
 <p><span class="chinese">这家酒馆用的是黑木镶板。</span><span class="english">The pub had dark wood panelling.</span></p>

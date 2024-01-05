@@ -1,5 +1,7 @@
 # 人海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renhai.md)
+
 <p><span class="chinese">让我在茫茫人海中遇见你。</span><span class="english">Let me meet you in the world.</span></p>
 
 <p><span class="chinese">人海茫茫中，我认识你。</span><span class="english">Out of the many people, I know you.</span></p>

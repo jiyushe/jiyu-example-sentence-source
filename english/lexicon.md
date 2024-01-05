@@ -1,5 +1,7 @@
 # lexicon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lexicon.md)
+
 <p><span class="chinese">来自词典中神话的同义词是“理性”。</span><span class="english">A synonym from the lexicon is logos.</span></p>
 
 <p><span class="chinese">它真地对我们的词典构成威胁吗？</span><span class="english">And is it really a threat to our lexicon?</span></p>

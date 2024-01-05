@@ -1,5 +1,7 @@
 # mutate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutate.md)
+
 <p><span class="chinese">我们自己的意识可以产生转变、发生变异，最终变得怪异。</span><span class="english">That our sense of self can change, mutate and become monstrous.</span></p>
 
 <p><span class="chinese">在大流行期间这一病毒没有突变为某种更致命的形式。</span><span class="english">The virus did not mutate during the pandemic to a more lethal form.</span></p>

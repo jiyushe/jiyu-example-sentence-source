@@ -1,5 +1,7 @@
 # 圣灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengling.md)
+
 <p><span class="chinese">保惠师就是圣灵。</span><span class="english">The Comforter is the Holy Ghost.</span></p>
 
 <p><span class="chinese">圣灵是能被经历的实体！</span><span class="english">He is not a non-experience entity!</span></p>

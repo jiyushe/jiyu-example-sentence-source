@@ -1,5 +1,7 @@
 # mongolia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mongolia.md)
+
 <p><span class="chinese">蒙古高原啊！</span><span class="english">Mongolia plateau Ah!</span></p>
 
 <p><span class="chinese">蒙古也要繁荣了。</span><span class="english">Mongolia is about to boom.</span></p>

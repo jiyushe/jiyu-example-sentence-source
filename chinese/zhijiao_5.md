@@ -1,5 +1,7 @@
 # 至交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiao_5.md)
+
 <p><span class="chinese">至交是出生时上天忘了赐予我们的同胞手足。</span><span class="english">Bestfriends are the siblings god forgot to give us.</span></p>
 
 <p><span class="chinese">有至交者，自然享有友情之乐。</span><span class="english">People who have close friends naturally enjoy their company.</span></p>

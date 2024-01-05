@@ -1,5 +1,7 @@
 # 内耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neier.md)
+
 <p><span class="chinese">他开发了一种在他的内耳疾病。</span><span class="english">He developed a disorder in his inner-ear.</span></p>
 
 <p><span class="chinese">同时重点观察了内耳的损伤。</span><span class="english">Injuries of inner-ear were also observed.</span></p>

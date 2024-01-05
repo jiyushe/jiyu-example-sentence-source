@@ -1,5 +1,7 @@
 # 天兵天将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianbingtianjiang.md)
+
 <p><span class="chinese">没有任何天兵天将能够阻止它。</span><span class="english">None of the heavenly generals and soldiers could do anything about it.</span></p>
 
 <p><span class="chinese">谁是谁的幸运星，或是天兵天将，命中注定，各有前因。——亦舒。</span><span class="english">Who is the lucky star, or mountain day, fate, because each has before.</span></p>

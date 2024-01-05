@@ -1,5 +1,7 @@
 # 丸药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyao.md)
+
 <p><span class="chinese">这种丸药怎么服？</span><span class="english">How do I take the pills?</span></p>
 
 <p><span class="chinese">丸药不苦不会加糖衣。</span><span class="english">If the pills were pleasant, they would not be gilded.</span></p>

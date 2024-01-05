@@ -1,5 +1,7 @@
 # laughable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laughable.md)
+
 <p><span class="chinese">把国旗挥舞称为“种族主义者”是可笑的。</span><span class="english">Callingflag waving "racist" is laughable.</span></p>
 
 <p><span class="chinese">即使涅斯托发誓说那笑话很可笑。</span><span class="english">Though Nestor swear the jest be laughable.</span></p>

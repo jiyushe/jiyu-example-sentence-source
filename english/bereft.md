@@ -1,5 +1,7 @@
 # bereft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bereft.md)
+
 <p><span class="chinese">我的成长中缺乏拥抱。</span><span class="english">I grew up bereft of hugs.</span></p>
 
 <p><span class="chinese">梵天被剥夺了判断力。</span><span class="english">That Brahma is bereft of sense.</span></p>

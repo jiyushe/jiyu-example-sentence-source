@@ -1,5 +1,7 @@
 # erythropoiesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erythropoiesis.md)
+
 <p><span class="chinese">上述正常红细胞浓度使得红血球生成几乎完全停止。</span><span class="english">The above-normal red cell concentration produces an almost complete cessation of erythropoiesis.</span></p>
 
 <p><span class="chinese">高通量透析器较普通低通量透析器能更有效清除红细胞生成抑制因子。</span><span class="english">High-flux dialyzer are more effective in clearing the erythropoiesis inhibitors than low-flux dialyzer.</span></p>

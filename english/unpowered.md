@@ -1,5 +1,7 @@
 # unpowered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpowered.md)
+
 <p><span class="chinese">有微风的时候，这个区域非常容易影响无动力航船。</span><span class="english">Having little wind, this area greatly affects unpowered ships.</span></p>
 
 <p><span class="chinese">旋翼机在飞行中是靠无动力旋转式机翼来支持的。</span><span class="english">An autogiro is supported in flight by unpowered rotating wings.</span></p>

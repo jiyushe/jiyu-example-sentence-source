@@ -1,5 +1,7 @@
 # 微辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weici_3.md)
+
 <p><span class="chinese">就资本主义浪费的物质主义来说，即使亚当。斯密也颇有微辞。</span><span class="english">As for capitalism's wasteful materialism, even Adam Smith had a problem with it.</span></p>
 
 <p><span class="chinese">就资本主义浪费的物质主义来说，即使亚当。斯密也颇有微辞。</span><span class="english">As for capitalism's wasteful materialism , even Adam Smith had a problem with it.</span></p>

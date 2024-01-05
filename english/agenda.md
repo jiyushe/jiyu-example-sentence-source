@@ -1,5 +1,7 @@
 # agenda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agenda.md)
+
 <p><span class="chinese">社会议程。</span><span class="english">Social Agenda.</span></p>
 
 <p><span class="chinese">这是一个很满的议程。</span><span class="english">It’s a fulsome agenda.</span></p>

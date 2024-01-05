@@ -1,5 +1,7 @@
 # corollary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corollary.md)
+
 <p><span class="chinese">这有一个推论。</span><span class="english">There is a corollary to this.</span></p>
 
 <p><span class="chinese">但这种见解有一个必然的结果。</span><span class="english">But there is a corollary to this insight.</span></p>

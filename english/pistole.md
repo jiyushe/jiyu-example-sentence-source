@@ -1,5 +1,7 @@
 # pistole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pistole.md)
+
 <p><span class="chinese">皮斯托尔说，孩子的鞋子很小，不大可能藏匿炸弹。</span><span class="english">Small shoes are unlikely to have bombs hidden inside, Mr. Pistole said.</span></p>
 
 <p><span class="chinese">旅游协会希望国会认可那些给皮斯托在其改革方向上更多自由的想法。</span><span class="english">The travel association wants Congress to endorse those ideas to give Pistole greater freedom to move in that direction.</span></p>

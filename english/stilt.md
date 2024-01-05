@@ -1,5 +1,7 @@
 # stilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stilt.md)
+
 <p><span class="chinese">高跷舞的基本动作是秧歌步。</span><span class="english">Stilt dance basic moves are Yangko step.</span></p>
 
 <p><span class="chinese">哇！那个高跷表演者真高！</span><span class="english">NO05, Wow! The stilt walkers are so tall!</span></p>

@@ -1,5 +1,7 @@
 # snappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snappy.md)
+
 <p><span class="chinese">上海是艺术装饰风格建筑的活博物馆。</span><span class="english">Shanghai is a snappy museum of art-deco style.</span></p>
 
 <p><span class="chinese">电视和电影节目租借用起来真的很简单快捷.</span><span class="english">TV and movie rentals are really snappy and fast.</span></p>

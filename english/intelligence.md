@@ -1,5 +1,7 @@
 # intelligence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligence.md)
+
 <p><span class="chinese">商业智能是什么？</span><span class="english">What is Business Intelligence?</span></p>
 
 <p><span class="chinese">智力是她的主要财富。</span><span class="english">Intelligence was her main asset.</span></p>

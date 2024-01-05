@@ -1,5 +1,7 @@
 # allopathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allopathic.md)
+
 <p><span class="chinese">禁止使用化学对抗疗法的兽药和抗生素。</span><span class="english">Chemical allopathic veterinary drugs and antibiotics is prohibited.</span></p>
 
 <p><span class="chinese">经过对抗疗法的兽医治疗后，动物就会完全进入转换期。</span><span class="english">After allopathic veterinary treatments, animals have to undergo the complete conversion period.</span></p>

@@ -1,5 +1,7 @@
 # imprecision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprecision.md)
+
 <p><span class="chinese">对这种用词不够精确的模糊语言，倒不一定要加以批评责备。</span><span class="english">Such verbal imprecision is not necessarily to be criticised.</span></p>
 
 <p><span class="chinese">如何表达风险值估计不准，是深层次风险区划研究的问题。</span><span class="english">It is a deep-seated problem that how to express the imprecision of risk assessments.</span></p>

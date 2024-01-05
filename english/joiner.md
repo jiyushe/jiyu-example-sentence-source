@@ -1,5 +1,7 @@
 # joiner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joiner.md)
+
 <p><span class="chinese">我学会了做木工。</span><span class="english">Father, I have become a joiner.</span></p>
 
 <p><span class="chinese">时的，我们把所有的细木工舾装都分包出去。</span><span class="english">Y es, we subcontract almost all the joiner work.</span></p>

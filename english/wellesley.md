@@ -1,5 +1,7 @@
 # wellesley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wellesley.md)
+
 <p><span class="chinese">即使是为了韦尔斯利学院。</span><span class="english">Not even for Wellesley.</span></p>
 
 <p><span class="chinese">它设在麻省的韦尔斯利学院。</span><span class="english">It is at Wellesley College in Massachusetts.</span></p>

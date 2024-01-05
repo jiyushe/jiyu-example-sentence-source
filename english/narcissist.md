@@ -1,5 +1,7 @@
 # narcissist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narcissist.md)
+
 <p><span class="chinese">我就是一个自恋主义者。</span><span class="english">I am a narcissist.</span></p>
 
 <p><span class="chinese">你的丈夫是一个自恋主义者。</span><span class="english">Your husband is a narcissist.</span></p>

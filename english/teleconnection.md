@@ -1,5 +1,7 @@
 # teleconnection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleconnection.md)
+
 <p><span class="chinese">本文分析了海气热力遥相关联系。</span><span class="english">In this paper, air-sea thermal teleconnection is analyzed.</span></p>
 
 <p><span class="chinese">研究了我国月平均气温场的遥相关结构。</span><span class="english">The teleconnection structure of the monthly mean temperature fields in China has been studied in this paper.</span></p>

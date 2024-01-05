@@ -1,5 +1,7 @@
 # integrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrated.md)
+
 <p><span class="chinese">西朗综合枢纽区。</span><span class="english">Serang integrated hub area.</span></p>
 
 <p><span class="chinese">集成了网络收音机Shoutcast</span><span class="english">Integrated Shoutcast Internet radio</span></p>

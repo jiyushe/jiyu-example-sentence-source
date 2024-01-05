@@ -1,5 +1,7 @@
 # moody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moody.md)
+
 <p><span class="chinese">他不会喜怒无常。</span><span class="english">He's not moody.</span></p>
 
 <p><span class="chinese">今天他情绪不好。</span><span class="english">He was very moody today.</span></p>

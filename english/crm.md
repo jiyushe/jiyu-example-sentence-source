@@ -1,5 +1,7 @@
 # crm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crm.md)
+
 <p><span class="chinese">然后对招商地产实施客户关系管理的案例进行剖析。</span><span class="english">Besides, a case of Zhaoshang real estate's performing CRM is analyzed.</span></p>
 
 <p><span class="chinese">本文讨论了螯合稀土钼在胶乳再生调节中的作用。</span><span class="english">The effects of the CRM on the regulation of latex regeneration is discussed.</span></p>

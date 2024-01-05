@@ -1,5 +1,7 @@
 # gateway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gateway.md)
+
 <p><span class="chinese">车停在大门口。</span><span class="english">The car parked at the gateway.</span></p>
 
 <p><span class="chinese">可视图文网关控制?。</span><span class="english">VGC? Videotex Gateway Control?</span></p>

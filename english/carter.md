@@ -1,5 +1,7 @@
 # carter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carter.md)
+
 <p><span class="chinese">谢谢你，卡特先生。</span><span class="english">Thank you,Mr. Carter.</span></p>
 
 <p><span class="chinese">卡特先生经营着一个牛奶场。</span><span class="english">Mr. Carter ran a dairy.</span></p>

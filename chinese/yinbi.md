@@ -1,5 +1,7 @@
 # 荫蔽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbi.md)
+
 <p><span class="chinese">寺区林荫蔽日，水流潺潺。</span><span class="english">Temple area lined Biri, water Chan Chan.</span></p>
 
 <p><span class="chinese">在亚洲，猕猴桃在荫蔽条件下能生长得很好。</span><span class="english">In Asia, the hardy kiwi grows well in the shade.</span></p>

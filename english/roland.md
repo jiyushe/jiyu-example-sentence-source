@@ -1,5 +1,7 @@
 # roland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roland.md)
+
 <p><span class="chinese">罗兰·博克东京报道。</span><span class="english">Roland Buerk in Tokyo.</span></p>
 
 <p><span class="chinese">罗兰?比尔克在科伦坡报道。</span><span class="english">Roland Buerk is in Colombo.</span></p>

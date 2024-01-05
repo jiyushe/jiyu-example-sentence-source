@@ -1,5 +1,7 @@
 # 鸵鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoniao_1.md)
+
 <p><span class="chinese">为什么饲养鸵鸟？</span><span class="english">Why ostriches?</span></p>
 
 <p><span class="chinese">哟，鸵鸟蛋。</span><span class="english">Wow, ostrich eggs.</span></p>

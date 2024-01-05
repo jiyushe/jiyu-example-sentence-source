@@ -1,5 +1,7 @@
 # flexure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexure.md)
+
 <p><span class="chinese">挠性卫星动力学模型分析及其控制方案研究。</span><span class="english">Analysis of flexure dynamics and study of its control method.</span></p>
 
 <p><span class="chinese">用于检测金属线材的抗拉强度，及弯曲试验。</span><span class="english">For testing the tensile strength and flexure strength of wire.</span></p>

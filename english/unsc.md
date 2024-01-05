@@ -1,5 +1,7 @@
 # unsc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsc.md)
+
 <p><span class="chinese">中国重获联合国合法席位</span><span class="english">China regiven the seat on the UNSC</span></p>
 
 <p><span class="chinese">图配有联合国安理会战步枪。</span><span class="english">Figure comes with UNSC Battle Rifle.</span></p>

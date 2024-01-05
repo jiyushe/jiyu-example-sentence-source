@@ -1,5 +1,7 @@
 # barehanded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barehanded.md)
+
 <p><span class="chinese">警察命令那个男人空手出来。</span><span class="english">The police ordered the men to come out barehanded.</span></p>
 
 <p><span class="chinese">然后让他们试着徒手再次去抓块块。</span><span class="english">Then they tried to snag the block barehanded again.</span></p>

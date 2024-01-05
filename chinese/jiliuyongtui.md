@@ -1,5 +1,7 @@
 # 急流勇退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiliuyongtui.md)
+
 <p><span class="chinese">我想过急流勇退，宝贝，但是我心有不甘。</span><span class="english">I thought of quitting, baby, but my heart just ain't gonna buy it.</span></p>
 
 <p><span class="chinese">如果此时急流勇退，也好过以后被淘汰。</span><span class="english">If this time quits while ahead, also will feel better is eliminated later.</span></p>

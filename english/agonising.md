@@ -1,5 +1,7 @@
 # agonising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agonising.md)
+
 <p><span class="chinese">所以对很多州政府来说，六月是让他们烦恼的一个月。</span><span class="english">For many states June was an agonising month.</span></p>
 
 <p><span class="chinese">在我知道怎么分散精力之前，我都是煎熬着度过那些日子的。</span><span class="english">The first few days before I discovered some distraction techniques were agonising.</span></p>

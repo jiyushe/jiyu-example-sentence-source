@@ -1,5 +1,7 @@
 # arco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arco.md)
+
 <p><span class="chinese">阿科周围有许多岩石。</span><span class="english">There are many rocks near Arco.</span></p>
 
 <p><span class="chinese">这是阿科小镇上的古堡。</span><span class="english">This is the old castle of Arco.</span></p>

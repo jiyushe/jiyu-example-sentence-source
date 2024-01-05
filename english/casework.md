@@ -1,5 +1,7 @@
 # casework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casework.md)
+
 <p><span class="chinese">也就是说你需要我的文件和所有的资料？</span><span class="english">And so you need my files and all my casework ?</span></p>
 
 <p><span class="chinese">实验室柜体侧面图。</span><span class="english">Elevation view drawing for laboratory casework configuration.</span></p>

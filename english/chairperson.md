@@ -1,5 +1,7 @@
 # chairperson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chairperson.md)
+
 <p><span class="chinese">谢谢主席先生。</span><span class="english">Thank you Mr Chairperson.</span></p>
 
 <p><span class="chinese">谢谢主席女士。</span><span class="english">Thank you, Madam Chairperson.</span></p>

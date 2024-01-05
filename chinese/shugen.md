@@ -1,5 +1,7 @@
 # 树根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shugen.md)
+
 <p><span class="chinese">这些树根很好拔。</span><span class="english">These tree-roots pull easily.</span></p>
 
 <p><span class="chinese">树根烂了。</span><span class="english">The root of the tree rotted away.</span></p>

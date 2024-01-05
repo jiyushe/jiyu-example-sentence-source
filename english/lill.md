@@ -1,5 +1,7 @@
 # lill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lill.md)
+
 <p><span class="chinese">全国上下的人民更加爱戴莉儿公主了。</span><span class="english">Up and down the country people more loved lill princess.</span></p>
 
 <p><span class="chinese">她让莉尔打一封信，然后便离开了。</span><span class="english">She directed Lill to type a single letter, and then left.</span></p>

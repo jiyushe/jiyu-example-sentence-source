@@ -1,5 +1,7 @@
 # gloucestershire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloucestershire.md)
+
 <p><span class="chinese">格洛斯特郡的一个村庄，离布里斯托尔大约北25英里。</span><span class="english">Gloucestershire village located approximately 25 miles north of Bristol.</span></p>
 
 <p><span class="chinese">一位格洛斯特郡农民耕种着2500英亩但没有一丁点是属于他的农田。</span><span class="english">One Gloucestershire farmer farms 2,500 acres but does not own any of it.</span></p>

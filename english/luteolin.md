@@ -1,5 +1,7 @@
 # luteolin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luteolin.md)
+
 <p><span class="chinese">方法用高效液相色谱法测定木犀草素的含量。</span><span class="english">Methods The HPLC method was established to determine the content of luteolin.</span></p>
 
 <p><span class="chinese">目的建立墨旱莲中木樨草素的含量测定方法。</span><span class="english">Objective To establish a determination method of luteolin in Eclipta prostrata L.</span></p>

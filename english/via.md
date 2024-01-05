@@ -1,5 +1,7 @@
 # via
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/via.md)
+
 <p><span class="chinese">是的，通过电传打字电报。</span><span class="english">Yes, via teletype.</span></p>
 
 <p><span class="chinese">生命途经流年，似水。</span><span class="english">Life via time, water.</span></p>

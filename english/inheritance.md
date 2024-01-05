@@ -1,5 +1,7 @@
 # inheritance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inheritance.md)
+
 <p><span class="chinese">什么时候才应该使用继承性</span><span class="english">When inheritance should be used</span></p>
 
 <p><span class="chinese">是继承纠纷还是析产纠纷?。</span><span class="english">Dispute of Inheritance or Division?</span></p>

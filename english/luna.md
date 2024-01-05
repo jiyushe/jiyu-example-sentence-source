@@ -1,5 +1,7 @@
 # luna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luna.md)
+
 <p><span class="chinese">无意向窗外望去看到一轮弯月。</span><span class="english">I see luna from my window.</span></p>
 
 <p><span class="chinese">我想你认识我们家卢娜吧?。</span><span class="english">But I think you know my Luna?</span></p>

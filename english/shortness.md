@@ -1,5 +1,7 @@
 # shortness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortness.md)
+
 <p><span class="chinese">是否有过呼吸急促的表现？</span><span class="english">Have you experienced any shortness of breath?</span></p>
 
 <p><span class="chinese">以上两种情况均可导致气促。</span><span class="english">In both cases can lead to shortness of breath.</span></p>

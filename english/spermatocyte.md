@@ -1,5 +1,7 @@
 # spermatocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatocyte.md)
+
 <p><span class="chinese">一个次级精母细胞分裂并最终产生两个精子。</span><span class="english">One secondary spermatocyte divides and eventually grows into two sperm cells.</span></p>
 
 <p><span class="chinese">配子母细胞，配子细胞配偶子通过配子减数分裂而发展的细胞，尢指。</span><span class="english">A cell from which gametes develop by meiotic division, especially a spermatocyte or an oocyte.</span></p>

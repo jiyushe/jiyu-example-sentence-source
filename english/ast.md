@@ -1,5 +1,7 @@
 # ast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ast.md)
+
 <p><span class="chinese">他昨晚写了一篇作文。</span><span class="english">He wrote his composition lso ast night.</span></p>
 
 <p><span class="chinese">结束她昨晚放你鸽子啦?。</span><span class="english">So she stood you up laudio-videoailable ast night.</span></p>

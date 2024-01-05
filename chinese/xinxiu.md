@@ -1,5 +1,7 @@
 # 新秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxiu.md)
+
 <p><span class="chinese">她是戏剧界的一位新秀。</span><span class="english">She is a real find in the theatre.</span></p>
 
 <p><span class="chinese">他就是这样的新秀之一。</span><span class="english">Rodney Stuckey is one of those rookies.</span></p>

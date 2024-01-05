@@ -1,5 +1,7 @@
 # industrialise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialise.md)
+
 <p><span class="chinese">中国必须工业化。</span><span class="english">China must industrialise.</span></p>
 
 <p><span class="chinese">在向工业化跃进的过程中，很多肥沃的土地，水资源还有劳动力都流失了。</span><span class="english">They have lost much prime land, water supplies and labour in the rush to industrialise.</span></p>

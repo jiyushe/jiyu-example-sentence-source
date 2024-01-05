@@ -1,5 +1,7 @@
 # deck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deck.md)
+
 <p><span class="chinese">他站在甲板上。</span><span class="english">He stood on the deck.</span></p>
 
 <p><span class="chinese">我们上甲板去好吗？</span><span class="english">Shall we go up on deck?</span></p>

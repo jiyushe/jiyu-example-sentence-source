@@ -1,5 +1,7 @@
 # necropsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necropsy.md)
+
 <p><span class="chinese">剖检可见呼吸系统有严重感染。</span><span class="english">At necropsy the respiratory system is severely affected.</span></p>
 
 <p><span class="chinese">实验动物之活体解剖及死体解剖之检查。</span><span class="english">Necropsy of animals or postmortem examination of animals.</span></p>

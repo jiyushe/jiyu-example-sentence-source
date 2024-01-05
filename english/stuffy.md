@@ -1,5 +1,7 @@
 # stuffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stuffy.md)
+
 <p><span class="chinese">没有闷热的隔间。</span><span class="english">No stuffy cubicles here.</span></p>
 
 <p><span class="chinese">还有闷热室。</span><span class="english">There are also stuffy rooms.</span></p>

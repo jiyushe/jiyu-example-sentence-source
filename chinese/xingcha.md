@@ -1,5 +1,7 @@
 # 省察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingcha.md)
+
 <p><span class="chinese">我需要省察我的心不随便对人起疑心。</span><span class="english">My mind needs a guard from suspicion.</span></p>
 
 <p><span class="chinese">我需要省察我的心不致陷入试探。</span><span class="english">My mind needs a guard from temptation.</span></p>

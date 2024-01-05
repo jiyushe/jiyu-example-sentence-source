@@ -1,5 +1,7 @@
 # pedantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedantry.md)
+
 <p><span class="chinese">不要被形式上的日期年代所拘泥、所欺骗。</span><span class="english">Do not be deceived by the pedantry of dates.</span></p>
 
 <p><span class="chinese">“炫学者”，不合季节卖弄学问的人。</span><span class="english">Pedantry is the unseasonable ostentation of learning.</span></p>

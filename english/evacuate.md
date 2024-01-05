@@ -1,5 +1,7 @@
 # evacuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evacuate.md)
+
 <p><span class="chinese">中国将从利比亚撤退3.3万中国人。</span><span class="english">China to evacuate 33,000 from Libya.</span></p>
 
 <p><span class="chinese">百万生齿能否紧要撤离？</span><span class="english">Millions of mesiodens can matter evacuate?</span></p>

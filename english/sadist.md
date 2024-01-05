@@ -1,5 +1,7 @@
 # sadist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadist.md)
+
 <p><span class="chinese">我还要肢解剩下的。</span><span class="english">I seek to dismember , a sadist fiend.</span></p>
 
 <p><span class="chinese">但是，请想像一个虐待狂的过渡。</span><span class="english">But imagine the transition for a sadist.</span></p>

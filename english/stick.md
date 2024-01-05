@@ -1,5 +1,7 @@
 # stick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stick.md)
+
 <p><span class="chinese">把撬棍给我！</span><span class="english">Pry stick to me!</span></p>
 
 <p><span class="chinese">用棒槌敲打。</span><span class="english">To beat with a stick.</span></p>

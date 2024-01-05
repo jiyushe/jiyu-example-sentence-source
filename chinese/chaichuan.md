@@ -1,5 +1,7 @@
 # 拆穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaichuan.md)
+
 <p><span class="chinese">不说谎话，因为总有被拆穿的一天。</span><span class="english">Do not lie, because there was debunked the day.</span></p>
 
 <p><span class="chinese">人生已经如此地艰难有些事情就不要拆穿。</span><span class="english">Life has been so difficult some things do not expose.</span></p>

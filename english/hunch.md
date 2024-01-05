@@ -1,5 +1,7 @@
 # hunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunch.md)
+
 <p><span class="chinese">不过我的预感是，人们的记忆是短暂的。</span><span class="english">But my hunch is that memories are short.</span></p>
 
 <p><span class="chinese">我早有预感你会约我出去。</span><span class="english">I had a hunch you were gonna ask me out.</span></p>

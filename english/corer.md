@@ -1,5 +1,7 @@
 # corer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corer.md)
+
 <p><span class="chinese">什么是苹果削皮机及取样器？。</span><span class="english">What is an Apple Peeler & Corer?</span></p>
 
 <p><span class="chinese">而其公司团队中的许多骨干精英也皆来于重庆本土。</span><span class="english">Many corer members of the company are locals of Chongqing.</span></p>

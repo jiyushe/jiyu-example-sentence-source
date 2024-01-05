@@ -1,5 +1,7 @@
 # 首当其冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoudangqichong.md)
+
 <p><span class="chinese">那么，哪些人将成为首当其冲的受害者？</span><span class="english">And who will bear the brunt of these cuts?</span></p>
 
 <p><span class="chinese">出现险情时，这支部队总是首当其冲。</span><span class="english">This unit always bears the brunt of any danger.</span></p>

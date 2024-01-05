@@ -1,5 +1,7 @@
 # sapling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sapling.md)
+
 <p><span class="chinese">它变成了一棵虚弱的小树苗。</span><span class="english">It becomes a weak, frail sapling.</span></p>
 
 <p><span class="chinese">她一斧子就把树苗砍倒了。</span><span class="english">She cut down the sapling with one chop.</span></p>

@@ -1,5 +1,7 @@
 # 尸横遍野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihengbianye.md)
+
 <p><span class="chinese">最后的战场，尸横遍野。</span><span class="english">Last battlefield, littered with corpses.</span></p>
 
 <p><span class="chinese">你现在觉得内疚了?等到尸横遍野的时候再说吧。</span><span class="english">You feel bad now?Wait till you're thigh-deep in warm corpses.</span></p>

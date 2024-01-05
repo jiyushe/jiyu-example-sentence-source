@@ -1,5 +1,7 @@
 # 自恃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishi_4.md)
+
 <p><span class="chinese">如果我要寻死，我就爬上你的自恃清高，跳入你的智商。</span><span class="english">If I wanted to kill myself I'd climb your ego and jump to your IQ.</span></p>
 
 <p><span class="chinese">智慧人惧怕，就远离恶事。愚妄人却狂傲自恃。</span><span class="english">A wise man fears the Lord and shuns evil, but a fool is hotheaded and reckless.</span></p>

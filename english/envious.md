@@ -1,5 +1,7 @@
 # envious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/envious.md)
+
 <p><span class="chinese">倾向于感到嫉妒。</span><span class="english">Tends to feel envious. 042.</span></p>
 
 <p><span class="chinese">我不嫉妒你的成功。</span><span class="english">I am not envious of your success.</span></p>

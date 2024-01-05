@@ -1,5 +1,7 @@
 # 青梅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmei.md)
+
 <p><span class="chinese">火爇青梅酒，冰寒绿豆汤。</span><span class="english">Fire Ruo greengage wine, ice cold green bean soup.</span></p>
 
 <p><span class="chinese">青梅，是一种能防止体液酸化的碱性食品！</span><span class="english">Green plum, is a body fluid can prevent acidification of alkaline food!.</span></p>

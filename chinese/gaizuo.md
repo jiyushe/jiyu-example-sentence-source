@@ -1,5 +1,7 @@
 # 改作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizuo.md)
+
 <p><span class="chinese">由此，展开了将铁路改作步行道的运动。</span><span class="english">Thus, the Rails-to-Trails movement began.</span></p>
 
 <p><span class="chinese">这座旧房子被改作了图书馆。</span><span class="english">The old building was turned into a library.</span></p>

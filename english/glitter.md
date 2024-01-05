@@ -1,5 +1,7 @@
 # glitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glitter.md)
+
 <p><span class="chinese">金子不都能闪亮。</span><span class="english">All gold is not glitter.</span></p>
 
 <p><span class="chinese">艾琳爱好炫耀和虚荣。</span><span class="english">Aileen loved show and glitter.</span></p>

@@ -1,5 +1,7 @@
 # finis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finis.md)
+
 <p><span class="chinese">这些蚂蚁，侵占我裤子，精密。</span><span class="english">Those ants that invaded my pants, finis.</span></p>
 
 <p><span class="chinese">我去年买的这种照相机。</span><span class="english">I offered this kind of careera finis year.</span></p>

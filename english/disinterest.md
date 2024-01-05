@@ -1,5 +1,7 @@
 # disinterest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disinterest.md)
+
 <p><span class="chinese">这展现的是不关心和不尊敬。</span><span class="english">It shows disinterest and disrespect.</span></p>
 
 <p><span class="chinese">当她扫视他的报纸时，她装出一副不感兴趣的表情。</span><span class="english">She affected a look of disinterest as she glanced at his newspaper.</span></p>

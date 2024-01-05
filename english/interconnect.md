@@ -1,5 +1,7 @@
 # interconnect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interconnect.md)
+
 <p><span class="chinese">一切都真的在互连吗？</span><span class="english">Will everything really interconnect?</span></p>
 
 <p><span class="chinese">同线互连会打破传输速度极限吗?。</span><span class="english">Has the Copper Interconnect Hit Its Speed Limit?</span></p>

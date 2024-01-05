@@ -1,5 +1,7 @@
 # 差别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chabie.md)
+
 <p><span class="chinese">这里听起来有点细微差别。</span><span class="english">This is a nuance.</span></p>
 
 <p><span class="chinese">这些口音的差别很大吗？</span><span class="english">Are the accents a lot different?</span></p>

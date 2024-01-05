@@ -1,5 +1,7 @@
 # 南迁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanqian.md)
+
 <p><span class="chinese">这家公司可能要停业南迁。</span><span class="english">This company will probably pack up and move south.</span></p>
 
 <p><span class="chinese">岭南客家先民首次南迁地在偃师。</span><span class="english">Lingnan hakka ancient immigrated to the first in some.</span></p>

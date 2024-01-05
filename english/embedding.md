@@ -1,5 +1,7 @@
 # embedding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embedding.md)
+
 <p><span class="chinese">留一个影子在心湖里。</span><span class="english">Embedding a shadow in my heart.</span></p>
 
 <p><span class="chinese">非交互式地嵌入和运行安装</span><span class="english">Embedding and running the installation non-interactively</span></p>

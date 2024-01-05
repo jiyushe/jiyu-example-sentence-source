@@ -1,5 +1,7 @@
 # 动工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donggong_1.md)
+
 <p><span class="chinese">没有。她有在纺织机前动工吗？</span><span class="english">No. Did she make it in a textile mill?</span></p>
 
 <p><span class="chinese">这座新的邸宅已经开始动工修建了。</span><span class="english">Construction of this new mansion has started.</span></p>

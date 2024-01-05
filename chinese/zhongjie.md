@@ -1,5 +1,7 @@
 # 中介
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjie.md)
+
 <p><span class="chinese">你们公司和中介合作吗？</span><span class="english">Do you work with introducers?</span></p>
 
 <p><span class="chinese">中介免开尊口！</span><span class="english">Medium do not open your mouth!</span></p>

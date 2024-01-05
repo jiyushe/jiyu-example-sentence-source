@@ -1,5 +1,7 @@
 # bronze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronze.md)
+
 <p><span class="chinese">头上、背上还刻有“金文”。</span><span class="english">Head, back with the" bronze".</span></p>
 
 <p><span class="chinese">这座塑像是用青铜铸成的。</span><span class="english">The statue was cast in bronze.</span></p>

@@ -1,5 +1,7 @@
 # marge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marge.md)
+
 <p><span class="chinese">末玛芝永远不会找我跳舞。</span><span class="english">Marge will never go for me.</span></p>
 
 <p><span class="chinese">玛姬让萝拉看雪伦的电报。</span><span class="english">Marge lets Norah see Sharon' s telegram.</span></p>

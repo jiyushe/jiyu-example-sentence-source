@@ -1,5 +1,7 @@
 # flammability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flammability.md)
+
 <p><span class="chinese">可燃性是指什么？</span><span class="english">What is flammability?</span></p>
 
 <p><span class="chinese">煤层为高瓦斯、松软、易燃厚煤层。</span><span class="english">The coal layout is high gas , soft and flammability.</span></p>

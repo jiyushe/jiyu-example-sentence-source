@@ -1,5 +1,7 @@
 # kwh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kwh.md)
+
 <p><span class="chinese">每天一万千瓦小时。</span><span class="english">Ten thousand KWH each day.</span></p>
 
 <p><span class="chinese">对于一个普通家庭，这将是约7000-8000千瓦时左右。</span><span class="english">For an average home, that will be about 7000-8000 KWH per year.</span></p>

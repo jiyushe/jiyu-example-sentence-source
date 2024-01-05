@@ -1,5 +1,7 @@
 # 反面教材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmianjiaocai.md)
+
 <p><span class="chinese">这场致命事故现在已经成为了核能利用的经典反面教材。</span><span class="english">The fatal events are now part of nuclear lore.</span></p>
 
 <p><span class="chinese">伤仲永就是一个很著名的经典反面教材。</span><span class="english">Zhong Yong is the famous classic negative example.</span></p>

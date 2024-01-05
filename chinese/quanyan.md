@@ -1,5 +1,7 @@
 # 泉眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyan.md)
+
 <p><span class="chinese">现有泉眼四口。</span><span class="english">It has four existing springs.</span></p>
 
 <p><span class="chinese">那口泉眼泉水喷涌。</span><span class="english">Water sprang from the fountain.</span></p>

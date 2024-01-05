@@ -1,5 +1,7 @@
 # husk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/husk.md)
+
 <p><span class="chinese">他还提到了印度的“米糠发电系统”。</span><span class="english">He spoke of Husk Power Systems in India.</span></p>
 
 <p><span class="chinese">我们怎样去掉谷物的外皮？</span><span class="english">How can we remove the husk of the grains?</span></p>

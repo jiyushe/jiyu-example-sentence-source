@@ -1,5 +1,7 @@
 # 恶性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/exing.md)
+
 <p><span class="chinese">他总是逃避那些厌恶性工作。</span><span class="english">One who shirks work or duty.</span></p>
 
 <p><span class="chinese">恶性脂肪瘤会转癌吗？</span><span class="english">Can malign lipoma turn cancer?</span></p>

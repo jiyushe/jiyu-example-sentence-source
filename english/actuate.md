@@ -1,5 +1,7 @@
 # actuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actuate.md)
+
 <p><span class="chinese">于是他就开动脑子想其它门路。</span><span class="english">Then he thinks other way with respect to actuate brain.</span></p>
 
 <p><span class="chinese">趁世界还不那么拥挤，趁汽车还未开动。</span><span class="english">While the world is not so crowded, while the car is not actuate.</span></p>

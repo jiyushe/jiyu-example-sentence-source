@@ -1,5 +1,7 @@
 # sleepwalking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleepwalking.md)
+
 <p><span class="chinese">那像一种梦游症。</span><span class="english">I think that is like sleepwalking.</span></p>
 
 <p><span class="chinese">梦游是个有趣的现象。</span><span class="english">Sleepwalking is an intriguing phenomenon.</span></p>

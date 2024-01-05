@@ -1,5 +1,7 @@
 # 声称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcheng_1.md)
+
 <p><span class="chinese">然后声称我在交换。</span><span class="english">I then claim I'm swapping.</span></p>
 
 <p><span class="chinese">他声称视财富为粪土。</span><span class="english">He claims to despise riches.</span></p>

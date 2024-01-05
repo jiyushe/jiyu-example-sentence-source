@@ -1,5 +1,7 @@
 # counterpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterpoint.md)
+
 <p><span class="chinese">卡农加上对位。</span><span class="english">Canon plus counterpoint.</span></p>
 
 <p><span class="chinese">这里是巴松管,对位</span><span class="english">There's the bassoon, counterpoint.</span></p>

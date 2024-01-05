@@ -1,5 +1,7 @@
 # transect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transect.md)
+
 <p><span class="chinese">沿着这条植被带海拔上升舒缓。</span><span class="english">Along this transect the rise in elevation is gradual.</span></p>
 
 <p><span class="chinese">这是我们进行截面调查的第二天，是这个小组的第三天。</span><span class="english">Second day of transect for us and third for the team.</span></p>

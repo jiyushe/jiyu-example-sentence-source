@@ -1,5 +1,7 @@
 # bullous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullous.md)
+
 <p><span class="chinese">也可能会看到水疱、溃疡。</span><span class="english">Bullous or ulcerated lesions may also be seen.</span></p>
 
 <p><span class="chinese">术后主要并发症有排异反应、继发性青光眼、大泡性角膜病变等。</span><span class="english">The main complications were graft rejection, secondary glaucoma and bullous keratopathy.</span></p>

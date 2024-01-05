@@ -1,5 +1,7 @@
 # formular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formular.md)
+
 <p><span class="chinese">实践证明，该公式是行之有效的。</span><span class="english">Experiment proves this formular is feasible.</span></p>
 
 <p><span class="chinese">同时对库容提出新的表达式。</span><span class="english">A new formular for sink capacity was given in this paper also.</span></p>

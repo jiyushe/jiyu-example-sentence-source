@@ -1,5 +1,7 @@
 # bio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bio.md)
+
 <p><span class="chinese">但是，对于网络和生物威胁，我们却无能为力。</span><span class="english">Not so for many cyber and bio threats.</span></p>
 
 <p><span class="chinese">淄博龙宝生物食品有限公司公司。</span><span class="english">Bio Foods Co. , Ltd. Zibo Longbao company.</span></p>

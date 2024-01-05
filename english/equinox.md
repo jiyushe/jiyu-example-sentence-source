@@ -1,5 +1,7 @@
 # equinox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equinox.md)
+
 <p><span class="chinese">是那彼岸花吗？</span><span class="english">The equinox flower?</span></p>
 
 <p><span class="chinese">这就是所谓的春分点。</span><span class="english">This is the Spring Equinox.</span></p>

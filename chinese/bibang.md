@@ -1,5 +1,7 @@
 # 臂膀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibang.md)
+
 <p><span class="chinese">是迎春花的臂膀。</span><span class="english">Is arm of primrose.</span></p>
 
 <p><span class="chinese">你的头下枕着我的臂膀！</span><span class="english">This arm beneath your head!</span></p>

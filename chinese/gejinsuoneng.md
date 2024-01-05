@@ -1,5 +1,7 @@
 # 各尽所能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gejinsuoneng.md)
+
 <p><span class="chinese">我们全队只有人人各尽所能才能取得成功?。</span><span class="english">We can succeed only if everyone in the team pulls his weight.</span></p>
 
 <p><span class="chinese">各尽所能、各得其所、和谐相处“是对劳资关系性质的重新定位。</span><span class="english">It is the re-orientation for the character of labor-capital relations.</span></p>

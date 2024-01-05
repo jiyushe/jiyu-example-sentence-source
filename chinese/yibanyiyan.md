@@ -1,5 +1,7 @@
 # 一板一眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibanyiyan.md)
+
 <p><span class="chinese">公务员生涯，就像打卡钟那麽一板一眼？</span><span class="english">Does the civil servant's career go like clockwork?</span></p>
 
 <p><span class="chinese">以前，总以为差不多就行了，何须如此一板一眼。</span><span class="english">Previously, always think about line, so why every rhythm.</span></p>

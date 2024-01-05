@@ -1,5 +1,7 @@
 # 前提
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianti.md)
+
 <p><span class="chinese">这只是一个前提。</span><span class="english">There is only one premise.</span></p>
 
 <p><span class="chinese">前提就是人格不会分裂。</span><span class="english">Provided there's no splitting.</span></p>

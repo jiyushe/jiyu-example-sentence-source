@@ -1,5 +1,7 @@
 # wi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wi.md)
+
 <p><span class="chinese">我要和朋友去打网球。</span><span class="english">I'm going to play tennis wi.</span></p>
 
 <p><span class="chinese">作业员是否严格遵循WI?。</span><span class="english">Is the operator following the WI?</span></p>

@@ -1,5 +1,7 @@
 # 修修补补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxiububu.md)
+
 <p><span class="chinese">但其他人说，他这只是在修修补补，是在搞重组再造。</span><span class="english">But others say he’s just tinkering, re-engineering.</span></p>
 
 <p><span class="chinese">我只是不断修修补补，得到了越来越多的进入。</span><span class="english">I just kept tinkering and got more and more into it.</span></p>

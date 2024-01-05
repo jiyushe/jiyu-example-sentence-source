@@ -1,5 +1,7 @@
 # 刨除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paochu.md)
+
 <p><span class="chinese">未刨除的区域需要保持十分自然而未修剪的状态。</span><span class="english">The unclipped areas must be completely natural and untrimmed.</span></p>
 
 <p><span class="chinese">这项统计将细菌和其它几种类型的微生物刨除在外。</span><span class="english">The figure excludes bacteria and some other types of micro-organism.</span></p>

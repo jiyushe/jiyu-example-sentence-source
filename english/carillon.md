@@ -1,5 +1,7 @@
 # carillon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carillon.md)
+
 <p><span class="chinese">甲28米楼梯导致提高至八钟钟楼顶部的塔。</span><span class="english">A 28-meter staircase leads up to where the eight-bell carillon tops the tower.</span></p>
 
 <p><span class="chinese">古编钟乐中，兵马俑装扮的武士跳起孔武有力的舞蹈。</span><span class="english">Knights dressed like the Terre-Cotta Warriors play heroic dances accompanied with the ancient carillon.</span></p>

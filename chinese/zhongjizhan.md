@@ -1,5 +1,7 @@
 # 中继站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjizhan.md)
+
 <p><span class="chinese">中继站是用来扩展系统的覆盖范围。</span><span class="english">Repeater is used for expanding system coverage.</span></p>
 
 <p><span class="chinese">而火山灰数量稍少的地区，电力站与通讯中继站可能会遭到破坏。</span><span class="english">Less ash than that would knock out electrical power and relay stations.</span></p>

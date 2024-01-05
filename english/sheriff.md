@@ -1,5 +1,7 @@
 # sheriff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheriff.md)
+
 <p><span class="chinese">他告诉了警长他们的名字。</span><span class="english">He gave the sheriff their names.</span></p>
 
 <p><span class="chinese">谁要你来管祷告的？</span><span class="english">Who made you the prayer sheriff?</span></p>

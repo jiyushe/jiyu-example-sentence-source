@@ -1,5 +1,7 @@
 # uigur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uigur.md)
+
 <p><span class="chinese">静脉吸毒者中CX3CR1-249基因频率存在明显的种族差异，维吾尔族高于汉族。</span><span class="english">The gene frequency of CX3CR1-249 is higher in Uigur ethnic origin than in Han IDUs.</span></p>
 
 <p><span class="chinese">美丽可爱的维吾尔族姑娘和善良的小伙子。</span><span class="english">The Uigur minority miss of the beauty amiability kind and genial and good young man.</span></p>

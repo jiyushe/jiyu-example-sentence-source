@@ -1,5 +1,7 @@
 # totipotency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totipotency.md)
+
 <p><span class="chinese">全能性和多能性鉴定。</span><span class="english">Identification of totipotency and pluripotency.</span></p>
 
 <p><span class="chinese">受精卵就是一个全能细胞的例子。</span><span class="english">So a fertilized egg is an example of totipotency.</span></p>

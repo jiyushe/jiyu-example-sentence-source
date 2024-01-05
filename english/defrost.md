@@ -1,5 +1,7 @@
 # defrost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defrost.md)
+
 <p><span class="chinese">我们需要把冷冻室除霜。</span><span class="english">NO06, We need to defrost the freezer.</span></p>
 
 <p><span class="chinese">把牛肉从冰箱里拿出来解冻。</span><span class="english">Take the beef out of the refrigerator to defrost.</span></p>

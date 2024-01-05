@@ -1,5 +1,7 @@
 # frenchmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frenchmen.md)
+
 <p><span class="chinese">还是波兰和法国人重要啦。</span><span class="english">We've got Poles and Frenchmen to worry about.</span></p>
 
 <p><span class="chinese">2027年之前，将有五分之一的法国人是穆斯林。</span><span class="english">By 2027, one in five Frenchmen will be Muslims.</span></p>

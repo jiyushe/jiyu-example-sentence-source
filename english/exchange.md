@@ -1,5 +1,7 @@
 # exchange 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exchange.md)
+
 <p><span class="chinese">他们交换了碗。</span><span class="english">They exchange bowls.</span></p>
 
 <p><span class="chinese">好的，这是兑换水单。</span><span class="english">This is exchange memo.</span></p>

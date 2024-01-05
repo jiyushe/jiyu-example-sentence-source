@@ -1,5 +1,7 @@
 # gaudiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaudiness.md)
+
 <p><span class="chinese">整个人带着一种嚣张的华美。</span><span class="english">The whole individual takes a kind of overbearing gaudiness.</span></p>
 
 <p><span class="chinese">艳俗，作为产品的一种审美风格，在后现代社会兴起。</span><span class="english">Gaudiness as a kind of aesthetic style rises in postmodern society.</span></p>

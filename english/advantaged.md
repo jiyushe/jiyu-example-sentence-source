@@ -1,5 +1,7 @@
 # advantaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advantaged.md)
+
 <p><span class="chinese">她利用了那个讲法语的机会。</span><span class="english">She advantaged herself of the opportunity of speaking French.</span></p>
 
 <p><span class="chinese">收购人更是在许多方面占尽先机。</span><span class="english">The offerer is even advantaged in an acquisition from end to end.</span></p>

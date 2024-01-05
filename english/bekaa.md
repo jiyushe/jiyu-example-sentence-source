@@ -1,5 +1,7 @@
 # bekaa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bekaa.md)
+
 <p><span class="chinese">越过Bhamdoun之后，贝卡谷地在我们面前豁然开朗。</span><span class="english">Just after Bhamdoun, the Bekaa Valley opens up before us.</span></p>
 
 <p><span class="chinese">袭击是几个月前在黎巴嫩中部贝卡谷地的真主党游击队营地策划的。</span><span class="english">The attack was planned over several months at Hezbollah’s training camp in the Bekaa Valley in central Lebanon.</span></p>

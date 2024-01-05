@@ -1,5 +1,7 @@
 # contravention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contravention.md)
+
 <p><span class="chinese">任何试图违反本条规定进行的转让均为无效。</span><span class="english">Any attempted assignment in contravention of this Clause shall be void.</span></p>
 
 <p><span class="chinese">违反上述规定，其转让无效。</span><span class="english">Any transfer in contravention of the above provisions shall be invalid.</span></p>

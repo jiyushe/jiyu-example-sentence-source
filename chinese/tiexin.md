@@ -1,5 +1,7 @@
 # 贴心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexin.md)
+
 <p><span class="chinese">我和他很贴心。</span><span class="english">I'm tolerably intimate with him.</span></p>
 
 <p><span class="chinese">是您投资的贴心好伴侣。</span><span class="english">You are a good investment intimate partner.</span></p>

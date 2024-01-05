@@ -1,5 +1,7 @@
 # bridging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridging.md)
+
 <p><span class="chinese">通过元搜索技术缩小差距</span><span class="english">Bridging the Gap With Meta-Search</span></p>
 
 <p><span class="chinese">也就是，搭起学校与社会之间的桥梁的想法。</span><span class="english">The idea of bridging Ivory tower and Main Street.</span></p>

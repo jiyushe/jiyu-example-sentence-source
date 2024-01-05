@@ -1,5 +1,7 @@
 # 低下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixia.md)
+
 <p><span class="chinese">快把头低下!</span><span class="english">Duck your head down!</span></p>
 
 <p><span class="chinese">她低下了头。</span><span class="english">She abased her head.</span></p>

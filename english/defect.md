@@ -1,5 +1,7 @@
 # defect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defect.md)
+
 <p><span class="chinese">这真的是一个缺陷吗？</span><span class="english">Is this really a defect?</span></p>
 
 <p><span class="chinese">一个瑕疵一8D报告。</span><span class="english">One defect one 8D report.</span></p>

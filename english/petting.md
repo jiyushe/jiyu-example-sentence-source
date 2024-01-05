@@ -1,5 +1,7 @@
 # petting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petting.md)
+
 <p><span class="chinese">发生这种情况，因为这是最流行的畜现货。</span><span class="english">This happens because this is the most popular petting spot.</span></p>
 
 <p><span class="chinese">漫步在扬柳清风的路上，全身的肌肉和细胞都被放松激活。</span><span class="english">Walking on the road with willow leaves Petting on our head.</span></p>

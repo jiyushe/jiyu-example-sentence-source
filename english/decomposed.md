@@ -1,5 +1,7 @@
 # decomposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decomposed.md)
+
 <p><span class="chinese">已分解的禾秆、叶及草</span><span class="english">Decomposed rice straw, leaves and grass</span></p>
 
 <p><span class="chinese">重构都可以像这样来拆分。</span><span class="english">Every refactoring can be decomposed like this.</span></p>

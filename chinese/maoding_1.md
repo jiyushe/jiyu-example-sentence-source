@@ -1,5 +1,7 @@
 # 帽顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoding_1.md)
+
 <p><span class="chinese">每个学生依次从高丝绸帽的帽顶取出他的三便士。</span><span class="english">E ach boy in turn plucks his threepence from the crown of at all silk hat.</span></p>
 
 <p><span class="chinese">用“锥形”这个词可以概括出帽顶与底部相比有多窄。</span><span class="english">“Taper” describes how narrow the top of the crown is compared to the bottom.</span></p>

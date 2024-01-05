@@ -1,5 +1,7 @@
 # 指导员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidaoyuan.md)
+
 <p><span class="chinese">以下是学员和指导员的特写镜头。</span><span class="english">Some close-ups of cadets and instructors.</span></p>
 
 <p><span class="chinese">我去找过一个就业指导员，</span><span class="english">I just went to one of the careers officers</span></p>

@@ -1,5 +1,7 @@
 # 夏收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashou_1.md)
+
 <p><span class="chinese">尽管天气不好，中国今年还是迎来了一个丰盛的夏收。</span><span class="english">China has enjoyed a bumper summer harvest this year, despite unfavorable weather.</span></p>
 
 <p><span class="chinese">去年已经比往常干燥，如果今年的夏收和秋收不足，就有可能闹饥荒。</span><span class="english">As last year had been drier than normal, famine was likely if this crop and the autumn one were poor.</span></p>

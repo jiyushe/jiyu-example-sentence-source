@@ -1,5 +1,7 @@
 # veritable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veritable.md)
+
 <p><span class="chinese">这是一个真正的聚宝盆！</span><span class="english">It's a veritable cornucopia!</span></p>
 
 <p><span class="chinese">这简直是个幻境。</span><span class="english">This is a veritable fairyland.</span></p>

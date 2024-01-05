@@ -1,5 +1,7 @@
 # flexibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexibility.md)
+
 <p><span class="chinese">适应性和灵活性。</span><span class="english">A. Adaptability and flexibility.</span></p>
 
 <p><span class="chinese">抗压性和灵活性5。</span><span class="english">Crush resistance and flexibility 5.</span></p>

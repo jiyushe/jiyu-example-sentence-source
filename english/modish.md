@@ -1,5 +1,7 @@
 # modish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modish.md)
+
 <p><span class="chinese">她疯狂热爱流行物品。</span><span class="english">She is always crazy at modish things.</span></p>
 
 <p><span class="chinese">如果你想过自在的生活，就不能时时打扮时髦。</span><span class="english">If you want to live a free life, you can't always be modish.</span></p>

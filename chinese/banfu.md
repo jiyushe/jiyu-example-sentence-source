@@ -1,5 +1,7 @@
 # 板斧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banfu.md)
+
 <p><span class="chinese">李逵把板斧一挥，冲了出来。</span><span class="english">Wielding a pair of hatchets, Li Kui rushed in.</span></p>
 
 <p><span class="chinese">李魁把板斧一挥，冲了过来。</span><span class="english">Wielding a pair of hatchets , Li Kui charged over.</span></p>

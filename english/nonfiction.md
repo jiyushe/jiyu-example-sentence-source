@@ -1,5 +1,7 @@
 # nonfiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonfiction.md)
+
 <p><span class="chinese">许多畅销纪实小说的作者是男性。</span><span class="english">Most bestselling nonfiction authors are men.</span></p>
 
 <p><span class="chinese">这首诗也出现在早些出版的纪实的那本书里。</span><span class="english">The poem had also appeared in the earlier nonfiction book.</span></p>

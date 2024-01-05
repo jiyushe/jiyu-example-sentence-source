@@ -1,5 +1,7 @@
 # rifleman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rifleman.md)
+
 <p><span class="chinese">步枪手，弹再上膛，手保持在扳机！</span><span class="english">Load again, rifleman , keep your hand in!</span></p>
 
 <p><span class="chinese">机枪手和步枪手瞄准了洞穴入口。</span><span class="english">A machine gunner and rifleman cover the cave entrance.</span></p>

@@ -1,5 +1,7 @@
 # 着意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoyi.md)
+
 <p><span class="chinese">他们为参加聚会着意打扮了一番。</span><span class="english">They were all dolled up for the party.</span></p>
 
 <p><span class="chinese">我显然是个披着意军制服的德国人。</span><span class="english">I was obviously a german in italian uniform.</span></p>

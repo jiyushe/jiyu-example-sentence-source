@@ -1,5 +1,7 @@
 # appendix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendix.md)
+
 <p><span class="chinese">阑尾破裂。</span><span class="english">A ruptured appendix.</span></p>
 
 <p><span class="chinese">这个全面的附录B是什么。</span><span class="english">Which is sort of this catch-all appendix B.</span></p>

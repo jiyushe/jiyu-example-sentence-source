@@ -1,5 +1,7 @@
 # ting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ting.md)
+
 <p><span class="chinese">婷婷，把蜡烛点着。</span><span class="english">Ting Ting, light the candles.</span></p>
 
 <p><span class="chinese">你认识我的朋友张婷吗？</span><span class="english">Do you know my friend Zhang Ting?</span></p>

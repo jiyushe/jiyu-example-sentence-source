@@ -1,5 +1,7 @@
 # 吃紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chijin.md)
+
 <p><span class="chinese">与此同时，电煤供应吃紧。</span><span class="english">On top of that, coal supplies are tight.</span></p>
 
 <p><span class="chinese">“劳动力市场吃紧，”德斯罗切尔斯说。</span><span class="english">"The labor market is tight, " Mr. DesRochers said.</span></p>

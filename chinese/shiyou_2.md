@@ -1,5 +1,7 @@
 # 食油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyou_2.md)
+
 <p><span class="chinese">油炸锅里的食油已经热了。</span><span class="english">The fat in the fryer had heated all right.</span></p>
 
 <p><span class="chinese">食油细菌正在高速的工作。</span><span class="english">Oil-eating bacterial microbes are working at a fast pace.</span></p>

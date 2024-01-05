@@ -1,5 +1,7 @@
 # twang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twang.md)
+
 <p><span class="chinese">他讲话时带着鼻音。</span><span class="english">He spoke with a nasal twang.</span></p>
 
 <p><span class="chinese">黄油里肯定有一股怪味儿。</span><span class="english">There certainly was a twang.</span></p>

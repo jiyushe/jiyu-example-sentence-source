@@ -1,5 +1,7 @@
 # diener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diener.md)
+
 <p><span class="chinese">Diener接受“主观”报告或许暗示了其稍弱的科学可信度的观点。</span><span class="english">Diener acknowledges the view that “subjective” reporting may imply less scientific credibility.</span></p>
 
 <p><span class="chinese">伊利诺伊大学教授,就快乐水平作了大量研究。</span><span class="english">Ed Diener University of Illinois professor Ed Diener does a lot of research on happiness levels.</span></p>

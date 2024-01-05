@@ -1,5 +1,7 @@
 # determinant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinant.md)
+
 <p><span class="chinese">它是一个小一点点的行列式。</span><span class="english">It's a slightly smaller determinant.</span></p>
 
 <p><span class="chinese">快速计算矩阵行列式的办法？</span><span class="english">The determinant of a matrix real quick?</span></p>

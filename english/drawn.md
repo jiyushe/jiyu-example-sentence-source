@@ -1,5 +1,7 @@
 # drawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawn.md)
+
 <p><span class="chinese">受吸引力的作用</span><span class="english">I'm drawn to it.</span></p>
 
 <p><span class="chinese">桥已吊起。</span><span class="english">The bridge is drawn up.</span></p>

@@ -1,5 +1,7 @@
 # 河源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyuan.md)
+
 <p><span class="chinese">大河源出清泉。</span><span class="english">River need a spring.</span></p>
 
 <p><span class="chinese">可是，你说，我们认识的河源，是真实的吗？</span><span class="english">But tell me, the riverhead that we know, is it real?</span></p>

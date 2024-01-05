@@ -1,5 +1,7 @@
 # irritation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritation.md)
+
 <p><span class="chinese">所以我理解你的心情。</span><span class="english">So I understand your irritation.</span></p>
 
 <p><span class="chinese">她似乎感觉到了他的愤怒。</span><span class="english">She seemed to sense his irritation.</span></p>

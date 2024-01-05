@@ -1,5 +1,7 @@
 # 汇出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huichu.md)
+
 <p><span class="chinese">汇出利润。</span><span class="english">Remittance of profits.</span></p>
 
 <p><span class="chinese">非居民在台公开发行股票募集资金汇出。</span><span class="english">Issuance of stocks in the R. O. C. by foreign nationals.</span></p>

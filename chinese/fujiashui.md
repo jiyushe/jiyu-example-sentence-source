@@ -1,5 +1,7 @@
 # 附加税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujiashui.md)
+
 <p><span class="chinese">局将对蜡像馆征收附加税。</span><span class="english">The taxman will levy surtax on the waxworks.</span></p>
 
 <p><span class="chinese">税务局将对蜡像馆征收附加税。</span><span class="english">The taxman will levy surtax on the waxworks.</span></p>

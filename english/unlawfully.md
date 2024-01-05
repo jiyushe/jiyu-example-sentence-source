@@ -1,5 +1,7 @@
 # unlawfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlawfully.md)
+
 <p><span class="chinese">他是个非法贩卖药品的人。</span><span class="english">He's the one who's peddling the drugs unlawfully.</span></p>
 
 <p><span class="chinese">您乘坐的这辆车涉嫌非法营运。</span><span class="english">The car you took is suspected as operating unlawfully.</span></p>

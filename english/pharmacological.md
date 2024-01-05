@@ -1,5 +1,7 @@
 # pharmacological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacological.md)
+
 <p><span class="chinese">桑树是一种重要的药用植物资源。</span><span class="english">Morus is one kind of significant pharmacological plant resources.</span></p>
 
 <p><span class="chinese">仅仅50毫克的咖啡因就能产生药理效果。</span><span class="english">As little as 50mg of caffeine can produce pharmacological effects.</span></p>

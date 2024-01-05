@@ -1,5 +1,7 @@
 # 香甜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtian.md)
+
 <p><span class="chinese">花闻起来香甜。</span><span class="english">The flowers smell sweet and nicc.</span></p>
 
 <p><span class="chinese">那天晚上，他们睡得像婴儿一样香甜。</span><span class="english">That night, they too slept like babies.</span></p>

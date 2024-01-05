@@ -1,5 +1,7 @@
 # 木刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muke.md)
+
 <p><span class="chinese">我的木刻墙。</span><span class="english">My wall of woodcuts.</span></p>
 
 <p><span class="chinese">他们正在创作一些木刻作品。</span><span class="english">We're working on some wood-cuts.</span></p>

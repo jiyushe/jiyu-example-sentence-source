@@ -1,5 +1,7 @@
 # lashings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lashings.md)
+
 <p><span class="chinese">他们开始解掉甲板货物的绑绳。</span><span class="english">They began to remove the lashings from the deck cargo.</span></p>
 
 <p><span class="chinese">大海很平静，礁石露了出来，天空蓝蓝的，飘着片片粉色的云彩。</span><span class="english">The sea was calm, the reef exposed, sky blue with lashings of pink.</span></p>

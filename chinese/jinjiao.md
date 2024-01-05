@@ -1,5 +1,7 @@
 # 近郊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjiao.md)
+
 <p><span class="chinese">迪斯尼游乐场在洛杉矶的近郊。</span><span class="english">Disneyland is in Los Angeles suburb.</span></p>
 
 <p><span class="chinese">那么你是熟悉巴黎近郊的罗？</span><span class="english">You know the environs of Paris, then?</span></p>

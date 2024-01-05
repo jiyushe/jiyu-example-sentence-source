@@ -1,5 +1,7 @@
 # 找寻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoxun.md)
+
 <p><span class="chinese">我从文字中找寻慰藉。</span><span class="english">I seek comfort in them.</span></p>
 
 <p><span class="chinese">我们都在找寻什么？</span><span class="english">What are we all looking for?</span></p>

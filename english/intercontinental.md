@@ -1,5 +1,7 @@
 # intercontinental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercontinental.md)
+
 <p><span class="chinese">他们有许多洲际导弹。</span><span class="english">They have many intercontinental missiles.</span></p>
 
 <p><span class="chinese">我的首要目标是洲际杯。</span><span class="english">My first objective is the Intercontinental Cup.</span></p>

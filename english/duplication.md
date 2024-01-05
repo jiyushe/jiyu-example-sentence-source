@@ -1,5 +1,7 @@
 # duplication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplication.md)
+
 <p><span class="chinese">这就是复制。</span><span class="english">This is duplication.</span></p>
 
 <p><span class="chinese">八重复了一</span><span class="english">Eight is a duplication of one.</span></p>

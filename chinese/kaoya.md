@@ -1,5 +1,7 @@
 # 烤鸭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoya.md)
+
 <p><span class="chinese">大东烤鸭。</span><span class="english">Da Dong Roast Duck.</span></p>
 
 <p><span class="chinese">烤鸭多少钱一套？</span><span class="english">How much for the Roast Duck.</span></p>

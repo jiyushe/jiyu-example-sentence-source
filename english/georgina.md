@@ -1,5 +1,7 @@
 # georgina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/georgina.md)
+
 <p><span class="chinese">英国女诗人罗塞蒂.C.G。</span><span class="english">Chtistina Georgina Rossetti. British poetess.</span></p>
 
 <p><span class="chinese">而且经过我详尽的研究，你也不用担心你的问题了。乔治娜?。</span><span class="english">And, uh, based on my exhaustive research, So are you. Georgina?</span></p>

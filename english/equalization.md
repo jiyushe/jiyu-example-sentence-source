@@ -1,5 +1,7 @@
 # equalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equalization.md)
+
 <p><span class="chinese">第一种是手动均衡化。</span><span class="english">The first is manual equalization.</span></p>
 
 <p><span class="chinese">首先，对图像进行直方图均衡化处理。</span><span class="english">First, the image histogram equalization of treatment.</span></p>

@@ -1,5 +1,7 @@
 # tome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tome.md)
+
 <p><span class="chinese">圣多美和普林西比降低了近一半的比率。</span><span class="english">Sao Tome and Principe by nearly half.</span></p>
 
 <p><span class="chinese">汤姆气疯了，不过很快又平静了下来。</span><span class="english">Tome got mad, but soon simmered down.</span></p>

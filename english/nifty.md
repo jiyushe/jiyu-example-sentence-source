@@ -1,5 +1,7 @@
 # nifty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nifty.md)
+
 <p><span class="chinese">学习一些漂亮的玩笔技巧。</span><span class="english">Learn some nifty pen-flicking tricks.</span></p>
 
 <p><span class="chinese">星星就像俏皮的小毛孩，一般让人喜爱。</span><span class="english">Stars like the nifty Xiaomao Hai, the general people love.</span></p>

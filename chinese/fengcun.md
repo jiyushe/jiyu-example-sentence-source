@@ -1,5 +1,7 @@
 # 封存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengcun.md)
+
 <p><span class="chinese">在这些记录被封存起来之后。</span><span class="english">After that the records are sealed.</span></p>
 
 <p><span class="chinese">第一次闪过这样的念头，过去的，就让它封存在记忆里吧。</span><span class="english">For the first time, what's past is past.</span></p>

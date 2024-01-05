@@ -1,5 +1,7 @@
 # stun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stun.md)
+
 <p><span class="chinese">盗贼可以开闪避、晕人、或着逃跑。</span><span class="english">Rogues can pop Evasion, or stun and run.</span></p>
 
 <p><span class="chinese">在那句话还没使我们震惊之前，他继续说。</span><span class="english">Before that comment could stun us, he continued.</span></p>

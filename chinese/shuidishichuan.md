@@ -1,5 +1,7 @@
 # 水滴石穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidishichuan.md)
+
 <p><span class="chinese">水滴石穿，绳锯木短！</span><span class="english">Constant dripping wears away a stone !</span></p>
 
 <p><span class="chinese">也许，这就是德叔水滴石穿的大勇精神吧！</span><span class="english">Maybe, it's a big uncle's brave spirit!</span></p>

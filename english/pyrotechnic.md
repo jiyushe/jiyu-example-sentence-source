@@ -1,5 +1,7 @@
 # pyrotechnic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrotechnic.md)
+
 <p><span class="chinese">船用烟火信号通用技术条件。</span><span class="english">General specifications of pyrotechnic distress sig.</span></p>
 
 <p><span class="chinese">也可以从化学或烟火供应公司。</span><span class="english">Also available from chemical or pyrotechnic supply firms.</span></p>

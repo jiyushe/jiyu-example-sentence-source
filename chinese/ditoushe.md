@@ -1,5 +1,7 @@
 # 地头蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ditoushe.md)
+
 <p><span class="chinese">你知道，这个地区的地头蛇是谁吗？</span><span class="english">You know, in this region who are the boss.</span></p>
 
 <p><span class="chinese">那家商店的老板是这个镇上的地头蛇。</span><span class="english">That shopkeeper is a scoundrel in the town.</span></p>

@@ -1,5 +1,7 @@
 # hallux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallux.md)
+
 <p><span class="chinese">比较研究正常足和外翻足横弓的形态，探讨横弓在外翻发生发展中的作用。</span><span class="english">To study the role of the transverse arch in the pathogensis of hallux valgus.</span></p>
 
 <p><span class="chinese">拇趾支持脚趾酒吧防止脚向前滑动，以改善抓地力。</span><span class="english">Hallux support toe-bar prevents the foot from slipping forward to improve grip.</span></p>

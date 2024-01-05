@@ -1,5 +1,7 @@
 # 脏腑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zangfu.md)
+
 <p><span class="chinese">肾阴足，肌体各脏腑组织器官得到滋养。</span><span class="english">Abundant kidney-yin nourishes the organs in the body.</span></p>
 
 <p><span class="chinese">探讨冠心病的病变脏腑特点。</span><span class="english">Explore the characteristic of the pathological viscera.</span></p>

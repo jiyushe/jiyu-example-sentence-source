@@ -1,5 +1,7 @@
 # howling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howling.md)
+
 <p><span class="chinese">北风怒号。</span><span class="english">A north wind is howling.</span></p>
 
 <p><span class="chinese">狂风怒号。</span><span class="english">A violent wind is howling.</span></p>

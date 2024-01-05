@@ -1,5 +1,7 @@
 # bathrobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathrobe.md)
+
 <p><span class="chinese">她昨天买了一件新浴衣。</span><span class="english">She bought a new bathrobe yesterday.</span></p>
 
 <p><span class="chinese">她眨了眨眼，“你是说，在我睡袍里?”</span><span class="english">She blinked. "You mean, in my bathrobe?"</span></p>

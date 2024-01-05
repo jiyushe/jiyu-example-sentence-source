@@ -1,5 +1,7 @@
 # ketch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ketch.md)
+
 <p><span class="chinese">双桅帆也是航行用船的一种常见结构。</span><span class="english">A ketch is a common rig for cruising sailboats.</span></p>
 
 <p><span class="chinese">加蕃茄酱或美乃滋?请加蕃茄酱。</span><span class="english">With ketch bp or mayonnaise?With ketchup, please.</span></p>

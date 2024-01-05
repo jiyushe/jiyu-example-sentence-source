@@ -1,5 +1,7 @@
 # locative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locative.md)
+
 <p><span class="chinese">对空间运动的描述离不开物移动词。</span><span class="english">The description of motion involves locative verbs.</span></p>
 
 <p><span class="chinese">另一个视角是体现时间范畴的处所动词及处所介词的特点。</span><span class="english">One point is the locative words which are in the person of space category.</span></p>

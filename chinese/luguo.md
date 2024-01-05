@@ -1,5 +1,7 @@
 # 路过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luguo.md)
+
 <p><span class="chinese">他路过时曾顺便来看望过。</span><span class="english">He looked in when passing.</span></p>
 
 <p><span class="chinese">我们路过嵩州公园。</span><span class="english">We pass by Song State Park.</span></p>

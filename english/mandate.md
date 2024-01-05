@@ -1,5 +1,7 @@
 # mandate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandate.md)
+
 <p><span class="chinese">为什么需要命令？</span><span class="english">Why have a mandate?</span></p>
 
 <p><span class="chinese">雇主授权。</span><span class="english">An employer mandate.</span></p>

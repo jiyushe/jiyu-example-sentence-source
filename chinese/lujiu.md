@@ -1,5 +1,7 @@
 # 露酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lujiu.md)
+
 <p><span class="chinese">这缀满了露酒的麝香蔷薇</span><span class="english">The coming musk-rose, full of dewy wine</span></p>
 
 <p><span class="chinese">也用作泡制甜露酒的酒基。</span><span class="english">They are also used as the base of various liqueurs.</span></p>

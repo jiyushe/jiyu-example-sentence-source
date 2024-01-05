@@ -1,5 +1,7 @@
 # chilean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chilean.md)
+
 <p><span class="chinese">被救的智利矿工都是谁?。</span><span class="english">Who are the rescued Chilean miners?</span></p>
 
 <p><span class="chinese">他们已经偷走了12只智利产粉红色火烈鸟。</span><span class="english">They stole 12 Chilean pink flamingoes.</span></p>

@@ -1,5 +1,7 @@
 # 生产资料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchanziliao.md)
+
 <p><span class="chinese">因为工人阶级拥有所有生产资料。</span><span class="english">The workers owned the means of production.</span></p>
 
 <p><span class="chinese">生产资料应当属国家所有。</span><span class="english">The means of production should be owned by the state.</span></p>

@@ -1,5 +1,7 @@
 # laundry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laundry.md)
+
 <p><span class="chinese">洗衣皂？</span><span class="english">Laundry soap?</span></p>
 
 <p><span class="chinese">我有些衣服必须送洗。</span><span class="english">I have some laundry.</span></p>

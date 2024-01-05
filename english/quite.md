@@ -1,5 +1,7 @@
 # quite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quite.md)
+
 <p><span class="chinese">其实不完全是。</span><span class="english">Not, quite.</span></p>
 
 <p><span class="chinese">天哪，我怎么完全给弄糊涂了！</span><span class="english">I quite forgot!</span></p>

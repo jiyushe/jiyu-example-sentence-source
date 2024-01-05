@@ -1,5 +1,7 @@
 # niger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niger.md)
+
 <p><span class="chinese">尼日尔经常有严重的干旱期。</span><span class="english">Niger often has severe dry periods.</span></p>
 
 <p><span class="chinese">该组织正在尼日尔进行研究。</span><span class="english">The group is doing research in  Niger.</span></p>

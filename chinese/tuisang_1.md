@@ -1,5 +1,7 @@
 # 颓丧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuisang_1.md)
+
 <p><span class="chinese">你只是颓丧和害怕。</span><span class="english">Youhare just depressed. And scared.</span></p>
 
 <p><span class="chinese">他的脸郁闷而颓丧。</span><span class="english">His face looked depressed and weary.</span></p>

@@ -1,5 +1,7 @@
 # 希有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyou.md)
+
 <p><span class="chinese">抱歉易希有点小意外！</span><span class="english">Sorry , Izzy. Little accident.</span></p>
 
 <p><span class="chinese">所以过节是那么庄严和希有。</span><span class="english">Therefore are feasts so solemn and so rare.</span></p>

@@ -1,5 +1,7 @@
 # 灰质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huizhi.md)
+
 <p><span class="chinese">每个珊瑚虫有灰质的骨骼。</span><span class="english">Each animal has a chalky skeleton.</span></p>
 
 <p><span class="chinese">灰质是由神经细胞体构成。</span><span class="english">Grey matter consists of nerve cell bodies.</span></p>

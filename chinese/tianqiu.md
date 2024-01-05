@@ -1,5 +1,7 @@
 # 天球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianqiu.md)
+
 <p><span class="chinese">正在天球上一个特地的检验考试产死了。</span><span class="english">On earth a special experiment takes place.</span></p>
 
 <p><span class="chinese">现在我们看到的这个叫魔天球，也叫魔健球。</span><span class="english">Now what we have in hand is called sky ball or fitness ball.</span></p>

@@ -1,5 +1,7 @@
 # 顺治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunzhi.md)
+
 <p><span class="chinese">清初顺治年间，在京城实行“满汉分城居住”。</span><span class="english">Shunzhi of the Qing Dynasty, in the capital of "Man-Han-city living."</span></p>
 
 <p><span class="chinese">结语部分，对顺治朝政治特点作了简单的小结。</span><span class="english">In conclusion, the political characteristic of Shunzhi Dynasty was summed up simply.</span></p>

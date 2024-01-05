@@ -1,5 +1,7 @@
 # 一意孤行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyiguxing.md)
+
 <p><span class="chinese">太大男人的男仕，通常比较一意孤行。</span><span class="english">Men's big men, usually act.</span></p>
 
 <p><span class="chinese">对极了，她总是一意孤行。</span><span class="english">She is always going her own way.</span></p>

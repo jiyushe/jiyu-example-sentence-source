@@ -1,5 +1,7 @@
 # 框子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangzi.md)
+
 <p><span class="chinese">框子是用金属做的。</span><span class="english">The frame is made of metal.</span></p>
 
 <p><span class="chinese">他把一张画嵌进框子里。</span><span class="english">Draw a box around your answer.</span></p>

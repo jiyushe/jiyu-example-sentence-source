@@ -1,5 +1,7 @@
 # topside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topside.md)
+
 <p><span class="chinese">能带我去上面吗?。</span><span class="english">Can you take me topside?</span></p>
 
 <p><span class="chinese">位置在肝脏上方。</span><span class="english">Located on topside of liver.</span></p>

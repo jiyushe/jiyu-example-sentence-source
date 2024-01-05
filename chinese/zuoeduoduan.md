@@ -1,5 +1,7 @@
 # 作恶多端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoeduoduan.md)
+
 <p><span class="chinese">还说他作恶多端，狮子王也没办法。</span><span class="english">He also said that the Lion King live, no way.</span></p>
 
 <p><span class="chinese">男巫对作恶多端的国王念咒法。</span><span class="english">The wizard uttered a spell against the wicked king.</span></p>

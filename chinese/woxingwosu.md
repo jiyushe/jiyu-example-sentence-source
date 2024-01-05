@@ -1,5 +1,7 @@
 # 我行我素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woxingwosu.md)
+
 <p><span class="chinese">那位被宠坏的小孩习惯于我行我素。</span><span class="english">That spoiled brat is used to having his own way.</span></p>
 
 <p><span class="chinese">史密斯我行我素，拒不执行命令。</span><span class="english">Smith obstinately refused to carry out the order.</span></p>

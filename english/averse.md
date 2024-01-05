@@ -1,5 +1,7 @@
 # averse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/averse.md)
+
 <p><span class="chinese">部长不喜欢听恭维话。</span><span class="english">Thee minister is averse to flattery.</span></p>
 
 <p><span class="chinese">Rafael认为，有些管理层是抵触改变的。</span><span class="english">In Rafeal’s opinion, some managers are change averse.</span></p>

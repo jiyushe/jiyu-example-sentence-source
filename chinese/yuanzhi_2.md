@@ -1,5 +1,7 @@
 # 远志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhi_2.md)
+
 <p><span class="chinese">展览游客赵远志说道。</span><span class="english">It's surprising and vivid, " said exhibit visitor Zhao Yuanzhi."</span></p>
 
 <p><span class="chinese">目的比较不同产地远志种子的质量。</span><span class="english">Objective To compare quality of different seeds of Polygala tenuifolia.</span></p>

@@ -1,5 +1,7 @@
 # exhalation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhalation.md)
+
 <p><span class="chinese">深深缓慢，平稳，安静地呼气。</span><span class="english">Deep, slow, gentle, quiet exhalation.</span></p>
 
 <p><span class="chinese">缓慢，平稳，安静，平静地呼气。</span><span class="english">Slow, gentle, quiet, calm exhalation.</span></p>

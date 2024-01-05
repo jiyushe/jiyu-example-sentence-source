@@ -1,5 +1,7 @@
 # suppression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppression.md)
+
 <p><span class="chinese">因此，我劝他们还是不“剿”为妙。</span><span class="english">Hence I advise them not to go in for "suppression".</span></p>
 
 <p><span class="chinese">但其缺点是杂散抑制性能较差。</span><span class="english">But it has an disadvantage of poor spur suppression.</span></p>

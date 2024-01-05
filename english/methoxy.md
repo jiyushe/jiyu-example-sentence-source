@@ -1,5 +1,7 @@
 # methoxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methoxy.md)
+
 <p><span class="chinese">选择SV型静态混合器应用于邻硝基氯苯甲氧基化反应中。</span><span class="english">SV static mixer was selected to use in ortho- nitrochlorobenzene methoxy reaction.</span></p>
 
 <p><span class="chinese">甲氧基处于氨基的邻位的电子效应和处于间位时不同。</span><span class="english">The electric effects of methoxy in ortho-position differ from that in meso-position.</span></p>

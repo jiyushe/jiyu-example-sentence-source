@@ -1,5 +1,7 @@
 # devise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devise.md)
+
 <p><span class="chinese">设计一台新仪器。</span><span class="english">Devise a new instrument.</span></p>
 
 <p><span class="chinese">布拉迪给出的最好建议就是准备一套备选方案。</span><span class="english">The best advice Brady said is to devise a plan B.</span></p>

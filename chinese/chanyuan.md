@@ -1,5 +1,7 @@
 # 禅院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyuan.md)
+
 <p><span class="chinese">禅院已经有了五百多年的历史了。</span><span class="english">This temple has a history of more than 500 years.</span></p>
 
 <p><span class="chinese">所有禅院都应该在这方面教育自己。</span><span class="english">All chanyuan celestials should educate themselves in this aspect.</span></p>

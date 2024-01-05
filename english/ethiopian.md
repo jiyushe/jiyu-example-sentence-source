@@ -1,5 +1,7 @@
 # ethiopian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethiopian.md)
+
 <p><span class="chinese">埃塞俄比亚展区工作人员跳起欢乐的舞蹈</span><span class="english">Ethiopian exhibition area staff dance.</span></p>
 
 <p><span class="chinese">腓利与衣索匹亚的太监谈话。</span><span class="english">Philip talked with an Ethiopian eunuch.</span></p>

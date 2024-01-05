@@ -1,5 +1,7 @@
 # 奔流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benliu.md)
+
 <p><span class="chinese">生命的流逝像奔流的江河。</span><span class="english">Life flows like a river.</span></p>
 
 <p><span class="chinese">河水奔流的声音犹如龙吟虎啸。</span><span class="english">The river roars like a dragon.</span></p>

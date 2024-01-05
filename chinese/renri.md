@@ -1,5 +1,7 @@
 # 人日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renri.md)
+
 <p><span class="chinese">结果全国平均每标准人日视黄醇当量摄入量为469。</span><span class="english">Results The average retinol equivalent intake in per day was 469.</span></p>
 
 <p><span class="chinese">加班则在一天8小时工作时间的基础上按所花费的人日额外计算。</span><span class="english">Overtime shall be counted as extra spent man-days on the basis of 8 hours a day.</span></p>

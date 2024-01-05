@@ -1,5 +1,7 @@
 # emerge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emerge.md)
+
 <p><span class="chinese">新的事物每天都在出现。</span><span class="english">New things emerge day after day.</span></p>
 
 <p><span class="chinese">最终就有了神灵的降临。</span><span class="english">Eventually gods will begin to emerge.</span></p>

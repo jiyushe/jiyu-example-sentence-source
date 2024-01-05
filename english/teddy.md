@@ -1,5 +1,7 @@
 # teddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teddy.md)
+
 <p><span class="chinese">我的玩具熊也喜欢去。</span><span class="english">My teddy bear does,too!</span></p>
 
 <p><span class="chinese">泰迪熊是浪漫的。</span><span class="english">Teddy bears are romantic.</span></p>

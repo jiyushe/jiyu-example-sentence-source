@@ -1,5 +1,7 @@
 # rsd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rsd.md)
+
 <p><span class="chinese">设计了一种用于CMOS图像传感器的列并行RSD循环ADC。</span><span class="english">A column parallel RSD cyclic ADC for CMOS image sensor is designed.</span></p>
 
 <p><span class="chinese">病人开发涉及的左胳膊RSD过渡到右腿。</span><span class="english">The patient developed RSD involving the left arm progressing to the right leg.</span></p>

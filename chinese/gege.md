@@ -1,5 +1,7 @@
 # 咯咯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gege.md)
+
 <p><span class="chinese">我咯咯笑了。</span><span class="english">I giggled.</span></p>
 
 <p><span class="chinese">母鸡咯咯叫。</span><span class="english">Hens cluck.</span></p>

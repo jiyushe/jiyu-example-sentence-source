@@ -1,5 +1,7 @@
 # 促使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cushi.md)
+
 <p><span class="chinese">是什么促使你去做这些？</span><span class="english">What prompted you to do that?</span></p>
 
 <p><span class="chinese">是什么促使你在特柳赖徳买房子？</span><span class="english">What made you buy in Telluride?</span></p>

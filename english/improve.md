@@ -1,5 +1,7 @@
 # improve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improve.md)
+
 <p><span class="chinese">您可以改进什么?</span><span class="english">What could you improve?</span></p>
 
 <p><span class="chinese">改进您的弱项。</span><span class="english">Improve your weaknesses.</span></p>

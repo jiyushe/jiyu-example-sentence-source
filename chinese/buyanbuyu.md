@@ -1,5 +1,7 @@
 # 不言不语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyanbuyu.md)
+
 <p><span class="chinese">不言不语，都是好风景。</span><span class="english">Keeps silent, is the good scenery.</span></p>
 
 <p><span class="chinese">为什麽你还是不言不语，难道你不懂我的心！</span><span class="english">Why don't you still , you don't understand my heart!</span></p>

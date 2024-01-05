@@ -1,5 +1,7 @@
 # oman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oman.md)
+
 <p><span class="chinese">阿曼是世界上最东面的阿拉伯国家。</span><span class="english">Oman is the world"s easternmost Arabian country.</span></p>
 
 <p><span class="chinese">一位探险者绳降进入到阿曼的马吉里斯尔金洞穴。</span><span class="english">An explorer descends into the Majlis al Jinn cave in Oman.</span></p>

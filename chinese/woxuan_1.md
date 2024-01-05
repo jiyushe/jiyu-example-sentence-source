@@ -1,5 +1,7 @@
 # 斡旋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woxuan_1.md)
+
 <p><span class="chinese">特赦令是在美国和英国的斡旋之下达成的。</span><span class="english">The amnesty, which was brokered by the U.</span></p>
 
 <p><span class="chinese">过敏反应性可能是抗体-或细胞-斡旋。</span><span class="english">Allergy can be antibody- or cell-mediated.</span></p>

@@ -1,5 +1,7 @@
 # gregarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gregarious.md)
+
 <p><span class="chinese">成为社交领袖。</span><span class="english">Be a gregarious leader.</span></p>
 
 <p><span class="chinese">人类是群居动物。</span><span class="english">HUMANS are a gregarious lot.</span></p>

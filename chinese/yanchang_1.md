@@ -1,5 +1,7 @@
 # 演唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchang_1.md)
+
 <p><span class="chinese">谁演唱这首歌的？</span><span class="english">Who sings this song?</span></p>
 
 <p><span class="chinese">我喜欢她的演唱风格。</span><span class="english">I like her singing style.</span></p>

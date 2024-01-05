@@ -1,5 +1,7 @@
 # opinion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opinion.md)
+
 <p><span class="chinese">那是我的意见。</span><span class="english">That’s my opinion.</span></p>
 
 <p><span class="chinese">意见领袖。</span><span class="english">One , opinion cacique.</span></p>

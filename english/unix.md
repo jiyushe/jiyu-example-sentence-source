@@ -1,5 +1,7 @@
 # unix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unix.md)
+
 <p><span class="chinese">DSPAM是一个为UNIX邮件服务器提供的服务器端反垃圾邮件代理。</span><span class="english">DSPAM is a server-side anti-spam agent for UNIX email servers.</span></p>
 
 <p><span class="chinese">那么，为什么是SAP让Unix出血，又用Linux修补这些伤口呢？</span><span class="english">So why is SAP bleeding Unix and patching the wounds with Linux?</span></p>

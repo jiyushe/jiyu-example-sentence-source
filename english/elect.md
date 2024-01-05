@@ -1,5 +1,7 @@
 # elect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elect.md)
+
 <p><span class="chinese">现在上帝的选民终于进入了</span><span class="english">Now eventually the elect come in.</span></p>
 
 <p><span class="chinese">你可以选我，或者谁也不选。</span><span class="english">You may elect me, or elect nobody.</span></p>

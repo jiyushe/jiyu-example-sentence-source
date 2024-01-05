@@ -1,5 +1,7 @@
 # fran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fran.md)
+
 <p><span class="chinese">巴德兴高采烈，鼓起勇气约弗兰出去。</span><span class="english">Excited , Bud finds the courage to ask Fran out.</span></p>
 
 <p><span class="chinese">弗兰在离去前，给已经晕厥的巴德深情一吻。</span><span class="english">Fran gives the stunned Bud a kiss before she leaves.</span></p>

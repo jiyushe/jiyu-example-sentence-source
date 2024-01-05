@@ -1,5 +1,7 @@
 # 负隅顽抗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyuwankang.md)
+
 <p><span class="chinese">地方政府也在负隅顽抗。</span><span class="english">Local governments are putting up tough resistance.</span></p>
 
 <p><span class="chinese">这个星期的大多数时间里，麦凯恩继续负隅顽抗。</span><span class="english">McCain continued to flounder for most of the week.</span></p>

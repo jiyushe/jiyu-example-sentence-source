@@ -1,5 +1,7 @@
 # hepatocirrhosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatocirrhosis.md)
+
 <p><span class="chinese">肝硬化怎杀得死你？</span><span class="english">How could hepatocirrhosis kill you?</span></p>
 
 <p><span class="chinese">这说明，在肝硬化渐变中，VEGF起着重要作用。</span><span class="english">So VEGF is an important reason during anamorphism of hepatocirrhosis.</span></p>

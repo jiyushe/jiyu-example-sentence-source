@@ -1,5 +1,7 @@
 # commensurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commensurable.md)
+
 <p><span class="chinese">换句话说，是否所有价值都可以计价。</span><span class="english">It asks, in other words, whether all values are commensurable.</span></p>
 
 <p><span class="chinese">今日的大学不能与过去的大学相比。</span><span class="english">Universities today are not commensurable with those of the past.</span></p>

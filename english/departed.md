@@ -1,5 +1,7 @@
 # departed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/departed.md)
+
 <p><span class="chinese">他出发旅行。</span><span class="english">He departed on a journey.</span></p>
 
 <p><span class="chinese">我动身回国。</span><span class="english">I departed to my own country.</span></p>

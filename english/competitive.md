@@ -1,5 +1,7 @@
 # competitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competitive.md)
+
 <p><span class="chinese">是完全竞争产出</span><span class="english">That's the competitive quantity.</span></p>
 
 <p><span class="chinese">法学院的竞争非常激烈，</span><span class="english">It is a pretty competitive school,</span></p>

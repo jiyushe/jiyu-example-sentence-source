@@ -1,5 +1,7 @@
 # preserve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preserve.md)
+
 <p><span class="chinese">冰能帮助保藏食物。</span><span class="english">Ice helps to preserve food.</span></p>
 
 <p><span class="chinese">哦，他一定是保存实力了。</span><span class="english">Oh, he must preserve his strength.</span></p>

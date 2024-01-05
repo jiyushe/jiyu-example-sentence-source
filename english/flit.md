@@ -1,5 +1,7 @@
 # flit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flit.md)
+
 <p><span class="chinese">他一回头，只见有个黑影儿一晃而过。</span><span class="english">He turned round and saw a shadow flit by.</span></p>
 
 <p><span class="chinese">熏风里飘飞着她的亲吻，但是，她的樱唇在哪里呢？</span><span class="english">Her kisses flit in the air, but where are her lips?</span></p>

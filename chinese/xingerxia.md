@@ -1,5 +1,7 @@
 # 形而下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingerxia.md)
+
 <p><span class="chinese">人文精神既是一种形而上的追求，也是形而下的思考。</span><span class="english">Human spirit is both a metaphysical pursuit, but also a physical reflection.</span></p>
 
 <p><span class="chinese">我的探索带我穿过形而下、形而上，以及错觉妄想，最后回到了原点。</span><span class="english">My quest has taken me to the physical, the metaphysical, the delusional, and back.</span></p>

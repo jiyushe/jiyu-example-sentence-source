@@ -1,5 +1,7 @@
 # cartilaginous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartilaginous.md)
+
 <p><span class="chinese">软骨肉瘤是软骨恶性肿瘤的起源。</span><span class="english">Chondrosarcomas are malignant tumours of cartilaginous origin.</span></p>
 
 <p><span class="chinese">鼻尖的软骨支架可以看成一个三脚架。</span><span class="english">The cartilaginous framework of the tip has been described as a tripod.</span></p>

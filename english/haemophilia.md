@@ -1,5 +1,7 @@
 # haemophilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemophilia.md)
+
 <p><span class="chinese">出现“血友病沙皇”也为期不远了。</span><span class="english">A haemophilia tsar cannot be far away.</span></p>
 
 <p><span class="chinese">转位子是产生如血友病一类遗传病的一个致病因子。</span><span class="english">Transposons are one cause of genetic diseases such as haemophilia.</span></p>

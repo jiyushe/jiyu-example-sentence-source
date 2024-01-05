@@ -1,5 +1,7 @@
 # ocher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocher.md)
+
 <p><span class="chinese">他还是微笑着，但他黑金色的眸子显得很认真。</span><span class="english">He was still smiling, but his ocher eyes were serious.</span></p>
 
 <p><span class="chinese">他还是微笑着，但他黑金色的眸子显得很认真。</span><span class="english">Up. He was still smiling, but his ocher eyes were serious.</span></p>

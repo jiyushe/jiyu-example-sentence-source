@@ -1,5 +1,7 @@
 # spectroscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectroscopy.md)
+
 <p><span class="chinese">这就是光谱学。</span><span class="english">This is what spectroscopy is.</span></p>
 
 <p><span class="chinese">光电管也应用于光度学和光谱学。</span><span class="english">Photocells are also used in photometry and spectroscopy.</span></p>

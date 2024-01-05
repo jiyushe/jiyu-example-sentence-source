@@ -1,5 +1,7 @@
 # genuine 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genuine.md)
+
 <p><span class="chinese">这是假皮的吗？</span><span class="english">Is this genuine silk?</span></p>
 
 <p><span class="chinese">这玉是真的。</span><span class="english">This jade is genuine.</span></p>

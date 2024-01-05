@@ -1,5 +1,7 @@
 # nepalese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nepalese.md)
+
 <p><span class="chinese">乡下的尼泊尔人的生活场景。</span><span class="english">Typical scenes of rural Nepalese life.</span></p>
 
 <p><span class="chinese">爱尼人是好客的。</span><span class="english">Love is the hospitality of the Nepalese people.</span></p>

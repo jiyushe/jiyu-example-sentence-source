@@ -1,5 +1,7 @@
 # monomial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monomial.md)
+
 <p><span class="chinese">该算法使用的主要分解单项理想的主要工具。</span><span class="english">The algorithm uses primary decomposition of monomial ideals as the principal tool.</span></p>
 
 <p><span class="chinese">真空干燥动力学模型符合单项扩散模型。</span><span class="english">The drying dynamic model of vacuum drying was tally with the model of monomial spread.</span></p>

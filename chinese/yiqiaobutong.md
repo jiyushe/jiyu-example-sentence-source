@@ -1,5 +1,7 @@
 # 一窍不通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqiaobutong.md)
+
 <p><span class="chinese">创作圆舞曲我是一窍不通。</span><span class="english">I'm hopeless how to indite a waltz.</span></p>
 
 <p><span class="chinese">你看得出来我对此一窍不通</span><span class="english">As you can see I don't understand it.</span></p>

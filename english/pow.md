@@ -1,5 +1,7 @@
 # POW
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pow.md)
+
 <p><span class="chinese">机身-装入接收机、电源。</span><span class="english">Fuselage---Install the receiver and pow er.</span></p>
 
 <p><span class="chinese">我会突然非常想吃宫保鸡丁。</span><span class="english">I just get this craving for Kung Pow Chicken.</span></p>

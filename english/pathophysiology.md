@@ -1,5 +1,7 @@
 # pathophysiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathophysiology.md)
+
 <p><span class="chinese">介绍了该类病的病理学及病源学的研究成果。</span><span class="english">The etiologies and pathophysiology of the interested diseases are discussed.</span></p>
 
 <p><span class="chinese">同时提示IL-13在乳腺癌病理生理学方面的潜在作用。</span><span class="english">It also indicates a potential role for IL-13 in the pathophysiology of breast cancer.</span></p>

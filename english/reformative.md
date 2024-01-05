@@ -1,5 +1,7 @@
 # reformative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformative.md)
+
 <p><span class="chinese">本文还根据分析结果给出了具体的预防和改进措施。</span><span class="english">At the last of this paper, preventive and reformative measures are given.</span></p>
 
 <p><span class="chinese">提出一种改进词共现模型的自动摘要方法。</span><span class="english">A automatic Abstracting method based on reformative co-occurrence model is proposed.</span></p>

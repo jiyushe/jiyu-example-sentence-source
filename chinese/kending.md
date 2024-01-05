@@ -1,5 +1,7 @@
 # 肯定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kending.md)
+
 <p><span class="chinese">他肯定知道。</span><span class="english">He surely knows.</span></p>
 
 <p><span class="chinese">我敢肯定没有一个人愿意。</span><span class="english">I am sure no one.</span></p>

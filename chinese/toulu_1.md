@@ -1,5 +1,7 @@
 # 透露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toulu_1.md)
+
 <p><span class="chinese">这消息已透露出去了。</span><span class="english">The news has leaked out.</span></p>
 
 <p><span class="chinese">条款并未透露。</span><span class="english">Terms were not disclosed.</span></p>

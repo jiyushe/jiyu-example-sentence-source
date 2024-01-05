@@ -1,5 +1,7 @@
 # sustaining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sustaining.md)
+
 <p><span class="chinese">这些存粮可以维持我们一周的食用。</span><span class="english">He's not capable of sustaining shocks.</span></p>
 
 <p><span class="chinese">此外，所有大而持续的系统也这样耍把戏。</span><span class="english">And all large, sustaining systems play the game.</span></p>

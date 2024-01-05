@@ -1,5 +1,7 @@
 # mint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mint.md)
+
 <p><span class="chinese">这东西有薄荷味。</span><span class="english">It tastes of mint.</span></p>
 
 <p><span class="chinese">或者是薄荷味的？</span><span class="english">Or, how about Mint?</span></p>

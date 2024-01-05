@@ -1,5 +1,7 @@
 # pratique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pratique.md)
+
 <p><span class="chinese">我船舶上的船员身体健康，我要求无疫通行证。</span><span class="english">My vessel is healthy and I require free pratique.</span></p>
 
 <p><span class="chinese">除实施电讯检疫的航空器，均要求提供货物舱单。</span><span class="english">Cargo manifest is required except for aircraft applying radio pratique.</span></p>

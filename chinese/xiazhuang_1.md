@@ -1,5 +1,7 @@
 # 夏装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhuang_1.md)
+
 <p><span class="chinese">夏装正在销售。</span><span class="english">The summer wear is on sale.</span></p>
 
 <p><span class="chinese">温度回升，准备夏装！</span><span class="english">Temperature rise, ready to summer!</span></p>

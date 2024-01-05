@@ -1,5 +1,7 @@
 # extraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraction.md)
+
 <p><span class="chinese">提取立马就开始了。</span><span class="english">Your extraction should instantly begin.</span></p>
 
 <p><span class="chinese">我研究的领域之一就是金属的提取。</span><span class="english">One of my areas is extraction of metals.</span></p>

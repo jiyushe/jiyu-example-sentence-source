@@ -1,5 +1,7 @@
 # canister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canister.md)
+
 <p><span class="chinese">它甚至还随身携带氧气瓶。</span><span class="english">It even has an onboard oxygen canister.</span></p>
 
 <p><span class="chinese">她把茶叶罐放回原处。</span><span class="english">She restored the tea canister to its place.</span></p>

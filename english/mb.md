@@ -1,5 +1,7 @@
 # mb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mb.md)
+
 <p><span class="chinese">我们怎么知道它是512M呢？</span><span class="english">How do we know it's 512 MB?</span></p>
 
 <p><span class="chinese">在成套方面给64毫巴。</span><span class="english">In the complete set give 64 Mb.</span></p>

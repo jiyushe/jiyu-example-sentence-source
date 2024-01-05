@@ -1,5 +1,7 @@
 # matrix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matrix.md)
+
 <p><span class="chinese">像电影“黑客帝国”里“</span><span class="english">See also "The Matrix."</span></p>
 
 <p><span class="chinese">我们来做这种情况下的矩阵</span><span class="english">Let's produce that matrix.</span></p>

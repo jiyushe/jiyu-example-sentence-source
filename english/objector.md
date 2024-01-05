@@ -1,5 +1,7 @@
 # objector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/objector.md)
+
 <p><span class="chinese">学生是最大的校服反对者。</span><span class="english">Students are the biggest objector to school uniform.</span></p>
 
 <p><span class="chinese">目的探索层流洁净技术治疗大面积烧伤的价值。</span><span class="english">Objector To evaluate the value of laminar flow in the treatment of bums.</span></p>

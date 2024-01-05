@@ -1,5 +1,7 @@
 # 异教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijiao.md)
+
 <p><span class="chinese">这被称作异教。</span><span class="english">This became declared as a heresy.</span></p>
 
 <p><span class="chinese">她放弃异教而改信基督教。</span><span class="english">She abandoned paganism for Christianity.</span></p>

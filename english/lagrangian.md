@@ -1,5 +1,7 @@
 # lagrangian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lagrangian.md)
+
 <p><span class="chinese">该系统是以拉格朗日松弛法框架为核心。</span><span class="english">This system is based on the Lagrangian relaxation approach.</span></p>
 
 <p><span class="chinese">最后，推导出有效拉氏量所对应的费曼规则。</span><span class="english">Finally we derive the Feynman rules for effective Lagrangian.</span></p>

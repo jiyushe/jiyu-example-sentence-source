@@ -1,5 +1,7 @@
 # empiric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empiric.md)
+
 <p><span class="chinese">第四部分，案例分析。</span><span class="english">The fourth part is an empiric analysis.</span></p>
 
 <p><span class="chinese">不相容原理是这个实验发现的表述。</span><span class="english">The exclusion principle is a statement of this empiric al finding.</span></p>

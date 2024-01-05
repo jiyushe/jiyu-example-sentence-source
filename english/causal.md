@@ -1,5 +1,7 @@
 # causal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causal.md)
+
 <p><span class="chinese">我们为了证明一个有因果关系的宣称对吗？</span><span class="english">We're arguing to a causal claim aren't we?</span></p>
 
 <p><span class="chinese">我们不会看到因果关系本身。</span><span class="english">We never get to the causal relationship itself.</span></p>

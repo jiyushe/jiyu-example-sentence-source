@@ -1,5 +1,7 @@
 # 护林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hulin.md)
+
 <p><span class="chinese">护林防火，警钟长鸣。深刻教训。</span><span class="english">Avoid the fire and protect the woods, there are profound lessons.</span></p>
 
 <p><span class="chinese">近几年来在亚马逊地区护林的人没有白干。</span><span class="english">Recent years have brought positive news for defenders of the Amazon region.</span></p>

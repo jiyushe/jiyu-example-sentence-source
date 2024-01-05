@@ -1,5 +1,7 @@
 # infundibulum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infundibulum.md)
+
 <p><span class="chinese">在卵巢端的输卵管末端为漏斗部。</span><span class="english">At the ovarian end of the oviduct is the infundibulum.</span></p>
 
 <p><span class="chinese">垂体柄可以缺如或缩短。</span><span class="english">The pituitary infundibulum is either absent or truncated.</span></p>

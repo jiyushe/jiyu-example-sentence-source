@@ -1,5 +1,7 @@
 # 丢手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diushou.md)
+
 <p><span class="chinese">我对你不会丢手的，对吧？</span><span class="english">I sticks to you, don't I?</span></p>
 
 <p><span class="chinese">他丢手不管了。</span><span class="english">He washed his hands of the matter.</span></p>

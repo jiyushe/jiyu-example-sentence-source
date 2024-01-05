@@ -1,5 +1,7 @@
 # 钻井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanjing.md)
+
 <p><span class="chinese">这是钻井设计书。</span><span class="english">This is the drilling program.</span></p>
 
 <p><span class="chinese">我希望结果很好。岩石钻井机。</span><span class="english">I hope it corners out all right.</span></p>

@@ -1,5 +1,7 @@
 # eviscerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eviscerate.md)
+
 <p><span class="chinese">或者是盗贼两个出血一个剔骨就死了。</span><span class="english">Or a Rogue in 2 Hemos and an Eviscerate.</span></p>
 
 <p><span class="chinese">我们同意去除所提议案的本质部分。</span><span class="english">We agreed to eviscerate the proposed bill.</span></p>

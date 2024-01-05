@@ -1,5 +1,7 @@
 # photoemission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoemission.md)
+
 <p><span class="chinese">用同步辐射光电子能谱研究了相衍变过程。</span><span class="english">Phase evolution was studied by the synchrotron radiation photoemission technique.</span></p>
 
 <p><span class="chinese">爱因斯坦光电效应方程可以完满地解释光电效应的实验规律。</span><span class="english">The equation of Einstein photoemission can fully explain experimental rule of photoemission.</span></p>

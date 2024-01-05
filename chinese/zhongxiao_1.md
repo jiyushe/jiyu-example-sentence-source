@@ -1,5 +1,7 @@
 # 忠孝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxiao_1.md)
+
 <p><span class="chinese">就在忠孝敦化站。</span><span class="english">Just at the Zhongxiao Dunhua Station.</span></p>
 
 <p><span class="chinese">所以遵循仁义忠孝道德常常会使人陷入困惑。</span><span class="english">So to follow Confucianism often leads people into confusion.</span></p>

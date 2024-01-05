@@ -1,5 +1,7 @@
 # 威名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiming.md)
+
 <p><span class="chinese">威名天下扬。</span><span class="english">One's fame has spread far and wide.</span></p>
 
 <p><span class="chinese">他留下威名，让世界谈虎色变</span><span class="english">He left the name, at which the world grew pale</span></p>

@@ -1,5 +1,7 @@
 # struggle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/struggle.md)
+
 <p><span class="chinese">他们挣扎。</span><span class="english">They struggle.</span></p>
 
 <p><span class="chinese">生命不止，战斗不息。</span><span class="english">Struggle is my life.</span></p>

@@ -1,5 +1,7 @@
 # 把握
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bawo.md)
+
 <p><span class="chinese">那是一流的把握力。</span><span class="english">It was a great finish.</span></p>
 
 <p><span class="chinese">你怎么能把握得住呢？</span><span class="english">How can you know for sure?</span></p>

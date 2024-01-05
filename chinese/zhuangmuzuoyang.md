@@ -1,5 +1,7 @@
 # 装模作样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangmuzuoyang.md)
+
 <p><span class="chinese">她是个装模作样的女孩。</span><span class="english">She is a poseur girl.</span></p>
 
 <p><span class="chinese">我笑他装模作样。</span><span class="english">I laughed at his histrionics.</span></p>

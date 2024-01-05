@@ -1,5 +1,7 @@
 # crisp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crisp.md)
+
 <p><span class="chinese">这饼干很酥脆。</span><span class="english">This cookie is crisp.</span></p>
 
 <p><span class="chinese">这回答干脆利落。</span><span class="english">It was a crisp answer.</span></p>

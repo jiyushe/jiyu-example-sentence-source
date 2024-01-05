@@ -1,5 +1,7 @@
 # colony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colony.md)
+
 <p><span class="chinese">香港自从1897年以来是英国的殖民地。</span><span class="english">Hongkong was British Colony since 1897.</span></p>
 
 <p><span class="chinese">这座岛屿在十八世纪时成为了殖民地。</span><span class="english">The island became a colony in the 1700s.</span></p>

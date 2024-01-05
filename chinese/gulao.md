@@ -1,5 +1,7 @@
 # 古老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulao.md)
+
 <p><span class="chinese">食骨类也是古老的。</span><span class="english">Osedax is old, too.</span></p>
 
 <p><span class="chinese">他掘到古老的钱币。</span><span class="english">He dug up old coins.</span></p>

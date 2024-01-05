@@ -1,5 +1,7 @@
 # 黑线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heixian.md)
+
 <p><span class="chinese">沿黑线折起。</span><span class="english">Fold along the black lines.</span></p>
 
 <p><span class="chinese">两个眼眶，都围着一圈黑线。</span><span class="english">His two eye orbits were dark black.</span></p>

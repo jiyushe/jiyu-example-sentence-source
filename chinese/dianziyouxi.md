@@ -1,5 +1,7 @@
 # 电子游戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziyouxi.md)
+
 <p><span class="chinese">电子游戏毁了我的生活。</span><span class="english">Vidoe games ruined my life.</span></p>
 
 <p><span class="chinese">但是在电子游戏中杀死一个儿童？</span><span class="english">But kill a child in a videogame?</span></p>

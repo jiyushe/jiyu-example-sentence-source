@@ -1,5 +1,7 @@
 # actinomycosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actinomycosis.md)
+
 <p><span class="chinese">有多种疾病疑似肺部放线菌症。</span><span class="english">The number of lesions that mimic actinomycosis of the lung is extensive.</span></p>
 
 <p><span class="chinese">手术中发现为肝脏脓疡，且病理报告显示为放射菌感染。</span><span class="english">The pathological report showed that the liver abscess was caused by actinomycosis.</span></p>

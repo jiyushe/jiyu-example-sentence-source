@@ -1,5 +1,7 @@
 # joining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joining.md)
+
 <p><span class="chinese">感谢您的收看。</span><span class="english">Thanks for joining us.</span></p>
 
 <p><span class="chinese">感谢您收看本期节目。</span><span class="english">Thank you for joining us.</span></p>

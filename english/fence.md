@@ -1,5 +1,7 @@
 # fence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fence.md)
+
 <p><span class="chinese">铁艺围栏。</span><span class="english">Iron fence.</span></p>
 
 <p><span class="chinese">一条狗跳过了篱笆。</span><span class="english">A dog jumped the fence.</span></p>

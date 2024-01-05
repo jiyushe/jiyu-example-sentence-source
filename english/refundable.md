@@ -1,5 +1,7 @@
 # refundable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refundable.md)
+
 <p><span class="chinese">这张机票可以退换吗？</span><span class="english">Is this ticket refundable or changeable?</span></p>
 
 <p><span class="chinese">的抵押金可全数退还。</span><span class="english">All deposits for holiday cottages are refundable.</span></p>

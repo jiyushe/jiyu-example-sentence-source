@@ -1,5 +1,7 @@
 # turkmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkmen.md)
+
 <p><span class="chinese">与它最接近的是土耳其语和土库曼语。</span><span class="english">Its closest relatives are Turkish and Turkmen.</span></p>
 
 <p><span class="chinese">土库曼斯坦输气入俄罗斯的影响是非常深远的。</span><span class="english">The commitment of Turkmen gas to Russia has broader implications.</span></p>

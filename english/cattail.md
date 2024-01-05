@@ -1,5 +1,7 @@
 # cattail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cattail.md)
+
 <p><span class="chinese">而且一拿还是两把！</span><span class="english">Not just one, but two cattail leaf fans!</span></p>
 
 <p><span class="chinese">亳州哪里有收购蒲黄的?。</span><span class="english">Where Bo Zhou City has buying a cattail yellow?</span></p>

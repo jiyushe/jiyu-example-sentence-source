@@ -1,5 +1,7 @@
 # ballpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballpoint.md)
+
 <p><span class="chinese">我要买一只原子笔。</span><span class="english">I want a ballpoint pen.</span></p>
 
 <p><span class="chinese">玛丽有一支新的圆珠笔。</span><span class="english">Mary has a new ballpoint pen.</span></p>

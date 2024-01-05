@@ -1,5 +1,7 @@
 # 反派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanpai.md)
+
 <p><span class="chinese">那大反派表现得怎样？</span><span class="english">And what about the villains?</span></p>
 
 <p><span class="chinese">有些反派似乎比好人更为有趣。</span><span class="english">Some bad guys have more fun than others.</span></p>

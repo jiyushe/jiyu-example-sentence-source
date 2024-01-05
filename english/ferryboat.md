@@ -1,5 +1,7 @@
 # ferryboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferryboat.md)
+
 <p><span class="chinese">一条渡船把我们送到对岸。</span><span class="english">A ferryboat get us across.</span></p>
 
 <p><span class="chinese">渡船又回到镇口摆渡去了。</span><span class="english">The ferryboat will take you over.</span></p>

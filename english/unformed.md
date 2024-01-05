@@ -1,5 +1,7 @@
 # unformed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unformed.md)
+
 <p><span class="chinese">这孩子的性格尚未定型。</span><span class="english">The child's character is as yet unformed.</span></p>
 
 <p><span class="chinese">他的心灵深处有个混沌一团，尚未成形的幻想。</span><span class="english">There was a crude unformed vision in his soul.</span></p>

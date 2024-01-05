@@ -1,5 +1,7 @@
 # seismic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismic.md)
+
 <p><span class="chinese">这也就预示会有更多地质活动发生。</span><span class="english">That forebodes more seismic activity.</span></p>
 
 <p><span class="chinese">地震烈度是经常使用的一个名词。</span><span class="english">Seismic intensity is a term frequently used.</span></p>

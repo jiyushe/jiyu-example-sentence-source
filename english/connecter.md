@@ -1,5 +1,7 @@
 # connecter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connecter.md)
+
 <p><span class="chinese">太阳能连接器新项目的工程设计。</span><span class="english">Responsible for the new solar connecter project design.</span></p>
 
 <p><span class="chinese">而转轮接力器如出现故障，则严重破坏机组运行的稳定性。</span><span class="english">The failure of force connecter of runner disturbs seriously the stability or turbine machine.</span></p>

@@ -1,5 +1,7 @@
 # 疲于奔命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piyubenming.md)
+
 <p><span class="chinese">严寒或酷暑时，为着花粉，疲于奔命。</span><span class="english">Cold or heat, for the pollen, exhausted.</span></p>
 
 <p><span class="chinese">玛丽.贝思不会感到累了,史蒂文不会疲于奔命了</span><span class="english">Mary Beth won't be tired. Steven won't be rushed.</span></p>

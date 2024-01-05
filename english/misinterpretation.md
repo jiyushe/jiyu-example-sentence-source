@@ -1,5 +1,7 @@
 # misinterpretation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misinterpretation.md)
+
 <p><span class="chinese">说的有点不对。</span><span class="english">So this is kind of a misinterpretation of that idea.</span></p>
 
 <p><span class="chinese">这实际是对麦克卢汉的误读。</span><span class="english">This is actually a misinterpretation to Mcluhan's theories.</span></p>

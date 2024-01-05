@@ -1,5 +1,7 @@
 # 草长莺飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caozhangyingfei.md)
+
 <p><span class="chinese">这个城市没有草长莺飞的传说。</span><span class="english">The city had no romantic legend.</span></p>
 
 <p><span class="chinese">旧时的江南，草长莺飞的季节。</span><span class="english">The old South, the spring season.</span></p>

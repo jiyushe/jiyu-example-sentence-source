@@ -1,5 +1,7 @@
 # snug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snug.md)
+
 <p><span class="chinese">那火使我们觉得非常安稳。</span><span class="english">The fire made us feel very snug.</span></p>
 
 <p><span class="chinese">你不妨象毡毯中的臭虫那样舒服地坐着。</span><span class="english">You might sit as snug as a bug in a rug.</span></p>

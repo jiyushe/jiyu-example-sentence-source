@@ -1,5 +1,7 @@
 # 马上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mashang.md)
+
 <p><span class="chinese">我马上就开始了。</span><span class="english">I began at once.</span></p>
 
 <p><span class="chinese">我马上归来。</span><span class="english">I'll be bck soon.</span></p>

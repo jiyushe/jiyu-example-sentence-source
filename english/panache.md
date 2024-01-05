@@ -1,5 +1,7 @@
 # panache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panache.md)
+
 <p><span class="chinese">这是郁郁葱葱的以耀目和权力。</span><span class="english">It's lush with panache and power.</span></p>
 
 <p><span class="chinese">扒窃是一门需要沉着、耐心与范儿的艺术</span><span class="english">A Pickpocket Needs Poise, Patience And Panache</span></p>

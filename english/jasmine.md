@@ -1,5 +1,7 @@
 # jasmine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jasmine.md)
+
 <p><span class="chinese">茉莉花茶，谢谢…</span><span class="english">Jasmine tea, thanks.</span></p>
 
 <p><span class="chinese">茉莉花茶好了。</span><span class="english">Jasmine tea will be fine.</span></p>

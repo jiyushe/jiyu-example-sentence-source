@@ -1,5 +1,7 @@
 # frontage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frontage.md)
+
 <p><span class="chinese">这是一个积极正面的团队！</span><span class="english">This is a positive, frontage group! ! !</span></p>
 
 <p><span class="chinese">这家商店紧靠着两条热闹的街道。</span><span class="english">The shop has frontage on 2 busy streets.</span></p>

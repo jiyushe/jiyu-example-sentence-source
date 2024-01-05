@@ -1,5 +1,7 @@
 # ironwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironwork.md)
+
 <p><span class="chinese">主教早已叫人把那些铁件取去了。</span><span class="english">The Bishop had had all this ironwork removed.</span></p>
 
 <p><span class="chinese">铁艺饰件为房子略添雅致。</span><span class="english">The ornamental ironwork lends a touch of elegance to the house.</span></p>

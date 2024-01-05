@@ -1,5 +1,7 @@
 # 痔疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichuang.md)
+
 <p><span class="chinese">痔疮患者需要特别注意这点。</span><span class="english">Hemorrhoid sufferers should be extra careful.</span></p>
 
 <p><span class="chinese">怎样可以让痔疮出血停止？</span><span class="english">How can you let haemorrhoid haemorrhage stop?</span></p>

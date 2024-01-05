@@ -1,5 +1,7 @@
 # jig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jig.md)
+
 <p><span class="chinese">小猪，小猪，跳起舞。</span><span class="english">Pig, oig, dance a jig.</span></p>
 
 <p><span class="chinese">这是最后的一场舞了。</span><span class="english">This is all but the last jig.</span></p>

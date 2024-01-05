@@ -1,5 +1,7 @@
 # 陕甘宁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanganning.md)
+
 <p><span class="chinese">陕甘宁边区，是这种阴谋的一部分。</span><span class="english">The disruption of the Shensi-Kansu-Ningsia Border Region was part of their plot.</span></p>
 
 <p><span class="chinese">抗战前陕甘宁边区几乎没有近代工业。</span><span class="english">Before the Anti-Japanese War , there almost had no modern industry in the region.</span></p>

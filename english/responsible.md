@@ -1,5 +1,7 @@
 # responsible 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/responsible.md)
+
 <p><span class="chinese">好企业是负责任的。</span><span class="english">Good businesses are responsible.</span></p>
 
 <p><span class="chinese">这讲话很好很负责。</span><span class="english">Thisis good and responsible talk.</span></p>

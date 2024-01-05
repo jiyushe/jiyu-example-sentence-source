@@ -1,5 +1,7 @@
 # 平面波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingmianbo.md)
+
 <p><span class="chinese">这等价于各种成分的平面波的角分布。</span><span class="english">This is equivalent to an angular distribution of constituent plane waves.</span></p>
 
 <p><span class="chinese">在其它方面一个动量特征态具有一平面波形。</span><span class="english">An eigenstate of momentum, on the other hand, has the form of a plane wave.</span></p>

@@ -1,5 +1,7 @@
 # conte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conte.md)
+
 <p><span class="chinese">1795年，康特找到了问题的答案。</span><span class="english">Conte found the answer in 1795.</span></p>
 
 <p><span class="chinese">Conte说很少人知道小小郭有多勇敢！</span><span class="english">Conte said few appreciate Kuo's bravery.</span></p>

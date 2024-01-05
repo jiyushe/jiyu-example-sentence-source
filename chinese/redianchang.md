@@ -1,5 +1,7 @@
 # 热电厂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/redianchang.md)
+
 <p><span class="chinese">与传统的热电厂相比，燃料电池有种种优势。</span><span class="english">Fuel cells offer several advantages over traditional thermal power plants.</span></p>
 
 <p><span class="chinese">完成双榆树供热厂扩建工程及草桥燃气热电厂新建工程。</span><span class="english">Heating Plant will be expanded and Caoqiao Gas-Fired Cogeneration Plant built.</span></p>

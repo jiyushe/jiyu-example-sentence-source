@@ -1,5 +1,7 @@
 # 沙砾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shali.md)
+
 <p><span class="chinese">那沙砾产金量高。</span><span class="english">The gravel pans well.</span></p>
 
 <p><span class="chinese">她的脚喀嚓喀嚓地踩在沙砾上。</span><span class="english">Her feet scrunch on the gravel.</span></p>

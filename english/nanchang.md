@@ -1,5 +1,7 @@
 # nanchang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanchang.md)
+
 <p><span class="chinese">我是中国人，我住在南昌市。</span><span class="english">I am a chinese, I live in Nanchang city.</span></p>
 
 <p><span class="chinese">他出生在南昌附近的一个小镇里。</span><span class="english">He was born in a little town near Nanchang.</span></p>

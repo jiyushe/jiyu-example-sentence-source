@@ -1,5 +1,7 @@
 # 大锅饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguofan.md)
+
 <p><span class="chinese">现在不能削弱发达地区的活力，也不能鼓励吃“大锅饭”。</span><span class="english">They went up on deck to get food from huge pots.</span></p>
 
 <p><span class="chinese">这样一来就消除了通常称作吃“大锅饭”的局面。</span><span class="english">This helps eradicate the practice of eating from the same big pot.</span></p>

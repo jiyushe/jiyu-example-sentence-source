@@ -1,5 +1,7 @@
 # argue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argue.md)
+
 <p><span class="chinese">他们争论。</span><span class="english">They argue.</span></p>
 
 <p><span class="chinese">为它们争辩。</span><span class="english">Argue for them.</span></p>

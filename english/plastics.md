@@ -1,5 +1,7 @@
 # plastics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plastics.md)
+
 <p><span class="chinese">热使塑料变形。</span><span class="english">Heat deforms plastics.</span></p>
 
 <p><span class="chinese">常州华科塑料有限公司。</span><span class="english">Changzhou Huake Plastics Co. , Ltd.</span></p>

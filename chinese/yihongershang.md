@@ -1,5 +1,7 @@
 # 一哄而上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihongershang.md)
+
 <p><span class="chinese">你稍微首肯，成堆蜘蛛精将会一哄而上！</span><span class="english">You nod slightly, piles Zhizhu Jing will be herd!</span></p>
 
 <p><span class="chinese">问题三、将热点新闻报道等同于“一哄而上”。</span><span class="english">Problem 3, confuse hot point news report with a group of people hurtle together.</span></p>

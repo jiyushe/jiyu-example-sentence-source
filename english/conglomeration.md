@@ -1,5 +1,7 @@
 # conglomeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conglomeration.md)
+
 <p><span class="chinese">在当年的7月初，40万从国家夸行业的铁路车间工人进行罢工。</span><span class="english">In early July of that year, 400,000 rail shop laborers from a conglomeration of unions went on strike.</span></p>
 
 <p><span class="chinese">靠近仔细看，这些团团丝线般的奈米碳管，就像是一簇散乱的织品纤维。</span><span class="english">On close inspection, the conglomeration of threadlike nanotubes resembles a helter-skelter unwoven fabric.</span></p>

@@ -1,5 +1,7 @@
 # follicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/follicular.md)
+
 <p><span class="chinese">FSH在卵泡腔的形成中有决定性的作用。</span><span class="english">FSH was a crucial factor in formation of follicular antrum.</span></p>
 
 <p><span class="chinese">结膜炎伴有滤泡怎样用药?。</span><span class="english">Does conjunctivitis companion have follicular how to use drug?</span></p>

@@ -1,5 +1,7 @@
 # buoyant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buoyant.md)
+
 <p><span class="chinese">因而能够上浮。</span><span class="english">So, it's obviously buoyant.</span></p>
 
 <p><span class="chinese">她的皮裘大衣绊手绊脚的，但鼓涨漂浮着。</span><span class="english">Her fur coat was confining but buoyant.</span></p>

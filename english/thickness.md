@@ -1,5 +1,7 @@
 # thickness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thickness.md)
+
 <p><span class="chinese">木纤维壁厚。</span><span class="english">Wood fiber wall thickness.</span></p>
 
 <p><span class="chinese">把鸡肉切1厘米厚的片。</span><span class="english">Flatten chicken to 1cm thickness.</span></p>

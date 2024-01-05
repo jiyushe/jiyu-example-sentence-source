@@ -1,5 +1,7 @@
 # assure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assure.md)
+
 <p><span class="chinese">我向你保证。</span><span class="english">I assure you.</span></p>
 
 <p><span class="chinese">“是，”我向他保证。</span><span class="english">"No," I assure him.</span></p>

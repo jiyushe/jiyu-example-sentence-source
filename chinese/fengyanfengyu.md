@@ -1,5 +1,7 @@
 # 风言风语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyanfengyu.md)
+
 <p><span class="chinese">是的，风言风语不会令我泄气，噢，不。</span><span class="english">Yes, words can't bring me down, oh no.</span></p>
 
 <p><span class="chinese">是的，风言风语不会令你我泄气，噢，不。</span><span class="english">Yes, words can't bring us down, oh no.</span></p>

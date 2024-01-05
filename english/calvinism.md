@@ -1,5 +1,7 @@
 # calvinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calvinism.md)
+
 <p><span class="chinese">但平价的推理，它落在加尔文。</span><span class="english">But by parity of reasoning it falls upon Calvinism.</span></p>
 
 <p><span class="chinese">这往往是人们对加尔文主义的普遍印象。</span><span class="english">Too frequently this is the popular image of Calvinism.</span></p>

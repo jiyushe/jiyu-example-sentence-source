@@ -1,5 +1,7 @@
 # associative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/associative.md)
+
 <p><span class="chinese">矩阵乘法是有结合律的。</span><span class="english">Matrix product is associative.</span></p>
 
 <p><span class="chinese">网络的使用利用联想记忆法则。</span><span class="english">This NNC is utilized by way of associative memory.</span></p>

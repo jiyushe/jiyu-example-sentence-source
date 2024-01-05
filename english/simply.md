@@ -1,5 +1,7 @@
 # simply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simply.md)
+
 <p><span class="chinese">你必得去一趟。</span><span class="english">You simply must go.</span></p>
 
 <p><span class="chinese">我只是实在憋不住了，想撒泡尿。</span><span class="english">I simply had to pee.</span></p>

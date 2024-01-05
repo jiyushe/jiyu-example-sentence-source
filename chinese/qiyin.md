@@ -1,5 +1,7 @@
 # 起因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyin.md)
+
 <p><span class="chinese">这场火灾起因可疑。</span><span class="english">The fire is of suspicious origin.</span></p>
 
 <p><span class="chinese">土壤污染的起因是什么？</span><span class="english">What are the causes of land pollution?</span></p>

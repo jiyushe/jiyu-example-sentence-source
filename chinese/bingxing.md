@@ -1,5 +1,7 @@
 # 并行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxing.md)
+
 <p><span class="chinese">必须有并行工作流。</span><span class="english">Parallel Workflow is a must.</span></p>
 
 <p><span class="chinese">贡献者并行地工作。</span><span class="english">Contributors work in parallel.</span></p>

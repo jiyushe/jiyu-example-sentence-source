@@ -1,5 +1,7 @@
 # prolonged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolonged.md)
+
 <p><span class="chinese">他在爱情上的沉默延长了魔法。</span><span class="english">But his reticence of love prolonged it.</span></p>
 
 <p><span class="chinese">长期的战争使他的技术荒废了。</span><span class="english">The prolonged war rusted his technique.</span></p>

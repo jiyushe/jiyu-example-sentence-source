@@ -1,5 +1,7 @@
 # 重温旧梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongwenjiumeng.md)
+
 <p><span class="chinese">“不能重温旧梦？”他大不以为然地喊到。</span><span class="english">Can't repeat the past?" he cried incredulously."</span></p>
 
 <p><span class="chinese">我只是重温旧梦，这只是对你的怀念。</span><span class="english">I am reliving moments, This is just residual grief.</span></p>

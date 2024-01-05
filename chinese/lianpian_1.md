@@ -1,5 +1,7 @@
 # 连篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpian_1.md)
+
 <p><span class="chinese">这个主管真是废话连篇。</span><span class="english">The manager is such a windbag.</span></p>
 
 <p><span class="chinese">你好，洋话连篇。请问有什么事儿？</span><span class="english">Hello, Could I talk to, please?</span></p>

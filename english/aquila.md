@@ -1,5 +1,7 @@
 # aquila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquila.md)
+
 <p><span class="chinese">百基拉和亚居拉何时为了保罗，连自己的性命也置诸度外呢？</span><span class="english">When did Priscilla and Aquila risk their lives for Paul?</span></p>
 
 <p><span class="chinese">亚居拉和百基拉，并在他们家中的召会，在主里多多地问你们安。</span><span class="english">Aquila and Prisca greet you much in the Lord, with the church, which is in their house.</span></p>

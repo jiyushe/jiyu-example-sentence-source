@@ -1,5 +1,7 @@
 # timer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timer.md)
+
 <p><span class="chinese">可设置定时开关机。</span><span class="english">To set the timer switch.</span></p>
 
 <p><span class="chinese">而我恰好有这样的计时器。</span><span class="english">And so we do have a timer.</span></p>

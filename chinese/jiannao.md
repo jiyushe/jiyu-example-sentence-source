@@ -1,5 +1,7 @@
 # 间脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiannao.md)
+
 <p><span class="chinese">间脑位于大脑的中心位置。</span><span class="english">The diencephalon is located in the core of the brain.</span></p>
 
 <p><span class="chinese">避免额叶及间脑受损问题。</span><span class="english">However, avoiding trauma of frontal lobe and thalamus was noted.</span></p>

@@ -1,5 +1,7 @@
 # 巨大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juda.md)
+
 <p><span class="chinese">巨大的讽刺。</span><span class="english">Heavy sarcasm.</span></p>
 
 <p><span class="chinese">这是一个巨大的转折。</span><span class="english">It is a mass turn.</span></p>

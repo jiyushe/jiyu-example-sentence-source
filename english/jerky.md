@@ -1,5 +1,7 @@
 # jerky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jerky.md)
+
 <p><span class="chinese">来点生腌牛肉干？</span><span class="english">Beef jerky carpaccio?</span></p>
 
 <p><span class="chinese">牛肉干也是一种不错的选择。</span><span class="english">Beef jerky is also a nice choice.</span></p>

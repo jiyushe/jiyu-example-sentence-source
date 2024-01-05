@@ -1,5 +1,7 @@
 # looney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/looney.md)
+
 <p><span class="chinese">而与以往不同的是，今年“特拉维斯小组”将会向鲁尼中尉致敬。</span><span class="english">This year, however, "Team Travis" will be dedicated to Lt. Looney.</span></p>
 
 <p><span class="chinese">你必须是兔八哥时代长大的。</span><span class="english">John RobertsYoualso must have grown up during the Looney Tunes era.</span></p>

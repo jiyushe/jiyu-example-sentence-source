@@ -1,5 +1,7 @@
 # labyrinthine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labyrinthine.md)
+
 <p><span class="chinese">在萨路斯特迷宫似的洞穴中，拥有这种感觉很有必要。</span><span class="english">This sense is a necessity in the labyrinthine caves of Sullust.</span></p>
 
 <p><span class="chinese">而那些注册的公司则发现那些文书像迷宫一样让人困惑。</span><span class="english">Those that register find the paperwork labyrinthine and confusing.</span></p>

@@ -1,5 +1,7 @@
 # different 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/different.md)
+
 <p><span class="chinese">TC3却是与众不同的。</span><span class="english">TC3 was different.</span></p>
 
 <p><span class="chinese">洪晃不同。</span><span class="english">Huang is different.</span></p>

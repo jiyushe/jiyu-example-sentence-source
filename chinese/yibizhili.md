@@ -1,5 +1,7 @@
 # 一臂之力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibizhili.md)
+
 <p><span class="chinese">我们希望为你的成功助一臂之力！</span><span class="english">We want to be a part of your success!</span></p>
 
 <p><span class="chinese">全垒打助王建民一臂之力，国民胜出。</span><span class="english">Home runs boost Wang, Nationals to win.</span></p>

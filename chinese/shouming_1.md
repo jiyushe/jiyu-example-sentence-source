@@ -1,5 +1,7 @@
 # 授命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouming_1.md)
+
 <p><span class="chinese">职责意味着不管是否接受，在那时你必须授命。</span><span class="english">Duty meant doing what the moment called for, whether it was in your assignment or not.</span></p>
 
 <p><span class="chinese">公司主管应该是果断决绝，循循善诱，乐于授命，并是渴望承担其责任的人吗？</span><span class="english">Should company executives be decisive, directive, willing to give orders, and eager to assume responsibility?</span></p>

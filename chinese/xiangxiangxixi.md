@@ -1,5 +1,7 @@
 # 详详细细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiangxixi.md)
+
 <p><span class="chinese">有什么就详详细细地告诉我们，不要支吾。</span><span class="english">Tell us exactly what happened and don't prevaricate.</span></p>
 
 <p><span class="chinese">我一定会尽我的力量详详细细告诉你的。</span><span class="english">You shall certainly have the best in my power to give.</span></p>

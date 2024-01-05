@@ -1,5 +1,7 @@
 # topology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topology.md)
+
 <p><span class="chinese">因此，其拓扑是静态的。</span><span class="english">That topology is then static.</span></p>
 
 <p><span class="chinese">配置为相同的拓扑。</span><span class="english">Configured with the same topology.</span></p>

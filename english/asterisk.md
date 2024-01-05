@@ -1,5 +1,7 @@
 # asterisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asterisk.md)
+
 <p><span class="chinese">给这里加个星号</span><span class="english">Put an asterisk by this.</span></p>
 
 <p><span class="chinese">星号表示参看脚注。</span><span class="english">The asterisk refers to a footnote.</span></p>

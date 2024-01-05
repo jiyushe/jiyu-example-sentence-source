@@ -1,5 +1,7 @@
 # bleach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleach.md)
+
 <p><span class="chinese">漂白剂和氨水?。</span><span class="english">Bleach and ammonia?</span></p>
 
 <p><span class="chinese">漂白剂脱色。</span><span class="english">Bleach removes colour.</span></p>

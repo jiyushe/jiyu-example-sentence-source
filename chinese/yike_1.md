@@ -1,5 +1,7 @@
 # 医科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yike_1.md)
+
 <p><span class="chinese">艾贝是个医科学生。</span><span class="english">Abe was a medical student.</span></p>
 
 <p><span class="chinese">她医科毕业。</span><span class="english">She graduated in medicine.</span></p>

@@ -1,5 +1,7 @@
 # masterplan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masterplan.md)
+
 <p><span class="chinese">这或许将仅仅是科幻小说，但也可能是Google现实的长期超级计划。</span><span class="english">This may either be science fiction or Google's actual long-term masterplan.</span></p>
 
 <p><span class="chinese">设计延续城市景观“梨乡水城”的总体规划目标，构筑“西园东水”的城市景观空间。</span><span class="english">The target of masterplan is doing the extension of cityscape that the 'Pear-water Country'.</span></p>

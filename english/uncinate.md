@@ -1,5 +1,7 @@
 # uncinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncinate.md)
+
 <p><span class="chinese">目的通过研究鼻部筛骨钩突的CT影像表现，评价16层螺旋CT多平面重建成像价值。</span><span class="english">Objective To evaluate the value of MPR of ethmoidal uncinate processes using 16 slice spiral CT.</span></p>
 
 <p><span class="chinese">的钩突位于肠系膜上静脉和下腔静脉之间。</span><span class="english">All uncinate process of pancreas was between the superior mesenteric vein and the inferior vena cava.</span></p>

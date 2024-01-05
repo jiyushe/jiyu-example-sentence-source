@@ -1,5 +1,7 @@
 # bisulfate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisulfate.md)
+
 <p><span class="chinese">结果表明，硫酸氢钠的催化活性良好。</span><span class="english">It shows that sodium bisulfate is active.</span></p>
 
 <p><span class="chinese">采用硫酸氢钠为催化剂合成乳酸乙酯。</span><span class="english">Ethyl lactate was synthesized with sodium bisulfate.</span></p>

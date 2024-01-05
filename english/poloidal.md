@@ -1,5 +1,7 @@
 # poloidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poloidal.md)
+
 <p><span class="chinese">是带4个内导体坏的托卡马克装置。</span><span class="english">MPT-X is a tokamak with a 4-node poloidal divertor.</span></p>
 
 <p><span class="chinese">最后求出了D-型截面下的极向磁场以及环向磁场分布。</span><span class="english">At last, the poloidal and toroidal magnetic field with D-shaped is obtained.</span></p>

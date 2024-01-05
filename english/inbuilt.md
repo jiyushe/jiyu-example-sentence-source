@@ -1,5 +1,7 @@
 # inbuilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inbuilt.md)
+
 <p><span class="chinese">本身具有抵抗害虫，杂草及疾病的能力。</span><span class="english">Inbuilt resistance to pests, weeds and disease.</span></p>
 
 <p><span class="chinese">芒果内置的大部分功能，在Android都可以通过第三方应用程序实现。</span><span class="english">Most features inbuilt in Mango can be achieved via 3rd party applications in Android.</span></p>

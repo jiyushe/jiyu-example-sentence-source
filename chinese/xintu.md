@@ -1,5 +1,7 @@
 # 信徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xintu.md)
+
 <p><span class="chinese">他是高尔夫球忠实信徒。</span><span class="english">He was a votary of golf.</span></p>
 
 <p><span class="chinese">向信徒一家的人更当这样。</span><span class="english">A man reaps what he sows.</span></p>

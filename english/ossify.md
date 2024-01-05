@@ -1,5 +1,7 @@
 # ossify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ossify.md)
+
 <p><span class="chinese">脑筋是易于僵化的。</span><span class="english">It is easy for the mind to ossify.</span></p>
 
 <p><span class="chinese">他在竞选获胜后开始变得保守起来。</span><span class="english">He began to ossify after he won the election.</span></p>

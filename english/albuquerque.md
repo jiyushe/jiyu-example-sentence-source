@@ -1,5 +1,7 @@
 # albuquerque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albuquerque.md)
+
 <p><span class="chinese">当我抵达阿尔伯克基时，她在工作。</span><span class="english">By the time I make Albuquerque she'll be working.</span></p>
 
 <p><span class="chinese">上月，麦凯恩在阿尔布开克的一次集会上问道。</span><span class="english">McCain asked at a rally in Albuquerque last month.</span></p>

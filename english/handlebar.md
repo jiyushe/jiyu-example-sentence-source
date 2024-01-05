@@ -1,5 +1,7 @@
 # handlebar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handlebar.md)
+
 <p><span class="chinese">只要一按车把手上的按钮，火焰喷射器就会被发动。</span><span class="english">It works by pressing a button on the handlebar.</span></p>
 
 <p><span class="chinese">比尔把喇叭夹紧在脚踏车的龙头上。</span><span class="english">Bill clamped the horn to the handlebar of his bicycle.</span></p>

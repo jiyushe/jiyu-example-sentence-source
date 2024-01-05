@@ -1,5 +1,7 @@
 # nexus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nexus.md)
+
 <p><span class="chinese">其一是就业与住房的关系。</span><span class="english">One is the employment-housing nexus.</span></p>
 
 <p><span class="chinese">卡雷苟斯对魔枢之战的立场是什么？</span><span class="english">What's Kalecgos' stance with the Nexus War?</span></p>

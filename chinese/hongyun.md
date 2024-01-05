@@ -1,5 +1,7 @@
 # 红晕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongyun.md)
+
 <p><span class="chinese">脸颊上的两片红晕，使她满面生辉。</span><span class="english">Two spots of color brightened IT cheeks.</span></p>
 
 <p><span class="chinese">映着阳光强力反射的红晕轻柔。</span><span class="english">In the soft blush of light's reflected power.</span></p>

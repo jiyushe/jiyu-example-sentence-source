@@ -1,5 +1,7 @@
 # solidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidity.md)
+
 <p><span class="chinese">黄金代表的是稳定和安全。</span><span class="english">Gold represented solidity and security.</span></p>
 
 <p><span class="chinese">被有些人称作猜想或是盲信的，我称之为坚定的信念。</span><span class="english">What some people call presumption or fanaticism , I call solidity of purpose.</span></p>

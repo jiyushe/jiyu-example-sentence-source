@@ -1,5 +1,7 @@
 # articulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/articulation.md)
+
 <p><span class="chinese">尺骨是组成肘关节的主要骨骼。</span><span class="english">The ulna forms the chief articulation at the elbow.</span></p>
 
 <p><span class="chinese">语用及构音能力亦由语言样本分析之。</span><span class="english">Pragmatic skills and articulation abilities are also discussed.</span></p>

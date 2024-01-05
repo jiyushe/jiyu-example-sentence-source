@@ -1,5 +1,7 @@
 # 疲惫不堪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pibeibukan.md)
+
 <p><span class="chinese">或是有点疲惫不堪吗</span><span class="english">Tired as can be?</span></p>
 
 <p><span class="chinese">你的神经已疲惫不堪。</span><span class="english">Your nerves are frazzled.</span></p>

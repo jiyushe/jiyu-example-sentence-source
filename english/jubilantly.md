@@ -1,5 +1,7 @@
 # jubilantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jubilantly.md)
+
 <p><span class="chinese">他兴高采烈地叫休息一会儿。</span><span class="english">He jubilantly called for a break.</span></p>
 
 <p><span class="chinese">人们兴致勃勃地参加游园活动。</span><span class="english">People jubilantly took part in the festival celebrations in the parks.</span></p>

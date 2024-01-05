@@ -1,5 +1,7 @@
 # balinese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balinese.md)
+
 <p><span class="chinese">是巴里岛的品种更适合你？</span><span class="english">Is a Balinese the Breed for You?</span></p>
 
 <p><span class="chinese">这家人就像巴里岛是否。</span><span class="english">And this family do just like what Balinese does.</span></p>

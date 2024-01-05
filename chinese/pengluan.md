@@ -1,5 +1,7 @@
 # 蓬乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengluan.md)
+
 <p><span class="chinese">蓬乱的头发，标志性的。</span><span class="english">Tousled hair, tick.</span></p>
 
 <p><span class="chinese">他头发蓬乱。</span><span class="english">His hair was tousled.</span></p>

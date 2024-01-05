@@ -1,5 +1,7 @@
 # hobo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobo.md)
+
 <p><span class="chinese">Hobo是一个很大的项目。</span><span class="english">Hobo is a big project.</span></p>
 
 <p><span class="chinese">霍波，把我的衣服拿来。</span><span class="english">Bring me my clothes, Hobo.</span></p>

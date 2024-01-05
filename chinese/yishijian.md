@@ -1,5 +1,7 @@
 # 一时间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishijian.md)
+
 <p><span class="chinese">一时间出现了令人尴尬的冷场。</span><span class="english">There is an awkward pause.</span></p>
 
 <p><span class="chinese">一时间，由水传播的疾病十分猖獗。</span><span class="english">Waterborne diseases are rampant.</span></p>

@@ -1,5 +1,7 @@
 # 通知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhi_4.md)
+
 <p><span class="chinese">请以定通知我！</span><span class="english">Please keep me inform!</span></p>
 
 <p><span class="chinese">这则启事通知。</span><span class="english">This not ice apprises.</span></p>

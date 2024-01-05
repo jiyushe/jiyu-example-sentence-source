@@ -1,5 +1,7 @@
 # chelator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chelator.md)
+
 <p><span class="chinese">在此基础上，研究螯合剂对调酸果奶稳定性的影响。</span><span class="english">On the base of these, we studied the effect of chelator on the stability of acidic juice-milk.</span></p>
 
 <p><span class="chinese">铅毒是世界范围内的公害，过去主要采用螯合剂治疗铅毒。</span><span class="english">Lead poisoning is a public health problem in the world, the main treatment of it is by using chelator.</span></p>

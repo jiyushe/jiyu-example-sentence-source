@@ -1,5 +1,7 @@
 # foreclosure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreclosure.md)
+
 <p><span class="chinese">拖欠和取消赎回抵押品权的比例开始上升。</span><span class="english">Delinquency and foreclosure rates rose.</span></p>
 
 <p><span class="chinese">法拍的程序是要发上2个月。</span><span class="english">The foreclosure procedure will take 2 months.</span></p>

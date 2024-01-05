@@ -1,5 +1,7 @@
 # 龙宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longgong.md)
+
 <p><span class="chinese">金龙宫建于堤边，祂能保佑地不再陷、海不溢堤吗？</span><span class="english">Can Golden Dragon Temple keep the sea from overflowing and the ground from sinking?</span></p>
 
 <p><span class="chinese">海里有一座龙宫，住着龙王和他的子孙。</span><span class="english">There is a Yonggungsa nautical miles, is home to the dragon king and his descendants.</span></p>

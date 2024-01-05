@@ -1,5 +1,7 @@
 # 刑事犯罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshifanzui.md)
+
 <p><span class="chinese">而这名裸男则被以刑事犯罪的罪名逮捕。</span><span class="english">The man was charged with criminal mischief.</span></p>
 
 <p><span class="chinese">他的案子应归入刑事犯罪。</span><span class="english">His case should be subsumed under the title of criminal offence.</span></p>

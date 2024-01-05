@@ -1,5 +1,7 @@
 # yayoi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yayoi.md)
+
 <p><span class="chinese">很明显随着农业的盛行，弥生人的语言也占了主要地位。</span><span class="english">Apparently the Yayoi language prevailed, along with the agricultural technology.</span></p>
 
 <p><span class="chinese">日本的饮茶习俗是在前汉时期日本的弥生时代，由中国传过来的。</span><span class="english">Custom of drinking tea in Japan during the former Han Yayoi Japan, passed over by the Chinese.</span></p>

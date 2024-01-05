@@ -1,5 +1,7 @@
 # 倒塌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daota.md)
+
 <p><span class="chinese">即使古城堡在逐渐倒塌。</span><span class="english">Even when they are crumbling.</span></p>
 
 <p><span class="chinese">这座老房很快就倒塌了。</span><span class="english">The old house soon fell down.</span></p>

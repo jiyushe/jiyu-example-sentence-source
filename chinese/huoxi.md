@@ -1,5 +1,7 @@
 # 获悉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoxi.md)
+
 <p><span class="chinese">我们从一家美国报纸上获悉此事。</span><span class="english">We learned the matter from an American paper.</span></p>
 
 <p><span class="chinese">十分高兴获悉你得到了尼尔逊奖学金。</span><span class="english">I'm so glad to hear of your scholarship to Nelson.</span></p>

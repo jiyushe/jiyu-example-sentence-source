@@ -1,5 +1,7 @@
 # 天机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianji_1.md)
+
 <p><span class="chinese">天机不可泄漏，我只能讲这么多了。</span><span class="english">This is as far as I can tell you.</span></p>
 
 <p><span class="chinese">最后，天机给泄漏出来了。</span><span class="english">Finally the cat was let out of the bag.</span></p>

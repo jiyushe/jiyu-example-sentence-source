@@ -1,5 +1,7 @@
 # 欲盖弥彰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugaimizhang.md)
+
 <p><span class="chinese">蒂姆不过是在欲盖弥彰。</span><span class="english">Tim is just being coy.</span></p>
 
 <p><span class="chinese">赎缡每个人都有一段悲伤，想隐藏却欲盖弥彰。</span><span class="english">Everyone has a sad, want to hide is.</span></p>

@@ -1,5 +1,7 @@
 # 性行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxing.md)
+
 <p><span class="chinese">你也许会因它们而惊讶，不管是你知道还是不知道的性行话。</span><span class="english">You might be surprised by what sexual lingo you do and don’t know.</span></p>
 
 <p><span class="chinese">这也是美国宇航局空基望远镜开普勒所发现的第一颗石性行星，也称类地行星。</span><span class="english">It is also the first rocky, or Eah-like planet discovered by Kepler.</span></p>

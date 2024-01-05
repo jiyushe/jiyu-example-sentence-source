@@ -1,5 +1,7 @@
 # 肾结石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjieshi.md)
+
 <p><span class="chinese">乔也听人提到过肾结石。</span><span class="english">Joe has also heard of kidney stones.</span></p>
 
 <p><span class="chinese">婴幼儿患肾结石是十分罕见的。</span><span class="english">Kidney stones in infants are very rare.</span></p>

@@ -1,5 +1,7 @@
 # fearless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fearless.md)
+
 <p><span class="chinese">我是个无所畏惧的人。</span><span class="english">I’m a fearless person.</span></p>
 
 <p><span class="chinese">这让我无所畏惧。</span><span class="english">And this makes me fearless.</span></p>

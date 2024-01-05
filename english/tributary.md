@@ -1,5 +1,7 @@
 # tributary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tributary.md)
+
 <p><span class="chinese">英格兰是他忠心的藩属。</span><span class="english">England was his faithful tributary.</span></p>
 
 <p><span class="chinese">这是珠江的一条支流。</span><span class="english">This is a tributary of Zhujiang River.</span></p>

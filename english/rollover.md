@@ -1,5 +1,7 @@
 # rollover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rollover.md)
+
 <p><span class="chinese">影片剪辑，按钮和翻转，输出功能。</span><span class="english">Movieclip-Button with rollover and out function.</span></p>
 
 <p><span class="chinese">过渡很简单，但你仍然需要一些文件就手。</span><span class="english">The rollover is simple, but you'll still need some paperwork on hand.</span></p>

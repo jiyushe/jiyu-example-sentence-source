@@ -1,5 +1,7 @@
 # 雨季
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuji_2.md)
+
 <p><span class="chinese">另外一个问题是雨季。</span><span class="english">Another problem is the monsoon.</span></p>
 
 <p><span class="chinese">我们这儿的雨季在初夏。</span><span class="english">We have the rains in early summer.</span></p>

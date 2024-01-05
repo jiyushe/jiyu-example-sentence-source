@@ -1,5 +1,7 @@
 # 审校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjiao_1.md)
+
 <p><span class="chinese">感谢那些对本文进行审校的人员。</span><span class="english">Thank you to those who reviewed this article.</span></p>
 
 <p><span class="chinese">新的翻译标准强调审校环节的重要性。</span><span class="english">New translation standards emphasize the importance of revision.</span></p>

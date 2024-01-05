@@ -1,5 +1,7 @@
 # scratchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scratchy.md)
+
 <p><span class="chinese">我流鼻涕，嗓子还又疼又哑。</span><span class="english">I have a runny nose and a scratchy throat.</span></p>
 
 <p><span class="chinese">有的很清朗，其他的更沙哑。</span><span class="english">Some voices are clear, others are more scratchy.</span></p>

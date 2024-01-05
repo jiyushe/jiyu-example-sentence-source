@@ -1,5 +1,7 @@
 # 练就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjiu_1.md)
+
 <p><span class="chinese">想练就英语口语真功夫吗？</span><span class="english">Do you want to conquer English?</span></p>
 
 <p><span class="chinese">诗人是天生的，演说家则是后天练就的。</span><span class="english">Poets are born, but orators are made.</span></p>

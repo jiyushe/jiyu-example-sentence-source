@@ -1,5 +1,7 @@
 # 重印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongyin.md)
+
 <p><span class="chinese">她的畅销小说正在重印中。</span><span class="english">Her bestselling novel is reprinting.</span></p>
 
 <p><span class="chinese">新的和重印的诗歌和散文。</span><span class="english">New and reprints of poetry and prose.</span></p>

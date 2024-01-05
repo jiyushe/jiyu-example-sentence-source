@@ -1,5 +1,7 @@
 # panties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panties.md)
+
 <p><span class="chinese">这些小红衩。</span><span class="english">Those little red panties.</span></p>
 
 <p><span class="chinese">为何不让我看看你的内裤呢？</span><span class="english">Why don't you show me your panties?</span></p>

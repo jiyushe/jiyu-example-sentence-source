@@ -1,5 +1,7 @@
 # 字调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidiao.md)
+
 <p><span class="chinese">由套接字调用和套接字参数创建一个监听器。</span><span class="english">Make a listener by calling socket with socket args.</span></p>
 
 <p><span class="chinese">辉县方言共有声母21个，基本韵母47个，单字调5个。</span><span class="english">There are 21 initials, 47 finals and 5 tones in Huixian dialect.</span></p>

@@ -1,5 +1,7 @@
 # vadose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vadose.md)
+
 <p><span class="chinese">成矿流体以渗流热卤水为主。</span><span class="english">The ore-forming fluid is mainly vadose hot brine.</span></p>
 
 <p><span class="chinese">地下水流是水于地下蓄水层或地下水位线以上的空间流动。</span><span class="english">Subsurface Flow is the flow of water underground, in the vadose zone and aquifers.</span></p>

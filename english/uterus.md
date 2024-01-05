@@ -1,5 +1,7 @@
 # uterus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uterus.md)
+
 <p><span class="chinese">子宫颈，卵巢，子宫。</span><span class="english">Cervix, ovaries, uterus.</span></p>
 
 <p><span class="chinese">德亚天生就没有子宫。</span><span class="english">Derya was born without a uterus.</span></p>

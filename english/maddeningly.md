@@ -1,5 +1,7 @@
 # maddeningly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maddeningly.md)
+
 <p><span class="chinese">所有内容都为浅灰色。</span><span class="english">All in maddeningly light grey.</span></p>
 
 <p><span class="chinese">特德不温不火的样子能把人气疯。</span><span class="english">Ted could be maddeningly bland.</span></p>

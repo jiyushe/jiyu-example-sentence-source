@@ -1,5 +1,7 @@
 # shim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shim.md)
+
 <p><span class="chinese">22岁的安德鲁·希姆来自马里兰州。</span><span class="english">Andrew Shim is twenty-two years old, from Maryland.</span></p>
 
 <p><span class="chinese">我们可以利用垫铁和螺丝千斤顶来调整机器的水平度。</span><span class="english">We can adjust the levelness of the machine by means of shim and screw jack.</span></p>

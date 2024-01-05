@@ -1,5 +1,7 @@
 # skill 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skill.md)
+
 <p><span class="chinese">一种技巧的游戏。</span><span class="english">A game of skill.</span></p>
 
 <p><span class="chinese">狂怒现在成为巧妙的技能。</span><span class="english">Fury now became skill.</span></p>

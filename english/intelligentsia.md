@@ -1,5 +1,7 @@
 # intelligentsia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligentsia.md)
+
 <p><span class="chinese">知识分子看不起政治，中产阶级不尊重政治。</span><span class="english">The intelligentsia looks down on politics. The middle class does not respect politics.</span></p>
 
 <p><span class="chinese">我们尊重知识分子是完全应该的，没有革命知识分子，革命就不会胜利。</span><span class="english">It is our due to respect intelligentsia without whom revolutionary would not get victory.</span></p>

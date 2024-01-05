@@ -1,5 +1,7 @@
 # 帝国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diguo.md)
+
 <p><span class="chinese">媒体帝国，女人，孩子，复仇，名望和玩弄于股掌的各国政要。</span><span class="english">A media empire. Women.</span></p>
 
 <p><span class="chinese">像电影“黑客帝国”里“</span><span class="english">See also "The Matrix."</span></p>

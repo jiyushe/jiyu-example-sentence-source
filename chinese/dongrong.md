@@ -1,5 +1,7 @@
 # 动容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongrong.md)
+
 <p><span class="chinese">田继业听后非常动容。</span><span class="english">Tian Jiye after listen to very touching.</span></p>
 
 <p><span class="chinese">孝心少年的故事让我们动容落泪。</span><span class="english">The filial piety youth story made us cry.</span></p>

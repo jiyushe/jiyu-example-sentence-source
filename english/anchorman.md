@@ -1,5 +1,7 @@
 # anchorman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anchorman.md)
+
 <p><span class="chinese">一个电视节目主持人要站住脚可不容易。</span><span class="english">It is not easy to get a foothold as an anchorman.</span></p>
 
 <p><span class="chinese">这位男电视主持人正在报道晚间新闻。</span><span class="english">The television anchorman was reporting evening news.</span></p>

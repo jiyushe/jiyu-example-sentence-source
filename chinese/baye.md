@@ -1,5 +1,7 @@
 # 霸业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baye.md)
+
 <p><span class="chinese">现在是征服一切成就一番霸业的时候了。</span><span class="english">Now is the time for totally war.</span></p>
 
 <p><span class="chinese">拥有超高天分的他，如今的唯一问题是----他将成就何等霸业？</span><span class="english">Now, the only question is how big will he get?</span></p>

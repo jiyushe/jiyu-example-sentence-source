@@ -1,5 +1,7 @@
 # 因果报应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinguobaoying.md)
+
 <p><span class="chinese">也许这就是因果报应。</span><span class="english">Maybe it was karma.</span></p>
 
 <p><span class="chinese">这只是因果报应。</span><span class="english">It’s just bad karma.</span></p>

@@ -1,5 +1,7 @@
 # 古文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwen.md)
+
 <p><span class="chinese">因为偏爱古文，所以知识性引用很多。</span><span class="english">A preference for classical Chinese, so a lot of knowledge of.</span></p>
 
 <p><span class="chinese">顺成街67号庭院的木门上刻着许多古文。</span><span class="english">On one set of doors of number 67, are carved many characters.</span></p>

@@ -1,5 +1,7 @@
 # bht
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bht.md)
+
 <p><span class="chinese">栎皮酮分别与BHT、TBHQ复配使用时，其协同作用并不明显。</span><span class="english">The synergistic effect of quercetin and BHT or TBHQ was not significant.</span></p>
 
 <p><span class="chinese">通过抗氧化性比较，表明黄酮提取液的抗氧化性优于BHT和BHA。</span><span class="english">It was show that the antioxidant ability of flavonoids extraction is better than BHT and BHA.</span></p>

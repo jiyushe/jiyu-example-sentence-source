@@ -1,5 +1,7 @@
 # unstressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unstressed.md)
+
 <p><span class="chinese">其它的音节都是非重音。</span><span class="english">The remaining syllables are unstressed.</span></p>
 
 <p><span class="chinese">弱母音有消失的趋势。</span><span class="english">There is a tendency for unstressed vowels to disappear.</span></p>

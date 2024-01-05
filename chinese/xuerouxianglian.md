@@ -1,5 +1,7 @@
 # 血肉相连
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuerouxianglian.md)
+
 <p><span class="chinese">该工会与工人是血肉相连的。</span><span class="english">We are always as close as flesh and Blood.</span></p>
 
 <p><span class="chinese">他认为自己和俄国人民血肉相连</span><span class="english">He identified himself with the Russian people.</span></p>

@@ -1,5 +1,7 @@
 # 禁区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqu.md)
+
 <p><span class="chinese">电视简直就是个禁区。</span><span class="english">TV is simply off limits.</span></p>
 
 <p><span class="chinese">电梯和楼梯是我的禁区。</span><span class="english">Lifts and stairs are unbearable.</span></p>

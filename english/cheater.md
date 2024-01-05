@@ -1,5 +1,7 @@
 # cheater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheater.md)
+
 <p><span class="chinese">骗子太多，傻子明显不够用了。</span><span class="english">Cheater too obvious, fool enough to use.</span></p>
 
 <p><span class="chinese">他们是一个兜售工具的骗子。</span><span class="english">They are a selling tool for the cheater.</span></p>

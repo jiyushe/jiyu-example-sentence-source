@@ -1,5 +1,7 @@
 # 谈情说爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanqingshuoai.md)
+
 <p><span class="chinese">这种人无资格谈情说爱。</span><span class="english">Such people are not eligible talked of love.</span></p>
 
 <p><span class="chinese">每晚同你谈情说爱，我冇咁多时间喎！</span><span class="english">I can't spend every evening mashing with you!</span></p>

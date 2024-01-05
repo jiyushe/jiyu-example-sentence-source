@@ -1,5 +1,7 @@
 # 屠刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudao.md)
+
 <p><span class="chinese">主人的屠刀闪亮亮要宰我的羊。</span><span class="english">My master waits and holds a knife.</span></p>
 
 <p><span class="chinese">犹把屠刀谅。</span><span class="english">And yet forgives the butcher's knife.</span></p>

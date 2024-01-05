@@ -1,5 +1,7 @@
 # 湘军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjun.md)
+
 <p><span class="chinese">一九一六年入湘军。</span><span class="english">In 1916 into the Hunan Army.</span></p>
 
 <p><span class="chinese">“电视湘军”最多只算得上是一个非典型性品牌工程。</span><span class="english">But there isn't such a brand in Hunan, either a brand project on it.</span></p>

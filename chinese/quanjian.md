@@ -1,5 +1,7 @@
 # 全歼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjian.md)
+
 <p><span class="chinese">我们全歼了进犯之敌。</span><span class="english">We wiped out all the invading enemy.</span></p>
 
 <p><span class="chinese">全歼或俘获敌人。</span><span class="english">To completely destroy or capture the enemy.</span></p>

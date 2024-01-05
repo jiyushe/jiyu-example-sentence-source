@@ -1,5 +1,7 @@
 # 封面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmian.md)
+
 <p><span class="chinese">那是本蓝色封面的书。</span><span class="english">It's a book with a blue cover.</span></p>
 
 <p><span class="chinese">这个封面来自二零零二年四月的那期</span><span class="english">And this is from April of 2002.</span></p>

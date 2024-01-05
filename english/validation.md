@@ -1,5 +1,7 @@
 # validation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/validation.md)
+
 <p><span class="chinese">演示系统验证过程。</span><span class="english">Demonstrate system validation.</span></p>
 
 <p><span class="chinese">封装确认逻辑。</span><span class="english">Encapsulating validation logic.</span></p>

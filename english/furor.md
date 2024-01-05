@@ -1,5 +1,7 @@
 # furor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furor.md)
+
 <p><span class="chinese">那么，如何解释这份狂热呢？</span><span class="english">So, what explains the furor?</span></p>
 
 <p><span class="chinese">大家对葛瑞格工作的愤怒着实让我伤心。</span><span class="english">The furor over Greg's work breaks my heart.</span></p>

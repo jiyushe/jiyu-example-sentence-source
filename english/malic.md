@@ -1,5 +1,7 @@
 # malic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malic.md)
+
 <p><span class="chinese">而且它含有丰富的苹果酸。</span><span class="english">And it is rich in malic acid.</span></p>
 
 <p><span class="chinese">苹果的内心深处有什么？</span><span class="english">What is there in malic heart?</span></p>

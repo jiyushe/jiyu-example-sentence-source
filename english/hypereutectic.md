@@ -1,5 +1,7 @@
 # hypereutectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypereutectic.md)
+
 <p><span class="chinese">此外还有过共晶铝合金气缸材料。</span><span class="english">There is also the hypereutectic aluminum alloy material for cylinders.</span></p>
 
 <p><span class="chinese">而使高硅铝合金充分发挥实用价值的关键是细化初晶硅。</span><span class="english">The value of hypereutectic Al Si alloys is their fine primary silicon particles.</span></p>

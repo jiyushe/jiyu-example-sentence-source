@@ -1,5 +1,7 @@
 # 盘查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pancha.md)
+
 <p><span class="chinese">难以入睡，我就回到原先的卧室，盘查了衣柜大门，搜寻着墙上的蛛丝马迹，试图从这所老屋里找出我记忆里所有的东西。</span><span class="english">I return to the first room. Open and shut the closet door.</span></p>
 
 <p><span class="chinese">侦探们正在敦国家美术馆的走廊里盘查。</span><span class="english">SLEUTHS are stalking the corridors of London's National Gallery.</span></p>

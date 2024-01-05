@@ -1,5 +1,7 @@
 # 市长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhang.md)
+
 <p><span class="chinese">他将任市长一职。</span><span class="english">He'll serve as a mayor.</span></p>
 
 <p><span class="chinese">我在夏洛特市长大。</span><span class="english">I grew up in Charlotte.</span></p>

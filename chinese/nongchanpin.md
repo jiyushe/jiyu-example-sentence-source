@@ -1,5 +1,7 @@
 # 农产品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongchanpin.md)
+
 <p><span class="chinese">农夫载回一车农产品。</span><span class="english">Nung-fu brings back a load of produce.</span></p>
 
 <p><span class="chinese">拥有最多农产品的玩家获胜。</span><span class="english">The player with the most produce wins.</span></p>

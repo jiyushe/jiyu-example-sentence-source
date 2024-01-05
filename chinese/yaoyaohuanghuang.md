@@ -1,5 +1,7 @@
 # 摇摇晃晃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaohuanghuang.md)
+
 <p><span class="chinese">摇摆萨米当他摇摇晃晃。</span><span class="english">Sammy wiggled when he wobbled.</span></p>
 
 <p><span class="chinese">醉汉摇摇晃晃地回家了。</span><span class="english">The drunkard rolled back home.</span></p>

@@ -1,5 +1,7 @@
 # 下水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashui.md)
+
 <p><span class="chinese">这条船是两年前下水的。</span><span class="english">The ship two years ago.</span></p>
 
 <p><span class="chinese">在瀑布下水激起泡沫。</span><span class="english">Water seethes under the falls.</span></p>

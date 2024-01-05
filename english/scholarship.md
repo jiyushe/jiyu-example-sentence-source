@@ -1,5 +1,7 @@
 # scholarship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scholarship.md)
+
 <p><span class="chinese">我希望天能尽快放晴。</span><span class="english">I'm hoping to win scholarship.</span></p>
 
 <p><span class="chinese">奖学金？当然有，</span><span class="english">Scholarship? I'd say certainly,</span></p>

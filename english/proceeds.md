@@ -1,5 +1,7 @@
 # proceeds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proceeds.md)
+
 <p><span class="chinese">一切照常进行。</span><span class="english">Everything proceeds as usual.</span></p>
 
 <p><span class="chinese">狡诈出自于蟥能力的缺乏。</span><span class="english">Cunning proceeds from want of capacity.</span></p>

@@ -1,5 +1,7 @@
 # 山乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanxiang.md)
+
 <p><span class="chinese">沙化土地贫瘠，青海贵德脑山乡村。</span><span class="english">In GuiDe Village of Qinghai, the soil is sandy and poor.</span></p>
 
 <p><span class="chinese">万泉河漂流，由烟园至会山乡，长约15公里，时间约3小时。</span><span class="english">River rafting, from tobacco to be Shan Park, about 15 kilometers, about 3 hours.</span></p>

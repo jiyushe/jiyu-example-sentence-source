@@ -1,5 +1,7 @@
 # bursa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bursa.md)
+
 <p><span class="chinese">接毒后6个月，法氏囊萎缩。</span><span class="english">The bursa atrophied at the 6th month of PI.</span></p>
 
 <p><span class="chinese">滑囊炎是滑囊的炎症。</span><span class="english">Bursitis is inflammation or irritation of a bursa.</span></p>

@@ -1,5 +1,7 @@
 # 倍加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beijia.md)
+
 <p><span class="chinese">以言一国之精神，倍加真确。</span><span class="english">Twice is this true of the soul of a nation.</span></p>
 
 <p><span class="chinese">明天的乐至，必将因你的加盟而倍加精彩！</span><span class="english">The future Lezhi will be more wonderful for your participation!</span></p>

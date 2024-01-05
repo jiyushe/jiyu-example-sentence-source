@@ -1,5 +1,7 @@
 # 陋巷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/louxiang.md)
+
 <p><span class="chinese">他们住在一条陋巷里。</span><span class="english">They lived in a shabby street.</span></p>
 
 <p><span class="chinese">他们在小俱乐部在穷街陋巷的。</span><span class="english">They played in small clubs in the back streets of the city.</span></p>

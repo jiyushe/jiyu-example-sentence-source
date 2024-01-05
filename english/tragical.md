@@ -1,5 +1,7 @@
 # tragical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tragical.md)
+
 <p><span class="chinese">的命运是多么悲惨呀！</span><span class="english">How tragical their fate is!</span></p>
 
 <p><span class="chinese">这都体现了一种典型的悲剧精神。</span><span class="english">All of these show a typical tragical spirit.</span></p>

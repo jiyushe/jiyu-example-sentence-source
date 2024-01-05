@@ -1,5 +1,7 @@
 # tag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tag.md)
+
 <p><span class="chinese">全新s码的，没有吊牌。</span><span class="english">S new code, no tag.</span></p>
 
 <p><span class="chinese">一个标签处理函数类。</span><span class="english">A tag handler class.</span></p>

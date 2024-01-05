@@ -1,5 +1,7 @@
 # enlistment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlistment.md)
+
 <p><span class="chinese">姚伦，扬州大都督府参军。诗二首。</span><span class="english">Yao Lun, Yangzhou Grand Military enlistment. Two Poems.</span></p>
 
 <p><span class="chinese">在大学毕业后，阿甘又应征入伍去了越南。</span><span class="english">After graduating from college, forrest gump and enlistment to Vietnam.</span></p>

@@ -1,5 +1,7 @@
 # 摇钱树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoqianshu.md)
+
 <p><span class="chinese">猪真的是摇钱树吗？</span><span class="english">But are pigs really money-spinners?</span></p>
 
 <p><span class="chinese">所以，甚至是你所犯的错误也可以作为你的摇钱树。</span><span class="english">So even your mistakes can be monetized.</span></p>

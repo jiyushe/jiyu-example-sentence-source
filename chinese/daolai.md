@@ -1,5 +1,7 @@
 # 到来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daolai.md)
+
 <p><span class="chinese">所有的一切将会到来。</span><span class="english">So all that's to come.</span></p>
 
 <p><span class="chinese">阿·坎特纳尔将会到来。</span><span class="english">Ah Kantenal shall come.</span></p>

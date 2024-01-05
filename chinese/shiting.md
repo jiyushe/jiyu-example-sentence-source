@@ -1,5 +1,7 @@
 # 视听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiting.md)
+
 <p><span class="chinese">这是本视听图书。</span><span class="english">It's an audio-visual book.</span></p>
 
 <p><span class="chinese">扰乱视听，混淆黑白。</span><span class="english">Disturbing confusion, black and white.</span></p>

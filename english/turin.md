@@ -1,5 +1,7 @@
 # turin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turin.md)
+
 <p><span class="chinese">都灵是一座无风的城市。</span><span class="english">Turin is a windless city.</span></p>
 
 <p><span class="chinese">都灵裹尸布是被达芬奇伪造的？</span><span class="english">Was Turin Shroud faked by Leonardo da Vinci?</span></p>

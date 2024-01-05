@@ -1,5 +1,7 @@
 # cinematography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinematography.md)
+
 <p><span class="chinese">本片荣获奥斯卡最佳音响奖和最佳摄影奖。</span><span class="english">It won two Oscar awards for Best Sound and Best Cinematography.</span></p>
 
 <p><span class="chinese">最佳摄影给达利厄斯·孔济的黑银色的阴影世界？</span><span class="english">Best cinematography for Darius Khondji's silver-black shadowworld?</span></p>

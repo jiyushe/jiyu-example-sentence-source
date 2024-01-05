@@ -1,5 +1,7 @@
 # 无损
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusun.md)
+
 <p><span class="chinese">这些易碎的箱子完整无损地运到了。</span><span class="english">The fragile boxes arrived intact.</span></p>
 
 <p><span class="chinese">这些货物的包装完整无损。</span><span class="english">The packing of the goods is in good order.</span></p>

@@ -1,5 +1,7 @@
 # whereupon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereupon.md)
+
 <p><span class="chinese">我的汽车修理师一看就开心地哈哈大笑起来。</span><span class="english">Whereupon my auto-repair man laughed heartily and said.</span></p>
 
 <p><span class="chinese">他看见我来了，于是就向另一个方向逃跑了。</span><span class="english">He saw me coming, whereupon he ran off in the other direction.</span></p>

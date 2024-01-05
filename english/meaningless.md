@@ -1,5 +1,7 @@
 # meaningless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meaningless.md)
+
 <p><span class="chinese">避免无意义的沉思。</span><span class="english">Avoid meaningless brooding.</span></p>
 
 <p><span class="chinese">但是我不应该去想这件事，这意味着我的生命都是没有意义的。</span><span class="english">It means my life is meaningless.</span></p>

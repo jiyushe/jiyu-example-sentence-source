@@ -1,5 +1,7 @@
 # disgrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgrace.md)
+
 <p><span class="chinese">我认为这是耻辱。</span><span class="english">I think it's a disgrace.</span></p>
 
 <p><span class="chinese">无耻也就是可耻。</span><span class="english">Effrontery is a disgrace.</span></p>

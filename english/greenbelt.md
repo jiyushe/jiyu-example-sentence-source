@@ -1,5 +1,7 @@
 # greenbelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenbelt.md)
+
 <p><span class="chinese">商场前是大片的绿地。</span><span class="english">Big greenbelt is before bazaar.</span></p>
 
 <p><span class="chinese">这些活动将在公共绿地天文台。</span><span class="english">These events will be held at the Greenbelt Public Observatory.</span></p>

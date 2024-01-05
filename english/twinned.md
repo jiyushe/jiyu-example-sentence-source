@@ -1,5 +1,7 @@
 # twinned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twinned.md)
+
 <p><span class="chinese">牛津与波恩结成了友好城市。</span><span class="english">Oxford is twinned with bonn.</span></p>
 
 <p><span class="chinese">巴黎和北京结成姊妹城市。</span><span class="english">Paris is twinned with Beijing.</span></p>

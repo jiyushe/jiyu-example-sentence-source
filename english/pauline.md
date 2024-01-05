@@ -1,5 +1,7 @@
 # pauline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pauline.md)
+
 <p><span class="chinese">使徒保罗的基督教是如何得胜的</span><span class="english">How Pauline Christianity Triumphed</span></p>
 
 <p><span class="chinese">然后宝莲爱上了海明威的爱情。</span><span class="english">Then Pauline fell in love with Hemingway.</span></p>

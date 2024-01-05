@@ -1,5 +1,7 @@
 # 愈益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi_3.md)
+
 <p><span class="chinese">近来祖母愈益衰弱了。</span><span class="english">Grandmother has been getting feebler lately.</span></p>
 
 <p><span class="chinese">让枪支远离其他的所有人，其理由愈益清楚。</span><span class="english">The reasons for keeping them away from everyone else get clearer.</span></p>

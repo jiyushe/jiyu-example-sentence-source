@@ -1,5 +1,7 @@
 # 有喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxi.md)
+
 <p><span class="chinese">有喜乐才会产生盼望和力量。</span><span class="english">Having joy produces hope and strength.</span></p>
 
 <p><span class="chinese">人生有喜、有忧、有哭、有泪。</span><span class="english">Pregnant life, there is worry, cry, tears.</span></p>

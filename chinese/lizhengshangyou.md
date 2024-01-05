@@ -1,5 +1,7 @@
 # 力争上游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhengshangyou.md)
+
 <p><span class="chinese">一个好学生要有力争上游的决心。</span><span class="english">To strive to be a pace-setter.</span></p>
 
 <p><span class="chinese">我们应在各个领域力争上游。</span><span class="english">We must improve in every area.</span></p>

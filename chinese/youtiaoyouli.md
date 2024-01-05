@@ -1,5 +1,7 @@
 # 有条有理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtiaoyouli.md)
+
 <p><span class="chinese">有条有理会使你赢得时间。</span><span class="english">Method will teach you to win time.</span></p>
 
 <p><span class="chinese">"我希望他们能有劲儿往一处使,有条有理地处理问题,"里德说.</span><span class="english">"We want them to get their act together," Reid said.</span></p>

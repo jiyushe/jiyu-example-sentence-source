@@ -1,5 +1,7 @@
 # 升格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengge.md)
+
 <p><span class="chinese">1893年，州立法将曼荷莲女子学院升格为大学。</span><span class="english">In 1893, under a state law, Mount Holyoke Female Seminary became a college.</span></p>
 
 <p><span class="chinese">而男主角紫宛则是在2岁的时候便给人升格为精英了。</span><span class="english">The actor purple Wan is in 2 years when it was upgraded to the elite of the people.</span></p>

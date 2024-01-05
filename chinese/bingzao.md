@@ -1,5 +1,7 @@
 # 病灶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzao.md)
+
 <p><span class="chinese">结果全部病灶获得手术切除。</span><span class="english">Results All foci were ablated.</span></p>
 
 <p><span class="chinese">病灶与脐相连。</span><span class="english">Focus connected with umbilicus.</span></p>

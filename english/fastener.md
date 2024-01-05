@@ -1,5 +1,7 @@
 # fastener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fastener.md)
+
 <p><span class="chinese">黄土，石头，棉，塑料按扣。</span><span class="english">Loess, stone, cotton & plastic snap fastener.</span></p>
 
 <p><span class="chinese">你的衬衫松开了，因为钮扣坏了。</span><span class="english">Your blouse is. open because the fastener is. broken.</span></p>

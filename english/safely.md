@@ -1,5 +1,7 @@
 # safely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safely.md)
+
 <p><span class="chinese">在世界里我们安全生活。</span><span class="english">Thro ' the World we safely go.</span></p>
 
 <p><span class="chinese">老虎乖乖地被关在铁笼子里。</span><span class="english">The tigers are safely caged in.</span></p>

@@ -1,5 +1,7 @@
 # illuminati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminati.md)
+
 <p><span class="chinese">什么是先觉者？</span><span class="english">what is the illuminati?</span></p>
 
 <p><span class="chinese">我们是光照派，我们绝不任人摆布。</span><span class="english">We're the Illuminati , and we are not done.</span></p>

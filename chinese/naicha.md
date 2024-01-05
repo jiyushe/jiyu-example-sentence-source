@@ -1,5 +1,7 @@
 # 奶茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naicha.md)
+
 <p><span class="chinese">来一杯山度士奶茶？</span><span class="english">Santos a cup of tea?</span></p>
 
 <p><span class="chinese">在当地开了一家奶茶店。</span><span class="english">Runs a milk tea house.</span></p>

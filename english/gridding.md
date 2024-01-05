@@ -1,5 +1,7 @@
 # gridding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gridding.md)
+
 <p><span class="chinese">网格化的准确与否决定了数据提取的正确性。</span><span class="english">So it is important that result of gridding is accurate.</span></p>
 
 <p><span class="chinese">同时用于绞织网格布及平织，织机投资成本轻。</span><span class="english">It can be used in weaving gridding cloth and flat weaving.</span></p>

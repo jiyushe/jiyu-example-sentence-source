@@ -1,5 +1,7 @@
 # unfamiliar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfamiliar.md)
+
 <p><span class="chinese">我在这儿人地生疏。</span><span class="english">I am unfamiliar with the subject.</span></p>
 
 <p><span class="chinese">我在一个陌生的城市里形单影只。</span><span class="english">I was alone in an unfamiliar city.</span></p>

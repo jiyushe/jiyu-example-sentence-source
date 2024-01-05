@@ -1,5 +1,7 @@
 # saddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saddle.md)
+
 <p><span class="chinese">这鞍子安得很牢。</span><span class="english">The saddle is secure.</span></p>
 
 <p><span class="chinese">它看起来像一个马鞍。</span><span class="english">It looks like a saddle.</span></p>

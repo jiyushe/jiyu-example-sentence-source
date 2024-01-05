@@ -1,5 +1,7 @@
 # cull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cull.md)
+
 <p><span class="chinese">现在我把GetInt去掉了，这是什么意思？</span><span class="english">Now what does it mean to cull GetInt?</span></p>
 
 <p><span class="chinese">对美国较小银行的剔除将继续下去。</span><span class="english">The cull of smaller American banks will continue.</span></p>

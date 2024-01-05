@@ -1,5 +1,7 @@
 # diversified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversified.md)
+
 <p><span class="chinese">首先是XLF投资的多元化。</span><span class="english">First, the XLF is diversified.</span></p>
 
 <p><span class="chinese">需要对你的资产的多样性优劣作一个评估吗？</span><span class="english">Need an assessment of how well your assets are diversified?</span></p>

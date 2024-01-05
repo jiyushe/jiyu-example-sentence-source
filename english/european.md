@@ -1,5 +1,7 @@
 # european
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/european.md)
+
 <p><span class="chinese">兰姆先生是个欧洲人。</span><span class="english">Mr. Lamb was a European.</span></p>
 
 <p><span class="chinese">欧洲商店开业的不多。</span><span class="english">Not so many European shops.</span></p>

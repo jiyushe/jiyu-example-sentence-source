@@ -1,5 +1,7 @@
 # 联合机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianheji.md)
+
 <p><span class="chinese">它被联合机合作国家严格地巡逻。</span><span class="english">It's very heavily patrolled by coalition and partner nations.</span></p>
 
 <p><span class="chinese">最后对我国伐木联合机的发展作出了展望。</span><span class="english">Finally, the prospect of the development of harvesters in China is suggested.</span></p>

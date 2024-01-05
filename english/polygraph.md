@@ -1,5 +1,7 @@
 # polygraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygraph.md)
+
 <p><span class="chinese">这就是测谎仪能找出说谎者的原因。</span><span class="english">That's why a polygraph can often uncover a liar.</span></p>
 
 <p><span class="chinese">但解读这些图表是出了名的困难。</span><span class="english">Yet interpreting a polygraph chart is notoriously difficult.</span></p>

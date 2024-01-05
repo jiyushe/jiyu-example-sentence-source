@@ -1,5 +1,7 @@
 # have
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/have.md)
+
 <p><span class="chinese">享受乐趣。</span><span class="english">Have fun.</span></p>
 
 <p><span class="chinese">有孩子？</span><span class="english">Have kids?</span></p>

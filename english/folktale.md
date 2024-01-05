@@ -1,5 +1,7 @@
 # folktale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folktale.md)
+
 <p><span class="chinese">北方民间有这么一个传说。</span><span class="english">There is a folktale in northern China.</span></p>
 
 <p><span class="chinese">他给我讲了个令人毛骨悚然的民间故事。</span><span class="english">The folktale he told to me is gruesome one.</span></p>

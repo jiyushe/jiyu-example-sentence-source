@@ -1,5 +1,7 @@
 # austerity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austerity.md)
+
 <p><span class="chinese">厉行节约在克莱斯勒公司是一件新鲜事。</span><span class="english">Austerity was a new idea at Chrysler.</span></p>
 
 <p><span class="chinese">我们已经进入厉行紧缩的时代。</span><span class="english">We have entered the Age of Austerity.</span></p>

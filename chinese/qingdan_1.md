@@ -1,5 +1,7 @@
 # 清单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdan_1.md)
+
 <p><span class="chinese">将清单交给他们。</span><span class="english">Give them the list.</span></p>
 
 <p><span class="chinese">这是我的考评清单。</span><span class="english">Here's my checklist.</span></p>

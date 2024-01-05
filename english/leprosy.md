@@ -1,5 +1,7 @@
 # leprosy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leprosy.md)
+
 <p><span class="chinese">他一定会医好他的痳疯病。</span><span class="english">He would cure him of his leprosy.</span></p>
 
 <p><span class="chinese">麻风的传染性不很强。</span><span class="english">Leprosy is not highly infectious.</span></p>

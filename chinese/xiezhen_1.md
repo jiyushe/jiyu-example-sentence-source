@@ -1,5 +1,7 @@
 # 谐振
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezhen_1.md)
+
 <p><span class="chinese">所以，选择五镜环形谐振腔。</span><span class="english">So we use five-mirror ring cavity.</span></p>
 
 <p><span class="chinese">分析了谐振腔的设计。</span><span class="english">And analyse the designment of syntonic cavity.</span></p>

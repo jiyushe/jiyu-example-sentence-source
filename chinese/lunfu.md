@@ -1,5 +1,7 @@
 # 轮辐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunfu.md)
+
 <p><span class="chinese">而你的腿在车的轮辐里。</span><span class="english">And your legs are in the spokes.</span></p>
 
 <p><span class="chinese">我必须重新做两根轮辐和一个轮毂。</span><span class="english">Two new spokes and a hub must be made.</span></p>

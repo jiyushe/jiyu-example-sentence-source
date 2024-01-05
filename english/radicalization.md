@@ -1,5 +1,7 @@
 # radicalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radicalization.md)
+
 <p><span class="chinese">激进主义者是个糟糕的外交家。</span><span class="english">Radicalization is a bad diplomat.</span></p>
 
 <p><span class="chinese">回答是共和党的极端化。</span><span class="english">The answer is the radicalization of the Republican Party.</span></p>

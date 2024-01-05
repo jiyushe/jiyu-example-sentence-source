@@ -1,5 +1,7 @@
 # 银杯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbei.md)
+
 <p><span class="chinese">银杯啊银杯啊斟满酒。</span><span class="english">Fill up the silver cups with wine.</span></p>
 
 <p><span class="chinese">他把银杯颁给了获胜者。</span><span class="english">He present a silver cup to the winner.</span></p>

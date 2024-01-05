@@ -1,5 +1,7 @@
 # penghu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penghu.md)
+
 <p><span class="chinese">澎湖漂亮吗?澎湖是天堂。</span><span class="english">Is Penghu pretty?It is paradise.</span></p>
 
 <p><span class="chinese">三月二十五日，澎湖群岛海边沙滩一角堆著一些垃圾。</span><span class="english">Garbage is seen at a Penghu beach on March 25.</span></p>

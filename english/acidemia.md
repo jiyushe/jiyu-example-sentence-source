@@ -1,5 +1,7 @@
 # acidemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidemia.md)
+
 <p><span class="chinese">此产品只适合患有丙酸或甲基丙二酸血症的婴幼儿使用。</span><span class="english">Give only to infants and toddlers with proven propionic or methylmalonic acidemia.</span></p>
 
 <p><span class="chinese">COPD患者睡眠时显著的低氧血症和高碳酸血症发生于快动眼睡眠期。</span><span class="english">The patients with COPD often exhibit hypoxia and hyper-carbonic acidemia during rapid eye movement phase.</span></p>

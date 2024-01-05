@@ -1,5 +1,7 @@
 # 贴切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieqie.md)
+
 <p><span class="chinese">这很贴切。</span><span class="english">This is apt.</span></p>
 
 <p><span class="chinese">我觉得这个词挺贴切的。</span><span class="english">I think this term is apt.</span></p>

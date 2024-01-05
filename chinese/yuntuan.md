@@ -1,5 +1,7 @@
 # 云团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuntuan.md)
+
 <p><span class="chinese">水与水饱和的区域颜色由海军蓝至铁青色，植被是绿色的，云团是松绿色的，居民区呈现桃红色。</span><span class="english">Vegetation is green. Clouds are turquoise.</span></p>
 
 <p><span class="chinese">我们乘坐的飞机颠簸着穿过了那块云团。</span><span class="english">Our plane hobbled  through the cloud cluster.</span></p>

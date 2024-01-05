@@ -1,5 +1,7 @@
 # beachside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beachside.md)
+
 <p><span class="chinese">在芭堤雅，售货摊挤满了海滨区的道路。</span><span class="english">Vendors' stalls crowd the beachside road in Pattaya.</span></p>
 
 <p><span class="chinese">我和心爱的她在海边餐馆</span><span class="english">My lovely Eva and I at a beachside restaurant on Ko Samed.</span></p>

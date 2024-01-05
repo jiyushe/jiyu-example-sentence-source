@@ -1,5 +1,7 @@
 # cricoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cricoid.md)
+
 <p><span class="chinese">中底部分插入环状TPU结构，抗扭曲、减震。</span><span class="english">Cricoid TPU structure inserts at mid and back, provides great shock absorption function.</span></p>
 
 <p><span class="chinese">体癣表现为红斑丘疹、水疱，呈环状或钱币状。</span><span class="english">Expression of ringworm of the body is erythema papula, blister, show cricoid or coin shape.</span></p>

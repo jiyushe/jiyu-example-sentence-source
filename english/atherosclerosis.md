@@ -1,5 +1,7 @@
 # atherosclerosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atherosclerosis.md)
+
 <p><span class="chinese">肥胖儿的确有发生动脉粥样硬化的危险。</span><span class="english">Obese children are at risk to atherosclerosis.</span></p>
 
 <p><span class="chinese">牙龈问题增加动脉硬化的风险。</span><span class="english">Gum problems increase the risk of atherosclerosis.</span></p>

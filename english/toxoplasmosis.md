@@ -1,5 +1,7 @@
 # toxoplasmosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxoplasmosis.md)
+
 <p><span class="chinese">寄生虫感染，如弓形虫病。</span><span class="english">Parasitical infections , such as toxoplasmosis.</span></p>
 
 <p><span class="chinese">人类可以通过三种途径感染弓形虫病。</span><span class="english">Humans can acquire toxoplasmosis in one of three ways.</span></p>

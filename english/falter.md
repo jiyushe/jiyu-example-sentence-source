@@ -1,5 +1,7 @@
 # falter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falter.md)
+
 <p><span class="chinese">当时我们英勇奋斗，今天却要畏缩不前吗？</span><span class="english">Did we brave all then to falter now?</span></p>
 
 <p><span class="chinese">在这种场合下他是不大可能结结巴巴的。</span><span class="english">He is not likely to falter on such an occasion.</span></p>

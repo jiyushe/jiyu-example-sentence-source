@@ -1,5 +1,7 @@
 # 涎水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshui_1.md)
+
 <p><span class="chinese">在她向朋友打招呼之前，喉咙里吞了两次涎水。</span><span class="english">She swallowed twice before she greeted her friend.</span></p>
 
 <p><span class="chinese">你可以用自己的涎水去擦孩子脸上的脏物。</span><span class="english">You use your own saliva to clean your child's face.</span></p>

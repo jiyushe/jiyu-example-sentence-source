@@ -1,5 +1,7 @@
 # 再也
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiye.md)
+
 <p><span class="chinese">光阴再也不会虚度！</span><span class="english">No more wasted time!</span></p>
 
 <p><span class="chinese">嗯，不会，再也不会这样了。</span><span class="english">Um, no. Not any more.</span></p>

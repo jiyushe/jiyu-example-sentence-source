@@ -1,5 +1,7 @@
 # 拈花惹草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianhuarecao.md)
+
 <p><span class="chinese">他瞒着太太在外面拈花惹草。</span><span class="english">He cheats on his wife.</span></p>
 
 <p><span class="chinese">我的男朋友瞒着我拈花惹草。</span><span class="english">My boyfriend cheated on me!</span></p>

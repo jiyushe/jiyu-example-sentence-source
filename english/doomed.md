@@ -1,5 +1,7 @@
 # doomed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doomed.md)
+
 <p><span class="chinese">命中注定？</span><span class="english">DOOMED?</span></p>
 
 <p><span class="chinese">那么，媒体业是否就没救了呢？</span><span class="english">So are the media doomed?</span></p>

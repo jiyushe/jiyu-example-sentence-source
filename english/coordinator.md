@@ -1,5 +1,7 @@
 # coordinator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coordinator.md)
+
 <p><span class="chinese">现在协调器接管。</span><span class="english">The coordinator now takes over.</span></p>
 
 <p><span class="chinese">我常扮演著一个协调者的角色。</span><span class="english">I always play the role of a coordinator.</span></p>

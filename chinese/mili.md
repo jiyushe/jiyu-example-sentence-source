@@ -1,5 +1,7 @@
 # 米粒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mili.md)
+
 <p><span class="chinese">但是，米粒是不会动的。</span><span class="english">But rice grains do not move.</span></p>
 
 <p><span class="chinese">它们像大米粒儿。</span><span class="english">They are like grains of rice.</span></p>

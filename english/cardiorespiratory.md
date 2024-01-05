@@ -1,5 +1,7 @@
 # cardiorespiratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiorespiratory.md)
+
 <p><span class="chinese">这种锻炼方式刺激了心脏呼吸系统，同时不负重。</span><span class="english">It stimulates the cardiorespiratory system and it's non-weight bearing.</span></p>
 
 <p><span class="chinese">两性霉素B过量可能导致潜在致命性的心跳或心跳呼吸停止。</span><span class="english">Amphotericin B overdoses may result in potentially fatal cardiac or cardiorespiratory arrest.</span></p>

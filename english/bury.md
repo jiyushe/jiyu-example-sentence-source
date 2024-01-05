@@ -1,5 +1,7 @@
 # bury 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bury.md)
+
 <p><span class="chinese">我们将会埋葬你。</span><span class="english">We will bury you.</span></p>
 
 <p><span class="chinese">但我不会把它们掩埋起来”。</span><span class="english">But I did not bury it.</span></p>

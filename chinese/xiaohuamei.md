@@ -1,5 +1,7 @@
 # 消化酶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohuamei.md)
+
 <p><span class="chinese">食物中的细菌会被胃酸及消化酶杀死。</span><span class="english">Bacteria in food are killed by gastric juice and digestive enzymes.</span></p>
 
 <p><span class="chinese">不同底物及浓度对三疣梭子蟹消化酶活力的影响。</span><span class="english">The effect of substrate and concentration from Portunus trituberculatus on digestive enzyme activity.</span></p>

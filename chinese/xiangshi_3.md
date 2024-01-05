@@ -1,5 +1,7 @@
 # 翔实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshi_3.md)
+
 <p><span class="chinese">这是一本文献佐证翔实可靠的传记。</span><span class="english">This book is a carefully documented biography.</span></p>
 
 <p><span class="chinese">马克思的生平有极翔实可靠的文献作证。</span><span class="english">The life of Marx is remarkably well documented.</span></p>

@@ -1,5 +1,7 @@
 # trio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trio.md)
+
 <p><span class="chinese">钢琴三重奏在电子商务大调，作品。</span><span class="english">Piano Trio in E flat major, Op.</span></p>
 
 <p><span class="chinese">很快地二重奏形成了三重唱。</span><span class="english">Soon the duet will become a trio.</span></p>

@@ -1,5 +1,7 @@
 # billon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billon.md)
+
 <p><span class="chinese">但是暴露在太空中38亿年后，有几百公尺长的接触面已经变得模糊不清。</span><span class="english">But 3.8 billon years of exposure to space had smeared it out over a few hundred meters.</span></p>
 
 <p><span class="chinese">中国目前是世界上人口最多的国家，大约有十三亿的人口。</span><span class="english">China is currently the most populated country in the world with about 1.3 billon people.</span></p>

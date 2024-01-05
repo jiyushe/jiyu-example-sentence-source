@@ -1,5 +1,7 @@
 # linux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linux.md)
+
 <p><span class="chinese">当然，克雷同样运行Linux操作系统。</span><span class="english">The Cray also, of course, runs Linux.</span></p>
 
 <p><span class="chinese">可是，对操作系统的需求又把我推回了Linux。</span><span class="english">But the need kept pulling me back to Linux.</span></p>

@@ -1,5 +1,7 @@
 # 准备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunbei.md)
+
 <p><span class="chinese">早作准备。</span><span class="english">Prepare early.</span></p>
 
 <p><span class="chinese">但是实际上你是可以预先准备的。</span><span class="english">But you can prep.</span></p>

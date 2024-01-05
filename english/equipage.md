@@ -1,5 +1,7 @@
 # equipage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equipage.md)
+
 <p><span class="chinese">我们在树林的进口处停了下来，等待我们装备的到来。</span><span class="english">We stop at the entrance of a wood wait for the arrival of our equipage.</span></p>
 
 <p><span class="chinese">马车不久上了土坡，随着地势的增高，风也随着路面和土壤的变化而变得更加寒冷了。</span><span class="english">Soon the equipage began to ascend to higher ground, and the wind grew keener with the change of level and soil.</span></p>

@@ -1,5 +1,7 @@
 # remake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remake.md)
+
 <p><span class="chinese">重造天地，他们的确做到了。</span><span class="english">And remake the world they did.</span></p>
 
 <p><span class="chinese">还是下定决心费尽心血去改造她？</span><span class="english">Still determined to tail off to remake her?</span></p>

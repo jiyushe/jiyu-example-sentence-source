@@ -1,5 +1,7 @@
 # 环视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanshi.md)
+
 <p><span class="chinese">他环视了一下屋子。</span><span class="english">He glanced round the room.</span></p>
 
 <p><span class="chinese">亚弗里克环视着房间。</span><span class="english">Affric gazed around the room.</span></p>

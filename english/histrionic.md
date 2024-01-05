@@ -1,5 +1,7 @@
 # histrionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histrionic.md)
+
 <p><span class="chinese">无论幸运或不幸时，我都觉得这世界充满了戏剧性。</span><span class="english">Fortune or misfortune, I feel this world is full of histrionic.</span></p>
 
 <p><span class="chinese">但，由于故事线索的不明确，也引来了对于其“戏剧性”质疑。</span><span class="english">But also drew the oppugn to its histrionic due to vague of its story clew.</span></p>

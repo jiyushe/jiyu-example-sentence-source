@@ -1,5 +1,7 @@
 # comedienne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comedienne.md)
+
 <p><span class="chinese">她是这里有名的单口相声家。</span><span class="english">She is a famous comedienne here.</span></p>
 
 <p><span class="chinese">当他们最喜欢的女喜剧演员登台时，他们鼓掌欢迎。</span><span class="english">They applaud their favorite comedienne as she come on the stage.</span></p>

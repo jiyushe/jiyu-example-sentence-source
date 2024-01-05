@@ -1,5 +1,7 @@
 # postgraduate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postgraduate.md)
+
 <p><span class="chinese">小陈是一名在读女研究生。</span><span class="english">Young Chen is a postgraduate student.</span></p>
 
 <p><span class="chinese">使用“研究生会”代替。</span><span class="english">Use "postgraduate association"instead.</span></p>

@@ -1,5 +1,7 @@
 # leitmotif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leitmotif.md)
+
 <p><span class="chinese">灾后四处可见的是车辆。</span><span class="english">The leitmotif of the disaster is cars.</span></p>
 
 <p><span class="chinese">于是张艺谋把菊花作为影片的视觉主题。</span><span class="english">Zhang makes the chrysanthemum the film's visual leitmotif.</span></p>

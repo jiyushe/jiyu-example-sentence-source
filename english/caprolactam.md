@@ -1,5 +1,7 @@
 # caprolactam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caprolactam.md)
+
 <p><span class="chinese">对我国己内酰胺工业的发展提出了建议。</span><span class="english">Suggestions on China's caprolactam industry are given.</span></p>
 
 <p><span class="chinese">巴陵分公司是国内最大的己内酰胺生产厂家。</span><span class="english">Baling Petro-chemical Company is one of the greatest caprolactam producers in China.</span></p>

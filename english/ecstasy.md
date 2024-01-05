@@ -1,5 +1,7 @@
 # ecstasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecstasy.md)
+
 <p><span class="chinese">他们从不感到欢乐，但经常心醉神迷。</span><span class="english">Joy never, ecstasy forever.</span></p>
 
 <p><span class="chinese">我告诉了他我在大乐。</span><span class="english">I told him I was in ecstasy.</span></p>

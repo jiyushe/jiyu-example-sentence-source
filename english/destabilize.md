@@ -1,5 +1,7 @@
 # destabilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destabilize.md)
+
 <p><span class="chinese">很显然，改变会使我们离开内心舒适区。</span><span class="english">Obviously, changes destabilize us out of our comfort zone.</span></p>
 
 <p><span class="chinese">美国对中国军力的反应可能会使全球范围内的安全局势出现不稳定状况。</span><span class="english">U.S. reactions to Chinese capabilities could destabilize security at a global level.</span></p>

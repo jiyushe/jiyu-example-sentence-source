@@ -1,5 +1,7 @@
 # bushed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bushed.md)
+
 <p><span class="chinese">哦，亲爱的，我真的很累。</span><span class="english">Oh, honey, I am really bushed.</span></p>
 
 <p><span class="chinese">那个工作弄得他“精疲力尽”。</span><span class="english">The work completely bushed him.</span></p>

@@ -1,5 +1,7 @@
 # 市集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_5.md)
+
 <p><span class="chinese">你能介绍一下博罗市集吗？</span><span class="english">Could you introduce Borough Market?</span></p>
 
 <p><span class="chinese">这个市集卖的是二手书。</span><span class="english">These are secondhand books for sale.</span></p>

@@ -1,5 +1,7 @@
 # honestly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honestly.md)
+
 <p><span class="chinese">在很多时候，说实话。</span><span class="english">Mostly. Honestly.</span></p>
 
 <p><span class="chinese">有谁知道？</span><span class="english">Honestly who knows.</span></p>

@@ -1,5 +1,7 @@
 # 胶卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojuan_1.md)
+
 <p><span class="chinese">这是一个电影胶卷。</span><span class="english">It’s a film reel.</span></p>
 
 <p><span class="chinese">她的相机容易上胶卷。</span><span class="english">Her camera loads easily.</span></p>

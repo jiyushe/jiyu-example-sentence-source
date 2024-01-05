@@ -1,5 +1,7 @@
 # illume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illume.md)
+
 <p><span class="chinese">使用装饰性的照明是较佳的选择。</span><span class="english">Use ornamental illume is relatively the choice of beautiful.</span></p>
 
 <p><span class="chinese">就餐照明用明亮的白炽灯，色感比较柔和。</span><span class="english">Repast illume uses bright incandescent lamp, lubricious feeling is downier.</span></p>

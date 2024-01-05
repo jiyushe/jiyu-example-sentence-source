@@ -1,5 +1,7 @@
 # 抚摸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fumo.md)
+
 <p><span class="chinese">我抚摸着基斯的头发。</span><span class="english">I stroked Keith's hair.</span></p>
 
 <p><span class="chinese">她抚摸着小猫。</span><span class="english">She stroked the kitten.</span></p>

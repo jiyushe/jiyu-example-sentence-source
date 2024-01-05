@@ -1,5 +1,7 @@
 # resolvable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resolvable.md)
+
 <p><span class="chinese">资源通常是可解析的。</span><span class="english">Resources are often resolvable.</span></p>
 
 <p><span class="chinese">主机名必须是一个可解析值。</span><span class="english">The host name needs to be a resolvable value.</span></p>

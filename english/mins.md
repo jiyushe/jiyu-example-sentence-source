@@ -1,5 +1,7 @@
 # mins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mins.md)
+
 <p><span class="chinese">煮三至五分钟。</span><span class="english">Cook for 3 to 5 mins.</span></p>
 
 <p><span class="chinese">这又花费了我们30分钟。</span><span class="english">That takes us 30 mins.</span></p>

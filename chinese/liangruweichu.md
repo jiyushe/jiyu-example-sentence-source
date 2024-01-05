@@ -1,5 +1,7 @@
 # 量入为出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangruweichu.md)
+
 <p><span class="chinese">我们的生活必需设法量入为出。</span><span class="english">We have to contrive to live on our own income.</span></p>
 
 <p><span class="chinese">是的，许多人都希望政府开始量入为出。</span><span class="english">Yes, many want government to start living within its means.</span></p>

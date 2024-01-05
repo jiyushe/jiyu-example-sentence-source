@@ -1,5 +1,7 @@
 # sucking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sucking.md)
+
 <p><span class="chinese">我在吮吸你。</span><span class="english">I was sucking you.</span></p>
 
 <p><span class="chinese">他把我的“球”吸去了。</span><span class="english">He is sucking up my ball!</span></p>

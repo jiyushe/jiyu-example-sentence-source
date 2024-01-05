@@ -1,5 +1,7 @@
 # imbue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbue.md)
+
 <p><span class="chinese">你可以用魔法护甲灌输你发现。</span><span class="english">You can imbue armor with magic you found.</span></p>
 
 <p><span class="chinese">凯斯想要尝试的，就是把物理学引入模拟世界。</span><span class="english">Kass is trying to imbue physics into simulated worlds.</span></p>

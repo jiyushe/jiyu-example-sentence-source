@@ -1,5 +1,7 @@
 # 妥协
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoxie.md)
+
 <p><span class="chinese">最后我妥协了。</span><span class="english">Eventually I caved in.</span></p>
 
 <p><span class="chinese">不要在这一点上妥协。</span><span class="english">Don't compromise on this.</span></p>

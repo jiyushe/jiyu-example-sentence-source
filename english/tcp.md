@@ -1,5 +1,7 @@
 # tcp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tcp.md)
+
 <p><span class="chinese">这些组件还使用了TCP和基于SIP的协议。</span><span class="english">TCP and SIP-based protocols are also used by components.</span></p>
 
 <p><span class="chinese">传输控制协议为数据在主人之间的移动商议期间。</span><span class="english">TCP negotiates a session for data transfer between hosts.</span></p>

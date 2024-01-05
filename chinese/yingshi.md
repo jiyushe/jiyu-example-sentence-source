@@ -1,5 +1,7 @@
 # 应试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshi.md)
+
 <p><span class="chinese">你应该提升一下应试技巧。</span><span class="english">Maybe you have to bone up on your test-taking skills.</span></p>
 
 <p><span class="chinese">要学口语，不只是应试或托福式的短期英语。</span><span class="english">Spoken English. Not just test--taking, TOEFL--blasting English.</span></p>

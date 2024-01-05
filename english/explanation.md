@@ -1,5 +1,7 @@
 # explanation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explanation.md)
+
 <p><span class="chinese">当然这一说法还需要更多的调查取证。</span><span class="english">More explanation is needed.</span></p>
 
 <p><span class="chinese">相较之下,微生物理论是更好的解释</span><span class="english">It's the better explanation.</span></p>

@@ -1,5 +1,7 @@
 # bluebell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluebell.md)
+
 <p><span class="chinese">蓝铃花，狂野的蓝铃花，就在林间飞舞。</span><span class="english">And Bluebell , wild Bluebell, was dancing in the wood.</span></p>
 
 <p><span class="chinese">蓝铃花，狂野的蓝铃花，只在林间飞舞。</span><span class="english">But Bluebell , wild Bluebell , only dances in the wood.</span></p>

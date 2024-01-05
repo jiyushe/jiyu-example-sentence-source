@@ -1,5 +1,7 @@
 # fortran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortran.md)
+
 <p><span class="chinese">这也是为什么，从FORTRAN开始，复数是这些语言的标准。</span><span class="english">This is why it was standard in languages dating back to FORTRAN.</span></p>
 
 <p><span class="chinese">系统软件用FORTRAN语言和8088汇编语言编写。</span><span class="english">The software of system was written in FORTRAN and 8088 assembly language.</span></p>

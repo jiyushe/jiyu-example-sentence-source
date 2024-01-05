@@ -1,5 +1,7 @@
 # auteur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auteur.md)
+
 <p><span class="chinese">我相信并坚持这是导演该有的原则。</span><span class="english">I believe this is an auteur principle and one I stand by.</span></p>
 
 <p><span class="chinese">导演们崇奉导演第一论，不过很多演员不这么认为。</span><span class="english">Directors believe in the auteur theory but not many actors do.</span></p>

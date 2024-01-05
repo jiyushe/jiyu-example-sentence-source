@@ -1,5 +1,7 @@
 # 害处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haichu.md)
+
 <p><span class="chinese">坏书有极大害处。</span><span class="english">Bad books do great harm.</span></p>
 
 <p><span class="chinese">这种情况有什么害处吗？</span><span class="english">Is there any harm in this?</span></p>

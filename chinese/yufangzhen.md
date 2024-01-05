@@ -1,5 +1,7 @@
 # 预防针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yufangzhen.md)
+
 <p><span class="chinese">我上周便打了流感预防针。</span><span class="english">I had a flu shot last week.</span></p>
 
 <p><span class="chinese">肺炎预防针是非常安全的。</span><span class="english">Pneumonia vaccine is very safe.</span></p>

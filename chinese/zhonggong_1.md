@@ -1,5 +1,7 @@
 # 重工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggong_1.md)
+
 <p><span class="chinese">三一重工的一位发言人拒绝置评。</span><span class="english">A Sany spokesman declined to comment.</span></p>
 
 <p><span class="chinese">到访三一重工集团有限公司。</span><span class="english">A tour to Sany Heavy Industry Company Limited.</span></p>

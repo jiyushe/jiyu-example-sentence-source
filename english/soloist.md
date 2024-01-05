@@ -1,5 +1,7 @@
 # soloist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soloist.md)
+
 <p><span class="chinese">每个团体中也会有一些独自的表演者。</span><span class="english">Every group also has a few soloist performers.</span></p>
 
 <p><span class="chinese">你可以成为一个独奏者，同时加入管线乐队里演奏。</span><span class="english">You can be a soloist and play in an orchestra.</span></p>

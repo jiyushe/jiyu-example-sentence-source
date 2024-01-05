@@ -1,5 +1,7 @@
 # 风情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengqing.md)
+
 <p><span class="chinese">她是个卖弄风情的女人。</span><span class="english">She is a flirt.</span></p>
 
 <p><span class="chinese">谈论世界风情，体验狂欢节、泼水节等。</span><span class="english">I can talk about the world.</span></p>

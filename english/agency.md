@@ -1,5 +1,7 @@
 # agency 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agency.md)
+
 <p><span class="chinese">现在他拥有了一家旅行社。</span><span class="english">Now he owns a travel agency.</span></p>
 
 <p><span class="chinese">他是一名忻华社记锗。</span><span class="english">He is a reporter from agency.</span></p>

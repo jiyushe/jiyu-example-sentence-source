@@ -1,5 +1,7 @@
 # 照会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaohui_1.md)
+
 <p><span class="chinese">正式照会实质上是正式的个人函件。</span><span class="english">Formal Note is essentially a formal personal letter.</span></p>
 
 <p><span class="chinese">尽管如此，卢的经纪人已经照会过湖人，希望湖人考虑一下他的客户！</span><span class="english">However, Lue's agent, Andy Miller, has called the Lakers about his client.</span></p>

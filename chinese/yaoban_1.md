@@ -1,5 +1,7 @@
 # 腰板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoban_1.md)
+
 <p><span class="chinese">她已经75岁了，腰板仍然笔直。</span><span class="english">At 75, she's still ramrod straight.</span></p>
 
 <p><span class="chinese">而现在，联系汇率制的支持者腰板可以挺起来了。</span><span class="english">Supporters of the peg now have their response.</span></p>

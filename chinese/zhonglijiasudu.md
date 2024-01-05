@@ -1,5 +1,7 @@
 # 重力加速度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonglijiasudu.md)
+
 <p><span class="chinese">须知，现在最先进的刹车系统最多只能产生大约1个负重力加速度的减速能力。</span><span class="english">Modern cars brake with a maximum of roughly 1 G of deceleration.</span></p>
 
 <p><span class="chinese">这是重力加速度,如果在这掉一个物体。</span><span class="english">That's the gravitational acceleration if we drop an object here.</span></p>

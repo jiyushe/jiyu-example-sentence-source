@@ -1,5 +1,7 @@
 # entwine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entwine.md)
+
 <p><span class="chinese">玫瑰盘绕着小屋。</span><span class="english">Roses entwine the little cottage.</span></p>
 
 <p><span class="chinese">玫瑰盘绕著小屋。</span><span class="english">Roses entwine the little cottage.</span></p>

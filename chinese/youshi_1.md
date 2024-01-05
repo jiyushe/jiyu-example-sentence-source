@@ -1,5 +1,7 @@
 # 有事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshi_1.md)
+
 <p><span class="chinese">我还有事没做完。</span><span class="english">I have things to do.</span></p>
 
 <p><span class="chinese">本人已死，有事烧纸。</span><span class="english">I was dead, something burning paper.</span></p>

@@ -1,5 +1,7 @@
 # 西装革履
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhuanggelv.md)
+
 <p><span class="chinese">到街上刚好碰见赵传奇穿的西装革履。</span><span class="english">Just met Zhao Chuanji wear suits to the street.</span></p>
 
 <p><span class="chinese">一个西装革履的亚洲人刚刚被两个被国人杀了。</span><span class="english">A well-dressed Asian man has just been shot by two Americans.</span></p>

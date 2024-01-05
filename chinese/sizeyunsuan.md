@@ -1,5 +1,7 @@
 # 四则运算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizeyunsuan.md)
+
 <p><span class="chinese">掌握好人生的四则运算。</span><span class="english">Mastering the arithmetic of life.</span></p>
 
 <p><span class="chinese">四则运算是数学的基础。</span><span class="english">The four operations are the basis of math.</span></p>

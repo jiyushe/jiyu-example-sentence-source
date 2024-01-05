@@ -1,5 +1,7 @@
 # nellie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nellie.md)
+
 <p><span class="chinese">尼尔森和我只是想搞定这件事情而已，对吧，尼尔森？</span><span class="english">Don Nelson and I just turned this thing around, didn't we, Nellie?Nellie?</span></p>
 
 <p><span class="chinese">那时硬性规定国外来的医生都要见习一个月。</span><span class="english">It was then made compulsory for doctors from over-seas to sit by Nellie for a month.</span></p>

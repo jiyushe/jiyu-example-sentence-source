@@ -1,5 +1,7 @@
 # unjust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unjust.md)
+
 <p><span class="chinese">我觉得这不公正。</span><span class="english">I think it's unjust.</span></p>
 
 <p><span class="chinese">我认为这就是不公平。</span><span class="english">I think it’s unjust.</span></p>

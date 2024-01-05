@@ -1,5 +1,7 @@
 # ic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ic.md)
+
 <p><span class="chinese">请问您是使用Ic卡加油吗?。</span><span class="english">Will you use IC card?</span></p>
 
 <p><span class="chinese">这是磁卡电话吗？</span><span class="english">Is it an IC card phone?</span></p>

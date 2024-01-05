@@ -1,5 +1,7 @@
 # idiographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiographic.md)
+
 <p><span class="chinese">即使是今天，我们也常口言良知衡量自己的对错。</span><span class="english">He appended idiographic content to soul. That is "conscience ".</span></p>
 
 <p><span class="chinese">具体的型号规格、各项技术参数，请来电或E-mail咨询！</span><span class="english">Idiographic type, each technical parameter, please call ore-mail !</span></p>

@@ -1,5 +1,7 @@
 # unwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwise.md)
+
 <p><span class="chinese">这样做非常失策。</span><span class="english">It was a very unwise move.</span></p>
 
 <p><span class="chinese">你借债是不明智的。</span><span class="english">It was unwise of you to get into debt.</span></p>

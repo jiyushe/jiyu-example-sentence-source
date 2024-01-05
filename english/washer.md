@@ -1,5 +1,7 @@
 # washer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washer.md)
+
 <p><span class="chinese">取下主轴螺帽和垫圈。</span><span class="english">Remove a shaft nut and washer.</span></p>
 
 <p><span class="chinese">螺旋网带洗浆机。</span><span class="english">Helix wire mesh belt pulp washer.</span></p>

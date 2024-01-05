@@ -1,5 +1,7 @@
 # reversible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reversible.md)
+
 <p><span class="chinese">死亡是可逆的。</span><span class="english">Death is reversible.</span></p>
 
 <p><span class="chinese">但它也是可逆的。</span><span class="english">It's also reversible.</span></p>

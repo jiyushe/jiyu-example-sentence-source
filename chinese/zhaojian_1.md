@@ -1,5 +1,7 @@
 # 照见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaojian_1.md)
+
 <p><span class="chinese">或者，黎明的微光会照见她脚下的那条泥巴路。</span><span class="english">Either way, dawn showed a puddle between her feet.</span></p>
 
 <p><span class="chinese">更何况是阳光还未照见的向日葵。</span><span class="english">And what is the sunshine still not revelation sunflowers.</span></p>

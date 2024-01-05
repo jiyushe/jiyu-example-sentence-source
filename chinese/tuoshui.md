@@ -1,5 +1,7 @@
 # 脱水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoshui.md)
+
 <p><span class="chinese">奶中脱水。</span><span class="english">Adulterate milk with water.</span></p>
 
 <p><span class="chinese">大块大块脱水的兽皮和脂肪。</span><span class="english">Hunks of desiccated skin and fat.</span></p>

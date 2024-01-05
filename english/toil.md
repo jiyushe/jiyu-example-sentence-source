@@ -1,5 +1,7 @@
 # toil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toil.md)
+
 <p><span class="chinese">鲜血，辛劳，眼泪和汗水，1940</span><span class="english">Blood Toil Tears and Sweat 1940</span></p>
 
 <p><span class="chinese">更深，更深，让我们翈。</span><span class="english">Deeper, deeper, lett t us toil.</span></p>

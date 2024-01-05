@@ -1,5 +1,7 @@
 # 游赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshang_1.md)
+
 <p><span class="chinese">园路能正常承担游赏时的通行功能，但园路自身的美化仍然欠缺。</span><span class="english">Although the garden paths can do their jobs well, they still lack necessary prettification.</span></p>
 
 <p><span class="chinese">喜好游赏，乃至爱游成癖，在江南民俗中有着鲜明的特色。</span><span class="english">Among the folk customs of the South Yangtze Areas, the fondness or hobby of tourism is most striking.</span></p>

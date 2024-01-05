@@ -1,5 +1,7 @@
 # 目送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/musong.md)
+
 <p><span class="chinese">卡利克斯塔站在门廊上目送阿尔西骑马离去。</span><span class="english">Calixta, on the gallery, watched Alcée ride away.</span></p>
 
 <p><span class="chinese">一个人等天黑、目送破天而来的日落，紧抱着醉生梦死的枕头。</span><span class="english">A dark, see broken the sky sunset, hold befuddling pillow.</span></p>

@@ -1,5 +1,7 @@
 # winepress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winepress.md)
+
 <p><span class="chinese">是从禾场，是从酒榨呢？</span><span class="english">From the winepress?'</span></p>
 
 <p><span class="chinese">在哪个酒坊可以找到？</span><span class="english">In what winepress may one find it?</span></p>

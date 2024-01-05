@@ -1,5 +1,7 @@
 # enuresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enuresis.md)
+
 <p><span class="chinese">遗尿症是尿床的术语解释。</span><span class="english">Sleep enuresis is a fancy term for bed-wetting.</span></p>
 
 <p><span class="chinese">尿床可能有多种生理原因。</span><span class="english">Enuresis can have a number of physiological causes.</span></p>

@@ -1,5 +1,7 @@
 # 金库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinku.md)
+
 <p><span class="chinese">他们究竟为什么从金库里偷那么多钱？</span><span class="english">Why did they steal so much money anyway?</span></p>
 
 <p><span class="chinese">古人有金库或保险箱吗？</span><span class="english">Did the ancients have exchequers or safes?</span></p>

@@ -1,5 +1,7 @@
 # hyperparathyroidism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperparathyroidism.md)
+
 <p><span class="chinese">如甲状旁腺功能亢进导致高尿钙症，引起尿路结石。</span><span class="english">If hyperparathyroidism lead to hypercalciuria , causing urinary tract stones.</span></p>
 
 <p><span class="chinese">医生用“石头、骨头、呻吟和哼哼”等词汇来形容甲状旁腺功能亢进。</span><span class="english">Doctors describe hyperparathyroidism in terms of ‘Stones, bones, moans and groans’.</span></p>

@@ -1,5 +1,7 @@
 # starve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starve.md)
+
 <p><span class="chinese">我们从没挨饿。</span><span class="english">We never starve.</span></p>
 
 <p><span class="chinese">他的家人会饿死吗？</span><span class="english">Will his family starve?</span></p>

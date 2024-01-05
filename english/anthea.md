@@ -1,5 +1,7 @@
 # anthea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthea.md)
+
 <p><span class="chinese">接着安西娅记起了她和简的一个愿望。</span><span class="english">Then Anthea remembered a wish of hers and Jane's.</span></p>
 
 <p><span class="chinese">安西娅要马莎把午饭拿到外边那里去。</span><span class="english">Anthea asked Martha to bring their lunch out there.</span></p>

@@ -1,5 +1,7 @@
 # unsavory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsavory.md)
+
 <p><span class="chinese">国际刑警组织协助掌握这些凶嫌的行动。</span><span class="english">Interpol helps track the movements of these unsavory characters.</span></p>
 
 <p><span class="chinese">我病了，每天都要喝这些难喝的水剂。</span><span class="english">I'm ill, and so have to drink these unsavory tea herbs every day.</span></p>

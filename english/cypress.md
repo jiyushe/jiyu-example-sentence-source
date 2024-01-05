@@ -1,5 +1,7 @@
 # cypress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cypress.md)
+
 <p><span class="chinese">柏树又高又细。</span><span class="english">This cypress is tall and thin.</span></p>
 
 <p><span class="chinese">给我丝柏和芸香。</span><span class="english">For me the cypress and the rue.</span></p>

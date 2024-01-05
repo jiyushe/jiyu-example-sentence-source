@@ -1,5 +1,7 @@
 # disport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disport.md)
+
 <p><span class="chinese">我对目前的生活心满意的。</span><span class="english">Disport oneself to one's heart's content.</span></p>
 
 <p><span class="chinese">为了取乐，我们奉承低头。</span><span class="english">Yet for disport we fawn and flatter both.</span></p>

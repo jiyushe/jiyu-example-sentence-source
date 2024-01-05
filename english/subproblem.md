@@ -1,5 +1,7 @@
 # subproblem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subproblem.md)
+
 <p><span class="chinese">该子问题可通过模拟退火算法来解决。</span><span class="english">The subproblem is solved by simulated annealing algorithm.</span></p>
 
 <p><span class="chinese">其中信赖域子问题的求解是关键的一部分。</span><span class="english">And how to solve the subproblem is the critical part of this method.</span></p>

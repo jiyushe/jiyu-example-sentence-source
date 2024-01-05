@@ -1,5 +1,7 @@
 # washboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washboard.md)
+
 <p><span class="chinese">洗衣板哪里去了？</span><span class="english">Where is the washboard?</span></p>
 
 <p><span class="chinese">你不想拥有平滑的小腹和结实的胸肌吗？</span><span class="english">Don't you want a washboard stomach and rock-hard pecs?</span></p>

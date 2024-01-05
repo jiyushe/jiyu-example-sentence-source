@@ -1,5 +1,7 @@
 # 历年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linian.md)
+
 <p><span class="chinese">精练历年真题。</span><span class="english">Zhenti scouring the calendar year.</span></p>
 
 <p><span class="chinese">工作室历年所获的奖项都有哪些？</span><span class="english">What awards has the studio received over the years?</span></p>

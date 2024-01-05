@@ -1,5 +1,7 @@
 # jpeg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jpeg.md)
+
 <p><span class="chinese">我正在写一个幻灯显示程序，该程序要显示JPEG图像序列。</span><span class="english">Q I'm writing a slide show program that shows a sequence of JPEG images.</span></p>
 
 <p><span class="chinese">提出了一类抗压缩的鲁棒加半脆弱双水印算法。</span><span class="english">A dual watermarking algorithm that accepted JPEG compression was presented.</span></p>

@@ -1,5 +1,7 @@
 # vestige
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vestige.md)
+
 <p><span class="chinese">帽儿岛现在已经无影无踪了。</span><span class="english">No vestige of Hat Island is left now.</span></p>
 
 <p><span class="chinese">或者仅仅是某种没有恶意的古代异教遗俗？</span><span class="english">Or is it just a harmless vestige of some ancient pagan ritual?</span></p>

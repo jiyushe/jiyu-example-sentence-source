@@ -1,5 +1,7 @@
 # wee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wee.md)
+
 <p><span class="chinese">她是一个可爱的小东西。</span><span class="english">She is a bonie wee thing.</span></p>
 
 <p><span class="chinese">她是一个媚人的小东西。</span><span class="english">She is a winsome wee thing.</span></p>

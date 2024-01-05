@@ -1,5 +1,7 @@
 # 未婚妻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihunqi.md)
+
 <p><span class="chinese">一个未婚夫和未婚妻。</span><span class="english">A fiance and fiancee.</span></p>
 
 <p><span class="chinese">我的未婚妻……苏珊。</span><span class="english">This is my fiancee, Susannah.</span></p>

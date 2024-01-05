@@ -1,5 +1,7 @@
 # 尽忠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhong.md)
+
 <p><span class="chinese">我应该值当你们的尽忠。</span><span class="english">I shall be worthy of your allegiance.</span></p>
 
 <p><span class="chinese">好多人为国尽忠，为国捐躯。</span><span class="english">Many a man has lived and died for his country.</span></p>

@@ -1,5 +1,7 @@
 # oregano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oregano.md)
+
 <p><span class="chinese">萨拉米肠，尖椒，洋葱和香料。</span><span class="english">Salami, chili pepper, onion and oregano.</span></p>
 
 <p><span class="chinese">把适量的牛至叶均匀撒在牛肉上。</span><span class="english">Sprinkle some oregano all over the beef.</span></p>

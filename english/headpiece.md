@@ -1,5 +1,7 @@
 # headpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headpiece.md)
+
 <p><span class="chinese">头上的这个代表月亮。</span><span class="english">And the headpiece represents the moon.</span></p>
 
 <p><span class="chinese">但我准备做一个蕾丝头饰…</span><span class="english">But I'm planning to make a headpiece of lace.</span></p>

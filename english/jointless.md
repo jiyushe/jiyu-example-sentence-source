@@ -1,5 +1,7 @@
 # jointless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jointless.md)
+
 <p><span class="chinese">不带坑方向折边，稍加轻压，便可达到紧凑无缝的效果。</span><span class="english">Slightly press the flange of the square panel without a crater to obtain jointless effect.</span></p>
 
 <p><span class="chinese">研究结果对桥上无缝道岔的设计及养护维修有一定的指导意义。</span><span class="english">The results can be used to guide the design and the maintenance of jointless turnout on bridge.</span></p>

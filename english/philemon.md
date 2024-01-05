@@ -1,5 +1,7 @@
 # philemon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philemon.md)
+
 <p><span class="chinese">他们是一对快乐恩爱的夫妻。</span><span class="english">They are Philemon and Baucis, a happy couple.</span></p>
 
 <p><span class="chinese">这是给利蒙和家庭成员。</span><span class="english">It was addressed to Philemon and the members of his family.</span></p>

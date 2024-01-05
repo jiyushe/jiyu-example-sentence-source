@@ -1,5 +1,7 @@
 # copolymer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copolymer.md)
+
 <p><span class="chinese">利用红外光谱对接枝共聚物进行了表征。</span><span class="english">The graft copolymer was indentified by IR.</span></p>
 
 <p><span class="chinese">共聚树脂的合成及热分解性能。</span><span class="english">Preparation and thermolysis of the copolymer.</span></p>

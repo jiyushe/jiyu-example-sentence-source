@@ -1,5 +1,7 @@
 # 游子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzi_2.md)
+
 <p><span class="chinese">他和父亲闹翻了，成了一名游子。</span><span class="english">He fell out with his father and became a wanderer.</span></p>
 
 <p><span class="chinese">海外的游子们无一日能释怀恋乡之情。</span><span class="english">Overseas travellers miss their hometown every day.</span></p>

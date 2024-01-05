@@ -1,5 +1,7 @@
 # sick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sick.md)
+
 <p><span class="chinese">你感到恶心?</span><span class="english">You got sick?</span></p>
 
 <p><span class="chinese">你哋令我作呕。</span><span class="english">U make me sick.</span></p>

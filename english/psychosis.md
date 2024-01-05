@@ -1,5 +1,7 @@
 # psychosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychosis.md)
+
 <p><span class="chinese">弗洛伊德把相思病唤作“正常人的精神病。”</span><span class="english">Freud called lovesickness “the psychosis of normal people.”3</span></p>
 
 <p><span class="chinese">弗洛伊德把相思病唤作“正常人的精神病。”</span><span class="english">Freud called lovesickness “the psychosis of  normal people.”3</span></p>

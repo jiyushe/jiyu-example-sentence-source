@@ -1,5 +1,7 @@
 # 一声不吭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishengbukeng.md)
+
 <p><span class="chinese">安东尼奥一声不吭。</span><span class="english">Antonio was silent.</span></p>
 
 <p><span class="chinese">吉米一声不吭。</span><span class="english">Jimmy said nothing.</span></p>

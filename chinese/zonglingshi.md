@@ -1,5 +1,7 @@
 # 总领事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonglingshi.md)
+
 <p><span class="chinese">中国驻孟买总领馆王振华副总领事说。</span><span class="english">Wang Zhenhua, the deputy Consul-General said.</span></p>
 
 <p><span class="chinese">美国驻上海总领事康碧翠女士在重新开馆三十周年招待会上的讲话</span><span class="english">Consul General Camp’s Remarks at Anniversary Reception</span></p>

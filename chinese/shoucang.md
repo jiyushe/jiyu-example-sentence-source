@@ -1,5 +1,7 @@
 # 收藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoucang.md)
+
 <p><span class="chinese">不求收藏！但求阅看！</span><span class="english">Do not beg collect!</span></p>
 
 <p><span class="chinese">我收藏了他所有的影集。</span><span class="english">I had all his albums.</span></p>

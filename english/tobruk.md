@@ -1,5 +1,7 @@
 # tobruk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tobruk.md)
+
 <p><span class="chinese">这张图上，被怀疑为雇佣军的人被扣在班加西至图卜鲁格公路的一个反对派检查站。</span><span class="english">Here, suspected mercenaries are detained at a rebel checkpoint on the road between Benghazi and Tobruk.</span></p>
 
 <p><span class="chinese">德尔纳民众截获了反对派运往图卜鲁格前线的大量食物。</span><span class="english">People of Derna have captured a large Supply of Food that was heading to Rebels fighting at Frontlines of Tobruk.</span></p>

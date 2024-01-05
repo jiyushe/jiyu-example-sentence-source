@@ -1,5 +1,7 @@
 # ofm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ofm.md)
+
 <p><span class="chinese">米式营销可谓是网络营销的代表者。</span><span class="english">Representatives ofm marketing is the network marketing.</span></p>
 
 <p><span class="chinese">介绍了磨机动静压轴承系统的虚拟设计。</span><span class="english">The paper introduces the virtual design of hydrodynamic bearing ofm i ll.</span></p>

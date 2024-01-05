@@ -1,5 +1,7 @@
 # 公款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongkuan.md)
+
 <p><span class="chinese">挪用公款罪的主体。</span><span class="english">Main body of defalcation.</span></p>
 
 <p><span class="chinese">他侵吞公款。</span><span class="english">He embezzled public funds.</span></p>

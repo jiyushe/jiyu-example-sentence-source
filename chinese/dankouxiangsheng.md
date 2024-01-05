@@ -1,5 +1,7 @@
 # 单口相声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dankouxiangsheng.md)
+
 <p><span class="chinese">他同时还是一位杰出的单口相声演员。</span><span class="english">He is also a stand-up comedian.</span></p>
 
 <p><span class="chinese">她是这里有名的单口相声家。</span><span class="english">She is a famous comedienne here.</span></p>

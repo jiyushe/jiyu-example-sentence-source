@@ -1,5 +1,7 @@
 # 阻塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuse.md)
+
 <p><span class="chinese">交通阻塞。</span><span class="english">Traffic blocking.</span></p>
 
 <p><span class="chinese">该运河阻塞不通。</span><span class="english">The canal is blocked.</span></p>

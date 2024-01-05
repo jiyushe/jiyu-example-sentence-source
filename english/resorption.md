@@ -1,5 +1,7 @@
 # resorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resorption.md)
+
 <p><span class="chinese">各组均有牙槽骨吸收。</span><span class="english">All groups had alveolar bone resorption.</span></p>
 
 <p><span class="chinese">关闭磨牙间隙后牙槽骨改建及牙根吸收情况。</span><span class="english">Root resorption after the closure of molar space.</span></p>

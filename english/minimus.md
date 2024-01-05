@@ -1,5 +1,7 @@
 # minimus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimus.md)
+
 <p><span class="chinese">外侧入路主要依赖于臀中肌和臀小肌止点的剥离。</span><span class="english">The lateral approach is essentially dependent upon elevation of the insertion of the gluteus medius and minimus.</span></p>
 
 <p><span class="chinese">目的借助气象、环境与遥感监测指标建立微小按蚊密度评价模型。</span><span class="english">Objective To establish Anopheles minimus density evaluation model based on climate, environmental and remote sensing data.</span></p>

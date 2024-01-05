@@ -1,5 +1,7 @@
 # porphyry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porphyry.md)
+
 <p><span class="chinese">伊春鹿鸣钼矿为大型斑岩型矿床。</span><span class="english">The Yichun Luming molybdenum ore is a big porphyry deposits.</span></p>
 
 <p><span class="chinese">横涧矿床是斑岩铀矿床。</span><span class="english">The Hengjian deposit is a porphyry uranium deposit in genesis.</span></p>

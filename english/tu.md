@@ -1,5 +1,7 @@
 # tu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tu.md)
+
 <p><span class="chinese">我和你，不可以做朋友吗？</span><span class="english">Tú y yo, no amigos?</span></p>
 
 <p><span class="chinese">恩。我爱你，我的老婆！</span><span class="english">TU . I love you, my wife!</span></p>

@@ -1,5 +1,7 @@
 # 无精打采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujingdacai.md)
+
 <p><span class="chinese">他们无精打采。</span><span class="english">They slouch.</span></p>
 
 <p><span class="chinese">当她懒懒得无精打采地。</span><span class="english">When, in her lazy listlessness.</span></p>

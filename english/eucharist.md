@@ -1,5 +1,7 @@
 # Eucharist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eucharist.md)
+
 <p><span class="chinese">他们都肯定基督在圣餐中的同在。</span><span class="english">Both affirmed Christ's presence in the Eucharist.</span></p>
 
 <p><span class="chinese">圣体圣餐中被奉为神圣的成分。</span><span class="english">Mysteries The consecrated elements of the Eucharist.</span></p>

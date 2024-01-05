@@ -1,5 +1,7 @@
 # 严正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzheng_1.md)
+
 <p><span class="chinese">我很严正的认为我们要善待动物。</span><span class="english">I feel very strongly you have to treat animals right.</span></p>
 
 <p><span class="chinese">伏地魔和哈利都严正以待，准备战斗。</span><span class="english">Lord Voldemort is preparing for battle and so must Harry.</span></p>

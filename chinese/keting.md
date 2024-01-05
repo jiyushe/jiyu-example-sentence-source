@@ -1,5 +1,7 @@
 # 可听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keting.md)
+
 <p><span class="chinese">您可听得到我的祈祷？</span><span class="english">Can you hear me praying?</span></p>
 
 <p><span class="chinese">凭此券可听一次讲座。</span><span class="english">This ticket admits you to one lecture.</span></p>

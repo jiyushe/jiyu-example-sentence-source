@@ -1,5 +1,7 @@
 # tocopherol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tocopherol.md)
+
 <p><span class="chinese">油脂脱臭馏出物是生产天然生育酚的好原料。</span><span class="english">Deordorizer distillates are one of main materials for tocopherol.</span></p>
 
 <p><span class="chinese">生育酚酯种类很多，药理功能不尽相同。</span><span class="english">Tocopherol esters are of a great variety and have various pharmaceutical functions.</span></p>

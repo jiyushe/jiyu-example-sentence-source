@@ -1,5 +1,7 @@
 # 初春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchun.md)
+
 <p><span class="chinese">遥想那初春新叶。</span><span class="english">I thought of the new Spring leaves.</span></p>
 
 <p><span class="chinese">在初春，天有时下雪。</span><span class="english">In early spring, it sometimes snows.</span></p>

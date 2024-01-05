@@ -1,5 +1,7 @@
 # neuropathology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuropathology.md)
+
 <p><span class="chinese">脑部病理学是国际神经病理学会的官方出版物。</span><span class="english">Brain Pathology is the official publication of International Society for Neuropathology.</span></p>
 
 <p><span class="chinese">大脑病理学是国际神经病理学协会的官方出版物。</span><span class="english">Brain Pathology is the official publication of International Society for Neuropathology.</span></p>

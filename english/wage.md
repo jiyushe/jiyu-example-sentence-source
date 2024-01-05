@@ -1,5 +1,7 @@
 # wage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wage.md)
+
 <p><span class="chinese">他每日取酬。</span><span class="english">He gets daily wage.</span></p>
 
 <p><span class="chinese">员工有工资单吗？</span><span class="english">B. 2.5 Do wage lists exist?</span></p>

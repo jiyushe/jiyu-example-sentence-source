@@ -1,5 +1,7 @@
 # 整治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhi_4.md)
+
 <p><span class="chinese">这坏蛋得整治一下。</span><span class="english">That scoundrel needs to be punished.</span></p>
 
 <p><span class="chinese">这块地将在下个月某个时候整治。</span><span class="english">This plot will be prepared sometime next month.</span></p>

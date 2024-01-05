@@ -1,5 +1,7 @@
 # rheme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheme.md)
+
 <p><span class="chinese">主位结构包括主位和述位。</span><span class="english">Thematic structure consists of theme and rheme.</span></p>
 
 <p><span class="chinese">但是，主位结构是否也适用于汉语呢？</span><span class="english">Does Chinese language also belong to Theme- Rheme structure?</span></p>

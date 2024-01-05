@@ -1,5 +1,7 @@
 # hawking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawking.md)
+
 <p><span class="chinese">夏天里哟，那个卖冰棒的叫卖声。</span><span class="english">In summer, the ice-lolly peddler hawking.</span></p>
 
 <p><span class="chinese">你想，我还会沿街叫卖烤肉？</span><span class="english">You think I'd be hawking barbecue over here?</span></p>

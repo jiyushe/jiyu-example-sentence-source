@@ -1,5 +1,7 @@
 # 东宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donggong.md)
+
 <p><span class="chinese">此时的东宫已是荒凉一片。</span><span class="english">The east is a piece of waste.</span></p>
 
 <p><span class="chinese">颐和园的大门叫东宫门。</span><span class="english">Summer Palace door called Orient House door.</span></p>

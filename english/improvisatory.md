@@ -1,5 +1,7 @@
 # improvisatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improvisatory.md)
+
 <p><span class="chinese">那段是完全即兴的</span><span class="english">It was all improvisatory.</span></p>
 
 <p><span class="chinese">论述了即兴物理实验的优越性，并列举了几个即兴物理实验。</span><span class="english">The advantage of improvisatory physics experiment is described, and several physics experiments are listed.</span></p>

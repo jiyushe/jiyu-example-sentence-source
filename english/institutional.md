@@ -1,5 +1,7 @@
 # institutional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/institutional.md)
+
 <p><span class="chinese">债务管理方面的大部分问题均为制度性问题。</span><span class="english">Much of the problem was institutional.</span></p>
 
 <p><span class="chinese">这是他们的第一轮筹资。</span><span class="english">This is their first institutional round.</span></p>

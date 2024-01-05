@@ -1,5 +1,7 @@
 # 拂袖而去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxiuerqu.md)
+
 <p><span class="chinese">你可以拂袖而去，再面试下一位老板。</span><span class="english">Go out and audition another boss.</span></p>
 
 <p><span class="chinese">女孩开始厌烦了，每次都是很愤怒的拂袖而去。</span><span class="english">The girl starts to get pissed off.</span></p>

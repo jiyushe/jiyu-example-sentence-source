@@ -1,5 +1,7 @@
 # attorney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attorney.md)
+
 <p><span class="chinese">比如像注册权就不值得浪费更多的时间，但这位律师又是否知道呢？</span><span class="english">But does the attorney know?</span></p>
 
 <p><span class="chinese">雷纳德只得雇了律师。</span><span class="english">Rennard had to hire an attorney.</span></p>

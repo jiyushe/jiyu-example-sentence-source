@@ -1,5 +1,7 @@
 # inscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inscape.md)
+
 <p><span class="chinese">成长是人类必不可少的构成要素，也是文学永恒的主题。</span><span class="english">Growing-up is the essential inscape of human beings and the eternal theme for world literature.</span></p>
 
 <p><span class="chinese">接着论述了高职院校核心竞争力的概念及高职院校核心竞争力的构成要素。</span><span class="english">Then, I argue the notion and the inscape of the core competition of higher vocational institute.</span></p>

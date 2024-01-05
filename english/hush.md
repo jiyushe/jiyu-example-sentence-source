@@ -1,5 +1,7 @@
 # hush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hush.md)
+
 <p><span class="chinese">想跟静寂私奔？</span><span class="english">Want to elope with hush?</span></p>
 
 <p><span class="chinese">别作声！你会把婴儿吵醒。</span><span class="english">Hush ! You will wake the baby.</span></p>

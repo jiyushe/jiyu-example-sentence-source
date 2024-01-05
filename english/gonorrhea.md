@@ -1,5 +1,7 @@
 # gonorrhea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gonorrhea.md)
+
 <p><span class="chinese">我得了淋病。</span><span class="english">I got gonorrhea.</span></p>
 
 <p><span class="chinese">这位赤脚医生有治疗白浊的偏方。</span><span class="english">The doctor has a way to treat gonorrhea.</span></p>

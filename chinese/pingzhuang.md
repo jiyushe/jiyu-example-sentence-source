@@ -1,5 +1,7 @@
 # 平装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzhuang.md)
+
 <p><span class="chinese">我喜欢浏览最新的平装书。</span><span class="english">I love browsing through the latest paperbacks.</span></p>
 
 <p><span class="chinese">其他的平装书每本才卖十戴十五美分。</span><span class="english">Other paperbacks were selling for 10 or 15 cents each.</span></p>

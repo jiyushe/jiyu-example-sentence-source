@@ -1,5 +1,7 @@
 # 喝水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshui.md)
+
 <p><span class="chinese">不停喝水。</span><span class="english">Non-stop drinking.</span></p>
 
 <p><span class="chinese">您喝水还需要嚼吗？</span><span class="english">You’re chewing your drink?</span></p>

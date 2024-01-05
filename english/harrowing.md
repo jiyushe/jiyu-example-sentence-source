@@ -1,5 +1,7 @@
 # harrowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harrowing.md)
+
 <p><span class="chinese">但对其他人来说，一对一剧场可能是令人痛苦的。</span><span class="english">But for others, one-on-one theatre can be harrowing.</span></p>
 
 <p><span class="chinese">那个，老实说，朋友，那真的是一次更加深入，更刻骨铭心的冒险旅程。</span><span class="english">That, my friends, was an even deeper, more harrowing adventure.</span></p>

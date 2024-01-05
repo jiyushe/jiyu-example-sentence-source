@@ -1,5 +1,7 @@
 # uno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uno.md)
+
 <p><span class="chinese">你知道它是中国一部分么？</span><span class="english">Do uno Tibet is a part of Chn ?</span></p>
 
 <p><span class="chinese">对宇野来说，战后那些年也同样痛苦。</span><span class="english">Just as painful for Mr. Uno were the years after the war.</span></p>

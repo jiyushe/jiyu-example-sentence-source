@@ -1,5 +1,7 @@
 # 参差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cenci.md)
+
 <p><span class="chinese">参差荇菜，左右毛之⑿。</span><span class="english">Nymphoides mixed vegetables, about the hair.</span></p>
 
 <p><span class="chinese">然而，水平参差不一的电力网还存有问题。</span><span class="english">And then there is the question of the creaking grid.</span></p>

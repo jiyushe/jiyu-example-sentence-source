@@ -1,5 +1,7 @@
 # 打落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daluo.md)
+
 <p><span class="chinese">现在他手里的剑被人打落了。</span><span class="english">It's been knocked out of his hand now.</span></p>
 
 <p><span class="chinese">她一掌打落了我手中的一杯酒。</span><span class="english">She struck a glass of wine in my hand.</span></p>

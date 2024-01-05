@@ -1,5 +1,7 @@
 # repairman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repairman.md)
+
 <p><span class="chinese">而这次，修理工不到一个小时就到了！</span><span class="english">A repairman arrived within the hour!</span></p>
 
 <p><span class="chinese">利用修理工修理你的城堡。</span><span class="english">repair your castle with your repairman</span></p>

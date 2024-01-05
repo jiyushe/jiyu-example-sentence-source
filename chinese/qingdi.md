@@ -1,5 +1,7 @@
 # 情敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdi.md)
+
 <p><span class="chinese">当我喜欢你的时候，我看谁都像情敌。</span><span class="english">When I love you when I see who are like.</span></p>
 
 <p><span class="chinese">你有没有告诉过他你更爱他的情敌?。</span><span class="english">Did you tell him you preferred his rival?</span></p>

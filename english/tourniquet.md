@@ -1,5 +1,7 @@
 # tourniquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tourniquet.md)
+
 <p><span class="chinese">上帝啊！我的止血带。</span><span class="english">My God! My tourniquet.</span></p>
 
 <p><span class="chinese">决不要使用止血带。</span><span class="english">A tourniquet should never be used.</span></p>

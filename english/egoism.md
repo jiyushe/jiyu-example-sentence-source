@@ -1,5 +1,7 @@
 # egoism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egoism.md)
+
 <p><span class="chinese">艺术家的自负有时啃垧来是自然的。</span><span class="english">The egoism of an artist sometimes seems natural.</span></p>
 
 <p><span class="chinese">日本政治带有利己主义和民粹主义的风气。</span><span class="english">Japanese politics is tainted with egoism and populism.</span></p>

@@ -1,5 +1,7 @@
 # pile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pile.md)
+
 <p><span class="chinese">一堆奥修种子。</span><span class="english">A pile of Ashur seeds.</span></p>
 
 <p><span class="chinese">一堆灰色块状物。</span><span class="english">A pile of gray nuggets.</span></p>

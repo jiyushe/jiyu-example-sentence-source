@@ -1,5 +1,7 @@
 # 严防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanfang.md)
+
 <p><span class="chinese">严防在您周围虚假的朋友。</span><span class="english">Beware of insincere friends around you.</span></p>
 
 <p><span class="chinese">搬运要轻放，严防撞击、摩擦。</span><span class="english">Handle with care guard against strike and rub.</span></p>

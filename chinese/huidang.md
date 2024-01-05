@@ -1,5 +1,7 @@
 # 回荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huidang.md)
+
 <p><span class="chinese">大厅中回荡著歌声。</span><span class="english">The hall resounded with songs.</span></p>
 
 <p><span class="chinese">歌声回荡在山间。</span><span class="english">The songs echo in the moutons.</span></p>

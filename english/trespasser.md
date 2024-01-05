@@ -1,5 +1,7 @@
 # trespasser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trespasser.md)
+
 <p><span class="chinese">他唆使狗攻击侵入者。</span><span class="english">He set the dogs on the trespasser.</span></p>
 
 <p><span class="chinese">老人朝着擅自进入的人喊道。</span><span class="english">"Clear off! " shouted the old man to the trespasser.</span></p>

@@ -1,5 +1,7 @@
 # shoppe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoppe.md)
+
 <p><span class="chinese">他问她要一份冰淇淋圣代冰淇凌苏打专柜。</span><span class="english">He asked her to the soda shoppe for an ice cream sundae.</span></p>
 
 <p><span class="chinese">有些人为了来一趟“药剂师专柜”要开八十英里的车。</span><span class="english">Some people drive eighty miles just to visit the Apothecary Shoppe.</span></p>

@@ -1,5 +1,7 @@
 # interlocutory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlocutory.md)
+
 <p><span class="chinese">第四章是完善我国现行中间裁判的思考。</span><span class="english">Chapter four ponders the perfection of interlocutory referee in our country.</span></p>
 
 <p><span class="chinese">接着分析了英国法上中间禁令的适用条件。</span><span class="english">Then it is the analysis of the system of Interlocutory Injunction in Britain.</span></p>

@@ -1,5 +1,7 @@
 # 风俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsu.md)
+
 <p><span class="chinese">他知道所有的风俗。</span><span class="english">He knew all the customs.</span></p>
 
 <p><span class="chinese">吃茶品茗没有是个好风俗。</span><span class="english">Tea is not a good habit.</span></p>

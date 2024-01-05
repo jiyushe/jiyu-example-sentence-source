@@ -1,5 +1,7 @@
 # insecurity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insecurity.md)
+
 <p><span class="chinese">你的轮胎磨平了，不安全。</span><span class="english">It is insecurity for your tyres flatted.</span></p>
 
 <p><span class="chinese">这种冒险事业的不安全性使投资者望而却步。</span><span class="english">The insecurity of the venture kept investors away.</span></p>

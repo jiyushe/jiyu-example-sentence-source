@@ -1,5 +1,7 @@
 # 桑葚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangshen_2.md)
+
 <p><span class="chinese">我喜欢吃紫色的桑葚。</span><span class="english">I like to eat purple mulberries.</span></p>
 
 <p><span class="chinese">我想象紫色黄昏中桑葚的滋味。</span><span class="english">I imagine the taste of the mulberries in the violet dusk.</span></p>

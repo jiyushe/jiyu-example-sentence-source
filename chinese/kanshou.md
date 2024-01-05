@@ -1,5 +1,7 @@
 # 看守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanshou.md)
+
 <p><span class="chinese">无人看守的桌面。</span><span class="english">Unattended desktop.</span></p>
 
 <p><span class="chinese">亚伯是看守羊的人。</span><span class="english">Abel was a keeper of sheep.</span></p>

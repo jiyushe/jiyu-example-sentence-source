@@ -1,5 +1,7 @@
 # innovative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innovative.md)
+
 <p><span class="chinese">创新的电源接口。</span><span class="english">Innovative power connector.</span></p>
 
 <p><span class="chinese">你是个勇于创新的人吗？</span><span class="english">Are you an innovative person?</span></p>

@@ -1,5 +1,7 @@
 # digestibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digestibility.md)
+
 <p><span class="chinese">其消化率下降是很快的。</span><span class="english">The fall in digestibility is quite rapid.</span></p>
 
 <p><span class="chinese">回肠消化率比粪消化率准确。</span><span class="english">Ileal digestibility is more accurate than fecal.</span></p>

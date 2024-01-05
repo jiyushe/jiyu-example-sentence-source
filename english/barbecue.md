@@ -1,5 +1,7 @@
 # barbecue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbecue.md)
+
 <p><span class="chinese">馕坑烤肉。</span><span class="english">Nang pit barbecue.</span></p>
 
 <p><span class="chinese">男人喜欢烧烤。</span><span class="english">Men like to barbecue.</span></p>

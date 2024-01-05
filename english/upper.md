@@ -1,5 +1,7 @@
 # upper 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upper.md)
+
 <p><span class="chinese">仿古皮革鞋面。</span><span class="english">Antiqued leather upper.</span></p>
 
 <p><span class="chinese">头层全粒面牛皮材质。</span><span class="english">Full-grain leather upper.</span></p>

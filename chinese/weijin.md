@@ -1,5 +1,7 @@
 # 围巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijin.md)
+
 <p><span class="chinese">我的围巾长。</span><span class="english">My scarf is long.</span></p>
 
 <p><span class="chinese">这条围巾是红的。</span><span class="english">This scarf is red.</span></p>

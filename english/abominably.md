@@ -1,5 +1,7 @@
 # abominably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abominably.md)
+
 <p><span class="chinese">我不知道还有行为如此卑劣的人。</span><span class="english">I don't know anyone who could have behaved so abominably.</span></p>
 
 <p><span class="chinese">在她看来，芭芭拉的表现是恶劣的。</span><span class="english">From her own point of view Barbara had behaved abominably.</span></p>

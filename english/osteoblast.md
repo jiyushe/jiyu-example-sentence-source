@@ -1,5 +1,7 @@
 # osteoblast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteoblast.md)
+
 <p><span class="chinese">其中成骨细胞对剪切应力最敏感。</span><span class="english">And osteoblast is most sensitive to shear stress.</span></p>
 
 <p><span class="chinese">骨缝的生长改建主要依赖于成骨细胞的增殖和分化。</span><span class="english">Sutures are primary sites of osteoblast proliferation and differentiation.</span></p>

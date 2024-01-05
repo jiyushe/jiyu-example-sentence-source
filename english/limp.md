@@ -1,5 +1,7 @@
 # limp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limp.md)
+
 <p><span class="chinese">我走路一瘸一拐。</span><span class="english">I walked with a limp.</span></p>
 
 <p><span class="chinese">那乞丐的跛足乃系作伪。</span><span class="english">The beggar's limp was a fake.</span></p>

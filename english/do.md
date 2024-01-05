@@ -1,5 +1,7 @@
 # do
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/do.md)
+
 <p><span class="chinese">做好事。</span><span class="english">Do good.</span></p>
 
 <p><span class="chinese">尽量少做。</span><span class="english">Do less.</span></p>

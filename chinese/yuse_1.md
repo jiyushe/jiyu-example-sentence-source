@@ -1,5 +1,7 @@
 # 语塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuse_1.md)
+
 <p><span class="chinese">我一时语塞。</span><span class="english">I was speechless.</span></p>
 
 <p><span class="chinese">但是，我再一次语塞。</span><span class="english">Again, words failed me.</span></p>

@@ -1,5 +1,7 @@
 # teg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teg.md)
+
 <p><span class="chinese">三甘醇轨道的术后出血和CPB后是有用的指导治疗。</span><span class="english">The TEG tracks postoperative hemorrhage after CPB and is useful in guiding therapy.</span></p>
 
 <p><span class="chinese">装置进行TEG清洗后，提高了熔体品质，降低了排废量。</span><span class="english">After TEG cleaning, the melt quality was improved, the waste discharge capacity was reduced.</span></p>

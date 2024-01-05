@@ -1,5 +1,7 @@
 # hydrochloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrochloride.md)
+
 <p><span class="chinese">合成盐酸索他洛尔。</span><span class="english">Objective To synthesis Sotalol hydrochloride.</span></p>
 
 <p><span class="chinese">目的合成盐酸美利曲辛。</span><span class="english">OBJECTIVE To synthesize melitracen hydrochloride.</span></p>

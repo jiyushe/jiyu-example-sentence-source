@@ -1,5 +1,7 @@
 # dominating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominating.md)
+
 <p><span class="chinese">他曾一度在党内占支配地位。</span><span class="english">At one time he was dominating over the party.</span></p>
 
 <p><span class="chinese">作为一个队伍，我们正主导这项运动。</span><span class="english">I think as a team we’re dominating the sport.</span></p>

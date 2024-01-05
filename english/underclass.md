@@ -1,5 +1,7 @@
 # underclass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underclass.md)
+
 <p><span class="chinese">在这个肮脏破败的地方居住着不为人注意的城市下层阶级。</span><span class="english">An inconspicuous urban underclass lives in squalor.</span></p>
 
 <p><span class="chinese">韩国人和下层百姓都有受到歧视。</span><span class="english">Ethnic Koreans and an underclass known as burakumin are stigmatized.</span></p>

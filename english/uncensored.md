@@ -1,5 +1,7 @@
 # uncensored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncensored.md)
+
 <p><span class="chinese">未经审查的盗版碟在街头就能买到。</span><span class="english">Uncensored bootleg copies are peddled on the streets.</span></p>
 
 <p><span class="chinese">有些作家对网上未审查图书的影响力持怀疑态度。</span><span class="english">Some writers are skeptical that uncensored books on the Internet can have much of an effect.</span></p>

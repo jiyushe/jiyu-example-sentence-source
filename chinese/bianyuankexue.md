@@ -1,5 +1,7 @@
 # 边缘科学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianyuankexue.md)
+
 <p><span class="chinese">周期地理学是一门介于周期学与地理学之间的边缘科学。</span><span class="english">Periodic geography is a borderline science between periodic science and geography.</span></p>
 
 <p><span class="chinese">金融数学是一门新兴的边缘科学，是数学与金融学的交叉。</span><span class="english">Mathematical finance is a new frontier science, it is the intersection of mathematics and finance.</span></p>

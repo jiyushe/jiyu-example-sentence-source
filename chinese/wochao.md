@@ -1,5 +1,7 @@
 # 窝巢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wochao.md)
+
 <p><span class="chinese">正是整修窝巢的时候。</span><span class="english">It is time to renovate the nest.</span></p>
 
 <p><span class="chinese">它们窝巢的形状是怎样？</span><span class="english">What is the shape of their nests?</span></p>

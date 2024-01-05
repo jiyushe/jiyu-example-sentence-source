@@ -1,5 +1,7 @@
 # incorrectness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorrectness.md)
+
 <p><span class="chinese">因此女士们，请原谅我的政治不正确吧。</span><span class="english">So ladies, please forgive my political incorrectness.</span></p>
 
 <p><span class="chinese">正确不正确是由别人决定的，或是由时间和历史决定的。</span><span class="english">The correctness and incorrectness were not decided by other people, time or history.</span></p>

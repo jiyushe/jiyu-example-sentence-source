@@ -1,5 +1,7 @@
 # 失音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyin.md)
+
 <p><span class="chinese">重金属吉他手使用真空管放大器造成严重失音。</span><span class="english">Heavy metal guitar players use vacuum tube amplifiers to produce extreme distortion.</span></p>
 
 <p><span class="chinese">损及声道或耗伤肺气者，亦可导致失音。</span><span class="english">Damages and the sound track or consumes wound lung being mad, may also cause the aphonia.</span></p>

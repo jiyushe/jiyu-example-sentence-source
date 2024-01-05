@@ -1,5 +1,7 @@
 # 访谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangtan.md)
+
 <p><span class="chinese">我看了一个有趣的访谈节目。</span><span class="english">I sawan interesting talk show.</span></p>
 
 <p><span class="chinese">非常感谢加入我们的访谈。</span><span class="english">Thanks very much for joining us.</span></p>

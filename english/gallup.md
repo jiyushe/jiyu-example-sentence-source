@@ -1,5 +1,7 @@
 # gallup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallup.md)
+
 <p><span class="chinese">我爸在盖洛普链条厂工作了30年，跟我爷爷一起在那里上班。</span><span class="english">Dad worked thirty years at Gallup Chain, with his dad.</span></p>
 
 <p><span class="chinese">研究者分析了盖洛普2005-2009年度全球民意调查。</span><span class="english">Researchers analyzed data from the Gallup World Poll covering 2005 to 2009.</span></p>

@@ -1,5 +1,7 @@
 # airsickness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airsickness.md)
+
 <p><span class="chinese">有没有晕机药?。</span><span class="english">Do you have pill for airsickness ?</span></p>
 
 <p><span class="chinese">有没有晕机药?。</span><span class="english">Do you have pills for airsickness?</span></p>

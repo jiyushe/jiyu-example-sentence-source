@@ -1,5 +1,7 @@
 # scab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scab.md)
+
 <p><span class="chinese">伤口开始结痂了。</span><span class="english">The cut began to scab.</span></p>
 
 <p><span class="chinese">他永远不会做一个工贼。</span><span class="english">He would never become a scab.</span></p>

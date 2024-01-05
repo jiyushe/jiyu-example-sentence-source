@@ -1,5 +1,7 @@
 # thrash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrash.md)
+
 <p><span class="chinese">它们说，“我们打他吧，因为他是一个国王的儿子！”</span><span class="english">Shall we thrash him? He is the son</span></p>
 
 <p><span class="chinese">瑞典鞭挞金属乐队2吨的“捕食者”。</span><span class="english">Swedish thrash metal band 2 Ton Predator.</span></p>

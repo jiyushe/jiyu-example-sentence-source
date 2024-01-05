@@ -1,5 +1,7 @@
 # coppery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coppery.md)
+
 <p><span class="chinese">她的红铜色头发飞扬着。</span><span class="english">Her coppery hair danced about her head.</span></p>
 
 <p><span class="chinese">哈利低头看到了深绿色的山脉和湖泊，在夕阳下泛着紫铜的光泽。</span><span class="english">Harry looked down and saw deep green mountains and lakes, coppery in the sunset.</span></p>

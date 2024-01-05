@@ -1,5 +1,7 @@
 # 忧虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlv.md)
+
 <p><span class="chinese">抛开你的忧虑吧。</span><span class="english">Cast your care aside.</span></p>
 
 <p><span class="chinese">忧虑使他蹙额皱眉。</span><span class="english">Worry puckered his brows.</span></p>

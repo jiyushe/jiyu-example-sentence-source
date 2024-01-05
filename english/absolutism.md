@@ -1,5 +1,7 @@
 # absolutism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absolutism.md)
+
 <p><span class="chinese">绝对主义并非仅仅由于这场动乱而产生</span><span class="english">Absolutism did not simply just emerge out of this turmoil.</span></p>
 
 <p><span class="chinese">简而言之,这就是绝对王权</span><span class="english">So, this is what, in a nutshell, kind of what absolutism was.</span></p>

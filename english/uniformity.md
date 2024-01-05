@@ -1,5 +1,7 @@
 # uniformity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uniformity.md)
+
 <p><span class="chinese">请注意800赫兹以上的统一性。</span><span class="english">Note the uniformity above 800 Hz.</span></p>
 
 <p><span class="chinese">无病虫害，整齐度好，上花率高。</span><span class="english">No pests, uniformity is good, spend rate.</span></p>

@@ -1,5 +1,7 @@
 # canberra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canberra.md)
+
 <p><span class="chinese">我哋先去参观堪培拉嘅玻璃厂。</span><span class="english">We went first to the Canberra Glassworks.</span></p>
 
 <p><span class="chinese">天微亮时，我已抵达堪培拉的国会大厦。</span><span class="english">It was just after dusk when we arrived in Canberra.</span></p>

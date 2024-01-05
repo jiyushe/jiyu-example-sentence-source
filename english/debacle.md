@@ -1,5 +1,7 @@
 # debacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debacle.md)
+
 <p><span class="chinese">最近Vioxx的崩溃证明了这一点。</span><span class="english">The recent Vioxx debacle bears this out.</span></p>
 
 <p><span class="chinese">根廷崩溃供重教。</span><span class="english">Argentine debacle has important lessons to teach.</span></p>

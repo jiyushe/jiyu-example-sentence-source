@@ -1,5 +1,7 @@
 # faintness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faintness.md)
+
 <p><span class="chinese">张杰模糊的声音传来。</span><span class="english">The voice of Zhang Jie's faintness spreads.</span></p>
 
 <p><span class="chinese">一位病人感觉头疼、恶心、晕眩。</span><span class="english">One patient suffered headaches, nausea, and faintness.</span></p>

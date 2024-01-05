@@ -1,5 +1,7 @@
 # presenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presenter.md)
+
 <p><span class="chinese">演示者陈诉一个提案。</span><span class="english">A presenter states the proposal.</span></p>
 
 <p><span class="chinese">她成为“新BNN主持人”。</span><span class="english">She became "The new BNN presenter".</span></p>

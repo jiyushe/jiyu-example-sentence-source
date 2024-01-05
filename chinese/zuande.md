@@ -1,5 +1,7 @@
 # 赚得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuande.md)
+
 <p><span class="chinese">独身者赚得家庭是比较不通常。</span><span class="english">Single earner households are less common.</span></p>
 
 <p><span class="chinese">你不可能买入了热门股，而且还能赚得很多。</span><span class="english">You can't buy what's popular and do well.</span></p>

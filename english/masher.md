@@ -1,5 +1,7 @@
 # masher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masher.md)
+
 <p><span class="chinese">索比的打算是扮演一个色狼。</span><span class="english">It was Soapy's design to assume the role of a "masher" ⑷.</span></p>
 
 <p><span class="chinese">把这两样蔬菜都放进一个碗里，然后用捣土豆器把它们捣碎。</span><span class="english">Put both vegetables into a bowl and crush with a potato masher.</span></p>

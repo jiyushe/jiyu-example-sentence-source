@@ -1,5 +1,7 @@
 # rale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rale.md)
+
 <p><span class="chinese">空气经过粘液阻塞的细支气管时会发生水泡音。</span><span class="english">The rale produced when air passes through mucus-clogged bronchioles.</span></p>
 
 <p><span class="chinese">双肺听诊未闻及干，湿性罗音。</span><span class="english">Neither wet nor dry rale was heard in both lungs on auditorypercussion.</span></p>

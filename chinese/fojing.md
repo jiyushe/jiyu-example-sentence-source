@@ -1,5 +1,7 @@
 # 佛经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fojing.md)
+
 <p><span class="chinese">它是所有佛经之中最好的。</span><span class="english">It is the best of all sutras.</span></p>
 
 <p><span class="chinese">因此，在这部佛经之中，我说偈子道。</span><span class="english">So, in this sutra , I say in agatha.</span></p>

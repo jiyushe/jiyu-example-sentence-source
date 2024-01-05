@@ -1,5 +1,7 @@
 # 何事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshi.md)
+
 <p><span class="chinese">任何人都可以就任何事做出预测。</span><span class="english">Anybody can predict anything.</span></p>
 
 <p><span class="chinese">苏哈喘了口气，“任何事？”</span><span class="english">Suha caught her breath. “Anything?”</span></p>

@@ -1,5 +1,7 @@
 # 劝勉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanmian_2.md)
+
 <p><span class="chinese">你若是劝勉人的，就当时常劝勉人。</span><span class="english">If you are an encourager, do it often.</span></p>
 
 <p><span class="chinese">保罗在这一章对提多的结束劝勉是什么？</span><span class="english">What are Paul's closing instructions to Titus in this chapter?</span></p>

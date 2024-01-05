@@ -1,5 +1,7 @@
 # lewis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lewis.md)
+
 <p><span class="chinese">那卡尔刘易士呢？</span><span class="english">What about Carl Lewis?</span></p>
 
 <p><span class="chinese">马丁逼刘易斯逼得很紧。</span><span class="english">Martin's pressing Lewis.</span></p>

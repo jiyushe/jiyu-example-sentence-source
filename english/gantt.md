@@ -1,5 +1,7 @@
 # gantt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gantt.md)
+
 <p><span class="chinese">单击此处可重命名所选甘特图。</span><span class="english">Click to rename the selected gantt chart.</span></p>
 
 <p><span class="chinese">该项目是代表与甘特图。</span><span class="english">The project is represented with a Gantt chart.</span></p>

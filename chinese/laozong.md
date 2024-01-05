@@ -1,5 +1,7 @@
 # 老总
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozong.md)
+
 <p><span class="chinese">假设你是公司的老总。</span><span class="english">Maybe you are the boss at your company.</span></p>
 
 <p><span class="chinese">老总从未嫌弃过我，总是欣然前往。</span><span class="english">Mister never abandon me, always glad to.</span></p>

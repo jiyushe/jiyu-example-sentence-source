@@ -1,5 +1,7 @@
 # ergodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergodic.md)
+
 <p><span class="chinese">我们系统可以在很大的能量范围内都是遍历状态的方案。</span><span class="english">In a large range of energy the system is ergodic.</span></p>
 
 <p><span class="chinese">本文研究拓扑遍历映射。</span><span class="english">This paper deals with topologically ergodic maps.</span></p>

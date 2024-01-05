@@ -1,5 +1,7 @@
 # 野营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeying_1.md)
+
 <p><span class="chinese">你要去野营吗？</span><span class="english">Are you going camping?</span></p>
 
 <p><span class="chinese">我们在山顶野营。</span><span class="english">We tented on the hilltop.</span></p>

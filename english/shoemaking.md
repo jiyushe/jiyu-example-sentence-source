@@ -1,5 +1,7 @@
 # shoemaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoemaking.md)
+
 <p><span class="chinese">制鞋业是有用的行业。</span><span class="english">Shoemaking is a useful trade.</span></p>
 
 <p><span class="chinese">制鞋是一种有用的、必不可少的行业。</span><span class="english">Shoemaking is a useful and necessary trade.</span></p>

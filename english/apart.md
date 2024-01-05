@@ -1,5 +1,7 @@
 # apart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apart.md)
+
 <p><span class="chinese">军队土崩瓦解了。</span><span class="english">The army fell apart.</span></p>
 
 <p><span class="chinese">何来的分离</span><span class="english">What's to come apart?</span></p>

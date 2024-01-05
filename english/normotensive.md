@@ -1,5 +1,7 @@
 # normotensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normotensive.md)
+
 <p><span class="chinese">目的为了阐明吸烟对正常血压者血压的影响。</span><span class="english">Objective To investigate the effects of cigarette smoking on 24-hour ambulatory BP in normotensive smokers.</span></p>
 
 <p><span class="chinese">即使是血压正常的怀孕病人也应尽早进行快速的液体复苏治疗。</span><span class="english">Early and rapid fluid resuscitation should be administered even in the pregnant patient who is normotensive.</span></p>

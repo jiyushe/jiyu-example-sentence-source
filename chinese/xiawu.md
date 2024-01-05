@@ -1,5 +1,7 @@
 # 下午
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiawu.md)
+
 <p><span class="chinese">下午好，汤姆。</span><span class="english">Good afternoon,Tom.</span></p>
 
 <p><span class="chinese">每天下午，嘣！</span><span class="english">Every afternoon. Boom!</span></p>

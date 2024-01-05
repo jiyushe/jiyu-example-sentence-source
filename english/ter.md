@@ -1,5 +1,7 @@
 # ter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ter.md)
+
 <p><span class="chinese">杰米，无论你是怎样的人，我们都会永远爱你。</span><span class="english">Jami ter what you are , we'll always love you.</span></p>
 
 <p><span class="chinese">茶叶、中草药、咖啡等袋泡饮品。</span><span class="english">Ter. Chinese Herbs. coffee. any tea-bag drinks.</span></p>

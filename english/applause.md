@@ -1,5 +1,7 @@
 # applause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applause.md)
+
 <p><span class="chinese">我有一个真心的掌声。</span><span class="english">And I got a weclome applause.</span></p>
 
 <p><span class="chinese">掌声雷动。</span><span class="english">The applause thundered forth.</span></p>

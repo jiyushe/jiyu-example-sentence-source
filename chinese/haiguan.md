@@ -1,5 +1,7 @@
 # 海关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiguan.md)
+
 <p><span class="chinese">海关在哪里？</span><span class="english">Where is customs?</span></p>
 
 <p><span class="chinese">海关监管。</span><span class="english">Customs Supervision.</span></p>

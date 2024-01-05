@@ -1,5 +1,7 @@
 # 如常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruchang_1.md)
+
 <p><span class="chinese">一切如常。</span><span class="english">Things are as usual.</span></p>
 
 <p><span class="chinese">而现在，我们可以放心如常了。</span><span class="english">Instead, we can now move on.</span></p>

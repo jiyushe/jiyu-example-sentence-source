@@ -1,5 +1,7 @@
 # ultraviolet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultraviolet.md)
+
 <p><span class="chinese">可使用紫外线或离子感应棒。</span><span class="english">They use ultraviolet or flame rod detectors.</span></p>
 
 <p><span class="chinese">方法采用中药紫外谱线组法进行鉴别。</span><span class="english">METHODS A group of ultraviolet spectral was used.</span></p>

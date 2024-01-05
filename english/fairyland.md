@@ -1,5 +1,7 @@
 # fairyland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairyland.md)
+
 <p><span class="chinese">这简直是个幻境。</span><span class="english">This is a veritable fairyland.</span></p>
 
 <p><span class="chinese">这简直就是人间仙境啊。</span><span class="english">It's simply a fairyland on earth.</span></p>

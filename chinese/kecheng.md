@@ -1,5 +1,7 @@
 # 课程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kecheng.md)
+
 <p><span class="chinese">这就是1504号心理学课程。</span><span class="english">So this is 1504.</span></p>
 
 <p><span class="chinese">四星期的课程?。</span><span class="english">Four-week course?</span></p>

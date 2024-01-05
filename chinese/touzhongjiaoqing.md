@@ -1,5 +1,7 @@
 # 头重脚轻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touzhongjiaoqing.md)
+
 <p><span class="chinese">他头重脚轻，口干舌燥。</span><span class="english">His head was pounding, and his mouth was dry.</span></p>
 
 <p><span class="chinese">她走路时头重脚轻，个子大约矮了5英寸。</span><span class="english">She was very top-heavy and about 5 inches shorter.</span></p>

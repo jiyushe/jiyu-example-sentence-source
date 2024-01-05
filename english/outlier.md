@@ -1,5 +1,7 @@
 # outlier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlier.md)
+
 <p><span class="chinese">这位实际上没有父亲的奥巴马，无疑是无父者中的一个特例。</span><span class="english">The effectively fatherless Obama is clearly a freakish outlier.</span></p>
 
 <p><span class="chinese">给出一种基于密度的局部离群点挖掘方法。</span><span class="english">A method of density-based local outlier mining method is proposed.</span></p>

@@ -1,5 +1,7 @@
 # mother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mother.md)
+
 <p><span class="chinese">你的母亲好么？</span><span class="english">And your mother?</span></p>
 
 <p><span class="chinese">她讨厌母亲。</span><span class="english">She hates Mother.</span></p>

@@ -1,5 +1,7 @@
 # 心焦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjiao.md)
+
 <p><span class="chinese">我们等得好心焦!</span><span class="english">How anxiously we waited!</span></p>
 
 <p><span class="chinese">真叫人心焦啊!</span><span class="english">This is really worrying!</span></p>

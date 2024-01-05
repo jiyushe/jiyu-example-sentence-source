@@ -1,5 +1,7 @@
 # governess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/governess.md)
+
 <p><span class="chinese">她在十八岁时外出担任家庭教师。</span><span class="english">When she was eighteen, she went out as a governess.</span></p>
 
 <p><span class="chinese">她的责任和任务决定了我们刚刚遇到的SOA治理女士的责任和任务。</span><span class="english">Her responsibilities and tasks determine those of her little sister, Mrs. S. Governess we met before.</span></p>

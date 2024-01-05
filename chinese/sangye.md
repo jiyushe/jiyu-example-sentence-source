@@ -1,5 +1,7 @@
 # 桑叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangye.md)
+
 <p><span class="chinese">她小心翼翼地把蚕宝宝放在铺好的桑叶上。</span><span class="english">Be assured, we will take good care of her.</span></p>
 
 <p><span class="chinese">结论超微粉碎可使桑叶细胞破壁。</span><span class="english">ConclusionThe walls of the cells were broken.</span></p>

@@ -1,5 +1,7 @@
 # laryngitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laryngitis.md)
+
 <p><span class="chinese">例如榆树可以治疗咽喉痛。</span><span class="english">An example is slippery elm for sore throat and laryngitis.</span></p>
 
 <p><span class="chinese">哈德罗患水肿性喉炎多年了。</span><span class="english">For many years Harold was afflicted with edematous laryngitis.</span></p>

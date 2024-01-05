@@ -1,5 +1,7 @@
 # recognizably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognizably.md)
+
 <p><span class="chinese">歌声应该有一系列可感知的不同音乐声。</span><span class="english">A song should have a series of recognizably different musical sound.</span></p>
 
 <p><span class="chinese">一首歌应该包括一系列可被认出的不同的音乐声音。</span><span class="english">A song should have a series of recognizably different musical sounds.</span></p>

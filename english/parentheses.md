@@ -1,5 +1,7 @@
 # parentheses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parentheses.md)
+
 <p><span class="chinese">这里我省略了小括号。</span><span class="english">So, I'm dropping the parentheses.</span></p>
 
 <p><span class="chinese">但是那些括号事出有因。</span><span class="english">But those parentheses are there for a reason.</span></p>

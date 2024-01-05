@@ -1,5 +1,7 @@
 # gaillard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaillard.md)
+
 <p><span class="chinese">加拉德坚持欧洲足联已经在阻止足球中的种族主义中的努力中已经很“冷酷”了。</span><span class="english">Gaillard insists Uefa has been "relentless" in its attempts to rid football of racism.</span></p>
 
 <p><span class="chinese">不过凯纳德指出，这些博客文章谈及对手咖啡味道时用的语言惊人一致。</span><span class="english">Gaillard notes all vote down the taste of rival pods, often using strikingly similar language.</span></p>

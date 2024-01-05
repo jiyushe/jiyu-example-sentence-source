@@ -1,5 +1,7 @@
 # 巫医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyi.md)
+
 <p><span class="chinese">汉克被巫医弄得皮肤呈棕色。</span><span class="english">Hank was done brown by a witch doctor.</span></p>
 
 <p><span class="chinese">巫医念了咒语想叫我家的牛遭殃。</span><span class="english">The witch-doctor has cursed our cattle.</span></p>

@@ -1,5 +1,7 @@
 # 宗亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongqin.md)
+
 <p><span class="chinese">我也曾与几位侨美宗亲谈过上网的事。</span><span class="english">I discussed with a few kin members about the website.</span></p>
 
 <p><span class="chinese">该贺奖只限于本公司注册之宗亲们申请。</span><span class="english">Only registered clansman are eligible to apply for the award.</span></p>

@@ -1,5 +1,7 @@
 # carotenoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carotenoid.md)
+
 <p><span class="chinese">虽然它们没有番茄红素，可是却有大量其他的红色的类胡萝卜素。</span><span class="english">While they don't have lycopene, they're full of a red carotenoid.</span></p>
 
 <p><span class="chinese">流体化或榨汁也增加了从胡萝卜类胡萝卜素的可用性。</span><span class="english">Liquidising or juicing also increases carotenoid availability from carrots.</span></p>

@@ -1,5 +1,7 @@
 # 火冒三丈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huomaosanzhang.md)
+
 <p><span class="chinese">我对那件事真是火冒三丈。</span><span class="english">I am really furious about it.</span></p>
 
 <p><span class="chinese">我喜欢把他气得火冒三丈。</span><span class="english">I enjoy getting arise out of him.</span></p>

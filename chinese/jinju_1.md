@@ -1,5 +1,7 @@
 # 金菊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinju_1.md)
+
 <p><span class="chinese">潘氏金菊在医院呆了14个月，经过了17次手术，到今天为止依然陷于痛苦之中。</span><span class="english">Kim stayed in hospital for 14 months and went through 17 operations, remaining in constant pain to this day.</span></p>
 
 <p><span class="chinese">花丛里，“五柳先生”陶潜面容清瘦，两鬓微霜，正从容地采摘着一朵朵金菊。</span><span class="english">Flowers, the "five Yoo, " Tao Qian thin face, micro-temples cream is easily one after another to pick the plant.</span></p>

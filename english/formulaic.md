@@ -1,5 +1,7 @@
 # formulaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formulaic.md)
+
 <p><span class="chinese">该电影情节虽然落入俗套，但还算是部好电影。</span><span class="english">The movie was good despite its formulaic plot.</span></p>
 
 <p><span class="chinese">这个问题根本没有标准答案。</span><span class="english">There was no formulaic answer to that question.</span></p>

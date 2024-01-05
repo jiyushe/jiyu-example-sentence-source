@@ -1,5 +1,7 @@
 # 胡言乱语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huyanluanyu.md)
+
 <p><span class="chinese">都是些胡言乱语。</span><span class="english">It's gibberish.</span></p>
 
 <p><span class="chinese">那谣言简直是一派胡言乱语.</span><span class="english">That rumor is a bunch of rubbish.</span></p>

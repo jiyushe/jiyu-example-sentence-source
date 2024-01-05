@@ -1,5 +1,7 @@
 # 盐碱地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiandi.md)
+
 <p><span class="chinese">所有来盐碱地的旅行都非常程序化。</span><span class="english">All the tours to the salt flats are really standard.</span></p>
 
 <p><span class="chinese">盐碱地和泥滩吸引了大量水鸟。</span><span class="english">The salt marshes and mud flats attract large numbers of waterfowl.</span></p>

@@ -1,5 +1,7 @@
 # panacea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panacea.md)
+
 <p><span class="chinese">一种可能的万能药？</span><span class="english">A possible panacea?</span></p>
 
 <p><span class="chinese">当然它并非灵丹妙药。</span><span class="english">It isn’t a panacea.</span></p>

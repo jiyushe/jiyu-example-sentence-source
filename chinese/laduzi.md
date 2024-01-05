@@ -1,5 +1,7 @@
 # 拉肚子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laduzi.md)
+
 <p><span class="chinese">他拉肚子。</span><span class="english">He has trouble with diarrhea.</span></p>
 
 <p><span class="chinese">有什么好办法治疗拉肚子?。</span><span class="english">What tweak treats have loose bowels ?</span></p>

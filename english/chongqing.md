@@ -1,5 +1,7 @@
 # chongqing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chongqing.md)
+
 <p><span class="chinese">她是重庆人。</span><span class="english">She is chongqing.</span></p>
 
 <p><span class="chinese">重庆火锅也是举世闻名的。</span><span class="english">Chongqing hot pot is famous.</span></p>

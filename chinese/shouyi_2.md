@@ -1,5 +1,7 @@
 # 寿衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyi_2.md)
+
 <p><span class="chinese">我会来做寿衣。</span><span class="english">I'll make the shroud.</span></p>
 
 <p><span class="chinese">谁为他做寿衣？</span><span class="english">Who'll make his shroud?</span></p>

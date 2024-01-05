@@ -1,5 +1,7 @@
 # receptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receptor.md)
+
 <p><span class="chinese">为接受体迷所提供的。</span><span class="english">For the receptor afficionado.</span></p>
 
 <p><span class="chinese">其血凝素受体为糖类。</span><span class="english">The receptor for hemagglutinin may be a carbohydrate.</span></p>

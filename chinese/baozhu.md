@@ -1,5 +1,7 @@
 # 宝珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baozhu.md)
+
 <p><span class="chinese">两只宝珠般的圆眼，放射出白光。</span><span class="english">Sarah-like round eyes, emits white light.</span></p>
 
 <p><span class="chinese">丁香在回家的路上碰到宝珠，宝珠说珍珠事了。</span><span class="english">Clove encounter on the way home, orb said pearl.</span></p>

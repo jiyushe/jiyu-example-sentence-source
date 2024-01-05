@@ -1,5 +1,7 @@
 # nikko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nikko.md)
+
 <p><span class="chinese">女公爵目光冷峻地盯着尼科。</span><span class="english">The Duchess levelled a deadly look at Nikko.</span></p>
 
 <p><span class="chinese">布莱恩和日光的搜寻仍在继续进行，但是，他们的遗体永远没被找到。</span><span class="english">The search for Brian and Nikko continued, but their bodies were never found.</span></p>

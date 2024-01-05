@@ -1,5 +1,7 @@
 # ripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripe.md)
+
 <p><span class="chinese">桃子成熟了。</span><span class="english">The peaches are ripe.</span></p>
 
 <p><span class="chinese">这些葡萄熟了。</span><span class="english">These grapes are ripe.</span></p>

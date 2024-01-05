@@ -1,5 +1,7 @@
 # gnawing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnawing.md)
+
 <p><span class="chinese">狗啃骨头无同伴。</span><span class="english">A dog gnawing a bone.</span></p>
 
 <p><span class="chinese">那狗在啃骨头。</span><span class="english">The dog was gnawing a bone.</span></p>

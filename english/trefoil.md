@@ -1,5 +1,7 @@
 # trefoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trefoil.md)
+
 <p><span class="chinese">“鸟足三叶草”因何而得名？</span><span class="english">Why is bird's foot trefoil so called?</span></p>
 
 <p><span class="chinese">长草坪上长满了三叶草和苜蓿，也有很多雏菊。</span><span class="english">Trefoil and clover cover the long lawn, daisies too.</span></p>

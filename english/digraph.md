@@ -1,5 +1,7 @@
 # digraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digraph.md)
+
 <p><span class="chinese">有向图d是单连的。</span><span class="english">A digraph D is unilateral.</span></p>
 
 <p><span class="chinese">我们将把“有方向的图”简称为方向图。</span><span class="english">We shall abbreviate "directed graph" to digraph.</span></p>

@@ -1,5 +1,7 @@
 # chimerical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chimerical.md)
+
 <p><span class="chinese">那是一道幻见中的彩虹桥。</span><span class="english">That is the chimerical rainbow bridge.</span></p>
 
 <p><span class="chinese">他又从空想的恐怖掉进了现实的恐怖。</span><span class="english">He fell back from chimerical terrors to real terrors.</span></p>

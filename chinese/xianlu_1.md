@@ -1,5 +1,7 @@
 # 线路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianlu_1.md)
+
 <p><span class="chinese">也许是线路问题</span><span class="english">It's probably the wire.</span></p>
 
 <p><span class="chinese">可变延迟线路?。</span><span class="english">VDL? Variable Delay Line?</span></p>

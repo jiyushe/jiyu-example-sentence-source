@@ -1,5 +1,7 @@
 # sunlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunlike.md)
+
 <p><span class="chinese">首张绕类日恒星运转的行星照片？</span><span class="english">First Picture of Alien Planet Orbiting Sunlike Star?</span></p>
 
 <p><span class="chinese">在此距离之内，一个像太阳这样的恒星可以通过大型望远镜观测到。</span><span class="english">At that distance, a sunlike star is visible through binoculars.</span></p>

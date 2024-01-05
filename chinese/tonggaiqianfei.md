@@ -1,5 +1,7 @@
 # 痛改前非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggaiqianfei.md)
+
 <p><span class="chinese">该是痛改前非的时候了。</span><span class="english">It was time for a change.</span></p>
 
 <p><span class="chinese">希望他能够痛改前非，走上正轨。</span><span class="english">I hope he can redeem himself.</span></p>

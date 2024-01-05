@@ -1,5 +1,7 @@
 # additional 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/additional.md)
+
 <p><span class="chinese">什么是附加险?。</span><span class="english">What are additional risks?</span></p>
 
 <p><span class="chinese">出现了另外一些子选项卡。</span><span class="english">Additional sub-tabs appear.</span></p>

@@ -1,5 +1,7 @@
 # pyrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrite.md)
+
 <p><span class="chinese">黄铁矿与铵油炸药之间的反应被阻止了。</span><span class="english">The reaction between pyrite and ANFO is prevented.</span></p>
 
 <p><span class="chinese">且金与黄铁矿及毒砂关系密切。</span><span class="english">And the gold was close with pyrite and arsenopyrite.</span></p>

@@ -1,5 +1,7 @@
 # gossip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gossip.md)
+
 <p><span class="chinese">不要说闲话。</span><span class="english">Avoid gossip.</span></p>
 
 <p><span class="chinese">她爱搬弄是非。</span><span class="english">She is a gossip.</span></p>

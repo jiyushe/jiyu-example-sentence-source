@@ -1,5 +1,7 @@
 # karnataka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karnataka.md)
+
 <p><span class="chinese">今年，也可能是顶部卡纳塔克邦反基督教的攻击。</span><span class="english">This year, too, Karnataka is likely to top anti-Christian attacks.</span></p>
 
 <p><span class="chinese">到目前为止，卡纳塔克邦收购的烟草达1.26亿公斤。</span><span class="english">As much as 126 million kg of tobacco has been harvested in Karnataka so far.</span></p>

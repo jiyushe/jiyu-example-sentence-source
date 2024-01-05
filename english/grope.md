@@ -1,5 +1,7 @@
 # grope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grope.md)
+
 <p><span class="chinese">我是怎样工作的？我摸索�往前走。</span><span class="english">How do I work? I grope.</span></p>
 
 <p><span class="chinese">祂要他去摸索和发现。</span><span class="english">To grope and discover, to romp and run.</span></p>

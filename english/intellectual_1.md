@@ -1,5 +1,7 @@
 # intellectual 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intellectual_1.md)
+
 <p><span class="chinese">嗯,鲁思更加聪明。</span><span class="english">Well,Ruth is more intellectual.</span></p>
 
 <p><span class="chinese">牛顿是一个智力巨人。</span><span class="english">Newton was an intellectual giant.</span></p>

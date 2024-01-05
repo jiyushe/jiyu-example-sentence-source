@@ -1,5 +1,7 @@
 # censure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/censure.md)
+
 <p><span class="chinese">他带来的特朗普既是谴责又是模仿。</span><span class="english">His Trump is as much censure as impersonation.</span></p>
 
 <p><span class="chinese">这样的夸奖我不敢当，这样的责备我也不敢当。</span><span class="english">I deserve neither such praise nor such censure.</span></p>

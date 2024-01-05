@@ -1,5 +1,7 @@
 # 有孔虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youkongchong.md)
+
 <p><span class="chinese">有孔虫大多具有错综复杂的碳酸钙甲壳。</span><span class="english">Most have intricate shells made of calcium carbonate.</span></p>
 
 <p><span class="chinese">有孔虫类显示了外围浅海的古代水深。</span><span class="english">Foraminifera indicate an outer neritic paleobathymetric setting.</span></p>

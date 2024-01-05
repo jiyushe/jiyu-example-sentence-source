@@ -1,5 +1,7 @@
 # parasailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasailing.md)
+
 <p><span class="chinese">事实上你也在迪斯尼玩帆伞，这很容易做到。</span><span class="english">You can actually go parasailing at Walt Disney World.</span></p>
 
 <p><span class="chinese">飞鱼，水上滑翔伞一趟，摩托艇15分钟。</span><span class="english">Fly Fish, Parasailing for one round, Jet Ski for 15 minute.</span></p>

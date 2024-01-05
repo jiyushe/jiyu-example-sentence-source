@@ -1,5 +1,7 @@
 # pepper 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pepper.md)
+
 <p><span class="chinese">他遇见了胡椒。</span><span class="english">He met Pepper.</span></p>
 
 <p><span class="chinese">辣椒辣得我舌头发麻。</span><span class="english">The pepper bit my tongue.</span></p>

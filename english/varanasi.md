@@ -1,5 +1,7 @@
 # varanasi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varanasi.md)
+
 <p><span class="chinese">在恒河边火葬日夜不息。</span><span class="english">The cremation ghats in Varanasi burn day and night.</span></p>
 
 <p><span class="chinese">片子的背景和颜色都非常出色。</span><span class="english">And the backdrop and colour of Varanasi were brilliant.</span></p>

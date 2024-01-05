@@ -1,5 +1,7 @@
 # compilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compilation.md)
+
 <p><span class="chinese">这样应该可以去掉编辑错误。</span><span class="english">This should get rid of your compilation errors.</span></p>
 
 <p><span class="chinese">运行编译和打包的子过程。</span><span class="english">Run the compilation and packaging sub-processes.</span></p>

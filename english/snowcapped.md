@@ -1,5 +1,7 @@
 # snowcapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowcapped.md)
+
 <p><span class="chinese">让自由从科罗拉多的顶部被雪所盖着的落矶山脉响！</span><span class="english">Let freedom ring from the snowcapped Rockies of Colorado!</span></p>
 
 <p><span class="chinese">我可以看见冰雪盖顶的高山在远处闪闪发光。</span><span class="english">I could see snowcapped mountains glittering in the distance.</span></p>

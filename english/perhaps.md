@@ -1,5 +1,7 @@
 # perhaps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perhaps.md)
+
 <p><span class="chinese">也许是我的。</span><span class="english">Perhaps is my.</span></p>
 
 <p><span class="chinese">可能是一银币。</span><span class="english">An obol perhaps.</span></p>

@@ -1,5 +1,7 @@
 # forwardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forwardly.md)
+
 <p><span class="chinese">他没有上进的理想，也没有贪图享受的奢望。</span><span class="english">He had no forwardly idea or desire for enjoyment.</span></p>
 
 <p><span class="chinese">当你与别人初次见面时，你应该主动问好。</span><span class="english">When you meet others first time, you should say "hello" forwardly.</span></p>

@@ -1,5 +1,7 @@
 # shoeshine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoeshine.md)
+
 <p><span class="chinese">我是用的缝纫机油，别用鞋油就行。^_^。</span><span class="english">I use sartorius oil. Don't use shoeshine.</span></p>
 
 <p><span class="chinese">颜色相近的鞋油也可以起到同样的作用。</span><span class="english">The shoeshine of color close also can have similar action.</span></p>

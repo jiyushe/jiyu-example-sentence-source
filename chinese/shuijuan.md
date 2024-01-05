@@ -1,5 +1,7 @@
 # 税捐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijuan.md)
+
 <p><span class="chinese">他们希望税捐略微减少。</span><span class="english">They are hoping for a small diminution in taxes.</span></p>
 
 <p><span class="chinese">演讲者抨击了政府的税捐提案。</span><span class="english">The speaker lit into the government for its tax bill.</span></p>

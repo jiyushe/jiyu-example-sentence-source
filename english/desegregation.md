@@ -1,5 +1,7 @@
 # desegregation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desegregation.md)
+
 <p><span class="chinese">林肯在消除种族歧视上做了很多工作。</span><span class="english">Lincoln did much work on desegregation in USA.</span></p>
 
 <p><span class="chinese">南非政府很努力于废止种族隔离。</span><span class="english">The Government of South Africa is working hard on desegregation.</span></p>

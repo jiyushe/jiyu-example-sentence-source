@@ -1,5 +1,7 @@
 # wariness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wariness.md)
+
 <p><span class="chinese">而且谨慎不应该被误解为失败主义。</span><span class="english">Yet wariness should not be mistaken for defeatism.</span></p>
 
 <p><span class="chinese">历史表明绝对应当谨慎使用“衰退”一词。</span><span class="english">There certainly is a history of wariness about using the R-word.</span></p>

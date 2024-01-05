@@ -1,5 +1,7 @@
 # 性质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhi_3.md)
+
 <p><span class="chinese">什么性质的工作？</span><span class="english">What kind of jobs?</span></p>
 
 <p><span class="chinese">该书性质我社不作规定，任何主题之任何书籍均可。</span><span class="english">Any book on any subject.</span></p>

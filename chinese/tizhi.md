@@ -1,5 +1,7 @@
 # 体制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tizhi.md)
+
 <p><span class="chinese">现在我进了局子，法律体制把我搞糊涂了。</span><span class="english">Now here I go gettin' lost in the system.</span></p>
 
 <p><span class="chinese">这些农奴主因而享有两种体制的好处。</span><span class="english">The overlords had the best of both worlds.</span></p>

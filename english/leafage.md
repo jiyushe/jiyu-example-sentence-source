@@ -1,5 +1,7 @@
 # leafage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leafage.md)
+
 <p><span class="chinese">所有从句都是树的叶子。</span><span class="english">All subordinate clause are trees leafage.</span></p>
 
 <p><span class="chinese">有些植物无根也无叶。</span><span class="english">Some plants have neither root nor leafage.</span></p>

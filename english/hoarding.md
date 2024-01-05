@@ -1,5 +1,7 @@
 # hoarding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoarding.md)
+
 <p><span class="chinese">他这批货囤得很及时。</span><span class="english">His hoarding came just in time.</span></p>
 
 <p><span class="chinese">并非我们所见到的一切都值得储藏。</span><span class="english">Not all we see is worth hoarding.</span></p>

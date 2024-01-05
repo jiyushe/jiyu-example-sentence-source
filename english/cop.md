@@ -1,5 +1,7 @@
 # cop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cop.md)
+
 <p><span class="chinese">我是个真正的警察。</span><span class="english">I'm a real cop.</span></p>
 
 <p><span class="chinese">他是个好警察。</span><span class="english">He's a good cop.</span></p>

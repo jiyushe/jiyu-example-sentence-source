@@ -1,5 +1,7 @@
 # exudation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exudation.md)
+
 <p><span class="chinese">它的表面渗出物很少。</span><span class="english">Surface exudation is minimal.</span></p>
 
 <p><span class="chinese">玻璃相渗出温度。</span><span class="english">Exudation temperature of glass phase.</span></p>

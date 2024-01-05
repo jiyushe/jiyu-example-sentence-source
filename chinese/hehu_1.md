@@ -1,5 +1,7 @@
 # 呵护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hehu_1.md)
+
 <p><span class="chinese">他的母亲呵护着他。</span><span class="english">His mom smothers him.</span></p>
 
 <p><span class="chinese">愿所有的吉星呵护着你！</span><span class="english">I hope all of you the care!</span></p>

@@ -1,5 +1,7 @@
 # spiritless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiritless.md)
+
 <p><span class="chinese">一个懒惰的人＇的生活单调和沉闷。</span><span class="english">A lazy man's life is dull and spiritless.</span></p>
 
 <p><span class="chinese">奋力爬出诠释懦弱的悬崖。</span><span class="english">Crawls furiously the annotation spiritless cliff.</span></p>

@@ -1,5 +1,7 @@
 # oiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oiling.md)
+
 <p><span class="chinese">洗衣机需要加点油。</span><span class="english">The washing machine needs oiling.</span></p>
 
 <p><span class="chinese">钥匙转不动了，它需要上油了。</span><span class="english">The key won't move, it need oiling.</span></p>

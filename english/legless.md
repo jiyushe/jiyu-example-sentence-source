@@ -1,5 +1,7 @@
 # legless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legless.md)
+
 <p><span class="chinese">批评家，是教人跑步的无腿的人。</span><span class="english">A critic is a legless man who teaches running.</span></p>
 
 <p><span class="chinese">那无腿军人于是被带出来，和其馀二十九人一起上绞刑台。</span><span class="english">The legless man was carried out and hanged with the others.</span></p>

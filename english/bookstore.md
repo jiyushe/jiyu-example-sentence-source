@@ -1,5 +1,7 @@
 # bookstore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookstore.md)
+
 <p><span class="chinese">那个书店在淮海路上。</span><span class="english">The bookstore is in Huaihai Road.</span></p>
 
 <p><span class="chinese">在沿河路有一家书店。</span><span class="english">There's a bookstore on River Road.</span></p>

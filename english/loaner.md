@@ -1,5 +1,7 @@
 # loaner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loaner.md)
+
 <p><span class="chinese">我首先借来一个笔记本电脑。</span><span class="english">I first of all get a loaner laptop.</span></p>
 
 <p><span class="chinese">但是不要对免费借用车库的那台普瑞斯太惊讶。</span><span class="english">But never mind the free loaner Priuses in the garage.</span></p>

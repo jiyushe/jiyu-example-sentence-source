@@ -1,5 +1,7 @@
 # 老大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoda.md)
+
 <p><span class="chinese">我叫李老大。</span><span class="english">I call Li old.</span></p>
 
 <p><span class="chinese">我没有，我是叫老大，真是的。</span><span class="english">I just call them, bub.</span></p>

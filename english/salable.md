@@ -1,5 +1,7 @@
 # salable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salable.md)
+
 <p><span class="chinese">他的画是非常畅销的。</span><span class="english">His paintings are highly salable.</span></p>
 
 <p><span class="chinese">只有这样才能生产出销售的产品。</span><span class="english">Before he can produce a salable product.</span></p>

@@ -1,5 +1,7 @@
 # boxwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boxwood.md)
+
 <p><span class="chinese">什么是日本黄杨木？。</span><span class="english">What is Japanese Boxwood?</span></p>
 
 <p><span class="chinese">这个天鹅木梳是用黄杨木制成的。</span><span class="english">This swan comb is made of boxwood.</span></p>

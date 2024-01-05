@@ -1,5 +1,7 @@
 # gust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gust.md)
+
 <p><span class="chinese">卷地风来忽吹散。</span><span class="english">Suddenly blowing a huge gust.</span></p>
 
 <p><span class="chinese">一阵强风短时期的狂风或阵风。</span><span class="english">A brief gust or blast of wind.</span></p>

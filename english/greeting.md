@@ -1,5 +1,7 @@
 # greeting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greeting.md)
+
 <p><span class="chinese">作为见面礼的熊？</span><span class="english">As a gift of greeting?</span></p>
 
 <p><span class="chinese">他慢吞吞地对她说声问候。</span><span class="english">He drawled a greeting to her.</span></p>

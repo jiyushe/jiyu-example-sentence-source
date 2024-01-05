@@ -1,5 +1,7 @@
 # 共同市场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtongshichang.md)
+
 <p><span class="chinese">为SADC建立一个电力共同市场</span><span class="english">Creating a common market for electricity in SADC</span></p>
 
 <p><span class="chinese">为了实现全球化这一理念，世界上建立了自由贸易区和共同市场。</span><span class="english">Free trade and common markets were created to facilitate the idea.</span></p>

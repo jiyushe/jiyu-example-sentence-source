@@ -1,5 +1,7 @@
 # 别具一格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biejuyige.md)
+
 <p><span class="chinese">他的写作方法别具一格。</span><span class="english">He writes in a very individual way.</span></p>
 
 <p><span class="chinese">武夷岩茶的冲泡，别具一格。</span><span class="english">Wuyi rock tea brewing, having a unique style.</span></p>

@@ -1,5 +1,7 @@
 # 第一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyi_1.md)
+
 <p><span class="chinese">第一，修复。</span><span class="english">First, repair.</span></p>
 
 <p><span class="chinese">第一份酒！</span><span class="english">First libation!</span></p>

@@ -1,5 +1,7 @@
 # anorexic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anorexic.md)
+
 <p><span class="chinese">她们每个人都有厌食症。</span><span class="english">Each of whom had been diagnosed anorexic.</span></p>
 
 <p><span class="chinese">很显然你不可能成为一名顶尖运动员，同时又是个厌食症病人。</span><span class="english">Obviously, you can’t be a top athlete andbe anorexic.</span></p>

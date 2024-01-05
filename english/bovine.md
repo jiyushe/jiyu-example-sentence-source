@@ -1,5 +1,7 @@
 # bovine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bovine.md)
+
 <p><span class="chinese">嗯，有人想起重组牛生长激素吗？</span><span class="english">of recombinant bovine growth hormone?</span></p>
 
 <p><span class="chinese">牛丛，字表龄，僧孺之子。</span><span class="english">Bovine plexus, the word table age, Sengru son.</span></p>

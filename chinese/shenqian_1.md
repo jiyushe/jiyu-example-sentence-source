@@ -1,5 +1,7 @@
 # 身前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqian_1.md)
+
 <p><span class="chinese">她的身前被放了一碗水。</span><span class="english">A bowl of water is set before her.</span></p>
 
 <p><span class="chinese">开始，妈妈不太喜欢把他带在身前。</span><span class="english">At first, she did not like carrying him in front.</span></p>

@@ -1,5 +1,7 @@
 # heartwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartwood.md)
+
 <p><span class="chinese">边材为粉红色，心材为粉红褐色。</span><span class="english">The sapwood is pinkish and the heartwood pinkish-brown.</span></p>
 
 <p><span class="chinese">重硬且心材呈浓色者可供作木艺品制造用。</span><span class="english">Heavy wood with dark colored heartwood used for ornaments.</span></p>

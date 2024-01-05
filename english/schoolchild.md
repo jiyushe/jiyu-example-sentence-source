@@ -1,5 +1,7 @@
 # schoolchild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolchild.md)
+
 <p><span class="chinese">一个柬埔寨的小学生也可以申请Gmail帐号。</span><span class="english">A schoolchild in Cambodia can have a Gmail account.</span></p>
 
 <p><span class="chinese">图为印度儿童乘人力车回家的情景。</span><span class="english">Indian schoolchild ren riding a rickshaw back home.</span></p>

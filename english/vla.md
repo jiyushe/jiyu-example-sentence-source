@@ -1,5 +1,7 @@
 # vla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vla.md)
+
 <p><span class="chinese">你不能够初始化VLA。</span><span class="english">You cannot initialize a VLA.</span></p>
 
 <p><span class="chinese">同样，对于VLA类飞机也是如此。</span><span class="english">This is also true for VLA aircraft.</span></p>

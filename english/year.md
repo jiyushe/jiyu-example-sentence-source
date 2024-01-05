@@ -1,5 +1,7 @@
 # year 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/year.md)
+
 <p><span class="chinese">但是明年。</span><span class="english">But next year.</span></p>
 
 <p><span class="chinese">新年快乐?</span><span class="english">Happy new year?</span></p>

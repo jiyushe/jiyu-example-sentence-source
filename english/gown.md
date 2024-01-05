@@ -1,5 +1,7 @@
 # gown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gown.md)
+
 <p><span class="chinese">田野穿上绯红色的衣袍。</span><span class="english">The field a scarlet gown.</span></p>
 
 <p><span class="chinese">田野穿上多彩的礼服。</span><span class="english">The field as carlet gown.</span></p>

@@ -1,5 +1,7 @@
 # radiosonde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiosonde.md)
+
 <p><span class="chinese">无线电探空仪可以自由地上升到尽可能高的高度。</span><span class="english">A radiosonde is free to rise to as great an elevation as possible.</span></p>
 
 <p><span class="chinese">海洋不能象我们在陆地那样通过无线电探空仪获得准确的气象资料。</span><span class="english">Because we cannot get the atmospheric parameters over the ocean as the land that get from the radiosonde.</span></p>

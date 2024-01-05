@@ -1,5 +1,7 @@
 # 唐突
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangtu.md)
+
 <p><span class="chinese">那样的唐突很不寻常。</span><span class="english">The brusqueness is unusual.</span></p>
 
 <p><span class="chinese">它看起来一点都不唐突。</span><span class="english">It seems pretty unobtrusive.</span></p>

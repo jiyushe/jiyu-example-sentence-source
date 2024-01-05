@@ -1,5 +1,7 @@
 # dockyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dockyard.md)
+
 <p><span class="chinese">因为这是伦敦一个相当出名的造船所。</span><span class="english">because it was quite a famous dockyard within London.</span></p>
 
 <p><span class="chinese">结合造船厂管理学可以建造更大的舰船。</span><span class="english">Combined with Dockyard Management it allows you to build bigger ships.</span></p>

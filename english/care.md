@@ -1,5 +1,7 @@
 # care 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/care.md)
+
 <p><span class="chinese">再见。</span><span class="english">Take care.</span></p>
 
 <p><span class="chinese">我不在乎。</span><span class="english">I don't care.</span></p>

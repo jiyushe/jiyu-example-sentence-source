@@ -1,5 +1,7 @@
 # 治疗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliao.md)
+
 <p><span class="chinese">药物治疗。</span><span class="english">Medication.</span></p>
 
 <p><span class="chinese">根管治疗！</span><span class="english">Root canal.</span></p>

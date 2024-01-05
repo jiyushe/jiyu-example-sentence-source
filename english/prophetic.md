@@ -1,5 +1,7 @@
 # prophetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophetic.md)
+
 <p><span class="chinese">你真是料事如神。</span><span class="english">You are prophetic.</span></p>
 
 <p><span class="chinese">这的确是个预言。</span><span class="english">It was certainly prophetic.</span></p>

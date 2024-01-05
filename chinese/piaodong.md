@@ -1,5 +1,7 @@
 # 飘动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaodong.md)
+
 <p><span class="chinese">树叶在暴风雨中飘动。</span><span class="english">The leaves drift in the storm.</span></p>
 
 <p><span class="chinese">一面小旗在微风中飘动。</span><span class="english">A small flag fluttered in the breeze.</span></p>

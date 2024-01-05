@@ -1,5 +1,7 @@
 # useless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/useless.md)
+
 <p><span class="chinese">这收据没什么用。</span><span class="english">It's useless.</span></p>
 
 <p><span class="chinese">我就是一无用处。</span><span class="english">I’m just useless.</span></p>

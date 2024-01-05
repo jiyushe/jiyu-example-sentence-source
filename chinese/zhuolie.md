@@ -1,5 +1,7 @@
 # 拙劣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuolie.md)
+
 <p><span class="chinese">这绝对是拙劣的典型。</span><span class="english">This is absolutely the pits.</span></p>
 
 <p><span class="chinese">大家对他的拙劣发言均很反感。</span><span class="english">His clumsy speech annoyed everyone.</span></p>

@@ -1,5 +1,7 @@
 # mughal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mughal.md)
+
 <p><span class="chinese">泰姬陵是由17世纪时印度的莫卧儿王朝建造的。</span><span class="english">Taj Mahal mausoleum was built by the Mughal in the 17th century.</span></p>
 
 <p><span class="chinese">数十年之后，像荷兰这样的国家也效仿了蒙兀儿的道路。</span><span class="english">Decades later, countries such as the Netherlands followed the Mughal path.</span></p>

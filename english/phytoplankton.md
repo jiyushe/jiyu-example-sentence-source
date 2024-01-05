@@ -1,5 +1,7 @@
 # phytoplankton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytoplankton.md)
+
 <p><span class="chinese">浮游植物可作为环境变化的指示生物</span><span class="english">Phytoplankton as indicators of environmental change</span></p>
 
 <p><span class="chinese">浮游植物的数量可以在数天或数周内爆炸性增长。</span><span class="english">Phytoplankton can grow explosively over a few days or weeks.</span></p>

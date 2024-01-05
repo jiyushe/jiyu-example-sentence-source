@@ -1,5 +1,7 @@
 # capstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capstone.md)
+
 <p><span class="chinese">金字塔的顶石已经一去不复返。</span><span class="english">The capstone of the pyramid has been removed.</span></p>
 
 <p><span class="chinese">波尔的而工作重点是巴尔末公式。</span><span class="english">Capstone of Bohr's work on the Balmer formula.</span></p>

@@ -1,5 +1,7 @@
 # 前期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqi_1.md)
+
 <p><span class="chinese">前期怂比狗头人，后期超神人头狗。</span><span class="english">Like a dog, like a god.</span></p>
 
 <p><span class="chinese">前期草案的内容是什么？</span><span class="english">What is in the early draft?</span></p>

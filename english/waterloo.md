@@ -1,5 +1,7 @@
 # waterloo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterloo.md)
+
 <p><span class="chinese">滑铁卢是什么？</span><span class="english">What is Waterloo?</span></p>
 
 <p><span class="chinese">他共画了几张滑铁卢桥呀？</span><span class="english">Waterloo Bridge, London, at Dusk.</span></p>

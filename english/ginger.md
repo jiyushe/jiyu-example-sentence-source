@@ -1,5 +1,7 @@
 # ginger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ginger.md)
+
 <p><span class="chinese">姜是一种香料。</span><span class="english">Ginger is a spice.</span></p>
 
 <p><span class="chinese">姜是辣的。</span><span class="english">Ginger tastes hot.</span></p>

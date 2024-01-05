@@ -1,5 +1,7 @@
 # byron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byron.md)
+
 <p><span class="chinese">固然可以。我的名儿叫拜伦。</span><span class="english">Sure. My name is Byron.</span></p>
 
 <p><span class="chinese">我的英文名字叫Byron。</span><span class="english">My English name is Byron.</span></p>

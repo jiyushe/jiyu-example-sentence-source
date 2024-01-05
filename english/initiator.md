@@ -1,5 +1,7 @@
 # initiator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initiator.md)
+
 <p><span class="chinese">发起人。</span><span class="english">Initiator.</span></p>
 
 <p><span class="chinese">神是源头与创始者。</span><span class="english">God is the Source & Initiator.</span></p>

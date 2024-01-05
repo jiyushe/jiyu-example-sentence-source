@@ -1,5 +1,7 @@
 # thoth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoth.md)
+
 <p><span class="chinese">人类的教师，图特就是全部。</span><span class="english">THOTH the teacher of men, is of ALL.</span></p>
 
 <p><span class="chinese">索思是古埃及神。</span><span class="english">Thoth is an unusual god of ancient Egypt.</span></p>

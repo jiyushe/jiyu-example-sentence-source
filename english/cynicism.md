@@ -1,5 +1,7 @@
 # cynicism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cynicism.md)
+
 <p><span class="chinese">既有简洁，又有玩世不恭。</span><span class="english">has both terseness and cynicism.</span></p>
 
 <p><span class="chinese">不真实的民主孳生犬儒主义。</span><span class="english">A feigned democracy breeds cynicism.</span></p>

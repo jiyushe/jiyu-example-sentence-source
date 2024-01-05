@@ -1,5 +1,7 @@
 # drug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drug.md)
+
 <p><span class="chinese">爱情是一种毒品。</span><span class="english">Love is a drug.</span></p>
 
 <p><span class="chinese">你们是否会做药物测试？</span><span class="english">Do you do a drug test?</span></p>

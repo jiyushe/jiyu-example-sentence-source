@@ -1,5 +1,7 @@
 # discredit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discredit.md)
+
 <p><span class="chinese">没有不名誉或犯罪行为的记录的。</span><span class="english">Having no marks of discredit or offense.</span></p>
 
 <p><span class="chinese">有充分的理由怀疑此证人。</span><span class="english">There was good reason to discredit the witness.</span></p>

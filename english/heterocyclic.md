@@ -1,5 +1,7 @@
 # heterocyclic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterocyclic.md)
+
 <p><span class="chinese">杂环酯，酰胺，硫代酸酯和酮的N-氧化物。</span><span class="english">N-oxides of heterocyclic esters, amides, thioesters, and ketones.</span></p>
 
 <p><span class="chinese">提供了调节大麻素受体的杂环化合物。</span><span class="english">Heterocyclic compounds which modulate cannabinoid receptors are presented.</span></p>

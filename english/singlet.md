@@ -1,5 +1,7 @@
 # singlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singlet.md)
+
 <p><span class="chinese">将你的汗衫拉直。</span><span class="english">Straighten up your top singlet.</span></p>
 
 <p><span class="chinese">她们穿着背心和超短裙。</span><span class="english">They wear singlet and mini skirt.</span></p>

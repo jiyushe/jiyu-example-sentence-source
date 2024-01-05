@@ -1,5 +1,7 @@
 # whitest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitest.md)
+
 <p><span class="chinese">纯洁的爱就像是个罪恶…。</span><span class="english">It's pure whitest , just like sin.</span></p>
 
 <p><span class="chinese">当然，他们的皮肤是白的。</span><span class="english">And, of course, their skin is the whitest.</span></p>

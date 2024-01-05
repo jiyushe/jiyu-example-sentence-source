@@ -1,5 +1,7 @@
 # psychoanalyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychoanalyst.md)
+
 <p><span class="chinese">他是一位心理学家——或者更确切地说，一位心理分析学家。</span><span class="english">He's a psychologist-or rather, a psychoanalyst.</span></p>
 
 <p><span class="chinese">弗罗姆，德裔美籍社会哲学家，精神分析学家。</span><span class="english">Erich Fromm, German born American, social philosopher and psychoanalyst.</span></p>

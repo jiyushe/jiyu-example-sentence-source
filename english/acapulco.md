@@ -1,5 +1,7 @@
 # acapulco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acapulco.md)
+
 <p><span class="chinese">关于她去阿卡普科旅游的事。</span><span class="english">It's about her trip to Acapulco.</span></p>
 
 <p><span class="chinese">阿卡普尔科历史博物馆的所在地是古老的圣迪戈要塞。</span><span class="english">Acapulco Museum of History is the location of the ancient fortress of San Diego.</span></p>

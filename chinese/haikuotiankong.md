@@ -1,5 +1,7 @@
 # 海阔天空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haikuotiankong.md)
+
 <p><span class="chinese">退一步风平浪静，忍一时海阔天空。</span><span class="english">Step back and calm, a sports.</span></p>
 
 <p><span class="chinese">忍一时风平浪静，退一步海阔天空。</span><span class="english">Endure a calm, step back broad sky.</span></p>

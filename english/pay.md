@@ -1,5 +1,7 @@
 # pay 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pay.md)
+
 <p><span class="chinese">我要如何付钱?</span><span class="english">How can I pay?</span></p>
 
 <p><span class="chinese">用现金支付。</span><span class="english">Pay with cash.</span></p>

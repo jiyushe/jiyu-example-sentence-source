@@ -1,5 +1,7 @@
 # valedictorian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valedictorian.md)
+
 <p><span class="chinese">凯尔是我们班致告别词的学生代表。</span><span class="english">Kyle was valedictorian of our class.</span></p>
 
 <p><span class="chinese">如果我儿子是发言人，我就会很骄傲。</span><span class="english">I know I would be if my son were valedictorian.</span></p>

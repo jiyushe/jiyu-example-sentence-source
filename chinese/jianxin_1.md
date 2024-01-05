@@ -1,5 +1,7 @@
 # 见新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxin_1.md)
+
 <p><span class="chinese">你穿那见新衬衫看起来很帅。</span><span class="english">You look cool in that new shirt.</span></p>
 
 <p><span class="chinese">学生们叫嚣着要求见新校长。</span><span class="english">The students clamored to see the new president.</span></p>

@@ -1,5 +1,7 @@
 # americanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/americanization.md)
+
 <p><span class="chinese">美国化的过程。</span><span class="english">The process of Americanization.</span></p>
 
 <p><span class="chinese">移民的美国化，关键在于职业变迁。</span><span class="english">Second, the occupation mobility is the critical element of the Americanization.</span></p>

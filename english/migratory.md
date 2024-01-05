@@ -1,5 +1,7 @@
 # migratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/migratory.md)
+
 <p><span class="chinese">许多侯鸟每年都会来这湖里作短暂逗留。</span><span class="english">Many migratory birds visit this lake annually.</span></p>
 
 <p><span class="chinese">鹀亚科的鸟类是迁徙鸟类中最多的类群。</span><span class="english">Buntings are the biggest monoid of migratory bird.</span></p>

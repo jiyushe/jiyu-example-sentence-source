@@ -1,5 +1,7 @@
 # aclu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aclu.md)
+
 <p><span class="chinese">这家机构认为公司拒招吸烟者的做法是一种“生活方式歧视”。</span><span class="english">The ACLU characterizes a company’s refusal to hire smokers as “lifestyle discrimination.</span></p>
 
 <p><span class="chinese">记得，ACLU这样的组织必须遵循公共知识分子的轨迹。</span><span class="english">Recall the public-knowledge trajectory an organization like the ACLU had to follow in the past.</span></p>

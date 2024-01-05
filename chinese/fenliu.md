@@ -1,5 +1,7 @@
 # 分流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenliu.md)
+
 <p><span class="chinese">采用小晶片分流原理。</span><span class="english">Using small-chip shunt theorem.</span></p>
 
 <p><span class="chinese">递归神经网络微分流形方法。</span><span class="english">Differentiable manifolds methods in RNN.</span></p>

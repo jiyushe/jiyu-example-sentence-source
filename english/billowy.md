@@ -1,5 +1,7 @@
 # billowy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billowy.md)
+
 <p><span class="chinese">一条惊涛骇浪的河在牧牛工前面出现。</span><span class="english">One billowy river appeared in front of the Cowhand.</span></p>
 
 <p><span class="chinese">然而，在今天汹涌澎湃的经济改革大潮中。</span><span class="english">However, today the economy of billowy reforms spring tide in.</span></p>

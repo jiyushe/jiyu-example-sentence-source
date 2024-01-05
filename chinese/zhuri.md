@@ -1,5 +1,7 @@
 # 逐日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuri.md)
+
 <p><span class="chinese">他逐日改过自新。</span><span class="english">He amends day by day.</span></p>
 
 <p><span class="chinese">逐日逐时蒙祂安慰我。</span><span class="english">Walking in His comfort day by day.</span></p>

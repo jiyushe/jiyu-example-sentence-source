@@ -1,5 +1,7 @@
 # 学友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyou.md)
+
 <p><span class="chinese">他和我是同班学友。</span><span class="english">He and I are classmates.</span></p>
 
 <p><span class="chinese">都是最喜欢听学友唱的版本。</span><span class="english">Only the song from Jacky is great!</span></p>

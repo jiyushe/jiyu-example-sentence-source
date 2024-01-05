@@ -1,5 +1,7 @@
 # distorted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distorted.md)
+
 <p><span class="chinese">她的脸因恐慌而变相了。</span><span class="english">Her face distorted in panic.</span></p>
 
 <p><span class="chinese">你曲解了我的动机。</span><span class="english">You have distorted my motives.</span></p>

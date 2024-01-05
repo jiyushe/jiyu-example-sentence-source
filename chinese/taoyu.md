@@ -1,5 +1,7 @@
 # 套语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyu.md)
+
 <p><span class="chinese">“您好。”是客气的套语。</span><span class="english">"How do you do?" is a polite formula.</span></p>
 
 <p><span class="chinese">使用套语是拙劣的新闻体的特点。</span><span class="english">Cliche is a feature of bad journalism.</span></p>

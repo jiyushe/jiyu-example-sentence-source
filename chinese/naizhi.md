@@ -1,5 +1,7 @@
 # 乃至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naizhi.md)
+
 <p><span class="chinese">有的乃至是每天吃零蛋。</span><span class="english">Some even eat every day zero.</span></p>
 
 <p><span class="chinese">乃至我该不该看这部影片？</span><span class="english">Should I even watch this movie?</span></p>

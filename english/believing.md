@@ -1,5 +1,7 @@
 # believing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/believing.md)
+
 <p><span class="chinese">眼见为实吗？</span><span class="english">Is Seeing Believing?</span></p>
 
 <p><span class="chinese">相信生命不息。</span><span class="english">Believing ceaseless life.</span></p>

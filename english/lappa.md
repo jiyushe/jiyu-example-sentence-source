@@ -1,5 +1,7 @@
 # lappa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lappa.md)
+
 <p><span class="chinese">牛蒡抗氧化作用的研究。</span><span class="english">Antioxidant Effects of Arctium Lappa L.</span></p>
 
 <p><span class="chinese">牛蒡的研究现状。</span><span class="english">Progress of Reseach on Arctium lappa L.</span></p>

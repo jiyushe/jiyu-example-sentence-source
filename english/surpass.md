@@ -1,5 +1,7 @@
 # surpass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surpass.md)
+
 <p><span class="chinese">你们曾经做出什么努力来超越人呢？</span><span class="english">What have ye done to surpass man?</span></p>
 
 <p><span class="chinese">中国今年有望超越日本。</span><span class="english">China could surpass Japan this year.</span></p>

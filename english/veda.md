@@ -1,5 +1,7 @@
 # veda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veda.md)
+
 <p><span class="chinese">叶紫葳回家跟父母大干一场！</span><span class="english">Assists with parents gets a Veda home game!</span></p>
 
 <p><span class="chinese">利俱吠陀也有一首独一无二献身于他的诗。</span><span class="english">A hymn is also dedicated to him alone in Rig Veda.</span></p>

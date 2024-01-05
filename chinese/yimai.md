@@ -1,5 +1,7 @@
 # 义卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimai.md)
+
 <p><span class="chinese">为贫民举行了义卖。</span><span class="english">A bazaar was held for the poor.</span></p>
 
 <p><span class="chinese">开展感恩节糕饼义卖慈善活动。</span><span class="english">Hold a Thanksgiving charity bake sale.</span></p>

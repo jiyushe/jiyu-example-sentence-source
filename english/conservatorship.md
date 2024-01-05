@@ -1,5 +1,7 @@
 # conservatorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservatorship.md)
+
 <p><span class="chinese">他说，公司可能会在政府管理下再运行4到5年。</span><span class="english">The companies may be operating in conservatorship for another four to five years, he said.</span></p>
 
 <p><span class="chinese">布什政府说，房利美和房地美目前处于政府接管状态中，政府还任命了这两个机构的新领导人。</span><span class="english">The Bush administration says Fannie Mae and Freddie Mac are being placed in a government conservatorship with new executive leadership.</span></p>

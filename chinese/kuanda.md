@@ -1,5 +1,7 @@
 # 宽大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanda.md)
+
 <p><span class="chinese">爱情座椅是一种宽大的椅子。</span><span class="english">A love seat is a wide chair.</span></p>
 
 <p><span class="chinese">宽大的长条桌和条凳。</span><span class="english">Wide long tables and lifestyle.</span></p>

@@ -1,5 +1,7 @@
 # mimicry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimicry.md)
+
 <p><span class="chinese">模仿能增加好感么？</span><span class="english">Does mimicry increase liking?</span></p>
 
 <p><span class="chinese">受自然的启发，这个线缆车锁是对常春藤的模仿设计。</span><span class="english">Inspired by nature, the design of this cable wire lock is a mimicry of ivy.</span></p>

@@ -1,5 +1,7 @@
 # mockingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mockingly.md)
+
 <p><span class="chinese">而它叽里咕噜，又是大笑又是痛哭，嘲笑着</span><span class="english">And it jabbers laughing pain-crying mockingly</span></p>
 
 <p><span class="chinese">她的刻度的继母只是取笑她，被告诉她</span><span class="english">Her wicked stepmother just laughed mockingly and told her</span></p>

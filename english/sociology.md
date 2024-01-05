@@ -1,5 +1,7 @@
 # sociology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociology.md)
+
 <p><span class="chinese">对于迪尔凯姆来说社会学是一种职业。</span><span class="english">For Durkheim, sociology was a vocation.</span></p>
 
 <p><span class="chinese">这是一项社会学的个案研究。</span><span class="english">This is a case-study in the field of sociology.</span></p>

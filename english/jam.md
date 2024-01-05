@@ -1,5 +1,7 @@
 # jam 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jam.md)
+
 <p><span class="chinese">我只是想要果酱。</span><span class="english">I just need jam.</span></p>
 
 <p><span class="chinese">做草莓酱。</span><span class="english">Make strawberry jam.</span></p>

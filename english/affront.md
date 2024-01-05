@@ -1,5 +1,7 @@
 # affront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affront.md)
+
 <p><span class="chinese">你怎样面对失败？</span><span class="english">How do you affront your failure?</span></p>
 
 <p><span class="chinese">我决不能容忍这种公开侮辱。</span><span class="english">I will pouch up no such affront.</span></p>

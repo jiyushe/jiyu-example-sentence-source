@@ -1,5 +1,7 @@
 # 笑容满面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaorongmanmian.md)
+
 <p><span class="chinese">她笑容满面。</span><span class="english">Her face was wreathed in smiles.</span></p>
 
 <p><span class="chinese">她总是笑容满面，和蔼可亲。</span><span class="english">She was always smiling, always laughing.</span></p>

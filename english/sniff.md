@@ -1,5 +1,7 @@
 # sniff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sniff.md)
+
 <p><span class="chinese">他又闻了闻酒。</span><span class="english">Another sniff of wine.</span></p>
 
 <p><span class="chinese">我喜欢呼吸海上的空气。</span><span class="english">I like to sniff the sea-air.</span></p>

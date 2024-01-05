@@ -1,5 +1,7 @@
 # 血雨腥风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyuxingfeng.md)
+
 <p><span class="chinese">在二战前美国出口血雨腥风爵士乐和蓝调。</span><span class="english">Before the Second World Warthe American exported jazz and the blues.</span></p>
 
 <p><span class="chinese">这种更喜好的血雨腥风的农业模式是从当地的田地名得来的。</span><span class="english">The preferred terms of milpa or swidden agriculture are taken from local names for field.</span></p>

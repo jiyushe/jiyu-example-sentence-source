@@ -1,5 +1,7 @@
 # 仿佛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangfu.md)
+
 <p><span class="chinese">我们仿佛置身于天堂!</span><span class="english">We were in heaven!</span></p>
 
 <p><span class="chinese">仿佛我在沧海之中。</span><span class="english">Like I'm in the sea.</span></p>

@@ -1,5 +1,7 @@
 # 反革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangeming.md)
+
 <p><span class="chinese">这是反革命案件。</span><span class="english">This is a counterrevolutionary case.</span></p>
 
 <p><span class="chinese">而由此招致的反革命也半斤八两。</span><span class="english">But here comes the counter-revolution just the same.</span></p>

@@ -1,5 +1,7 @@
 # 升腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengteng.md)
+
 <p><span class="chinese">火焰升腾。</span><span class="english">The flames leapt up.</span></p>
 
 <p><span class="chinese">浴火重生的新家园，正汇聚升腾起新的希望。</span><span class="english">Ashes of new homes, is gathering a new hope.</span></p>

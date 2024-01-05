@@ -1,5 +1,7 @@
 # rbi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rbi.md)
+
 <p><span class="chinese">他上个季度有超过100次跑垒得分。</span><span class="english">He had more than 100 RBI last season.</span></p>
 
 <p><span class="chinese">是的，康贝RBI不但关于褥疮治疗具有清楚疗效，引荐你运用！</span><span class="english">Yes, COMBO RBI has clearly not only the effect on the bedsore treatment, referral you use!</span></p>

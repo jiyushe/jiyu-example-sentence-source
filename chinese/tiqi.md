@@ -1,5 +1,7 @@
 # 提起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiqi.md)
+
 <p><span class="chinese">因此我们看了稀有提起。</span><span class="english">So we saw the Noble gases.</span></p>
 
 <p><span class="chinese">达西又提起那封信。</span><span class="english">Darcy mentioned his letter.</span></p>

@@ -1,5 +1,7 @@
 # 零敲碎打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqiaosuida.md)
+
 <p><span class="chinese">咱们一起把这事解决了，别零敲碎打了。</span><span class="english">Let's do this at one go, not scattergun!</span></p>
 
 <p><span class="chinese">把这事一气儿解决了吧，别零敲碎打了。</span><span class="english">Let's settle the matter at one stroke, not piecemeal.</span></p>

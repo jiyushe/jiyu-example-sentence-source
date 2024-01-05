@@ -1,5 +1,7 @@
 # 司仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyi.md)
+
 <p><span class="chinese">不愿成为舞蹈家、律师或司仪。</span><span class="english">A dancer, a lawyer or an MC.</span></p>
 
 <p><span class="chinese">他们有一个司仪，有喜剧，有故事曲折性，有舞台剧。</span><span class="english">They got an MC. They got comedy.</span></p>

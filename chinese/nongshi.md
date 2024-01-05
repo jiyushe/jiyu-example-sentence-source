@@ -1,5 +1,7 @@
 # 农事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongshi.md)
+
 <p><span class="chinese">我可没有操持农事的本事。</span><span class="english">I couldn’t have managed farming.</span></p>
 
 <p><span class="chinese">但我们至少可以挽救农事。</span><span class="english">But at least we could save farming.</span></p>

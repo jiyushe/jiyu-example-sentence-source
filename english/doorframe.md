@@ -1,5 +1,7 @@
 # doorframe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorframe.md)
+
 <p><span class="chinese">我的头磕在了门框上。</span><span class="english">My head bumped against the doorframe.</span></p>
 
 <p><span class="chinese">他的头撞在了门框上。</span><span class="english">He struck his head against the doorframe.</span></p>

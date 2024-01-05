@@ -1,5 +1,7 @@
 # melodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melodic.md)
+
 <p><span class="chinese">音调优美的。</span><span class="english">EF-a tale of melodic.</span></p>
 
 <p><span class="chinese">这声音清脆悦耳，真好听。</span><span class="english">The sound is so clear and melodic.</span></p>

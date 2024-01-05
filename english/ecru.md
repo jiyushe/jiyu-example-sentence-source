@@ -1,5 +1,7 @@
 # ecru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecru.md)
+
 <p><span class="chinese">酷有自我风格，独佔的丽质本色。</span><span class="english">Cool has ego style, exclusivity of beauty is ecru.</span></p>
 
 <p><span class="chinese">我司追求“本色做人，出色做事”的企业文化。</span><span class="english">We pursue "ecru personhood, outstanding work" enterprise culture.</span></p>

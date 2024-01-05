@@ -1,5 +1,7 @@
 # lincoln
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lincoln.md)
+
 <p><span class="chinese">林肯射杀了舒特。</span><span class="english">Lincoln shoots Sooter.</span></p>
 
 <p><span class="chinese">亚伯拉罕-林肯出生了。</span><span class="english">Abrahan lincoln was born.</span></p>

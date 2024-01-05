@@ -1,5 +1,7 @@
 # fellowmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fellowmen.md)
+
 <p><span class="chinese">三十年来，我一直在我的人类同胞，但至今了解多。</span><span class="english">For thirty years now I have been studying my fellowmen.</span></p>
 
 <p><span class="chinese">他将自己的智慧和热诚献给了他的同胞们。</span><span class="english">He gave of his intelligence and heart to his fellowmen.</span></p>

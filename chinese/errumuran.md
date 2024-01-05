@@ -1,5 +1,7 @@
 # 耳濡目染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/errumuran.md)
+
 <p><span class="chinese">所以，孩子在耳濡目染下就习得撒谎这项技能。</span><span class="english">Hence, kids must be edified by what they see and learn lying skills.</span></p>
 
 <p><span class="chinese">孩子从父母身上学到的大多是耳濡目染而非刻意教授。</span><span class="english">Most of what children learn from their parents isn’t taught on purpose.</span></p>

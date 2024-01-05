@@ -1,5 +1,7 @@
 # mille
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mille.md)
+
 <p><span class="chinese">米丽需要一本自己的字典。</span><span class="english">Mille needs a dictionary of her own.</span></p>
 
 <p><span class="chinese">我有意大利航空的金卡。</span><span class="english">Here is my gold card of mille miglia alitalia.</span></p>

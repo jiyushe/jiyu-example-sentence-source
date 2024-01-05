@@ -1,5 +1,7 @@
 # 鼎立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingli_4.md)
+
 <p><span class="chinese">形成三国鼎立，那么谁是魏呢？</span><span class="english">The formation of the Three Kingdoms, the Wei who is it?</span></p>
 
 <p><span class="chinese">长沙鼎立愿与您实现共赢发展。</span><span class="english">Changsha Dingli drives with you to achieve win-win development.</span></p>

@@ -1,5 +1,7 @@
 # cursive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cursive.md)
+
 <p><span class="chinese">学习草体字真的有必要吗？</span><span class="english">Was learning cursive really necessary?</span></p>
 
 <p><span class="chinese">你上一次写草书是什么时候？</span><span class="english">When was the last time you wrote cursive?</span></p>

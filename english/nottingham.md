@@ -1,5 +1,7 @@
 # nottingham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nottingham.md)
+
 <p><span class="chinese">他要求搭顺路车去诺丁汉。</span><span class="english">He thumbed his way to Nottingham.</span></p>
 
 <p><span class="chinese">我们在地图上找出了诺丁汉郡的位置。</span><span class="english">We located Nottingham on the map.</span></p>

@@ -1,5 +1,7 @@
 # shrewish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrewish.md)
+
 <p><span class="chinese">多厉害的女孩啊！</span><span class="english">What a shrewish girl!</span></p>
 
 <p><span class="chinese">被认为是不名誉的或泼辣的女人。</span><span class="english">A woman regarded as disreputable or shrewish.</span></p>

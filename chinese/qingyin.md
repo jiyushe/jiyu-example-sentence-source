@@ -1,5 +1,7 @@
 # 清音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyin.md)
+
 <p><span class="chinese">在其他地方，这种清音和浊音仍然共存。</span><span class="english">In other places, the coexistence continues.</span></p>
 
 <p><span class="chinese">雨如神仙降下的甘霖，传递着福泽众生的清音。</span><span class="english">If the rain god lowered Ganlin, Fuze creatures convey the voiceless.</span></p>

@@ -1,5 +1,7 @@
 # trunks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trunks.md)
+
 <p><span class="chinese">我有两条游泳裤。</span><span class="english">I have two pairs of swimming trunks.</span></p>
 
 <p><span class="chinese">这些柳树的树干盘根错杂，仿佛盆景一般。</span><span class="english">Their trunks are as gnarled as bonsai.</span></p>

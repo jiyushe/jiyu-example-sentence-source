@@ -1,5 +1,7 @@
 # probate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probate.md)
+
 <p><span class="chinese">他们没有权利去认证遗嘱。</span><span class="english">They're not empowered to probate the will.</span></p>
 
 <p><span class="chinese">你的遗嘱查验或信赖一定被位于在美国里面。</span><span class="english">Your Probate or Trust must be located within the United States.</span></p>

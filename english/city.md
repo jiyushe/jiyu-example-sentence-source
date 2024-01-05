@@ -1,5 +1,7 @@
 # city
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/city.md)
+
 <p><span class="chinese">城市还是机场？</span><span class="english">City or airport?</span></p>
 
 <p><span class="chinese">一座无烟城。</span><span class="english">A SMOKELESS CITY.</span></p>

@@ -1,5 +1,7 @@
 # jis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jis.md)
+
 <p><span class="chinese">窗外，天在冥冥处破晓，一刹那的光亮，在似有似无的天堂蔓延着。</span><span class="english">Out the window, day in jis at dawn, a moment of light, indistinct in the spread of the heaven.</span></p>
 
 <p><span class="chinese">试验结果表明，该弹性装饰涂料各项性能指标达到并超过了日本JIS国际标准。</span><span class="english">The results show that all of the property index of the decorative coating has come up to and surpassed the international standard JIS of Japan.</span></p>

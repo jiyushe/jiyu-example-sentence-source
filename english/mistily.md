@@ -1,5 +1,7 @@
 # mistily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistily.md)
+
 <p><span class="chinese">他迷迷糊糊地改变了注意。</span><span class="english">He changed his mind mistily.</span></p>
 
 <p><span class="chinese">他对这件事的解释有些含糊。</span><span class="english">He explained it somewhat mistily.</span></p>

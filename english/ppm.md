@@ -1,5 +1,7 @@
 # ppm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ppm.md)
+
 <p><span class="chinese">数字读取器提供直接的百万分率的高浓缩文本。</span><span class="english">Digital readout provides direct concentration readings in ppm.</span></p>
 
 <p><span class="chinese">公私混合如何提高结核病检出率并如何减少诊断延误？</span><span class="english">How does PPM increase case detection and reduce diagnostic delays</span></p>

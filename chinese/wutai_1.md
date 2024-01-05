@@ -1,5 +1,7 @@
 # 物态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wutai_1.md)
+
 <p><span class="chinese">物态化只是艺术的一种形式。</span><span class="english">State of matter is only one kind of artistic form.</span></p>
 
 <p><span class="chinese">由配分函数求出二元系统的物态方程。</span><span class="english">Then the equation of state for binary system is developed.</span></p>

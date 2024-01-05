@@ -1,5 +1,7 @@
 # goulash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goulash.md)
+
 <p><span class="chinese">我要弄红脍牛肉作晚餐。</span><span class="english">I'm preparing goulash for supper.</span></p>
 
 <p><span class="chinese">菜炖牛肉在炉子上慢慢沸腾。</span><span class="english">The goulash was simmering slowly in the oven.</span></p>

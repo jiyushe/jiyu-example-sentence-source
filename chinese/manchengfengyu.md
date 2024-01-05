@@ -1,5 +1,7 @@
 # 满城风雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manchengfengyu.md)
+
 <p><span class="chinese">那桩惊人的事情已经是满城风雨。</span><span class="english">The stirring event was well canvassed.</span></p>
 
 <p><span class="chinese">她的事儿在伦敦闹得满城风雨。</span><span class="english">All London was talking about her affairs.</span></p>

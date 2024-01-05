@@ -1,5 +1,7 @@
 # 离子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizi_2.md)
+
 <p><span class="chinese">这是一种离子气体。</span><span class="english">Here is an ion gas.</span></p>
 
 <p><span class="chinese">这是离子键。</span><span class="english">This is ionic bonding.</span></p>

@@ -1,5 +1,7 @@
 # 斗胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doudan.md)
+
 <p><span class="chinese">我能斗胆提几个改进的建议吗？</span><span class="english">May I venture to suggest a few improvements?</span></p>
 
 <p><span class="chinese">这种斗胆、煽情、唯一无二的气势气魄便称作“弗拉门戈”。</span><span class="english">This bold, provocative, 1 and unique style was named"Flamenco".</span></p>

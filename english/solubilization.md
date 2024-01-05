@@ -1,5 +1,7 @@
 # solubilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solubilization.md)
+
 <p><span class="chinese">增溶溶解对于任何要纯化的蛋白质都是必需的。</span><span class="english">Solubilization is required of any protein to be purified.</span></p>
 
 <p><span class="chinese">增溶作用是分散剂的一个重要性质。</span><span class="english">Solubilization is an important property of dispersion agent.</span></p>

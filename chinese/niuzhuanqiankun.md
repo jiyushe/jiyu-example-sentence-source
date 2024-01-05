@@ -1,5 +1,7 @@
 # 扭转乾坤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuzhuanqiankun.md)
+
 <p><span class="chinese">Imeem能够扭转乾坤吗？</span><span class="english">Can Imeem turn it around?</span></p>
 
 <p><span class="chinese">其实小小的转变就可以扭转乾坤。</span><span class="english">Just this little twist can make all the difference.</span></p>

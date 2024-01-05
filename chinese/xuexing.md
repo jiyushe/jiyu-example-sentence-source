@@ -1,5 +1,7 @@
 # 血性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexing.md)
+
 <p><span class="chinese">对于溶血性贫血。</span><span class="english">Hemolytic anemias.</span></p>
 
 <p><span class="chinese">血性溢液最为常见。</span><span class="english">Bloody discharge is the most common type.</span></p>

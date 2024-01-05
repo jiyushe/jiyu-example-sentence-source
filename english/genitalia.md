@@ -1,5 +1,7 @@
 # genitalia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genitalia.md)
+
 <p><span class="chinese">技巧4.赞美她的生殖器</span><span class="english">No.4 Compliment her on her genitalia</span></p>
 
 <p><span class="chinese">她的生殖器甚至进化得像雄性。</span><span class="english">Her genitalia have even evolved to look like the male's.</span></p>

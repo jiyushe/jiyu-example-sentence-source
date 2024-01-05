@@ -1,5 +1,7 @@
 # compulsively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compulsively.md)
+
 <p><span class="chinese">尽力不要强迫性清洁。</span><span class="english">Try not to compulsively clean.</span></p>
 
 <p><span class="chinese">他们总是不自觉的回到这种回忆中。</span><span class="english">They keep compulsively going back to it.</span></p>

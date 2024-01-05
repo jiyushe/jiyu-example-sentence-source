@@ -1,5 +1,7 @@
 # 通情达理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqingdali.md)
+
 <p><span class="chinese">群众是通情达理的。</span><span class="english">The masses are reasonable.</span></p>
 
 <p><span class="chinese">他们会通情达理地跟我们讨论事情。</span><span class="english">They would discuss things with us reasonably.</span></p>

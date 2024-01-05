@@ -1,5 +1,7 @@
 # 初次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuci.md)
+
 <p><span class="chinese">初次见面脸红的感觉消褪了么？</span><span class="english">Love’s first blush fading?</span></p>
 
 <p><span class="chinese">他在1982年以演员身份初次登场。</span><span class="english">He debuted as an actor in 1982</span></p>

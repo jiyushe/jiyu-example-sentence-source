@@ -1,5 +1,7 @@
 # 阿斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/adou.md)
+
 <p><span class="chinese">中国的领导人中没有阿斗。</span><span class="english">China's leaders are no fools.</span></p>
 
 <p><span class="chinese">某些官僚把群众当阿斗。</span><span class="english">Some of the bureaucrats befooled the masses.</span></p>

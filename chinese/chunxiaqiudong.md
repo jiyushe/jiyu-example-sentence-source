@@ -1,5 +1,7 @@
 # 春夏秋冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunxiaqiudong.md)
+
 <p><span class="chinese">春夏秋冬又一春。</span><span class="english">Spring. Summer. Fall. Winter. and.</span></p>
 
 <p><span class="chinese">春夏秋冬四季，有栽种有收成。</span><span class="english">Summer and winter and springtime and harvest.</span></p>

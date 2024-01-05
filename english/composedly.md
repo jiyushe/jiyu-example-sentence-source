@@ -1,5 +1,7 @@
 # composedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composedly.md)
+
 <p><span class="chinese">个个人质都经历了可怕的折磨。</span><span class="english">She talked composedly to reporters about her terrible ordeal.</span></p>
 
 <p><span class="chinese">伊丽莎白觉得她这些话问得唐突，不过还是心平气和地回答了她。</span><span class="english">Elizabeth felt all the impertinence of her questions, but answered them very composedly.</span></p>

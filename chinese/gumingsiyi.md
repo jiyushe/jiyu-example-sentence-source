@@ -1,5 +1,7 @@
 # 顾名思义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gumingsiyi.md)
+
 <p><span class="chinese">噬菌体，顾名思义它们能感染细菌。</span><span class="english">As their name suggests, these infect bacteria.</span></p>
 
 <p><span class="chinese">新闻标题，顾名思义，应该简短而引人注目。</span><span class="english">Headlines, by definition, are short and catchy.</span></p>

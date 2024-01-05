@@ -1,5 +1,7 @@
 # miasma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miasma.md)
+
 <p><span class="chinese">有些毒气可以被作为很可怕的武器。</span><span class="english">Some genres of miasma can be made to terrible weapons.</span></p>
 
 <p><span class="chinese">我从毒气拖了他的脸，强拉了他到他的脚。</span><span class="english">I hauled his face out of the miasma , yanked him to his feet.</span></p>

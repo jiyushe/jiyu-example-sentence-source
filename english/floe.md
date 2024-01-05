@@ -1,5 +1,7 @@
 # floe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floe.md)
+
 <p><span class="chinese">两只企鹅站在一块浮冰上。</span><span class="english">Two penguins are standing on an ice floe.</span></p>
 
 <p><span class="chinese">在你的重置阶段中，你可以选择不重置浮冰。</span><span class="english">You may choose not to untap Ice Floe during your untap phase.</span></p>

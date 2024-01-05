@@ -1,5 +1,7 @@
 # formal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formal_1.md)
+
 <p><span class="chinese">电影站，正规的。</span><span class="english">Movie Station, formal.</span></p>
 
 <p><span class="chinese">债券是正式的契据。</span><span class="english">A bond is a formal deed.</span></p>

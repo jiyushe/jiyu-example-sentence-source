@@ -1,5 +1,7 @@
 # gpib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gpib.md)
+
 <p><span class="chinese">你可以将许多仪器和电脑连接到同一个GPIB总线上。</span><span class="english">You can have many instruments and computers connected to the same GPIB bus.</span></p>
 
 <p><span class="chinese">数据采集部分由GPIB总线控制数字示波器TDS2012实现。</span><span class="english">Data acquisition section is implemented by digital oscilloscope TDS2012 controlled by GPIB bus.</span></p>

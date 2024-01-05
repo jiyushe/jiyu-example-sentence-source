@@ -1,5 +1,7 @@
 # orchestration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchestration.md)
+
 <p><span class="chinese">其编曲方式与马勒相似。</span><span class="english">Its orchestration is similar to that of Mahler's.</span></p>
 
 <p><span class="chinese">那么，在ESB中是如何处理编配需求的呢？</span><span class="english">So how are orchestration needs addressed in an ESB?</span></p>

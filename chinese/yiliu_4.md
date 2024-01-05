@@ -1,5 +1,7 @@
 # 遗留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiliu_4.md)
+
 <p><span class="chinese">但同时遗留了什么给后代？</span><span class="english">But what did it produce?</span></p>
 
 <p><span class="chinese">“这是一种遗留效应”。</span><span class="english">It is a carryover effect.</span></p>

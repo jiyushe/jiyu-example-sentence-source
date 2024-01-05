@@ -1,5 +1,7 @@
 # 滋润
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zirun.md)
+
 <p><span class="chinese">滋润干燥的皮肤。</span><span class="english">Moisturize dry skin.</span></p>
 
 <p><span class="chinese">接着用滋润霜。</span><span class="english">Follow with Moisturiser.</span></p>

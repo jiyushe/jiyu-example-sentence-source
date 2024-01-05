@@ -1,5 +1,7 @@
 # dependant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependant.md)
+
 <p><span class="chinese">水的沸点是依其气压而定的。</span><span class="english">Water's boiling point is dependant on its pressure.</span></p>
 
 <p><span class="chinese">文件系统路径通常依赖于操作系统。</span><span class="english">Often, file system paths are operating system dependant.</span></p>

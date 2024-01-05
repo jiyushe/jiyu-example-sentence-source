@@ -1,5 +1,7 @@
 # 自然村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zirancun.md)
+
 <p><span class="chinese">整个小镇由八个自然村组成。</span><span class="english">The small town is naturally formed of eight villages.</span></p>
 
 <p><span class="chinese">走了快一小时的水泥路，到了外乔自然村了。</span><span class="english">After walking close to one hour, I arrived Wai Qiao Village now.</span></p>

@@ -1,5 +1,7 @@
 # 含含糊糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanhanhuhu.md)
+
 <p><span class="chinese">别含含糊糊的，我听不见你在说啥！</span><span class="english">Don't mumble, I can't hear you!</span></p>
 
 <p><span class="chinese">当你含含糊糊说话时，人们听不清楚。</span><span class="english">When you mumble , people can't hear you clearly.</span></p>

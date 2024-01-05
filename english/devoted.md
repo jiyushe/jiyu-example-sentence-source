@@ -1,5 +1,7 @@
 # devoted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devoted.md)
+
 <p><span class="chinese">他们是一对恩爱夫妻。</span><span class="english">They're a devoted couple.</span></p>
 
 <p><span class="chinese">玛丽是虔诚的天主教徒。</span><span class="english">Mary is a devoted Catholic.</span></p>

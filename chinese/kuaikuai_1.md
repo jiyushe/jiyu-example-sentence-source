@@ -1,5 +1,7 @@
 # 快快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaikuai_1.md)
+
 <p><span class="chinese">播一颗种子盼它快快长大。</span><span class="english">A little seed for me to sow.</span></p>
 
 <p><span class="chinese">快快吃老孙一棒！</span><span class="english">Quickly Monkey eating a stick!</span></p>

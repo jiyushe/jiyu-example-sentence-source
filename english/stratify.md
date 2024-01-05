@@ -1,5 +1,7 @@
 # stratify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratify.md)
+
 <p><span class="chinese">我们可以在临床开发中采用遗传学进行患者分层。</span><span class="english">We can use genetics to stratify patients in clinical development.</span></p>
 
 <p><span class="chinese">本合同段拟采用潜孔钻机布孔进行分层、分段、光面、小药量控制爆破技术施工。</span><span class="english">We use in-the-hole drill rigs to stratify , separate, smooth, blasting by small dose techniques.</span></p>

@@ -1,5 +1,7 @@
 # apolipoprotein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apolipoprotein.md)
+
 <p><span class="chinese">载脂蛋白A5的基因转录受到多种因素的调控。</span><span class="english">The gene transcription of apolipoprotein A5 are controlled by several factors.</span></p>
 
 <p><span class="chinese">目的研究载脂蛋白M在大鼠体内的清除及分布。</span><span class="english">Objective In this study, we investigated metabolism and distribution of apolipoprotein M in rat.</span></p>

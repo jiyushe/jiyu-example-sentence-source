@@ -1,5 +1,7 @@
 # 折中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhezhong.md)
+
 <p><span class="chinese">不仅仅因为它是个折中的方案</span><span class="english">Not only is it a good compromise.</span></p>
 
 <p><span class="chinese">这是折中主义者的观点。</span><span class="english">That's how the neutralists put it.</span></p>

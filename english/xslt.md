@@ -1,5 +1,7 @@
 # xslt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xslt.md)
+
 <p><span class="chinese">通过XSLT和HTML修饰测试结果报告。</span><span class="english">Render test results reports using XSLT AND HTML.</span></p>
 
 <p><span class="chinese">对大多数开发者来说，XSLT是一种暗箱操作。</span><span class="english">For most developers XSLT is a black-box operation.</span></p>

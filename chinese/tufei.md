@@ -1,5 +1,7 @@
 # 土匪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tufei.md)
+
 <p><span class="chinese">山中有大批土匪出没。</span><span class="english">The hills swarmed with bandits.</span></p>
 
 <p><span class="chinese">圣黎各以其土匪之多闻名。</span><span class="english">San Rico was known for its bandits.</span></p>

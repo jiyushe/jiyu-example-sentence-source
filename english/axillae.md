@@ -1,5 +1,7 @@
 # axillae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axillae.md)
+
 <p><span class="chinese">只有适合的腋下多汗症。</span><span class="english">It is only suitable for Hyperhidrosis of the axillae.</span></p>
 
 <p><span class="chinese">其家族史呈阳性，即患者母亲于颈部及腋下出现类似皮疹。</span><span class="english">The family history was positive with his mother having similar rash over neck and axillae.</span></p>

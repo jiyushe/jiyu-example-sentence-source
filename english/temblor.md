@@ -1,5 +1,7 @@
 # temblor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temblor.md)
+
 <p><span class="chinese">这场大地震中至少有34，073人死亡和245，109人受伤。</span><span class="english">The temblor killed at least 34, 073 and injured another 245, 109.</span></p>
 
 <p><span class="chinese">在地震袭击的星期一的下午，数以千计的孩子正在上着课。</span><span class="english">Thousands of children were in class when the temblor hit Monday afternoon.</span></p>

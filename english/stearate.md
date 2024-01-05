@@ -1,5 +1,7 @@
 # stearate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stearate.md)
+
 <p><span class="chinese">硬脂酸钠即肥皂。</span><span class="english">Sodium stearate is soap.</span></p>
 
 <p><span class="chinese">糊精，明胶，纯净水，海运码头，硅胶，硬脂酸镁。</span><span class="english">Dextrin, Gelatin, Purified Water, MCT, Silica, Magnesium Stearate.</span></p>

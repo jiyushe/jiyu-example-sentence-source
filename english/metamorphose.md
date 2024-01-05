@@ -1,5 +1,7 @@
 # metamorphose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metamorphose.md)
+
 <p><span class="chinese">蝌蚪蜕变了，登上陆地。</span><span class="english">The tadpoles metamorphose and emerge onto land.</span></p>
 
 <p><span class="chinese">毛毛虫最终将蜕变成一只蝴蝶。</span><span class="english">The caterpillar will eventually metamorphose into a butterfly.</span></p>

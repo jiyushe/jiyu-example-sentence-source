@@ -1,5 +1,7 @@
 # whimsical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whimsical.md)
+
 <p><span class="chinese">要敢于异想天开。</span><span class="english">We should dare to whimsical.</span></p>
 
 <p><span class="chinese">当然，并非所有的故事都是如此的异想天开。</span><span class="english">Not all stories are so whimsical.</span></p>

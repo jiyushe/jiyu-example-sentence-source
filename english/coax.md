@@ -1,5 +1,7 @@
 # coax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coax.md)
+
 <p><span class="chinese">我的爱人，你不需要哄我。</span><span class="english">My love, you didn't need to coax.</span></p>
 
 <p><span class="chinese">我不开心了，你就要哄我开心。</span><span class="english">I am not happy, you will coax me happy.</span></p>

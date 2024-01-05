@@ -1,5 +1,7 @@
 # captor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captor.md)
+
 <p><span class="chinese">俘获者搅了搅茶，然后慢慢抬起头。</span><span class="english">The captor stirred his tea and slowly lifted his head.</span></p>
 
 <p><span class="chinese">他的捕获者没像他应有的那样彻底搜查他。</span><span class="english">His captor had not searched him quite as thoroughly as he might have.</span></p>

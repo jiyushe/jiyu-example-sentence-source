@@ -1,5 +1,7 @@
 # 肉牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouniu.md)
+
 <p><span class="chinese">我要一份上腰肉牛排？</span><span class="english">I'll have a sirloin steak.</span></p>
 
 <p><span class="chinese">还有的更谷歌肉牛比谷歌公关？</span><span class="english">There 's More to Google Beefs Than Google PR ?</span></p>

@@ -1,5 +1,7 @@
 # enabled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enabled.md)
+
 <p><span class="chinese">这个电话有WAP功能。</span><span class="english">This phone is WAP enabled.</span></p>
 
 <p><span class="chinese">它在默认情况下不启用。</span><span class="english">It is not enabled by default.</span></p>

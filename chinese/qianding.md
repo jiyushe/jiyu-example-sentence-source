@@ -1,5 +1,7 @@
 # 签订
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianding.md)
+
 <p><span class="chinese">不需要签订合同。</span><span class="english">There are no contracts.</span></p>
 
 <p><span class="chinese">我要与他签订协议。</span><span class="english">I'll make a treaty with him.</span></p>

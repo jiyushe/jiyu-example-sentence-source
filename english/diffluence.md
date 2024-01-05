@@ -1,5 +1,7 @@
 # diffluence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffluence.md)
+
 <p><span class="chinese">同时，还研究分析了其封闭功率和功率分流等问题。</span><span class="english">In the meantime, the close power and power diffluence is researched.</span></p>
 
 <p><span class="chinese">研究了腐钠对碳酸钙和硫酸钙的溶垢性能。</span><span class="english">The capacity of diffluence of calcium carbonate and calcium sulphate is studied.</span></p>

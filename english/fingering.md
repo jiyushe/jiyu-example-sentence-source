@@ -1,5 +1,7 @@
 # fingering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fingering.md)
+
 <p><span class="chinese">俄罗斯同时也指责波兰。</span><span class="english">Russia, meanwhile, is fingering Poland.</span></p>
 
 <p><span class="chinese">警察秘密监视他已经有数月了。</span><span class="english">The police have been fingering him for months.</span></p>

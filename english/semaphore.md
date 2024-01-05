@@ -1,5 +1,7 @@
 # semaphore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semaphore.md)
+
 <p><span class="chinese">一种只有两种状态的信号。</span><span class="english">A type of semaphore with just two states.</span></p>
 
 <p><span class="chinese">玉里站北的臂木式号志机。</span><span class="english">Semaphore signals at north of Yu-Li Station.</span></p>

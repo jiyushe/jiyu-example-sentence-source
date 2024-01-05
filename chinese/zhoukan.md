@@ -1,5 +1,7 @@
 # 周刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoukan.md)
+
 <p><span class="chinese">我每天都要上娱乐周刊网站。</span><span class="english">Weekly web site every day.</span></p>
 
 <p><span class="chinese">最好的周刊是经济学家。</span><span class="english">The best weekly is The Economist.</span></p>

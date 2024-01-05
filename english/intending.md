@@ -1,5 +1,7 @@
 # intending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intending.md)
+
 <p><span class="chinese">我打算学经济学。</span><span class="english">Well, I'm intending to do Economics</span></p>
 
 <p><span class="chinese">他们打算辞去委员会中的职务。</span><span class="english">They are intending to resign from the committee.</span></p>

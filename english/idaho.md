@@ -1,5 +1,7 @@
 # idaho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idaho.md)
+
 <p><span class="chinese">一个单身老人孤独的住在爱达华州。</span><span class="english">An old man lived alone in Idaho.</span></p>
 
 <p><span class="chinese">有半个爱达荷那么大的一个农场。</span><span class="english">A farm that’s half the state of Idaho.</span></p>

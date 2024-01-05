@@ -1,5 +1,7 @@
 # 故步自封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gubuzifeng_1.md)
+
 <p><span class="chinese">是故步自封还是险中求生？</span><span class="english">Are complacent or insurance to survive?</span></p>
 
 <p><span class="chinese">大多数成年人确实都故步自封起来。</span><span class="english">Most adults do stop feeding their minds.</span></p>

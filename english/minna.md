@@ -1,5 +1,7 @@
 # minna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minna.md)
+
 <p><span class="chinese">这是我的妹妹米娜。</span><span class="english">This is my sister, Minna.</span></p>
 
 <p><span class="chinese">明娜六岁那年，比尔病了。</span><span class="english">Minna was six when Bill fell ill.</span></p>

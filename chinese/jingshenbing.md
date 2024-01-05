@@ -1,5 +1,7 @@
 # 精神病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshenbing.md)
+
 <p><span class="chinese">非典型抗精神病药物的角色</span><span class="english">Role of Atypical Antipsychotics</span></p>
 
 <p><span class="chinese">大部分精神病患者都是爱妄想的。</span><span class="english">Most psychopaths are delusional.</span></p>

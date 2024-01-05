@@ -1,5 +1,7 @@
 # spiritedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiritedness.md)
+
 <p><span class="chinese">对于自己新近被发掘的公益意识，王有着非常个人化的理由。</span><span class="english">Wang has very personal reasons for her newfound sense of public spiritedness.</span></p>
 
 <p><span class="chinese">就目前来看，布朗先生的行为与公众的“少动多静”的精神状态不太相符。</span><span class="english">On the basis of Mr Brown’s behaviour so far, such public spiritedness seems unlikely.</span></p>

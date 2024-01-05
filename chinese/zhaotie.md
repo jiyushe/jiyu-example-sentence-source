@@ -1,5 +1,7 @@
 # 招贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaotie.md)
+
 <p><span class="chinese">在大城市，你会看到许多触目的招贴广告。</span><span class="english">In big cities you can see many eye-catchIng posters.</span></p>
 
 <p><span class="chinese">这座房子外面有一招贴写着“吉屋待售”。</span><span class="english">Outside the house there was a notice saying 'For Sale'.</span></p>

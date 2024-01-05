@@ -1,5 +1,7 @@
 # 扣押
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouya.md)
+
 <p><span class="chinese">扣押一个负债人的工资…</span><span class="english">Garnishee a debtor 's wages.</span></p>
 
 <p><span class="chinese">法庭扣押某人的财产。</span><span class="english">The court distrained property from him.</span></p>

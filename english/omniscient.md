@@ -1,5 +1,7 @@
 # omniscient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omniscient.md)
+
 <p><span class="chinese">祂都是全知的。</span><span class="english">That means he is omniscient.</span></p>
 
 <p><span class="chinese">他还装出一副无所不知的样子。</span><span class="english">And he pretends to be omniscient.</span></p>

@@ -1,5 +1,7 @@
 # ubiquitously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ubiquitously.md)
+
 <p><span class="chinese">乙醛广泛存在于环境中，危害人体健康。</span><span class="english">Acetaldehyde almost exists ubiquitously and is harmful to people.</span></p>
 
 <p><span class="chinese">这并不像现在普遍存在广告，但还没有从市场上消失。</span><span class="english">It isn't as ubiquitously advertised now, but it hasn't disappeared from the market.</span></p>

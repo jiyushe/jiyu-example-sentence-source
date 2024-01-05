@@ -1,5 +1,7 @@
 # 打眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayan_1.md)
+
 <p><span class="chinese">黄蓝的搭配很打眼。</span><span class="english">Yellow and blue was in evidence.</span></p>
 
 <p><span class="chinese">她穿那套红色的连衣裙很打眼。</span><span class="english">She is a knockout in that red dress.</span></p>

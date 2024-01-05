@@ -1,5 +1,7 @@
 # 军刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jundao.md)
+
 <p><span class="chinese">没有刀锋的瑞士军刀？</span><span class="english">A Swiss army knife without a blade?</span></p>
 
 <p><span class="chinese">我们的军刀用的是420纯钢，不生锈！</span><span class="english">Our saber with 420, whilst doesn't rust!</span></p>

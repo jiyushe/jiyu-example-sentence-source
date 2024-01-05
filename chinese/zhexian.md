@@ -1,5 +1,7 @@
 # 折线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhexian.md)
+
 <p><span class="chinese">画直线或者折线。</span><span class="english">Draw lines or polylines.</span></p>
 
 <p><span class="chinese">采用一条折线模拟边坡滑动面。</span><span class="english">The slip surface was simulated with a broken line.</span></p>

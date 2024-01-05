@@ -1,5 +1,7 @@
 # reenactment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reenactment.md)
+
 <p><span class="chinese">历史如同过去的经验的再现。</span><span class="english">History as reenactment of past experience.</span></p>
 
 <p><span class="chinese">旧时重现的现场，高棉妇女在做饭。</span><span class="english">In a reenactment scene, Khmer women cooking.</span></p>

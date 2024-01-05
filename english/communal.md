@@ -1,5 +1,7 @@
 # communal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communal.md)
+
 <p><span class="chinese">不用再去公共厕所。</span><span class="english">No more using communal toilets.</span></p>
 
 <p><span class="chinese">这当然有它公共方面的意义。</span><span class="english">It had this communal aspect, for sure.</span></p>

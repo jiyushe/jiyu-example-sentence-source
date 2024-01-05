@@ -1,5 +1,7 @@
 # 心惊肉跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjingroutiao.md)
+
 <p><span class="chinese">光站在这里我就心惊肉跳的了。</span><span class="english">I get the willies just standing here.</span></p>
 
 <p><span class="chinese">这个消息令他心惊肉跳。</span><span class="english">His heart quaked with panic at the news.</span></p>

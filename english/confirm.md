@@ -1,5 +1,7 @@
 # confirm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confirm.md)
+
 <p><span class="chinese">请证实。</span><span class="english">Please confirm.</span></p>
 
 <p><span class="chinese">你能否证实？</span><span class="english">Could you confirm?</span></p>

@@ -1,5 +1,7 @@
 # oer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oer.md)
+
 <p><span class="chinese">其它工具对OER是惟一的。</span><span class="english">Other tools are unique to OER.</span></p>
 
 <p><span class="chinese">在沙拉上喷洒韭葱。</span><span class="english">Sprinkle scallions oer your salad.</span></p>

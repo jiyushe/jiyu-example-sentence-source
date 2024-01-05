@@ -1,5 +1,7 @@
 # 英雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxiong.md)
+
 <p><span class="chinese">英雄抑或恶霸？</span><span class="english">Hero or bully?</span></p>
 
 <p><span class="chinese">他们是英雄。</span><span class="english">They were heroes.</span></p>

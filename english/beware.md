@@ -1,5 +1,7 @@
 # beware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beware.md)
+
 <p><span class="chinese">小心火烛。</span><span class="english">Beware of fire.</span></p>
 
 <p><span class="chinese">因此提防。</span><span class="english">Beware therefore.</span></p>

@@ -1,5 +1,7 @@
 # 外力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waili.md)
+
 <p><span class="chinese">不需要任何外力作用</span><span class="english">They don't need your help to do that.</span></p>
 
 <p><span class="chinese">代表合外力，单位为牛顿。</span><span class="english">F represents force, measured in Newtons.</span></p>

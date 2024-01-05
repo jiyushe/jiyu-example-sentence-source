@@ -1,5 +1,7 @@
 # 哑铃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaling.md)
+
 <p><span class="chinese">问题就像健身房里的哑铃。</span><span class="english">Problems are like the dumbbells at the gym.</span></p>
 
 <p><span class="chinese">这些包括举哑铃和杠铃。</span><span class="english">These include lifts with dumbbells and barbells.</span></p>

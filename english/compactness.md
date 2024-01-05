@@ -1,5 +1,7 @@
 # compactness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compactness.md)
+
 <p><span class="chinese">核子密度仪可快速获得其压实度。</span><span class="english">Nucleon density Instrument can test its compactness rapidly.</span></p>
 
 <p><span class="chinese">这台仪器的特点是结构精巧，携带方便。</span><span class="english">The instrument is characterized by it compactness and portability.</span></p>

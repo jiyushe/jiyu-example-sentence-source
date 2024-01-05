@@ -1,5 +1,7 @@
 # 昏暗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunan.md)
+
 <p><span class="chinese">在那儿，在昏暗的光线里。</span><span class="english">There, in the somber light.</span></p>
 
 <p><span class="chinese">屋子里昏暗阴凉。</span><span class="english">It was dim and cool in the room.</span></p>

@@ -1,5 +1,7 @@
 # republication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/republication.md)
+
 <p><span class="chinese">好几家公司提出希望重版他的小说。</span><span class="english">Several firms offered to obtain republication of his novel.</span></p>
 
 <p><span class="chinese">版权所有，非经同意请勿任意转载或复制。</span><span class="english">No reproduction or republication without written permission.</span></p>

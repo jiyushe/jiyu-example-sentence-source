@@ -1,5 +1,7 @@
 # decant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decant.md)
+
 <p><span class="chinese">不需要开瓶停放过程。</span><span class="english">No need to decant.</span></p>
 
 <p><span class="chinese">白葡萄酒到底需不需要醒酒？</span><span class="english">Should You Ever Decant White Wine?</span></p>

@@ -1,5 +1,7 @@
 # panelist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panelist.md)
+
 <p><span class="chinese">我请一个朋友向他写邮件说我是多么好的一个演讲者。</span><span class="english">I had a friend email him and tell him what a great panelist I was.</span></p>
 
 <p><span class="chinese">现在大家可以问问题了,可以问所有的嘉宾。</span><span class="english">Now it's your time to ask questions on any or all of the panelist.</span></p>

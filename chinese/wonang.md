@@ -1,5 +1,7 @@
 # 窝囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wonang.md)
+
 <p><span class="chinese">她比那窝囊家伙更得意。</span><span class="english">She has more pride than the wimpless guy.</span></p>
 
 <p><span class="chinese">相比之下，那些被认为较窝囊的男人食指则更长。</span><span class="english">By contrast those seen as wimpiersorts will have longer index fingers.</span></p>

@@ -1,5 +1,7 @@
 # 流水作业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushuizuoye.md)
+
 <p><span class="chinese">已经建起了装配流水作业线。</span><span class="english">Assembly lines have been set up.</span></p>
 
 <p><span class="chinese">钢笔的生产是一项流水作业。</span><span class="english">Pens are produced through a flow process.</span></p>

@@ -1,5 +1,7 @@
 # clyster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clyster.md)
+
 <p><span class="chinese">可见，复方硫酸氢黄连素灌肠液是一种安全的新型制剂。</span><span class="english">Thus, compound berberine hydrosulphate clyster is a very safety and new preparation.</span></p>
 
 <p><span class="chinese">钡灌肠对本病的诊断和鉴别诊断有重要价值。</span><span class="english">The baric clyster diagnosis to this disease and differentiate diagnose have fundamental value.</span></p>

@@ -1,5 +1,7 @@
 # understandable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understandable.md)
+
 <p><span class="chinese">这一观点岂止是可以理解的。</span><span class="english">That view is understandable.</span></p>
 
 <p><span class="chinese">当然，挖苦是能理解。</span><span class="english">The digs are understandable.</span></p>

@@ -1,5 +1,7 @@
 # calmness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calmness.md)
+
 <p><span class="chinese">他吸了一口气，强自镇定。</span><span class="english">He breathes in, forcing calmness.</span></p>
 
 <p><span class="chinese">他是怎样在平静中等候无光的</span><span class="english">He bides in calmness the silent morrow</span></p>

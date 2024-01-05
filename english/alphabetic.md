@@ -1,5 +1,7 @@
 # alphabetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alphabetic.md)
+
 <p><span class="chinese">为什么要阿尔法betic先进的多维生素？</span><span class="english">Why take alphabetic advanced multi-vitamin?</span></p>
 
 <p><span class="chinese">那个人能把拼音文字写得像中国汉字这样出神入化？</span><span class="english">The man can write alphabetic characters such as China, superb?</span></p>

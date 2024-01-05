@@ -1,5 +1,7 @@
 # 繁荣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanrong_1.md)
+
 <p><span class="chinese">为什么如此繁荣？</span><span class="english">So why the boom?</span></p>
 
 <p><span class="chinese">现在它繁荣了。</span><span class="english">Now it's flourishing.</span></p>

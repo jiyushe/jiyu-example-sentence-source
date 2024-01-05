@@ -1,5 +1,7 @@
 # pentaerythritol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentaerythritol.md)
+
 <p><span class="chinese">本品用季戊四醇与特级松香酯而成。</span><span class="english">The production is estered from extra grade rosin and pentaerythritol.</span></p>
 
 <p><span class="chinese">与硝酸反应生成四硝基季戊四醇，是一种烈性炸药。</span><span class="english">Becoming tetranitro pentaerythritol responsed with the nitric acid and is high explosive.</span></p>

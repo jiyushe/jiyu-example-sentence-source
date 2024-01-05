@@ -1,5 +1,7 @@
 # platonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platonism.md)
+
 <p><span class="chinese">柏拉图主义在西方哲学史上长期占统治地位。</span><span class="english">Platonism occupied a dominant position in traditional Western philosophy.</span></p>
 
 <p><span class="chinese">柏拉图主义本身可以被称为原始诺斯替，也就是诺斯替之前的诺斯替。</span><span class="english">Platonism itself might be called proto-Gnostic, that is,Gnosticism before Gnosticism.</span></p>

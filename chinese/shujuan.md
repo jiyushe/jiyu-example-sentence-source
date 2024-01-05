@@ -1,5 +1,7 @@
 # 书卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujuan.md)
+
 <p><span class="chinese">他们把书卷都放在里面。</span><span class="english">And they just had scrolls all in it.</span></p>
 
 <p><span class="chinese">无论你是谁我都细刻入书卷。</span><span class="english">In you whoe'er you are my book perusing.</span></p>

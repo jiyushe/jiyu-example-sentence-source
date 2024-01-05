@@ -1,5 +1,7 @@
 # skater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skater.md)
+
 <p><span class="chinese">溜冰者从冰上掠过。</span><span class="english">A skater skims the ice.</span></p>
 
 <p><span class="chinese">这位滑冰者完成了一次三周单腿旋转。</span><span class="english">The skater executed a triple pirouette.</span></p>

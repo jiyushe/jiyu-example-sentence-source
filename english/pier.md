@@ -1,5 +1,7 @@
 # pier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pier.md)
+
 <p><span class="chinese">我以前喜欢在7号码头滑滑板。</span><span class="english">I used to skate Pier 7.</span></p>
 
 <p><span class="chinese">我们将小船拴在码头。</span><span class="english">We tied the boat to a pier.</span></p>

@@ -1,5 +1,7 @@
 # magi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magi.md)
+
 <p><span class="chinese">难道今天特别想贤士？</span><span class="english">Does today specially think magi?</span></p>
 
 <p><span class="chinese">魔术家讲以下故事。</span><span class="english">The magi tells the following story.</span></p>

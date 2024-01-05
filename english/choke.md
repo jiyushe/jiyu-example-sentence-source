@@ -1,5 +1,7 @@
 # choke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choke.md)
+
 <p><span class="chinese">老师拖着呛说。</span><span class="english">Said teacher dragged choke.</span></p>
 
 <p><span class="chinese">接上压井和放喷管线。</span><span class="english">Connect kill and choke line.</span></p>

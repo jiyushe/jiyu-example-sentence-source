@@ -1,5 +1,7 @@
 # 搔痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoyang.md)
+
 <p><span class="chinese">不在公共场合打嗝或搔痒</span><span class="english">Doesn't belch or scratch in public</span></p>
 
 <p><span class="chinese">这只狗总是在搔痒。</span><span class="english">This machine-tool is always at fault.</span></p>

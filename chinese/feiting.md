@@ -1,5 +1,7 @@
 # 飞艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiting.md)
+
 <p><span class="chinese">什么是飞艇？</span><span class="english">What are airships?</span></p>
 
 <p><span class="chinese">飞艇在海面打圈子。</span><span class="english">The airship circled at sea.</span></p>

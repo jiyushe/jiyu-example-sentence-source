@@ -1,5 +1,7 @@
 # nonsignificant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonsignificant.md)
+
 <p><span class="chinese">在根治程度方面与其它无显著差异。</span><span class="english">Nonsignificant difference was found in radical degree and ect.</span></p>
 
 <p><span class="chinese">结构护理有帮助的1.2的让步比无显著意义。</span><span class="english">The odds ratio of 1.2 favoring structured care was nonsignificant.</span></p>

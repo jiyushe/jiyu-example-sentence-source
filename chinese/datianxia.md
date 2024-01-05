@@ -1,5 +1,7 @@
 # 打天下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datianxia.md)
+
 <p><span class="chinese">一个人要想出人头地，就得自己去打天下。</span><span class="english">A man has to strike out for himself if he wants to get ahead.</span></p>
 
 <p><span class="chinese">通用汽车用不同档次多种品牌“抱团”打天下的策略也开始受挫。</span><span class="english">GM's strategy of offering a multiplicity of brands started to fray.</span></p>

@@ -1,5 +1,7 @@
 # 栖身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishen.md)
+
 <p><span class="chinese">他们是北京的奴隶，栖身于违章建筑，那是不断扩张的北京所要拆除的部分。</span><span class="english">They are Beijing’s slaves.</span></p>
 
 <p><span class="chinese">我也可能将栖身之所安在树上。</span><span class="english">I also may take shelter in a tree.</span></p>

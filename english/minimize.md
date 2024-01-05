@@ -1,5 +1,7 @@
 # minimize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimize.md)
+
 <p><span class="chinese">然后最小化窗口。</span><span class="english">And minimize the window.</span></p>
 
 <p><span class="chinese">然后我开始最小化这个家伙。</span><span class="english">And I want to minimize that guy.</span></p>

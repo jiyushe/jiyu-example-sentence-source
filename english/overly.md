@@ -1,5 +1,7 @@
 # overly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overly.md)
+
 <p><span class="chinese">我不太疲倦。</span><span class="english">I'm not overly tired.</span></p>
 
 <p><span class="chinese">你过分固执己见了。</span><span class="english">You're overly opinionated.</span></p>

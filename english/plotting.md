@@ -1,5 +1,7 @@
 # plotting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plotting.md)
+
 <p><span class="chinese">我把股利画出来</span><span class="english">Now I'm plotting dividends.</span></p>
 
 <p><span class="chinese">他们正密谋杀害他。</span><span class="english">They are plotting his murder.</span></p>

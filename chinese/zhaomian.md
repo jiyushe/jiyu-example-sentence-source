@@ -1,5 +1,7 @@
 # 照面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaomian.md)
+
 <p><span class="chinese">实际上，我从未与她打过照面。</span><span class="english">Actually, I've never met her face to face.</span></p>
 
 <p><span class="chinese">他抬起双眼，跟那座逼视着的挂钟打了个照面。</span><span class="english">He raised his eyes and met the stare of a bilious clock.</span></p>

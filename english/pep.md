@@ -1,5 +1,7 @@
 # pep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pep.md)
+
 <p><span class="chinese">他需要打打气，需要鼓励。</span><span class="english">He needs a pep talk.</span></p>
 
 <p><span class="chinese">我给她来了段精神讲语。</span><span class="english">I gave her a pep talk.</span></p>

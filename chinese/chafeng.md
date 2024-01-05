@@ -1,5 +1,7 @@
 # 查封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chafeng.md)
+
 <p><span class="chinese">他们是来查封的。</span><span class="english">They had come to repossess their goods.</span></p>
 
 <p><span class="chinese">他们可以查封并扣押可疑产品。</span><span class="english">They may seize and impound suspect products.</span></p>

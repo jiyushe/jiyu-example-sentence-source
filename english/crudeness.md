@@ -1,5 +1,7 @@
 # crudeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crudeness.md)
+
 <p><span class="chinese">所有娱乐领域都日益粗俗化。</span><span class="english">Crudeness is on the rise in all fields of entertainment.</span></p>
 
 <p><span class="chinese">日常生活的艰苦条件使人的态度也粗鲁起来。</span><span class="english">The hard conditions of the daily life made for crudeness in manners.</span></p>

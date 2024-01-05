@@ -1,5 +1,7 @@
 # haryana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haryana.md)
+
 <p><span class="chinese">所以根本上说来，哈里亚纳邦的男性都是太监，连女人都保护不了。</span><span class="english">So basically, all Haryana men are Eunuchs. They cant protect their women.</span></p>
 
 <p><span class="chinese">然而，Tanwar希望哈里利亚纳邦的这个项目将为其它项目起到示范作用。</span><span class="english">Still, Tanwar hopes that the Haryana project will serve as a model for others.</span></p>

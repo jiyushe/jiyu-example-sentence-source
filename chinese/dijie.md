@@ -1,5 +1,7 @@
 # 地界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijie.md)
+
 <p><span class="chinese">侵入他人地界偷猎是非法的。</span><span class="english">Poaching on other's land is illegal.</span></p>
 
 <p><span class="chinese">这家公司的地界扩展到河边。</span><span class="english">This company expands to the riverside.</span></p>

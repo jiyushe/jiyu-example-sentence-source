@@ -1,5 +1,7 @@
 # lazily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lazily.md)
+
 <p><span class="chinese">他伸了伸懒腰，打了个哈欠。</span><span class="english">He stretched and yawned lazily.</span></p>
 
 <p><span class="chinese">头懒洋洋地歪向左边，靠近了母亲。</span><span class="english">My head lazily leant leftward, close to Mum.</span></p>

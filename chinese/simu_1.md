@@ -1,5 +1,7 @@
 # 思慕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/simu_1.md)
+
 <p><span class="chinese">她思慕乡下那清幽的空气。</span><span class="english">She sighed for the air in the countryside.</span></p>
 
 <p><span class="chinese">你也可以买干制的枸杞，加入到甜点思慕雪或什锦干果里头。</span><span class="english">Buy dried berries and have them in a smoothie or trail mix.</span></p>

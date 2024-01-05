@@ -1,5 +1,7 @@
 # unacceptable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unacceptable.md)
+
 <p><span class="chinese">没有投资回报是不可接受的。</span><span class="english">No return on investment is unacceptable.</span></p>
 
 <p><span class="chinese">我认为这完全不可接受。</span><span class="english">And I consider that totally unacceptable.</span></p>

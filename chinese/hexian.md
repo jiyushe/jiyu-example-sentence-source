@@ -1,5 +1,7 @@
 # 和弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hexian.md)
+
 <p><span class="chinese">和弦音报警。</span><span class="english">Alarm by chord music.</span></p>
 
 <p><span class="chinese">为什么改变和弦呢？</span><span class="english">Why do we change chords?</span></p>

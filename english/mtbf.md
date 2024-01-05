@@ -1,5 +1,7 @@
 # mtbf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mtbf.md)
+
 <p><span class="chinese">平均间隔故障时间，至少50000小时，25℃环境及额定输入与满载条件下。</span><span class="english">The MTBF shall be at least 50000 hours at 25℃, Full load and nominal input condition.</span></p>
 
 <p><span class="chinese">论文最后还对兼容以后系统的可靠性和可用性进行了分析，讨论了设备的平均无故障时间。</span><span class="english">At last, reliability and availability of the system is analyzed and the system MTBF is discussed.</span></p>

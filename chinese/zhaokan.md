@@ -1,5 +1,7 @@
 # 照看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaokan.md)
+
 <p><span class="chinese">我会小心照看它们。</span><span class="english">I watch out for them.</span></p>
 
 <p><span class="chinese">他给临时来照看孩子的保姆付了钱。</span><span class="english">He paid the babysitter.</span></p>

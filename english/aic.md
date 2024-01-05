@@ -1,5 +1,7 @@
 # aic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aic.md)
+
 <p><span class="chinese">有了“爱可”，厨师干什么？</span><span class="english">AIC being there, what else should chefs do?</span></p>
 
 <p><span class="chinese">目前爱可平均2分钟完成一道菜肴制作。</span><span class="english">Currently, AIC can finish a dish within 2 minutes averagely.</span></p>

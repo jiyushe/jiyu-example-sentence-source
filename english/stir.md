@@ -1,5 +1,7 @@
 # stir 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stir.md)
+
 <p><span class="chinese">搅拌直到融解。</span><span class="english">Stir well to dissolve.</span></p>
 
 <p><span class="chinese">我搅拌着沸水。</span><span class="english">I stir the boiling water.</span></p>

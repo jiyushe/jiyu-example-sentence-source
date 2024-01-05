@@ -1,5 +1,7 @@
 # dizzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dizzy.md)
+
 <p><span class="chinese">我觉得头晕眼花。</span><span class="english">I feel dizzy.</span></p>
 
 <p><span class="chinese">啊，我觉得头昏脑胀的。</span><span class="english">Ah, I feel dizzy.</span></p>

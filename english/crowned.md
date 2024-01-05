@@ -1,5 +1,7 @@
 # crowned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crowned.md)
+
 <p><span class="chinese">1804年他被加冕当了皇帝。</span><span class="english">He was crowned emperor in 1804.</span></p>
 
 <p><span class="chinese">他于1208年左右继承王室。</span><span class="english">He was crowned king circa 1208.</span></p>

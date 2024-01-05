@@ -1,5 +1,7 @@
 # guilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guilt.md)
+
 <p><span class="chinese">我再无移情别恋的负罪感。</span><span class="english">There is no guilt.</span></p>
 
 <p><span class="chinese">是令人难受的愧疚之情？</span><span class="english">Is it pangs of guilt?</span></p>

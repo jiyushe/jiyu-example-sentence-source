@@ -1,5 +1,7 @@
 # whitefly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitefly.md)
+
 <p><span class="chinese">柑桔白粉虱已成为危害柑桔生产的主要害虫。</span><span class="english">Citrus whitefly has been a major pest in citrus production.</span></p>
 
 <p><span class="chinese">粉虱蜜露是粉虱寄生性天敌搜索寄主的主要利它素源。</span><span class="english">Whitefly honeydew is an important kairomone resource for host-searching of parasitoids.</span></p>

@@ -1,5 +1,7 @@
 # 开锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiguo_1.md)
+
 <p><span class="chinese">开锅需要多长时间？</span><span class="english">How long does it take to boil?</span></p>
 
 <p><span class="chinese">简直象整个大海都开锅啦。</span><span class="english">It was like the whole sea bursting open.</span></p>

@@ -1,5 +1,7 @@
 # 天南海北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiannanhaibei.md)
+
 <p><span class="chinese">不论天南海北，还是自己的家最好。</span><span class="english">Yep. East or West, home is best.</span></p>
 
 <p><span class="chinese">我们都是地球村的村民，天南海北都是一家人。</span><span class="english">We are all the villagers, the village is a family.</span></p>

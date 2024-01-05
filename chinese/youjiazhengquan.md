@@ -1,5 +1,7 @@
 # 有价证券
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiazhengquan.md)
+
 <p><span class="chinese">这一切都在某一天的工作，为有价证券投资之谜！</span><span class="english">It's all in a day's work for the Mystery PI !</span></p>
 
 <p><span class="chinese">而联储若积极出脱有价证券,又会造成更大的问题.</span><span class="english">Active sales of securities bring even bigger problems.</span></p>

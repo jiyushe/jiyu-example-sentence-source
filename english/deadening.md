@@ -1,5 +1,7 @@
 # deadening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadening.md)
+
 <p><span class="chinese">一致几乎总是阻隔个人的创造力和活力。</span><span class="english">Conformity almost always leads to deadening of individual creativity and energy.</span></p>
 
 <p><span class="chinese">一致几乎总是阻隔个人的创造力和活力。</span><span class="english">Conformity almost always leads to a deadening of individual creativity and energy.</span></p>

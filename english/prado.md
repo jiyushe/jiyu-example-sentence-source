@@ -1,5 +1,7 @@
 # prado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prado.md)
+
 <p><span class="chinese">本彩条供普拉多2005使用。</span><span class="english">It is for Prado 2005 Autobody using.</span></p>
 
 <p><span class="chinese">普拉多和黑色密切合作，在中央情报局。</span><span class="english">Prado and Black worked closely at the CIA.</span></p>

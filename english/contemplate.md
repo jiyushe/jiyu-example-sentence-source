@@ -1,5 +1,7 @@
 # contemplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemplate.md)
+
 <p><span class="chinese">第一种选择太可怕，难以去想象。</span><span class="english">The first option is too gruesome to contemplate.</span></p>
 
 <p><span class="chinese">那就是我们真正的在观心、观照。</span><span class="english">If you can do so, you contemplate in the right way.</span></p>

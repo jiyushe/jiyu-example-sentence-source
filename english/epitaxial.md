@@ -1,5 +1,7 @@
 # epitaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epitaxial.md)
+
 <p><span class="chinese">硅外延平面晶体管，用于音频和通用。</span><span class="english">Silicon epitaxial planar transistor, for use in audio and general purpose.</span></p>
 
 <p><span class="chinese">讨论了外延工艺和影响材料性质的因素。</span><span class="english">Epitaxial process and factors affecting property of the material were discussed.</span></p>

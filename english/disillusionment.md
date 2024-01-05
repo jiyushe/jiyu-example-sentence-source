@@ -1,5 +1,7 @@
 # disillusionment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disillusionment.md)
+
 <p><span class="chinese">随着时间流逝，爱情慢慢消失，伴侣的消极会导致幻灭。</span><span class="english">Negativism in a spouse leads to disillusionment over time as love declines.</span></p>
 
 <p><span class="chinese">他们也会经历理想的幻灭和心碎，这会让他们退缩。</span><span class="english">They also experience disillusionment and heartache, causing them to fall back.</span></p>

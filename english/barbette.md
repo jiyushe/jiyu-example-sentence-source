@@ -1,5 +1,7 @@
 # barbette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbette.md)
+
 <p><span class="chinese">在这一层，炮座也由装甲进行保护。</span><span class="english">On the same level, the main barbette armour starts.</span></p>
 
 <p><span class="chinese">我们很快就爬到了第二个炮台。</span><span class="english">My cousins and I arrived at the second barbette very soon.</span></p>

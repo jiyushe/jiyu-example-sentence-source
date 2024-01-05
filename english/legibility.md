@@ -1,5 +1,7 @@
 # legibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legibility.md)
+
 <p><span class="chinese">这可能会降低代码的可读性。</span><span class="english">This may reduce legibility of the code.</span></p>
 
 <p><span class="chinese">为了美观，也可以设置表格的格式。</span><span class="english">You can also format the table for legibility.</span></p>

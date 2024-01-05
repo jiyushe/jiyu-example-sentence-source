@@ -1,5 +1,7 @@
 # 煽风点火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanfengdianhuo.md)
+
 <p><span class="chinese">风能吹熄火柴，也能煽风点火。</span><span class="english">The wind extinguishes the match, but can only fan the flame.</span></p>
 
 <p><span class="chinese">媒体一定会煽风点火，我们也很期待。</span><span class="english">The media will be hyping it up and we'll be looking forward to it.</span></p>

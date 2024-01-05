@@ -1,5 +1,7 @@
 # 礼治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhi_2.md)
+
 <p><span class="chinese">晏子重礼而不墨守陈规，对继承、发展齐礼治文化做出了重要贡献。</span><span class="english">He makes great contribution to inheriting and developing the culture of Confucian management.</span></p>
 
 <p><span class="chinese">其背景在于周、秦社会是一个特别重视礼治传统的礼治社会。</span><span class="english">It was originated from the Zhou and Qin Dynasties, in which rites played a dominant role in the society.</span></p>

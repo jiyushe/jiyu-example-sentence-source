@@ -1,5 +1,7 @@
 # foreshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreshore.md)
+
 <p><span class="chinese">何以知家给，笙歌满水滨。</span><span class="english">Home to know why, Shengge Water over the foreshore.</span></p>
 
 <p><span class="chinese">典型的前滨发展，如津巴布韦。</span><span class="english">Typical of the foreshore development, such as Zimbabwe.</span></p>

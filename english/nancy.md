@@ -1,5 +1,7 @@
 # nancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nancy.md)
+
 <p><span class="chinese">在南希·萧家。</span><span class="english">At Nancy Shaw's.</span></p>
 
 <p><span class="chinese">苏珊与南锡在一起。</span><span class="english">Susan was with Nancy.</span></p>

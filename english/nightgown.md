@@ -1,5 +1,7 @@
 # nightgown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightgown.md)
+
 <p><span class="chinese">我把丝绸睡衣送给了她。</span><span class="english">I gave her the silk nightgown.</span></p>
 
 <p><span class="chinese">买件性感的睡衣或者贴身内衣。</span><span class="english">Splurge on a sexy nightgown or lingerie.</span></p>

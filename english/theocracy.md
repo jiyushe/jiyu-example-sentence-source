@@ -1,5 +1,7 @@
 # theocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theocracy.md)
+
 <p><span class="chinese">很重要的一点是，神权政治并非铁板一块。</span><span class="english">It is also significant that theocracy is not monolithic either.</span></p>
 
 <p><span class="chinese">这是继神权政治象形文字之后的封建制度象形文字。</span><span class="english">They are the hieroglyphics of feudalism succeeding those of theocracy.</span></p>

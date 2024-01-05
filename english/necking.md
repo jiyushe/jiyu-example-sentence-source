@@ -1,5 +1,7 @@
 # necking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necking.md)
+
 <p><span class="chinese">我看见他们在公园里拥吻。</span><span class="english">I saw them necking in the park.</span></p>
 
 <p><span class="chinese">他们俩在公园的长凳上拥抱亲吻。</span><span class="english">The two of them were necking on a park bench.</span></p>

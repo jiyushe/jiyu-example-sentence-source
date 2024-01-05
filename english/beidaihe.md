@@ -1,5 +1,7 @@
 # beidaihe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beidaihe.md)
+
 <p><span class="chinese">我们要开车到北戴河。</span><span class="english">We'll drive to Beidaihe.</span></p>
 
 <p><span class="chinese">在北戴河你们吃海鲜了吗？</span><span class="english">Did you eat seafoods in Beidaihe?</span></p>

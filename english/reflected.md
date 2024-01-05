@@ -1,5 +1,7 @@
 # reflected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflected.md)
+
 <p><span class="chinese">并非每种色光都会反射回来。</span><span class="english">Every color is not reflected.</span></p>
 
 <p><span class="chinese">湖面映着树木的影像。</span><span class="english">The lake reflected the trees.</span></p>

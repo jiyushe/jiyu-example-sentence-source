@@ -1,5 +1,7 @@
 # insurant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insurant.md)
+
 <p><span class="chinese">被保险人可以与投保人为同一人。</span><span class="english">Insurant can be same person with policy-holder.</span></p>
 
 <p><span class="chinese">货物保险单的“被保险人”一栏应具买方名称。</span><span class="english">The Insurant shall be the Buyers name when the insurance form is completed.</span></p>

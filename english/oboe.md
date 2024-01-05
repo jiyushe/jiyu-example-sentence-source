@@ -1,5 +1,7 @@
 # oboe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oboe.md)
+
 <p><span class="chinese">双簧管奏出的是A调。</span><span class="english">The oboe sounded an A.</span></p>
 
 <p><span class="chinese">她学起双簧管来了。</span><span class="english">She has taken up the oboe.</span></p>

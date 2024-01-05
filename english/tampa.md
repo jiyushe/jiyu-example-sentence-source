@@ -1,5 +1,7 @@
 # tampa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tampa.md)
+
 <p><span class="chinese">历史中所记录下来的坦帕湾在六月份最多的闪电次数竟然高达50000次。</span><span class="english">Tampa Bay once recorded up to 50, 000 flashes in June alone.</span></p>
 
 <p><span class="chinese">纽约队在救援练球区花了好一番力气才击败坦帕湾队。</span><span class="english">New York beat Tampa Bay with a great effort from the bullpen.</span></p>

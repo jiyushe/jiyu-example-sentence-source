@@ -1,5 +1,7 @@
 # baleful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baleful.md)
+
 <p><span class="chinese">他现在认为这种影响是有害的。</span><span class="english">He now thinks this influence was baleful.</span></p>
 
 <p><span class="chinese">他歹毒地盯着那个蜷缩成一团的嫌疑犯。</span><span class="english">He turned his baleful glare on the cowering suspect.</span></p>

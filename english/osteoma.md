@@ -1,5 +1,7 @@
 # osteoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteoma.md)
+
 <p><span class="chinese">骨瘤有多大的危害?。</span><span class="english">Does osteoma have how old harm?</span></p>
 
 <p><span class="chinese">那些发展，被称为骨样骨瘤。</span><span class="english">Those that develop in bone are called osteoma.</span></p>

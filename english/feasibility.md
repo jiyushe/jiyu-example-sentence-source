@@ -1,5 +1,7 @@
 # feasibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feasibility.md)
+
 <p><span class="chinese">我需要一份可行性报告的范文！</span><span class="english">I need a feasibility report model essay!</span></p>
 
 <p><span class="chinese">丹徒县肉牛加工项目的可行性研究。</span><span class="english">Feasibility Research on Beef Processing in Datu.</span></p>

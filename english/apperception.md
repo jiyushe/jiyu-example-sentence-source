@@ -1,5 +1,7 @@
 # apperception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apperception.md)
+
 <p><span class="chinese">斯帝阿姿--源自对艺术的领悟…</span><span class="english">Steel-arts--- Coming from the apperception of art.</span></p>
 
 <p><span class="chinese">“禅典”是他在佛禅世界中的领悟。</span><span class="english">"The story about the Zen " is his apperception in the Zen field.</span></p>

@@ -1,5 +1,7 @@
 # maltose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maltose.md)
+
 <p><span class="chinese">到底哪种才是麦芽糖的味道。</span><span class="english">In the end what is the taste of maltose.</span></p>
 
 <p><span class="chinese">关火，加入，麦芽糖。</span><span class="english">Switch off the fire and add the maltose.</span></p>

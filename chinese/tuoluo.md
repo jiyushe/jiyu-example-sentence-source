@@ -1,5 +1,7 @@
 # 脱落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoluo.md)
+
 <p><span class="chinese">它就会自己脱落。</span><span class="english">It will peel off.</span></p>
 
 <p><span class="chinese">墙皮都已脱落了。</span><span class="english">The wall has stripped.</span></p>

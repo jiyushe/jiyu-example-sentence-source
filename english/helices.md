@@ -1,5 +1,7 @@
 # helices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helices.md)
+
 <p><span class="chinese">对手征性石英和螺旋铜丝的结构进行了分析研究。</span><span class="english">The structures of chiral quartz and copper helices are analysized.</span></p>
 
 <p><span class="chinese">如此一来，我们就可以随意来回翻转双股螺旋。</span><span class="english">In this way, the double helices can be turned back and forth at will.</span></p>

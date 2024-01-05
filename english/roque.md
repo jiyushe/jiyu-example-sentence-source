@@ -1,5 +1,7 @@
 # roque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roque.md)
+
 <p><span class="chinese">罗克沦陷的那天?。</span><span class="english">The day La Roque falls?</span></p>
 
 <p><span class="chinese">士兵们用炮火攻下城堡。</span><span class="english">Castle La Roque awaits its soldiers.</span></p>

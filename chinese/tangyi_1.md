@@ -1,5 +1,7 @@
 # 躺椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangyi_1.md)
+
 <p><span class="chinese">老爷子，买躺椅了？</span><span class="english">Father, to buy a recliner?</span></p>
 
 <p><span class="chinese">玛格娜躺在一把躺椅上。</span><span class="english">Magna was lying on a chaise longue.</span></p>

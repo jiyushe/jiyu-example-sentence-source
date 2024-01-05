@@ -1,5 +1,7 @@
 # oleate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oleate.md)
+
 <p><span class="chinese">油酸钠是最佳捕收剂。</span><span class="english">The best collector is sodium oleate.</span></p>
 
 <p><span class="chinese">比较了14种不同来源的脂肪酶催化油酸油醇酯的合成。</span><span class="english">The effects of 14 different Upases on oleyl oleate synthesis were compared.</span></p>

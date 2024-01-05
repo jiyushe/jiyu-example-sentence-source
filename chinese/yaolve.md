@@ -1,5 +1,7 @@
 # 要略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaolve.md)
+
 <p><span class="chinese">与海藻酸钠相比，SSPS对蛋糕品质的改良作用要略好一些。</span><span class="english">Compared with sodium alginate, SSPS had better effect on cake.</span></p>
 
 <p><span class="chinese">他认为北极无冰的概率要略低于一半对一半。</span><span class="english">He thinks there is slightly less than a 50-50 chance the North Pole will be ice-free.</span></p>

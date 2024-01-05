@@ -1,5 +1,7 @@
 # 妹夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meifu.md)
+
 <p><span class="chinese">你愿意要这样一位妹夫吗？</span><span class="english">Shall you like to have such a brother?</span></p>
 
 <p><span class="chinese">张成泽是敬爱领袖金正日的妹夫。</span><span class="english">Jang is the dear leader's brother-in-law.</span></p>

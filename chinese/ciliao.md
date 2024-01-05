@@ -1,5 +1,7 @@
 # 磁疗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciliao.md)
+
 <p><span class="chinese">利用远红外和磁疗技术对人体进行深层保健作用。</span><span class="english">Use far-infrared and magnetic technology to have deep health care effect.</span></p>
 
 <p><span class="chinese">磁疗效果，消除打鼾，提高深度睡眠。</span><span class="english">Eliminate snoring and improve deep sleep, with effects of magnetic therapy.</span></p>

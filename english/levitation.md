@@ -1,5 +1,7 @@
 # levitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levitation.md)
+
 <p><span class="chinese">磁浮系统?。</span><span class="english">Magnetic Levitation System?</span></p>
 
 <p><span class="chinese">用悬浮熔融代替石墨坩埚加热方法。</span><span class="english">Levitation melting is used instead of graphite crucible heating.</span></p>

@@ -1,5 +1,7 @@
 # anaesthetist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaesthetist.md)
+
 <p><span class="chinese">该麻醉师可以改变药物的处理与此有关。</span><span class="english">The anaesthetist can change the drug to deal with this.</span></p>
 
 <p><span class="chinese">黄志明博士还拥有医学博士学位并获得了麻醉师资格。</span><span class="english">Dr Wong also has a medical doctorate and is a qualified Anaesthetist.</span></p>

@@ -1,5 +1,7 @@
 # calibre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calibre.md)
+
 <p><span class="chinese">当他抖动他的衣袖时，一枚.22口径的子弹落了出来。</span><span class="english">When he shook his shirt sleeve, a .22 calibre bullet dropped out.</span></p>
 
 <p><span class="chinese">口径不一，各言其是，很难明辨是非和统一认识。</span><span class="english">Calibre from the words. It is difficult to identify and understanding.</span></p>

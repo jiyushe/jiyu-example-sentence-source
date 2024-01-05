@@ -1,5 +1,7 @@
 # 省会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghui_2.md)
+
 <p><span class="chinese">沈阳是中国东北辽宁省的省会，这个薰衣草园的占地面积约333公顷。</span><span class="english">The park covers an area of 333 hectares.</span></p>
 
 <p><span class="chinese">海口是海南省的省会都会。</span><span class="english">Haikou is the capit's city of Hainan Province.</span></p>

@@ -1,5 +1,7 @@
 # 项链
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianglian_2.md)
+
 <p><span class="chinese">一条项链，一只戒指，还有耳钉。</span><span class="english">A necklace. A ring.</span></p>
 
 <p><span class="chinese">我想要一条银项链。</span><span class="english">I want a silver chain.</span></p>

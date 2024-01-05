@@ -1,5 +1,7 @@
 # tetany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetany.md)
+
 <p><span class="chinese">第一个患者是一名4嵗零10个月大的男孩伴有手足搐搦和矮小。</span><span class="english">The first was a boy aged 4 years 10 months with tetany and dwarfism.</span></p>
 
 <p><span class="chinese">后肢轻度抽搐，蹒跚，卧地，间歇性抽搐。</span><span class="english">Mild Tetany of hind limbs, staggering, falling and intermittent convulsions.</span></p>

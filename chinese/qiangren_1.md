@@ -1,5 +1,7 @@
 # 强忍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangren_1.md)
+
 <p><span class="chinese">他强忍住愤怒。</span><span class="english">He choked down his anger.</span></p>
 
 <p><span class="chinese">我强忍住胸中的怒火。</span><span class="english">I tried to subdue my fury.</span></p>

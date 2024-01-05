@@ -1,5 +1,7 @@
 # 矿产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangchan.md)
+
 <p><span class="chinese">中国的矿产丰富。</span><span class="english">China is rich in minerals.</span></p>
 
 <p><span class="chinese">它矿产资源丰富</span><span class="english">It had tremendous riches in ore.</span></p>

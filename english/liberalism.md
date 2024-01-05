@@ -1,5 +1,7 @@
 # liberalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberalism.md)
+
 <p><span class="chinese">新派神学的衰落和消亡。</span><span class="english">The decline and death of liberalism.</span></p>
 
 <p><span class="chinese">你如何调和这个选择与自由主义？</span><span class="english">How do you reconcile this choice with liberalism?</span></p>

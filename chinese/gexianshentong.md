@@ -1,5 +1,7 @@
 # 各显神通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gexianshentong.md)
+
 <p><span class="chinese">为摆脱生存危机，文学期刊各显神通。</span><span class="english">To shake off the crisis, literary journals find their different ways.</span></p>
 
 <p><span class="chinese">小商品，大市场，区域经济各显神通。</span><span class="english">Large market with small commodity is the blue-chip feature of its regional economy.</span></p>

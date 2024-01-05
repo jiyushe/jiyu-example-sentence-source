@@ -1,5 +1,7 @@
 # 腰椎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhui.md)
+
 <p><span class="chinese">什么是腰椎？</span><span class="english">What is lumbar?</span></p>
 
 <p><span class="chinese">创伤也可导致腰椎小关节源性疼痛。</span><span class="english">Trauma may also cause lumbar facetogenic pain.</span></p>

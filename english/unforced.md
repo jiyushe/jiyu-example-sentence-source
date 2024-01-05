@@ -1,5 +1,7 @@
 # unforced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unforced.md)
+
 <p><span class="chinese">教学纪律必须整顿。</span><span class="english">School discipline must be unforced strictly.</span></p>
 
 <p><span class="chinese">中国应该成为一个自然而然的、经常谈论的话题。</span><span class="english">China should be a constant topic of unforced conversation.</span></p>

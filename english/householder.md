@@ -1,5 +1,7 @@
 # householder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/householder.md)
+
 <p><span class="chinese">我可以请户主听电话吗？</span><span class="english">Can I speak to the householder.</span></p>
 
 <p><span class="chinese">居士！余来自阿槃提国。</span><span class="english">I come from Avanti, householder.</span></p>

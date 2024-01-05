@@ -1,5 +1,7 @@
 # shareholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shareholder.md)
+
 <p><span class="chinese">他是我们公司的持股者。</span><span class="english">He is a shareholder in our company.</span></p>
 
 <p><span class="chinese">甚至连摩洛哥的王室也是他们的股东。</span><span class="english">Even the royal family of Morocco is a shareholder.</span></p>

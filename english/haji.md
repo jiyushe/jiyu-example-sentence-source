@@ -1,5 +1,7 @@
 # haji
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haji.md)
+
 <p><span class="chinese">当哈吉从花园的门进来的时候，我们正试图唤醒她。</span><span class="english">We were trying to rouse her when Haji walked in from the garden entrance.</span></p>
 
 <p><span class="chinese">哈吉·萨利·穆罕默德，一个拉什卡尔加店主，也同意警察在不断改进他们的工作。</span><span class="english">Haji Salih Mohammad, a Lashkar Gah shopkeeper, agreed that the police were improving.</span></p>

@@ -1,5 +1,7 @@
 # 军警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junjing.md)
+
 <p><span class="chinese">牙买加军警抓捕毒枭引发冲突至少30人死亡。</span><span class="english">Gunbattles in Jamaican capital kill at least 30.</span></p>
 
 <p><span class="chinese">Meyers踌躇了一下，2个军警走进了帐篷。</span><span class="english">Meyers pauses, and two military police officers enter the tent.</span></p>

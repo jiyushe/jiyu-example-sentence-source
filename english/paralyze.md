@@ -1,5 +1,7 @@
 # paralyze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paralyze.md)
+
 <p><span class="chinese">他们只是不会使其让自己处于被动。</span><span class="english">They just don't let it paralyze them.</span></p>
 
 <p><span class="chinese">你消沉的自信心将击垮你，限制你。</span><span class="english">Your low self-confidence will limit and paralyze you.</span></p>

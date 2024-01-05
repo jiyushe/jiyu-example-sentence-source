@@ -1,5 +1,7 @@
 # orthopedics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthopedics.md)
+
 <p><span class="chinese">所有主要的整形外科产品制造商都销售这种人工髋关节。</span><span class="english">All the major orthopedics makers sell these devices.</span></p>
 
 <p><span class="chinese">所以机会一来，他就改读矫形外科了。</span><span class="english">At his first opportunity, he switched to orthopedics.</span></p>

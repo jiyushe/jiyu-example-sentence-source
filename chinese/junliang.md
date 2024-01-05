@@ -1,5 +1,7 @@
 # 军粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junliang.md)
+
 <p><span class="chinese">柳成龙担心军粮不足以补给明军。</span><span class="english">Yoo sung-ryong worry period is not enough to supply the Ming army.</span></p>
 
 <p><span class="chinese">为筹集军粮，光海君打算向宗亲征收粮食。</span><span class="english">To raise and commissary, light sea king intends to food to the clan.</span></p>

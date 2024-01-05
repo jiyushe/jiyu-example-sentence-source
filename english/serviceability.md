@@ -1,5 +1,7 @@
 # serviceability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serviceability.md)
+
 <p><span class="chinese">可靠性、可用性和可服务性</span><span class="english">Reliability availability and serviceability</span></p>
 
 <p><span class="chinese">平台的可用性和可维护性</span><span class="english">Availability and serviceability of the platform</span></p>

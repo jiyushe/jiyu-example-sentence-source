@@ -1,5 +1,7 @@
 # modest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modest.md)
+
 <p><span class="chinese">什么是谦虚？</span><span class="english">What is modest?</span></p>
 
 <p><span class="chinese">他这样说不太谦虚。</span><span class="english">He's not being modest.</span></p>

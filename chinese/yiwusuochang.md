@@ -1,5 +1,7 @@
 # 一无所长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwusuochang.md)
+
 <p><span class="chinese">你要跟他约会？他这人一无所长！</span><span class="english">You're dating him?He's such a zero!</span></p>
 
 <p><span class="chinese">你要跟她约会?她这人一无所长！</span><span class="english">You're dating her? She's such a zero!</span></p>

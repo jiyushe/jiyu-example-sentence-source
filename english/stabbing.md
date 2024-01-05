@@ -1,5 +1,7 @@
 # stabbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabbing.md)
+
 <p><span class="chinese">突然刺痛般的疼痛还是钝痛？</span><span class="english">Is it a stabbing pain or a bull pain?</span></p>
 
 <p><span class="chinese">印度捅了自己一刀，谢谢印度。</span><span class="english">Thank you India for stabbing yourself.</span></p>

@@ -1,5 +1,7 @@
 # 风雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyu.md)
+
 <p><span class="chinese">没有风雨云层。</span><span class="english">No storm clouds.</span></p>
 
 <p><span class="chinese">双星物语的风雨花之歌。</span><span class="english">A Song of Wind and Flowers.</span></p>

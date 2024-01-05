@@ -1,5 +1,7 @@
 # prostatectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostatectomy.md)
+
 <p><span class="chinese">前列腺切除后小便失禁咋办？</span><span class="english">Incontinence after prostatectomy?</span></p>
 
 <p><span class="chinese">如果说我曾经面对过一个强劲的敌人，我想我会说是根治性开放前列腺切除术。</span><span class="english">If I ever front a heavy metal band, I think I’ll call it Radical Open Prostatectomy.</span></p>

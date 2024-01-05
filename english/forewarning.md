@@ -1,5 +1,7 @@
 # forewarning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forewarning.md)
+
 <p><span class="chinese">给个预先警告.</span><span class="english">Give a forewarning.</span></p>
 
 <p><span class="chinese">这个预先通知拖车的个案有什么问题是需要修正的？</span><span class="english">What need to be fixed in this case of forewarning a car's towed?</span></p>

@@ -1,5 +1,7 @@
 # 节目单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiemudan.md)
+
 <p><span class="chinese">节目单有变化吗?</span><span class="english">Does the program change?</span></p>
 
 <p><span class="chinese">这是节目单。</span><span class="english">Here are the programmes.</span></p>

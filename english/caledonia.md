@@ -1,5 +1,7 @@
 # caledonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caledonia.md)
+
 <p><span class="chinese">我从新兵训练营出来以后，被派到海外去了新加了多尼亚。</span><span class="english">I graduated from boot camp, was sent overseas and landed at New Caledonia.</span></p>
 
 <p><span class="chinese">一棵椰子树坐落在一个有微风的热带海滩法国的新喀里多尼亚。</span><span class="english">A coconut palm stands on a breezy tropical beach in France's New Caledonia.</span></p>

@@ -1,5 +1,7 @@
 # 紫水晶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishuijing.md)
+
 <p><span class="chinese">双鱼座--紫水晶，绿玉</span><span class="english">Pisces -- Amethyst, Aquamarine</span></p>
 
 <p><span class="chinese">钻石，红宝石，绿宝石，紫水晶</span><span class="english">diamond, ruby, emerald, amethyst</span></p>

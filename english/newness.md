@@ -1,5 +1,7 @@
 # newness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newness.md)
+
 <p><span class="chinese">打开心欣赏每一刹那的新奇与意趣。</span><span class="english">Be open to the newness and significance of each moment.</span></p>
 
 <p><span class="chinese">评估标的物为旧房时，成新率对评估值的影响要确定权数。</span><span class="english">The newness rate is crucial When the subject is an old house.</span></p>

@@ -1,5 +1,7 @@
 # cabby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabby.md)
+
 <p><span class="chinese">出租车司机气得大吼一声。</span><span class="english">The cabby gave vent to an angry shout.</span></p>
 
 <p><span class="chinese">“哦，那是糖。”马车夫说。</span><span class="english">"Ah, that'd be sugar, " said the Cabby.</span></p>

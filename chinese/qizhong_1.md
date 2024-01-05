@@ -1,5 +1,7 @@
 # 器重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhong_1.md)
+
 <p><span class="chinese">处理器重试。</span><span class="english">Processor retries.</span></p>
 
 <p><span class="chinese">他们将感到不被器重。</span><span class="english">They will feel unvalued.</span></p>

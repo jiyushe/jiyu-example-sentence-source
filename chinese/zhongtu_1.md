@@ -1,5 +1,7 @@
 # 中途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtu_1.md)
+
 <p><span class="chinese">这趟公共汽车中途不停。</span><span class="english">This is a nonstop bus.</span></p>
 
 <p><span class="chinese">我可以在芝加哥中途下车吗？</span><span class="english">Can I stop over in Chicago?</span></p>

@@ -1,5 +1,7 @@
 # 夏令时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialingshi.md)
+
 <p><span class="chinese">卫报，2011年8月19日星期五，英国夏令时2011</span><span class="english">guardian.co.uk, Friday 19 August 2011 20.11 BST</span></p>
 
 <p><span class="chinese">卫报，2011年9月2日星期五，英国夏令时1833</span><span class="english">guardian.co.uk, Friday 2 September 2011 18.33 BST</span></p>

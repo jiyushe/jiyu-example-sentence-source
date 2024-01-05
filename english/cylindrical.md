@@ -1,5 +1,7 @@
 # cylindrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cylindrical.md)
+
 <p><span class="chinese">圆柱形？</span><span class="english">Cylindrical?</span></p>
 
 <p><span class="chinese">象甲科害虫是一种发光的圆柱形甲虫。</span><span class="english">The weevil is a shiny, cylindrical beetle.</span></p>

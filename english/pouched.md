@@ -1,5 +1,7 @@
 # pouched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pouched.md)
+
 <p><span class="chinese">她把这块布料做成袋状。</span><span class="english">She pouched the cloth.</span></p>
 
 <p><span class="chinese">老板把所有的钱收进袋中。</span><span class="english">The boss pouched all the money.</span></p>

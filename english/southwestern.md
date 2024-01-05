@@ -1,5 +1,7 @@
 # southwestern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southwestern.md)
+
 <p><span class="chinese">亚述-亚洲西部的古帝国。</span><span class="english">Assyria, Ancient empire, southwestern Asia.</span></p>
 
 <p><span class="chinese">秦在今天的上海西南地区置海盐县。</span><span class="english">Qin Haiyan home in the southwestern region of Shanghai.</span></p>

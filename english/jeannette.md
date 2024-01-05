@@ -1,5 +1,7 @@
 # jeannette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeannette.md)
+
 <p><span class="chinese">她这才从门口跟了他进去，向来灵动的香奶替他拿着外套和帽子。</span><span class="english">She would follow him in while Jeannette , always alert, would take his coat and hat.</span></p>
 
 <p><span class="chinese">除了律师工作之外，张媛容在位于加东的所属教会的委员会中也积极活动，作出贡献。</span><span class="english">Apart from her legal work, Jeannette has been active in her church council in Katong.</span></p>

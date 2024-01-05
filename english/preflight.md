@@ -1,5 +1,7 @@
 # preflight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preflight.md)
+
 <p><span class="chinese">我整理一下飞行座椅然后坐了上去。</span><span class="english">I preflight the seat and hop in.</span></p>
 
 <p><span class="chinese">机组人员又复习了一遍飞行前的程序。</span><span class="english">The crew ran through the preflight procedures.</span></p>

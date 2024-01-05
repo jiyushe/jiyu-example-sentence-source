@@ -1,5 +1,7 @@
 # 行书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshu.md)
+
 <p><span class="chinese">行书是我国书写文字的一种方法。</span><span class="english">I write using a word processor.</span></p>
 
 <p><span class="chinese">此七律三首是饶介由行书书成。内容大体是与友人饮酒后所作之诗。</span><span class="english">The poem was written by Jao Chieh after drinking with a friend.</span></p>

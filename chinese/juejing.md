@@ -1,5 +1,7 @@
 # 绝经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juejing.md)
+
 <p><span class="chinese">你对于荷尔蒙和绝经怎么看？</span><span class="english">What's your opinion about hormones and menopause?</span></p>
 
 <p><span class="chinese">这个研究包括了近46000名绝经后妇女。</span><span class="english">The study included nearly 46,000 postmenopausal U.</span></p>

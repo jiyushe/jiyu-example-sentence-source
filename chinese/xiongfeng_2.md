@@ -1,5 +1,7 @@
 # 雄风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongfeng_2.md)
+
 <p><span class="chinese">快在手机上体验一下吧，来个大战四方以振雄风了！</span><span class="english">Fast on the phone Try it out, to a four-to-glory war!</span></p>
 
 <p><span class="chinese">回顾历史，大多银行能从法律纠纷中重振雄风。</span><span class="english">History says that banks bounce back from legal problems.</span></p>

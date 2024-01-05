@@ -1,5 +1,7 @@
 # antennae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antennae.md)
+
 <p><span class="chinese">那只昆虫抖动它的触角。</span><span class="english">The insect quivered its antennae.</span></p>
 
 <p><span class="chinese">润滑天线转动的部分。</span><span class="english">Lubricate moving parts of antennae.</span></p>

@@ -1,5 +1,7 @@
 # houseful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/houseful.md)
+
 <p><span class="chinese">他们款待一屋子的客人。</span><span class="english">They entertained a houseful of guests.</span></p>
 
 <p><span class="chinese">上周末我们家来了一屋子客人。</span><span class="english">We had a houseful of guests last weekend.</span></p>

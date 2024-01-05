@@ -1,5 +1,7 @@
 # 故技
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_4.md)
+
 <p><span class="chinese">现在他试图在水泥工业中故技重施。</span><span class="english">Now he is trying to do the same thing to cement.</span></p>
 
 <p><span class="chinese">如今，军方故技重施，押宝自由派反对者。</span><span class="english">Now, the army is gambling on the liberal opposition for the same goal.</span></p>

@@ -1,5 +1,7 @@
 # 号手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoshou.md)
+
 <p><span class="chinese">而他是个非常好的小号手</span><span class="english">He was a very good trumpeter.</span></p>
 
 <p><span class="chinese">他们以号手为前导昂首阔步走进大厅。</span><span class="english">They swept into the hall, preceded by trumpeters.</span></p>

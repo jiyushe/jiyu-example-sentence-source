@@ -1,5 +1,7 @@
 # dorothea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorothea.md)
+
 <p><span class="chinese">多萝西娅认为这是一个美好的允诺。</span><span class="english">Dorothea seized this as a precious permission.</span></p>
 
 <p><span class="chinese">多萝西娅本人从未想过她比别的女人更值得赞美。</span><span class="english">Dorothea herself had no dreams of being praised above other women.</span></p>

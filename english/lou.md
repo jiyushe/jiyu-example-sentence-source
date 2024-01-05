@@ -1,5 +1,7 @@
 # lou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lou.md)
+
 <p><span class="chinese">先扔给玛丽露。</span><span class="english">Toss it first to Mary Lou.</span></p>
 
 <p><span class="chinese">詹姆斯和路都是十几岁的少年。</span><span class="english">James and Lou were teenagers.</span></p>

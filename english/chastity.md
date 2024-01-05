@@ -1,5 +1,7 @@
 # chastity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chastity.md)
+
 <p><span class="chinese">美貌与贞洁常相斥。</span><span class="english">Beauty and chastity seldom meet.</span></p>
 
 <p><span class="chinese">最重要的是贞操？</span><span class="english">"And the greatest of these is chastity"?</span></p>

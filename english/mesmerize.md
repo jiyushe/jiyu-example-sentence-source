@@ -1,5 +1,7 @@
 # mesmerize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesmerize.md)
+
 <p><span class="chinese">我能感受到你在蛊惑我的心智。</span><span class="english">I can feel that you mesmerize my heart.</span></p>
 
 <p><span class="chinese">他不需要虚张声势给观众催眠。</span><span class="english">He needs no bravado to mesmerize spectators.</span></p>

@@ -1,5 +1,7 @@
 # 慌慌张张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanghuangzhangzhang.md)
+
 <p><span class="chinese">他慌慌张张的走。</span><span class="english">He walked in a flurry.</span></p>
 
 <p><span class="chinese">他慌慌张张把球掉了。</span><span class="english">He messed up and dropped the ball.</span></p>

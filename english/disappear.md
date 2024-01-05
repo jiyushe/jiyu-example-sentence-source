@@ -1,5 +1,7 @@
 # disappear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disappear.md)
+
 <p><span class="chinese">如果它消失了呢？</span><span class="english">And if it does disappear?</span></p>
 
 <p><span class="chinese">但他们为什么消失呢？</span><span class="english">But why did they disappear?</span></p>

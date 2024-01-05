@@ -1,5 +1,7 @@
 # 马前卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maqianzu.md)
+
 <p><span class="chinese">父亲做了将军，儿子还是马前卒。</span><span class="english">Father made a general, his son or a pawn.</span></p>
 
 <p><span class="chinese">父亲已做了将军，儿子还只是马前卒。</span><span class="english">His father has done a general, his son was just a pawn.</span></p>

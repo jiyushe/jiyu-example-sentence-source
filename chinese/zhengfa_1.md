@@ -1,5 +1,7 @@
 # 政法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfa_1.md)
+
 <p><span class="chinese">5碾碎当前的政法系统。</span><span class="english">Scrap the current justice system.</span></p>
 
 <p><span class="chinese">1996年毕业于日本政法大学。</span><span class="english">Graduated in 1996 at Hosei University of Japan.</span></p>

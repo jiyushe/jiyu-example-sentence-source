@@ -1,5 +1,7 @@
 # 脱钩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuogou.md)
+
 <p><span class="chinese">经济脱钩，并非一个神话。</span><span class="english">Economic decoupling is not a myth.</span></p>
 
 <p><span class="chinese">新兴经济体步履蹒跚，“脱钩论”遭到了奚落。</span><span class="english">Emerging economies reeled and decoupling was ridiculed.</span></p>

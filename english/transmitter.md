@@ -1,5 +1,7 @@
 # transmitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmitter.md)
+
 <p><span class="chinese">停止发送器实例。</span><span class="english">Stops the transmitter instance.</span></p>
 
 <p><span class="chinese">但那个发送器也短路了。</span><span class="english">But that transmitter also shorts out.</span></p>

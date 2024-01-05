@@ -1,5 +1,7 @@
 # 救火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuhuo.md)
+
 <p><span class="chinese">造船工业。救火水管。双铰链卷盘。</span><span class="english">Shipbuilding. fire hose. double hinge reels.</span></p>
 
 <p><span class="chinese">上百人现在正在参与救火的行动。</span><span class="english">Hundreds of people are now fighting the fire.</span></p>

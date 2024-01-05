@@ -1,5 +1,7 @@
 # undertone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undertone.md)
+
 <p><span class="chinese">但这里也存在着明确的政治意味。</span><span class="english">But there is a definite political undertone.</span></p>
 
 <p><span class="chinese">是一款清新、花果味香水。</span><span class="english">I love this scent. It has a powdery undertone.</span></p>

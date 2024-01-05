@@ -1,5 +1,7 @@
 # oklahoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oklahoma.md)
+
 <p><span class="chinese">那些牛将被运往俄克拉荷马。</span><span class="english">Those cows too will be shipped to Oklahoma.</span></p>
 
 <p><span class="chinese">让我想想有人是来自。俄克拉何马的吗？</span><span class="english">Let me think, OK, anybody here from Oklahoma?</span></p>

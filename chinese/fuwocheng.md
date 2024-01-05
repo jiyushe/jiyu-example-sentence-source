@@ -1,5 +1,7 @@
 # 俯卧撑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuwocheng.md)
+
 <p><span class="chinese">我做俯卧撑，</span><span class="english">I'll do some push-ups</span></p>
 
 <p><span class="chinese">做三组每组五个俯卧撑。</span><span class="english">Do 3 sets of 5 pushups.</span></p>

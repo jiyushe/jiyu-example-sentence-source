@@ -1,5 +1,7 @@
 # 证词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengci.md)
+
 <p><span class="chinese">她提供的事实证实那证词是假的。</span><span class="english">Her facts blasted the evidence.</span></p>
 
 <p><span class="chinese">他作了不利于被告的证词。</span><span class="english">He testified against the accused.</span></p>

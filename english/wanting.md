@@ -1,5 +1,7 @@
 # wanting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wanting.md)
+
 <p><span class="chinese">想想也是。</span><span class="english">Wanting is also.</span></p>
 
 <p><span class="chinese">这就是我想要的一切。</span><span class="english">That’s all. I am wanting.</span></p>

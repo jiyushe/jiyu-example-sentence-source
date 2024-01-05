@@ -1,5 +1,7 @@
 # bullae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullae.md)
+
 <p><span class="chinese">血泡渐形成疡，最后自愈结痂为疤。</span><span class="english">The bullae developed into ulcers which finally became scars.</span></p>
 
 <p><span class="chinese">自发性气胸、肺大疱切除可列为首选治疗术式。</span><span class="english">It can be used as the first choice for spontaneous pneumothorax and bullae of lung.</span></p>

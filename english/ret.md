@@ -1,5 +1,7 @@
 # ret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ret.md)
+
 <p><span class="chinese">有人把秘密泄露出去了，。</span><span class="english">Some has disclosed the sec ret.</span></p>
 
 <p><span class="chinese">对于神圣和惩戒，我们并不希望他们有这一技能。</span><span class="english">We don't actually like Holy and Ret having SA.</span></p>

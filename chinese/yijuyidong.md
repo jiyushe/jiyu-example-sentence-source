@@ -1,5 +1,7 @@
 # 一举一动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijuyidong.md)
+
 <p><span class="chinese">我注视这他的一举一动。</span><span class="english">I watched his movements attentively.</span></p>
 
 <p><span class="chinese">我非常关注他们的一举一动。</span><span class="english">I am very concerned about what they do.</span></p>

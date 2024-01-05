@@ -1,5 +1,7 @@
 # summarize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summarize.md)
+
 <p><span class="chinese">回顾和总结。</span><span class="english">Review and summarize.</span></p>
 
 <p><span class="chinese">让我来总结一下我所说的</span><span class="english">Let me summarize what I'm saying.</span></p>

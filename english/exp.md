@@ -1,5 +1,7 @@
 # exp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exp.md)
+
 <p><span class="chinese">浙江杭州丝绸集团进出口。</span><span class="english">Zhejiang Hangzhou Silk Group Imp &. Exp.</span></p>
 
 <p><span class="chinese">和亚麻油等干油混制成的颜料。</span><span class="english">Pigment mixed with drying oil, exp. linseed oil.</span></p>

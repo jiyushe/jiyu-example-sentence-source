@@ -1,5 +1,7 @@
 # stirrup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stirrup.md)
+
 <p><span class="chinese">我要拿这句话到马镫杯上用！</span><span class="english">I'm stealing that for Stirrup Cup!</span></p>
 
 <p><span class="chinese">查理曼拥有马镫，我们拥有电脑。</span><span class="english">Charlemagne had the stirrup. We have the computer.</span></p>

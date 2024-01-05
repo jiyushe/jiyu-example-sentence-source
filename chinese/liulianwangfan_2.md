@@ -1,5 +1,7 @@
 # 留连忘返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulianwangfan_2.md)
+
 <p><span class="chinese">黄果树公园让我留连忘返。</span><span class="english">Huangguoshu is a park that I regretted leaving.</span></p>
 
 <p><span class="chinese">这一切足以让游客心旷神怡、留连忘返。</span><span class="english">All this delightful enough for tourists, Liu Lian in time.</span></p>

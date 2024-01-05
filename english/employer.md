@@ -1,5 +1,7 @@
 # employer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/employer.md)
+
 <p><span class="chinese">你的雇主。</span><span class="english">Your employer.</span></p>
 
 <p><span class="chinese">雇主授权。</span><span class="english">An employer mandate.</span></p>

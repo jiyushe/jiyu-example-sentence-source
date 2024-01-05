@@ -1,5 +1,7 @@
 # 砖块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuankuai.md)
+
 <p><span class="chinese">砖块是沉重的。</span><span class="english">The brick is heavy.</span></p>
 
 <p><span class="chinese">我的房子由砖块构成。</span><span class="english">My house is made of brick.</span></p>

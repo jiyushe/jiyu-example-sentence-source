@@ -1,5 +1,7 @@
 # 上天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangtian.md)
+
 <p><span class="chinese">愿上天保佑他的灵魂得到安息。</span><span class="english">May Heavens rest his soul.</span></p>
 
 <p><span class="chinese">他被捧上天了。</span><span class="english">He was exalted to the skies.</span></p>

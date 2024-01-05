@@ -1,5 +1,7 @@
 # denounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denounce.md)
+
 <p><span class="chinese">我们应该公开指责异端邪说。</span><span class="english">We should denounce a heresy.</span></p>
 
 <p><span class="chinese">如果我们失败了，会遭到谴责。</span><span class="english">And if we fail, they will denounce us.</span></p>

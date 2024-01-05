@@ -1,5 +1,7 @@
 # 合办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heban.md)
+
 <p><span class="chinese">九岁时，他合办了一个广播秀，当时他住在拉斯维加斯。</span><span class="english">At age nine, he co-hosted a radio show when he was living in Las Vegas.</span></p>
 
 <p><span class="chinese">香港知识产权保护协会与知识产权署合办研讨会。</span><span class="english">The Coalition co-organises a seminar with the Intellectual Property Department.</span></p>

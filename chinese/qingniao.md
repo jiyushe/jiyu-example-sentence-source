@@ -1,5 +1,7 @@
 # 青鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingniao.md)
+
 <p><span class="chinese">那只青鸟是我心灵伙伴。</span><span class="english">It's a blue bird of my soul.</span></p>
 
 <p><span class="chinese">啊，青鸟，你飞往哪里？</span><span class="english">O! Blue bird, Where have you gone?</span></p>

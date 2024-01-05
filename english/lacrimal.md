@@ -1,5 +1,7 @@
 # lacrimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacrimal.md)
+
 <p><span class="chinese">检查泪器，注意水肿或炎症。</span><span class="english">C. Inspect lacrimal apparatus and note edema or inflammation.</span></p>
 
 <p><span class="chinese">研究对象130例原发泪腺上皮性肿瘤。</span><span class="english">Participants 130 cases with epithelial tumors of lacrimal gland.</span></p>

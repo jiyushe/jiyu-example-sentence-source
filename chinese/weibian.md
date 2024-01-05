@@ -1,5 +1,7 @@
 # 未便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibian.md)
+
 <p><span class="chinese">未便操之过急。</span><span class="english">It's no good being overhasty.</span></p>
 
 <p><span class="chinese">网站改版中！给您带来未便请宽恕！</span><span class="english">Sorry! Revision of the web site!</span></p>

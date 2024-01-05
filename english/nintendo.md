@@ -1,5 +1,7 @@
 # nintendo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nintendo.md)
+
 <p><span class="chinese">我恨你，任天堂。</span><span class="english">I hate you, Nintendo.</span></p>
 
 <p><span class="chinese">任天堂公司计划加固柄带。</span><span class="english">Nintendo intends to beef up the strap.</span></p>

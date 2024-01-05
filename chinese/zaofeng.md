@@ -1,5 +1,7 @@
 # 遭逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaofeng.md)
+
 <p><span class="chinese">贝蒂·斯托布斯，她是一位农民的妻子，67岁时就遭逢了这样的经历。</span><span class="english">Betty Stobbs was a farmer's wife and 67 years old at the time of her tragic encounter.</span></p>
 
 <p><span class="chinese">家中遭逢变故，这段日子估计都没什么时间和心情去看盘操作了。</span><span class="english">Family tragedies, this period of time estimated no time and the mood to go look up operation.</span></p>

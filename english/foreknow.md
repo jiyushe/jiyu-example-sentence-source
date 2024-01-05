@@ -1,5 +1,7 @@
 # foreknow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreknow.md)
+
 <p><span class="chinese">谁能预知人类的苦难?。</span><span class="english">Who would foreknow the miseries of man?</span></p>
 
 <p><span class="chinese">而且可以预见，这个数据还将继续下滑。</span><span class="english">And can foreknow , this data still will continue to glide.</span></p>

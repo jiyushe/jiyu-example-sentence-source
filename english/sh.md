@@ -1,5 +1,7 @@
 # sh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sh.md)
+
 <p><span class="chinese">于是，承宪就按主持人告诉他的做了。</span><span class="english">So, SH does as he told him.</span></p>
 
 <p><span class="chinese">但是她是非常严密的与我们。</span><span class="english">But sh is vry strict with us.</span></p>

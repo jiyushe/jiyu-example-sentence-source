@@ -1,5 +1,7 @@
 # restrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restrained.md)
+
 <p><span class="chinese">她好容易才忍住了眼泪。</span><span class="english">She restrained tears with difficulty.</span></p>
 
 <p><span class="chinese">在列车上过度用脑受到约束.</span><span class="english">Strain brain on the train is  restrained.</span></p>

@@ -1,5 +1,7 @@
 # assume 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assume.md)
+
 <p><span class="chinese">我会给出下面的假定。</span><span class="english">I'll assume the following.</span></p>
 
 <p><span class="chinese">假定所有输入都可疑。</span><span class="english">Assume all input is suspect.</span></p>

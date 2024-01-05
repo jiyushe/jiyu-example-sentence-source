@@ -1,5 +1,7 @@
 # volcanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volcanism.md)
+
 <p><span class="chinese">全球火山活动计划。</span><span class="english">Global Volcanism Program.</span></p>
 
 <p><span class="chinese">火山作用和火山的种类。</span><span class="english">Volcanism and volcanic types.</span></p>

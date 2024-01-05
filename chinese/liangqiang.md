@@ -1,5 +1,7 @@
 # 踉跄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangqiang.md)
+
 <p><span class="chinese">他踉跄几下，向后倒去。</span><span class="english">He stumbled and fell backwards.</span></p>
 
 <p><span class="chinese">老人踉跄地沿途遛跶。</span><span class="english">The old man bumble along the road.</span></p>

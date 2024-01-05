@@ -1,5 +1,7 @@
 # LCD
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lcd.md)
+
 <p><span class="chinese">这台液晶高清电视机是海尔生产的。</span><span class="english">This LCD HDTV is made by Haier.</span></p>
 
 <p><span class="chinese">当然少不了的还有2.5英寸液晶显示屏。</span><span class="english">There is a 2.5-inch LCD display.</span></p>

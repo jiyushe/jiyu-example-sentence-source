@@ -1,5 +1,7 @@
 # nickname
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nickname.md)
+
 <p><span class="chinese">这是你的你昵称吗？</span><span class="english">Is it your nickname?</span></p>
 
 <p><span class="chinese">王琳很喜欢这个绰号。</span><span class="english">Wang likes this nickname.</span></p>

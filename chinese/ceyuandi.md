@@ -1,5 +1,7 @@
 # 策源地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceyuandi.md)
+
 <p><span class="chinese">这座宫殿曾是阴谋诡计的策源地。</span><span class="english">The palace was a nest of intrigue.</span></p>
 
 <p><span class="chinese">活断层是地震的潜在策源地。</span><span class="english">Active fault is the source of earthquake.</span></p>

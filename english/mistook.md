@@ -1,5 +1,7 @@
 # mistook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistook.md)
+
 <p><span class="chinese">也许有人拿错了。</span><span class="english">Maybe someone mistook it.</span></p>
 
 <p><span class="chinese">他把我错认成我姐姐了。</span><span class="english">He mistook me for my sister.</span></p>

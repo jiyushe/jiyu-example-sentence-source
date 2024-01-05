@@ -1,5 +1,7 @@
 # 收条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutiao.md)
+
 <p><span class="chinese">我借觉得这只是一张收条罢了。</span><span class="english">I thought it was just a receipt.</span></p>
 
 <p><span class="chinese">他们不必寄给我收条。</span><span class="english">They need not send me a receipt.</span></p>

@@ -1,5 +1,7 @@
 # kitchener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitchener.md)
+
 <p><span class="chinese">是国王还是大厨？</span><span class="english">Was it the King? Or Kitchener?</span></p>
 
 <p><span class="chinese">我想成为一名厨师，我长大了。</span><span class="english">I want to be a kitchener when I grow up.</span></p>

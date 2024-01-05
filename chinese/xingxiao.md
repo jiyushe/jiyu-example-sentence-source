@@ -1,5 +1,7 @@
 # 行销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxiao.md)
+
 <p><span class="chinese">今天利瓦伊牌的牛仔服行销全球。</span><span class="english">Today the Levi´s brand is sold worldwide.</span></p>
 
 <p><span class="chinese">我们需要回顾一下我们的行销策略。</span><span class="english">We need to review our marketing strategy.</span></p>

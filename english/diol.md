@@ -1,5 +1,7 @@
 # diol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diol.md)
+
 <p><span class="chinese">公开了一种由二醇生产烯醇的方法。</span><span class="english">A process for producing an alkenyl alcohol from a diol is disclosed.</span></p>
 
 <p><span class="chinese">二醇扩链剂是影响TPU物理性能的一个重要因素。</span><span class="english">The diol chain-extension agent is an important factor influencing the physical performance of TPU.</span></p>

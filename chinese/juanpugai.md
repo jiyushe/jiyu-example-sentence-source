@@ -1,5 +1,7 @@
 # 卷铺盖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanpugai.md)
+
 <p><span class="chinese">三分之一的工人会卷铺盖走人。</span><span class="english">One in three workers will be gone.</span></p>
 
 <p><span class="chinese">如果没有，就得卷铺盖走人。</span><span class="english">If they didn't, they were going home.</span></p>

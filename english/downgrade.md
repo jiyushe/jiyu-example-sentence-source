@@ -1,5 +1,7 @@
 # downgrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downgrade.md)
+
 <p><span class="chinese">说白了，它也是一种降级的方法吗?。</span><span class="english">Is it just a way to downgrade?</span></p>
 
 <p><span class="chinese">美国信用降级的时钟开始发出滴答声。</span><span class="english">The downgrade clock began to tick.</span></p>

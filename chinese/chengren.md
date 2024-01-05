@@ -1,5 +1,7 @@
 # 成人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengren.md)
+
 <p><span class="chinese">成人在这些任务上反应更慢</span><span class="english">They were slower at them.</span></p>
 
 <p><span class="chinese">成人后的犯罪率。</span><span class="english">Adult offenses later on in their lives.</span></p>

@@ -1,5 +1,7 @@
 # 显山露水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshanlushui.md)
+
 <p><span class="chinese">他在过去几年中终于开始显山露水。</span><span class="english">It has come to the surface over the last few years.</span></p>
 
 <p><span class="chinese">等他完全俘虏你的心时，他的平庸就显山露水了。</span><span class="english">Until he fully when he captured your mediocrity would be.</span></p>

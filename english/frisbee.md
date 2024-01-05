@@ -1,5 +1,7 @@
 # frisbee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frisbee.md)
+
 <p><span class="chinese">它就像一个有生命的飞盘，在天空飞旋着。</span><span class="english">It FLIES OFF, a living Frisbee.</span></p>
 
 <p><span class="chinese">举个例子，就看看飞盘吧。</span><span class="english">For example, think of a Frisbee.</span></p>

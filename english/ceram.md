@@ -1,5 +1,7 @@
 # ceram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceram.md)
+
 <p><span class="chinese">但我不喜欢三明治或冰淇淋-他们太凉了！</span><span class="english">But I don't like sandwiches or ice ceram — they're too cold!</span></p>
 
 <p><span class="chinese">目的比较瓷化树脂与银汞合金治疗恒磨牙龋损的临床疗效。</span><span class="english">Objective To compare the clinic effects between Tetric Ceram and amalgam in treating molar caries.</span></p>

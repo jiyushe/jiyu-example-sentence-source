@@ -1,5 +1,7 @@
 # 赏金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjin_1.md)
+
 <p><span class="chinese">从未有人来认领这笔赏金。</span><span class="english">The reward has never been claimed.</span></p>
 
 <p><span class="chinese">感谢捉拿狼群和小狼的赏金。</span><span class="english">Thanks for bounties on wolves and coyotes.</span></p>

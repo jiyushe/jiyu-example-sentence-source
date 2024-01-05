@@ -1,5 +1,7 @@
 # measureless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measureless.md)
+
 <p><span class="chinese">因为自我是无边无际无从度量的大海。</span><span class="english">For self is a sea boundless and measureless.</span></p>
 
 <p><span class="chinese">于是到达了不可测的洞窟。</span><span class="english">Then reached the caverns measureless to man.</span></p>

@@ -1,5 +1,7 @@
 # dundee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dundee.md)
+
 <p><span class="chinese">与邓迪队的这场比赛是对我们意志的一次真正的考验。</span><span class="english">The match with Dundee is a real test of character for us.</span></p>
 
 <p><span class="chinese">威士忌酒已送到邓迪港的保税仓库。</span><span class="english">The whisky was taken to bonded warehouses at Port Dundee.</span></p>

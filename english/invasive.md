@@ -1,5 +1,7 @@
 # invasive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invasive.md)
+
 <p><span class="chinese">“这是一种外科器械手术，”她说。</span><span class="english">“It is an invasive procedure,” she said.</span></p>
 
 <p><span class="chinese">在生态交错带边缘管理外来物种入侵。</span><span class="english">Manage invasive species at ecotone edges.</span></p>

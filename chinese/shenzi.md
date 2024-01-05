@@ -1,5 +1,7 @@
 # 身子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzi.md)
+
 <p><span class="chinese">达西先生耸了耸身子。</span><span class="english">Mr. Darcy bowed.</span></p>
 
 <p><span class="chinese">她也光着身子了。</span><span class="english">She was naked too.</span></p>

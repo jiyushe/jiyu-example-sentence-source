@@ -1,5 +1,7 @@
 # bogie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bogie.md)
+
 <p><span class="chinese">转向架上的每个动轴均由一台牵引电动机驱动。</span><span class="english">Each bogie on the driving shaft by a traction motor drive.</span></p>
 
 <p><span class="chinese">那么打高尔夫球的人对海滨雀稗评价如何呢？</span><span class="english">So do golfers rate seashore paspalum as a birdie or a bogie?</span></p>

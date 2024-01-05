@@ -1,5 +1,7 @@
 # seroconversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seroconversion.md)
+
 <p><span class="chinese">有没有一年半后血清转阳的个案？</span><span class="english">Is there any seroconversion lasting more than a year and a half ?</span></p>
 
 <p><span class="chinese">理想终点是抗原消失或甚至产生HBsAb血清转换。</span><span class="english">The ideal end point is antigen loss or even seroconversion to anti-HBs.</span></p>

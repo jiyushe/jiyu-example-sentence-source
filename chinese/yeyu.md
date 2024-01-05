@@ -1,5 +1,7 @@
 # 业余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyu.md)
+
 <p><span class="chinese">您的业余爱好是什么？</span><span class="english">Was hast du für Hobbys?</span></p>
 
 <p><span class="chinese">我的业余爱好是谈钢琴。</span><span class="english">My hoy is playing the piano?</span></p>

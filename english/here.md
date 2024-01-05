@@ -1,5 +1,7 @@
 # here 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/here.md)
+
 <p><span class="chinese">摸摸这儿。</span><span class="english">Feel here.</span></p>
 
 <p><span class="chinese">瞧,我现在在思考,所以我存在</span><span class="english">Here I am.</span></p>

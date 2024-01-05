@@ -1,5 +1,7 @@
 # reclusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclusion.md)
+
 <p><span class="chinese">也许陶渊明性格成分中被人们讨论得最多的是他的归隐。</span><span class="english">Probably the most discussed aspect of Tao's life is his reclusion.</span></p>
 
 <p><span class="chinese">已过古稀之年的他长期隐居在山洞里，被当地人称为“圣人”。</span><span class="english">He was over 70 years old and lived a long life of reclusion in a cave.</span></p>

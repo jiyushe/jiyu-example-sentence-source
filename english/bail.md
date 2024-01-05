@@ -1,5 +1,7 @@
 # bail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bail.md)
+
 <p><span class="chinese">我该保释她出狱吗?</span><span class="english">Shall I bail her out?</span></p>
 
 <p><span class="chinese">他的朋友为他作保释人。</span><span class="english">His friend went bail for him.</span></p>

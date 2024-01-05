@@ -1,5 +1,7 @@
 # device 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/device.md)
+
 <p><span class="chinese">核装置的大小。</span><span class="english">Size of the device.</span></p>
 
 <p><span class="chinese">这是他的专利发明。</span><span class="english">It is his patent device.</span></p>

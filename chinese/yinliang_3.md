@@ -1,5 +1,7 @@
 # 音量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinliang_3.md)
+
 <p><span class="chinese">请把电视机音量放小些。</span><span class="english">Please turn the TV down.</span></p>
 
 <p><span class="chinese">请把音量开小一点，好吗？</span><span class="english">Would you turn down the stereo?</span></p>

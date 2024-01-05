@@ -1,5 +1,7 @@
 # 豆蔻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doukou.md)
+
 <p><span class="chinese">肉豆蔻、肉豆蔻衣及豆蔻。</span><span class="english">Nutmeg, mace and cardamoms.</span></p>
 
 <p><span class="chinese">橙花和豆蔻的阵阵香气</span><span class="english">Odours of orange-flowers and spice</span></p>

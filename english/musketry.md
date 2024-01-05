@@ -1,5 +1,7 @@
 # musketry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musketry.md)
+
 <p><span class="chinese">安灼拉在炮轰和排枪之间所听到的就是这些声音。</span><span class="english">This was what Enjolras had caught in the intervals of the cannonade and the musketry.</span></p>
 
 <p><span class="chinese">这一场捉迷藏似的射击足足延续了一刻钟，并且打死了几块玻璃窗。</span><span class="english">This blind-man's-buff musketry lasted for a quarter of an hour and killed several panes of glass.</span></p>

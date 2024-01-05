@@ -1,5 +1,7 @@
 # 武备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wubei.md)
+
 <p><span class="chinese">新型车辆最主要的革新是炮塔和它的武备。</span><span class="english">The main innovation in the new vehicle was the turret and its armament.</span></p>
 
 <p><span class="chinese">测试袪除武装在须要重整武备从此不断变得明白。</span><span class="english">The attempt to disarm continued after the need to rearm became apparent.</span></p>

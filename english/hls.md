@@ -1,5 +1,7 @@
 # hls
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hls.md)
+
 <p><span class="chinese">选用HLS颜色模型来表示颜色特征。</span><span class="english">Color Parameters is denoted by HLS color mode.</span></p>
 
 <p><span class="chinese">合肥光源数字横向逐束团反馈系统使用TED数字处理器。</span><span class="english">The HLS digital TBF system is based on the TED digital feedback processor.</span></p>

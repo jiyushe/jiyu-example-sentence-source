@@ -1,5 +1,7 @@
 # dextrose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dextrose.md)
+
 <p><span class="chinese">葡萄糖氯化钠注射液…</span><span class="english">Dextrose and Sodium Chloride Inj.</span></p>
 
 <p><span class="chinese">葡萄糖液可用来供给水分。</span><span class="english">Dextrose solutions are useful for providing water.</span></p>

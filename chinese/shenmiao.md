@@ -1,5 +1,7 @@
 # 神妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmiao.md)
+
 <p><span class="chinese">竟然有神妙的诀窍使火点燃？</span><span class="english">Should kindle fire by wonderful device!</span></p>
 
 <p><span class="chinese">它是如斯的丰硕而长久，精巧而又神妙！</span><span class="english">It is so rich and long, delicate and Shenmiao!</span></p>

@@ -1,5 +1,7 @@
 # smoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoke.md)
+
 <p><span class="chinese">他抽烟吗？</span><span class="english">Boes he smoke?</span></p>
 
 <p><span class="chinese">我烟抽得很厉害。</span><span class="english">I smoke a lot.</span></p>

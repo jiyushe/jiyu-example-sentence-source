@@ -1,5 +1,7 @@
 # spermicidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermicidal.md)
+
 <p><span class="chinese">目的筛选石榴皮中鞣质的抑精活性部位。</span><span class="english">Objective To screen the spermicidal part of tannin in Punica granatum L.</span></p>
 
 <p><span class="chinese">研究了硝苯柳胺的合成，杀精子活性及其毒性和毒理性能。</span><span class="english">Niphensamide has been synthesized and tested for spermicidal activity, toxicity and poison mechanism.</span></p>

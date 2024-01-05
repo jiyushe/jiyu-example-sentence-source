@@ -1,5 +1,7 @@
 # 回头是岸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huitoushian.md)
+
 <p><span class="chinese">苦海无边，回头是岸。爱恨无期，放下得道。</span><span class="english">Hell at endless. Love hate life, put down word.</span></p>
 
 <p><span class="chinese">有些身居海外的印度人决定回头是岸。</span><span class="english">Some overseas Indians are throwing in the towel.</span></p>

@@ -1,5 +1,7 @@
 # silence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silence.md)
+
 <p><span class="chinese">沉默是金。</span><span class="english">Silence is gold.</span></p>
 
 <p><span class="chinese">他渴望宁静。</span><span class="english">He craves silence.</span></p>

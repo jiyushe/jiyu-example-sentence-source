@@ -1,5 +1,7 @@
 # tinderbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinderbox.md)
+
 <p><span class="chinese">“拿到我的火绒箱了吗？”老巫婆问。</span><span class="english">"Have you got my tinderbox?" asked the old witch.</span></p>
 
 <p><span class="chinese">于是他拿出火绒箱，并敲击打火石。</span><span class="english">Then he took out his tinderbox and struck the flint.</span></p>

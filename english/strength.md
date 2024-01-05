@@ -1,5 +1,7 @@
 # strength
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strength.md)
+
 <p><span class="chinese">按摩的力最。</span><span class="english">Massage strength.</span></p>
 
 <p><span class="chinese">还是更注重优点？</span><span class="english">Or your strength?</span></p>

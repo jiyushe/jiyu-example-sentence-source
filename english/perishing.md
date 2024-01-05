@@ -1,5 +1,7 @@
 # perishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perishing.md)
+
 <p><span class="chinese">这种旧宗教正在消亡。</span><span class="english">The old religion is perishing.</span></p>
 
 <p><span class="chinese">这讨厌的差事，我真受够了！</span><span class="english">I've had enough of this perishing job!</span></p>

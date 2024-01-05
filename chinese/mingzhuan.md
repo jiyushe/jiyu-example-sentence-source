@@ -1,5 +1,7 @@
 # 鸣啭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhuan.md)
+
 <p><span class="chinese">那只金丝雀在笼中鸣啭。</span><span class="english">The canary was trilling away in its cage.</span></p>
 
 <p><span class="chinese">鸟儿开始在树丛中啁啾鸣啭。</span><span class="english">Birds had begun to chirp and twitter among the trees.</span></p>

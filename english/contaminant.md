@@ -1,5 +1,7 @@
 # contaminant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contaminant.md)
+
 <p><span class="chinese">食品中的化学污染物是否致癌？</span><span class="english">Does a chemical contaminant in food cause cancer?</span></p>
 
 <p><span class="chinese">剩余的微量污染物经过两级纳滤处理后去除。</span><span class="english">Remaining trace contaminant removal after two-stage Nanofiltration process.</span></p>

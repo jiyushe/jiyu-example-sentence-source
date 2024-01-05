@@ -1,5 +1,7 @@
 # calmly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calmly.md)
+
 <p><span class="chinese">那些羊安静地躺在她的脚旁。</span><span class="english">The sheep lay calmly at her feet.</span></p>
 
 <p><span class="chinese">梅金虽然红起了脸，但是说这话的时候还蛮镇定的。</span><span class="english">Megan, with a red face said calmly.</span></p>

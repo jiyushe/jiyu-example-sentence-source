@@ -1,5 +1,7 @@
 # 驻扎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzha.md)
+
 <p><span class="chinese">你驻扎在布拉格堡吗？</span><span class="english">You stationed out at Fort Bragg?</span></p>
 
 <p><span class="chinese">士兵们驻扎在城内。</span><span class="english">The soldiers were quartered in the town.</span></p>

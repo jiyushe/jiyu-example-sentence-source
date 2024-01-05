@@ -1,5 +1,7 @@
 # rancho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rancho.md)
+
 <p><span class="chinese">圣达菲牧场的席瓦.莫拉德法认为她的家会幸免于难。</span><span class="english">Shiva Moradfar of Rancho Santa Fe believes her home escaped the fire.</span></p>
 
 <p><span class="chinese">“里奥兰翘镇”迄今还没有自己的应急设施。</span><span class="english">The township of Rio Rancho has hitherto not had its own emergency facilities.</span></p>

@@ -1,5 +1,7 @@
 # mastodon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastodon.md)
+
 <p><span class="chinese">美洲印第安人的祖先大概知道乳齿象。</span><span class="english">The ancestors of American Indians probably knew the mastodon.</span></p>
 
 <p><span class="chinese">乳齿象乐队无数次获得提名，但是从来没有获奖过。</span><span class="english">Motorhead. Mastodon has been nominated a ton, but has never won.</span></p>

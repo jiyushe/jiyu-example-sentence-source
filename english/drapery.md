@@ -1,5 +1,7 @@
 # drapery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drapery.md)
+
 <p><span class="chinese">你从事面包业还是经营绸布业?。</span><span class="english">Are you in the bakery line or the drapery line?</span></p>
 
 <p><span class="chinese">柔软的褶皱布料遮盖着整墙的窗，同样材质帘也被用来分隔另一个房间。</span><span class="english">Soft drapery covers the windows and is used as a room divider.</span></p>

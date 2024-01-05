@@ -1,5 +1,7 @@
 # boson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boson.md)
+
 <p><span class="chinese">波森，我想你大概知道意思了。</span><span class="english">I think you get the idea, Boson.</span></p>
 
 <p><span class="chinese">其中之一便是希格斯波色子的任意的附属特性。</span><span class="english">One is the arbitrary, bolt-on nature of the Higgs boson.</span></p>

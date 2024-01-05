@@ -1,5 +1,7 @@
 # 陷入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianru.md)
+
 <p><span class="chinese">他的车子陷入沟中。</span><span class="english">His car got ditched.</span></p>
 
 <p><span class="chinese">由是伊甸园陷入忧伤悲切。</span><span class="english">So Eden sank to grief.</span></p>

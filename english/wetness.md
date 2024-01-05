@@ -1,5 +1,7 @@
 # wetness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wetness.md)
+
 <p><span class="chinese">勿让本产品淋雨或受潮。</span><span class="english">Keep this product away from rain and wetness.</span></p>
 
 <p><span class="chinese">她感觉到她大腿间粘粘的湿，于是把她的腿紧并在一起。</span><span class="english">She felt the sticky wetness between her thighs and pressed her legs together.</span></p>

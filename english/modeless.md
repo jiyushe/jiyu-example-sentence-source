@@ -1,5 +1,7 @@
 # modeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modeless.md)
+
 <p><span class="chinese">提供非模态反馈来帮助避免用户犯错误。</span><span class="english">Provide modeless feedback to help users avoid mistakes.</span></p>
 
 <p><span class="chinese">视觉上区分非模态对话框与模态对话框。</span><span class="english">Visually differentiate modeless dialogs from modal dialogs.</span></p>

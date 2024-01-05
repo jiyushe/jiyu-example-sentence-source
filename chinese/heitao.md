@@ -1,5 +1,7 @@
 # 黑陶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heitao.md)
+
 <p><span class="chinese">早期陶器有红陶，褐陶和黑陶。</span><span class="english">The earliest Chinese pottery was often red, brown, and grey.</span></p>
 
 <p><span class="chinese">刘浩的黑陶既是传统的，更是现代的。</span><span class="english">Liu Hao's black Ceramic is not only traditional but also modern.</span></p>

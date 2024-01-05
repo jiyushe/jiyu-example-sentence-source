@@ -1,5 +1,7 @@
 # parity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parity.md)
+
 <p><span class="chinese">正在进行后台奇偶校验。</span><span class="english">Background parity check in progress.</span></p>
 
 <p><span class="chinese">这届会议是所谓的厕所平价。</span><span class="english">That session is called Potty Parity.</span></p>

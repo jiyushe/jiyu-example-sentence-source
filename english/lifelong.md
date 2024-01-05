@@ -1,5 +1,7 @@
 # lifelong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifelong.md)
+
 <p><span class="chinese">安康是一辈子的任务。</span><span class="english">Ankang is a lifelong task.</span></p>
 
 <p><span class="chinese">幸福是终身的追求。</span><span class="english">Happiness is lifelong pursuit.</span></p>

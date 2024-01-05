@@ -1,5 +1,7 @@
 # pyrites
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrites.md)
+
 <p><span class="chinese">黄铁矿的氧化速率增大。</span><span class="english">The rate of oxidation reaction of pyrites increased.</span></p>
 
 <p><span class="chinese">铁矿砂及其精矿，包括焙烧黄铁矿。</span><span class="english">Iron ores and concentrates, including roasted iron pyrites.</span></p>

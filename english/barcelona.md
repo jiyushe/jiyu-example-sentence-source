@@ -1,5 +1,7 @@
 # barcelona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barcelona.md)
+
 <p><span class="chinese">在你看来巴萨罗那是否状态很好？</span><span class="english">Do Barcelona look good to you?</span></p>
 
 <p><span class="chinese">多美好的巴塞隆纳圣诞节呀！</span><span class="english">How nice is Barcelona on Christmas!</span></p>

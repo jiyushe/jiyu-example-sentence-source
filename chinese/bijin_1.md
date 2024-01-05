@@ -1,5 +1,7 @@
 # 逼进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijin_1.md)
+
 <p><span class="chinese">我们的汽车正节节逼进他们的车。</span><span class="english">Our car is edging down upon theirs.</span></p>
 
 <p><span class="chinese">他们把戴维逼进一个小房间。</span><span class="english">They forced David into a small room.</span></p>

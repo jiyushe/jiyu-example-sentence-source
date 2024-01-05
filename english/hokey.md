@@ -1,5 +1,7 @@
 # hokey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hokey.md)
+
 <p><span class="chinese">真有你的，不错，是这样，汤姆。</span><span class="english">By hokey , that's so, Tom!</span></p>
 
 <p><span class="chinese">这里没有提供热键鼠标消息。</span><span class="english">No hokey mouse messages here.</span></p>

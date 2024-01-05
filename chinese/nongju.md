@@ -1,5 +1,7 @@
 # 农具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongju.md)
+
 <p><span class="chinese">他们用牛来拉农具。</span><span class="english">They use oxen to pull farm equipment.</span></p>
 
 <p><span class="chinese">农民把农具收藏在小屋里。</span><span class="english">The farmer housed farm tools in a shed.</span></p>

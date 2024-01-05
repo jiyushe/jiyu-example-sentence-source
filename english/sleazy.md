@@ -1,5 +1,7 @@
 # sleazy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleazy.md)
+
 <p><span class="chinese">这里是大垃地。</span><span class="english">This is the Big Sleazy.</span></p>
 
 <p><span class="chinese">因为这看起来太低劣了。</span><span class="english">It just looked too sleazy.</span></p>

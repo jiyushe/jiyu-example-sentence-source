@@ -1,5 +1,7 @@
 # 风物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengwu.md)
+
 <p><span class="chinese">我要一间能看到风物的双人房间。</span><span class="english">I want a double room with a view.</span></p>
 
 <p><span class="chinese">安德鲁-怀斯的绘画表现出对故乡风物的亲近，并充满诗性。</span><span class="english">Andrew Wyeth's painting shows his hometown in a poetic way.</span></p>

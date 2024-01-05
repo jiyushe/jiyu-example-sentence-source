@@ -1,5 +1,7 @@
 # case
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/case.md)
+
 <p><span class="chinese">昏迷案例之二。</span><span class="english">Coma case two.</span></p>
 
 <p><span class="chinese">她现在就是一个病号。</span><span class="english">She’s now a case.</span></p>

@@ -1,5 +1,7 @@
 # calypso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calypso.md)
+
 <p><span class="chinese">那么，当卡里普索出镜的同时，康斯塔船长在哪里？</span><span class="english">So where was the captain while Calypso roved?</span></p>
 
 <p><span class="chinese">这是卡吕普索出版物的网站。</span><span class="english">This is the website for Calypso Publications.</span></p>

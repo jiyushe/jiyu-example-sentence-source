@@ -1,5 +1,7 @@
 # 秦俑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinyong.md)
+
 <p><span class="chinese">这就是你一直渴望参观的秦俑博物馆。</span><span class="english">Warriors you've been longing to visit.</span></p>
 
 <p><span class="chinese">在这里发现了三处秦俑坑呢。</span><span class="english">Altogether, three such pits have been found.</span></p>

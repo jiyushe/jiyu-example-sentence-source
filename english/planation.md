@@ -1,5 +1,7 @@
 # planation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planation.md)
+
 <p><span class="chinese">而另一方面，夷平面的定年仍是一个棘手的问题。</span><span class="english">The dating of planation surface is still an intractable problem.</span></p>
 
 <p><span class="chinese">在国内，夷平面研究的“回春”是其一个主要的表现形式。</span><span class="english">In China, a main response is the rejuvenation of planation surface researches.</span></p>

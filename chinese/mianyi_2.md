@@ -1,5 +1,7 @@
 # 面议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyi_2.md)
+
 <p><span class="chinese">下面给出的利率面议。</span><span class="english">The rate given below is negotiable.</span></p>
 
 <p><span class="chinese">预算是灵活的，价格面议。</span><span class="english">Budget is flexible and price is negotiable.</span></p>

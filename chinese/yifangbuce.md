@@ -1,5 +1,7 @@
 # 以防不测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifangbuce.md)
+
 <p><span class="chinese">我已筹备了一笔准备基金以防不测。</span><span class="english">I have kept a reserve fund in case of accidents.</span></p>
 
 <p><span class="chinese">备份是必需的以防不测。</span><span class="english">Backups are necessary in case you are compromised.</span></p>

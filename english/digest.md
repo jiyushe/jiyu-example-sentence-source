@@ -1,5 +1,7 @@
 # digest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digest.md)
+
 <p><span class="chinese">凯蒂吃肥肉不消化。</span><span class="english">Katie can't digest fat.</span></p>
 
 <p><span class="chinese">玛丽不能消化脂肪性食物。</span><span class="english">Mary Can' t digest fat.</span></p>

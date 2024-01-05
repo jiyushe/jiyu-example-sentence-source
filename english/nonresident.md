@@ -1,5 +1,7 @@
 # nonresident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonresident.md)
+
 <p><span class="chinese">2004年他们都被视为非居民。</span><span class="english">For 2004, both are treated as nonresident aliens.</span></p>
 
 <p><span class="chinese">非居民外国人在美国以外的收入不必交纳在美国纳税。</span><span class="english">Non-U. S. source income received by a nonresident alien is not subject to U. S.</span></p>

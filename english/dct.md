@@ -1,5 +1,7 @@
 # dct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dct.md)
+
 <p><span class="chinese">因此，研究基于DCT的图像编码技术，有着一定的是实用价值。</span><span class="english">It is practical to study image coding technique based on DCT.</span></p>
 
 <p><span class="chinese">DCT的是一个复杂的过程，是让每一个人松散像素。</span><span class="english">DCT is a complex process that is let loose on each individual pixel.</span></p>

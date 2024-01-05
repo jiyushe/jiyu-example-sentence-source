@@ -1,5 +1,7 @@
 # confocal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confocal.md)
+
 <p><span class="chinese">血栓的影像通过高分辨率显微镜。</span><span class="english">Thrombi were imaged via high-resolution confocal microscopy.</span></p>
 
 <p><span class="chinese">本文提出了一种新颖的激光共焦生物芯片扫描仪。</span><span class="english">A novel laser confocal biochip scanner was given in this paper.</span></p>

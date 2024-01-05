@@ -1,5 +1,7 @@
 # mach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mach.md)
+
 <p><span class="chinese">对于正规的第一和第二马赫。</span><span class="english">For the canonicity of I and II Mach.</span></p>
 
 <p><span class="chinese">XNU内核使用Mach作为核心。</span><span class="english">The XNU kernel uses Mach at the core.</span></p>

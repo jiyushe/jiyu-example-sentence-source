@@ -1,5 +1,7 @@
 # vires
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vires.md)
+
 <p><span class="chinese">越权交易的处理程序。</span><span class="english">Procedures for handling ultra vires transaction.</span></p>
 
 <p><span class="chinese">裁定部长的行为在权限范围内。</span><span class="english">The minister's action is ruled to be intra vires.</span></p>

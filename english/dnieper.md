@@ -1,5 +1,7 @@
 # dnieper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dnieper.md)
+
 <p><span class="chinese">第聂伯河后边的区域。</span><span class="english">The area behind the Dnieper river.</span></p>
 
 <p><span class="chinese">苏联西欧部分一城市，位于莫斯科西南第聂伯河边。</span><span class="english">A city of western European U. S. S. R. on the Dnieper River southwest of Moscow.</span></p>

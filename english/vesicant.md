@@ -1,5 +1,7 @@
 # vesicant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vesicant.md)
+
 <p><span class="chinese">这种发泡剂制造出来的感觉就像我们今日的社会一样。</span><span class="english">He created such effects with a kind of industrial vesicant.</span></p>
 
 <p><span class="chinese">研究了天然果酸成分在化妆品生产上发泡和增稠体系中的应用。</span><span class="english">The application of the natural organic acid to the vesicant and thickener in the cosmetic industry is studied.</span></p>

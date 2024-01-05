@@ -1,5 +1,7 @@
 # 行列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanglie.md)
+
 <p><span class="chinese">送葬行列</span><span class="english">Okay, cortege.</span></p>
 
 <p><span class="chinese">我也赶紧加入他们的行列。</span><span class="english">So I hurried to join them.</span></p>

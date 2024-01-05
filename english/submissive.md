@@ -1,5 +1,7 @@
 # submissive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submissive.md)
+
 <p><span class="chinese">它产生出顺从的人。</span><span class="english">It produces the submissive subject.</span></p>
 
 <p><span class="chinese">他是个恭顺的仆人。</span><span class="english">He is a humble and submissive servant.</span></p>

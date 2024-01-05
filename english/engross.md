@@ -1,5 +1,7 @@
 # engross
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engross.md)
+
 <p><span class="chinese">他埋头搞他的科研，几乎没有时间跟家人在一起。</span><span class="english">He's totally engross in his research and has little time for his family.</span></p>
 
 <p><span class="chinese">那你上星期让我把她的马整整占用了一个星期，这有多么可恶呀！</span><span class="english">How abominable in you, then, to let me engross her horse as I did all last week!</span></p>

@@ -1,5 +1,7 @@
 # taste 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taste.md)
+
 <p><span class="chinese">加盐，尝尝咸淡。</span><span class="english">Salt to taste.</span></p>
 
 <p><span class="chinese">尝尝我的铁刃！</span><span class="english">Taste my steel!</span></p>

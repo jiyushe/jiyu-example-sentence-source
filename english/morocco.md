@@ -1,5 +1,7 @@
 # morocco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morocco.md)
+
 <p><span class="chinese">非斯是摩洛哥的一座城市。</span><span class="english">Fez is a city in Morocco.</span></p>
 
 <p><span class="chinese">非斯是摩洛哥的一座城市。</span><span class="english">D Fez is a city in Morocco.</span></p>

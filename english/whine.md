@@ -1,5 +1,7 @@
 # whine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whine.md)
+
 <p><span class="chinese">别发牢骚。</span><span class="english">And don't whine.</span></p>
 
 <p><span class="chinese">她听见它放声长嚎。</span><span class="english">She heard it whine.</span></p>

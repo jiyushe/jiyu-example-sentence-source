@@ -1,5 +1,7 @@
 # 风吹日晒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengchuirishai.md)
+
 <p><span class="chinese">为乘客遮挡风吹日晒的惟有一张帆布篷而已。</span><span class="english">A simple canopy helps block the sun and wind.</span></p>
 
 <p><span class="chinese">因为风吹日晒，大家都晒成了古铜色。</span><span class="english">All were tanned to the color of bronze from wind and sun.</span></p>

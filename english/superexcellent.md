@@ -1,5 +1,7 @@
 # superexcellent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superexcellent.md)
+
 <p><span class="chinese">京基陶瓷将积极把握市场，以卓越的品质面向市场，闪放光彩！</span><span class="english">We shall keep our hold on the market with superexcellent quality and shine out our brilliance.</span></p>
 
 <p><span class="chinese">但目前这种市场行情在张帆眼中却是个绝佳的投资机会。</span><span class="english">But at present this kind of market level is in make sail eye is a superexcellent investment opportunity however.</span></p>

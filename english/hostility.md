@@ -1,5 +1,7 @@
 # hostility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hostility.md)
+
 <p><span class="chinese">她们对咱们怀有敌意。</span><span class="english">They get a hostility to us.</span></p>
 
 <p><span class="chinese">他的言词终于引发了她的敌意。</span><span class="english">His word finally foment her hostility.</span></p>

@@ -1,5 +1,7 @@
 # anxious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anxious.md)
+
 <p><span class="chinese">不要焦虑。</span><span class="english">Don't be anxious.</span></p>
 
 <p><span class="chinese">我们晚归会使她发慌。</span><span class="english">Anxious if we were late.</span></p>

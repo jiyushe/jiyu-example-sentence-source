@@ -1,5 +1,7 @@
 # dogbane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogbane.md)
+
 <p><span class="chinese">北美的一种类似夹竹桃的植物。</span><span class="english">North American plant similar to common dogbane.</span></p>
 
 <p><span class="chinese">罗布麻能降血脂和血压吗？</span><span class="english">Can bluish dogbane fall hematic fat and blood pressure?</span></p>

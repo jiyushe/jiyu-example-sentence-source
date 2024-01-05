@@ -1,5 +1,7 @@
 # studding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/studding.md)
+
 <p><span class="chinese">他可能正在书房里学习。</span><span class="english">He may be studding in his study.</span></p>
 
 <p><span class="chinese">我非常喜欢学习英语。</span><span class="english">I like studding English very much.</span></p>

@@ -1,5 +1,7 @@
 # 公平交易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongpingjiaoyi.md)
+
 <p><span class="chinese">做一个公平交易的情人。</span><span class="english">Be a Fair-Trade Valentine.</span></p>
 
 <p><span class="chinese">一些股票的场外交易公告牌代码有公平交易。</span><span class="english">A number of stocks on the OTCBB have fair-trading.</span></p>

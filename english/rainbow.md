@@ -1,5 +1,7 @@
 # rainbow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rainbow.md)
+
 <p><span class="chinese">按“彩虹食谱”搭配着吃。</span><span class="english">Eat the rainbow.</span></p>
 
 <p><span class="chinese">架成一道彩虹。</span><span class="english">Together make a rainbow.</span></p>

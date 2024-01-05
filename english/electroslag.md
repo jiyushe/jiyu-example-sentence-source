@@ -1,5 +1,7 @@
 # electroslag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroslag.md)
+
 <p><span class="chinese">研究电渣熔铸过程中渣皮的形成机理。</span><span class="english">The forming mechanism of slag skin was studied during electroslag casting.</span></p>
 
 <p><span class="chinese">对电渣重熔高速钢轧材方型偏析形成原因进行了分析试验。</span><span class="english">The origin of square segregation in high speed tool steel bars in electroslag refining is analyzed.</span></p>

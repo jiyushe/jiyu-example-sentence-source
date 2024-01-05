@@ -1,5 +1,7 @@
 # 八方支援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bafangzhiyuan.md)
+
 <p><span class="chinese">一方有难八方支援。</span><span class="english">A difficult one P Plus support.</span></p>
 
 <p><span class="chinese">俗话说“一方有难，八方支援”。</span><span class="english">As the saying goes, "a difficult one, P Plus support."</span></p>

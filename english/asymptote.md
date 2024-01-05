@@ -1,5 +1,7 @@
 # asymptote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymptote.md)
+
 <p><span class="chinese">双曲线逐渐接近它的渐近线但不相交。</span><span class="english">A hyperbola approaches but does not meet its asymptote.</span></p>
 
 <p><span class="chinese">为此，文中提出了有效的随机数渐近线分布法对其进行评估。</span><span class="english">So, the paper presents the method of random asymptote distribution to solve it.</span></p>

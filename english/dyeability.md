@@ -1,5 +1,7 @@
 # dyeability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyeability.md)
+
 <p><span class="chinese">本发明生产的产品具有阳离子染料可染性。</span><span class="english">Products produced by the invention have cationic dye dyeability.</span></p>
 
 <p><span class="chinese">该纤维具有良好的吸湿性、抗静电性和可染性。</span><span class="english">This fiber has good hygroscopicity, antistatic property and dyeability.</span></p>

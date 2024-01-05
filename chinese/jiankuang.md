@@ -1,5 +1,7 @@
 # 简况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiankuang.md)
+
 <p><span class="chinese">租。你能告诉我一些公寓的简况吗？有多大？</span><span class="english">Rent. Could you tell me something about the apartment? And how large is it?</span></p>
 
 <p><span class="chinese">能够写商务信函、简况、摘要、概要、读书笔记。</span><span class="english">To write business letters, introductions, abstracts, summaries and reading notes.</span></p>

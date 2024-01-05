@@ -1,5 +1,7 @@
 # photopolymerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photopolymerization.md)
+
 <p><span class="chinese">指出对光固化树脂基复合材料用增强材料的基本要求。</span><span class="english">The basic requirements of fillers in the photopolymerization composites were discussed.</span></p>
 
 <p><span class="chinese">设计了一种新型光敏聚合物材料配方，并通过实验对比选定了合适的溶剂。</span><span class="english">In this thesis, a new method is proposed to fabricate polymer DFB gratings via UV photopolymerization.</span></p>

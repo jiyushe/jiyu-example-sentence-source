@@ -1,5 +1,7 @@
 # axisymmetrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axisymmetrical.md)
+
 <p><span class="chinese">在实验室条件下利用组合式激波管设备，对运动状态下液体轴对称抛撒进行了实验研究。</span><span class="english">The characteristic of breakup and atomization procedure of axisymmetrical dissemination of liquid in motion is investigated.</span></p>
 
 <p><span class="chinese">荷载为轴对称分布荷载、均布边缘力矩及径向力或它们的联合作用。</span><span class="english">Loads are regarded as axisymmetrical distributed load, uniform moments and uniform radial forces along the edge or their combination.</span></p>

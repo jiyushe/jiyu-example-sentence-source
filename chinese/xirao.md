@@ -1,5 +1,7 @@
 # 袭扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xirao.md)
+
 <p><span class="chinese">军队不断地袭扰敌方的边境。</span><span class="english">The army harried the enemys border.</span></p>
 
 <p><span class="chinese">奥格知道以后还会有更多这样的塔利班袭扰。</span><span class="english">Auge knows there will be more Taliban attacks.</span></p>

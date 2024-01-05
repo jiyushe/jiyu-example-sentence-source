@@ -1,5 +1,7 @@
 # chelation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chelation.md)
+
 <p><span class="chinese">结合到金属的过程称钳合作用。</span><span class="english">The process of Binding to the metal is called chelation.</span></p>
 
 <p><span class="chinese">论文通过扫描电镜、红外光谱等方法证明了复合物中的胶原与钙离子间存在配位作用。</span><span class="english">The chelation reaction between calcium ion and collagen in the compound was proved by SEM and IR.</span></p>

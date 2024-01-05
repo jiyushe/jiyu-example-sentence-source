@@ -1,5 +1,7 @@
 # solano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solano.md)
+
 <p><span class="chinese">因此，整个2003年，索拉诺都只是倾听。</span><span class="english">So in 2003, Solano just listened.</span></p>
 
 <p><span class="chinese">“非政府组织往往提倡福利主义和家长作风”，索拉诺表示。</span><span class="english">"NGOs often promote welfare-ism or paternalism," says Solano.</span></p>

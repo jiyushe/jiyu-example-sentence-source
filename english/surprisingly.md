@@ -1,5 +1,7 @@
 # surprisingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surprisingly.md)
+
 <p><span class="chinese">并不奇怪。</span><span class="english">Not surprisingly.</span></p>
 
 <p><span class="chinese">答案出乎意料得简单——击球员。</span><span class="english">The answer was surprisingly simple.</span></p>

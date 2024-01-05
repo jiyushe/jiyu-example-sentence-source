@@ -1,5 +1,7 @@
 # ruffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruffle.md)
+
 <p><span class="chinese">褶做的装饰的皱褶。</span><span class="english">To make into a ruffle or frill.</span></p>
 
 <p><span class="chinese">你不该这么爱生气。</span><span class="english">You shouldn't ruffle so easily.</span></p>

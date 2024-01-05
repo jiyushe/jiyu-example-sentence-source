@@ -1,5 +1,7 @@
 # captious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captious.md)
+
 <p><span class="chinese">所以你真的能够最挑剔的还是大用户。</span><span class="english">You are so true can the most captious big still user.</span></p>
 
 <p><span class="chinese">我们的产品会令最挑剔的客户满意。</span><span class="english">Our products will satisfy the most captious customers.</span></p>

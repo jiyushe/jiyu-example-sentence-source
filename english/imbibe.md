@@ -1,5 +1,7 @@
 # imbibe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbibe.md)
+
 <p><span class="chinese">大麦粒在水中吸涨。</span><span class="english">Barley grains imbibe water.</span></p>
 
 <p><span class="chinese">油湿性岩石倾向于吸收油。</span><span class="english">Oil-wet rocks preferentially imbibe oil.</span></p>

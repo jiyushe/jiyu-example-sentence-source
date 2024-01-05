@@ -1,5 +1,7 @@
 # 烟消云散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxiaoyunsan.md)
+
 <p><span class="chinese">一切疑虑现在都烟消云散了。</span><span class="english">All doubts have now dissipated.</span></p>
 
 <p><span class="chinese">天啊，我真希望这副励志腔调很快就能烟消云散！</span><span class="english">God, I hope this wears off soon.</span></p>

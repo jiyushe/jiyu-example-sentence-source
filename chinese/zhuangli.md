@@ -1,5 +1,7 @@
 # 壮丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangli.md)
+
 <p><span class="chinese">济慈所作之诗虽简洁却不失为壮丽。</span><span class="english">Keats sang briefly but gloriously.</span></p>
 
 <p><span class="chinese">查尔斯赞美这壮丽的景色。</span><span class="english">Charles glorified the glorious scene.</span></p>

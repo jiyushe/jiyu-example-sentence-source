@@ -1,5 +1,7 @@
 # chef
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chef.md)
+
 <p><span class="chinese">盖伯是个一流的厨师。</span><span class="english">Gabe is a top-notch chef.</span></p>
 
 <p><span class="chinese">请帮我跟厨师致意。</span><span class="english">My compliments to the chef.</span></p>

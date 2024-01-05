@@ -1,5 +1,7 @@
 # 导语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoyu.md)
+
 <p><span class="chinese">对于导语同样如此——而且更甚。</span><span class="english">The same goes for blurbs — perhaps even more so.</span></p>
 
 <p><span class="chinese">有固定的广告导语吗？</span><span class="english">Does the advertisement that fix lead the language?</span></p>

@@ -1,5 +1,7 @@
 # 祝寿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushou_2.md)
+
 <p><span class="chinese">军队在女王面前进行步操仪式，为女王祝寿。</span><span class="english">The army marches before the Queen on her birthday.</span></p>
 
 <p><span class="chinese">一次逢王的生日，他的门生想给他祝寿。</span><span class="english">On his birthday, his students wanted to give him a party.</span></p>

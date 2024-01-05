@@ -1,5 +1,7 @@
 # ideation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideation.md)
+
 <p><span class="chinese">构思草图。</span><span class="english">Ideation sketches.</span></p>
 
 <p><span class="chinese">没有一种药物当前包含构想自杀观念的警告。</span><span class="english">Neither drug currently carries a warning about suicide ideation.</span></p>

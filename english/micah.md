@@ -1,5 +1,7 @@
 # micah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micah.md)
+
 <p><span class="chinese">米迦问他说，你从哪里来。</span><span class="english">And Micah said unto him, Whence comest thou?</span></p>
 
 <p><span class="chinese">弥迦建立的政府并非开明。</span><span class="english">It was not a liberal government that Micah founded.</span></p>

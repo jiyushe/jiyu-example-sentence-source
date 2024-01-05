@@ -1,5 +1,7 @@
 # veining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veining.md)
+
 <p><span class="chinese">毛刺的出现与制壳过程中面层型壳的开裂有关。</span><span class="english">Shell cracking is the source of veining defects.</span></p>
 
 <p><span class="chinese">艺术是社会的镜子，反映出当今社会的时代脉络。</span><span class="english">Art is a mirror reflects the era veining of the current society.</span></p>

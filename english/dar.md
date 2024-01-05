@@ -1,5 +1,7 @@
 # dar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dar.md)
+
 <p><span class="chinese">Dar说，他的目标是为钱。</span><span class="english">Dar says he was targeted for money.</span></p>
 
 <p><span class="chinese">这样的努力让她在2000年开办了大羽基地，或者叫安全之家。</span><span class="english">This endeavor led her to open Dar Al Aman, or Home of Safety, in 2000.</span></p>

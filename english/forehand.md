@@ -1,5 +1,7 @@
 # forehand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forehand.md)
+
 <p><span class="chinese">我总是在正手扣球时失误。</span><span class="english">I often miss with forehand shots.</span></p>
 
 <p><span class="chinese">第一，他的发球和正手。</span><span class="english">First, his serve and his forehand.</span></p>

@@ -1,5 +1,7 @@
 # bodhi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodhi.md)
+
 <p><span class="chinese">菩提本无树。</span><span class="english">Bodhi is not a tree.</span></p>
 
 <p><span class="chinese">菩提本无树。</span><span class="english">Bodhi originally is no tree.</span></p>

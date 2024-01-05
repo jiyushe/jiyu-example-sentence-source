@@ -1,5 +1,7 @@
 # 缓缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhuan_1.md)
+
 <p><span class="chinese">缓缓地拌和鸡蛋。</span><span class="english">Gently fold in the eggs.</span></p>
 
 <p><span class="chinese">河水缓缓地流动。</span><span class="english">The river is flowing slowly.</span></p>

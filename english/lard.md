@@ -1,5 +1,7 @@
 # lard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lard.md)
+
 <p><span class="chinese">这大油哈喇了。</span><span class="english">The lard has gone rancid.</span></p>
 
 <p><span class="chinese">用猪油调制去骨鸡。</span><span class="english">Lard the boned chicken with pig fat.</span></p>

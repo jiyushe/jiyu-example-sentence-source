@@ -1,5 +1,7 @@
 # fainting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fainting.md)
+
 <p><span class="chinese">于是他昏倒了。</span><span class="english">And he fell fainting.</span></p>
 
 <p><span class="chinese">头晕，头昏眼花乃至昏厥</span><span class="english">dizziness, lightheadedness or fainting</span></p>

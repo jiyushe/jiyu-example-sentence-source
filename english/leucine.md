@@ -1,5 +1,7 @@
 # leucine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leucine.md)
+
 <p><span class="chinese">它有亮氨酸，以帮助你保持肌肉。</span><span class="english">It has leucine to help you keep muscle.</span></p>
 
 <p><span class="chinese">在另一端就携带着一个亮氨酸分子</span><span class="english">At the other end, is attached the amino acid leucine.</span></p>

@@ -1,5 +1,7 @@
 # assignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assignment.md)
+
 <p><span class="chinese">它是用来赋值的。</span><span class="english">It is an assignment.</span></p>
 
 <p><span class="chinese">最难的任务吗？</span><span class="english">Toughest assignment?</span></p>

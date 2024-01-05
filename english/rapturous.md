@@ -1,5 +1,7 @@
 # rapturous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapturous.md)
+
 <p><span class="chinese">在家乡一开起舞会来，我是第一号的活跃人物。</span><span class="english">He was given a rapturous welcome in his home town.</span></p>
 
 <p><span class="chinese">有夺人心魄的寂静铃声完美地永存。</span><span class="english">There was a rapturous ring of silence abiding perfectly.</span></p>

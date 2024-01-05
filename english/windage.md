@@ -1,5 +1,7 @@
 # windage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windage.md)
+
 <p><span class="chinese">溶解的矿物质也被风吹走了。</span><span class="english">Dissolved minerals are also lost by windage.</span></p>
 
 <p><span class="chinese">输电线路风偏放电的影响因素研究。</span><span class="english">Study on windage yaw discharge of transmission line.</span></p>

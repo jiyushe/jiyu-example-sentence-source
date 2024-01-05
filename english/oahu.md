@@ -1,5 +1,7 @@
 # oahu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oahu.md)
+
 <p><span class="chinese">欧胡岛上也有。</span><span class="english">Oahu has them, too.</span></p>
 
 <p><span class="chinese">但我们先把欧胡岛玩遍了再说。</span><span class="english">But let's explore all of Oahu first.</span></p>

@@ -1,5 +1,7 @@
 # commonalty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonalty.md)
+
 <p><span class="chinese">平民文化是由平民创造或为他们创造的、反映他们的日常生活和精神风貌的文化。</span><span class="english">Commonalty culture is created by or for commonalty, reflecting their daily life and spirit.</span></p>
 
 <p><span class="chinese">而追溯新文学大众传统形成的渊源时，武汉抗战无疑应是一个重要的考察对象。</span><span class="english">When we review the formation of commonalty tradition, Wuhan Defense should be a importment object.</span></p>

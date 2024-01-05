@@ -1,5 +1,7 @@
 # harmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmed.md)
+
 <p><span class="chinese">谁可能受伤害？</span><span class="english">Who could be harmed?</span></p>
 
 <p><span class="chinese">我可从未错待过他们。</span><span class="english">I've never harmed them.</span></p>

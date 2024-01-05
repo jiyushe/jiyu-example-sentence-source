@@ -1,5 +1,7 @@
 # lamentations
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamentations.md)
+
 <p><span class="chinese">它创造宴会和饥荒、欢乐之歌和哀歌。</span><span class="english">It created feasts and famines, songs of joy, lamentations.</span></p>
 
 <p><span class="chinese">我们只抽“耶利米哀歌”那章，正好配香烟。</span><span class="english">We only smoke the Lamentations. Just right for a cigarette.</span></p>

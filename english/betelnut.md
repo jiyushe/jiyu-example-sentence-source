@@ -1,5 +1,7 @@
 # betelnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betelnut.md)
+
 <p><span class="chinese">喝了几杯啤酒就想嚼槟榔。</span><span class="english">After a couple of beers you jones for a betelnut.</span></p>
 
 <p><span class="chinese">槟榔碱是槟榔的最主要功效成分。</span><span class="english">Arecoline is the main function component of betelnut.</span></p>

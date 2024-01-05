@@ -1,5 +1,7 @@
 # 轻声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsheng.md)
+
 <p><span class="chinese">我轻声低语道。</span><span class="english">I murmured quietly.</span></p>
 
 <p><span class="chinese">“爸爸，”我轻声叫道。</span><span class="english">"Dad, " I whispered.</span></p>

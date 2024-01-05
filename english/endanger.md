@@ -1,5 +1,7 @@
 # endanger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endanger.md)
+
 <p><span class="chinese">葛云伤重，危及生命。</span><span class="english">GeYun injuries, endanger life.</span></p>
 
 <p><span class="chinese">特雷福叫道，“你自己也得去冒点险吗！</span><span class="english">You gotta endanger yourself too!</span></p>

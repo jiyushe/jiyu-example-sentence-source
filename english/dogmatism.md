@@ -1,5 +1,7 @@
 # dogmatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogmatism.md)
+
 <p><span class="chinese">教条主义是盲目自高自大的全副面目。</span><span class="english">Dogmatism is puppyish come to its full growth.</span></p>
 
 <p><span class="chinese">他是非常关键的任何形式的教条主义。</span><span class="english">He is extremely critical of dogmatism of any kind.</span></p>

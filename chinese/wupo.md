@@ -1,5 +1,7 @@
 # 巫婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wupo.md)
+
 <p><span class="chinese">你这巫婆！</span><span class="english">You witch!</span></p>
 
 <p><span class="chinese">德文是一个巫婆指南。</span><span class="english">Devin is a witch guide.</span></p>

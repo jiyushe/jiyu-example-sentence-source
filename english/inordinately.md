@@ -1,5 +1,7 @@
 # inordinately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inordinately.md)
+
 <p><span class="chinese">阿拉伯人对他们的语言遗产极其自豪。</span><span class="english">Arabs are inordinately proud of their linguistic heritage.</span></p>
 
 <p><span class="chinese">另外一个喜欢乔伊喜欢到不得了的人是莫纳亨家里的小姑娘康妮。</span><span class="english">The other person who loved Joey inordinately was the Monaghan girl, Connie.</span></p>

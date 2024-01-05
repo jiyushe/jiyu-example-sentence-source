@@ -1,5 +1,7 @@
 # witting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witting.md)
+
 <p><span class="chinese">不用媒体分析来去，看看雷军接下来做什么就知晓了。</span><span class="english">Need not media analysis will go, see Lei Jun what do next witting.</span></p>
 
 <p><span class="chinese">这回可谓是旧皇帝碰上了新格格，谁胜谁负一看收视率便知晓。</span><span class="english">This is the old emperor met the new princess, who wins a ratings witting.</span></p>

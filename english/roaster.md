@@ -1,5 +1,7 @@
 # roaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roaster.md)
+
 <p><span class="chinese">看着像一台缩版的专业烘焙机。</span><span class="english">It looks like a scaled down professional roaster.</span></p>
 
 <p><span class="chinese">烘焙炉是好，它教你的使用方法却不好。</span><span class="english">The roaster is good, the way you are told to use it isn't.</span></p>

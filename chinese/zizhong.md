@@ -1,5 +1,7 @@
 # 自重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhong.md)
+
 <p><span class="chinese">教导他们要自重。</span><span class="english">Teach them self-esteem.</span></p>
 
 <p><span class="chinese">还是那句话，请自重！</span><span class="english">Asks you to be self-possessed!</span></p>

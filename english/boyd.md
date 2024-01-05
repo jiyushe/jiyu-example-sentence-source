@@ -1,5 +1,7 @@
 # boyd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boyd.md)
+
 <p><span class="chinese">我洗了个澡然后哭了，”博伊德说。</span><span class="english">I took a bath and just cried, " said Boyd.</span></p>
 
 <p><span class="chinese">是呀，他办得到，不过那要花博伊德许多时间。</span><span class="english">Yes, he can do it, but it takes Boyd time.</span></p>

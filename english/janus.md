@@ -1,5 +1,7 @@
 # janus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/janus.md)
+
 <p><span class="chinese">亚努斯神殿的门正式关闭。</span><span class="english">The doors of the Temple of Janus are officially shut.</span></p>
 
 <p><span class="chinese">两面公司对于盗版的产品概不负责。</span><span class="english">The Janus Corporation will not be responsible for imitations.</span></p>

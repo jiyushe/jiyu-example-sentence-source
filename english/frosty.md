@@ -1,5 +1,7 @@
 # frosty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frosty.md)
+
 <p><span class="chinese">唱歌曲“雪人”。</span><span class="english">Sing Frosty the snowman.</span></p>
 
 <p><span class="chinese">白云如飞星如霜。</span><span class="english">The flying cloud, the frosty light.</span></p>

@@ -1,5 +1,7 @@
 # 石油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyou_1.md)
+
 <p><span class="chinese">因为你是石油输出国</span><span class="english">You're in OPEC.</span></p>
 
 <p><span class="chinese">石油是油性的。</span><span class="english">Petroleum is oil based.</span></p>

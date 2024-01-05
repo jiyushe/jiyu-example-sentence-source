@@ -1,5 +1,7 @@
 # 工事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshi_6.md)
+
 <p><span class="chinese">山上要隘，都筑了工事。</span><span class="english">All the strategic passes in the mountains are fortified.</span></p>
 
 <p><span class="chinese">于南大屿山郊野公园内进行土木工事及建筑工程。</span><span class="english">Earthworks and building works in the Lantau South Country Park.</span></p>

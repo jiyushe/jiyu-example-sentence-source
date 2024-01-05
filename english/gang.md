@@ -1,5 +1,7 @@
 # gang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gang.md)
+
 <p><span class="chinese">我叫陈刚。</span><span class="english">I am Chen Gang.</span></p>
 
 <p><span class="chinese">但是该团伙仍在作案。</span><span class="english">But the gang goes on.</span></p>

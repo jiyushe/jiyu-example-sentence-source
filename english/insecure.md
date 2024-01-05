@@ -1,5 +1,7 @@
 # insecure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insecure.md)
+
 <p><span class="chinese">喜欢炫耀的人通常都没有自信。</span><span class="english">Show-offs are usually insecure.</span></p>
 
 <p><span class="chinese">他住在一座危楼中。</span><span class="english">He lived in an insecure building.</span></p>

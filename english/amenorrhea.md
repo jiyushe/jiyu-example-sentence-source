@@ -1,5 +1,7 @@
 # amenorrhea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amenorrhea.md)
+
 <p><span class="chinese">女人原发性闭经的病因是啥子?。</span><span class="english">A woman with primary amenorrhea , the cause of that?</span></p>
 
 <p><span class="chinese">化疗导致的停经是可逆的。</span><span class="english">However, chemotherapy-related amenorrhea is reversible.</span></p>

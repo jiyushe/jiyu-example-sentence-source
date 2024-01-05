@@ -1,5 +1,7 @@
 # 心肝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingan.md)
+
 <p><span class="chinese">好一个没有心肝、自私自利的小丫头！</span><span class="english">Unfeeling, selfish girl!</span></p>
 
 <p><span class="chinese">如果你愿意，吞了它吧，我的小心肝。</span><span class="english">Swallow it if you like, my love.</span></p>

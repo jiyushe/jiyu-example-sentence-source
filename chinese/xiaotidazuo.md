@@ -1,5 +1,7 @@
 # 小题大做
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotidazuo.md)
+
 <p><span class="chinese">你太小题大做了。</span><span class="english">You made mountains of molehills.</span></p>
 
 <p><span class="chinese">那么华理克为什么如此小题大做呢？</span><span class="english">So why all the fuss about Warren?</span></p>

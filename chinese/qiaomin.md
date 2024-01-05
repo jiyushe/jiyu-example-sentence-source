@@ -1,5 +1,7 @@
 # 侨民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaomin.md)
+
 <p><span class="chinese">另有部分我侨民搭乘澳军机或商业航班离所抵澳。</span><span class="english">A number of Chinese have taken Australia's military or commercial flight to Australia.</span></p>
 
 <p><span class="chinese">第五条，非德意志公民只被视为侨民居住于德国，并且必须服从侨民的相关法律。</span><span class="english">Non-citizens may live in Germany only as guests and must be subject to laws for aliens.</span></p>

@@ -1,5 +1,7 @@
 # framework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/framework.md)
+
 <p><span class="chinese">SCA策略框架V1.0</span><span class="english">SCA Policy Framework V1.0</span></p>
 
 <p><span class="chinese">那是座钢铁结构的桥梁。</span><span class="english">It's a bridge of steel framework.</span></p>

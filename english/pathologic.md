@@ -1,5 +1,7 @@
 # pathologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathologic.md)
+
 <p><span class="chinese">病理学诊断副神经节瘤。</span><span class="english">Pathologic diagnosis was primary paraganglioma.</span></p>
 
 <p><span class="chinese">改善胸腺组织病理变化。</span><span class="english">It also ameliorated the pathologic changes in the thymus.</span></p>

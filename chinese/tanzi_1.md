@@ -1,5 +1,7 @@
 # 探子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzi_1.md)
+
 <p><span class="chinese">他们是蛮族的探子？</span><span class="english">Are they the scouts of tribe beautiful?</span></p>
 
 <p><span class="chinese">打击手的任务是抓到金探子。</span><span class="english">The beater's job is to catch the snitch.</span></p>

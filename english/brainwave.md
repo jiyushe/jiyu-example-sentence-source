@@ -1,5 +1,7 @@
 # brainwave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainwave.md)
+
 <p><span class="chinese">此时斯图尔特灵光一闪。</span><span class="english">Then Stewart had a brainwave.</span></p>
 
 <p><span class="chinese">只是戴上耳机，让陷波器调谐器开启你的。</span><span class="english">Just put on the earphones and let BrainWave Tuner turn you on.</span></p>

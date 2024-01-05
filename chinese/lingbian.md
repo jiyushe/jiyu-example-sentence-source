@@ -1,5 +1,7 @@
 # 灵便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingbian.md)
+
 <p><span class="chinese">这辆车开起来很灵便。</span><span class="english">The car handles well.</span></p>
 
 <p><span class="chinese">慢慢地说，但思考要灵便。</span><span class="english">Speak slowly, but think quickly.</span></p>

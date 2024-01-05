@@ -1,5 +1,7 @@
 # distributing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distributing.md)
+
 <p><span class="chinese">视频分配放大器?。</span><span class="english">VDA? Video Distributing Amplifier?</span></p>
 
 <p><span class="chinese">他们在街上散发了传单。</span><span class="english">Distributing handbills on the street.</span></p>

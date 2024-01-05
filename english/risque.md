@@ -1,5 +1,7 @@
 # risque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risque.md)
+
 <p><span class="chinese">不过电台没必要把所有这些幽默都撤掉。</span><span class="english">But broadcasters mustn't remove all risqué humour.</span></p>
 
 <p><span class="chinese">但这只是“有伤风化”的时尚。离合法有多远?。</span><span class="english">But what about just "risque" fashion. How far is this legal?</span></p>

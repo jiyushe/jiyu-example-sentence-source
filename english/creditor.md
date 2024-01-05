@@ -1,5 +1,7 @@
 # creditor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creditor.md)
+
 <p><span class="chinese">负债者是债主的奴隶。</span><span class="english">A debtor is a slave to his creditor.</span></p>
 
 <p><span class="chinese">他设法把债主搪塞过去了。</span><span class="english">He managed to stall off his creditor.</span></p>

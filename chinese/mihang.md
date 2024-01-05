@@ -1,5 +1,7 @@
 # 迷航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mihang.md)
+
 <p><span class="chinese">想要找星际迷航的酒瓶眼镜吗？</span><span class="english">Go for the Star Trek wine glasses.</span></p>
 
 <p><span class="chinese">这张来自"星际迷航"里很早的一集</span><span class="english">This is from a very old "Star Trek" Episode.</span></p>

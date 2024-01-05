@@ -1,5 +1,7 @@
 # 报复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofu_3.md)
+
 <p><span class="chinese">但他都没有报复。</span><span class="english">He never retaliated.</span></p>
 
 <p><span class="chinese">所以我就报复了。</span><span class="english">So I took a revenge.</span></p>

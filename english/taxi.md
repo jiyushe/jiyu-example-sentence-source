@@ -1,5 +1,7 @@
 # taxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxi.md)
+
 <p><span class="chinese">它们是计程车。</span><span class="english">It is taxi.</span></p>
 
 <p><span class="chinese">我乘出租车去。</span><span class="english">I goby taxi.</span></p>

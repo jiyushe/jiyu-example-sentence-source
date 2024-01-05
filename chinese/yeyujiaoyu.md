@@ -1,5 +1,7 @@
 # 业余教育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyujiaoyu.md)
+
 <p><span class="chinese">第六部分，对河南职工业余教育做出评估。</span><span class="english">The six part is to make assessment of staff's amateur education.</span></p>
 
 <p><span class="chinese">第三部分，主要考察河南职工业余教育的内容和方式。</span><span class="english">The second part mainly discusses the developing course of staffs amateur education.</span></p>

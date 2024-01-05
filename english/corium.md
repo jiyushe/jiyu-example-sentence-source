@@ -1,5 +1,7 @@
 # corium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corium.md)
+
 <p><span class="chinese">真皮层可见坏死病灶。</span><span class="english">The necrosis foci were seen in corium.</span></p>
 
 <p><span class="chinese">表皮冷却系统针对性可调的安全性。</span><span class="english">Safety, with corium cooling system of pertinency adjustable.</span></p>

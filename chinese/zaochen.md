@@ -1,5 +1,7 @@
 # 早晨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaochen.md)
+
 <p><span class="chinese">圣诞节的早晨！</span><span class="english">Christmass morning!</span></p>
 
 <p><span class="chinese">早晨起不来？</span><span class="english">Not a morning person?</span></p>

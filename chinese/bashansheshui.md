@@ -1,5 +1,7 @@
 # 跋山涉水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bashansheshui.md)
+
 <p><span class="chinese">当然这听起来比跋山涉水去找皮肤科医生要容易地多，对不？</span><span class="english">Sure sounds a lot easier than trekking into the dermatologist, right?</span></p>
 
 <p><span class="chinese">漂洋过海，跋山涉水，不管怎样，人类走到哪里，入侵物种就跟到哪里。</span><span class="english">Because where humans go, invasives often follow—whether by sea or on land.</span></p>

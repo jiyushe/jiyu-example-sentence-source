@@ -1,5 +1,7 @@
 # 志存高远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhicungaoyuan.md)
+
 <p><span class="chinese">德赛人总是放眼未来，志存高远！</span><span class="english">Desay people always have great ambition and long perspective.</span></p>
 
 <p><span class="chinese">未来，志存高远的采实人，必将开启新的航程，争创新的辉煌！</span><span class="english">In the future, we will start a new sailing and create new glory.</span></p>

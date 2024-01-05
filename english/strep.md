@@ -1,5 +1,7 @@
 # strep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strep.md)
+
 <p><span class="chinese">如果你患上了咽喉炎，那就呆在家吧。</span><span class="english">If you’ve got strep throat, stay home.</span></p>
 
 <p><span class="chinese">各组儿童的链球菌感染均被记录。</span><span class="english">All strep infections were recorded for both groups of children.</span></p>

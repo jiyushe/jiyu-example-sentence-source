@@ -1,5 +1,7 @@
 # agrochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agrochemical.md)
+
 <p><span class="chinese">近年来，世界农药工业萎靡不振，正在经历艰难时刻。</span><span class="english">The world agrochemical industry is going into hard time.</span></p>
 
 <p><span class="chinese">最后，在丈夫死后不到10天服农药自杀！</span><span class="english">End, at husband clay-cold take an agrochemical suicide no longer than 10 days!</span></p>

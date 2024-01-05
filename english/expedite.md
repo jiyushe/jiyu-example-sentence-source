@@ -1,5 +1,7 @@
 # expedite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expedite.md)
+
 <p><span class="chinese">这种方法可帮助促进导入流程。</span><span class="english">This method can help expedite the import process.</span></p>
 
 <p><span class="chinese">我方急需这单货物，速请加紧装船发货。</span><span class="english">We require our order urgently, so please expedite shipment.</span></p>

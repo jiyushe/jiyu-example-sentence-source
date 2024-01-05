@@ -1,5 +1,7 @@
 # baron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baron.md)
+
 <p><span class="chinese">红色男爵比萨？</span><span class="english">Red Baron pizza?</span></p>
 
 <p><span class="chinese">看，那是血人巴罗！</span><span class="english">Look, it's the Bloody Baron !</span></p>

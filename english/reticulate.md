@@ -1,5 +1,7 @@
 # reticulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticulate.md)
+
 <p><span class="chinese">具有细小、规则呈网状的格。</span><span class="english">Latteced with a fine, regular, reticulate pattern.</span></p>
 
 <p><span class="chinese">种子表面纹饰为网状或乳突状。</span><span class="english">The surface ornament of seed is reticulate or mammilate.</span></p>

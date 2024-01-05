@@ -1,5 +1,7 @@
 # constrictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constrictive.md)
+
 <p><span class="chinese">我的脊椎有过压缩性骨折，还会长高吗？</span><span class="english">My vertebral had had constrictive fracture, still is chairman tall?</span></p>
 
 <p><span class="chinese">这让许多深处其中的网站开始了紧缩策略。</span><span class="english">This lets a lot of in among them website began constrictive strategy.</span></p>

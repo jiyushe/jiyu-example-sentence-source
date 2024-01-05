@@ -1,5 +1,7 @@
 # 洋行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghang.md)
+
 <p><span class="chinese">“它仍然在起作用，”洋行说。</span><span class="english">"It's still in play, " Matheson said.</span></p>
 
 <p><span class="chinese">这里的一号楼是太古洋行大班住宅。</span><span class="english">Swire here is a large class residential building.</span></p>

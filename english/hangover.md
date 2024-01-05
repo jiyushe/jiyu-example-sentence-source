@@ -1,5 +1,7 @@
 # hangover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hangover.md)
+
 <p><span class="chinese">宿醉是危险的。</span><span class="english">Hangover is dangerous.</span></p>
 
 <p><span class="chinese">约翰睡了一觉，才从宿醉中醒来。</span><span class="english">John is sleeping off the hangover.</span></p>

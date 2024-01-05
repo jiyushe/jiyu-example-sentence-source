@@ -1,5 +1,7 @@
 # jerez
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jerez.md)
+
 <p><span class="chinese">在赫雷兹我们测试了几个新的空气动力学套件，它将会在新加坡站使用。</span><span class="english">In Jerez we tested several new aerodynamic components which we'll be using in Singapore.</span></p>
 
 <p><span class="chinese">在赫雷斯的医院里的医生表示，这一家人都对这个孩子的出生感到高兴。</span><span class="english">Doctors at the hospital in Jerez confirmed that the family had been pleased at the birth.</span></p>

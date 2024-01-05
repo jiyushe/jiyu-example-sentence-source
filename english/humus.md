@@ -1,5 +1,7 @@
 # humus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humus.md)
+
 <p><span class="chinese">尝试放一些腐殖酸在小麦皮塔面包上。</span><span class="english">Try humus on wheat pita bread.</span></p>
 
 <p><span class="chinese">我们的重点在堆肥是创造腐殖质。</span><span class="english">Our focus in composting is to create humus.</span></p>

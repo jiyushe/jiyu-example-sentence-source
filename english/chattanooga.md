@@ -1,5 +1,7 @@
 # chattanooga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chattanooga.md)
+
 <p><span class="chinese">这款车将在该公司的工厂查塔努加，田纳西州。</span><span class="english">The car will be built at the company's plant in Chattanooga , TN.</span></p>
 
 <p><span class="chinese">例如，在田纳西的查塔努加的页岩中，磷酸盐岩石含有的铀更多。</span><span class="english">In Tennessee's Chattanooga shale, for example, there is more uranium in phosphate rock.</span></p>

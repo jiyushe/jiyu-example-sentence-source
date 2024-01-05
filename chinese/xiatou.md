@@ -1,5 +1,7 @@
 # 下头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiatou.md)
+
 <p><span class="chinese">垂下头羞愧去吧。</span><span class="english">Hang your head in shame.</span></p>
 
 <p><span class="chinese">保卢斯向我点了下头，算是致意。</span><span class="english">Paulus greeted me with a nod.</span></p>

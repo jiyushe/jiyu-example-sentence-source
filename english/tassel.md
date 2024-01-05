@@ -1,5 +1,7 @@
 # tassel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tassel.md)
+
 <p><span class="chinese">我的帽子有一个黑色的穗子。</span><span class="english">I got one with a black tassel.</span></p>
 
 <p><span class="chinese">与清楚的水晶小珠的缨子口音。</span><span class="english">Tassel accent with clear crystal beads. Article no.</span></p>

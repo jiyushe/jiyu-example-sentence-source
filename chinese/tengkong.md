@@ -1,5 +1,7 @@
 # 腾空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengkong.md)
+
 <p><span class="chinese">他想使桌子腾空悬起。</span><span class="english">He tried to levitate the table.</span></p>
 
 <p><span class="chinese">篮子已经被腾空了。</span><span class="english">The basket has already been emptied.</span></p>

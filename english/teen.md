@@ -1,5 +1,7 @@
 # teen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teen.md)
+
 <p><span class="chinese">当你还是少年时？</span><span class="english">When you were teen?</span></p>
 
 <p><span class="chinese">当我还是少年时，我曾听过他演讲。</span><span class="english">I heard him speak when I was teen.</span></p>

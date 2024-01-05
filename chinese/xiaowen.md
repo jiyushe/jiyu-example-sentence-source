@@ -1,5 +1,7 @@
 # 笑纹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaowen.md)
+
 <p><span class="chinese">老沙头嘴角挂出一丝苦涩的笑纹，摇了摇头。</span><span class="english">The old man shook his head with a wry smile.</span></p>
 
 <p><span class="chinese">每一个皱纹和笑纹都是富有代价的。</span><span class="english">Every wrinkle and laugh line has been well-earned.</span></p>

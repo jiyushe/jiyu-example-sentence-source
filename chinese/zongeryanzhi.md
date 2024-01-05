@@ -1,5 +1,7 @@
 # 总而言之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongeryanzhi.md)
+
 <p><span class="chinese">总而言之，就是一个人的交易。</span><span class="english">It' was a one-man business, anyhow.</span></p>
 
 <p><span class="chinese">总而言之，人生如梦。</span><span class="english">After all, life is just like a dream.</span></p>

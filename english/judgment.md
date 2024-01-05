@@ -1,5 +1,7 @@
 # judgment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judgment.md)
+
 <p><span class="chinese">这一判断听来是刺耳的。</span><span class="english">That judgment seems harsh.</span></p>
 
 <p><span class="chinese">那里等待着他的审判。</span><span class="english">There awaits his judgment.</span></p>

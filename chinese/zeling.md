@@ -1,5 +1,7 @@
 # 责令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeling.md)
+
 <p><span class="chinese">据悉，陈立岩已被责令停职。</span><span class="english">Chen has been suspended from his position.</span></p>
 
 <p><span class="chinese">涉案歌舞厅已被责令停业。</span><span class="english">The pub has been ordered to suspend business.</span></p>

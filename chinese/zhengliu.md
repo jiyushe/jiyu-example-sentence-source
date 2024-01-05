@@ -1,5 +1,7 @@
 # 整流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengliu.md)
+
 <p><span class="chinese">'整流'。''罩飞机的引擎外罩。</span><span class="english">The cowling on an aircraft.</span></p>
 
 <p><span class="chinese">本文给出了12脉波整流机组的计算实例。</span><span class="english">It gives an example of 12-pulse unit.</span></p>

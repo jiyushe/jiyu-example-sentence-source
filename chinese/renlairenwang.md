@@ -1,5 +1,7 @@
 # 人来人往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renlairenwang.md)
+
 <p><span class="chinese">看人来人往的感觉很不错。</span><span class="english">And it's great to people watch.</span></p>
 
 <p><span class="chinese">面向人来人往的一面墙的左边的壁画。</span><span class="english">Left side wall of the school facing road.</span></p>

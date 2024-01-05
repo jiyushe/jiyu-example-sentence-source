@@ -1,5 +1,7 @@
 # phenotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenotype.md)
+
 <p><span class="chinese">目的研究异烟肼乙酰化遗传型。</span><span class="english">To study the isoniazid acetylator Phenotype.</span></p>
 
 <p><span class="chinese">髋关节比良好显型的髋关节还宽松。</span><span class="english">The hip joint is wider than a good hip phenotype.</span></p>

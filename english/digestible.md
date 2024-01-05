@@ -1,5 +1,7 @@
 # digestible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digestible.md)
+
 <p><span class="chinese">植物油易消化而矿物油则不然。</span><span class="english">Vegetable oil is digestible and mineral oil is not.</span></p>
 
 <p><span class="chinese">将任务和信息分解成小的、可消化的片段。</span><span class="english">Break tasks and information into small, digestible chunks.</span></p>

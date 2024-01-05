@@ -1,5 +1,7 @@
 # counter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counter.md)
+
 <p><span class="chinese">什么是盖革计数器？</span><span class="english">What is a Geiger counter?</span></p>
 
 <p><span class="chinese">“把他安排到睡衣柜台”。</span><span class="english">Put him at the pyjama counter.</span></p>

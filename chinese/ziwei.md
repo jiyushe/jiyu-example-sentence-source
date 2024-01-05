@@ -1,5 +1,7 @@
 # 滋味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwei.md)
+
 <p><span class="chinese">这滋味儿大好。</span><span class="english">It tastes very good.</span></p>
 
 <p><span class="chinese">我觉得它毫无滋味。</span><span class="english">It palls on my taste.</span></p>

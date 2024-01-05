@@ -1,5 +1,7 @@
 # aerobatics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerobatics.md)
+
 <p><span class="chinese">特技飞行是危险的运动。</span><span class="english">Aerobatics is a dangerous sport.</span></p>
 
 <p><span class="chinese">特技飞行是由飞机在空中表演的。</span><span class="english">Aerobatics are done by an airplane in the air.</span></p>

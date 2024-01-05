@@ -1,5 +1,7 @@
 # sixfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sixfold.md)
+
 <p><span class="chinese">80年代的前五年，杠杆收购的交易量增加了五倍。</span><span class="english">In the first half of the 1980s, LBO transactions increased sixfold.</span></p>
 
 <p><span class="chinese">这也意味着自2001年以来该项基金增加了六倍以上。</span><span class="english">That represents a more than sixfold increase in funding since 2001.</span></p>

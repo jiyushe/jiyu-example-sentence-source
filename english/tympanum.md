@@ -1,5 +1,7 @@
 # tympanum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tympanum.md)
+
 <p><span class="chinese">鼓面有一八芒太阳纹。</span><span class="english">Tympanum with an eight-rayed sun emblem.</span></p>
 
 <p><span class="chinese">这区块顶端有两只公鹿站立在十字架旁。</span><span class="english">On the summit of the tympanum two stags stand on each side of a cross.</span></p>

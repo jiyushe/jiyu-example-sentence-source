@@ -1,5 +1,7 @@
 # commercialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commercialize.md)
+
 <p><span class="chinese">把体育运动商业化并不明智。</span><span class="english">It isn't wise to commercialize sport.</span></p>
 
 <p><span class="chinese">市场化改革，就是打破计划体制的一场革命。</span><span class="english">Commercialize reform, it is a revolution of discomfit system.</span></p>

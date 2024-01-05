@@ -1,5 +1,7 @@
 # fairground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairground.md)
+
 <p><span class="chinese">我们今天在游乐场上玩得很开心。</span><span class="english">We have a lot of fun at the fairground today.</span></p>
 
 <p><span class="chinese">游乐场给他们无穷的乐趣。</span><span class="english">The fairground affords them endless amusement.</span></p>

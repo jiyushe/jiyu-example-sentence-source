@@ -1,5 +1,7 @@
 # 请安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingan.md)
+
 <p><span class="chinese">请代我向他请安问好。</span><span class="english">Please give my best regards to him.</span></p>
 
 <p><span class="chinese">男性先向女性请安。</span><span class="english">Gentlemen say hello first to ladies.</span></p>

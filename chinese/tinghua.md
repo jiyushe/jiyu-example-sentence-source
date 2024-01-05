@@ -1,5 +1,7 @@
 # 听话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tinghua.md)
+
 <p><span class="chinese">它听话了，很好。</span><span class="english">Ah, it does-- great.</span></p>
 
 <p><span class="chinese">我的女儿很听话。</span><span class="english">My daughter minds well.</span></p>

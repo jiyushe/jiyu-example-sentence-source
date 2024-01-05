@@ -1,5 +1,7 @@
 # alta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alta.md)
+
 <p><span class="chinese">所述填充粉料是澎润土。</span><span class="english">The packing powder material is alta mud.</span></p>
 
 <p><span class="chinese">我和车队在一起度过的最后一天是在阿尔塔.格雷希亚。</span><span class="english">My last day with the group was spent in Alta Gracia.</span></p>

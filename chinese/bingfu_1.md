@@ -1,5 +1,7 @@
 # 禀赋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfu_1.md)
+
 <p><span class="chinese">这就是美国人的禀赋。</span><span class="english">That is the genius of America.</span></p>
 
 <p><span class="chinese">我们不需要语言学习的特殊禀赋。</span><span class="english">We don't need a special gift for language learning.</span></p>

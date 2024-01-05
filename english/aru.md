@@ -1,5 +1,7 @@
 # aru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aru.md)
+
 <p><span class="chinese">中国不说“阿鲁”么？</span><span class="english">Ch-China doesn't say "aru"?</span></p>
 
 <p><span class="chinese">阿鲁笑翠鸟的食性和大型笑翠鸟有所不同，其食物几乎都是昆虫。</span><span class="english">Aru kookaburra's diet and large kookaburra different, almost all of its food insects.</span></p>

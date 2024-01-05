@@ -1,5 +1,7 @@
 # yi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yi.md)
+
 <p><span class="chinese">干得不坏，易。</span><span class="english">Not bad Yi.</span></p>
 
 <p><span class="chinese">“东夷”是什么？</span><span class="english">What was "East Yi"?</span></p>

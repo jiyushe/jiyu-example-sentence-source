@@ -1,5 +1,7 @@
 # 军人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junren.md)
+
 <p><span class="chinese">他看上去像一个军人。</span><span class="english">He looks like a soldier.</span></p>
 
 <p><span class="chinese">他是一个残废军人。</span><span class="english">He is a disabled soldier.</span></p>

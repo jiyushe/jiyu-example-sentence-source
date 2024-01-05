@@ -1,5 +1,7 @@
 # 应用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyong.md)
+
 <p><span class="chinese">应用它。</span><span class="english">Apply it.</span></p>
 
 <p><span class="chinese">单击应用及玉。</span><span class="english">Click Apply & Ok.</span></p>

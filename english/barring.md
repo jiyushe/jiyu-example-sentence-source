@@ -1,5 +1,7 @@
 # barring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barring.md)
+
 <p><span class="chinese">除非发生意外，我们会去那儿的。</span><span class="english">Barring accidents, we'll be there.</span></p>
 
 <p><span class="chinese">除你我以外，无人知晓。</span><span class="english">Nobody else knows, barring you and me.</span></p>

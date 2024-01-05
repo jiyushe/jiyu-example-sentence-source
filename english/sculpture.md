@@ -1,5 +1,7 @@
 # sculpture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sculpture.md)
+
 <p><span class="chinese">他精于雕刻。</span><span class="english">He is skilled in sculpture.</span></p>
 
 <p><span class="chinese">雕塑是一种造形艺术。</span><span class="english">Sculpture is a plastic art.</span></p>

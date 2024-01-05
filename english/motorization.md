@@ -1,5 +1,7 @@
 # motorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorization.md)
+
 <p><span class="chinese">机动化扩张。</span><span class="english">Motorization expansion.</span></p>
 
 <p><span class="chinese">实现了系列化、模块化和机动化。</span><span class="english">It realizes serialization, modularizaion and motorization.</span></p>

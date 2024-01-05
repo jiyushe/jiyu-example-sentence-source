@@ -1,5 +1,7 @@
 # polite 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polite.md)
+
 <p><span class="chinese">他是在说客气话。</span><span class="english">He was being polite.</span></p>
 
 <p><span class="chinese">我们要有礼貌。</span><span class="english">We have to be polite.</span></p>

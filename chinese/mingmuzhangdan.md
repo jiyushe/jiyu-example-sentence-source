@@ -1,5 +1,7 @@
 # 明目张胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingmuzhangdan.md)
+
 <p><span class="chinese">他们明目张胆地篡改马克思主义。</span><span class="english">They openly revised Marxism.</span></p>
 
 <p><span class="chinese">你怎么能对这可怜的孩子这么明目张胆地撒谎？</span><span class="english">How can you lie so glaringly to the poor child?</span></p>

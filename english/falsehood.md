@@ -1,5 +1,7 @@
 # falsehood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falsehood.md)
+
 <p><span class="chinese">他深恶虚伪。</span><span class="english">He abominates falsehood.</span></p>
 
 <p><span class="chinese">李教授很憎恶虚伪。</span><span class="english">Professor Lee abominates falsehood.</span></p>

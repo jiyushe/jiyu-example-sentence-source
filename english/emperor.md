@@ -1,5 +1,7 @@
 # emperor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emperor.md)
+
 <p><span class="chinese">他向皇帝叩头。</span><span class="english">He kowtowed to the Emperor.</span></p>
 
 <p><span class="chinese">现在，就让吾皇登座！</span><span class="english">Now let the Emperor ascend!</span></p>

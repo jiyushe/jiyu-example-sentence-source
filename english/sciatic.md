@@ -1,5 +1,7 @@
 # sciatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sciatic.md)
+
 <p><span class="chinese">显露每只动物的右侧坐骨神经，利刀横断。</span><span class="english">Each rat underwent right sciatic nerve transection.</span></p>
 
 <p><span class="chinese">前列腺，下背部肌肉，坐骨神经。</span><span class="english">L4- Prostate gland, muscles of the lower back, sciatic nerve.</span></p>

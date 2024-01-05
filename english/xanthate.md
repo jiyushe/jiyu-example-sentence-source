@@ -1,5 +1,7 @@
 # xanthate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xanthate.md)
+
 <p><span class="chinese">用自透析湿法纺丝，制得含黄原酸盐的再生丝素初生纤维。</span><span class="english">The RSF filament with xanthate was produced by wet spinning process.</span></p>
 
 <p><span class="chinese">与黄药相比，乙硫氮是方铅矿更好的选择性捕收剂。</span><span class="english">Diethyldithiocarbamate was more better selective collector than Xanthate on galena.</span></p>

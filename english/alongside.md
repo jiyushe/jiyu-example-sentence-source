@@ -1,5 +1,7 @@
 # alongside 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alongside.md)
+
 <p><span class="chinese">一条领港船驶近船边。</span><span class="english">A pilot boat drew alongside.</span></p>
 
 <p><span class="chinese">一辆汽车停在我们的车旁边。</span><span class="english">A car pulled up alongside ours.</span></p>

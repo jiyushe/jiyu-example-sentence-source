@@ -1,5 +1,7 @@
 # deterioration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deterioration.md)
+
 <p><span class="chinese">我自感体力已退化了。</span><span class="english">I definitely felt a deterioration in vigor.</span></p>
 
 <p><span class="chinese">这种食品在热带地方不会变质。</span><span class="english">The food undergoes no deterioration in the tropics.</span></p>

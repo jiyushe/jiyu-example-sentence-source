@@ -1,5 +1,7 @@
 # edi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edi.md)
+
 <p><span class="chinese">我们极大地提高了对EDI的支持。</span><span class="english">We added substantially enhanced our support for EDI.</span></p>
 
 <p><span class="chinese">海关EDI预录入、电子定仓、EDI银行付税、无纸化报关、检验检疫电子报验、海关通关助理操作。</span><span class="english">EDI customs declaration. e-booking. EDI tax-paying and pre-input system for commercial inspection.</span></p>

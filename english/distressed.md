@@ -1,5 +1,7 @@
 # distressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distressed.md)
+
 <p><span class="chinese">即使我不在，他也不会悲伤痛苦的。</span><span class="english">He won't be distressed by my absence.</span></p>
 
 <p><span class="chinese">我不知道为什么并且觉得很苦恼。</span><span class="english">I don’t know why and feel distressed.</span></p>

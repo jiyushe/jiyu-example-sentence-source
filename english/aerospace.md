@@ -1,5 +1,7 @@
 # aerospace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerospace.md)
+
 <p><span class="chinese">另一个例子是航空航天。</span><span class="english">Another example is in aerospace.</span></p>
 
 <p><span class="chinese">他在航天工业部门工作。</span><span class="english">He works in the aerospace industry.</span></p>

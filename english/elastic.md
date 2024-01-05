@@ -1,5 +1,7 @@
 # elastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastic.md)
+
 <p><span class="chinese">蠕变与弹性损失。</span><span class="english">Creep and elastic losses.</span></p>
 
 <p><span class="chinese">在下摆的弹性拉绳。</span><span class="english">Elastic drawstring at hem.</span></p>

@@ -1,5 +1,7 @@
 # 天晓得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiaode.md)
+
 <p><span class="chinese">事实上，天晓得？</span><span class="english">Actually, who knows?</span></p>
 
 <p><span class="chinese">各位可找来看看，天晓得它在谈什么？</span><span class="english">Check it out. Who knows?</span></p>

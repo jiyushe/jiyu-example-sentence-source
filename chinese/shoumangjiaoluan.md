@@ -1,5 +1,7 @@
 # 手忙脚乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoumangjiaoluan.md)
+
 <p><span class="chinese">而那个小贩谢谢他，手忙脚乱地走了。</span><span class="english">The vendor thanked him and peddled away.</span></p>
 
 <p><span class="chinese">在你手忙脚乱挣扎工作的时候是很难这样考量的，但是可以一试，环顾一下你的同事，他们也同样地在手忙脚乱地挣扎吗？</span><span class="english">Look around at your colleagues. Are they struggling too?</span></p>

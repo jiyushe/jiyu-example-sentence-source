@@ -1,5 +1,7 @@
 # adams
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adams.md)
+
 <p><span class="chinese">安塞尔·亚当斯。</span><span class="english">Ansel Adams.</span></p>
 
 <p><span class="chinese">安塞尔亚当斯死于1984年。</span><span class="english">Ansel Adams died in 1984.</span></p>

@@ -1,5 +1,7 @@
 # 宇宙射线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhoushexian.md)
+
 <p><span class="chinese">对于我们的设备来说，宇宙射线也是一个威胁。</span><span class="english">For our technology, cosmic rays are a menace too.</span></p>
 
 <p><span class="chinese">宇宙射线和X射线因其电离作用产生高能电子。</span><span class="english">Cosmic rays and X-rays produce energetic electrons by ionization.</span></p>

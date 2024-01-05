@@ -1,5 +1,7 @@
 # modernist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernist.md)
+
 <p><span class="chinese">劳伦斯的现代主义视野。</span><span class="english">H. Lawrences modernist perspective.</span></p>
 
 <p><span class="chinese">覃子豪现代诗研究。</span><span class="english">A study of Qin Zihao's modernist poetry.</span></p>

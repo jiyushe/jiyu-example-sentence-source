@@ -1,5 +1,7 @@
 # 递进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijin.md)
+
 <p><span class="chinese">搭配兰瑟系列美白底妆产品使用，让肌肤享受递进式的深层透肌美白。</span><span class="english">Use it with Lansur whitening makeup base to deeply brighten your skin!</span></p>
 
 <p><span class="chinese">本文的主体部分是对递进关系进行欧拉图分析。</span><span class="english">The context body is the analysis of climactic relation using eulerian graph.</span></p>

@@ -1,5 +1,7 @@
 # birthplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birthplace.md)
+
 <p><span class="chinese">我的出生地是苏州。</span><span class="english">My birthplace is SuZhou.</span></p>
 
 <p><span class="chinese">百利甜的发祥地在英国。</span><span class="english">Poly sweet birthplace in Britain.</span></p>

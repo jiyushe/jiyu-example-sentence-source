@@ -1,5 +1,7 @@
 # poetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poetical.md)
+
 <p><span class="chinese">她对于婚姻有理想化的看法。</span><span class="english">She had poetical ideas about marriage.</span></p>
 
 <p><span class="chinese">淡水黄昏带诗意，夜雾罩四边。</span><span class="english">Poetical twilight of Tamsui is shrouding in the mist.</span></p>

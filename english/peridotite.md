@@ -1,5 +1,7 @@
 # peridotite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peridotite.md)
+
 <p><span class="chinese">矿石主要为橄榄岩包体。</span><span class="english">The ores exist mainly as peridotite inclusion.</span></p>
 
 <p><span class="chinese">菱镁矿是由橄榄岩风化形成的。</span><span class="english">The magnesite originated from the peridotite by weathering.</span></p>

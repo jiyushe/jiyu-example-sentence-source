@@ -1,5 +1,7 @@
 # 忠实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshi_4.md)
+
 <p><span class="chinese">我是你忠实的姬妾。</span><span class="english">I am yours truly.</span></p>
 
 <p><span class="chinese">忠实，镜照他们。</span><span class="english">Loyal, mirror them.</span></p>

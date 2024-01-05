@@ -1,5 +1,7 @@
 # bodiless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodiless.md)
+
 <p><span class="chinese">我的朋友，你是纯净而无躯体的，你也没有内心。</span><span class="english">You are Pure and Bodiless. You have no mind.</span></p>
 
 <p><span class="chinese">我想知道脱胎丝绸佛是怎么做的？</span><span class="english">I wonder how the bodiless silk Buddha is made?</span></p>

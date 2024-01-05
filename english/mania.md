@@ -1,5 +1,7 @@
 # mania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mania.md)
+
 <p><span class="chinese">并购狂潮紧追绿色趋势。</span><span class="english">Merger mania grips green.</span></p>
 
 <p><span class="chinese">现在世界上有一种新的狂热。</span><span class="english">The world has a new mania.</span></p>

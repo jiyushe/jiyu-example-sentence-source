@@ -1,5 +1,7 @@
 # 终年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongnian_1.md)
+
 <p><span class="chinese">泰勒于今年三月去世，终年79岁</span><span class="english">Taylor died in March at age 79.</span></p>
 
 <p><span class="chinese">有些国家终年无雪。</span><span class="english">Snow is absent in some countries.</span></p>

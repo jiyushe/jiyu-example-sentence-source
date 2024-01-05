@@ -1,5 +1,7 @@
 # rick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rick.md)
+
 <p><span class="chinese">再见，里克，祝福你。</span><span class="english">Bye, Rick. God bless you.</span></p>
 
 <p><span class="chinese">里克极不情愿地跟在她身后。</span><span class="english">Rick begrudgingly follows.</span></p>

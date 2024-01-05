@@ -1,5 +1,7 @@
 # awakening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awakening.md)
+
 <p><span class="chinese">抑是“人”的觉醒？</span><span class="english">Or the awakening of Man?</span></p>
 
 <p><span class="chinese">惊破一番新梦。</span><span class="english">Awakening a new dream, startled.</span></p>

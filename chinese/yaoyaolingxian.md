@@ -1,5 +1,7 @@
 # 遥遥领先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaolingxian.md)
+
 <p><span class="chinese">美国已经在方面遥遥领先了，”他说。</span><span class="english">The US is far ahead," he said.</span></p>
 
 <p><span class="chinese">我们的语言遥遥领先，顶顶棒。</span><span class="english">Our language is the best by a mile.</span></p>

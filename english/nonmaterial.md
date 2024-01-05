@@ -1,5 +1,7 @@
 # nonmaterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmaterial.md)
+
 <p><span class="chinese">一些非物质的目标，并不会改变。</span><span class="english">With nonmaterial things, the target does not move.</span></p>
 
 <p><span class="chinese">我高度留意非物质方面的生活。</span><span class="english">I am highly aware of the nonmaterial aspects of life.</span></p>

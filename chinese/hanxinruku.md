@@ -1,5 +1,7 @@
 # 含辛茹苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanxinruku.md)
+
 <p><span class="chinese">含辛茹苦取得了很好的成就，我看你最应该感谢的人是你的妻子！</span><span class="english">If I accomplished anything, I will owe them all to my wife.</span></p>
 
 <p><span class="chinese">母亲含辛茹苦，使孩子们受到良好的教育。</span><span class="english">By denying herself, Mother gave the children a good education.</span></p>

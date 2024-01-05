@@ -1,5 +1,7 @@
 # 内燃机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiranji.md)
+
 <p><span class="chinese">多种燃料内燃机。</span><span class="english">Multi-fuel internal combustion engine.</span></p>
 
 <p><span class="chinese">能较理想的清洗内燃机各部位的积灰。</span><span class="english">Ideal cleaning internal combustion engine parts of ash.</span></p>

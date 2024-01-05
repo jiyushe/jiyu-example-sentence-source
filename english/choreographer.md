@@ -1,5 +1,7 @@
 # choreographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choreographer.md)
+
 <p><span class="chinese">保罗泰勒是一位编舞家。</span><span class="english">Paul Taylor is a choreographer.</span></p>
 
 <p><span class="chinese">他是这部片子的武术指导。</span><span class="english">He is the martial arts choreographer.</span></p>

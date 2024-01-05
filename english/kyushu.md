@@ -1,5 +1,7 @@
 # kyushu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kyushu.md)
+
 <p><span class="chinese">清秋烟雨，情满九州。</span><span class="english">A misty rain, feeling full of kyushu.</span></p>
 
 <p><span class="chinese">别府大学位于日本九州岛大分县。</span><span class="english">Beppu University located in Ooita of Kyushu in Japan.</span></p>

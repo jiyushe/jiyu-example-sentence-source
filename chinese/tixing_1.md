@@ -1,5 +1,7 @@
 # 体形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixing_1.md)
+
 <p><span class="chinese">它能让我保持良好的体形。</span><span class="english">It keeps me in good shape.</span></p>
 
 <p><span class="chinese">也许我是该恢复一下体形了。</span><span class="english">Maybe I should get in shape.</span></p>

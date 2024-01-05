@@ -1,5 +1,7 @@
 # hedwig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedwig.md)
+
 <p><span class="chinese">哈利，我不能冒险让海德薇过来。</span><span class="english">Harry, I couldn 't risk sending Hedwig.</span></p>
 
 <p><span class="chinese">是海德薇，她带来了一封卢平的信。</span><span class="english">That was Hedwig. She brought a letter from Lupin.</span></p>

@@ -1,5 +1,7 @@
 # catalyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalyst.md)
+
 <p><span class="chinese">它是一道催化剂。</span><span class="english">It’s a catalyst.</span></p>
 
 <p><span class="chinese">但是这能不能促使一代人转变?。</span><span class="english">Buta catalyst to shift a generation?</span></p>

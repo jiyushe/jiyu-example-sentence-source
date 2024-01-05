@@ -1,5 +1,7 @@
 # existent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/existent.md)
+
 <p><span class="chinese">但已经晚了，损害已经造成。</span><span class="english">But it was too late for the existent damages.</span></p>
 
 <p><span class="chinese">地球系统中元素的赋存状态即为元素的质的属性。</span><span class="english">The quality attribute of element is its existent state in earth system.</span></p>

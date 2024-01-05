@@ -1,5 +1,7 @@
 # mohammed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mohammed.md)
+
 <p><span class="chinese">祝福，合十，我是穆罕默德。</span><span class="english">Salu and Namaste, I AM Mohammed.</span></p>
 
 <p><span class="chinese">默罕默德·阿里是位拳击名手。</span><span class="english">Mohammed Ali is a boxing personality.</span></p>

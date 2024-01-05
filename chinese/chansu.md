@@ -1,5 +1,7 @@
 # 蟾酥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chansu.md)
+
 <p><span class="chinese">目的对蟾酥的氯仿提取物进行化学成分的分离与鉴定。</span><span class="english">Results Six compounds were isolated from the chloroform extracts of Venenum Bufonis.</span></p>
 
 <p><span class="chinese">结论蟾酥注射液可以诱导人肝癌细胞BEL-7404凋亡。</span><span class="english">Conclusion The Chansu injection could induce apoptosis of human hepatoma cell BEL-7404.</span></p>

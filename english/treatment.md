@@ -1,5 +1,7 @@
 # treatment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treatment.md)
+
 <p><span class="chinese">她正在进行治疗。</span><span class="english">She is under treatment.</span></p>
 
 <p><span class="chinese">治疗如何起效?</span><span class="english">How does treatment work?</span></p>

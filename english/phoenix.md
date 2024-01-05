@@ -1,5 +1,7 @@
 # phoenix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoenix.md)
+
 <p><span class="chinese">我去过凤凰城。</span><span class="english">I have visited Phoenix.</span></p>
 
 <p><span class="chinese">“凤凰涅磐，浴火重生”！</span><span class="english">Phoenix Nirvana, Born of Fire.</span></p>

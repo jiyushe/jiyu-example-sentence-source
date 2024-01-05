@@ -1,5 +1,7 @@
 # populace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/populace.md)
+
 <p><span class="chinese">报纸广售于一般大众之间。</span><span class="english">A newspaper circulates among the general populace.</span></p>
 
 <p><span class="chinese">年节更是民众娱乐狂欢的节日。</span><span class="english">The festival is the populace entertainment festival.</span></p>

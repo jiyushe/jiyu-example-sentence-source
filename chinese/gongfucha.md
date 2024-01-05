@@ -1,5 +1,7 @@
 # 功夫茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfucha.md)
+
 <p><span class="chinese">你是否对功夫茶充满好奇？</span><span class="english">Do you know what Kongfu Tea is?</span></p>
 
 <p><span class="chinese">那才是功夫茶的真谛。</span><span class="english">That is the soul of Kongfu tea.</span></p>

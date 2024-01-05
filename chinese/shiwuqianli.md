@@ -1,5 +1,7 @@
 # 史无前例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwuqianli.md)
+
 <p><span class="chinese">羽坛史无前例，后无来者的时代巨人。</span><span class="english">Lin Dan, the giant of this era.</span></p>
 
 <p><span class="chinese">一个史无前例的富裕时代。</span><span class="english">A time of unexampled prosperity.</span></p>

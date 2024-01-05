@@ -1,5 +1,7 @@
 # sericulture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sericulture.md)
+
 <p><span class="chinese">桑是蚕业生产的基础。</span><span class="english">Mulberry is the base of sericulture production.</span></p>
 
 <p><span class="chinese">这项活动主要是对养蚕人家所说的。</span><span class="english">This activity mainly for sericulture others said.</span></p>

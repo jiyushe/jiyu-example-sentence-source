@@ -1,5 +1,7 @@
 # peritoneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peritoneal.md)
+
 <p><span class="chinese">有内脏与腔壁的腹膜。</span><span class="english">There are visceral and parietal peritoneal.</span></p>
 
 <p><span class="chinese">一层厚的黄色渗出物被覆在腹膜外。</span><span class="english">A thick yellow exudate coats the peritoneal surfaces.</span></p>

@@ -1,5 +1,7 @@
 # 打瞌睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dakeshui.md)
+
 <p><span class="chinese">他的同伴正在打瞌睡。</span><span class="english">His companions doze.</span></p>
 
 <p><span class="chinese">他看书时打瞌睡。</span><span class="english">He dozed over his book.</span></p>

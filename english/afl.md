@@ -1,5 +1,7 @@
 # afl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afl.md)
+
 <p><span class="chinese">新清肝饮可预防该模型AFL的发生。</span><span class="english">NQGD can prevent the occurrence of AFL in this model.</span></p>
 
 <p><span class="chinese">冈帕斯领导的劳联没有站在罢工者一边，这座钢厂在后来的40年间一直没有工会。</span><span class="english">Gompers’s AFL would not take the strikers’ side, and the plant remained non-union for 40 years.</span></p>

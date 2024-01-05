@@ -1,5 +1,7 @@
 # 特种工艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tezhonggongyi.md)
+
 <p><span class="chinese">采用特种工艺现场施工而成，常用色彩为黄色底层，绿色面层。</span><span class="english">The construction process and site construction, color yellow green bottom layer, surface layer.</span></p>
 
 <p><span class="chinese">1977年，创建衡水地区特种工艺厂，招收第三批弟子。</span><span class="english">In 1977, establishing Hengshui Regional Special Arts &Crafts Factory, and recruiting the third group of pupils.</span></p>

@@ -1,5 +1,7 @@
 # 聚沙成塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushachengta.md)
+
 <p><span class="chinese">积少成多，聚沙成塔。</span><span class="english">Every little helps a mickle.</span></p>
 
 <p><span class="chinese">聚沙成塔，积少成多。</span><span class="english">Every little advices a mickle.</span></p>

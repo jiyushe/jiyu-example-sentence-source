@@ -1,5 +1,7 @@
 # obtain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obtain.md)
+
 <p><span class="chinese">获得一个存根。</span><span class="english">Obtain a stub.</span></p>
 
 <p><span class="chinese">获得一个俄罗斯方块。</span><span class="english">To obtain a tetris.</span></p>

@@ -1,5 +1,7 @@
 # melanogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melanogenesis.md)
+
 <p><span class="chinese">已知SCF具有刺激黑色素干细胞的迁徙与黑色素生成。</span><span class="english">SCF has been suggested play an important role in melanocyte migration, survival and melanogenesis.</span></p>
 
 <p><span class="chinese">酪氨酸酶是黑色素合成中的关键酶，酪氨酸酶基因的突变将导致白化病。</span><span class="english">Tyrosinase is the essential enzyme in melanogenesis . The mutation of tyrosinase gene causes albinism.</span></p>

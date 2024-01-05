@@ -1,5 +1,7 @@
 # constructive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constructive.md)
+
 <p><span class="chinese">提出有建设性的批判。</span><span class="english">Be critical but constructive.</span></p>
 
 <p><span class="chinese">用一个积极的想法换掉它吧。</span><span class="english">Supplant it with a constructive thought.</span></p>

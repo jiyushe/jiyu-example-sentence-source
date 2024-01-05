@@ -1,5 +1,7 @@
 # procedural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procedural.md)
+
 <p><span class="chinese">这是程序上的问题。</span><span class="english">But that's a procedural question.</span></p>
 
 <p><span class="chinese">我们经常谈论程序法。</span><span class="english">And we often talk about procedural law.</span></p>

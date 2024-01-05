@@ -1,5 +1,7 @@
 # kamikaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kamikaze.md)
+
 <p><span class="chinese">蝗虫敢死队。</span><span class="english">Kamikaze locust.</span></p>
 
 <p><span class="chinese">正在此时，神风还在继续地吹着。</span><span class="english">Meanwhile, the kamikaze continues to blow.</span></p>

@@ -1,5 +1,7 @@
 # 食糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitang_1.md)
+
 <p><span class="chinese">他特别看好大米和食糖。</span><span class="english">He particularly likes rice and sugar.</span></p>
 
 <p><span class="chinese">食糖一磅涨了5分钱。</span><span class="english">Sugar has advanced five cents a pound.</span></p>

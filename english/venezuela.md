@@ -1,5 +1,7 @@
 # venezuela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venezuela.md)
+
 <p><span class="chinese">委内瑞拉大草原上的水蟒。</span><span class="english">An anaconda in the Llanos of Venezuela.</span></p>
 
 <p><span class="chinese">他名叫南多，来自委内瑞拉。</span><span class="english">His name was Nando, and he was from Venezuela.</span></p>

@@ -1,5 +1,7 @@
 # unconcerned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconcerned.md)
+
 <p><span class="chinese">我感到完全自由，毫无顾忌。</span><span class="english">I felt entirely free and unconcerned.</span></p>
 
 <p><span class="chinese">蒙德与这阴谋无关。</span><span class="english">Mond was unconcerned in the conspiracy.</span></p>

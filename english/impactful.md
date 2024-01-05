@@ -1,5 +1,7 @@
 # impactful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impactful.md)
+
 <p><span class="chinese">您认为2007年度最具影响力的用户应用是什么呢？</span><span class="english">What do you feel were the most impactful consumer apps of 2007?</span></p>
 
 <p><span class="chinese">牙齿美容医师采取的最普通和最有效的技术</span><span class="english">The most common and most impactful techniques employed by cosmetic dentists are</span></p>

@@ -1,5 +1,7 @@
 # vanadium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanadium.md)
+
 <p><span class="chinese">当时两种电解质均使用了钒化合物。</span><span class="english">It uses vanadium in both electrolytes.</span></p>
 
 <p><span class="chinese">工业质量铬钒钢。</span><span class="english">Industrial quality chrome vanadium steel.</span></p>

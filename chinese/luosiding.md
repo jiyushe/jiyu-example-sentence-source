@@ -1,5 +1,7 @@
 # 螺丝钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luosiding.md)
+
 <p><span class="chinese">皮带扣被赞同一个螺丝钉。</span><span class="english">The buckle is held with a screw.</span></p>
 
 <p><span class="chinese">托架需要再加一个螺丝钉。</span><span class="english">The brackets want an extra screw.</span></p>

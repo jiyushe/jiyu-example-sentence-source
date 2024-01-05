@@ -1,5 +1,7 @@
 # omelet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omelet.md)
+
 <p><span class="chinese">噢，是因为煎蛋卷吗？</span><span class="english">Oh.Is it the omelet?</span></p>
 
 <p><span class="chinese">噢，是因为煎蛋卷吗？</span><span class="english">Oh. Is it the omelet?</span></p>

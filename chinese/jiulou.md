@@ -1,5 +1,7 @@
 # 酒楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiulou.md)
+
 <p><span class="chinese">这座酒楼酒望高挂，生意兴隆。</span><span class="english">The wine sign overhangs the prosperous restaurant.</span></p>
 
 <p><span class="chinese">一些酒楼也会将餐巾垫在骨盘下面。</span><span class="english">A few wine shop also can be in napkin mat pelvic below.</span></p>

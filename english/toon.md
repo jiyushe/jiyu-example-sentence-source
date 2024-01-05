@@ -1,5 +1,7 @@
 # toon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toon.md)
+
 <p><span class="chinese">介绍以香椿芽为原料，生产保健冰淇淋的工艺过程。</span><span class="english">To report the process of Chinese toon ice cream.</span></p>
 
 <p><span class="chinese">我产生了一种成了动画城的卡通人物的感觉。</span><span class="english">I had the impression of being a toon in Toontown.</span></p>

@@ -1,5 +1,7 @@
 # smudgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smudgy.md)
+
 <p><span class="chinese">在RBC之间可见很多小的污垢样的蓝色血小板。</span><span class="english">Note the many small smudgy blue platelets between the RBC's.</span></p>
 
 <p><span class="chinese">时间长了或有脏污，稍做清理，粉刷涂料便可轻易翻新。</span><span class="english">Time grew or have smudgy , do a bit clear, plaster coating can be renovated easily.</span></p>

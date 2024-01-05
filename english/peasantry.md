@@ -1,5 +1,7 @@
 # peasantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peasantry.md)
+
 <p><span class="chinese">湖南农民变得非常富有战斗性。</span><span class="english">The hunanese peasantry became very militant.</span></p>
 
 <p><span class="chinese">工人阶级的同盟军是农民阶级。</span><span class="english">The ally of the working class was the peasantry.</span></p>

@@ -1,5 +1,7 @@
 # 史事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_3.md)
+
 <p><span class="chinese">历史记录史事的演变。</span><span class="english">History records the march of events.</span></p>
 
 <p><span class="chinese">历史记录史事的演变。</span><span class="english">History of humankind in the period before recorded history.</span></p>

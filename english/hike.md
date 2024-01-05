@@ -1,5 +1,7 @@
 # hike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hike.md)
+
 <p><span class="chinese">你经常徒步旅行吗？</span><span class="english">Do you hike often?</span></p>
 
 <p><span class="chinese">宝贝，把你裤子往上提一提。</span><span class="english">Hike your trousers up,baby.</span></p>

@@ -1,5 +1,7 @@
 # 前功尽弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangongjinqi.md)
+
 <p><span class="chinese">如果我现在把它剪断，就等于前功尽弃。</span><span class="english">Now if I cut it, all my previous work will be wasted.</span></p>
 
 <p><span class="chinese">必须找到它，不然会前功尽弃。</span><span class="english">It must be found, or else all this work is meaningless.</span></p>

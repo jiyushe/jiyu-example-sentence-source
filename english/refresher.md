@@ -1,5 +1,7 @@
 # refresher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refresher.md)
+
 <p><span class="chinese">所以，它永远不会伤到一个恢复精神的人。</span><span class="english">So, it never hurts for a little refresher.</span></p>
 
 <p><span class="chinese">这确实是对所有艾滋病研究者的清凉剂。</span><span class="english">This is for all AIDS researchers refresher.</span></p>

@@ -1,5 +1,7 @@
 # ablate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ablate.md)
+
 <p><span class="chinese">对金属板、管材的防腐施工要求先进行除锈、清洗处理后再进行涂料施工。</span><span class="english">The construction of the metal and pipe should ablate the rust first.</span></p>
 
 <p><span class="chinese">自动检测卷纸头部，自动切除剔废。</span><span class="english">Automatically check rolled paper head, automatically ablate the untidy and eliminate waste.</span></p>

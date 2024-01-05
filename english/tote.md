@@ -1,5 +1,7 @@
 # tote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tote.md)
+
 <p><span class="chinese">悬挂手提袋。</span><span class="english">Hanging tote bags.</span></p>
 
 <p><span class="chinese">易钉手提包从圣罗兰！</span><span class="english">Easy Studded Tote from YSL!</span></p>

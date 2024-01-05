@@ -1,5 +1,7 @@
 # 衰落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuailuo.md)
+
 <p><span class="chinese">该国的国势衰落了。</span><span class="english">The country waned in influence.</span></p>
 
 <p><span class="chinese">美国真的在衰落吗？</span><span class="english">Is Americas new declinism for real?</span></p>

@@ -1,5 +1,7 @@
 # imagine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imagine.md)
+
 <p><span class="chinese">试想一下。</span><span class="english">Imagine that.</span></p>
 
 <p><span class="chinese">放飞想象。</span><span class="english">Just imagine.</span></p>

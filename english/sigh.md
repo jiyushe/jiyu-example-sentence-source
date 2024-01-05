@@ -1,5 +1,7 @@
 # sigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sigh.md)
+
 <p><span class="chinese">对准，喀嚓，叹气。</span><span class="english">Aim, click, sigh.</span></p>
 
 <p><span class="chinese">他长吁一口气。</span><span class="english">He heaves a sigh.</span></p>

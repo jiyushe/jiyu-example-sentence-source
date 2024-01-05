@@ -1,5 +1,7 @@
 # guid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guid.md)
+
 <p><span class="chinese">请引导我们到停机位。</span><span class="english">Please guid us to parking place.</span></p>
 
 <p><span class="chinese">每个列表和视图都通过GUID来唯一标识。</span><span class="english">Each list and view is uniquely identified with a GUID.</span></p>

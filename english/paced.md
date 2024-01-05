@@ -1,5 +1,7 @@
 # paced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paced.md)
+
 <p><span class="chinese">我们向前跑去。</span><span class="english">We paced onward.</span></p>
 
 <p><span class="chinese">那匹马在跑马场的四周溜蹄。</span><span class="english">The horse paced around the ring.</span></p>

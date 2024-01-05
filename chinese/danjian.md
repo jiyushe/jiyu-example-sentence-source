@@ -1,5 +1,7 @@
 # 单间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danjian.md)
+
 <p><span class="chinese">他领着我们走进了一个小单间儿。</span><span class="english">He headed us into a small separate room.</span></p>
 
 <p><span class="chinese">我想预订一间明天的单间。</span><span class="english">I want to book a single room for tomorrow.</span></p>

@@ -1,5 +1,7 @@
 # neap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neap.md)
+
 <p><span class="chinese">小潮是什么？</span><span class="english">What are neap tides?</span></p>
 
 <p><span class="chinese">小潮涨潮尤其弱潮汐。</span><span class="english">Neap tides are especially weak tides.</span></p>

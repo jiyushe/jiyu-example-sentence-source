@@ -1,5 +1,7 @@
 # philately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philately.md)
+
 <p><span class="chinese">五集邮及其相关商品。</span><span class="english">Philately and related merchandise.</span></p>
 
 <p><span class="chinese">多姿多彩的集邮方式②。</span><span class="english">Varied ways and means of philately ii.</span></p>

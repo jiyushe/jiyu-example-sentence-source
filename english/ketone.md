@@ -1,5 +1,7 @@
 # ketone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ketone.md)
+
 <p><span class="chinese">以醛酮为原料合成卤代乙烯类化合物。</span><span class="english">Preparing alkenyl halide from aldehyde and ketone.</span></p>
 
 <p><span class="chinese">酮体是脂肪酸的短链衍生物。</span><span class="english">Ketone bodies are short-chain derivatives of fatty acids.</span></p>

@@ -1,5 +1,7 @@
 # zora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zora.md)
+
 <p><span class="chinese">卓拉的母亲于1904年去逝，那时她还只有十三岁。</span><span class="english">Zora's mother died in nineteen-oh-four, when Zora was thirteen years old.</span></p>
 
 <p><span class="chinese">甚至现在我感觉自己还是在伊顿维尔小镇上的懵然无知的佐拉。</span><span class="english">Even now I often achieve the unconscious Zora of that small village, Eatonville.</span></p>

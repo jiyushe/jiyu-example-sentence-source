@@ -1,5 +1,7 @@
 # 情趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqu.md)
+
 <p><span class="chinese">我们情趣相投。</span><span class="english">We are temperamentally compatible.</span></p>
 
 <p><span class="chinese">有些团体想办法为捐赠活动增添更多的情趣。</span><span class="english">Some groups try to make donating fun.</span></p>

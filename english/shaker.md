@@ -1,5 +1,7 @@
 # shaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaker.md)
+
 <p><span class="chinese">振动筛是什么类型的？</span><span class="english">What type of the shale shaker?</span></p>
 
 <p><span class="chinese">能否请你把盐罐递给我？</span><span class="english">Could you please pass me the salt shaker?</span></p>

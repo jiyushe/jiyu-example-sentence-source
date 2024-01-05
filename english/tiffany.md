@@ -1,5 +1,7 @@
 # tiffany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiffany.md)
+
 <p><span class="chinese">帝凡尼壁灯。</span><span class="english">Tiffany Wall Lamp.</span></p>
 
 <p><span class="chinese">蒂芬妮学得很快。</span><span class="english">Tiffany is quick at learning.</span></p>

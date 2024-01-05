@@ -1,5 +1,7 @@
 # 修配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiupei.md)
+
 <p><span class="chinese">奴隶钉的锻造匠，修配旧锁链。</span><span class="english">A tinkering slave-maker, who mends old chains.</span></p>
 
 <p><span class="chinese">他把旧自行车的零件拆下来修配他的三轮车。</span><span class="english">He cannibalized his old bicycle to repair his tricycle.</span></p>

@@ -1,5 +1,7 @@
 # uncommitted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncommitted.md)
+
 <p><span class="chinese">是因为我终于有闲暇时间了？</span><span class="english">Because I finally found some uncommitted time?</span></p>
 
 <p><span class="chinese">尽早剔除那些抱怨叫苦者。</span><span class="english">Weed out the uncommitted whiners and complainers early.</span></p>

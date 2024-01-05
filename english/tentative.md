@@ -1,5 +1,7 @@
 # tentative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tentative.md)
+
 <p><span class="chinese">好，让我来讲讲这个问题。</span><span class="english">A few tentative hands.</span></p>
 
 <p><span class="chinese">我浅尝了一口。</span><span class="english">I took a tentative sip.</span></p>

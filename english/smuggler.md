@@ -1,5 +1,7 @@
 # smuggler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smuggler.md)
+
 <p><span class="chinese">我们缴获了这伙私枭的全部毒品。</span><span class="english">We confiscated all the drugs from this smuggler gang.</span></p>
 
 <p><span class="chinese">海关人员当场抓获了走私者。</span><span class="english">The Customs officers caught the smuggler green-handed.</span></p>

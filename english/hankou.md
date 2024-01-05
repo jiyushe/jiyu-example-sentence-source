@@ -1,5 +1,7 @@
 # hankou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hankou.md)
+
 <p><span class="chinese">汉口是商业中心。</span><span class="english">Hankou is the commercial center.</span></p>
 
 <p><span class="chinese">他们在汉口到北京这一段铁路开火车。</span><span class="english">They drove the train from Hankou to Beijing.</span></p>

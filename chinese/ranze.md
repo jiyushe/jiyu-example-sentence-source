@@ -1,5 +1,7 @@
 # 然则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranze.md)
+
 <p><span class="chinese">然则如之何而可？</span><span class="english">Then, what is to be done?</span></p>
 
 <p><span class="chinese">然则幸子却模棱两可。</span><span class="english">But luckily the son but ambiguity.</span></p>

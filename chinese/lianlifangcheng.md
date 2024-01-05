@@ -1,5 +1,7 @@
 # 联立方程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianlifangcheng.md)
+
 <p><span class="chinese">把狄拉克方程分解成了两个单旋量的联立方程组。</span><span class="english">The Dirac equation is decomposed into a pair of equations of two spinors.</span></p>
 
 <p><span class="chinese">通过简单的张量的技术，大量的联立方程，成功地解决了。</span><span class="english">By simple tensor techniques, a large amount of simultaneous equations are solved successfully.</span></p>

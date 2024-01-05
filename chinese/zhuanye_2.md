@@ -1,5 +1,7 @@
 # 转业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanye_2.md)
+
 <p><span class="chinese">姜海表示会立刻把转业报告撤回来。</span><span class="english">Jiang Hai said would immediately turned to report back to.</span></p>
 
 <p><span class="chinese">当前，有一大批干部要转业到地方。</span><span class="english">A great many cadres are about to be transferred to civilian work.</span></p>

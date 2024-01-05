@@ -1,5 +1,7 @@
 # 上马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangma.md)
+
 <p><span class="chinese">这项工程明年上马。</span><span class="english">The project will start next year.</span></p>
 
 <p><span class="chinese">他给马套上马具去耕田。</span><span class="english">He tackled the horse up for plowing.</span></p>

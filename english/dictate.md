@@ -1,5 +1,7 @@
 # dictate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictate.md)
+
 <p><span class="chinese">我要口述一封信给巴托洛梅奥。</span><span class="english">I will dictate a letter to bartolo-mmeo.</span></p>
 
 <p><span class="chinese">我试着不去指挥它，不扮演高高在上的神的角色。</span><span class="english">I try not to dictate it, not to play God.</span></p>

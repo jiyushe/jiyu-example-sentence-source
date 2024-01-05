@@ -1,5 +1,7 @@
 # encipher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encipher.md)
+
 <p><span class="chinese">其性质和加密到地雷。</span><span class="english">And encipher his nature into mine.</span></p>
 
 <p><span class="chinese">对电话银行系统的加密进行分析和研究。</span><span class="english">This paper analyzes and studies encipher in phone bank system.</span></p>

@@ -1,5 +1,7 @@
 # limbus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limbus.md)
+
 <p><span class="chinese">采取角膜缘干细胞移植应是一种合理有效的治疗手段。</span><span class="english">It is an effective and reasonable therapeutic tool to transplant the limbus cornea stem cells.</span></p>
 
 <p><span class="chinese">目的探讨角膜缘移植术在眼碱烧伤中的治疗意义。</span><span class="english">Objictive To understand the clinical significance of corneal limbus transplantation on al kaliburns.</span></p>

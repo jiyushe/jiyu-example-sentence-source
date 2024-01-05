@@ -1,5 +1,7 @@
 # marriageable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marriageable.md)
+
 <p><span class="chinese">她还没有到婚龄。</span><span class="english">She is not of marriageable age.</span></p>
 
 <p><span class="chinese">我认为适婚年龄非常愚蠢。</span><span class="english">I think that marriageable age is silly.</span></p>

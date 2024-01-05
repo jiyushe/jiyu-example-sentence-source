@@ -1,5 +1,7 @@
 # 指引
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyin_1.md)
+
 <p><span class="chinese">科波会指引你去地球。</span><span class="english">Kobol will lead you to Earth.</span></p>
 
 <p><span class="chinese">听从你的内心，以此为指引。</span><span class="english">Listen to your heart for guidance.</span></p>

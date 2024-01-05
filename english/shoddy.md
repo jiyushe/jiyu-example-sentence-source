@@ -1,5 +1,7 @@
 # shoddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoddy.md)
+
 <p><span class="chinese">他们使伪劣产品。</span><span class="english">They make shoddy products.</span></p>
 
 <p><span class="chinese">但是限制性援助会导致假冒伪劣。</span><span class="english">But tied aid leads to shoddy work.</span></p>

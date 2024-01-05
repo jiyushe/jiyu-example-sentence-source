@@ -1,5 +1,7 @@
 # 小说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshuo.md)
+
 <p><span class="chinese">是否是小说？</span><span class="english">Is it fiction?</span></p>
 
 <p><span class="chinese">我喜欢读使人毛骨悚然的小说。</span><span class="english">I love thrillers.</span></p>

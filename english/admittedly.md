@@ -1,5 +1,7 @@
 # admittedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admittedly.md)
+
 <p><span class="chinese">保护本国工业是种名正言顺的歧视。</span><span class="english">Protection for domestic industry is admittedly discriminatory.</span></p>
 
 <p><span class="chinese">不可否认的是，你需要一段时间才能适应它的界面。</span><span class="english">Admittedly the interface of Read-Me takes a while to adjust to.</span></p>

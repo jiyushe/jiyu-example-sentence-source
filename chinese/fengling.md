@@ -1,5 +1,7 @@
 # 风铃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengling.md)
+
 <p><span class="chinese">风铃在微风中丁当作响。</span><span class="english">The chimes jingled in the breeze.</span></p>
 
 <p><span class="chinese">记忆是一张挂满风铃的卷帘。</span><span class="english">Memory is a shutter hung wind chimes.</span></p>

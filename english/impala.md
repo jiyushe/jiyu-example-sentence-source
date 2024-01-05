@@ -1,5 +1,7 @@
 # impala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impala.md)
+
 <p><span class="chinese">有一天，它是一只黑斑羚。</span><span class="english">One day it was an impala.</span></p>
 
 <p><span class="chinese">我想大家都比较喜欢看山姆跟迪恩跟黑斑羚而已。</span><span class="english">I think they just like Sam and Dean and the Impala.</span></p>

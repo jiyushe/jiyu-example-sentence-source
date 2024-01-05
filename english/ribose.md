@@ -1,5 +1,7 @@
 # ribose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ribose.md)
+
 <p><span class="chinese">这个特别的碱基是A,这个是核糖</span><span class="english">This particular base is , this is ribose.</span></p>
 
 <p><span class="chinese">然而，核糖正是ATP分子的一个必要组成部分。</span><span class="english">Ribose is one of the essential components of the ATP molecule.</span></p>

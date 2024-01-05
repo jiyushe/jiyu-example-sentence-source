@@ -1,5 +1,7 @@
 # 诚惶诚恐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenghuangchengkong.md)
+
 <p><span class="chinese">大家可以看出，她有些诚惶诚恐。</span><span class="english">You can see that she is quite frightened.</span></p>
 
 <p><span class="chinese">这些公司的老板都诚惶诚恐。</span><span class="english">And the owners of these businesses are scared.</span></p>

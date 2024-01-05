@@ -1,5 +1,7 @@
 # 瘦小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxiao_1.md)
+
 <p><span class="chinese">她是个瘦小的人儿。</span><span class="english">She was a slight thing.</span></p>
 
 <p><span class="chinese">我太瘦小，嘴快人丑。</span><span class="english">I was too thin, too sharp, too ugly.</span></p>

@@ -1,5 +1,7 @@
 # whitening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitening.md)
+
 <p><span class="chinese">增白效果没话说。</span><span class="english">Whitening effect to impress.</span></p>
 
 <p><span class="chinese">牙齿增白贴真的有效吗？</span><span class="english">Does whitening toothpaste really work?</span></p>

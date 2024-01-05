@@ -1,5 +1,7 @@
 # 行者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhe.md)
+
 <p><span class="chinese">我说过，梦行者不允许来到这里，冒犯我们的家！</span><span class="english">here, to offend our home!</span></p>
 
 <p><span class="chinese">潜行者有几个种类。</span><span class="english">Stalkers come in several types.</span></p>

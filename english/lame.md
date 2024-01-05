@@ -1,5 +1,7 @@
 # lame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lame.md)
+
 <p><span class="chinese">噢，瘸腿的圣徒！</span><span class="english">Oh, lame saint!</span></p>
 
 <p><span class="chinese">他的马腿跛了。</span><span class="english">His horse fell lame.</span></p>

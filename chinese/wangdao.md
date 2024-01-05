@@ -1,5 +1,7 @@
 # 王道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangdao.md)
+
 <p><span class="chinese">如今，环保理念才是王道。</span><span class="english">Now, greenery is in vogue.</span></p>
 
 <p><span class="chinese">甜玉米是蔬菜类的王道。</span><span class="english">Sweetcorn is the best vegetable.</span></p>

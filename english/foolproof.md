@@ -1,5 +1,7 @@
 # foolproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foolproof.md)
+
 <p><span class="chinese">没有哪个系统是万全的。</span><span class="english">No system can be fully foolproof.</span></p>
 
 <p><span class="chinese">首先，不存在“傻瓜”体系。</span><span class="english">First, no system can be foolproof.</span></p>

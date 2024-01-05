@@ -1,5 +1,7 @@
 # 起泡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipao_2.md)
+
 <p><span class="chinese">倒啤酒时会起泡沫。</span><span class="english">Beer froths when it is poured out.</span></p>
 
 <p><span class="chinese">他正在喝起泡沫的酒。</span><span class="english">He was drinking the sparkling wine.</span></p>

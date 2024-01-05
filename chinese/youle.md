@@ -1,5 +1,7 @@
 # 游乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youle.md)
+
 <p><span class="chinese">我不再要放浪形骸的游乐了。</span><span class="english">I wanted no more riotous excursions.</span></p>
 
 <p><span class="chinese">我女儿很喜欢这些游乐设施，所以我也爱上了它们。</span><span class="english">which I love because my daughter loves them.</span></p>

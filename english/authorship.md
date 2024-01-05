@@ -1,5 +1,7 @@
 # authorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authorship.md)
+
 <p><span class="chinese">很多作者？</span><span class="english">Right? Multiple authorship. Yeah?</span></p>
 
 <p><span class="chinese">请求获得作品原作者身份的权利</span><span class="english">The right to claim authorship of the work</span></p>

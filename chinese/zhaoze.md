@@ -1,5 +1,7 @@
 # 沼泽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoze.md)
+
 <p><span class="chinese">我们必须排出沼泽的水。</span><span class="english">We must drain swamps.</span></p>
 
 <p><span class="chinese">那条沟排出沼泽中的水。</span><span class="english">The fort flanks on a swamp.</span></p>

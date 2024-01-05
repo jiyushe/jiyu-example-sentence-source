@@ -1,5 +1,7 @@
 # jester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jester.md)
+
 <p><span class="chinese">小丑走向丽诺儿的房间。</span><span class="english">The jester went to Lenore's room.</span></p>
 
 <p><span class="chinese">小丑把金项链带去给丽诺儿公主。</span><span class="english">The jester took the gold chain to Princess Lenore.</span></p>

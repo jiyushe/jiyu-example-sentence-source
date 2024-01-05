@@ -1,5 +1,7 @@
 # receptivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receptivity.md)
+
 <p><span class="chinese">它的成熟的和可接受的变更是什么？</span><span class="english">What is its maturity and receptivity to change?</span></p>
 
 <p><span class="chinese">这是因为身体的细胞的天然的接受能力。</span><span class="english">This is because of the innate receptivity of the body cells.</span></p>

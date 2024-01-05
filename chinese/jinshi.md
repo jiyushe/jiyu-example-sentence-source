@@ -1,5 +1,7 @@
 # 今世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshi.md)
+
 <p><span class="chinese">今生今世我永远爱你！</span><span class="english">I swear to love you forever!</span></p>
 
 <p><span class="chinese">今生今世永远爱你！</span><span class="english">This present life love you forever!</span></p>

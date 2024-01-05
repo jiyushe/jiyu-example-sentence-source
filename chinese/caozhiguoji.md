@@ -1,5 +1,7 @@
 # 操之过急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caozhiguoji.md)
+
 <p><span class="chinese">未便操之过急。</span><span class="english">It's no good being overhasty.</span></p>
 
 <p><span class="chinese">我认为他有些操之过急。</span><span class="english">I think he is being too hasty.</span></p>

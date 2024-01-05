@@ -1,5 +1,7 @@
 # fallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fallow.md)
+
 <p><span class="chinese">那田地正在休耕中。</span><span class="english">The field was lying fallow.</span></p>
 
 <p><span class="chinese">公司休耕几个月。</span><span class="english">Company lies fallow for months.</span></p>

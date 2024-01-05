@@ -1,5 +1,7 @@
 # tic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tic.md)
+
 <p><span class="chinese">一种失去控制的神经性抽搐。</span><span class="english">A nervous tic that had gotten out of control.</span></p>
 
 <p><span class="chinese">你吃了什么？闻闻我的口气。</span><span class="english">You need a Tic Tac because your breath stinks.</span></p>

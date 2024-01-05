@@ -1,5 +1,7 @@
 # 家蚕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiacan.md)
+
 <p><span class="chinese">家蚕杂交组合亲本选配方法研究进展。</span><span class="english">The Choice of Parents for Crossing in Bombyx mori L.</span></p>
 
 <p><span class="chinese">同时也阐明了家蚕品种鉴定工作的重要性。</span><span class="english">And it is important of silkworm variety certification.</span></p>

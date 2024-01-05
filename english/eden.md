@@ -1,5 +1,7 @@
 # eden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eden.md)
+
 <p><span class="chinese">由是伊甸园陷入忧伤悲切。</span><span class="english">So Eden sank to grief.</span></p>
 
 <p><span class="chinese">把凄凉的湖交成伊甸乐园。</span><span class="english">An Eden of that dim lake.</span></p>

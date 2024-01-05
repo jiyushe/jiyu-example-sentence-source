@@ -1,5 +1,7 @@
 # 吸墨纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximozhi.md)
+
 <p><span class="chinese">用吸墨纸把它吸干。</span><span class="english">Dry it with blotting-paper.</span></p>
 
 <p><span class="chinese">吸墨纸吸起墨水。</span><span class="english">Blotting paper soaks up ink.</span></p>

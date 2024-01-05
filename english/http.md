@@ -1,5 +1,7 @@
 # http
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/http.md)
+
 <p><span class="chinese">Sinatra是直接映射到HTTP的。</span><span class="english">Sinatra is a direct mapping to HTTP.</span></p>
 
 <p><span class="chinese">方法信息符合标准HTTP动词。</span><span class="english">Method information goes into the standard HTTP verbs.</span></p>

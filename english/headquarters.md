@@ -1,5 +1,7 @@
 # headquarters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headquarters.md)
+
 <p><span class="chinese">DAK总部在什么地方？</span><span class="english">Where are DAK headquarters?</span></p>
 
 <p><span class="chinese">它是内巴顿在地球的总部。</span><span class="english">It is Nebadon's headquarters.</span></p>

@@ -1,5 +1,7 @@
 # rarefied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarefied.md)
+
 <p><span class="chinese">这是牛仔服装行业的一个精品领域。</span><span class="english">This is a rarefied segment of the denim business.</span></p>
 
 <p><span class="chinese">她在稀薄的高山空气中头昏眼花。</span><span class="english">She was lightheaded from the rarefied mountain air.</span></p>

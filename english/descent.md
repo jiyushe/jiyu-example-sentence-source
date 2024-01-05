@@ -1,5 +1,7 @@
 # descent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descent.md)
+
 <p><span class="chinese">我下降“</span><span class="english">"I had made a descent."</span></p>
 
 <p><span class="chinese">启动下降段开始氦加压。</span><span class="english">Enables descent start He press.</span></p>

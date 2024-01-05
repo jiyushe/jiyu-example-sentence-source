@@ -1,5 +1,7 @@
 # 抛砖引玉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paozhuanyinyu.md)
+
 <p><span class="chinese">这里只是抛砖引玉。</span><span class="english">It's a hook.</span></p>
 
 <p><span class="chinese">我很可能会做些抛砖引玉的工作。</span><span class="english">I'll probably do the guttering or something.</span></p>

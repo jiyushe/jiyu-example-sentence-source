@@ -1,5 +1,7 @@
 # chlorosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorosis.md)
+
 <p><span class="chinese">锌素过量还经常出现铁的褪绿症。</span><span class="english">Excess zinc often produces iron chlorosis.</span></p>
 
 <p><span class="chinese">故诊断将石灰性紫色土桃黄化病为缺铁所致。</span><span class="english">So the peach chlorosis on calcarious purple soil was diagnosed as iron deficiency.</span></p>

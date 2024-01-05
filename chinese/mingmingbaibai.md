@@ -1,5 +1,7 @@
 # 明明白白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingmingbaibai.md)
+
 <p><span class="chinese">慢慢说，生活讲究清清楚楚，明明白白。</span><span class="english">Say it slow, make things clear.</span></p>
 
 <p><span class="chinese">让她惊讶的是，他们明明白白就在那里。</span><span class="english">And to her surprise, there they were.</span></p>

@@ -1,5 +1,7 @@
 # javascript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/javascript.md)
+
 <p><span class="chinese">甚至当你使用付费服务时，那些使用爪哇或爪哇描述语言应用程序的网站可能会无法访问。</span><span class="english">Even with paid-for services, sites that use Java or JavaScript apps may not work.</span></p>
 
 <p><span class="chinese">您可以添加额外的线索，并动态地拖放源。</span><span class="english">You can add additional hints and drag sources dynamically to the form using JavaScript.</span></p>

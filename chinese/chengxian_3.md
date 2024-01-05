@@ -1,5 +1,7 @@
 # 呈献
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxian_3.md)
+
 <p><span class="chinese">从我把心呈献给主开始，我事主越恒久。</span><span class="english">Since I gave my heart to Jesus, The longer I serve Him.</span></p>
 
 <p><span class="chinese">我们一定会以高性能的纤维产品，尽善的服务呈献给大家。</span><span class="english">We can present to you high-powered fibres and perfect service.</span></p>

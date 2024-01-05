@@ -1,5 +1,7 @@
 # 山茱萸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzhuyu.md)
+
 <p><span class="chinese">中国山茱萸科的新分类群。</span><span class="english">New taxa of Cornaceae from China.</span></p>
 
 <p><span class="chinese">山茱萸这种浆果味酸，但好吃且有益健康。</span><span class="english">Cornel is sour, but tasty and healthy berry.</span></p>

@@ -1,5 +1,7 @@
 # johnson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johnson.md)
+
 <p><span class="chinese">约翰森示意他过来。</span><span class="english">Johnson beckoned.</span></p>
 
 <p><span class="chinese">我名字是大卫‧强森。</span><span class="english">My name is David Johnson.</span></p>

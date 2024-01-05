@@ -1,5 +1,7 @@
 # theseus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theseus.md)
+
 <p><span class="chinese">忒修斯领着童男童女在克里特上岸了。</span><span class="english">Theseus led the virgin in Crete went ashore.</span></p>
 
 <p><span class="chinese">也许要到忒修斯的婚礼以后。</span><span class="english">TITANIA Perchance till after Theseus ' wedding-day.</span></p>

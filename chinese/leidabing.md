@@ -1,5 +1,7 @@
 # 雷达兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leidabing.md)
+
 <p><span class="chinese">海军的声纳兵，雷达兵等等。</span><span class="english">Navy sonar serviceman, radar and so on.</span></p>
 
 <p><span class="chinese">雷达兵目不转睛地注视着荧光屏。</span><span class="english">The radarman's eyes were glued to the screen.</span></p>

@@ -1,5 +1,7 @@
 # west
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/west.md)
+
 <p><span class="chinese">往南或往西都可以。</span><span class="english">Go south or west.</span></p>
 
 <p><span class="chinese">那么，我们向西开。</span><span class="english">So, we drive west.</span></p>

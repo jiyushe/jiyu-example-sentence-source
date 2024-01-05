@@ -1,5 +1,7 @@
 # 世态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitai.md)
+
 <p><span class="chinese">世态入眼，人情入心。</span><span class="english">The world with eyes, human heart.</span></p>
 
 <p><span class="chinese">抬头、浅笑、这世态的悲凉。</span><span class="english">Look up, smile, the world desolate.</span></p>

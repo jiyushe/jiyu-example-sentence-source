@@ -1,5 +1,7 @@
 # 感慨万千
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gankaiwanqian.md)
+
 <p><span class="chinese">情情景景，都让人感慨万千。</span><span class="english">The sentiment scene scenery, lets the human be filled with emotion.</span></p>
 
 <p><span class="chinese">离开球场之后，法国人回忆着这个夜晚，感慨万千。</span><span class="english">As he left the stadium, the Frenchman reflected on a night to savour.</span></p>

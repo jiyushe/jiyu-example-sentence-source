@@ -1,5 +1,7 @@
 # 视频
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipin.md)
+
 <p><span class="chinese">那个视频糟透了。</span><span class="english">That video stunk.</span></p>
 
 <p><span class="chinese">做一段音乐视频。</span><span class="english">Make a music video.</span></p>

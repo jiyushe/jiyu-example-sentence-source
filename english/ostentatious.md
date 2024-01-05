@@ -1,5 +1,7 @@
 # ostentatious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostentatious.md)
+
 <p><span class="chinese">暴发户摆阔的生活方式显示出他的浅薄。</span><span class="english">The bounder's ostentatious life showed his inanition.</span></p>
 
 <p><span class="chinese">他们的女儿在办婚事时摆阔。</span><span class="english">Their daughter was ostentatious on her wedding reception.</span></p>

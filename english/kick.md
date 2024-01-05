@@ -1,5 +1,7 @@
 # kick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kick.md)
+
 <p><span class="chinese">踢翻它！</span><span class="english">Kick it!</span></p>
 
 <p><span class="chinese">踢踢左腿。</span><span class="english">Kick your left leg.</span></p>

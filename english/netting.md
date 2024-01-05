@@ -1,5 +1,7 @@
 # netting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netting.md)
+
 <p><span class="chinese">你看，他们好像正在捞蟹苗啊。</span><span class="english">Look, it seems they are netting.</span></p>
 
 <p><span class="chinese">我在设计上网软件呢。</span><span class="english">I'm hacking the soft for netting.</span></p>

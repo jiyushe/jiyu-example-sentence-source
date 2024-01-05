@@ -1,5 +1,7 @@
 # axis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axis.md)
+
 <p><span class="chinese">时间轴就是横轴。</span><span class="english">This is the time axis.</span></p>
 
 <p><span class="chinese">“鼠辈轴心”如何?。</span><span class="english">How about Axis of Weasels?</span></p>

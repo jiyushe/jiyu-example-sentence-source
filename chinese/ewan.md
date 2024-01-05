@@ -1,5 +1,7 @@
 # 扼腕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ewan.md)
+
 <p><span class="chinese">女人总觉得自己在追悔爱人，其实她只是在为爱情扼腕痛惜。</span><span class="english">A woman often thinks she regrets the lover, when she only regrets the love.</span></p>
 
 <p><span class="chinese">伤害既已形成，解除禁运，不再只为悲伤，混乱的古巴扼腕。</span><span class="english">Rue the damage he has done. But lift the embargo against a sad, dysfunctional island.</span></p>

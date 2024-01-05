@@ -1,5 +1,7 @@
 # fastness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fastness.md)
+
 <p><span class="chinese">我们“担保”这些颜料不褪色。</span><span class="english">We guarantee the fastness of these dyes.</span></p>
 
 <p><span class="chinese">对已染色织物的牢度影响减至最低。</span><span class="english">To lower the fastness of dyed fabric to the minimum.</span></p>

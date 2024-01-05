@@ -1,5 +1,7 @@
 # genocide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genocide.md)
+
 <p><span class="chinese">种族大屠杀遇难者纪念碑。</span><span class="english">Memorial to the victims of genocide.</span></p>
 
 <p><span class="chinese">卢旺达陷于种族灭绝的阵痛。</span><span class="english">Rwanda was in the throes of genocide.</span></p>

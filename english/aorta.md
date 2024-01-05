@@ -1,5 +1,7 @@
 # aorta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aorta.md)
+
 <p><span class="chinese">什么引起了主动脉缩窄？</span><span class="english">What causes coarctation of the aorta ?</span></p>
 
 <p><span class="chinese">怎样作出主动脉缩窄的诊断？</span><span class="english">How is coarctation of the aorta diagnosed?</span></p>

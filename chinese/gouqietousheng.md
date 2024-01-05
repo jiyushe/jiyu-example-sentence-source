@@ -1,5 +1,7 @@
 # 苟且偷生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouqietousheng.md)
+
 <p><span class="chinese">逃跑，至少能苟且偷生，年复一年，直到寿终正寝。</span><span class="english">Run, and you'll live at least a while.</span></p>
 
 <p><span class="chinese">我宁可死也不愿苟且偷生。</span><span class="english">I had rather die than live in dishonor.</span></p>

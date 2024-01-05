@@ -1,5 +1,7 @@
 # stovepipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stovepipe.md)
+
 <p><span class="chinese">刮痧能瘦腿吗?效果好不好?。</span><span class="english">Scraping can stovepipe it? Out good?</span></p>
 
 <p><span class="chinese">有什么方法可以快速瘦腿？</span><span class="english">Is there any way you can quickly stovepipe?</span></p>

@@ -1,5 +1,7 @@
 # brawny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brawny.md)
+
 <p><span class="chinese">她举起了自己强壮的手臂。</span><span class="english">She ups with her brawny arm.</span></p>
 
 <p><span class="chinese">铁匠有强壮的胳膊。</span><span class="english">The blacksmith has a brawny arm.</span></p>

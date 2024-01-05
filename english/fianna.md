@@ -1,5 +1,7 @@
 # fianna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fianna.md)
+
 <p><span class="chinese">有人说最早的欢舞者是一个芬尼安。</span><span class="english">It's said that the first Galliard was a Fianna.</span></p>
 
 <p><span class="chinese">今年的早些时候，勒尼汉先生芬尼安失败党在选举中付出了惨重的代价。</span><span class="english">Mr Lenihan's Fianna Fail party paid a heavy price in elections earlier this year.</span></p>

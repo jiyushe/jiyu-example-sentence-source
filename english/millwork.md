@@ -1,5 +1,7 @@
 # millwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millwork.md)
+
 <p><span class="chinese">客房预订，建厂细节及规格合约的部分文件。</span><span class="english">Guest room book, millwork details and specifications are part of contract documents.</span></p>
 
 <p><span class="chinese">一些经销商报告说，在最近几个星期，来自木制品加工厂的询价增多转好。</span><span class="english">Some distributors have reported upturns in inquiries from millwork shops in recent weeks.</span></p>

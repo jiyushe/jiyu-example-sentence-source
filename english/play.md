@@ -1,5 +1,7 @@
 # play 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/play.md)
+
 <p><span class="chinese">你去玩吧。</span><span class="english">You go play.</span></p>
 
 <p><span class="chinese">让我们来玩吧！</span><span class="english">Let' s play !</span></p>

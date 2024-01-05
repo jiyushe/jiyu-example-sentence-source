@@ -1,5 +1,7 @@
 # 踟蹰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chichu.md)
+
 <p><span class="chinese">死神夸不着你在他影子里的踟蹰。</span><span class="english">Nor shall death brag thou wander in his shade.</span></p>
 
 <p><span class="chinese">所以与其踟蹰于过去，不如拥抱未来。</span><span class="english">So instead of dwelling on the past, they embrace the future.</span></p>

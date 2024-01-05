@@ -1,5 +1,7 @@
 # 赶到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandao_1.md)
+
 <p><span class="chinese">我们确实在太阳下山前赶到了海边，不过刚刚好。</span><span class="english">We did, but only just.</span></p>
 
 <p><span class="chinese">我匆匆赶到售票处。</span><span class="english">I hurry to the ticket office.</span></p>

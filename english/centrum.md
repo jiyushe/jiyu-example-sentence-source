@@ -1,5 +1,7 @@
 # centrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrum.md)
+
 <p><span class="chinese">善存甚至在配方中添加了蕃茄红素。</span><span class="english">Centrum even added lycopene to the formula.</span></p>
 
 <p><span class="chinese">结果91例病例，有336个椎体见压缩性骨折。</span><span class="english">Results In 91 cases, compression fractures was found in 336 centrum.</span></p>

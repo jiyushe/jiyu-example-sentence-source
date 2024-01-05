@@ -1,5 +1,7 @@
 # ballot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballot.md)
+
 <p><span class="chinese">选票名的数组。</span><span class="english">an array of ballot names.</span></p>
 
 <p><span class="chinese">选举没有救世主。</span><span class="english">No saviours are on the ballot.</span></p>

@@ -1,5 +1,7 @@
 # 玩火自焚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanhuozifen.md)
+
 <p><span class="chinese">我不宜于在玩火自焚。</span><span class="english">This is fire we are playing with.</span></p>
 
 <p><span class="chinese">他们认为再这样继续下去，无异于玩火自焚。</span><span class="english">To continue would be crazy, they said.</span></p>

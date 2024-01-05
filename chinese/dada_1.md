@@ -1,5 +1,7 @@
 # 鞑靼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dada_1.md)
+
 <p><span class="chinese">鞑靼牛排是很清淡的食物，就像寿司一样。</span><span class="english">Steak tartare is really light it's like eating sushi.</span></p>
 
 <p><span class="chinese">尽管在这场战争中，鞑靼军队在历史上最后一次兵临莫斯科城下。</span><span class="english">During it Tatars for the last time in history reached Moscow.</span></p>

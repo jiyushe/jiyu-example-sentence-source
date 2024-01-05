@@ -1,5 +1,7 @@
 # mentalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mentalism.md)
+
 <p><span class="chinese">从唯心主义角度分析癔症病因，为揭示癔症形成提供新的思路。</span><span class="english">To explore the etiology of hysteria through the aspect of mentalism.</span></p>
 
 <p><span class="chinese">专业精神论杰作的可能性是不尽的。</span><span class="english">The possibilities for professional mentalism masterpieces are endless.</span></p>

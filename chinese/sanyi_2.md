@@ -1,5 +1,7 @@
 # 散逸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanyi_2.md)
+
 <p><span class="chinese">这些原子将会散逸进入太空。</span><span class="english">Those atoms could simply drift from the planet into space.</span></p>
 
 <p><span class="chinese">流体动力散逸可能也剥夺了土卫六的大部份大气。</span><span class="english">Hydrodynamic escape may have stripped Titan of much of its air, too.</span></p>

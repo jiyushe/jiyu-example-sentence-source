@@ -1,5 +1,7 @@
 # phenanthrene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenanthrene.md)
+
 <p><span class="chinese">菲下降的程度要高于芘。</span><span class="english">The degree of decline in the phenanthrene than pyrene.</span></p>
 
 <p><span class="chinese">GY2B菌株对菲的降解可能通过水杨酸途径。</span><span class="english">Strain Sphingomonas sp. GY2B degrade phenanthrene via salicylate pathway.</span></p>

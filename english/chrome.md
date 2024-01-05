@@ -1,5 +1,7 @@
 # chrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chrome.md)
+
 <p><span class="chinese">因此没有针对浏览器的自定义目录。</span><span class="english">Okay so no custom chrome for in-browser.</span></p>
 
 <p><span class="chinese">工业质量铬钒钢。</span><span class="english">Industrial quality chrome vanadium steel.</span></p>

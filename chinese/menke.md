@@ -1,5 +1,7 @@
 # 门客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menke.md)
+
 <p><span class="chinese">公孙龙对这个新收的门客非常满意。</span><span class="english">Gong was very satisfied with the new follower.</span></p>
 
 <p><span class="chinese">他们可是追求完善的门客。</span><span class="english">They strive for perfection and will expect the same from you.</span></p>

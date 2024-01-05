@@ -1,5 +1,7 @@
 # 口水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koushui.md)
+
 <p><span class="chinese">口水直流一大摊。</span><span class="english">DC saliva a share.</span></p>
 
 <p><span class="chinese">老大爷，能给我口水喝麽？</span><span class="english">Grandpa, can I have a drink?</span></p>

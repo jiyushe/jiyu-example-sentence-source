@@ -1,5 +1,7 @@
 # bedroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedroom.md)
+
 <p><span class="chinese">卧室礼仪。</span><span class="english">Bedroom Etiquette.</span></p>
 
 <p><span class="chinese">我赌卧室疚在上面。</span><span class="english">My bedroom just above.</span></p>

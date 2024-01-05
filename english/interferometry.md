@@ -1,5 +1,7 @@
 # interferometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interferometry.md)
+
 <p><span class="chinese">该设计方法同样适用于相移干涉计量术。</span><span class="english">The design method can also apply in Phase-shifting Interferometry.</span></p>
 
 <p><span class="chinese">该新算法也同样适用于相移干涉计量。</span><span class="english">The new algorithm can also apply in phase-shifting interferometry.</span></p>

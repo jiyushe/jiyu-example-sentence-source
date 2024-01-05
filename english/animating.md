@@ -1,5 +1,7 @@
 # animating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animating.md)
+
 <p><span class="chinese">这次您正在使一个文本元素产生动画效果。</span><span class="english">This time you are animating a text element.</span></p>
 
 <p><span class="chinese">因为我的身体是被同一个灵魂赋予生命的。</span><span class="english">Because it's the very same soul animating my body,or what have you.</span></p>

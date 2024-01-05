@@ -1,5 +1,7 @@
 # 玉兰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulan.md)
+
 <p><span class="chinese">多么漂亮的紫玉兰呀！</span><span class="english">What a beautiful purple magnolia you!</span></p>
 
 <p><span class="chinese">她住在洛杉矶玉兰街421号。</span><span class="english">She lives at 421 Magnolia St. , Los Angeles.</span></p>

@@ -1,5 +1,7 @@
 # 赈灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzai.md)
+
 <p><span class="chinese">UNICEF将如何帮助中国的赈灾?。</span><span class="english">How will UNICEF help survivals from China's Earthquake?</span></p>
 
 <p><span class="chinese">希望计划如何帮助中国的地震赈灾?。</span><span class="english">How will PROJECT HOPE help survivals from China's Earthquake?</span></p>

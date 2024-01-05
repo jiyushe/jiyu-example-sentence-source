@@ -1,5 +1,7 @@
 # actress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actress.md)
+
 <p><span class="chinese">她以前是个演员。</span><span class="english">She usta be an actress.</span></p>
 
 <p><span class="chinese">那女演员怎么样？</span><span class="english">What about the actress?</span></p>

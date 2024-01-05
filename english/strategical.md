@@ -1,5 +1,7 @@
 # strategical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategical.md)
+
 <p><span class="chinese">他的妻子在战略上胜过他。</span><span class="english">His wife excels him in strategical ly ability.</span></p>
 
 <p><span class="chinese">第四章，推进农业结构的战略性调整。</span><span class="english">Chapter four, push strategical redressal of agriculture structure.</span></p>

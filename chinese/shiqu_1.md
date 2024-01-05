@@ -1,5 +1,7 @@
 # 市区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqu_1.md)
+
 <p><span class="chinese">蒋禄卡住在市区。</span><span class="english">Gianluca lives in the city.</span></p>
 
 <p><span class="chinese">什么地方可以乘到市区的车？</span><span class="english">Where is the bus to downtown?</span></p>

@@ -1,5 +1,7 @@
 # evaluable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaluable.md)
+
 <p><span class="chinese">实体肿瘤治疗研究中，经过治疗完全缓解和部分缓解病人总数占对于总的可评价病例数的比例。</span><span class="english">The sum of complete and partial tumour responses seen, divided by the total number of evaluable patients.</span></p>
 
 <p><span class="chinese">评估了SA8000标准对我国出口贸易，尤其对劳动密集型行业出口贸易的巨大影响。</span><span class="english">The great effect of standard SA8000 on the export trade of populous industrial enterprises were evaluable.</span></p>

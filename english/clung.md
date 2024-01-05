@@ -1,5 +1,7 @@
 # clung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clung.md)
+
 <p><span class="chinese">她抱定儿子并没有死的希望不放。</span><span class="english">He clung to his own view.</span></p>
 
 <p><span class="chinese">泥粘在我的鞋子上。</span><span class="english">The mud clung to my shoes.</span></p>

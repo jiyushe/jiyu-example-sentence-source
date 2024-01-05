@@ -1,5 +1,7 @@
 # 吉普
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jipu.md)
+
 <p><span class="chinese">二十一世纪的吉普林。</span><span class="english">A 21st century Kipling.</span></p>
 
 <p><span class="chinese">那吉普赛男人走到妻子身边。</span><span class="english">The gipsy went to his wife.</span></p>

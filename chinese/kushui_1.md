@@ -1,5 +1,7 @@
 # 苦水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kushui_1.md)
+
 <p><span class="chinese">不要吐苦水了，做点事吧！</span><span class="english">Stop beefing and do some work!</span></p>
 
 <p><span class="chinese">把自己的苦水向她全部倒了出来，她也急得没有办法。</span><span class="english">I poured out my own bitterness to her.</span></p>

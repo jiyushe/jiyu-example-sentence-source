@@ -1,5 +1,7 @@
 # resolute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resolute.md)
+
 <p><span class="chinese">对一个有坚毅心的比丘。</span><span class="english">A bhikkhu with a resolute mind.</span></p>
 
 <p><span class="chinese">老化的商圈，坚决不设点。</span><span class="english">Aging business circle, resolute don't run.</span></p>

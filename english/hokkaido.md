@@ -1,5 +1,7 @@
 # hokkaido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hokkaido.md)
+
 <p><span class="chinese">哦！在中国流行的北海道，是吧？</span><span class="english">OH! popular hokkaido in chinese, right?</span></p>
 
 <p><span class="chinese">谁是日本北海道的拉面王?。</span><span class="english">Who is the Lamen King in Japan Hokkaido?</span></p>

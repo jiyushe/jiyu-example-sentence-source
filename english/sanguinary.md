@@ -1,5 +1,7 @@
 # sanguinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanguinary.md)
+
 <p><span class="chinese">革命充满了暴力、骚乱和血腥。</span><span class="english">A revolution is violent, turbulent and sanguinary.</span></p>
 
 <p><span class="chinese">说到吃，中国人的饮食中有些是非常残忍的。</span><span class="english">When talking about food, some Chinese food are very sanguinary.</span></p>

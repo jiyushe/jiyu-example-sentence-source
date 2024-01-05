@@ -1,5 +1,7 @@
 # corpsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corpsman.md)
+
 <p><span class="chinese">我要一个医护兵和一部电台！</span><span class="english">I need a corpsman and a radio!</span></p>
 
 <p><span class="chinese">这辆车上还有一名医务兵，这里没有显示。</span><span class="english">This vehicle also carried a " corpsman " , who is not shown.</span></p>

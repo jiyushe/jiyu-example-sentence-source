@@ -1,5 +1,7 @@
 # bravo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bravo.md)
+
 <p><span class="chinese">为火箭喝彩。20连胜。</span><span class="english">Bravo rox. 20 is phenomenal.</span></p>
 
 <p><span class="chinese">阿尔法打破左布拉沃我吧！</span><span class="english">Alpha break left Bravo on me!</span></p>

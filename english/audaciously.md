@@ -1,5 +1,7 @@
 # audaciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audaciously.md)
+
 <p><span class="chinese">丢弃你的羞怯，大胆地爱抚我。</span><span class="english">Discard your pudency, fondle me audaciously.</span></p>
 
 <p><span class="chinese">一个如此大胆而又如此创新和诱人的想法令他兴奋不已。</span><span class="english">An idea so daring and yet so audaciously tempting that a shiver of excitement quivered through him.</span></p>

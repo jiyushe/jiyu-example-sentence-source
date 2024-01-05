@@ -1,5 +1,7 @@
 # pyroxenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyroxenite.md)
+
 <p><span class="chinese">从岩体核心到边缘依次出现橄榄岩—橄榄辉石岩—辉石岩—辉长岩的岩相分带。</span><span class="english">The complex consisted of, from the core to the edge, peridotite, troctolite, pyroxenite and gabbro.</span></p>
 
 <p><span class="chinese">石榴辉石岩的寄主岩是尖晶石橄榄岩类，包括尖晶石方辉橄榄岩和尖晶石二辉橄榄岩。</span><span class="english">The host rocks of the garnet pyroxenite are spinel peridotites, including spinel harzburgite and lherzolite.</span></p>

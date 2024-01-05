@@ -1,5 +1,7 @@
 # 水污染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwuran.md)
+
 <p><span class="chinese">我们有空气污染，水污染和土地污染。</span><span class="english">We have air pollution, water pollution and land pollution.</span></p>
 
 <p><span class="chinese">所以，这次病毒感染是水污染引起的，应表述为。</span><span class="english">Water contamination was to blame for the norovirus outbreak.</span></p>

@@ -1,5 +1,7 @@
 # 邦联
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banglian.md)
+
 <p><span class="chinese">一艘邦联的船只将福克斯运送到萨姆特堡。</span><span class="english">A Confederate boat carried Fox to Sumter.</span></p>
 
 <p><span class="chinese">高原教授，弗吉尼亚州立邦联大学，美国。</span><span class="english">Yuan Gao, Virginia Commonwealth University, USA.</span></p>

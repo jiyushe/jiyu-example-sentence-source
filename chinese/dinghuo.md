@@ -1,5 +1,7 @@
 # 定货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinghuo.md)
+
 <p><span class="chinese">来宾可以看样定货。</span><span class="english">Visitors can trade on samples.</span></p>
 
 <p><span class="chinese">希望如此，如果现在定货，什么时候交货。</span><span class="english">I hope so. If I order now , when deliver?</span></p>

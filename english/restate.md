@@ -1,5 +1,7 @@
 # restate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restate.md)
+
 <p><span class="chinese">重申你的理由清楚。</span><span class="english">Restate your reasons clearly.</span></p>
 
 <p><span class="chinese">对不起，你的问题我没有理解，请你再说一遍好吗？</span><span class="english">I"m sorry, but I didn"t understand your question. Could you please restate it?</span></p>

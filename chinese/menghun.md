@@ -1,5 +1,7 @@
 # 蒙混
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menghun.md)
+
 <p><span class="chinese">他显然记不得所有的歌词，只好啦啦啦地蒙混过去。</span><span class="english">He apparently doesn't remember all the lyrics, and la-las his way through.</span></p>
 
 <p><span class="chinese">我们没能长久空闲地坐着而真正仅仅认可放荡，蒙混和篡夺。</span><span class="english">We can no longer sit idly-by and simply accept the debauchery, manipulation and usurpation.</span></p>

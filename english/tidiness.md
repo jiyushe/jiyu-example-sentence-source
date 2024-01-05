@@ -1,5 +1,7 @@
 # tidiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidiness.md)
+
 <p><span class="chinese">墨西哥人的卧室最整洁。</span><span class="english">Mexico leads the way in bedroom tidiness.</span></p>
 
 <p><span class="chinese">他喜欢荒野草地的清洁和整齐。</span><span class="english">He preferred the cleanness and tidiness of the wild sod.</span></p>

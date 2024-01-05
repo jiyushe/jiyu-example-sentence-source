@@ -1,5 +1,7 @@
 # hyperactivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperactivity.md)
+
 <p><span class="chinese">什么是注意缺陷多动症？</span><span class="english">What is Attention Deficit Hyperactivity Disorder?</span></p>
 
 <p><span class="chinese">GHA分值越高，多动症就越多。</span><span class="english">The higher the GHA, the greater the hyperactivity.</span></p>

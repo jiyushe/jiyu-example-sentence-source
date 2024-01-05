@@ -1,5 +1,7 @@
 # ferrocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrocene.md)
+
 <p><span class="chinese">对二茂铁的应用情况作了简介。</span><span class="english">The application of ferrocene was introduced briefly.</span></p>
 
 <p><span class="chinese">粗粒的铁将降低二茂铁的产量。</span><span class="english">A coarser grade of iron will lower the yield of ferrocene.</span></p>

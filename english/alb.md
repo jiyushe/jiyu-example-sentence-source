@@ -1,5 +1,7 @@
 # alb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alb.md)
+
 <p><span class="chinese">她周末把薪水全都花光了。</span><span class="english">She went through alb her salary in the weekend.</span></p>
 
 <p><span class="chinese">我穿着白袍，一件带长袖的长袍。</span><span class="english">I had an alb on and a long robe with long sleeves.</span></p>

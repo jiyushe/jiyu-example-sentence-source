@@ -1,5 +1,7 @@
 # drowning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drowning.md)
+
 <p><span class="chinese">你是否快被纷繁的工作所淹没了？</span><span class="english">Are you drowning in work?</span></p>
 
 <p><span class="chinese">爱是沈溺在深井里。</span><span class="english">Love is drowning in a deep well.</span></p>

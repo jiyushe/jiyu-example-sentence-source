@@ -1,5 +1,7 @@
 # 听听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingting_2.md)
+
 <p><span class="chinese">说来听听？</span><span class="english">Say to hear to?</span></p>
 
 <p><span class="chinese">哦？说来听听。</span><span class="english">Oh? Listen to me.</span></p>

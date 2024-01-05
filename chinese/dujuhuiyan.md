@@ -1,5 +1,7 @@
 # 独具慧眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dujuhuiyan.md)
+
 <p><span class="chinese">独特的时尚，独具慧眼的您。</span><span class="english">Unique fashion, high-toned you.</span></p>
 
 <p><span class="chinese">他是个独具慧眼的年轻人。</span><span class="english">He is a very perceptive young man.</span></p>

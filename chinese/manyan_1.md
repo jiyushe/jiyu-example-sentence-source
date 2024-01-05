@@ -1,5 +1,7 @@
 # 蔓延
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manyan_1.md)
+
 <p><span class="chinese">葡萄藤蔓延于墙上。</span><span class="english">Vines rambled over the wall.</span></p>
 
 <p><span class="chinese">水和空气污染在蔓延。</span><span class="english">Water and air pollution spread.</span></p>

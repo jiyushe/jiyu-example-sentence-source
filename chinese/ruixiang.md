@@ -1,5 +1,7 @@
 # 瑞香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruixiang.md)
+
 <p><span class="chinese">瑞香狼毒化学成分的研究。</span><span class="english">Research on Chemical Constituents of Stellera chamaejasme L.</span></p>
 
 <p><span class="chinese">对瑞香狼毒的化学成分及活性方面的研究进行了综述。</span><span class="english">Chemical constituents and activity of Stellera chamaejasmme L. is reviewed.</span></p>

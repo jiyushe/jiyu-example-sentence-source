@@ -1,5 +1,7 @@
 # recruitment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recruitment.md)
+
 <p><span class="chinese">她的工作跟招聘人才有关。</span><span class="english">She works in recruitment.</span></p>
 
 <p><span class="chinese">我认为招聘是也是一种形式的跟踪。</span><span class="english">Recruitment is a form of stalking, I suppose.</span></p>

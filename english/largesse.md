@@ -1,5 +1,7 @@
 # largesse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/largesse.md)
+
 <p><span class="chinese">这一慷慨举动并非毫无代价。</span><span class="english">This largesse comes at a price.</span></p>
 
 <p><span class="chinese">我会冷漠于意外的赏赉？</span><span class="english">In unexpected largesse? am I cold.</span></p>

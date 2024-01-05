@@ -1,5 +1,7 @@
 # superintendence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superintendence.md)
+
 <p><span class="chinese">舆论监督要通过媒体才能得以实现。</span><span class="english">Public opinion superintendence should be carried out through mass media.</span></p>
 
 <p><span class="chinese">吸取了一般通用管理程序的优点。</span><span class="english">Absorbed the merit of the procedure of general universal superintendence.</span></p>

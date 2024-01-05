@@ -1,5 +1,7 @@
 # distractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distractor.md)
+
 <p><span class="chinese">内置自加载牵张器重建兔下颌支的实验研究。</span><span class="english">Mandibular ramus reconstruction using embedded self-loading distractor in a rabbit.</span></p>
 
 <p><span class="chinese">为此，需要开发新型的牵引器，以满足对牵引有特殊要求的牙槽突。</span><span class="english">It is necessary to develop new distractor to meet the special requirement of alveolar.</span></p>

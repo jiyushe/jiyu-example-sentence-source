@@ -1,5 +1,7 @@
 # winged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winged.md)
+
 <p><span class="chinese">所有的弓下来到有翼的阳物像！</span><span class="english">All bow down to the winged phallus!</span></p>
 
 <p><span class="chinese">他的象征是有翼的鞋子和头盔。</span><span class="english">His symbols were winged sandals and helmet.</span></p>

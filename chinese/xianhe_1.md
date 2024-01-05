@@ -1,5 +1,7 @@
 # 先河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhe_1.md)
+
 <p><span class="chinese">马基雅维利开创了先河。</span><span class="english">Machiavelli, you might say, cleared the brush.</span></p>
 
 <p><span class="chinese">这便是“茶禅一味”思想的先河。</span><span class="english">This is the "Zen tea blindly" thinking precedent.</span></p>

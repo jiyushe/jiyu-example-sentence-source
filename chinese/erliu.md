@@ -1,5 +1,7 @@
 # 二流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erliu.md)
+
 <p><span class="chinese">其他的商店都是二流的。</span><span class="english">Other stores are second-rate.</span></p>
 
 <p><span class="chinese">第二选择还是二流选择？</span><span class="english">Second choice or second-class?</span></p>

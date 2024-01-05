@@ -1,5 +1,7 @@
 # ultimatum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultimatum.md)
+
 <p><span class="chinese">最后通牒规定的期限到明天中午截止。</span><span class="english">The ultimatum expires at noon tomorrow.</span></p>
 
 <p><span class="chinese">一方不可以向另外一方下最后通牒。</span><span class="english">One side cannot put an ultimatum to another.</span></p>

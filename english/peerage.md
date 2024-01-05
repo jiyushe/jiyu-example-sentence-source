@@ -1,5 +1,7 @@
 # peerage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peerage.md)
+
 <p><span class="chinese">他被晋封为贵族。</span><span class="english">He's been elevated to the peerage.</span></p>
 
 <p><span class="chinese">彼得先生被封为贵族。</span><span class="english">Sir Peter was raised to the peerage.</span></p>

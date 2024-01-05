@@ -1,5 +1,7 @@
 # progressively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progressively.md)
+
 <p><span class="chinese">在逐步放大对图像。</span><span class="english">Zooms in progressively on the image.</span></p>
 
 <p><span class="chinese">它逐渐变硬，直至不易弯曲。</span><span class="english">It progressively stiffens until rigid.</span></p>

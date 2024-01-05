@@ -1,5 +1,7 @@
 # dehiscence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehiscence.md)
+
 <p><span class="chinese">未发现切口或肌肉裂开问题。</span><span class="english">No wound or muscle dehiscence problems were noted.</span></p>
 
 <p><span class="chinese">温室栽培可有效防止裂果发生。</span><span class="english">Cultivation in greenhouse can effectively prevent dehiscence.</span></p>

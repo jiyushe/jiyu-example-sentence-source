@@ -1,5 +1,7 @@
 # 欢歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huange.md)
+
 <p><span class="chinese">蝉儿唱出炎热季节的欢歌。</span><span class="english">The locust shrills his song of heat.</span></p>
 
 <p><span class="chinese">采桑子，高唱欢歌，谁也不知疲倦。</span><span class="english">And Picking Mulberry, or singing along.</span></p>

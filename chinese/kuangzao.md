@@ -1,5 +1,7 @@
 # 狂躁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangzao.md)
+
 <p><span class="chinese">“轻度狂躁”的人有着惊人的精力。</span><span class="english">Hypomanic people have tremendous energy.</span></p>
 
 <p><span class="chinese">狂躁发作的少年儿童可能</span><span class="english">Children and teens having a manic episode may</span></p>

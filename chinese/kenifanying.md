@@ -1,5 +1,7 @@
 # 可逆反应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kenifanying.md)
+
 <p><span class="chinese">第一个是串联的可逆反应。</span><span class="english">First one is a series reversible.</span></p>
 
 <p><span class="chinese">平衡反应或可逆反应。</span><span class="english">Equilibrium or reversible reactions.</span></p>

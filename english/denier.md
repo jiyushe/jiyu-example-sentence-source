@@ -1,5 +1,7 @@
 # denier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denier.md)
+
 <p><span class="chinese">头层全粒面牛皮和1000丹尼尔防撕尼龙网布结合形成的靴面。</span><span class="english">Combination of full grain leather and 1000 denier nylon upper.</span></p>
 
 <p><span class="chinese">头层全粒面牛皮和1200丹尼尔尼龙网布联合构成的靴面。</span><span class="english">Combination of full grain leather and 1200 denier nylon upper.</span></p>

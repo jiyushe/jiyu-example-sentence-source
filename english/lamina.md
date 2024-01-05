@@ -1,5 +1,7 @@
 # lamina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamina.md)
+
 <p><span class="chinese">插入水中的叶片要剪掉。</span><span class="english">The lamina of douse wants to cut off.</span></p>
 
 <p><span class="chinese">黏膜肌层薄且不连续。</span><span class="english">It has thin lamina propria and no glands.</span></p>

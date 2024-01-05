@@ -1,5 +1,7 @@
 # misuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misuse.md)
+
 <p><span class="chinese">违法分子经常滥用现代技术。</span><span class="english">Law-breakers often misuse modern technology.</span></p>
 
 <p><span class="chinese">你感到时间紧迫是因为你滥用时间。</span><span class="english">You feel pressed for time because you misuse it.</span></p>

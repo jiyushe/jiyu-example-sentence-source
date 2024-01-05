@@ -1,5 +1,7 @@
 # indetermination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indetermination.md)
+
 <p><span class="chinese">王夫人不确定。</span><span class="english">Madam Wang's indetermination.</span></p>
 
 <p><span class="chinese">唯有不确定性是可确定的因素。</span><span class="english">Only the indetermination is a confirmable factor.</span></p>

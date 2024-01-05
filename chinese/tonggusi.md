@@ -1,5 +1,7 @@
 # 通古斯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggusi.md)
+
 <p><span class="chinese">我们在通古斯卡的旅程很快就结束。</span><span class="english">Soon our time in Tunguska was nearly over.</span></p>
 
 <p><span class="chinese">属于阿尔泰语系满-通古斯语族。</span><span class="english">The Hezhe language belongs to the Altaic phylum.</span></p>

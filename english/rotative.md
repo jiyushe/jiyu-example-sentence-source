@@ -1,5 +1,7 @@
 # rotative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotative.md)
+
 <p><span class="chinese">生命是单行道，但是一个循环的过程。</span><span class="english">Life is a lane but it is a rotative course.</span></p>
 
 <p><span class="chinese">沿速度矢量的旋转角速度用于旋转天平试验数据。</span><span class="english">The rotative speed along speed vector is used for test data of rotary balance.</span></p>

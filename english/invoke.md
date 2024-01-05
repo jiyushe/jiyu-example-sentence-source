@@ -1,5 +1,7 @@
 # invoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invoke.md)
+
 <p><span class="chinese">为了这个目的，我使用了一个比较工具。</span><span class="english">For this, I invoke a diff tool.</span></p>
 
 <p><span class="chinese">对语义数据调用推理程序</span><span class="english">Invoke a reasoner on semantic data</span></p>

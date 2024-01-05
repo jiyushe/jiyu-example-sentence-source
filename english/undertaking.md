@@ -1,5 +1,7 @@
 # undertaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undertaking.md)
+
 <p><span class="chinese">承担红色旅游有关工作。</span><span class="english">undertaking affairs on the Red Tourism.</span></p>
 
 <p><span class="chinese">承办其它爱国卫生工作。</span><span class="english">Undertaking other patriotic hygiene work.</span></p>

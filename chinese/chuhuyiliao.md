@@ -1,5 +1,7 @@
 # 出乎意料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuhuyiliao.md)
+
 <p><span class="chinese">这实在是出乎意料。</span><span class="english">This was really unexpected.</span></p>
 
 <p><span class="chinese">答案出乎意料得简单——击球员。</span><span class="english">The answer was surprisingly simple.</span></p>

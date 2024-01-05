@@ -1,5 +1,7 @@
 # ashur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashur.md)
+
 <p><span class="chinese">一堆奥修种子。</span><span class="english">A pile of Ashur seeds.</span></p>
 
 <p><span class="chinese">同样对于阿舒尔。</span><span class="english">The same holds for Ashur.</span></p>

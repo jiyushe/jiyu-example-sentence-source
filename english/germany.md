@@ -1,5 +1,7 @@
 # germany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germany.md)
+
 <p><span class="chinese">不包括德国。</span><span class="english">But not Germany.</span></p>
 
 <p><span class="chinese">德国和英国。</span><span class="english">Germany and England.</span></p>

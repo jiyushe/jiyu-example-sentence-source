@@ -1,5 +1,7 @@
 # cnn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cnn.md)
+
 <p><span class="chinese">这里是CNN即时新闻。</span><span class="english">This is CNN breaking news.</span></p>
 
 <p><span class="chinese">周一，马林斯接受了CNN采访。</span><span class="english">Mullins spoke to CNN Monday.</span></p>

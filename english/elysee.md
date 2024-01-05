@@ -1,5 +1,7 @@
 # elysee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elysee.md)
+
 <p><span class="chinese">爱丽舍宫还表示总统在医院所做的检查都是“常规的”。</span><span class="english">The Elysée said the tests he was undergoing in hospital were "standard".</span></p>
 
 <p><span class="chinese">四十多年后，爱丽舍再次在普福尔茨海姆金城镇登记。</span><span class="english">Forty years later, ELYSEE was re-registered in the gold town of Pforzheim.</span></p>

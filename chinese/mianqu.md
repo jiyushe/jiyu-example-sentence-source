@@ -1,5 +1,7 @@
 # 免去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianqu.md)
+
 <p><span class="chinese">这位将军被免去了军阶。</span><span class="english">The general was stripped of his rank.</span></p>
 
 <p><span class="chinese">邮件再次声明，免去赵鹏等4人的职务。</span><span class="english">The mail reiterates that the 4 are fired.</span></p>

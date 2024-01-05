@@ -1,5 +1,7 @@
 # 酬金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choujin.md)
+
 <p><span class="chinese">对他的服务，我多付了他一些酬金。</span><span class="english">I overpaid him for his service.</span></p>
 
 <p><span class="chinese">我知道你对酬金感兴趣。</span><span class="english">I know you’re only interested in the reward money.</span></p>

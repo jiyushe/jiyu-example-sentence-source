@@ -1,5 +1,7 @@
 # thioether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thioether.md)
+
 <p><span class="chinese">油样中的含硫化合物以噻吩类、硫醇和硫醚为主。</span><span class="english">The sulfide was in the form of thiophene, mercaptan and thioether.</span></p>
 
 <p><span class="chinese">而且和苯环衍生的硫恶唑啉相比反应活性相对较高。</span><span class="english">In addition, these ligands showed higher activity than thioether deveritives of phenyl oxazolines.</span></p>

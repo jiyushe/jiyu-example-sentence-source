@@ -1,5 +1,7 @@
 # sporangia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporangia.md)
+
 <p><span class="chinese">甘油能使菌丝生长繁茂，但孢子囊少。</span><span class="english">Glycerin helps its fungus growing flourish but its sporangia fewer.</span></p>
 
 <p><span class="chinese">此外，孢子囊内具16或64颗孢子之特徵也反应桫椤属植物在演化上的两个事件。</span><span class="english">The presence of 16- and 64-spored sporangia suggests two evolutionary events within Alsophila.</span></p>

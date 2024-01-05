@@ -1,5 +1,7 @@
 # credible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credible.md)
+
 <p><span class="chinese">这看起来不怎么着调</span><span class="english">It's not a very credible problem.</span></p>
 
 <p><span class="chinese">为什么不真实，不可信呢？</span><span class="english">Why credible is not the untruthfulness?</span></p>

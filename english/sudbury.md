@@ -1,5 +1,7 @@
 # sudbury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sudbury.md)
+
 <p><span class="chinese">索德柏立富勒烯里的氦气同位素组成，与某些陨石、彗尘中的一样。</span><span class="english">The Sudbury fullerenes contained helium with compositions similar to some meteorites and cosmic dust.</span></p>
 
 <p><span class="chinese">巴恩斯17岁的时候为萨德巴里科特踢球，泰勒给他机会成为沃特福德预备队队员。</span><span class="english">Barnes was 17 and playing for Sudbury Court when Taylor gave him a chance in the Watford reserve team.</span></p>

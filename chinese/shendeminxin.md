@@ -1,5 +1,7 @@
 # 深得民心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shendeminxin.md)
+
 <p><span class="chinese">威廉王子之行深得民心，大受民众欢迎。</span><span class="english">Prince William's trip popular, and greatly welcome the public.</span></p>
 
 <p><span class="chinese">他在担任市长的整个任期内都深得民心。</span><span class="english">He remained popular throughout his tenure of the office of mayor.</span></p>

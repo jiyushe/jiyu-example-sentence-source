@@ -1,5 +1,7 @@
 # bab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bab.md)
+
 <p><span class="chinese">但阿齐齐亚是不同的。</span><span class="english">But Bab al-Aziziya was different.</span></p>
 
 <p><span class="chinese">这个假期就从那顿石锅拌饭开始。</span><span class="english">Our holiday started from a meal that named bibim bab.</span></p>

@@ -1,5 +1,7 @@
 # 入土为安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rutuweian.md)
+
 <p><span class="chinese">昨天，我丈夫入土为安了。</span><span class="english">I buried my husband yesterday.</span></p>
 
 <p><span class="chinese">很抱歉，次我帮不了你，“她说，”我最多只能让你入土为安。</span><span class="english">I'm sorry, I can't help you out this time!</span></p>

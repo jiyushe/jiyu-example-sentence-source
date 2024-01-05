@@ -1,5 +1,7 @@
 # allelic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allelic.md)
+
 <p><span class="chinese">和F细胞的等位基因条带存在明显差异。</span><span class="english">There existed obviously different alterations of allelic band between P and F cells.</span></p>
 
 <p><span class="chinese">高分子麦谷蛋白亚基多样性分析。</span><span class="english">Allelic Variations of High Molecular Weight Glutenin Subunits in Triticum polonicum L.</span></p>

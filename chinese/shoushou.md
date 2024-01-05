@@ -1,5 +1,7 @@
 # 授受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushou.md)
+
 <p><span class="chinese">在一切授受礼物的人当中，象他们这样的人也是最聪明的。</span><span class="english">Of all who give and receive gifts, such as they are wisest.</span></p>
 
 <p><span class="chinese">日语授受关系的动词用法很复杂。</span><span class="english">The verb of the Japanese given relation is very complicated.</span></p>

@@ -1,5 +1,7 @@
 # fruition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruition.md)
+
 <p><span class="chinese">最圆满的果报是无希求和恐惧。</span><span class="english">Supreme fruition is without hope and fear.</span></p>
 
 <p><span class="chinese">那么为什么这些规划没有结出成果？</span><span class="english">So why did these plans not come to fruition?</span></p>

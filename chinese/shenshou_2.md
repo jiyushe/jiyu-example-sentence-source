@@ -1,5 +1,7 @@
 # 身手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshou_2.md)
+
 <p><span class="chinese">约翰决定在节目中小试身手。</span><span class="english">John decided to try out for the show.</span></p>
 
 <p><span class="chinese">他敏捷的身手让她惊奇地直眨眼睛。</span><span class="english">She blinked in surprise at his agility.</span></p>

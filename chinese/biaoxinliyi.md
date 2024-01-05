@@ -1,5 +1,7 @@
 # 标新立异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoxinliyi.md)
+
 <p><span class="chinese">作者似乎在力图标新立异。</span><span class="english">The author seems to strain after novelty.</span></p>
 
 <p><span class="chinese">这或许可以解释为什么伦勃朗标新立异的基督像从未大红大紫。</span><span class="english">Maybe that’s why Rembrandt’s new Jesus never caught on.</span></p>

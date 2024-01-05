@@ -1,5 +1,7 @@
 # osteophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteophyte.md)
+
 <p><span class="chinese">目的研究椎体骨赘形成的起源和机制。</span><span class="english">Objective To study the mechanism of vertebral osteophyte formation.</span></p>
 
 <p><span class="chinese">术前骨赘的高度不能猜测术后发生吞咽困难。</span><span class="english">Preoperative osteophyte height did not predict which patients developed postoperative dysphagia.</span></p>

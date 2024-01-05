@@ -1,5 +1,7 @@
 # 泪如雨下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiruyuxia.md)
+
 <p><span class="chinese">那天我泪如雨下。</span><span class="english">My teardrops fell like rain that day.</span></p>
 
 <p><span class="chinese">如果有人为我泪如雨下。</span><span class="english">If has artificial me to weep copiously.</span></p>

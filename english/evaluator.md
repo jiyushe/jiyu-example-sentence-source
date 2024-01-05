@@ -1,5 +1,7 @@
 # evaluator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaluator.md)
+
 <p><span class="chinese">否则，要对列表中的每一个元素运行求值程序。</span><span class="english">Otherwise, run the evaluator on each element of the list.</span></p>
 
 <p><span class="chinese">让我们进一步编写扑克牌求值程序。</span><span class="english">Let's go one step further and write a hand evaluator for poker.</span></p>

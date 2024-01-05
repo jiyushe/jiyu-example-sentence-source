@@ -1,5 +1,7 @@
 # 熏制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzhi_1.md)
+
 <p><span class="chinese">熏制的珍珠鸡。</span><span class="english">Smoked guinea fowl.</span></p>
 
 <p><span class="chinese">你有没有熏制的鲑鱼?。</span><span class="english">Do you have smoked salmon?</span></p>

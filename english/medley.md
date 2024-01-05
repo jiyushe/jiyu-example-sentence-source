@@ -1,5 +1,7 @@
 # medley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medley.md)
+
 <p><span class="chinese">你知道什么是混合泳吗？</span><span class="english">What's the medley swimming?</span></p>
 
 <p><span class="chinese">混合泳接力赛的顺序又是怎样的呢？</span><span class="english">And the order in medley relays?</span></p>

@@ -1,5 +1,7 @@
 # epithelial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epithelial.md)
+
 <p><span class="chinese">这些是立方细胞排列成的上皮索状结构。</span><span class="english">These are epithelial cords of block-like cells.</span></p>
 
 <p><span class="chinese">所有衬覆上皮似乎细胞学良性。</span><span class="english">All epithelial lining appears benign cytologically.</span></p>

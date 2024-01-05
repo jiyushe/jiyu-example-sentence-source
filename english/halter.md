@@ -1,5 +1,7 @@
 # halter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halter.md)
+
 <p><span class="chinese">我喜欢在夏天穿露背背心。</span><span class="english">I like wear halter top in summer.</span></p>
 
 <p><span class="chinese">牵牛要牵牛鼻子。</span><span class="english">We must lead an ox by the halter.</span></p>

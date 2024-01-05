@@ -1,5 +1,7 @@
 # mutative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutative.md)
+
 <p><span class="chinese">域，是文档中可能发生变化的数据。</span><span class="english">Domains are possible mutative data in the document.</span></p>
 
 <p><span class="chinese">基于混沌变量，提出一种变尺度混沌优化方法。</span><span class="english">A mutative scale chaos optimization method is proposed based on the chaos variables.</span></p>

@@ -1,5 +1,7 @@
 # redeem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redeem.md)
+
 <p><span class="chinese">希望他能够痛改前非，走上正轨。</span><span class="english">I hope he can redeem himself.</span></p>
 
 <p><span class="chinese">凡头生的儿子都要赎出来。</span><span class="english">Redeem all your firstborn sons.</span></p>

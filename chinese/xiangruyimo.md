@@ -1,5 +1,7 @@
 # 相濡以沫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangruyimo.md)
+
 <p><span class="chinese">五十六个民族相濡以沫。</span><span class="english">The fifty-six national feelings.</span></p>
 
 <p><span class="chinese">我想爱情，就是相濡以沫的过一生。</span><span class="english">I think love is profound feelings over a lifetime.</span></p>

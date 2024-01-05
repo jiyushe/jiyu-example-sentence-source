@@ -1,5 +1,7 @@
 # 病状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhuang.md)
+
 <p><span class="chinese">服食一种能维持病状的药散。</span><span class="english">Feeding on that which doth preserve the ill.</span></p>
 
 <p><span class="chinese">小麦黄花叶病的病状是黄色花叶。</span><span class="english">The symptoms of WYMV on wheat plant are yellow mosaic.</span></p>

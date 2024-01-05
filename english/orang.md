@@ -1,5 +1,7 @@
 # orang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orang.md)
+
 <p><span class="chinese">金刚！猩猩和他的地盘。</span><span class="english">King Kong! orang and his land.</span></p>
 
 <p><span class="chinese">橙子的数量就是我的年龄。</span><span class="english">Basket. The number of the orang is my age.</span></p>

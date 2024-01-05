@@ -1,5 +1,7 @@
 # 公分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfen.md)
+
 <p><span class="chinese">整个装置为50公分高。</span><span class="english">Entire unit is 50cm high.</span></p>
 
 <p><span class="chinese">现在长到约40公分高了呢！</span><span class="english">Now they are about 40cm tall!</span></p>

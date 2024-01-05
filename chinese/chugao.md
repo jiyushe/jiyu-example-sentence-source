@@ -1,5 +1,7 @@
 # 初稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chugao.md)
+
 <p><span class="chinese">是初稿？</span><span class="english">A first draft?</span></p>
 
 <p><span class="chinese">这不过是个初稿。</span><span class="english">This is only a first draft.</span></p>

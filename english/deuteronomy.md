@@ -1,5 +1,7 @@
 # deuteronomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deuteronomy.md)
+
 <p><span class="chinese">人们听见上帝，却看不见他，申命记说。</span><span class="english">One hears God but one doesn't see God, in Deuteronomy.</span></p>
 
 <p><span class="chinese">申命记另一个更深远的主题是爱。</span><span class="english">A further theme of Deuteronomy is the emphasis on love.</span></p>

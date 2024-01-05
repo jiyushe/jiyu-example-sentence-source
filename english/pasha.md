@@ -1,5 +1,7 @@
 # pasha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasha.md)
+
 <p><span class="chinese">一个名为大老虎帕夏漫游花园。</span><span class="english">A large tiger named Pasha roams the garden.</span></p>
 
 <p><span class="chinese">现在，巴夏似乎在做着美好的承诺。</span><span class="english">Now, Pasha seems to be making good on that promise.</span></p>

@@ -1,5 +1,7 @@
 # 劳资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozi.md)
+
 <p><span class="chinese">劳资软件不能用?。</span><span class="english">Labor-management software can not?</span></p>
 
 <p><span class="chinese">劳资教育课程之规划设计。</span><span class="english">Design classes for the Labor-Management education.</span></p>

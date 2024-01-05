@@ -1,5 +1,7 @@
 # 小工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaogong.md)
+
 <p><span class="chinese">我曾经是一位酒仓库的小工。</span><span class="english">I used to be a laborer in a liquor warehouse.</span></p>
 
 <p><span class="chinese">十年前，曹淑发在一家小工厂里打杂。</span><span class="english">Ten years ago, Cao Shufa in a small factory charwoman.</span></p>

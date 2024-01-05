@@ -1,5 +1,7 @@
 # diagnostics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagnostics.md)
+
 <p><span class="chinese">诊断学教学是结合病例授课。</span><span class="english">A lecture of diagnostics is combined with case.</span></p>
 
 <p><span class="chinese">渡越辐射在强流束诊断中的应用。</span><span class="english">Research of OTR on High-current Electron-beam Diagnostics.</span></p>

@@ -1,5 +1,7 @@
 # 克扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kekou.md)
+
 <p><span class="chinese">你怎么克扣呢？</span><span class="english">What do you skimp on?</span></p>
 
 <p><span class="chinese">消灭人克扣人的现象。</span><span class="english">Eliminate the exploitation of men by men.</span></p>

@@ -1,5 +1,7 @@
 # 难点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nandian.md)
+
 <p><span class="chinese">我有很多重难点型。</span><span class="english">I HAs a lot of problems.</span></p>
 
 <p><span class="chinese">我需求回答这个重难点型吗？</span><span class="english">Need I says the question?</span></p>

@@ -1,5 +1,7 @@
 # 钳子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzi_1.md)
+
 <p><span class="chinese">我用钳子工作。</span><span class="english">I work with plier.</span></p>
 
 <p><span class="chinese">醉海蟹钳子。</span><span class="english">Drunk the sea crab pincers.</span></p>

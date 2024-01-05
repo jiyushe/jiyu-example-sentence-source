@@ -1,5 +1,7 @@
 # pterosaur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pterosaur.md)
+
 <p><span class="chinese">这对翼龙来说非常巨大。</span><span class="english">This is huge for a pterosaur.</span></p>
 
 <p><span class="chinese">翼龙足迹为四足行走，行迹宽。</span><span class="english">The pterosaur trackway is quadrupedal, with wide gauge.</span></p>

@@ -1,5 +1,7 @@
 # referee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referee.md)
+
 <p><span class="chinese">裁判学校之岛！</span><span class="english">Referee School Island!</span></p>
 
 <p><span class="chinese">那个裁判几乎是瞎了眼。</span><span class="english">That referee is blind.</span></p>

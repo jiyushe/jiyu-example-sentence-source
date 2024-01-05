@@ -1,5 +1,7 @@
 # dou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dou.md)
+
 <p><span class="chinese">君子斗数。</span><span class="english">The gentleman Dou counts.</span></p>
 
 <p><span class="chinese">小王。我是小窦。很高兴认识你。</span><span class="english">I'm Dou. Pleased to meet you.</span></p>

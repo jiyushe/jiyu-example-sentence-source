@@ -1,5 +1,7 @@
 # 磁化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cihua.md)
+
 <p><span class="chinese">这根针已经磁化了。</span><span class="english">This needle has been magnetized.</span></p>
 
 <p><span class="chinese">很可能是被磁化了。</span><span class="english">Is likely to be the magnetization.</span></p>

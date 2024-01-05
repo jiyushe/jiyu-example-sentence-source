@@ -1,5 +1,7 @@
 # propulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propulsion.md)
+
 <p><span class="chinese">但是磁力推进有一些缺陷。</span><span class="english">But magnetic propulsion has some drawbacks.</span></p>
 
 <p><span class="chinese">翅膀提供推动力，尾巴起方向舵的作用。</span><span class="english">The wings provide propulsion and the tail acts as a rudder.</span></p>

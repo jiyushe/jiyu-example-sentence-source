@@ -1,5 +1,7 @@
 # unsolicited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsolicited.md)
+
 <p><span class="chinese">为何我们对别人的建议做出如此的反应？</span><span class="english">Why do we react this way to unsolicited advice?</span></p>
 
 <p><span class="chinese">未经请求的建议也会令人讨厌，所以不要那么做。</span><span class="english">Unsolicited advice is perceived as annoying. Don’t do it.</span></p>

@@ -1,5 +1,7 @@
 # lonely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lonely.md)
+
 <p><span class="chinese">他孤孤单单。</span><span class="english">He's lonely.</span></p>
 
 <p><span class="chinese">你是孤独的、孤独的，你是一个隐士，你变得不可理喻。</span><span class="english">It is lonely.</span></p>

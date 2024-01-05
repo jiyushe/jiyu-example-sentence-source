@@ -1,5 +1,7 @@
 # laredo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laredo.md)
+
 <p><span class="chinese">拉雷多的经济非常好。</span><span class="english">We have a very good economy in Laredo.</span></p>
 
 <p><span class="chinese">事发监狱是新拉雷多市唯一的一座州级监狱。</span><span class="english">Incident, the prison city of Nuevo Laredo is the only one state-level prison.</span></p>

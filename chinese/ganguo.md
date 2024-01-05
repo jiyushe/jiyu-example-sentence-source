@@ -1,5 +1,7 @@
 # 干果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganguo.md)
+
 <p><span class="chinese">干果.</span><span class="english">Dried fruit.</span></p>
 
 <p><span class="chinese">干果是一种非常高能量的食品。</span><span class="english">A very energy-dense food.</span></p>

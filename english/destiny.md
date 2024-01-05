@@ -1,5 +1,7 @@
 # destiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destiny.md)
+
 <p><span class="chinese">解剖是命运。</span><span class="english">Anatomy is destiny.</span></p>
 
 <p><span class="chinese">这里世界的定数。</span><span class="english">It is world destiny.</span></p>

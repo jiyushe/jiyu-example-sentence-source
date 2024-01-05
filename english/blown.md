@@ -1,5 +1,7 @@
 # blown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blown.md)
+
 <p><span class="chinese">风吹把门关上了。</span><span class="english">The door was blown to.</span></p>
 
 <p><span class="chinese">火被吹旺了。</span><span class="english">The fire was blown up.</span></p>

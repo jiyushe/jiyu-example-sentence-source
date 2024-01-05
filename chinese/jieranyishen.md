@@ -1,5 +1,7 @@
 # 孑然一身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieranyishen.md)
+
 <p><span class="chinese">这个老人孑然一身无人照管。</span><span class="english">The old man lives alone in neglect.</span></p>
 
 <p><span class="chinese">伯莎孑然一身散步的道路是通向海边的。</span><span class="english">Bertha's solitary walk was to the sea.</span></p>

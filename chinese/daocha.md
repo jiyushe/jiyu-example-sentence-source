@@ -1,5 +1,7 @@
 # 刀叉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daocha.md)
+
 <p><span class="chinese">他用刀叉吃饭。</span><span class="english">He eats with knife and fork.</span></p>
 
 <p><span class="chinese">我可以要一副刀叉吗？</span><span class="english">Could I have a knife and fork?</span></p>

@@ -1,5 +1,7 @@
 # 内胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neitai.md)
+
 <p><span class="chinese">橡胶内胎。</span><span class="english">Inner tubes, of rubber.</span></p>
 
 <p><span class="chinese">内胎是轮胎的重要部件之一。</span><span class="english">Tire tube is an important component of tire.</span></p>

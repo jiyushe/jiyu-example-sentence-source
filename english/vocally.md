@@ -1,5 +1,7 @@
 # vocally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocally.md)
+
 <p><span class="chinese">每个人的声音都准备好了吗</span><span class="english">Everybody vocally prepared here?</span></p>
 
 <p><span class="chinese">鹦鹉用声音同时也会藉态度和姿势表达他们的情绪。</span><span class="english">Parrots express their emotions vocally and with attitudes and postures, as well.</span></p>

@@ -1,5 +1,7 @@
 # 生疏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshu_1.md)
+
 <p><span class="chinese">他是个新手，对此工作尚还生疏。</span><span class="english">He is still gren at this job.</span></p>
 
 <p><span class="chinese">他是个新手，对此工作尚还生疏。</span><span class="english">He is still green at this job.</span></p>

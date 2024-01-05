@@ -1,5 +1,7 @@
 # 原版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanban.md)
+
 <p><span class="chinese">而且我们创作原版音乐，</span><span class="english">And we write  original music,</span></p>
 
 <p><span class="chinese">它看起来象足了原版执政官。</span><span class="english">It really is like the original archon.</span></p>

@@ -1,5 +1,7 @@
 # 辩证唯物主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhengweiwuzhuyi.md)
+
 <p><span class="chinese">这就是为什么他称他的体系为辩证唯物主义。</span><span class="english">That's why he called his system dialectical materialism.</span></p>
 
 <p><span class="chinese">而且你不必把历史辩证唯物主义应用于日常生活。</span><span class="english">And you don't have to apply historical dialectic materialism to daily life.</span></p>

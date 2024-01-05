@@ -1,5 +1,7 @@
 # 定规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinggui.md)
+
 <p><span class="chinese">并无定规。</span><span class="english">There's no hard-and-fast rule.</span></p>
 
 <p><span class="chinese">这说起来容易做起来难，因为变化的过程是无定规的。</span><span class="english">That's much easier said than done, because the process of change is random.</span></p>

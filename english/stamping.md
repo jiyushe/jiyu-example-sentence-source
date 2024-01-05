@@ -1,5 +1,7 @@
 # stamping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stamping.md)
+
 <p><span class="chinese">我们是一家五金冲压件厂。</span><span class="english">We are a metal stamping factory.</span></p>
 
 <p><span class="chinese">我们是一家五金冲压件厂。</span><span class="english">We are a factory specialized in metal stamping.</span></p>

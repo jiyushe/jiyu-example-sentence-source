@@ -1,5 +1,7 @@
 # tannage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tannage.md)
+
 <p><span class="chinese">本文研究了一种取代铬鞣的有机鞣法。</span><span class="english">In this paper, organic tannages were investigated to replace chrome tannage.</span></p>
 
 <p><span class="chinese">文从环境保护的观点讨论了铬鞣法。</span><span class="english">From viewpoint of environmental protection, the chromium tannage is discussed.</span></p>

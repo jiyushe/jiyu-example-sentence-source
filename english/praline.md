@@ -1,5 +1,7 @@
 # praline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/praline.md)
+
 <p><span class="chinese">我们用果仁调料做火腿。</span><span class="english">We're doing ham with a praline sauce.</span></p>
 
 <p><span class="chinese">特制情人节精美礼物，精点坊有售。</span><span class="english">Valentine's Day gifts available for sale at Praline.</span></p>

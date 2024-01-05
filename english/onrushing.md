@@ -1,5 +1,7 @@
 # onrushing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onrushing.md)
+
 <p><span class="chinese">大火卷来，人们纷纷逃窜。</span><span class="english">The people took flight be fore the onrushing fire.</span></p>
 
 <p><span class="chinese">你会被这个峡谷所震慑，崇山峻岭，汹涌的河水以及其他壮观的景色。</span><span class="english">You will be shocked by the arduous valley, steep mountains, onrushing river and other natural sights.</span></p>

@@ -1,5 +1,7 @@
 # 酒醒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuxing_3.md)
+
 <p><span class="chinese">今霄酒醒何处？</span><span class="english">From wine awake?</span></p>
 
 <p><span class="chinese">酒醒后，我非常后悔。</span><span class="english">Jiuxing, I very much regret.</span></p>

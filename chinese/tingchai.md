@@ -1,5 +1,7 @@
 # 听差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingchai.md)
+
 <p><span class="chinese">缪斯尼埃，我们要把你的听差揍扁！</span><span class="english">Musnier, we'll beat thy servants.</span></p>
 
 <p><span class="chinese">约翰曾给外交大臣当过听差。</span><span class="english">John has paged the Foreign Minister.</span></p>

@@ -1,5 +1,7 @@
 # irrefutable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrefutable.md)
+
 <p><span class="chinese">这真是一个颠扑不破的实例。</span><span class="english">This was really irrefutable evidence.</span></p>
 
 <p><span class="chinese">在这样确凿的事实面前，他惊得哑口无言。</span><span class="english">In the face of such irrefutable FACTS, he was struck dumb.</span></p>

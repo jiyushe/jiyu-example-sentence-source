@@ -1,5 +1,7 @@
 # refinance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refinance.md)
+
 <p><span class="chinese">什么是转按揭是一个明智的选择，你呢？</span><span class="english">What is a refinance mortgage and is it a wise choice for you?</span></p>
 
 <p><span class="chinese">在今年乃至下年银行业都有大量的泡沫时期产生的负债要清理。</span><span class="english">Banks have lots of bubble-era debt to refinance this year and next.</span></p>

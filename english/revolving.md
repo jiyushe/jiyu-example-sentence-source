@@ -1,5 +1,7 @@
 # revolving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolving.md)
+
 <p><span class="chinese">罗礼士能够关上一扇旋转门。</span><span class="english">Chuck Norris can slam a revolving door.</span></p>
 
 <p><span class="chinese">我们拥有两个循环贷款合约。</span><span class="english">We have two revolving credit agreements.</span></p>

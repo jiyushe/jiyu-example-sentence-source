@@ -1,5 +1,7 @@
 # 下体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiati.md)
+
 <p><span class="chinese">她骄傲地展示上身，却仔细掩藏了下体。</span><span class="english">She shows her topsides, hides her bottom.</span></p>
 
 <p><span class="chinese">处女下体颜色很浅，非处女下体颜色很深。</span><span class="english">Virgin lower body color is light, non-virgin deep lower body color.</span></p>

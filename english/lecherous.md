@@ -1,5 +1,7 @@
 # lecherous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lecherous.md)
+
 <p><span class="chinese">好色的老白痴。</span><span class="english">Lecherous old fool.</span></p>
 
 <p><span class="chinese">好色的老白痴。恶心。</span><span class="english">Lecherous old fool. Yuk.</span></p>

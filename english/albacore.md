@@ -1,5 +1,7 @@
 # albacore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albacore.md)
+
 <p><span class="chinese">接着我又将药片藏在金枪鱼里，其实是青花鱼。</span><span class="english">I next attempted to hide the pill in some tuna. Albacore , actually.</span></p>
 
 <p><span class="chinese">长鳍金枪鱼，这种鱼年幼时就被捕获，所以它体内的汞含量偏低。</span><span class="english">albacore tuna, which is caught while it's young and doesn't contain as high levels of mercury.</span></p>

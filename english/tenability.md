@@ -1,5 +1,7 @@
 # tenability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenability.md)
+
 <p><span class="chinese">可维持人体正常视觉的维生素是什么？</span><span class="english">Is tenability human body normal what is visual vitamin?</span></p>
 
 <p><span class="chinese">商业广告的这一性质界定的成立，有赖于两个条件的满足。</span><span class="english">Two requirements are to be filled for the tenability of the definition.</span></p>

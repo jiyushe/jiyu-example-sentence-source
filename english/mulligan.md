@@ -1,5 +1,7 @@
 # mulligan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mulligan.md)
+
 <p><span class="chinese">再也没有人需要迈克·马力甘和玛丽安。</span><span class="english">No one wanted Mike Mulligan and Mary Anne any more.</span></p>
 
 <p><span class="chinese">勃克·穆利根从右肩侧过他那半边刮好的脸。</span><span class="english">Buck Mulligan showed a shaven cheek over his right shoulder.</span></p>

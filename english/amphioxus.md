@@ -1,5 +1,7 @@
 # amphioxus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphioxus.md)
+
 <p><span class="chinese">文昌鱼是适合在温暖海中的动物。</span><span class="english">Amphioxus is suitable for the warmth of the sea animals.</span></p>
 
 <p><span class="chinese">文昌鱼的雌体与雄体外形相同，但生殖腺不同。</span><span class="english">Amphioxus the male and female body shape of the same, but different gonad.</span></p>

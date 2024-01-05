@@ -1,5 +1,7 @@
 # mpc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mpc.md)
+
 <p><span class="chinese">MPC委员巴克称她同意宾恩的看法.</span><span class="english">MPC member Kate Barker said she agreed with Bean's view.</span></p>
 
 <p><span class="chinese">换言之，不确定性降低了平均消费倾向，但提高了边际消费倾向。</span><span class="english">In other words, uncertainty lowers the APC but raises the MPC.</span></p>

@@ -1,5 +1,7 @@
 # gravestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravestone.md)
+
 <p><span class="chinese">我们曾看过他的一七五八年的碑志。</span><span class="english">We saw his gravestone in 1758.</span></p>
 
 <p><span class="chinese">她的墓碑上只是简单的写着“母亲”两个字。</span><span class="english">Her gravestone was simply marked, "Mother."</span></p>

@@ -1,5 +1,7 @@
 # 思域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyu.md)
+
 <p><span class="chinese">这是否意味着思域品牌的衰落？</span><span class="english">Does it mean the fall of a brand icon?</span></p>
 
 <p><span class="chinese">是什么原因致使思域品牌遭遇这种降级呢？</span><span class="english">But what caused this downgrade of Civic’s brand?</span></p>

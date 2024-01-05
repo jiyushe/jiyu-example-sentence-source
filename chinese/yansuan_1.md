@@ -1,5 +1,7 @@
 # 验算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yansuan_1.md)
+
 <p><span class="chinese">让我们来验算一下。</span><span class="english">Let's just check this.</span></p>
 
 <p><span class="chinese">并验算了结构的成桥应力。</span><span class="english">Checking the stree of the structure.</span></p>

@@ -1,5 +1,7 @@
 # 盆腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/penqiang.md)
+
 <p><span class="chinese">PSN是对环节正中盆腔疼痛的最有效的治疗方法。</span><span class="english">PSN is most effective for relieving midline pelvic pain.</span></p>
 
 <p><span class="chinese">这同样适用于骨盆腔的静脉和松质骨出血。</span><span class="english">The same applies to venous and cancellous pelvic bleeds.</span></p>

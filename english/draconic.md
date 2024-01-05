@@ -1,5 +1,7 @@
 # draconic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draconic.md)
+
 <p><span class="chinese">你就是被称作龙族骑士的那一族。</span><span class="english">You are what one might call a Draconic Knight.</span></p>
 
 <p><span class="chinese">你呼出强烈的能量在远处爆炸。</span><span class="english">You exhale draconic energy that detonates at a distance.</span></p>

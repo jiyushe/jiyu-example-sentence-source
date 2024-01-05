@@ -1,5 +1,7 @@
 # overthrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overthrew.md)
+
 <p><span class="chinese">现在，他第一次抛掉了自疚感。</span><span class="english">Then, for the first time, he overthrew his see of guilt.</span></p>
 
 <p><span class="chinese">1969年，卡扎菲推翻了东部的部落酋长伊德里斯。</span><span class="english">In 1969, Gadhafi overthrew the Eastern tribal King Idris.</span></p>

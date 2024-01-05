@@ -1,5 +1,7 @@
 # 晕船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunchuan.md)
+
 <p><span class="chinese">我晕船。</span><span class="english">I get seasick.</span></p>
 
 <p><span class="chinese">服务员，我晕船。</span><span class="english">Porter, I'm feeling seasick.</span></p>

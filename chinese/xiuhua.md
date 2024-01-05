@@ -1,5 +1,7 @@
 # 绣花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuhua.md)
+
 <p><span class="chinese">海珠区绣花QQ群？</span><span class="english">District embroidery QQ group?</span></p>
 
 <p><span class="chinese">左口袋上的绣花标志细节。</span><span class="english">Embroided logo detail on left pocket.</span></p>

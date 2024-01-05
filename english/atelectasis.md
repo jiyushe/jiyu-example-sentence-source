@@ -1,5 +1,7 @@
 # atelectasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atelectasis.md)
+
 <p><span class="chinese">中叶肺不张主要有炎症引起。</span><span class="english">The atelectasis of median lobe mainly due to inflamtion.</span></p>
 
 <p><span class="chinese">而右上叶肺不张、左上叶肺不张、右下叶肺不张以肿瘤多见。</span><span class="english">Neoplasm is the principle cause of whole left lobe atelectasis.</span></p>

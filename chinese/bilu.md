@@ -1,5 +1,7 @@
 # 壁炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilu.md)
+
 <p><span class="chinese">那个石壁炉。</span><span class="english">The stone fireplace.</span></p>
 
 <p><span class="chinese">看那壁炉架。</span><span class="english">Look on the mantelshelf.</span></p>

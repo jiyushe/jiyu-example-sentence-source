@@ -1,5 +1,7 @@
 # funny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funny.md)
+
 <p><span class="chinese">你真逗!</span><span class="english">How funny you are!</span></p>
 
 <p><span class="chinese">是本儿很有趣的书。</span><span class="english">It's a funny book.</span></p>

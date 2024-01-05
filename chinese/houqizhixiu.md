@@ -1,5 +1,7 @@
 # 后起之秀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houqizhixiu.md)
+
 <p><span class="chinese">另一方面，在这份榜单上涌现出226名后起之秀。</span><span class="english">The rankings include 226 newcomers.</span></p>
 
 <p><span class="chinese">那个年轻人是曲坛的后起之秀。</span><span class="english">The young man is a rising star in the world of quyi performance.</span></p>

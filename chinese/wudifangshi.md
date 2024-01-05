@@ -1,5 +1,7 @@
 # 无的放矢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudifangshi.md)
+
 <p><span class="chinese">复习时要目标明确，决不能无的放矢。</span><span class="english">When revising you need clear targets – never be aimless.</span></p>
 
 <p><span class="chinese">创作它们的作者，本来不可能是在无的放矢。</span><span class="english">The author who composed them must have created them intentionally.</span></p>

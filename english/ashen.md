@@ -1,5 +1,7 @@
 # ashen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashen.md)
+
 <p><span class="chinese">拉涅利也是气的面色铁青。</span><span class="english">Ranieri is also a gas ashen face.</span></p>
 
 <p><span class="chinese">听到这个消息他面无人色。</span><span class="english">His face turned ashen at the news.</span></p>

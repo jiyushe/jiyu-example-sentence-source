@@ -1,5 +1,7 @@
 # 堂倌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangguan.md)
+
 <p><span class="chinese">马吕斯象饿鬼似的吃了一顿，给了堂倌六个苏。</span><span class="english">Marius ate like an ogre. He gave the waiter six sous.</span></p>
 
 <p><span class="chinese">你们以为一定不能让堂倌听到，好象他存心要听似的！</span><span class="english">You thought the waiter must not hear, as if he cared!</span></p>

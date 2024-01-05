@@ -1,5 +1,7 @@
 # 妖魔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaomo.md)
+
 <p><span class="chinese">我怎样能逃离在我的头里的妖魔吗？</span><span class="english">How can I escape from the demons in my head?</span></p>
 
 <p><span class="chinese">直到怪物骚动了，那恶鬼，那妖魔</span><span class="english">Till the monster stirred, that demon, that fiend</span></p>

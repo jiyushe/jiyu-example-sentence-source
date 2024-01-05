@@ -1,5 +1,7 @@
 # outdone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outdone.md)
+
 <p><span class="chinese">她很好强，又试了一次。</span><span class="english">Not to be outdone she tried again.</span></p>
 
 <p><span class="chinese">哇哦，你现在真的超越自己了。</span><span class="english">Wow, you really outdone yourself now. I know.</span></p>

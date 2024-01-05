@@ -1,5 +1,7 @@
 # dhyana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dhyana.md)
+
 <p><span class="chinese">夜晚当头明月和禅。</span><span class="english">Moonlight and dhyana against head.</span></p>
 
 <p><span class="chinese">宗杲的禅学思想并非无源之水。</span><span class="english">Zonggao's ideology on Dhyana is not water without a source.</span></p>

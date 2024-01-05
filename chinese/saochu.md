@@ -1,5 +1,7 @@
 # 扫除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saochu.md)
+
 <p><span class="chinese">扫除一切害人虫。</span><span class="english">Away with all pests.</span></p>
 
 <p><span class="chinese">我爱死了凯伦在春季扫除中的表现了！</span><span class="english">I love Karen’s post on Spring cleaning!</span></p>

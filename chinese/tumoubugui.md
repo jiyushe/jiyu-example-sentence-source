@@ -1,5 +1,7 @@
 # 图谋不轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumoubugui.md)
+
 <p><span class="chinese">他们正图谋不轨。</span><span class="english">They are brewing up a wicked plot.</span></p>
 
 <p><span class="chinese">中国对西方国家总是图谋不轨！</span><span class="english">China has always tried to harm the West.</span></p>

@@ -1,5 +1,7 @@
 # metrorrhagia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metrorrhagia.md)
+
 <p><span class="chinese">崩漏是妇科常见病也是疑难症。</span><span class="english">Metrorrhagia is also gynaecological problems of common diseases.</span></p>
 
 <p><span class="chinese">目的观察固环胶囊治疗宫内节育器致出血副反应的临床疗效。</span><span class="english">To observe the clinical effect of Guhuan on patients with metrorrhagia caused by intrauterine device.</span></p>

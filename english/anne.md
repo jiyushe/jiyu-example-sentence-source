@@ -1,5 +1,7 @@
 # anne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anne.md)
+
 <p><span class="chinese">汤姆已与安妮订婚。</span><span class="english">Tom is engaged to Anne.</span></p>
 
 <p><span class="chinese">那临安现在如何了？</span><span class="english">That faces Anne now how?</span></p>

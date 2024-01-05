@@ -1,5 +1,7 @@
 # arteriovenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arteriovenous.md)
+
 <p><span class="chinese">本发明涉及一种新型动、静脉穿刺针。</span><span class="english">The invention relates to an arteriovenous puncture needle.</span></p>
 
 <p><span class="chinese">指趾部有丰富的动静脉吻合。</span><span class="english">Arteriovenous anastomoses are best developed in the digits.</span></p>

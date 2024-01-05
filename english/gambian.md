@@ -1,5 +1,7 @@
 # gambian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gambian.md)
+
 <p><span class="chinese">来自北京的一大笔钱很快将流入冈比亚。</span><span class="english">Big money from Beijing going to flow into Gambian soon.</span></p>
 
 <p><span class="chinese">一项研究发现冈比亚有袋鼠可以很好的完成这个工作。</span><span class="english">Studies suggest that the Gambian pouched rat can do better.</span></p>

@@ -1,5 +1,7 @@
 # nigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nigh.md)
+
 <p><span class="chinese">也没有蔷薇花蕾在附近。</span><span class="english">No rosebud is nigh.</span></p>
 
 <p><span class="chinese">最后审判近在眼前了。</span><span class="english">For the Last Judgment draweth nigh.</span></p>

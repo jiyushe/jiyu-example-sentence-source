@@ -1,5 +1,7 @@
 # swathe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swathe.md)
+
 <p><span class="chinese">这些猛犸的尸体发现地点散在于西伯利亚。</span><span class="english">The bodies of these mammoths were found throughout a wide swathe of northern Siberia.</span></p>
 
 <p><span class="chinese">通过这条接近10千米长0.5千米宽遭到破坏的范围可以看到这次龙卷风的路径。</span><span class="english">The tornado's progress can be seen in a swathe of destruction nearly 10km long and 0.5km wide.</span></p>

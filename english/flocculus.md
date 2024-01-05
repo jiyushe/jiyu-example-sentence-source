@@ -1,5 +1,7 @@
 # flocculus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flocculus.md)
+
 <p><span class="chinese">小叶有粗锯齿。</span><span class="english">Flocculus has thick toothed.</span></p>
 
 <p><span class="chinese">其包含小脑的绒球和小结以及它和平衡有关。</span><span class="english">Includes the flocculus and nodulus and is related to equilibrium.</span></p>

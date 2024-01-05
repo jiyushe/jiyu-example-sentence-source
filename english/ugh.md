@@ -1,5 +1,7 @@
 # ugh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ugh.md)
+
 <p><span class="chinese">唉，我讨厌这个问题。</span><span class="english">Ugh. I hated that question.</span></p>
 
 <p><span class="chinese">嗯，我们又在这，同一个地方.</span><span class="english">Ugh. Here we are, again, in the same place.</span></p>

@@ -1,5 +1,7 @@
 # elite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elite.md)
+
 <p><span class="chinese">什么是西交利物浦精英计划？</span><span class="english">What is XJTLU ELITE program?</span></p>
 
 <p><span class="chinese">奥克利精英全金属外壳</span><span class="english">Oakley Elite Full Metal Jacket</span></p>

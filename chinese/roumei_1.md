@@ -1,5 +1,7 @@
 # 柔美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roumei_1.md)
+
 <p><span class="chinese">秋是一个柔美的季节。</span><span class="english">Autumn is a beautiful season.</span></p>
 
 <p><span class="chinese">柔美的肩上芭蕾、柔术！</span><span class="english">Soft shoulder ballet, Jiujitsu!</span></p>

@@ -1,5 +1,7 @@
 # 提灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tideng.md)
+
 <p><span class="chinese">老人过去用一盏煤油提灯。</span><span class="english">The old man used a kerosene lantern.</span></p>
 
 <p><span class="chinese">持著黑夜的提灯和火柴</span><span class="english">With a dark lantern and burning match</span></p>

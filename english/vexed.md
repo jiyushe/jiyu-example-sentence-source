@@ -1,5 +1,7 @@
 # vexed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vexed.md)
+
 <p><span class="chinese">她似乎又在生气。</span><span class="english">She looked vexed again.</span></p>
 
 <p><span class="chinese">他因失败而糟心。</span><span class="english">He was vexed at his failure.</span></p>

@@ -1,5 +1,7 @@
 # mss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mss.md)
+
 <p><span class="chinese">数据包长度的设置，如果跟我一样不确定，选择是。</span><span class="english">Should pppoe clamp MSS at 1452 bytes? If unsure, say yes.</span></p>
 
 <p><span class="chinese">戴尔将能重拾回了其领先地位，在重建置业？</span><span class="english">Will Dell be able to regain back its leadership position in MSS?</span></p>

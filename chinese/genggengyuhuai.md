@@ -1,5 +1,7 @@
 # 耿耿于怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genggengyuhuai.md)
+
 <p><span class="chinese">有些人对被派到基层耿耿于怀，没能发挥他们的潜力。</span><span class="english">Some, resenting being sent, failed to fulfil their potential.</span></p>
 
 <p><span class="chinese">寻找一位情感上对自己的缺点最耿耿于怀的总统。</span><span class="english">Look for the one most emotionally gripped by his own failings.</span></p>

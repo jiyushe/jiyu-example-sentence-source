@@ -1,5 +1,7 @@
 # outran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outran.md)
+
 <p><span class="chinese">这文件电视节目超过了预定时间。</span><span class="english">The TV program outran its time.</span></p>
 
 <p><span class="chinese">收入和支出的差距太大。</span><span class="english">His expenditure outran his income.</span></p>

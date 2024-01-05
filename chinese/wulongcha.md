@@ -1,5 +1,7 @@
 # 乌龙茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulongcha.md)
+
 <p><span class="chinese">乌龙茶还是茉莉花茶？</span><span class="english">Oolong tea or jasmine tea?</span></p>
 
 <p><span class="chinese">乌龙茶是半发酵茶。</span><span class="english">Wulong tea is semi-fermented.</span></p>

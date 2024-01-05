@@ -1,5 +1,7 @@
 # whish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whish.md)
+
 <p><span class="chinese">我多么希望看过那部电影。</span><span class="english">I whish I had seen the film.</span></p>
 
 <p><span class="chinese">您呼呼作声架设对前更长。</span><span class="english">You whish erections to last longer.</span></p>

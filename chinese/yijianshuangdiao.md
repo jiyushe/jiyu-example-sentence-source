@@ -1,5 +1,7 @@
 # 一箭双雕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijianshuangdiao.md)
+
 <p><span class="chinese">这个项目可谓是“一箭双雕”。</span><span class="english">The goal of the project is twofold.</span></p>
 
 <p><span class="chinese">有时还可以一箭双雕。</span><span class="english">Sometimes we can kill two birds with one stone.</span></p>

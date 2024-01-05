@@ -1,5 +1,7 @@
 # declassification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declassification.md)
+
 <p><span class="chinese">不能确定期限的，应当确定解密的条件。</span><span class="english">Where it is impossible to determine the secrecy period, the conditions for declassification shall be determined.</span></p>
 
 <p><span class="chinese">该问题的实质就是如何确定到解系统各部分的合理配置关系。</span><span class="english">Its essential is how to determine the reasonable allocating relationship among all parts of the declassification system.</span></p>

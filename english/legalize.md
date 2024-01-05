@@ -1,5 +1,7 @@
 # legalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legalize.md)
+
 <p><span class="chinese">我认为你的丈夫应该使移民合法化。</span><span class="english">I think your husband should legalize immigration.</span></p>
 
 <p><span class="chinese">他所能做的就是目睹这一市场的成功运作后将其合法化。</span><span class="english">All he had to do was legalize it after its success was obvious.</span></p>

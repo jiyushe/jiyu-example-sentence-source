@@ -1,5 +1,7 @@
 # entropy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entropy.md)
+
 <p><span class="chinese">熵增加。</span><span class="english">The entropy goes up.</span></p>
 
 <p><span class="chinese">所有这些都是由混合熵引起的。</span><span class="english">All driven by entropy of mixing.</span></p>

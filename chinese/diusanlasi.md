@@ -1,5 +1,7 @@
 # 丢三落四
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diusanlasi.md)
+
 <p><span class="chinese">我最近总是丢三落四的。</span><span class="english">I’ve been forgetful lately.</span></p>
 
 <p><span class="chinese">最近我总是丢三落四。</span><span class="english">I have been forgetful lately.</span></p>

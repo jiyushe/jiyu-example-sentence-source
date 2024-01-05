@@ -1,5 +1,7 @@
 # 候鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houniao.md)
+
 <p><span class="chinese">某年某月，候鸟北归。</span><span class="english">A certain period of the birds North final.</span></p>
 
 <p><span class="chinese">候鸟会长距离携带H5N1型禽流感病毒吗？</span><span class="english">Can migratory birds carry H5N1 over long distances?</span></p>

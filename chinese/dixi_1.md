@@ -1,5 +1,7 @@
 # 底细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixi_1.md)
+
 <p><span class="chinese">我很快就摸清了他的底细。</span><span class="english">I soon had him taped.</span></p>
 
 <p><span class="chinese">告诉我那新经理的底细.</span><span class="english">Give me the lowdown on the new manager.</span></p>

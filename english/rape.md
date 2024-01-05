@@ -1,5 +1,7 @@
 # rape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rape.md)
+
 <p><span class="chinese">油菜抽薹了。</span><span class="english">The rape has bolted.</span></p>
 
 <p><span class="chinese">那部机器从油菜籽榨出油。</span><span class="english">The seed of the rape plant.</span></p>

@@ -1,5 +1,7 @@
 # shoemaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoemaker.md)
+
 <p><span class="chinese">六个鞋砧，练出一个鞋匠。</span><span class="english">Six awl make a shoemaker.</span></p>
 
 <p><span class="chinese">亚侗·史密斯是镇上有名蹬鞋境。</span><span class="english">Adam Smith a famous shoemaker in town.</span></p>

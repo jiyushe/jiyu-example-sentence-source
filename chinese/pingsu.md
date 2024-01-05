@@ -1,5 +1,7 @@
 # 平素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingsu.md)
+
 <p><span class="chinese">他们前一天平素在等你。</span><span class="english">They were expecting you yesterday.</span></p>
 
 <p><span class="chinese">我平素没读过比这更令人激动的故事。</span><span class="english">Iwoulve never read a more stirring story.</span></p>

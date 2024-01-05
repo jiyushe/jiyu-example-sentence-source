@@ -1,5 +1,7 @@
 # cybernetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cybernetic.md)
+
 <p><span class="chinese">反馈是控制论系统的基本概念。</span><span class="english">Feedback is the basic concept of cybernetic systems.</span></p>
 
 <p><span class="chinese">对于控制论运动消亡的原因有三种推测</span><span class="english">There are three theories about why the cybernetic movement died</span></p>

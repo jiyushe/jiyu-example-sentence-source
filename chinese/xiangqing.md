@@ -1,5 +1,7 @@
 # 详情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqing.md)
+
 <p><span class="chinese">向某人提供谋事的详情。</span><span class="english">Fill sb in on sth.</span></p>
 
 <p><span class="chinese">一场事故发生了，但我们还不知道详情。</span><span class="english">The accident happened at 3p. m.</span></p>

@@ -1,5 +1,7 @@
 # hanker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanker.md)
+
 <p><span class="chinese">我们都渴望和平。</span><span class="english">We all hanker for peace.</span></p>
 
 <p><span class="chinese">保持品质第一，追求完美。</span><span class="english">Keep quality first, hanker for perfection.</span></p>

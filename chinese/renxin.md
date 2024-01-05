@@ -1,5 +1,7 @@
 # 人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxin.md)
+
 <p><span class="chinese">人心是不满足的。</span><span class="english">No man is content.</span></p>
 
 <p><span class="chinese">寻找人心向善的地方。</span><span class="english">Look for the good in people.</span></p>

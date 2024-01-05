@@ -1,5 +1,7 @@
 # 现货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhuo.md)
+
 <p><span class="chinese">目前我们有现货供应。</span><span class="english">We now can offer from stock.</span></p>
 
 <p><span class="chinese">我们能够供应核桃仁现货。</span><span class="english">We can supply walnut meat from stock.</span></p>

@@ -1,5 +1,7 @@
 # 骨头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gutou.md)
+
 <p><span class="chinese">答案是骨头传导科技。</span><span class="english">Bone conduction.</span></p>
 
 <p><span class="chinese">坏男人的骨头好软啊！</span><span class="english">How weak bad men are!</span></p>

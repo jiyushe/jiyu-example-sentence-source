@@ -1,5 +1,7 @@
 # wastebasket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wastebasket.md)
+
 <p><span class="chinese">我把它扔到废纸篓里了。</span><span class="english">I threw it in the wastebasket.</span></p>
 
 <p><span class="chinese">你会将这本杂志扔到废纸篓里去。</span><span class="english">You would throw the magazine in the wastebasket.</span></p>

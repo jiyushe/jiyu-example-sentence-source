@@ -1,5 +1,7 @@
 # 模拟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moni.md)
+
 <p><span class="chinese">模拟石英机芯。</span><span class="english">Quartz analog movement.</span></p>
 
 <p><span class="chinese">模拟铁器时代穴居生活的洞穴。</span><span class="english">To inhabit or hide in a den.</span></p>

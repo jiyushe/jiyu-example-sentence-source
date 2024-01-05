@@ -1,5 +1,7 @@
 # 退出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuichu.md)
+
 <p><span class="chinese">我退出了。</span><span class="english">I quit.</span></p>
 
 <p><span class="chinese">保存并退出。</span><span class="english">Save and exit.</span></p>

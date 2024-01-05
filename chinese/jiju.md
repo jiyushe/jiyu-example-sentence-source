@@ -1,5 +1,7 @@
 # 急剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiju.md)
+
 <p><span class="chinese">资金急剧增长。</span><span class="english">The funds rose sharply.</span></p>
 
 <p><span class="chinese">疟疾是一种急剧发热性疾病。</span><span class="english">Malaria is an acute febrile illness.</span></p>

@@ -1,5 +1,7 @@
 # horror 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horror.md)
+
 <p><span class="chinese">从遇火的惨状命运中解救。</span><span class="english">The horror of that fate.</span></p>
 
 <p><span class="chinese">桑妮喜不喜欢恐怖电影?。</span><span class="english">Does Sunny like horror movies?</span></p>

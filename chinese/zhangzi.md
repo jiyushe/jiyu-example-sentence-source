@@ -1,5 +1,7 @@
 # 帐子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangzi.md)
+
 <p><span class="chinese">我睁开眼睛，见到的是一个帐子。</span><span class="english">I opened my eyes, and saw a blue bed-curtain.</span></p>
 
 <p><span class="chinese">麻屋子，红帐子，里面睡个白胖子。</span><span class="english">Hemp house, red hangings, inside a white fat people sleep.</span></p>

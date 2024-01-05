@@ -1,5 +1,7 @@
 # hardback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardback.md)
+
 <p><span class="chinese">您要不要买一本精装本？</span><span class="english">Would you prefer a hardback edition?</span></p>
 
 <p><span class="chinese">该项目是前书为精装书的封面设计。</span><span class="english">The project is a front book cover design for a hardback book.</span></p>

@@ -1,5 +1,7 @@
 # 怯生生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieshengsheng.md)
+
 <p><span class="chinese">如今他怯生生极了。</span><span class="english">He was horribly scare usuaslyd now.</span></p>
 
 <p><span class="chinese">孩子怯生生地瞟了一眼怒气冲冲的父亲。</span><span class="english">The child glanced at his angry father timidly.</span></p>

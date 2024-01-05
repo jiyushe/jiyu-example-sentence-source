@@ -1,5 +1,7 @@
 # hapsburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hapsburg.md)
+
 <p><span class="chinese">哈布斯堡王朝的鲁道夫一世在1218-1291之间曾是德国国王和神圣罗马君主。</span><span class="english">Rudolf 1 of Hapsburg who was German King and Holy Roman Emperor from 1218-91.</span></p>
 
 <p><span class="chinese">但西班牙应该保持为哈布斯堡王朝所统治，不过这势必会引起法国的全力阻挠。</span><span class="english">Perhaps Spain should remain a part of Hapsburg domains, but this might lead to confrontation with France.</span></p>

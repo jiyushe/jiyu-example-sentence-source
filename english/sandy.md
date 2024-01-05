@@ -1,5 +1,7 @@
 # sandy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandy.md)
+
 <p><span class="chinese">你能帮助我下吗，桑迪？</span><span class="english">Could you help me, Sandy?</span></p>
 
 <p><span class="chinese">桑迪擅长于英语。</span><span class="english">Sandy does well in English.</span></p>

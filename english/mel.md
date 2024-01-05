@@ -1,5 +1,7 @@
 # mel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mel.md)
+
 <p><span class="chinese">谢谢你的照片，梅尔。</span><span class="english">Thanks for the photo, Mel.</span></p>
 
 <p><span class="chinese">何时梅尔?奥茨会开始重新击球得分？</span><span class="english">When would Mel Ott start hitting again?</span></p>

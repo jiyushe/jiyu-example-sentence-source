@@ -1,5 +1,7 @@
 # upwelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upwelling.md)
+
 <p><span class="chinese">整个作品就是一个连绵起伏的巨浪，是生命的涌现。</span><span class="english">The whole thing is a huge swell, the upwelling of life.</span></p>
 
 <p><span class="chinese">其值低于浙江沿岸上升流海域。</span><span class="english">It was lower than that in the coastal upwelling area off Zhejiang coast.</span></p>

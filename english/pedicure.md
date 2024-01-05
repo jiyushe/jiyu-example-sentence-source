@@ -1,5 +1,7 @@
 # pedicure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedicure.md)
+
 <p><span class="chinese">我想修脚趾甲。</span><span class="english">I'd like a pedicure.</span></p>
 
 <p><span class="chinese">您要修脚指甲吗?。</span><span class="english">Would you like a pedicure?</span></p>

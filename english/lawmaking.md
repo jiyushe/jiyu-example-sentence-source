@@ -1,5 +1,7 @@
 # lawmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawmaking.md)
+
 <p><span class="chinese">它是在全面总结确权立法经验教训的基础上形成的。</span><span class="english">It is based on sum up experience of lawmaking.</span></p>
 
 <p><span class="chinese">国会在英国是立法机构。</span><span class="english">Paliament is the lawmaking group in Great Britain.</span></p>

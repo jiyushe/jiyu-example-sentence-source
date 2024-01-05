@@ -1,5 +1,7 @@
 # 哄抢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongqiang.md)
+
 <p><span class="chinese">双方发生交火，一名哄抢者被击毙。</span><span class="english">One looter was killed when the 2 sides exchanged fire.</span></p>
 
 <p><span class="chinese">目击者说，警方到达现场，打死了一名哄抢者。</span><span class="english">Police arrived and shot one of the looters, eyewitnesses said.</span></p>

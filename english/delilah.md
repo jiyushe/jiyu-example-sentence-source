@@ -1,5 +1,7 @@
 # delilah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delilah.md)
+
 <p><span class="chinese">她点点头，接着他把目光转向黛利拉。</span><span class="english">She nodded, and he transferred his gaze to Delilah.</span></p>
 
 <p><span class="chinese">我的狗狗黛利拉爱上了我的猫牙牙。青菜萝卜，各有所爱啊。</span><span class="english">My dog Delilah is in love with my cat Fang. To each his own.</span></p>

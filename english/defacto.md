@@ -1,5 +1,7 @@
 # defacto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defacto.md)
+
 <p><span class="chinese">在工厂和农场里，他们仍保留有事实上的奴工。</span><span class="english">They STILL have defacto SLAVE LABOR, in their factories, and on farms.</span></p>
 
 <p><span class="chinese">曾经，我没有成为俱乐部会员便成为了相当于主席。</span><span class="english">I once became the defacto President of a club without being a member first.</span></p>

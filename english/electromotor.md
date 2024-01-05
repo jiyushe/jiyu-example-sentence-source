@@ -1,5 +1,7 @@
 # electromotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromotor.md)
+
 <p><span class="chinese">主电机采用进口变频技术。</span><span class="english">Main electromotor adopt import frequency conversion tecnical.</span></p>
 
 <p><span class="chinese">电机通风用异形钢材是一种机械零件，其断面形状类似工字钢和H型钢。</span><span class="english">Electromotor ventilation section shape is similar to the I beam and H beam.</span></p>

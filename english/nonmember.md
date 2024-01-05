@@ -1,5 +1,7 @@
 # nonmember
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmember.md)
+
 <p><span class="chinese">大多数操作符可以定义为成员函数或非成员函数。</span><span class="english">Most operators may be defined as member or nonmember functions.</span></p>
 
 <p><span class="chinese">它定义了一个成员操作符，并且有三个非成员操作符。</span><span class="english">It defines one member operator and has three nonmember operators.</span></p>

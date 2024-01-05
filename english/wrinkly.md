@@ -1,5 +1,7 @@
 # wrinkly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrinkly.md)
+
 <p><span class="chinese">这个衬衣有皱纹的。</span><span class="english">This shirt is so wrinkly.</span></p>
 
 <p><span class="chinese">我觉得你的牛仔裤皱皱的，很好看。</span><span class="english">I think your jeans look really good wrinkly.</span></p>

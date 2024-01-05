@@ -1,5 +1,7 @@
 # 簸箕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boji_1.md)
+
 <p><span class="chinese">扫帚和簸箕。</span><span class="english">A broom and dustpan.</span></p>
 
 <p><span class="chinese">大象好像一只簸箕。</span><span class="english">The elephant resembles a large stone.</span></p>

@@ -1,5 +1,7 @@
 # wallpaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wallpaper.md)
+
 <p><span class="chinese">房间用绿色墙纸裱糊。</span><span class="english">To cover with wallpaper.</span></p>
 
 <p><span class="chinese">如何设为桌面壁纸？</span><span class="english">How to install wallpaper?</span></p>

@@ -1,5 +1,7 @@
 # 通货膨胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghuopengzhang.md)
+
 <p><span class="chinese">通货膨胀使物价节节上涨。</span><span class="english">The prices are going up.</span></p>
 
 <p><span class="chinese">可能引燃通货膨胀。</span><span class="english">They might spur inflation.</span></p>

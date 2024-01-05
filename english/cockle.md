@@ -1,5 +1,7 @@
 # cockle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockle.md)
+
 <p><span class="chinese">这绸子会起皱。</span><span class="english">The silk will cockle.</span></p>
 
 <p><span class="chinese">海扇的味道非常好。</span><span class="english">The taste of cockle is very good.</span></p>

@@ -1,5 +1,7 @@
 # 百官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiguan.md)
+
 <p><span class="chinese">一次，刘表请刘备代替他到襄阳去会见百官，蔡氏兄妹觉得这是杀害刘备的好机会。</span><span class="english">Cai and her brother decided it was an good opportunity.</span></p>
 
 <p><span class="chinese">祖光用血在地上写了「百官行述」四字便气绝死亡。</span><span class="english">ZuGuang blood wrote on the ground baiguan HangShu four words herring death.</span></p>

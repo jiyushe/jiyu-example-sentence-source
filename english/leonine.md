@@ -1,5 +1,7 @@
 # leonine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leonine.md)
+
 <p><span class="chinese">所以说，狮子，应该有狮子的活法和样子。</span><span class="english">Say so, the lion, should have leonine vivid law and look.</span></p>
 
 <p><span class="chinese">然而，他那好像是山羊的下半身，有一双蹄子和一条长长的狮子尾巴。</span><span class="english">His goat-like lower body, however, had hooves and a long leonine tail.</span></p>

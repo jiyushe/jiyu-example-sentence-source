@@ -1,5 +1,7 @@
 # 强势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangshi.md)
+
 <p><span class="chinese">弱势时买进，强势时卖出。</span><span class="english">Buy on Weskness-Sell on Strength.</span></p>
 
 <p><span class="chinese">但即使是强势的国家也尤其虚弱的一面。</span><span class="english">But even stalwarts are looking weaker.</span></p>

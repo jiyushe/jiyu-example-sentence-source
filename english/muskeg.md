@@ -1,5 +1,7 @@
 # muskeg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muskeg.md)
+
 <p><span class="chinese">这种沼地浆果只有一小粒种籽，外面包着一点浆水。</span><span class="english">A muskeg berry is a bit of seed enclosed in a bit of water.</span></p>
 
 <p><span class="chinese">他取道向左，时而停下来吃些苔藓浆果。</span><span class="english">He bore away to the left, stopping now and again to eat muskeg berries.</span></p>

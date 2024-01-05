@@ -1,5 +1,7 @@
 # incurious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incurious.md)
+
 <p><span class="chinese">但你也能很轻易地反驳说，他们不感兴趣只是因为他们被吓到了。</span><span class="english">But you could just as easily argue that their users are incurious because they're cowed.</span></p>
 
 <p><span class="chinese">并且，正慢慢地依赖这个我们一直漠不关心的系统。</span><span class="english">So we wound up being totally dependent on a system about which are terminally incurious.</span></p>

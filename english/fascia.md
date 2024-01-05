@@ -1,5 +1,7 @@
 # fascia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fascia.md)
+
 <p><span class="chinese">深层为椎前筋膜。</span><span class="english">In-depth is the prevertebral fascia.</span></p>
 
 <p><span class="chinese">将仪表板安装在保险杆组合上。</span><span class="english">Install fascia onto bumper assembly.</span></p>

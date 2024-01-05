@@ -1,5 +1,7 @@
 # gabonese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabonese.md)
+
 <p><span class="chinese">中石化，一家石油企业，居然在加蓬国家公园里搞起了勘探。</span><span class="english">Sinopec, an oil firm, has explored in a Gabonese national park.</span></p>
 
 <p><span class="chinese">但加彭人成群拥向城市，过著相对奢华的生活。</span><span class="english">But the Gabonese flocked to cities, living in comparative splendor.</span></p>

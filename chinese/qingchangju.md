@@ -1,5 +1,7 @@
 # 清唱剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchangju.md)
+
 <p><span class="chinese">其顶峰为交响乐和清唱剧。</span><span class="english">Its peaks are the symphony and the oratorio.</span></p>
 
 <p><span class="chinese">清唱剧中的一曲独唱，仿佛清澈江洋中那一波激流。</span><span class="english">Aria, a song that is sung by one person in an oratorio.</span></p>

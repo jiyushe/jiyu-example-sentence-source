@@ -1,5 +1,7 @@
 # amaranthine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amaranthine.md)
+
 <p><span class="chinese">美德是世上唯一不凋谢的花朵。</span><span class="english">The only amaranthine flower on earth is virtue.</span></p>
 
 <p><span class="chinese">做不死的站长你具备以下几个条件吗？</span><span class="english">Become amaranthine center do you have the following requirements?</span></p>

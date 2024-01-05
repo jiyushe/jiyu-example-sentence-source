@@ -1,5 +1,7 @@
 # phanerozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phanerozoic.md)
+
 <p><span class="chinese">震旦纪大冰期后开始了显生宙。</span><span class="english">After the Sinian Great Ice Age, the Phanerozoic started.</span></p>
 
 <p><span class="chinese">显生宙期间，中国南部的构造属性曾几经转化。</span><span class="english">The tectonic nature of southern China has Changed again and again in the Phanerozoic.</span></p>

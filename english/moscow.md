@@ -1,5 +1,7 @@
 # moscow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moscow.md)
+
 <p><span class="chinese">他从不喜欢莫斯科</span><span class="english">And he never liked Moscow.</span></p>
 
 <p><span class="chinese">返回莫斯科市的路上大塞车。</span><span class="english">On the way back to moscow.</span></p>

@@ -1,5 +1,7 @@
 # 点头哈腰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diantouhayao.md)
+
 <p><span class="chinese">他被点头哈腰地送上出租车。</span><span class="english">He was bowed into a taxi.</span></p>
 
 <p><span class="chinese">服务员一个劲地点头哈腰领我们就座。</span><span class="english">Bow The waiter showed us to our table with much bowingand scraping.</span></p>

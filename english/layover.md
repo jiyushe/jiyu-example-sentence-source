@@ -1,5 +1,7 @@
 # layover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layover.md)
+
 <p><span class="chinese">飞机要在丹佛市停一下。</span><span class="english">It has a layover in Denver.</span></p>
 
 <p><span class="chinese">中途要停留多长时间？</span><span class="english">How long will the layover be?</span></p>

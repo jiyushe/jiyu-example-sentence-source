@@ -1,5 +1,7 @@
 # 运销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxiao.md)
+
 <p><span class="chinese">食盐通常经由自然商道运销各地。</span><span class="english">Salt was usually shipped along natural trade routes.</span></p>
 
 <p><span class="chinese">提出了抓好矿产品运销环节的监督管理的建议。</span><span class="english">Some suggestions concerning the super-vision and administration are offered.</span></p>

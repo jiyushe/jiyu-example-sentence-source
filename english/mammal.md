@@ -1,5 +1,7 @@
 # mammal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammal.md)
+
 <p><span class="chinese">鲸鱼是哺乳动物。</span><span class="english">The whale is a mammal.</span></p>
 
 <p><span class="chinese">鲸是一种哺乳动物。</span><span class="english">A whale is a kind of mammal.</span></p>

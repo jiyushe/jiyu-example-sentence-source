@@ -1,5 +1,7 @@
 # potbellied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potbellied.md)
+
 <p><span class="chinese">这位身材矮小、大腹便便的壮年人婚姻十分美满。</span><span class="english">The short, potbellied little man was happily married.</span></p>
 
 <p><span class="chinese">仿佛是有一大肚子的话要说，却又不知从何说起。</span><span class="english">As if there is a potbellied say, but I do not know where to start.</span></p>

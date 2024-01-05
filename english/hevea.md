@@ -1,5 +1,7 @@
 # hevea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hevea.md)
+
 <p><span class="chinese">工业用，主要来自巴西，天然胶乳橡胶树。</span><span class="english">Industrial use, mainly from Brazil, natural rubber latex Hevea.</span></p>
 
 <p><span class="chinese">提出了改进橡胶树倍性育种的途径与研究方向。</span><span class="english">Some helpful opinions on polyploid breeding of Hevea brasiliensis were proposed.</span></p>

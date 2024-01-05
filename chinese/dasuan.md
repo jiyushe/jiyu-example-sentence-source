@@ -1,5 +1,7 @@
 # 打算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dasuan.md)
+
 <p><span class="chinese">我打算去一些名胜地旅游。</span><span class="english">I am going to of.</span></p>
 
 <p><span class="chinese">等等，打算去哪?。</span><span class="english">Etc, plan où aller?</span></p>

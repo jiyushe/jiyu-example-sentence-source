@@ -1,5 +1,7 @@
 # unicorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unicorn.md)
+
 <p><span class="chinese">我的独角马和我成为朋友。</span><span class="english">My unicorn and I became friends.</span></p>
 
 <p><span class="chinese">坐驹骑着墨麒麟。</span><span class="english">As one sits astride a black unicorn.</span></p>

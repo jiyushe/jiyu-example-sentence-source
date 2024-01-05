@@ -1,5 +1,7 @@
 # ammon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammon.md)
+
 <p><span class="chinese">这样亚扪人就被以色列人制伏了。</span><span class="english">Thus Israel subdued Ammon.</span></p>
 
 <p><span class="chinese">迦巴勒，亚扪，和亚玛力，非利士，并推罗的居民。</span><span class="english">Gebal, Ammon and Amalek, Philistia, with the people of Tyre.</span></p>

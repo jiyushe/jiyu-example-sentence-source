@@ -1,5 +1,7 @@
 # brant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brant.md)
+
 <p><span class="chinese">罗宾布莱特报道自吉隆坡。</span><span class="english">Robin Brant reports from Kuala Lumpur.</span></p>
 
 <p><span class="chinese">科比是第四节的杀手。</span><span class="english">Kobe Brant is a killer in the fourth quarters.</span></p>

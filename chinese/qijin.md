@@ -1,5 +1,7 @@
 # 起劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijin.md)
+
 <p><span class="chinese">于是我鼓起劲，终于爬上了顶点。</span><span class="english">I climbed to the top finally.</span></p>
 
 <p><span class="chinese">惠珍起劲去关怀丈夫。</span><span class="english">HuiZhen turned to care for her husband.</span></p>

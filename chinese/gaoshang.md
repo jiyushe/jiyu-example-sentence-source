@@ -1,5 +1,7 @@
 # 高尚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoshang.md)
+
 <p><span class="chinese">一个高尚的傻子？</span><span class="english">A holy fool?</span></p>
 
 <p><span class="chinese">他品德高尚。</span><span class="english">He excels in virtue.</span></p>

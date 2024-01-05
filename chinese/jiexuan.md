@@ -1,5 +1,7 @@
 # 疥癣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiexuan.md)
+
 <p><span class="chinese">可是羔羊的疥癣应当使牧羊人却步吗?。</span><span class="english">Still, should the scab of the sheep cause the shepherd to recoil?</span></p>
 
 <p><span class="chinese">那狗长着疥癣，饥饿不堪，大小跟那团湿漉漉的东西一样。</span><span class="english">He was mangy and starving and just the size of the lump in question.</span></p>

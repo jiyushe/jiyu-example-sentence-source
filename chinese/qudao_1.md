@@ -1,5 +1,7 @@
 # 渠道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qudao_1.md)
+
 <p><span class="chinese">是通过怎样的渠道呢</span><span class="english">What's the conduit?</span></p>
 
 <p><span class="chinese">我们有两个渠道。</span><span class="english">We have two channels.</span></p>

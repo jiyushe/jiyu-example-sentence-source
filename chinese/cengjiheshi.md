@@ -1,5 +1,7 @@
 # 曾几何时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cengjiheshi.md)
+
 <p><span class="chinese">曾几何时，我们是一个“法治至上”的国家。</span><span class="english">We used to have the rule of law.</span></p>
 
 <p><span class="chinese">曾几何时，希望的迷失折断了梦想的翅膀。</span><span class="english">Whose wings loss of hope had lamed.</span></p>

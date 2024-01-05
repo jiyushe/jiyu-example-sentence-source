@@ -1,5 +1,7 @@
 # 棘爪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhao.md)
+
 <p><span class="chinese">什么是割草机起动棘爪？。</span><span class="english">What are Lawn Mower Starter Pawls?</span></p>
 
 <p><span class="chinese">棘轮，棘爪，棘条这种机械装置中的爪状物，转轮或。</span><span class="english">The pawl, wheel, or bar of this mechanism.</span></p>

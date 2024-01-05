@@ -1,5 +1,7 @@
 # dense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dense.md)
+
 <p><span class="chinese">冰的密度比水小。</span><span class="english">Ice is not as dense as water.</span></p>
 
 <p><span class="chinese">丛林中密布的苔藓。</span><span class="english">The dense mosses of the jungle.</span></p>

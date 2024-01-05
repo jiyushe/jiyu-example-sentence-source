@@ -1,5 +1,7 @@
 # 不足为怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzuweiguai.md)
+
 <p><span class="chinese">这样看来，投资者纷纷投身债券市场也就不足为怪了吧？</span><span class="english">Is it any wonder that investors are barging into bonds?</span></p>
 
 <p><span class="chinese">电脑修理业繁荣起来就不足为怪了。</span><span class="english">It's no surprise that computer repair companies are thriving.</span></p>

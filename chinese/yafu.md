@@ -1,5 +1,7 @@
 # 压服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yafu.md)
+
 <p><span class="chinese">赫兹压服口风。</span><span class="english">Hz squelch tone.</span></p>
 
 <p><span class="chinese">她的回答彻底把他压服了。</span><span class="english">Her answer finished him.</span></p>

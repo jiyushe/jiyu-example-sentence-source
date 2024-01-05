@@ -1,5 +1,7 @@
 # 景点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdian.md)
+
 <p><span class="chinese">最著名的景点是中山陵。</span><span class="english">Famous is Sun Yat-sen.</span></p>
 
 <p><span class="chinese">那是一个旅游景点。</span><span class="english">That's a tourist attraction.</span></p>

@@ -1,5 +1,7 @@
 # mansard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mansard.md)
+
 <p><span class="chinese">屋面接近垂直的一种折线形屋顶。</span><span class="english">A mansard roof with sides that are nearly perpendicular.</span></p>
 
 <p><span class="chinese">由双重斜坡屋顶形成的那一层通常称为阁楼。</span><span class="english">The story formed by a mansard roof is usually called the garret.</span></p>

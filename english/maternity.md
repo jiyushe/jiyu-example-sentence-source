@@ -1,5 +1,7 @@
 # maternity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maternity.md)
+
 <p><span class="chinese">她生产孕妇服装。</span><span class="english">She makes maternity clothes.</span></p>
 
 <p><span class="chinese">第二、你休过产假了吗？</span><span class="english">Did you take maternity leave?</span></p>

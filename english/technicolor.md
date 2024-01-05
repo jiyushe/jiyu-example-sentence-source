@@ -1,5 +1,7 @@
 # technicolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technicolor.md)
+
 <p><span class="chinese">他以五光十色绚丽夺目的文章给你完全的效果。</span><span class="english">He writes in glorious technicolor to give you the full effect.</span></p>
 
 <p><span class="chinese">彩色印片面颊根据UF格兰特的把戏面颊对面颊。</span><span class="english">Technicolor Cheek was based on UF Grant's trick Cheek to Cheek.</span></p>

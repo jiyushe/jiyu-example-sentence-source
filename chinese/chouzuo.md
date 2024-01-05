@@ -1,5 +1,7 @@
 # 酬酢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouzuo.md)
+
 <p><span class="chinese">我在公司宴会上一直跟董事们相酬酢。</span><span class="english">I've been hobnobbing with the directors at the office party.</span></p>
 
 <p><span class="chinese">能使用熟练的粤语、遍及话和潮汕话举行酬酢。</span><span class="english">Access to skilled Cantonese, Putonghua and the Chaoshan remark Communication.</span></p>

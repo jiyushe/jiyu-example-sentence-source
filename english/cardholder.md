@@ -1,5 +1,7 @@
 # cardholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardholder.md)
+
 <p><span class="chinese">阁下现时是否大新银行信用卡客户？</span><span class="english">Are you existing Dah Sing Bank Credit Cardholder?</span></p>
 
 <p><span class="chinese">阁下现时是否大新银行信用卡客户？</span><span class="english">Are you an existing Dah Sing Bank Credit Cardholder?</span></p>

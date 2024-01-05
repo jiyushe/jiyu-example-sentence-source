@@ -1,5 +1,7 @@
 # slicer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slicer.md)
+
 <p><span class="chinese">这是个集去苹果心、削皮和切片为一体的小装置。</span><span class="english">A doohickey is an apple corer, peeler and slicer.</span></p>
 
 <p><span class="chinese">阿肉切片机是一个伟大的礼物烹饪爱好者。</span><span class="english">The meat slicer is a great gift a fan of cooking.</span></p>

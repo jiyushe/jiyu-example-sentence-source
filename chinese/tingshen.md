@@ -1,5 +1,7 @@
 # 挺身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingshen.md)
+
 <p><span class="chinese">我一天做十个伏地挺身。</span><span class="english">I do ten pushups a day.</span></p>
 
 <p><span class="chinese">我可以做50下伏地挺身。</span><span class="english">B. I can do 50 push-ups.</span></p>

@@ -1,5 +1,7 @@
 # 钻研
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanyan.md)
+
 <p><span class="chinese">然后你就钻研进去了。</span><span class="english">Then you just dive in.</span></p>
 
 <p><span class="chinese">他们在钻研物理学。</span><span class="english">They are digging at physics.</span></p>

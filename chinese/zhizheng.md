@@ -1,5 +1,7 @@
 # 执政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizheng.md)
+
 <p><span class="chinese">布什执政时,他有着出色的表现</span><span class="english">He's brilliant at Bush.</span></p>
 
 <p><span class="chinese">他执政30个军团的下级。</span><span class="english">He governs 30 Legions of Inferiors.</span></p>

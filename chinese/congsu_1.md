@@ -1,5 +1,7 @@
 # 从速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congsu_1.md)
+
 <p><span class="chinese">他答应我从速答复。</span><span class="english">He promised me a quick answer.</span></p>
 
 <p><span class="chinese">这项工作你最好从速去做。</span><span class="english">You'd better be pretty smart about the job.</span></p>

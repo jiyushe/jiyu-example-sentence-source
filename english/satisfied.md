@@ -1,5 +1,7 @@
 # satisfied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satisfied.md)
+
 <p><span class="chinese">不，他们不满足。</span><span class="english">No, not satisfied.</span></p>
 
 <p><span class="chinese">但他远远还没有满足。</span><span class="english">Yet he is far from satisfied.</span></p>

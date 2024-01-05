@@ -1,5 +1,7 @@
 # whatever 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whatever.md)
+
 <p><span class="chinese">是吧，不管怎样？</span><span class="english">Why not, whatever?</span></p>
 
 <p><span class="chinese">我爱买啥买啥。</span><span class="english">I buy whatever I like.</span></p>

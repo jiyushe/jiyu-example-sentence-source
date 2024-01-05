@@ -1,5 +1,7 @@
 # phoebus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoebus.md)
+
 <p><span class="chinese">得洛斯矗立，太阳升起的地方！</span><span class="english">Where Delos rose, and Phoebus sprung!</span></p>
 
 <p><span class="chinese">徒有红脸的菲勃斯高举金色的火。</span><span class="english">And reddening Phoebus lifts his golden fire.</span></p>

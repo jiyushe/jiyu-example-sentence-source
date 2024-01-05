@@ -1,5 +1,7 @@
 # enquiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enquiring.md)
+
 <p><span class="chinese">一只黄褐色的猫头鹰在林中叩问着。</span><span class="english">Where a tawny owl was enquiring.</span></p>
 
 <p><span class="chinese">警察正在调查这起谋杀案。</span><span class="english">The police are enquiring into the murder.</span></p>

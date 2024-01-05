@@ -1,5 +1,7 @@
 # isolationism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isolationism.md)
+
 <p><span class="chinese">事实上，美国从来就没有从孤立主义中得到任何好处。</span><span class="english">Indeed, America has never succeeded through isolationism.</span></p>
 
 <p><span class="chinese">精神上偏激引起了过多承担义务和孤立主义。</span><span class="english">Moral exuberance had inspired both overinvolvement and isolationism.</span></p>

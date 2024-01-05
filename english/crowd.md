@@ -1,5 +1,7 @@
 # crowd 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crowd.md)
+
 <p><span class="chinese">观众都笑了。</span><span class="english">The crowd laughs.</span></p>
 
 <p><span class="chinese">匆忙来往的人群。</span><span class="english">The crowd is hurrying.</span></p>

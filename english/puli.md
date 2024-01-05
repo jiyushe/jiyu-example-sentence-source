@@ -1,5 +1,7 @@
 # puli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puli.md)
+
 <p><span class="chinese">下班去埔里的公车什麽时候来？</span><span class="english">When is the next bus to Puli ?</span></p>
 
 <p><span class="chinese">埔里也难避免现代建设带来的变貌。</span><span class="english">Puli cannot avoid the changes brought by modern construction.</span></p>

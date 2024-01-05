@@ -1,5 +1,7 @@
 # adult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adult.md)
+
 <p><span class="chinese">老大不小的我现在快三十啦！</span><span class="english">I now adult fast 30!</span></p>
 
 <p><span class="chinese">他们有一个儿子已经成年。</span><span class="english">They have an adult son.</span></p>

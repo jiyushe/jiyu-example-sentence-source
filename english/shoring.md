@@ -1,5 +1,7 @@
 # shoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoring.md)
+
 <p><span class="chinese">以及在揭煤后采取迅速支护防止空顶和冒落等防治措施。</span><span class="english">At last, the shoring measures to prevent roof falling is tabled.</span></p>
 
 <p><span class="chinese">主要有三种类型的支撑，斜撑、横撑和支撑柱。</span><span class="english">There are three main types of shoring – raking , flying and dead shore.</span></p>

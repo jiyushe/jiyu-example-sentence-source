@@ -1,5 +1,7 @@
 # evenness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evenness.md)
+
 <p><span class="chinese">细纱机后区牵伸形式影响成纱条干。</span><span class="english">Back region drafting form has effects on yarn evenness.</span></p>
 
 <p><span class="chinese">为什么生态平衡与物种相对丰富同等重要。</span><span class="english">Why ecological evenness is as important as relative richness.</span></p>

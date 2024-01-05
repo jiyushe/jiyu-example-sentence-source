@@ -1,5 +1,7 @@
 # 劝告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quangao.md)
+
 <p><span class="chinese">他没听你的劝告。</span><span class="english">He acted against your advice.</span></p>
 
 <p><span class="chinese">一位母亲在劝告她的儿子。</span><span class="english">A mother is admonishing her son.</span></p>

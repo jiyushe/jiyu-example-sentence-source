@@ -1,5 +1,7 @@
 # 左手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoshou_1.md)
+
 <p><span class="chinese">左手开始画圈。</span><span class="english">He begins to paint.</span></p>
 
 <p><span class="chinese">把你的左手放进来。</span><span class="english">You put your left hand in.</span></p>

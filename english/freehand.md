@@ -1,5 +1,7 @@
 # freehand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freehand.md)
+
 <p><span class="chinese">写意出一首首寂寞的歌。</span><span class="english">Freehand out a lonely song.</span></p>
 
 <p><span class="chinese">掌握徒手绘图的技巧。</span><span class="english">Master skills of freehand drawing.</span></p>

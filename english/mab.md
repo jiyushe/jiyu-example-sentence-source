@@ -1,5 +1,7 @@
 # mab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mab.md)
+
 <p><span class="chinese">可憎的东西！邪恶的怪物！你会死在麦布的手下。</span><span class="english">Abomination! Vile creatures! You will fall before Mab.</span></p>
 
 <p><span class="chinese">这种免疫反应可被抗CR1完全阻断。</span><span class="english">The immune reaction was completely interdicted by anti CR1 mAb.</span></p>

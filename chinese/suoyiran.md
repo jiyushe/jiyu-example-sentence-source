@@ -1,5 +1,7 @@
 # 所以然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyiran.md)
+
 <p><span class="chinese">问两位老人，也道不出个所以然来。</span><span class="english">Asked two elderly, Road no- whys and wherefores.</span></p>
 
 <p><span class="chinese">每一笔一画，都有其作用，千万别不知其所以然而为之。</span><span class="english">Everything has a function. Don't draw without knowing why.</span></p>

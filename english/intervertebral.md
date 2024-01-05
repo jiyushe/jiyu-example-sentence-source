@@ -1,5 +1,7 @@
 # intervertebral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intervertebral.md)
+
 <p><span class="chinese">观察椎间盘突出的程度及类型。</span><span class="english">The degree and type of intervertebral disc protrusion were observed.</span></p>
 
 <p><span class="chinese">椎间盘段椎管受四壁影响因素较大。</span><span class="english">The spinal canal at the intervertebral disc is often affected by its wall.</span></p>

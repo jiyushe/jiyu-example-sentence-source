@@ -1,5 +1,7 @@
 # 横剖面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengpoumian.md)
+
 <p><span class="chinese">在横剖面上它看起来也是对称的。</span><span class="english">It also looks symmetrical in profile.</span></p>
 
 <p><span class="chinese">本书还概述了横剖面和立体图的制作法。</span><span class="english">The construction of cross-sections and block diagrams is also outlined.</span></p>

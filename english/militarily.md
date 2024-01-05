@@ -1,5 +1,7 @@
 # militarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militarily.md)
+
 <p><span class="chinese">新来者也在军事上为北约作贡献。</span><span class="english">The newcomers have also contributed militarily to NATO.</span></p>
 
 <p><span class="chinese">奥巴马在哪里？他是否打算军事干涉？</span><span class="english">Where is Oblahblah? Is he going to militarily intervene?</span></p>

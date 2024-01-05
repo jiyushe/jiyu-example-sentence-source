@@ -1,5 +1,7 @@
 # antepartum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antepartum.md)
+
 <p><span class="chinese">因此，中段尿培养在产前检查中实属必要。</span><span class="english">So, mid-stream clean catch urinary culture are necessary in antepartum examination.</span></p>
 
 <p><span class="chinese">产前出血对急诊剖宫产率、新生儿体质量有一定影响。</span><span class="english">Antepartum haemorrhage affects the incidence of emergency caesarean section and birthweight.</span></p>

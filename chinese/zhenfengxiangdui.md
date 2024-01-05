@@ -1,5 +1,7 @@
 # 针锋相对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenfengxiangdui.md)
+
 <p><span class="chinese">我们不会针锋相对。</span><span class="english">We do not play tit-for-tat.</span></p>
 
 <p><span class="chinese">很多的的对话都好像挺针锋相对的。</span><span class="english">A lot of the dialog seems to be combative.</span></p>

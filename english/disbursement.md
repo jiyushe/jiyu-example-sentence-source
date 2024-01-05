@@ -1,5 +1,7 @@
 # disbursement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disbursement.md)
+
 <p><span class="chinese">咱们换个话题，谈一谈款项支出吧。</span><span class="english">Let's switch the talk to disbursement.</span></p>
 
 <p><span class="chinese">行加权，以进行不同级别的支付。</span><span class="english">To allow for different levels of disbursement.</span></p>

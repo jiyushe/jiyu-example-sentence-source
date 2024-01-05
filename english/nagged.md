@@ -1,5 +1,7 @@
 # nagged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nagged.md)
+
 <p><span class="chinese">她成天唠唠叨叨地找他岔子。</span><span class="english">She nagged at him all day long.</span></p>
 
 <p><span class="chinese">她总是不停地抱怨他的不良生活习惯。</span><span class="english">She always nagged about his way of life.</span></p>

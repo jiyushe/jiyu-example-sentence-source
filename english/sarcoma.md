@@ -1,5 +1,7 @@
 # sarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcoma.md)
+
 <p><span class="chinese">摘要肺动脉肉瘤是一种罕见的肿瘤。</span><span class="english">Primary pulmonary artery sarcoma is a rare tumor.</span></p>
 
 <p><span class="chinese">肉瘤由异型性很大的细胞组成。</span><span class="english">This sarcoma is composed of very pleomorphic cells.</span></p>

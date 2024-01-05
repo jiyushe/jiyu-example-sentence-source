@@ -1,5 +1,7 @@
 # 怎样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zenyang.md)
+
 <p><span class="chinese">怎样行走。</span><span class="english">How to walk.</span></p>
 
 <p><span class="chinese">是怎样的锤？</span><span class="english">What the hammer?</span></p>

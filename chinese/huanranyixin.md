@@ -1,5 +1,7 @@
 # 焕然一新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanranyixin.md)
+
 <p><span class="chinese">睡椅焕然一新。</span><span class="english">The couches were new.</span></p>
 
 <p><span class="chinese">整个房子都焕然一新。</span><span class="english">It transformed the house!</span></p>

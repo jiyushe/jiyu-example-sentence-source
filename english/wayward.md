@@ -1,5 +1,7 @@
 # wayward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wayward.md)
+
 <p><span class="chinese">这里没有巧合，我任性的小人们。</span><span class="english">There are no coincidences my wayward little ones.</span></p>
 
 <p><span class="chinese">我只是任性过了头，不想当乖乖女。</span><span class="english">I just wayward too far, did not want to good girl.</span></p>

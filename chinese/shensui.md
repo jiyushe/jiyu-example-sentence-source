@@ -1,5 +1,7 @@
 # 深邃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensui.md)
+
 <p><span class="chinese">深邃的宝石红。</span><span class="english">Deep ruby-red.</span></p>
 
 <p><span class="chinese">深邃深厚的石榴红光彩。</span><span class="english">A deep garnet color.</span></p>

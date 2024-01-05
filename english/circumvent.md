@@ -1,5 +1,7 @@
 # circumvent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumvent.md)
+
 <p><span class="chinese">为了防止这个问题，我们修改了主题。</span><span class="english">To circumvent this issue, we modified the theme.</span></p>
 
 <p><span class="chinese">有时候，凯恩会想方设法智取。</span><span class="english">Still, Kane would try to circumvent her parents' efforts.</span></p>

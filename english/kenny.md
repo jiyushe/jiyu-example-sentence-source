@@ -1,5 +1,7 @@
 # kenny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kenny.md)
+
 <p><span class="chinese">正如肯尼·班尼亚所言，是他杀的。</span><span class="english">And as Kenny Bania would say, he killed.</span></p>
 
 <p><span class="chinese">毫无疑问，达格利什是稳定目前局面的最好人选。</span><span class="english">Kenny is a terrific stabiliser of the situation.</span></p>

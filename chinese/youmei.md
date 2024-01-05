@@ -1,5 +1,7 @@
 # 优美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmei.md)
+
 <p><span class="chinese">音调优美的。</span><span class="english">EF-a tale of melodic.</span></p>
 
 <p><span class="chinese">我欣赏你的优美舞姿。</span><span class="english">I admire your gracefulness.</span></p>

@@ -1,5 +1,7 @@
 # capote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capote.md)
+
 <p><span class="chinese">他是卡波特在书的开篇少数鸣谢的人之一。</span><span class="english">He is one of the few people acknowledged by Capote at the start of the book.</span></p>
 
 <p><span class="chinese">对于杜鲁门·卡波特来说，他在堪萨斯州西部的逗留给他带来的注定是一个复杂的结果。</span><span class="english">For Truman Capote the outcome of his sojourn in west Kansas was decidedly mixed.</span></p>

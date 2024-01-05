@@ -1,5 +1,7 @@
 # pitiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitiable.md)
+
 <p><span class="chinese">我认为你在自损形象。</span><span class="english">I think you cut a pitiable figure.</span></p>
 
 <p><span class="chinese">他们更像可怜的小男孩。</span><span class="english">They looked like pitiable young boys.</span></p>

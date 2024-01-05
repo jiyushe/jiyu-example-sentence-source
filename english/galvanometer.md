@@ -1,5 +1,7 @@
 # galvanometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galvanometer.md)
+
 <p><span class="chinese">没有电流通过电流计。</span><span class="english">There is no current through the galvanometer.</span></p>
 
 <p><span class="chinese">如何在电学实验中选配灵敏电流计?。</span><span class="english">How to Select Sensitive Galvanometer in Electrical Experiments?</span></p>

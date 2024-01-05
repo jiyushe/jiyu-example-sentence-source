@@ -1,5 +1,7 @@
 # 开阔地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaikuodi.md)
+
 <p><span class="chinese">那儿，我发现一片没有树木的开阔地。</span><span class="english">There, I found open ground without trees.</span></p>
 
 <p><span class="chinese">队伍到达开阔地便成扇形摆开阵势。</span><span class="english">The troops fanned out in a northerly direction.</span></p>

@@ -1,5 +1,7 @@
 # meteorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteorite.md)
+
 <p><span class="chinese">如果一颗流星砸中核电站又怎么办?</span><span class="english">What if a meteorite falls on the plant?</span></p>
 
 <p><span class="chinese">最近木星陨撃可能来自一巨大流星体。</span><span class="english">Recent Jovian impact probably came from a giant meteorite.</span></p>

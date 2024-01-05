@@ -1,5 +1,7 @@
 # racialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racialism.md)
+
 <p><span class="chinese">这么说，并无丝毫种族言论。</span><span class="english">This saying is not a racialism.</span></p>
 
 <p><span class="chinese">我不喜欢暴力，不喜欢战争，当然也不喜欢种族歧视。</span><span class="english">I hate violence, I hate war, and I hate racialism.</span></p>

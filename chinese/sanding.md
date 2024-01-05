@@ -1,5 +1,7 @@
 # 三定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanding.md)
+
 <p><span class="chinese">我们能证明第三定律吗？，不能。</span><span class="english">Can the Third Law be proven? No.</span></p>
 
 <p><span class="chinese">下面我来讲牛顿第三定律</span><span class="english">Now, I'll give you the third law.</span></p>

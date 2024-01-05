@@ -1,5 +1,7 @@
 # cursing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cursing.md)
+
 <p><span class="chinese">你对耶稣咒诅无花果树事件有何感想？</span><span class="english">How do you feel about Jesus cursing a fig tree?</span></p>
 
 <p><span class="chinese">起先，他坐在一个垫子上面，嘴里诅咒着学校。</span><span class="english">At first, he sat on a cushion, cursing the school.</span></p>

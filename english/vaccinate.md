@@ -1,5 +1,7 @@
 # vaccinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaccinate.md)
+
 <p><span class="chinese">我的小孩种了牛痘以防天花。</span><span class="english">She is vaccinate against smallpox as a child.</span></p>
 
 <p><span class="chinese">而给野生动物接种是非常困难的</span><span class="english">And it would be really difficult to vaccinate a wildlife.</span></p>

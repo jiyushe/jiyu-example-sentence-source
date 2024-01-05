@@ -1,5 +1,7 @@
 # dilettante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilettante.md)
+
 <p><span class="chinese">这种说法就是很外行的。</span><span class="english">This kind of view is very dilettante.</span></p>
 
 <p><span class="chinese">那把小提琴落到了一个对音乐一知半解的有钱人手里。</span><span class="english">The violin passed into the arms of a wealthy dilettante.</span></p>

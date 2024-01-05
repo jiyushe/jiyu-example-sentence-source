@@ -1,5 +1,7 @@
 # 政要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyao.md)
+
 <p><span class="chinese">媒体帝国，女人，孩子，复仇，名望和玩弄于股掌的各国政要。</span><span class="english">A media empire. Women.</span></p>
 
 <p><span class="chinese">周五早些时候胡锦涛设宴欢迎80多位世界各国的政要。</span><span class="english">At a luncheon earlier in the day with more than 80 world leaders, Mr.</span></p>

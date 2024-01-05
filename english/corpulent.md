@@ -1,5 +1,7 @@
 # corpulent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corpulent.md)
+
 <p><span class="chinese">他仅仅是有点肥硕</span><span class="english">He was just sort of corpulent.</span></p>
 
 <p><span class="chinese">这是个大块头的农夫。</span><span class="english">This was a rather corpulent farmer.</span></p>

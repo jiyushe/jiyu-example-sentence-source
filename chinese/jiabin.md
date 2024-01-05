@@ -1,5 +1,7 @@
 # 佳宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiabin.md)
+
 <p><span class="chinese">再次感谢各位佳宾的到来！</span><span class="english">Thanks for coming again!</span></p>
 
 <p><span class="chinese">常客令人厌。久住非佳宾，常来不欢迎。</span><span class="english">A constant guest is never welcome.</span></p>

@@ -1,5 +1,7 @@
 # celebrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celebrated.md)
+
 <p><span class="chinese">但是我庆祝得太早了。</span><span class="english">But I celebrated too soon.</span></p>
 
 <p><span class="chinese">哥伦布日在哪一天庆祝？</span><span class="english">When is Columbus day celebrated?</span></p>

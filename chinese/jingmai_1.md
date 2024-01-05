@@ -1,5 +1,7 @@
 # 静脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmai_1.md)
+
 <p><span class="chinese">也许是肝静脉？</span><span class="english">Maybe the hepatic vein?</span></p>
 
 <p><span class="chinese">静脉为蔓状丛。</span><span class="english">Vein is tendril shape clump.</span></p>

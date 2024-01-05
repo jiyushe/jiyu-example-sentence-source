@@ -1,5 +1,7 @@
 # 脸型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxing.md)
+
 <p><span class="chinese">好品味。这个很适合你脸型。</span><span class="english">Good taste. It's quite fit your face.</span></p>
 
 <p><span class="chinese">脸型是瘦瘦的，有个直鼻子。</span><span class="english">His face is thin and he has a straight nose.</span></p>

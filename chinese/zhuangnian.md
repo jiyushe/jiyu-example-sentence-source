@@ -1,5 +1,7 @@
 # 壮年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangnian.md)
+
 <p><span class="chinese">像一个婴儿长成了壮年。</span><span class="english">Long into the prime of life, like a baby.</span></p>
 
 <p><span class="chinese">他在四十四岁的壮年因为肺痨病死去。</span><span class="english">At the early age of forty-three he died of phthisis.</span></p>

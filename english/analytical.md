@@ -1,5 +1,7 @@
 # analytical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analytical.md)
+
 <p><span class="chinese">磨练你的分析技能。</span><span class="english">Hone your analytical skills.</span></p>
 
 <p><span class="chinese">每个分析模型建立一个类。</span><span class="english">Establish one class per analytical model.</span></p>

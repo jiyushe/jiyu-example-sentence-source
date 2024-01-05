@@ -1,5 +1,7 @@
 # 昆布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunbu.md)
+
 <p><span class="chinese">现在，她已经取掉了“昆布条”。</span><span class="english">She had thelaminaria removed.</span></p>
 
 <p><span class="chinese">在我们右手边，就是壮观的昆布冰川。</span><span class="english">And to the right hand side of us was this great Khumbu Glacier.</span></p>

@@ -1,5 +1,7 @@
 # lancet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lancet.md)
+
 <p><span class="chinese">他们在兰斯特医学杂志上发表了他们的发现。</span><span class="english">They reported their findings in The Lancet medical journal.</span></p>
 
 <p><span class="chinese">报告刊登在柳叶刀肿瘤学9月号上。</span><span class="english">The report appears in the September issue of The Lancet Oncology.</span></p>

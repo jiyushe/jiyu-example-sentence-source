@@ -1,5 +1,7 @@
 # chic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chic.md)
+
 <p><span class="chinese">奢侈的中产阶级家庭时髦小美女。</span><span class="english">Posh middle-class child chic.</span></p>
 
 <p><span class="chinese">她买了一顶漂亮的小帽子。</span><span class="english">She bought a chic little hat.</span></p>

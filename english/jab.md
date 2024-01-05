@@ -1,5 +1,7 @@
 # jab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jab.md)
+
 <p><span class="chinese">你打过霍乱预防针吗?。</span><span class="english">Have you have your cholera jab yet?</span></p>
 
 <p><span class="chinese">马丁打出一个刺拳和一个组合拳。</span><span class="english">Martin uses a jab and a combination.</span></p>

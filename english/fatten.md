@@ -1,5 +1,7 @@
 # fatten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatten.md)
+
 <p><span class="chinese">我们把动物关在围栏里把它们养肥。</span><span class="english">We keep animals in pens to fatten them.</span></p>
 
 <p><span class="chinese">你能把你的文章充实一下吗?</span><span class="english">Can you fatten your article out a little?</span></p>

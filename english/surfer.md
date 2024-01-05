@@ -1,5 +1,7 @@
 # surfer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surfer.md)
+
 <p><span class="chinese">冲浪者昨天在海里冲浪。</span><span class="english">The surfer surfed in the sea yesterday.</span></p>
 
 <p><span class="chinese">还记得那个穿着比基尼冲浪的小妞凯特.博斯沃思吗？</span><span class="english">Kate Bosworth as a cute surfer chick in a bikini?</span></p>

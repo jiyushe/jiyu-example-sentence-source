@@ -1,5 +1,7 @@
 # 杂牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zapai.md)
+
 <p><span class="chinese">酒店的杂牌洗发水和护发素是最棒的。</span><span class="english">Nonbrand shampoo and conditioner at hotels are the best.</span></p>
 
 <p><span class="chinese">从现在起就该好好学习，否则你最后只好上杂牌大学了。</span><span class="english">Study hard from now on otherwise you'll have to go to a cow college.</span></p>

@@ -1,5 +1,7 @@
 # drivetrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drivetrain.md)
+
 <p><span class="chinese">这形成了一个阿特金森基础周期的混合电力传动系统。</span><span class="english">This forms the basis of an Atkinson-cycle-based hybrid electric drivetrain.</span></p>
 
 <p><span class="chinese">目前他们研制的风叶和传动系统分别在荷兰和挪威接受测试。</span><span class="english">The blades are now being tested in the Netherlands, and the drivetrain in Norway.</span></p>

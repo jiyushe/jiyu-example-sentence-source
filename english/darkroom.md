@@ -1,5 +1,7 @@
 # darkroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darkroom.md)
+
 <p><span class="chinese">暗室瞬间启动，暗盒内瞬间启动。</span><span class="english">Darkroom momentary boot, Windows inside momentary boot.</span></p>
 
 <p><span class="chinese">我在学习在暗房冲洗照片。</span><span class="english">I'm learning to develop my own photographs in the darkroom.</span></p>

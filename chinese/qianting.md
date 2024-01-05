@@ -1,5 +1,7 @@
 # 前庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianting.md)
+
 <p><span class="chinese">两个小伸缩泡，远远分离，位于口前庭腹面。</span><span class="english">Two contractile vacuoles situated near ventral wall of infundibulum.</span></p>
 
 <p><span class="chinese">前庭手种红兰树，看到春风第二芽。</span><span class="english">Vestibular tree I planted red and blue, to see the second spring buds.</span></p>

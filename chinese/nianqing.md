@@ -1,5 +1,7 @@
 # 年轻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianqing.md)
+
 <p><span class="chinese">只怪我太年轻。</span><span class="english">Blame it on my youth.</span></p>
 
 <p><span class="chinese">年轻姑娘把那两个字念道了两遍，“自由干吗？”</span><span class="english">asked the young girl.</span></p>

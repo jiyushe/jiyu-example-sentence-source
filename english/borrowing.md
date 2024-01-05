@@ -1,5 +1,7 @@
 # borrowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borrowing.md)
+
 <p><span class="chinese">你仅仅是借用了它。</span><span class="english">You’ll be borrowing it.</span></p>
 
 <p><span class="chinese">不妨借一处试试。</span><span class="english">Try borrowing one instead.</span></p>

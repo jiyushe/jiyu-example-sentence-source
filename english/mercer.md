@@ -1,5 +1,7 @@
 # mercer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercer.md)
+
 <p><span class="chinese">菲尔·默塞尔从悉尼发回报道。</span><span class="english">From Sydney, Phil Mercer reports.</span></p>
 
 <p><span class="chinese">“它完全可以炸翻你的锅炉”，默瑟打趣说。</span><span class="english">"It would just blow up your gas cooker, " Mercer said.</span></p>

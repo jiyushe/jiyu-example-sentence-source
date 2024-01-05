@@ -1,5 +1,7 @@
 # 目睹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudu.md)
+
 <p><span class="chinese">还记得奥比目睹？</span><span class="english">Remember Obie witnessed?</span></p>
 
 <p><span class="chinese">你目睹了整场事故?。</span><span class="english">You witnessed the accident?</span></p>

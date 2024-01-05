@@ -1,5 +1,7 @@
 # 故人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guren_1.md)
+
 <p><span class="chinese">黄鹤断矶头，故人今在否？旧江山浑是新愁。</span><span class="english">The old land is drowned in sorrow new.</span></p>
 
 <p><span class="chinese">故人具鸡黍，邀我至田家。</span><span class="english">Lee chicken with millet, invited me to Tian.</span></p>

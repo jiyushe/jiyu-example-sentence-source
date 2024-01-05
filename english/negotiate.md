@@ -1,5 +1,7 @@
 # negotiate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negotiate.md)
+
 <p><span class="chinese">商洽联络作用。</span><span class="english">Negotiate liaison role.</span></p>
 
 <p><span class="chinese">我可以帮您讨价。</span><span class="english">I can negotiate for you.</span></p>

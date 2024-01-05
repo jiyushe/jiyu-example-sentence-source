@@ -1,5 +1,7 @@
 # headhunter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headhunter.md)
+
 <p><span class="chinese">校园猎头便是这些新兴兼职之一。</span><span class="english">One of these new part-time jobs is that of campus headhunter.</span></p>
 
 <p><span class="chinese">董事会雇佣了一位负责人才招聘的人去物色一位新经理。</span><span class="english">The board of directors hired a headhunter to get a new manager.</span></p>

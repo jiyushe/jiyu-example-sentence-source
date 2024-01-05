@@ -1,5 +1,7 @@
 # 血洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexi_2.md)
+
 <p><span class="chinese">还是要进行血洗？</span><span class="english">Still have to carry out blood bath?</span></p>
 
 <p><span class="chinese">侵略者一路血洗而入。</span><span class="english">The invaders butchered their way in.</span></p>

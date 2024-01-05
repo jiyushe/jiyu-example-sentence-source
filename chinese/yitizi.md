@@ -1,5 +1,7 @@
 # 异体字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitizi.md)
+
 <p><span class="chinese">字形上统一写法，减少异体字。</span><span class="english">The form is unified and variants are reduced.</span></p>
 
 <p><span class="chinese">异体字在水文中占据很高的比例。</span><span class="english">The proportion of Variants in Shuiwen is high.</span></p>

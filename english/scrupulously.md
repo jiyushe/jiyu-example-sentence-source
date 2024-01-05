@@ -1,5 +1,7 @@
 # scrupulously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrupulously.md)
+
 <p><span class="chinese">对待工作，她一贯恪尽职守、认认真真。</span><span class="english">She always fulfills her duties scrupulously at work.</span></p>
 
 <p><span class="chinese">在道统的中国家庭里，人们恪守孝道。</span><span class="english">People scrupulously abide by filial piety in traditional Chinese family.</span></p>

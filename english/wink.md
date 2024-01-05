@@ -1,5 +1,7 @@
 # wink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wink.md)
+
 <p><span class="chinese">他们神秘兮兮的眨眨眼。</span><span class="english">And they wink.</span></p>
 
 <p><span class="chinese">之后，他们对我颇有深意的眨眼。</span><span class="english">Then they wink at me.</span></p>

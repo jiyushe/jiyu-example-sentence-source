@@ -1,5 +1,7 @@
 # 闷气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menqi.md)
+
 <p><span class="chinese">难道佛陀过闷气爸爸？</span><span class="english">Did The Buddha ever sulk Daddy?</span></p>
 
 <p><span class="chinese">随后他就默默地坐着，生着闷气。</span><span class="english">Then he would sit silent and burning.</span></p>

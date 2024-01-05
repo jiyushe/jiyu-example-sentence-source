@@ -1,5 +1,7 @@
 # 耸立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songli.md)
+
 <p><span class="chinese">耸立在刮风的天空下。</span><span class="english">Stark in a windy sky.</span></p>
 
 <p><span class="chinese">广场上亭亭耸立着一座纪念塔。</span><span class="english">A monument stands on the square.</span></p>

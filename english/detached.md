@@ -1,5 +1,7 @@
 # detached
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detached.md)
+
 <p><span class="chinese">他从链子上拆下一个链环。</span><span class="english">He detached a link from a chain.</span></p>
 
 <p><span class="chinese">没有脱离现实。</span><span class="english">She's not detached from reality.</span></p>

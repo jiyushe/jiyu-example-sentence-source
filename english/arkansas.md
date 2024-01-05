@@ -1,5 +1,7 @@
 # arkansas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arkansas.md)
+
 <p><span class="chinese">象牙喙啄木鸟，阿肯色州</span><span class="english">Ivory Billed Woodpecker, Arkansas</span></p>
 
 <p><span class="chinese">1836年，阿肯色州成为第25个州。</span><span class="english">In 1836, Arkansas became the 25th state.</span></p>

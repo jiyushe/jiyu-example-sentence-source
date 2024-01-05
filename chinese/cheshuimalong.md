@@ -1,5 +1,7 @@
 # 车水马龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cheshuimalong.md)
+
 <p><span class="chinese">我的心，你的世界。不过是车水马龙的瞬间。</span><span class="english">My heart, your world. But the moment of heavy traffic.</span></p>
 
 <p><span class="chinese">她在车水马龙中，寻寻觅觅。</span><span class="english">She running in the car streams, searching and searching.</span></p>

@@ -1,5 +1,7 @@
 # nanny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanny.md)
+
 <p><span class="chinese">外婆边看边笑。</span><span class="english">Nanny watches, laughs.</span></p>
 
 <p><span class="chinese">大堰河，是我的保姆。</span><span class="english">Dayanhe, she was my nanny.</span></p>

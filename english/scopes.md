@@ -1,5 +1,7 @@
 # scopes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scopes.md)
+
 <p><span class="chinese">这就是为什么句柄范围非常有用。</span><span class="english">This is where handle scopes are very useful.</span></p>
 
 <p><span class="chinese">添加两个通知范围的补偿</span><span class="english">Add compensates for the two notification scopes</span></p>

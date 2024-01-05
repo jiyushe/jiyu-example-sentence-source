@@ -1,5 +1,7 @@
 # cirrhotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cirrhotic.md)
+
 <p><span class="chinese">因此，这类综合征现在被称为肝硬化性心肌病。</span><span class="english">So, the syndrome is now called cirrhotic cardiomyopathy.</span></p>
 
 <p><span class="chinese">对肝硬化的患者，可能不能停止治疗。</span><span class="english">For cirrhotic patients, perhaps you can't stop treatment.</span></p>

@@ -1,5 +1,7 @@
 # 衬裤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenku.md)
+
 <p><span class="chinese">我还偷了她的一些衬裤。</span><span class="english">I stole a pair of her panties as well.</span></p>
 
 <p><span class="chinese">我不想看到任何人的衬裤。</span><span class="english">I don't want to see nobody's under shorts.</span></p>

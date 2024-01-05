@@ -1,5 +1,7 @@
 # autopsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autopsy.md)
+
 <p><span class="chinese">他们做尸体解剖了吗？</span><span class="english">Did they do an autopsy ?</span></p>
 
 <p><span class="chinese">所以你认为我们应该做尸体解剖吗?。</span><span class="english">So you think we should do the autopsy?</span></p>

@@ -1,5 +1,7 @@
 # 轻重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhong.md)
+
 <p><span class="chinese">投资是消费在时间上的权衡轻重。</span><span class="english">Investment is the balancing of consumption over time.</span></p>
 
 <p><span class="chinese">这些年轻人做事情不知轻重。</span><span class="english">These young people do not know the proper way to act.</span></p>

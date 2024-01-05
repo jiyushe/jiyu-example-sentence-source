@@ -1,5 +1,7 @@
 # faubourg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faubourg.md)
+
 <p><span class="chinese">我在郊外有一套简单的公寓。</span><span class="english">I have got a simple flat in the faubourg.</span></p>
 
 <p><span class="chinese">这就是大庙郊区的街垒。</span><span class="english">t was the barricade of the Faubourg of the Temple.</span></p>

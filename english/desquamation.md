@@ -1,5 +1,7 @@
 # desquamation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desquamation.md)
+
 <p><span class="chinese">本文对表面粘贴加固混凝土梁的剥离进行了研究。</span><span class="english">The desquamation of affixed reinforced RC beam is studied in this paper.</span></p>
 
 <p><span class="chinese">采用进口特殊防锈涂料防止脱皮和类别。</span><span class="english">Using the imported special antirust paint prevents desquamation and regimentation.</span></p>

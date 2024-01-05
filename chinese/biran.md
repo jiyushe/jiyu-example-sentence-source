@@ -1,5 +1,7 @@
 # 必然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biran.md)
+
 <p><span class="chinese">需要必然的痛楚。</span><span class="english">Requires sorest need.</span></p>
 
 <p><span class="chinese">必然让你笑破肚皮。</span><span class="english">It makes you laugh to tears.</span></p>

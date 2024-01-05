@@ -1,5 +1,7 @@
 # 讶异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayi_2.md)
+
 <p><span class="chinese">讶异的觉醒我的眼还有泪。</span><span class="english">Why do these eyes of mine cry?</span></p>
 
 <p><span class="chinese">真夜不该讶异的。</span><span class="english">The true night should not astound.</span></p>

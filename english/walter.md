@@ -1,5 +1,7 @@
 # walter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walter.md)
+
 <p><span class="chinese">瓦尔特问。</span><span class="english">Walter asked.</span></p>
 
 <p><span class="chinese">我叫沃尔特-略文。</span><span class="english">I'm Walter Lewin.</span></p>

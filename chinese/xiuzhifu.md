@@ -1,5 +1,7 @@
 # 休止符
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzhifu.md)
+
 <p><span class="chinese">最简单的生活现在画上了休止符。</span><span class="english">The easiest part of life is over now.</span></p>
 
 <p><span class="chinese">可是让我们看，音乐家如何对付这些休止符呢？</span><span class="english">How does the musician read the "rest"?</span></p>

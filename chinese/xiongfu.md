@@ -1,5 +1,7 @@
 # 胸腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongfu.md)
+
 <p><span class="chinese">长袖做底再加个背心来为胸腹保暖。</span><span class="english">Long-sleeve base layer and a vest keep your core warm.</span></p>
 
 <p><span class="chinese">采用左后外胸腹联合切口及胸骨正中切口。</span><span class="english">Patients were with mid-sternotomy and thoracoabdominal incision.</span></p>

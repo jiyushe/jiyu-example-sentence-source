@@ -1,5 +1,7 @@
 # 绢花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanhua.md)
+
 <p><span class="chinese">在一个安全的绢花花圈线。</span><span class="english">Secure silk flowers in a wreath with wire.</span></p>
 
 <p><span class="chinese">用铁丝或胶带附上您的绢花到容器。</span><span class="english">Use wire or tape to attach your silk flowers to the container.</span></p>

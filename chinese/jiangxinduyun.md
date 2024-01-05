@@ -1,5 +1,7 @@
 # 匠心独运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxinduyun.md)
+
 <p><span class="chinese">捷克钻匠心独运装饰，鞋子熠熠生辉。</span><span class="english">Czech drilling imaginative decorations, shoes shine.</span></p>
 
 <p><span class="chinese">这辆车刚造好时，其设计被认为是匠心独运。</span><span class="english">When the car was first built , the design was viewed as highly original.</span></p>

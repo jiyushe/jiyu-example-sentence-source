@@ -1,5 +1,7 @@
 # 棉袄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianao.md)
+
 <p><span class="chinese">我这件棉袄凑合着还能穿一冬。</span><span class="english">I can make this padded jacket do for another winter.</span></p>
 
 <p><span class="chinese">他壮实的在冬天不需要穿棉袄。</span><span class="english">He is very strong and he needn't wear cotton-padded jacket.</span></p>

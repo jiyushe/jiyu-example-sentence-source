@@ -1,5 +1,7 @@
 # tropicana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tropicana.md)
+
 <p><span class="chinese">纯果乐是一个拥有60年历史的品牌。</span><span class="english">Tropicana is a 60-year-old brand.</span></p>
 
 <p><span class="chinese">纯果乐作为一个伟大的名字进入到消费者心中，建立了一个新的产品类型。</span><span class="english">Tropicana got into the mind with a great name and built a new category.</span></p>

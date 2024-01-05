@@ -1,5 +1,7 @@
 # 门外汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menwaihan.md)
+
 <p><span class="chinese">你在海洋学方面是个门外汉。</span><span class="english">You are a layman in the field of oceanology.</span></p>
 
 <p><span class="chinese">他再也不能把自己当作一个气哼哼的门外汉了。</span><span class="english">He cannot pose any more as the disgruntled outsider.</span></p>

@@ -1,5 +1,7 @@
 # hp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hp.md)
+
 <p><span class="chinese">马力--13600hp。</span><span class="english">Power – 13600 hp.</span></p>
 
 <p><span class="chinese">欢迎加入战局，惠普！</span><span class="english">Welcome to the battle, HP.</span></p>

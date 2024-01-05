@@ -1,5 +1,7 @@
 # 谄媚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanmei.md)
+
 <p><span class="chinese">他对有权势者谄媚。</span><span class="english">He is obsequious to men in power.</span></p>
 
 <p><span class="chinese">她用谄媚的手段欺骗他。</span><span class="english">He wheedled his way onto the stage.</span></p>

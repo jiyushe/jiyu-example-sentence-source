@@ -1,5 +1,7 @@
 # brother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brother.md)
+
 <p><span class="chinese">塞鲁的哥哥问。</span><span class="english">brother asked.</span></p>
 
 <p><span class="chinese">我失去了我的兄弟。</span><span class="english">I lost my brother.</span></p>

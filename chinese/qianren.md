@@ -1,5 +1,7 @@
 # 前人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianren.md)
+
 <p><span class="chinese">她像一只蝴蝶，每天在人前人后飞来飞去。</span><span class="english">She flits in and out of people's lives.</span></p>
 
 <p><span class="chinese">我们敢于走前人未尝走过的新路。</span><span class="english">We dare to break a path unbeaten before.</span></p>

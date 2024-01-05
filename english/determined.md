@@ -1,5 +1,7 @@
 # determined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determined.md)
+
 <p><span class="chinese">她意志坚定。</span><span class="english">She's determined.</span></p>
 
 <p><span class="chinese">意志坚定，恩。</span><span class="english">Determined. Uh huh.</span></p>

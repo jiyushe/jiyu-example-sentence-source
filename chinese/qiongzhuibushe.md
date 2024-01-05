@@ -1,5 +1,7 @@
 # 穷追不舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongzhuibushe.md)
+
 <p><span class="chinese">这周你很可能被人穷追不舍。</span><span class="english">Someone is more likely to be after what you have this week.</span></p>
 
 <p><span class="chinese">江红玲也穷追不舍，但是还不够快。</span><span class="english">Jiang Honglin was catching up fast , too, but not fast enough.</span></p>

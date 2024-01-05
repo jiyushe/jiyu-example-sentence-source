@@ -1,5 +1,7 @@
 # 有生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yousheng_3.md)
+
 <p><span class="chinese">我可以借有生些磁盘吗？</span><span class="english">Can I borrow some disks?</span></p>
 
 <p><span class="chinese">爱有生有灭，而善意万古长存”。</span><span class="english">Love comes and goes, but kindness remains.</span></p>

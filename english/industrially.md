@@ -1,5 +1,7 @@
 # industrially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrially.md)
+
 <p><span class="chinese">用氢氧化钾与碘反应。是碘化钾的工业制法。</span><span class="english">It is produced industrially by treating KOH with iodine.</span></p>
 
 <p><span class="chinese">我们要勤俭办一切事业。</span><span class="english">We should run all undertakings industrially and thriftily.</span></p>

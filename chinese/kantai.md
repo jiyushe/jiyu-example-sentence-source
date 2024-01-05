@@ -1,5 +1,7 @@
 # 看台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kantai.md)
+
 <p><span class="chinese">这边是我们的主看台。</span><span class="english">This side is our grandstand.</span></p>
 
 <p><span class="chinese">我们还是买露天看台座位好了。</span><span class="english">Let's just get bleacher seats.</span></p>

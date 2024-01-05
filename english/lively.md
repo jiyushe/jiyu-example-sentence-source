@@ -1,5 +1,7 @@
 # lively 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lively.md)
+
 <p><span class="chinese">这次会开得生动活泼。</span><span class="english">It was a lively meeting.</span></p>
 
 <p><span class="chinese">市场相当活跃。</span><span class="english">The market is quite lively.</span></p>

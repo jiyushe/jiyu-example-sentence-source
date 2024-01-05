@@ -1,5 +1,7 @@
 # 元曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanqu.md)
+
 <p><span class="chinese">元朝文学的主要成就是元曲。</span><span class="english">The main literary achievement in the Yuan Dynasty was Yuan drama.</span></p>
 
 <p><span class="chinese">然而由于种种原因，元曲的介绍并未得到应有的关注。</span><span class="english">However, due to some reasons, it has not gained deserved attention.</span></p>

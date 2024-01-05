@@ -1,5 +1,7 @@
 # 隔膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gemo.md)
+
 <p><span class="chinese">很多真菌具有不完全隔膜。</span><span class="english">Many fungi have incomplete septa.</span></p>
 
 <p><span class="chinese">聚醚醚酮电源或机构，三元乙丙橡胶隔膜。</span><span class="english">PSU or PEEK body with EPDM diaphragm.</span></p>

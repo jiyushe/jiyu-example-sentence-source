@@ -1,5 +1,7 @@
 # 词不达意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cibudayi.md)
+
 <p><span class="chinese">我说过爱你，但我词不达意。</span><span class="english">Said I love you, but I lied!</span></p>
 
 <p><span class="chinese">词不达意。</span><span class="english">The words fail to convey the idea.</span></p>

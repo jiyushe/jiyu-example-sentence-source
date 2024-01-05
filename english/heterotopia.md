@@ -1,5 +1,7 @@
 # heterotopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterotopia.md)
+
 <p><span class="chinese">通常，带状异位主要见于女性。</span><span class="english">In general, band heterotopia is seen largely in women.</span></p>
 
 <p><span class="chinese">“异托邦”作为一种新的空间概念越来越受到人们的关注。</span><span class="english">"Heterotopia", as a new concept of space, is gained more and more attention.</span></p>

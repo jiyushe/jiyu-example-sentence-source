@@ -1,5 +1,7 @@
 # stony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stony.md)
+
 <p><span class="chinese">感谢上帝，史东尼，成功了。</span><span class="english">So, thank goodness, Stony triumphed.</span></p>
 
 <p><span class="chinese">大车沿着石子路嘎吱嘎吱地前进。</span><span class="english">The cart rattled along the stony road.</span></p>

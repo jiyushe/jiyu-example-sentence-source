@@ -1,5 +1,7 @@
 # domino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domino.md)
+
 <p><span class="chinese">这是骨牌效应。</span><span class="english">It's a domino effect.</span></p>
 
 <p><span class="chinese">多米诺效应可不好</span><span class="english">We don't want the domino effect.</span></p>

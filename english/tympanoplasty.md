@@ -1,5 +1,7 @@
 # tympanoplasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tympanoplasty.md)
+
 <p><span class="chinese">现在鼓室成形术的适应症已放宽。</span><span class="english">The indication for tympanoplasty has become broad.</span></p>
 
 <p><span class="chinese">组大多采用上鼓室、乳突外壁凿开和插柱法。</span><span class="english">In group B, tympanoplasty with modified mastoidectomy was performed.</span></p>

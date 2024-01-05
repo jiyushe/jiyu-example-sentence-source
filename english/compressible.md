@@ -1,5 +1,7 @@
 # compressible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compressible.md)
+
 <p><span class="chinese">一类可压缩流的马赫数极限。</span><span class="english">A class of compressible flow Mach number limit.</span></p>
 
 <p><span class="chinese">假定液体是非粘滞、可压缩的。</span><span class="english">The liquid is assumed to be inviscid and compressible.</span></p>

@@ -1,5 +1,7 @@
 # frequence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frequence.md)
+
 <p><span class="chinese">透辉石矿是高频瓷的一种实用原料。</span><span class="english">Diopside rock is a functional raw material for high frequence porcelain.</span></p>
 
 <p><span class="chinese">对电路的频率补偿和噪声性能进行了一定的分析。</span><span class="english">Analysed the frequence compensation and noise response of the Op Amps extent.</span></p>

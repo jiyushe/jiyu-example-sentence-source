@@ -1,5 +1,7 @@
 # lyre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyre.md)
+
 <p><span class="chinese">或拨响令人心醉神迷的七弦琴。</span><span class="english">Or waked to ecstasy the living lyre.</span></p>
 
 <p><span class="chinese">阿波罗歌唱，缪斯把弹琴。</span><span class="english">Apollo sings, the Muses tune the lyre.</span></p>

@@ -1,5 +1,7 @@
 # ferroconcrete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferroconcrete.md)
+
 <p><span class="chinese">本设计的基础采用预制钢筋混凝土桩基础。</span><span class="english">The foundation of this design is prefabricated ferroconcrete pile foundation.</span></p>
 
 <p><span class="chinese">它的双曲线钢筋混凝土外形成了发电站的典型标志。</span><span class="english">Its hyperbola ferroconcrete appearance became the typical symbol of power station.</span></p>

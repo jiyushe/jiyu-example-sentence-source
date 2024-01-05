@@ -1,5 +1,7 @@
 # 前夕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianxi.md)
+
 <p><span class="chinese">恰好在我们的寒假前夕。</span><span class="english">like right before our winter break.</span></p>
 
 <p><span class="chinese">伊斯兰教希腊文化前夕的埃及。</span><span class="english">Egypt on the eve of Islam Hellenism.</span></p>

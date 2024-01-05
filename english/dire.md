@@ -1,5 +1,7 @@
 # dire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dire.md)
+
 <p><span class="chinese">我们火急需要帮助。</span><span class="english">We are in dire need of help.</span></p>
 
 <p><span class="chinese">这种情况还不可怕。</span><span class="english">The situation is not yet dire.</span></p>

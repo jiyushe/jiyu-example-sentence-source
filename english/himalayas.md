@@ -1,5 +1,7 @@
 # himalayas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/himalayas.md)
+
 <p><span class="chinese">喜玛拉雅山是一座摺曲山。</span><span class="english">The Himalayas is a fold mountain.</span></p>
 
 <p><span class="chinese">烟雾笼罩的低地紧靠着喜马拉雅的南缘。</span><span class="english">Smoke-shrouded lowlands hug the southern margin of the Himalayas.</span></p>

@@ -1,5 +1,7 @@
 # quito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quito.md)
+
 <p><span class="chinese">通古拉瓦位于厄瓜多尔首都基多东南约130公里。</span><span class="english">Tungurahua is about 130 kilometers southeast of the capital Quito.</span></p>
 
 <p><span class="chinese">南美洲国家领导人的国际会议在基多召开。</span><span class="english">The international conference of South American leaders has opened in Quito.</span></p>

@@ -1,5 +1,7 @@
 # 临危
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linwei.md)
+
 <p><span class="chinese">只有懦夫才临危脱逃。</span><span class="english">Only a coward perched to escape.</span></p>
 
 <p><span class="chinese">本着授权的这个精神，我临危受命。</span><span class="english">In the spirit of the gift I take it.</span></p>

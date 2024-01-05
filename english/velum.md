@@ -1,5 +1,7 @@
 # velum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velum.md)
+
 <p><span class="chinese">有时也把它称为菌幕。</span><span class="english">It is sometimes termed the velum.</span></p>
 
 <p><span class="chinese">耀眼的光芒透射着苍白的幕墙。</span><span class="english">Luminosity glows through pale velum walls.</span></p>

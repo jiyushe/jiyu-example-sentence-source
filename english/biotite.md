@@ -1,5 +1,7 @@
 # biotite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotite.md)
+
 <p><span class="chinese">多数古成体原岩是富黑云母的过铝质片麻岩。</span><span class="english">The majority of their protolithes are biotite rich peraluminous gneisses.</span></p>
 
 <p><span class="chinese">晋宁晚期的岩浆活动强烈，黑云二长花岗岩是矿区主要成矿岩体。</span><span class="english">The biotite adamellite is the main metallogenetic rock body in the orefield.</span></p>

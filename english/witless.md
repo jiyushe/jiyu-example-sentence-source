@@ -1,5 +1,7 @@
 # witless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witless.md)
+
 <p><span class="chinese">愚痴的人，你戴发结有何用？</span><span class="english">What is the use of your matted hair, O witless man?</span></p>
 
 <p><span class="chinese">我希望你不反对我欺负那些没脑袋的人。</span><span class="english">I hope you don't object to my badgering the witless.</span></p>

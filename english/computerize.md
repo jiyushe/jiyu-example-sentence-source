@@ -1,5 +1,7 @@
 # computerize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/computerize.md)
+
 <p><span class="chinese">我们希望目前的电脑化系统，我们有手册。</span><span class="english">We want to computerize the current manual system we have.</span></p>
 
 <p><span class="chinese">我们公司已决定用电子计算机控制工资部门。</span><span class="english">Our company has decided to computerize its wages department.</span></p>

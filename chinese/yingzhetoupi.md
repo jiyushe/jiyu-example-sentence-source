@@ -1,5 +1,7 @@
 # 硬着头皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhetoupi.md)
+
 <p><span class="chinese">他硬着头皮回到家里。</span><span class="english">He bite the bullet and back home.</span></p>
 
 <p><span class="chinese">他硬着头皮决定去试试。</span><span class="english">He had come to a desperate decision.</span></p>

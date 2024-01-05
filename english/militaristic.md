@@ -1,5 +1,7 @@
 # militaristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militaristic.md)
+
 <p><span class="chinese">由于他们的军国主义教育，骑士可以发挥巨大的盔甲和使用重武器。</span><span class="english">Thanks to their militaristic education, knights can wield massive armor and use heavy weaponry.</span></p>
 
 <p><span class="chinese">这些事情不能被扭曲或变形，以适应流氓意识形态或军国主义倾向。</span><span class="english">These things must not be twisted or distorted to fit rogue ideologies or militaristic tendencies.</span></p>

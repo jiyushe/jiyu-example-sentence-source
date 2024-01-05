@@ -1,5 +1,7 @@
 # policemen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/policemen.md)
+
 <p><span class="chinese">警察请闭眼。</span><span class="english">The policemen close your eyes.</span></p>
 
 <p><span class="chinese">警察阻止了那次械斗。</span><span class="english">The policemen stopped the fight.</span></p>

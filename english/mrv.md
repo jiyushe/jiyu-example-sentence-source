@@ -1,5 +1,7 @@
 # mrv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mrv.md)
+
 <p><span class="chinese">要是我们国家早些提出这么个MRV的要求呢？</span><span class="english">What if our country had made such a demand for MRV earlier?</span></p>
 
 <p><span class="chinese">而我们最反对的就是这个MRV，这是焦点问题。</span><span class="english">Yet MRV is want we are most opposed to, which is a central problem.</span></p>

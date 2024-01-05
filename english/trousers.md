@@ -1,5 +1,7 @@
 # trousers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trousers.md)
+
 <p><span class="chinese">裤子尺码对她不合适。</span><span class="english">The trousers misfit her.</span></p>
 
 <p><span class="chinese">为什么裤子都不见了呢？</span><span class="english">Why are there no trousers?</span></p>

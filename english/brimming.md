@@ -1,5 +1,7 @@
 # brimming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brimming.md)
+
 <p><span class="chinese">她两眼充满了泪水。</span><span class="english">Her eyes were brimming with tears.</span></p>
 
 <p><span class="chinese">一块块石头中漾着水波</span><span class="english">Upon the brimming water among the stones</span></p>

@@ -1,5 +1,7 @@
 # feline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feline.md)
+
 <p><span class="chinese">阿猫同伴也有帮助。</span><span class="english">A feline companion can also help.</span></p>
 
 <p><span class="chinese">你见过“胡迪尼猫”吗？</span><span class="english">Have you ever seen a feline Houdini?</span></p>

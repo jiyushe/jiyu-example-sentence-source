@@ -1,5 +1,7 @@
 # english
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/english.md)
+
 <p><span class="chinese">我会使用英语。</span><span class="english">Iwill use English.</span></p>
 
 <p><span class="chinese">英语版还是汉语版？</span><span class="english">English or Chinese?</span></p>

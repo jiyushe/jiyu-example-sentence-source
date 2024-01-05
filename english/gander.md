@@ -1,5 +1,7 @@
 # gander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gander.md)
+
 <p><span class="chinese">同样的道理。</span><span class="english">Sauce for the goose is sauce for the gander.</span></p>
 
 <p><span class="chinese">两人都在Gander省级法庭出庭。</span><span class="english">Both men appeared in provincial court in Gander.</span></p>

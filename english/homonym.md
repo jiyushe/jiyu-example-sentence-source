@@ -1,5 +1,7 @@
 # homonym
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homonym.md)
+
 <p><span class="chinese">中文“河蟹”与“和谐”是谐音。</span><span class="english">Chinese "crab" and "harmony" is a homonym.</span></p>
 
 <p><span class="chinese">所以，他起名为若男，意思是“像个男孩”。</span><span class="english">So he called her Ruonan, a homonym for “like a boy”.</span></p>

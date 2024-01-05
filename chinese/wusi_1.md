@@ -1,5 +1,7 @@
 # 钨丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusi_1.md)
+
 <p><span class="chinese">白炽电灯的关键部分是灯泡里的钨丝。</span><span class="english">The light of an electric lamp come from an incandescent filament.</span></p>
 
 <p><span class="chinese">两根钨丝电极是封在玻璃管或石英管的两端。</span><span class="english">A glass or quartz tube has tungsten electrodes sealed in each end.</span></p>

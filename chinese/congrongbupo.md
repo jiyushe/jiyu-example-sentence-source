@@ -1,5 +1,7 @@
 # 从容不迫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congrongbupo.md)
+
 <p><span class="chinese">他保持着镇静并且从容不迫。</span><span class="english">He remained calm and unflustered.</span></p>
 
 <p><span class="chinese">现在我可以从容不迫地拜访我的亲戚。</span><span class="english">Now I can take my time visiting my relatives.</span></p>

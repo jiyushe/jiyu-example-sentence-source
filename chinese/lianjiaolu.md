@@ -1,5 +1,7 @@
 # 炼焦炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjiaolu.md)
+
 <p><span class="chinese">炼焦炉能摆脱烟雾腾腾的形象吗?。</span><span class="english">Are Coke Ovens Shedding Their Smoggy Image?</span></p>
 
 <p><span class="chinese">现在，这座炼焦炉已属于山东省以生产煤炭为主的兖矿集团。</span><span class="english">It now belongs to Yankuang Group, a coking company in Shandong Province.</span></p>

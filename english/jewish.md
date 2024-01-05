@@ -1,5 +1,7 @@
 # jewish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jewish.md)
+
 <p><span class="chinese">我为什么说犹太人？</span><span class="english">Why do I say Jewish?</span></p>
 
 <p><span class="chinese">埃琳娜•卡根是犹太人。</span><span class="english">Elena Kagan is Jewish.</span></p>

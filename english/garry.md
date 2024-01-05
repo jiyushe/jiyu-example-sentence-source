@@ -1,5 +1,7 @@
 # garry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garry.md)
+
 <p><span class="chinese">请把袋子扛到我的房间来。</span><span class="english">Garry the bag up to my room, please.</span></p>
 
 <p><span class="chinese">然后实验压服他加里老板出售这些衣服。</span><span class="english">Garry then tried to persuade his boss to sell these clothes.</span></p>

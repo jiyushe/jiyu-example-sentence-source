@@ -1,5 +1,7 @@
 # 呼之欲出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huzhiyuchu.md)
+
 <p><span class="chinese">你的唇边是呼之欲出的春天。</span><span class="english">Your lips are of be vividly portrayed spring.</span></p>
 
 <p><span class="chinese">现在，JRuby版本的ruby-debug也呼之欲出了。</span><span class="english">Now, a JRuby version of ruby-debug is in the works.</span></p>

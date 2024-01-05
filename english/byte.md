@@ -1,5 +1,7 @@
 # byte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byte.md)
+
 <p><span class="chinese">8比特，即1个字节。</span><span class="english">So 8 bits, aka 1 byte.</span></p>
 
 <p><span class="chinese">这就是我们所说的一个字节。</span><span class="english">So this is what we know as a byte.</span></p>

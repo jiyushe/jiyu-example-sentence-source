@@ -1,5 +1,7 @@
 # pluripotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluripotent.md)
+
 <p><span class="chinese">科学家认为至少有一个细胞具有全能性。</span><span class="english">The scientists concluded that at least one cell was pluripotent.</span></p>
 
 <p><span class="chinese">我感觉这些细胞像人胚胎干细胞一样是多能的。</span><span class="english">I feel these cells are pluripotent like human embryonic stem cells.</span></p>

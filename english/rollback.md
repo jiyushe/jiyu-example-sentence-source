@@ -1,5 +1,7 @@
 # rollback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rollback.md)
+
 <p><span class="chinese">然后我们回滚这个事务。</span><span class="english">Then we rollback this transaction.</span></p>
 
 <p><span class="chinese">出现错误时，它们将回滚所执行的事务。</span><span class="english">Upon failure, they rollback the transaction in execution.</span></p>

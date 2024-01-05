@@ -1,5 +1,7 @@
 # 遮障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhezhang.md)
+
 <p><span class="chinese">伪装遮障以其伪装性能好、适应能力强、作业简单、携带方便而在现代战争中被广泛采用。</span><span class="english">Camouflage screen is widely used because of its favorable performance, better adaptability, briefness and facility.</span></p>
 
 <p><span class="chinese">研究方法和结论可用于散射吸收型防雷达伪装遮障的设计。</span><span class="english">These research methods and results can be used to design the scattering and absorbing type anti-radar camouflage screen.</span></p>

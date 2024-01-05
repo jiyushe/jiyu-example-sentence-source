@@ -1,5 +1,7 @@
 # 失衡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiheng.md)
+
 <p><span class="chinese">我们需要修正这一失衡。</span><span class="english">We need to redress that imbalance.</span></p>
 
 <p><span class="chinese">因此是的，我注意到了失衡问题。</span><span class="english">So yes, I was mindful of the imbalances.</span></p>

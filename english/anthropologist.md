@@ -1,5 +1,7 @@
 # anthropologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropologist.md)
+
 <p><span class="chinese">他的这段道白激起了我的研究兴趣。</span><span class="english">His monologue stirred my inner anthropologist.</span></p>
 
 <p><span class="chinese">那是人类学家的研究领域</span><span class="english">That's one for an anthropologist to figure out.</span></p>

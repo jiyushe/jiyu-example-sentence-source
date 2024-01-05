@@ -1,5 +1,7 @@
 # discomfiture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discomfiture.md)
+
 <p><span class="chinese">杨秀一见大哥变得如此狼狈。</span><span class="english">YangXiu see eldest brother became so discomfiture.</span></p>
 
 <p><span class="chinese">何以他总是在狼狈不堪时想起那个人？</span><span class="english">Why did he always think of HIM when he was in discomfiture?</span></p>

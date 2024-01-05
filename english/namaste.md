@@ -1,5 +1,7 @@
 # namaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/namaste.md)
+
 <p><span class="chinese">合十礼，爱大家！</span><span class="english">Namaste. Love you all.</span></p>
 
 <p><span class="chinese">Namaste意味着什么呢？</span><span class="english">What does Namaste mean?</span></p>

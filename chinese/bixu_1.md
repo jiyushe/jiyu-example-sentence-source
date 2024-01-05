@@ -1,5 +1,7 @@
 # 必需
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixu_1.md)
+
 <p><span class="chinese">我们必需在六点曩昔回家。</span><span class="english">We must be home by six.</span></p>
 
 <p><span class="chinese">但行动是必需的。</span><span class="english">But action is necessary.</span></p>

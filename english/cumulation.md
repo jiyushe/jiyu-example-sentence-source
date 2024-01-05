@@ -1,5 +1,7 @@
 # cumulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumulation.md)
+
 <p><span class="chinese">批量点钞和正常点钞累计总和。</span><span class="english">Bath counting and counting cumulation sum.</span></p>
 
 <p><span class="chinese">也是由「现在」累积而成。</span><span class="english">The future is the cumulation of many "nows".</span></p>

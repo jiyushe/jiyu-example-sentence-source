@@ -1,5 +1,7 @@
 # 不同凡响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/butongfanxiang.md)
+
 <p><span class="chinese">葛斯汉的成功是不同凡响的。</span><span class="english">Grisham's success is phenomenal.</span></p>
 
 <p><span class="chinese">他是一个不同凡响的人物。</span><span class="english">He was a person out of the ordinary.</span></p>

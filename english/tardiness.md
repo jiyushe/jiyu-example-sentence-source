@@ -1,5 +1,7 @@
 # tardiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tardiness.md)
+
 <p><span class="chinese">我要举发你的迟到。</span><span class="english">I'm going to report your tardiness.</span></p>
 
 <p><span class="chinese">如果你父亲在场，不会容忍你迟到。</span><span class="english">If your father was here, tardiness would not be tolerated.</span></p>

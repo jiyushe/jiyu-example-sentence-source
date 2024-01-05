@@ -1,5 +1,7 @@
 # inadequately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadequately.md)
+
 <p><span class="chinese">其中7人患有未经充分治疗的耐药结核病。</span><span class="english">Seven of them had drug-resistant TB that had been inadequately treated.</span></p>
 
 <p><span class="chinese">脊灰病毒的一个习性就是寻找儿童计划免疫不够充分的局部地区。</span><span class="english">Poliovirus has a habit of finding pockets of inadequately vaccinated children.</span></p>

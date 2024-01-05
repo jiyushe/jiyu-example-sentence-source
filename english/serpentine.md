@@ -1,5 +1,7 @@
 # serpentine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serpentine.md)
+
 <p><span class="chinese">的蛇纹石湖岸是128公里长。</span><span class="english">The serpentine lakeshore is 128km long.</span></p>
 
 <p><span class="chinese">蜿蜒河的一段划为游泳区。</span><span class="english">One part of the Serpentine is kept for swimmers.</span></p>

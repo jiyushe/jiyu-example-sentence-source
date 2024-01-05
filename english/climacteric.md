@@ -1,5 +1,7 @@
 # climacteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climacteric.md)
+
 <p><span class="chinese">女性更年期都有哪些症状？</span><span class="english">Which symptom does female climacteric all have?</span></p>
 
 <p><span class="chinese">低压处理未看到EFE活性“高峰”。</span><span class="english">Activity of EFE under no pressure has no climacteric "Peak".</span></p>

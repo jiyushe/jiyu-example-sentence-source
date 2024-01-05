@@ -1,5 +1,7 @@
 # showroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showroom.md)
+
 <p><span class="chinese">这里是我们的展室。</span><span class="english">Here is our showroom.</span></p>
 
 <p><span class="chinese">你们的展示间离此地远吗？</span><span class="english">Is your showroom far from here?</span></p>

@@ -1,5 +1,7 @@
 # tiredness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiredness.md)
+
 <p><span class="chinese">顿时，我的倦意消失了。</span><span class="english">Suddenly my tiredness vanished.</span></p>
 
 <p><span class="chinese">他因疲倦而低垂着双肩。</span><span class="english">His shoulders drooped with tiredness.</span></p>

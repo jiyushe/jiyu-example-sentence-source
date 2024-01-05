@@ -1,5 +1,7 @@
 # gustav
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gustav.md)
+
 <p><span class="chinese">新奥尔良州小心翼翼地关注着古斯达夫。</span><span class="english">A wary New Orlean's keeping a close eye on Gustav.</span></p>
 
 <p><span class="chinese">按照精神病学家容格的理论确立的基本人格类型。</span><span class="english">Basic personality types, according to the theories of Carl Gustav Jung.</span></p>

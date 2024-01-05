@@ -1,5 +1,7 @@
 # 熏陶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuntao.md)
+
 <p><span class="chinese">我是在**教的熏陶下长大的。</span><span class="english">I was brought up in the Christian church.</span></p>
 
 <p><span class="chinese">这完全是文化熏陶的结果</span><span class="english">You've been totally trained by your culture.</span></p>

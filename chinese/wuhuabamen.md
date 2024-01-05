@@ -1,5 +1,7 @@
 # 五花八门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhuabamen.md)
+
 <p><span class="chinese">答案五花八门</span><span class="english">Okay, interesting mix.</span></p>
 
 <p><span class="chinese">他们无力承担这些五花八门的开支。</span><span class="english">They can ill afford the multifarious expenses.</span></p>

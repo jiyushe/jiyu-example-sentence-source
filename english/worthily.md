@@ -1,5 +1,7 @@
 # worthily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worthily.md)
+
 <p><span class="chinese">我的“就恰当地被予于了轻视。</span><span class="english">And MINE were worthily despised.</span></p>
 
 <p><span class="chinese">他们不愧是当今“最可爱的人”。</span><span class="english">They are worthily now the most lovable person.</span></p>

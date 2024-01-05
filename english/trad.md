@@ -1,5 +1,7 @@
 # trad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trad.md)
+
 <p><span class="chinese">沙特想象设备传统。公司。</span><span class="english">Saudi Imaging Equipment Trad . Corp.</span></p>
 
 <p><span class="chinese">我们与英国的贸易协定将在今年年底终止。</span><span class="english">Our trad agreement with Britain will expire at the end of this year.</span></p>

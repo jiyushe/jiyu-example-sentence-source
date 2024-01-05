@@ -1,5 +1,7 @@
 # glimpse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glimpse.md)
+
 <p><span class="chinese">我刚看了一眼真相却又不见了。</span><span class="english">I am happy, get a glimpse.</span></p>
 
 <p><span class="chinese">他瞧了一眼那幅面。</span><span class="english">He took a glimpse at the painting.</span></p>

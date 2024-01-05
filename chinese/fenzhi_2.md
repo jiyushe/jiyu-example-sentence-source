@@ -1,5 +1,7 @@
 # 分治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzhi_2.md)
+
 <p><span class="chinese">1664年康熙皇帝实行湖广分治后，湖北和湖南成为单独的省份。</span><span class="english">Until the reign of Kangxi, Hubei and Hunan formed one province in 1664.</span></p>
 
 <p><span class="chinese">如果可以这么做，那么分治算法是个好的选择,接下的问题就是我需要把问题分成多少份？</span><span class="english">And then the things I have to ask is how much of a division do I want to do?</span></p>

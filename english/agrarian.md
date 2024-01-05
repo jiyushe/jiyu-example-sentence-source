@@ -1,5 +1,7 @@
 # agrarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agrarian.md)
+
 <p><span class="chinese">在我们是农业国家的时候，所有的车子都是卡车。</span><span class="english">When we were an agrarian nation, all cars were trucks.</span></p>
 
 <p><span class="chinese">当然，从信息时代退回到农耕时代是不可能的。</span><span class="english">Of course, there is no going back to the agrarian past.</span></p>

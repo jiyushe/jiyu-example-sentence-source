@@ -1,5 +1,7 @@
 # treeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treeless.md)
+
 <p><span class="chinese">如今只有秋风吹着它无树的陵墓。</span><span class="english">Now fall wind blows its treeless tombs.</span></p>
 
 <p><span class="chinese">沙漠里光秃秃的，连避一避的地方也没有。</span><span class="english">The desert is treeless and gives no cover.</span></p>

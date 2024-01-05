@@ -1,5 +1,7 @@
 # internment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internment.md)
+
 <p><span class="chinese">逗留时期的花费也在增加。</span><span class="english">The cost of his internment is also mounting.</span></p>
 
 <p><span class="chinese">两年前，国会为拘留一事正式道歉。</span><span class="english">Two years ago, Congress formally apologized for the internment.</span></p>

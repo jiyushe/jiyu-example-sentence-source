@@ -1,5 +1,7 @@
 # freestyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freestyle.md)
+
 <p><span class="chinese">对于我来道花式足球是什么？</span><span class="english">What is football freestyle to me?</span></p>
 
 <p><span class="chinese">不遵循己经制定的规矩，他们更喜欢自由的生活方式.</span><span class="english">They prefer to freestyle life instead.</span></p>

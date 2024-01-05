@@ -1,5 +1,7 @@
 # absurdity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absurdity.md)
+
 <p><span class="chinese">人神其实荒谬可笑。</span><span class="english">The Man-God is an absurdity.</span></p>
 
 <p><span class="chinese">性爱归根结底是件荒唐事。</span><span class="english">SEX is the ultimate absurdity.</span></p>

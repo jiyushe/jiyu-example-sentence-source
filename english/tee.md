@@ -1,5 +1,7 @@
 # tee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tee.md)
+
 <p><span class="chinese">哇噢！我的上衣！嘻嘻！</span><span class="english">Oops! My top! Tee hee!</span></p>
 
 <p><span class="chinese">他的角色被演得出神入化。</span><span class="english">He acted his part to a tee.</span></p>

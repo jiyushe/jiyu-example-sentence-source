@@ -1,5 +1,7 @@
 # penny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penny.md)
+
 <p><span class="chinese">一分钱没花。</span><span class="english">Not a penny.</span></p>
 
 <p><span class="chinese">拿一个银钱来给我看。</span><span class="english">Shew me a penny.</span></p>

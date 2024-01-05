@@ -1,5 +1,7 @@
 # ahasuerus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahasuerus.md)
+
 <p><span class="chinese">同时瓦市提皇后，在薛西斯王的后宫，也摆设盛宴，款待妇女。</span><span class="english">And Vashti the queen gave a feast for the women in the house of King Ahasuerus.</span></p>
 
 <p><span class="chinese">亚哈随鲁王使旱地，和海岛的人民都进贡。</span><span class="english">And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.</span></p>

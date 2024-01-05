@@ -1,5 +1,7 @@
 # polaron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polaron.md)
+
 <p><span class="chinese">研究了抛物阱中极化子效应对激子的影响。</span><span class="english">The polaron effects on excitons in a parabolic quantum well are studied.</span></p>
 
 <p><span class="chinese">研究多原子晶体中强耦合表面极化子的性质。</span><span class="english">The properties of strong coupling surface polaron in a polyatomic crystals was studied.</span></p>

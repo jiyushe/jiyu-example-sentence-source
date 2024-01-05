@@ -1,5 +1,7 @@
 # 甩卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaimai.md)
+
 <p><span class="chinese">每年，我家都要有一次弃物甩卖。</span><span class="english">Every year, our family holds a rummage sale.</span></p>
 
 <p><span class="chinese">我们的周末车库甩卖处理大部分其他物品。</span><span class="english">Our weekend-long garage sale took care of most everything else.</span></p>

@@ -1,5 +1,7 @@
 # 千瓦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianwa.md)
+
 <p><span class="chinese">用40千瓦这个尺度来划分。</span><span class="english">With 40 kw this scale.</span></p>
 
 <p><span class="chinese">它的最先100千瓦电池卖给了谷歌。</span><span class="english">Its first 100-kilowatt unit went to Google.</span></p>

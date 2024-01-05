@@ -1,5 +1,7 @@
 # haggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haggle.md)
+
 <p><span class="chinese">你为什么折磨你的美貌？</span><span class="english">Why do you haggle your beauty?</span></p>
 
 <p><span class="chinese">不要为了几元钱争价了。</span><span class="english">Let's not haggle over a few dollars.</span></p>

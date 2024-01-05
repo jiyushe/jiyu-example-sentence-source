@@ -1,5 +1,7 @@
 # stereographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereographic.md)
+
 <p><span class="chinese">赤平极射投影还要有其他的作图方法加以补充。</span><span class="english">The stereographic projection must be supplemented by other constructions.</span></p>
 
 <p><span class="chinese">本文介绍一种绘制极射赤面投影的程序。</span><span class="english">The program for plotting of stereographic projection is introduced in this paper.</span></p>

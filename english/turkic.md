@@ -1,5 +1,7 @@
 # turkic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkic.md)
+
 <p><span class="chinese">次日，月氏入侵突厥。</span><span class="english">The next day, Yuezhi invasion of turkic.</span></p>
 
 <p><span class="chinese">他们是俄罗斯人口最多的突厥语民族。</span><span class="english">They are Russia's most populous Turkic peoples.</span></p>

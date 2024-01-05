@@ -1,5 +1,7 @@
 # maulana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maulana.md)
+
 <p><span class="chinese">斯瓦特的塔利班头目之一法兹鲁拉仍然在逃。</span><span class="english">The top leader of the militants in Swat, Maulana Fazlullah, is still at large.</span></p>
 
 <p><span class="chinese">对此，巴政府强烈谴责那些亲塔利班精神领袖法兹鲁拉的武装分子。</span><span class="english">Pakistani military blamed the violence on followers of pro-Taliban cleric Maulana Fazlullah.</span></p>

@@ -1,5 +1,7 @@
 # willing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willing.md)
+
 <p><span class="chinese">我不介意。</span><span class="english">Oh,I'm willing to wait.</span></p>
 
 <p><span class="chinese">你们竟自不肯。</span><span class="english">And you were not willing.</span></p>

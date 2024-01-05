@@ -1,5 +1,7 @@
 # whodunit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whodunit.md)
+
 <p><span class="chinese">我爱有趣的悬疑小说。</span><span class="english">I love whodunit which is interesting.</span></p>
 
 <p><span class="chinese">侦探小说和其他的记忆问题</span><span class="english">Whodunit and Other Questions of Memory</span></p>

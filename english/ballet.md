@@ -1,5 +1,7 @@
 # ballet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballet.md)
+
 <p><span class="chinese">芭蕾舞搭档。</span><span class="english">Your ballet partner.</span></p>
 
 <p><span class="chinese">什么是芭蕾舞巴利？。</span><span class="english">What is a Ballet Barre?</span></p>

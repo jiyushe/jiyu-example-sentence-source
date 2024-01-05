@@ -1,5 +1,7 @@
 # nursing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nursing.md)
+
 <p><span class="chinese">我是一个哺乳期的母亲。</span><span class="english">I was a nursing mother.</span></p>
 
 <p><span class="chinese">我能看看这个护理床吗？</span><span class="english">Can I see this nursing bed?</span></p>

@@ -1,5 +1,7 @@
 # 尘世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenshi.md)
+
 <p><span class="chinese">尘世之友谊，莫过于寒窗。——字严。</span><span class="english">The world of friendship, is cold.</span></p>
 
 <p><span class="chinese">尘世之友谊，莫过于寒窗。</span><span class="english">Thee world of friendship, is cold.</span></p>

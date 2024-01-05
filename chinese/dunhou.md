@@ -1,5 +1,7 @@
 # 敦厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dunhou.md)
+
 <p><span class="chinese">它是那样高昂，那样敦厚，那样葱浓。</span><span class="english">It is so high, so honest, so thick onion.</span></p>
 
 <p><span class="chinese">敦厚的大象开始留意到他。</span><span class="english">The good-natured elephant began to notice him.</span></p>

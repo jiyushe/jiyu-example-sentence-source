@@ -1,5 +1,7 @@
 # divining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divining.md)
+
 <p><span class="chinese">他们却只用猜度的眼睛来观看。</span><span class="english">And for they look'd but with divining eyes.</span></p>
 
 <p><span class="chinese">但古人只能用理想的眼睛测看。</span><span class="english">And, for they looked but with divining eyes.</span></p>

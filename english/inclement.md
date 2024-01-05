@@ -1,5 +1,7 @@
 # inclement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inclement.md)
+
 <p><span class="chinese">由于恶劣的天气，我们差点就没去成。</span><span class="english">We almost didn't go because of the inclement weather.</span></p>
 
 <p><span class="chinese">美术用品和书籍，帮助在恶劣天气情况下。</span><span class="english">Art supplies and books help in case of inclement weather.</span></p>

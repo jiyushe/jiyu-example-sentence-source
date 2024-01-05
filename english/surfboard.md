@@ -1,5 +1,7 @@
 # surfboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surfboard.md)
+
 <p><span class="chinese">我们能借一个冲浪板吗？</span><span class="english">Can we borrow a surfboard?</span></p>
 
 <p><span class="chinese">谁要免费的冲浪板？</span><span class="english">Who wants a free surfboard?</span></p>

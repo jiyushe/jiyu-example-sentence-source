@@ -1,5 +1,7 @@
 # centrifugal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrifugal.md)
+
 <p><span class="chinese">一个小型的离心式鼓风机。</span><span class="english">A small centrifugal blower.</span></p>
 
 <p><span class="chinese">用于大型低压离心式冷水机组中。</span><span class="english">Used in large, low pressure centrifugal chillers.</span></p>

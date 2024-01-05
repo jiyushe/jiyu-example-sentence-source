@@ -1,5 +1,7 @@
 # 开花结实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihuajieshi.md)
+
 <p><span class="chinese">短枝是银杏开花结实的部位。</span><span class="english">Ginkgo biloba is a strong spur the flowering parts.</span></p>
 
 <p><span class="chinese">确定了各树种开花结实的关键物候阶段和各阶段的转移比率。</span><span class="english">Their transferring ratios and key phenophases during blooming and fruiting were confirmed.</span></p>

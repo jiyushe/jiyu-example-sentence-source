@@ -1,5 +1,7 @@
 # 散乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanluan.md)
+
 <p><span class="chinese">糊涂虫。散乱的，老是迟到。</span><span class="english">A slob . Messy. Always late.</span></p>
 
 <p><span class="chinese">清理散乱物件和脏的物品。</span><span class="english">Clean up the clutter and dirtiness.</span></p>

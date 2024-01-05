@@ -1,5 +1,7 @@
 # 坡度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/podu.md)
+
 <p><span class="chinese">最大爬坡度。</span><span class="english">Maximum climbable gradient.</span></p>
 
 <p><span class="chinese">这条路以陡峭的坡度向山上延伸。</span><span class="english">The road stretches uphill at a steep slope.</span></p>

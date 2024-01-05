@@ -1,5 +1,7 @@
 # 将近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangjin.md)
+
 <p><span class="chinese">买这个将近要花六美元！</span><span class="english">Almost six dollars for this!</span></p>
 
 <p><span class="chinese">将近14万3千人死亡。</span><span class="english">Nearly 143, 000 people died.</span></p>

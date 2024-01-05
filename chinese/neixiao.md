@@ -1,5 +1,7 @@
 # 内销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neixiao.md)
+
 <p><span class="chinese">主要产品是内销还是外销呢？</span><span class="english">The major products are sold at home or abroad?</span></p>
 
 <p><span class="chinese">我们上述的报价产品只在欧盟内销售，像西班牙，德国。</span><span class="english">Our a. m. offered product is circulated within E.</span></p>

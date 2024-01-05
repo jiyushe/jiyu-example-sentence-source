@@ -1,5 +1,7 @@
 # choir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choir.md)
+
 <p><span class="chinese">唱诗班需要高音部，但是高音部却变成了次中音。</span><span class="english">The choir required trebles.</span></p>
 
 <p><span class="chinese">那个幽灵唱诗班就是最好的。</span><span class="english">The ghost choir is the best.</span></p>

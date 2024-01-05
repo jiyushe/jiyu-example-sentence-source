@@ -1,5 +1,7 @@
 # usaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usaid.md)
+
 <p><span class="chinese">而美国国际开发署的现任领导人就是盖茨的前雇员拉吉夫沙阿。</span><span class="english">USAID is now headed up by former Gates employee Rajiv Shah.</span></p>
 
 <p><span class="chinese">美国国际开发署支持危机管理中心向非洲派出快速反应行动队。</span><span class="english">USAID has supported CMC rapid response deployments in Africa.</span></p>

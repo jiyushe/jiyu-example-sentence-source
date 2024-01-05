@@ -1,5 +1,7 @@
 # oversize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversize.md)
+
 <p><span class="chinese">大型车靠右。</span><span class="english">Oversize Vehicles keep Right.</span></p>
 
 <p><span class="chinese">这样就再没有必要制造特别大的冷端横截面了。</span><span class="english">Oversize cold ends are therefore no longer necessary.</span></p>

@@ -1,5 +1,7 @@
 # 年久失修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianjiushixiu.md)
+
 <p><span class="chinese">由于年久失修那个古庙的屋顶塌了。</span><span class="english">The roof of that ancient temple caved in because of bad maintenance.</span></p>
 
 <p><span class="chinese">现代的医学教育就像是一艘年久失修的船体，任何时刻都有可能沉没。</span><span class="english">At present medical education is a patched-up old hull that could sink at any time.</span></p>

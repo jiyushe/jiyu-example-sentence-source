@@ -1,5 +1,7 @@
 # polymerase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymerase.md)
+
 <p><span class="chinese">原核生物中DNA聚合酶I的一种功能。</span><span class="english">Function of DNA polymerase I in prokaryotes.</span></p>
 
 <p><span class="chinese">端粒酶是一种RNA依赖的DNA聚合酶。</span><span class="english">Telomerase is an RNA-dependent DNA polymerase.</span></p>

@@ -1,5 +1,7 @@
 # 临时工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linshigong.md)
+
 <p><span class="chinese">你知道我只是临时工。</span><span class="english">W-You know, I'm a temp.</span></p>
 
 <p><span class="chinese">你们需要假日临时工吗?。</span><span class="english">Do you need any holiday casuals?</span></p>

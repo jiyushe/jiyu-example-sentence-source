@@ -1,5 +1,7 @@
 # avert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avert.md)
+
 <p><span class="chinese">他设法避嫌。</span><span class="english">He managed to avert suspicion.</span></p>
 
 <p><span class="chinese">他道歉以避免麻烦。</span><span class="english">He apologized to avert trouble.</span></p>

@@ -1,5 +1,7 @@
 # 便宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianyi.md)
+
 <p><span class="chinese">那还是便宜的呢！</span><span class="english">And that was cheap!</span></p>
 
 <p><span class="chinese">食物又便宜又热乎。</span><span class="english">It's cheap and hot.</span></p>

@@ -1,5 +1,7 @@
 # inoculum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoculum.md)
+
 <p><span class="chinese">因此，新鲜的成熟厚垣孢子是最为理想的接种体。</span><span class="english">Fresh mature chlamydospores will be the most ideal inoculum for inoculation.</span></p>
 
 <p><span class="chinese">本发明公开了一种微生物菌剂及其制备方法。</span><span class="english">The invention discloses a microbial inoculum and a preparation method thereof.</span></p>

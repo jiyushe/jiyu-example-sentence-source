@@ -1,5 +1,7 @@
 # 游说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshui_2.md)
+
 <p><span class="chinese">他穿越美国北部进行飞行竞选游说。</span><span class="english">He tarmaced across the North.</span></p>
 
 <p><span class="chinese">他为了选票向这选区游说拜票。</span><span class="english">He canvassed the district for votes.</span></p>

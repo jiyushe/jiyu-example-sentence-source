@@ -1,5 +1,7 @@
 # angina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angina.md)
+
 <p><span class="chinese">各种内脏绞痛的针灸治疗。</span><span class="english">The acupuncture treatment of viscera angina.</span></p>
 
 <p><span class="chinese">心绞痛，变异性心绞痛，高血压。</span><span class="english">Angina pectoris, Prinzmetal's angina, hypertension.</span></p>

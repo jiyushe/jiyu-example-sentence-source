@@ -1,5 +1,7 @@
 # frankfurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankfurt.md)
+
 <p><span class="chinese">他在法兰福上了飞机。</span><span class="english">He gong on the plane at frankfurt.</span></p>
 
 <p><span class="chinese">他在法兰福上了飞机。</span><span class="english">He went on the plane at Frankfurt.</span></p>

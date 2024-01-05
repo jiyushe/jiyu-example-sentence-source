@@ -1,5 +1,7 @@
 # 天知道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhidao.md)
+
 <p><span class="chinese">只有天知道。</span><span class="english">God only knows.</span></p>
 
 <p><span class="chinese">只有天知道。</span><span class="english">Only God knows.</span></p>

@@ -1,5 +1,7 @@
 # 饥不择食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibuzeshi.md)
+
 <p><span class="chinese">饥不择食。英语格言大全。</span><span class="english">Beggars must be no choosers.</span></p>
 
 <p><span class="chinese">饥不择食。</span><span class="english">A hungry person is not choosy about his food.</span></p>

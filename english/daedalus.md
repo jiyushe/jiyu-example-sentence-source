@@ -1,5 +1,7 @@
 # daedalus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daedalus.md)
+
 <p><span class="chinese">从那以后，代达罗斯不再无所事事了。</span><span class="english">After that, Daedalus was idle no longer.</span></p>
 
 <p><span class="chinese">最原始的“代达罗斯”行星探测器设计有两个阶段。</span><span class="english">The original "Daedalus" starprobe design had two stages.</span></p>

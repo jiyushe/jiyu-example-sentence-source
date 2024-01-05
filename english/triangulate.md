@@ -1,5 +1,7 @@
 # triangulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triangulate.md)
+
 <p><span class="chinese">在Triangulate对话框中，选想要的断层。</span><span class="english">Select the desired fault in the Triangulate dialog box.</span></p>
 
 <p><span class="chinese">多边形三角剖分是计算几何的一个几何基元。</span><span class="english">Triangulate partitioning polygon is geometric primitives of computational geometric.</span></p>

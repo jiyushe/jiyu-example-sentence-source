@@ -1,5 +1,7 @@
 # pronounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronounce.md)
+
 <p><span class="chinese">我宣布你们结为夫妇。</span><span class="english">I pronounce you man and wife.</span></p>
 
 <p><span class="chinese">你的名儿怎么读?。</span><span class="english">how do i pronounce your name?</span></p>

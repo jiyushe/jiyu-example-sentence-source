@@ -1,5 +1,7 @@
 # 侃侃而谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kankanertan.md)
+
 <p><span class="chinese">“我很担心会不会有阳光，”村上隆操着一口地道的日式英语侃侃而谈。</span><span class="english">"I was thinking about sunshine, " Mr. Murakami said in his broken English.</span></p>
 
 <p><span class="chinese">非常感谢你给我这个机会让我在这可以侃侃而谈，分享我这微不足道的经验。</span><span class="english">Maki thanks for the opportunity for letting me ramble on and share my two cents.</span></p>

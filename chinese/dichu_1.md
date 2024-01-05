@@ -1,5 +1,7 @@
 # 抵触
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dichu_1.md)
+
 <p><span class="chinese">这和我们的方针相抵触。</span><span class="english">It is against our policy.</span></p>
 
 <p><span class="chinese">那两门测验的钟点互有抵触。</span><span class="english">The hours of those two exams conflict.</span></p>

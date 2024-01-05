@@ -1,5 +1,7 @@
 # cent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cent.md)
+
 <p><span class="chinese">他竟一毛不拔!</span><span class="english">But not a cent would he part with!</span></p>
 
 <p><span class="chinese">我不会给她一毛钱的。</span><span class="english">I will never give one cent to her.</span></p>

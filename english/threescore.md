@@ -1,5 +1,7 @@
 # threescore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threescore.md)
+
 <p><span class="chinese">从我的七十岁可享之年。</span><span class="english">Now of my threescore years and ten.</span></p>
 
 <p><span class="chinese">当时我们在船上的，共有二百七十六人。</span><span class="english">And we were in all in the ship, two hundred threescore and sixteen souls.</span></p>

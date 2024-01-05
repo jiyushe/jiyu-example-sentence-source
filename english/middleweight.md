@@ -1,5 +1,7 @@
 # middleweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middleweight.md)
+
 <p><span class="chinese">我认为升到超次中量级的他有些进步。</span><span class="english">I thought he improved at junior middleweight.</span></p>
 
 <p><span class="chinese">中量级自行车坦克小于气球自行车轮胎。</span><span class="english">Middleweight bicycle tanks are smaller than balloon tire bikes.</span></p>

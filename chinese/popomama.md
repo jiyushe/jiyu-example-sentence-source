@@ -1,5 +1,7 @@
 # 婆婆妈妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/popomama.md)
+
 <p><span class="chinese">你也太婆婆妈妈的了。</span><span class="english">You're a regular old woman.</span></p>
 
 <p><span class="chinese">对不起亲爱的，我太婆婆妈妈的了。</span><span class="english">Sorry I was such a mother hen, darling.</span></p>

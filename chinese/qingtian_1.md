@@ -1,5 +1,7 @@
 # 晴天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtian_1.md)
+
 <p><span class="chinese">你是喜欢下雪天还是喜欢晴天呢？</span><span class="english">Snowy or sunny?</span></p>
 
 <p><span class="chinese">晴天的时候打开窗户。</span><span class="english">Open windows on nice days.</span></p>

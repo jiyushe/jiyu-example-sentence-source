@@ -1,5 +1,7 @@
 # pinkerton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinkerton.md)
+
 <p><span class="chinese">平克顿和领事敲门进来。</span><span class="english">Pinkerton and the Consul knock at the door and enter.</span></p>
 
 <p><span class="chinese">1889年被Pinkerton侦探事务所抓获，并在认罪后被处以绞刑。</span><span class="english">Caught by Pinkerton detectives, convicted and hanged in 1889.</span></p>

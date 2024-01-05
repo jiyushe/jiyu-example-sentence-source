@@ -1,5 +1,7 @@
 # 席地而坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xidierzuo.md)
+
 <p><span class="chinese">日本人席地而坐。</span><span class="english">The Japanese sit on mats.</span></p>
 
 <p><span class="chinese">我本应该席地而坐，但我不会这样做。</span><span class="english">I should sit on the floor, but I won't.</span></p>

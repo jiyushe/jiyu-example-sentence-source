@@ -1,5 +1,7 @@
 # alienation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alienation.md)
+
 <p><span class="chinese">疏离感了。</span><span class="english">Sense of alienation.</span></p>
 
 <p><span class="chinese">马克思把这种扭曲叫作“异化”。</span><span class="english">Marx called this perversion "alienation."</span></p>

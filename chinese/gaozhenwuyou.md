@@ -1,5 +1,7 @@
 # 高枕无忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaozhenwuyou.md)
+
 <p><span class="chinese">我这下子可以高枕无忧了。</span><span class="english">And I'll get to sleep at night.</span></p>
 
 <p><span class="chinese">问心无愧，高枕无忧。</span><span class="english">A clear conscience is a soft pillow.</span></p>

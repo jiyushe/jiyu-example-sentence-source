@@ -1,5 +1,7 @@
 # synoptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synoptic.md)
+
 <p><span class="chinese">上一周你们都知道了对观福音书问题。</span><span class="english">you learned about the synoptic problem last week.</span></p>
 
 <p><span class="chinese">对耶稣的抓捕同样也和符类福音中有所不同。</span><span class="english">The arrest is also very different in the synoptic Gospels.</span></p>

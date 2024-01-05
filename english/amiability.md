@@ -1,5 +1,7 @@
 # amiability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amiability.md)
+
 <p><span class="chinese">我觉得他和蔼可亲，富有魅力。</span><span class="english">I found his amiability charming.</span></p>
 
 <p><span class="chinese">“你的孩子真是可爱极了。”等等。</span><span class="english">Your kid was really an amiability pole.</span></p>

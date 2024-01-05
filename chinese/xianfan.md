@@ -1,5 +1,7 @@
 # 掀翻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianfan.md)
+
 <p><span class="chinese">它将掀翻大树！</span><span class="english">It uproots trees!</span></p>
 
 <p><span class="chinese">大风几乎把汽车掀翻了。</span><span class="english">The wind nearly tipped over the car.</span></p>

@@ -1,5 +1,7 @@
 # alluring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alluring.md)
+
 <p><span class="chinese">这些在如今经济衰退时听起来都相当诱人。</span><span class="english">That all sounds especially alluring in a recession.</span></p>
 
 <p><span class="chinese">关于“废墟”，什么会使你你觉得很有诱惑力？</span><span class="english">What is it about “ruins” that you find so alluring?</span></p>

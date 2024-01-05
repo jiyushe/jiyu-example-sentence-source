@@ -1,5 +1,7 @@
 # hearthstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearthstone.md)
+
 <p><span class="chinese">我应该把我的炉石定在哪里？</span><span class="english">Where should I set my Hearthstone ?</span></p>
 
 <p><span class="chinese">炉石传说最好的职业是？</span><span class="english">What is the best class in Hearthstone?</span></p>

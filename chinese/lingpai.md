@@ -1,5 +1,7 @@
 # 令牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingpai.md)
+
 <p><span class="chinese">应该如何对令牌进行传播？</span><span class="english">How should the token be propagated?</span></p>
 
 <p><span class="chinese">该令牌仅仅断言用户的特权。</span><span class="english">The tokens simply assert user privileges.</span></p>

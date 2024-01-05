@@ -1,5 +1,7 @@
 # electrophysiological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrophysiological.md)
+
 <p><span class="chinese">探讨该细胞的基本电生理特性。</span><span class="english">To study electrophysiological properties of Deiters′ cells.</span></p>
 
 <p><span class="chinese">决奈达隆具有多通道阻滞的电生理特性。</span><span class="english">It is a multichannel blocker with electrophysiological properties.</span></p>

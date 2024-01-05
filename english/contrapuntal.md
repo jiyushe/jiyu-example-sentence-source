@@ -1,5 +1,7 @@
 # contrapuntal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrapuntal.md)
+
 <p><span class="chinese">它们在演奏一条对位的旋律线</span><span class="english">They are playing a contrapuntal line.</span></p>
 
 <p><span class="chinese">那条对位旋律线是巴松管演奏的</span><span class="english">It's a bassoon playing the contrapuntal line.</span></p>

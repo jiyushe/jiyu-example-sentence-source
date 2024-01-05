@@ -1,5 +1,7 @@
 # garner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garner.md)
+
 <p><span class="chinese">而中国甚至可能获得更多的赞誉。</span><span class="english">China may even garner more praise.</span></p>
 
 <p><span class="chinese">蓝钻众所周知价格很高。</span><span class="english">Blue diamonds have been known to garner high prices.</span></p>

@@ -1,5 +1,7 @@
 # 伉俪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangli_1.md)
+
 <p><span class="chinese">认识一年之后，我们喜结伉俪。</span><span class="english">A year after we met, we married.</span></p>
 
 <p><span class="chinese">王室伉俪身穿艳服出现。</span><span class="english">The royal couple appeared in splendid array.</span></p>

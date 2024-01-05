@@ -1,5 +1,7 @@
 # assortment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assortment.md)
+
 <p><span class="chinese">这种货物我们有很多花色品种可供选择。</span><span class="english">We have a rich assortment of such goods.</span></p>
 
 <p><span class="chinese">本公司货色齐全，花色多样，任凭挑选。</span><span class="english">We have a good assortment of goods to choose from.</span></p>

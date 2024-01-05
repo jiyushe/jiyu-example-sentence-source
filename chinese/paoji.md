@@ -1,5 +1,7 @@
 # 炮击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoji.md)
+
 <p><span class="chinese">这是最后的一次炮击。</span><span class="english">It was the last of the cannonade.</span></p>
 
 <p><span class="chinese">遭受炮击时我们走散了，什么时候我才能再见到他们啊？</span><span class="english">During the shelling we got separated.</span></p>

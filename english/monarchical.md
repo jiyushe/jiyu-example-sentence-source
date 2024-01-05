@@ -1,5 +1,7 @@
 # monarchical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monarchical.md)
+
 <p><span class="chinese">在我们的血液里已不再存在封建制和君主制的病害。</span><span class="english">Feudal and monarchical maladies no longer run in our blood.</span></p>
 
 <p><span class="chinese">是君主制和帝国政治。</span><span class="english">It's structured on monarchical and imperial ideas of politics.</span></p>

@@ -1,5 +1,7 @@
 # jackson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackson.md)
+
 <p><span class="chinese">它来自于迈克尔-杰克逊。</span><span class="english">It’s from Michael Jackson.</span></p>
 
 <p><span class="chinese">杰克逊先站了起来。</span><span class="english">Jackson stood up before him.</span></p>

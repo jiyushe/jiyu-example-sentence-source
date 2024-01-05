@@ -1,5 +1,7 @@
 # openness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/openness.md)
+
 <p><span class="chinese">开放性是我下一步要想的事情。</span><span class="english">Openness is the next thing on my mind.</span></p>
 
 <p><span class="chinese">徽州文化是开放性的文化。</span><span class="english">Huizhou culture is a culture of openness.</span></p>

@@ -1,5 +1,7 @@
 # twist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twist.md)
+
 <p><span class="chinese">扭摆与呼喊！</span><span class="english">Twist and Shout!</span></p>
 
 <p><span class="chinese">扭扭脖子。</span><span class="english">Twist your neck.</span></p>

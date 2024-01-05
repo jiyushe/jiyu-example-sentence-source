@@ -1,5 +1,7 @@
 # 孤军奋战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujunfenzhan.md)
+
 <p><span class="chinese">中国不会放手不管，你孤军奋战。</span><span class="english">The Chinese government does not care what will happen, you are not alone.</span></p>
 
 <p><span class="chinese">反对派也承认，他们不能只靠孤军奋战。</span><span class="english">The anti-Gaddafi forces acknowledge that they could not have done it alone.</span></p>

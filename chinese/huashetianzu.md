@@ -1,5 +1,7 @@
 # 画蛇添足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashetianzu.md)
+
 <p><span class="chinese">不要给百合花镀金/画蛇添足。</span><span class="english">Don't  gild the lily.</span></p>
 
 <p><span class="chinese">不要画蛇添足。</span><span class="english">Don't paint the lily.</span></p>

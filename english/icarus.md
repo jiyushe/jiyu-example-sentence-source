@@ -1,5 +1,7 @@
 # icarus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icarus.md)
+
 <p><span class="chinese">代达罗斯是他的儿子。</span><span class="english">Icarus is his son.</span></p>
 
 <p><span class="chinese">研究将会在Icarus杂志上刊登。</span><span class="english">The work will appear in the journal Icarus.</span></p>

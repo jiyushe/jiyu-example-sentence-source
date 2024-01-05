@@ -1,5 +1,7 @@
 # seminary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seminary.md)
+
 <p><span class="chinese">他本人于2005年从伯特利神学院毕业。</span><span class="english">Seminary San Diego in 2005.</span></p>
 
 <p><span class="chinese">这所学校有十分重要的象征意义。</span><span class="english">The seminary is of enormous symbolic importance.</span></p>

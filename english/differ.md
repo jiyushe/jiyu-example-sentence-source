@@ -1,5 +1,7 @@
 # differ 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differ.md)
+
 <p><span class="chinese">您的工作负载会有所不同。</span><span class="english">Your workload may differ.</span></p>
 
 <p><span class="chinese">也许你的体验会有所不同。</span><span class="english">Your experience may differ.</span></p>

@@ -1,5 +1,7 @@
 # nonresidential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonresidential.md)
+
 <p><span class="chinese">新屋和非住宅类建筑均对第一季的增长构成了拖累.</span><span class="english">Both new home and nonresidential construction were a drag on first-quarter growth.</span></p>
 
 <p><span class="chinese">这就是美国国会通过的经济刺激计划开出的数额。</span><span class="english">S. nonresidential design and construction industry. That's what the stimulus plan amounts to.</span></p>

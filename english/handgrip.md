@@ -1,5 +1,7 @@
 # handgrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handgrip.md)
+
 <p><span class="chinese">下面哪个是握柄的工作原理？</span><span class="english">In which of the following ways the handgrip work?</span></p>
 
 <p><span class="chinese">采用一对一，手把手的教学方式。</span><span class="english">Use man-to-man, the education means of handgrip hand.</span></p>

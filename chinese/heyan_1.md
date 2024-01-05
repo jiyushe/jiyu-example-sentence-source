@@ -1,5 +1,7 @@
 # 河沿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyan_1.md)
+
 <p><span class="chinese">你们可以靠河沿野餐。</span><span class="english">You can picnic along the river bank.</span></p>
 
 <p><span class="chinese">波兰南部的一个工业城市，位于维斯杜拉河沿岸。</span><span class="english">An industrial city ins poland on the vistula.</span></p>

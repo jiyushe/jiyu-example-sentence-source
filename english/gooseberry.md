@@ -1,5 +1,7 @@
 # gooseberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gooseberry.md)
+
 <p><span class="chinese">在以前被称为中国醋栗是什么？</span><span class="english">What is chinese gooseberry called in ancient time?</span></p>
 
 <p><span class="chinese">不能依靠史密斯，他少不更事。</span><span class="english">Don't rely on Smith, he's as green as a gooseberry.</span></p>

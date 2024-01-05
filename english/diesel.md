@@ -1,5 +1,7 @@
 # diesel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diesel.md)
+
 <p><span class="chinese">这些都是柴油机。</span><span class="english">These are the diesel engines.</span></p>
 
 <p><span class="chinese">柴油可用作柴油机燃料。</span><span class="english">Gas-oil is used as diesel fuel.</span></p>

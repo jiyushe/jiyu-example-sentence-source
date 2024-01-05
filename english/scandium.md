@@ -1,5 +1,7 @@
 # scandium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scandium.md)
+
 <p><span class="chinese">加上钪和钇，一起组成稀土金属。</span><span class="english">With scandium and yttrium, they make up the rare earth metals.</span></p>
 
 <p><span class="chinese">共存金属离子不干扰钪的分离和测定。</span><span class="english">However these ions did not interfere the separation and determination of scandium.</span></p>

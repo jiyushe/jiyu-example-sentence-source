@@ -1,5 +1,7 @@
 # runaround
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runaround.md)
+
 <p><span class="chinese">好吧，得到借口是有问题的征兆。</span><span class="english">Well, getting a runaround is a symptom of a problem.</span></p>
 
 <p><span class="chinese">别让我打十几次电话也没个结果。</span><span class="english">Don't make me call a dozen times and get a runaround.</span></p>

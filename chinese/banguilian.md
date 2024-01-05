@@ -1,5 +1,7 @@
 # 扮鬼脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banguilian.md)
+
 <p><span class="chinese">我在扮鬼脸。</span><span class="english">I am making faces.</span></p>
 
 <p><span class="chinese">不要跟我扮鬼脸。</span><span class="english">Don't make faces at me.</span></p>

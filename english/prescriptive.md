@@ -1,5 +1,7 @@
 # prescriptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prescriptive.md)
+
 <p><span class="chinese">完整的用户文档与规范的指南</span><span class="english">Complete user documentation & Prescriptive Tutorials</span></p>
 
 <p><span class="chinese">其他文化不使用这样说明性的记谱法</span><span class="english">Other cultures don't use this type of prescriptive notation.</span></p>

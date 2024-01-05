@@ -1,5 +1,7 @@
 # cybernetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cybernetics.md)
+
 <p><span class="chinese">控制论究竟发生了什么事？</span><span class="english">What ever happened to cybernetics?</span></p>
 
 <p><span class="chinese">控制论是批处理计算模式的受害者。</span><span class="english">Cybernetics was a victim of batch -mode computing.</span></p>

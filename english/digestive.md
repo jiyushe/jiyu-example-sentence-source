@@ -1,5 +1,7 @@
 # digestive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digestive.md)
+
 <p><span class="chinese">这只狗每天吃几顿？</span><span class="english">She takes a digestive powder every day.</span></p>
 
 <p><span class="chinese">这是和消化道故事差不多的故事。</span><span class="english">It's sort of like the digestive tract story.</span></p>

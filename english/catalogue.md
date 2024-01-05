@@ -1,5 +1,7 @@
 # catalogue 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalogue.md)
+
 <p><span class="chinese">有没有车的目录表？</span><span class="english">Do you have a car catalogue?</span></p>
 
 <p><span class="chinese">你是指目录上的2158号吗?。</span><span class="english">You mean catalogue No. 2158?</span></p>

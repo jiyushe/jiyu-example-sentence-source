@@ -1,5 +1,7 @@
 # bankrupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bankrupt.md)
+
 <p><span class="chinese">那家工厂倒了。</span><span class="english">That factory has gone bankrupt.</span></p>
 
 <p><span class="chinese">他买下一家破产的公司。</span><span class="english">He bought up a bankrupt company.</span></p>

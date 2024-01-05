@@ -1,5 +1,7 @@
 # campo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campo.md)
+
 <p><span class="chinese">什么时候第一次上场检验？</span><span class="english">Il primo test sul campo?</span></p>
 
 <p><span class="chinese">辛克莱尔担任右卫而坎波推上中场。</span><span class="english">Sinclair goes to right-back and Campo into midfield.</span></p>

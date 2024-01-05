@@ -1,5 +1,7 @@
 # ledger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ledger.md)
+
 <p><span class="chinese">审阅总分类帐和财务报告。</span><span class="english">Review general ledger and Financial Reports.</span></p>
 
 <p><span class="chinese">你的声明是电视我们的智能明细帐。</span><span class="english">Your statement is telly to our Smart ledger.</span></p>

@@ -1,5 +1,7 @@
 # 锥子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuizi_1.md)
+
 <p><span class="chinese">我用一把断柄的锥子。</span><span class="english">I used the awl with the broken handle.</span></p>
 
 <p><span class="chinese">这是因为我到今天才叫您看到这把锥子。</span><span class="english">This is because I show you this awl today.</span></p>

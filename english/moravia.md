@@ -1,5 +1,7 @@
 # moravia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moravia.md)
+
 <p><span class="chinese">捷克人说的塞而维克语。</span><span class="english">A group of Czech dialects spoken in Moravia.</span></p>
 
 <p><span class="chinese">海德里希被任命为波希米亚和摩拉维亚的保护者。</span><span class="english">Heydrich was appointed Protector of Bohemia and Moravia.</span></p>

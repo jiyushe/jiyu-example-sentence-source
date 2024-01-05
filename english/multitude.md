@@ -1,5 +1,7 @@
 # multitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multitude.md)
+
 <p><span class="chinese">独自和千头万绪。</span><span class="english">Alone and in multitude.</span></p>
 
 <p><span class="chinese">成功包含着众多的失败！</span><span class="english">Sucess covers a multitude of blunders.</span></p>

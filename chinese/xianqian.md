@@ -1,5 +1,7 @@
 # 先前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqian.md)
+
 <p><span class="chinese">你先前己经告诉我那一切了。</span><span class="english">You've told me all that before.</span></p>
 
 <p><span class="chinese">回到我们先前的讨论。</span><span class="english">Back to our previous discussion.</span></p>

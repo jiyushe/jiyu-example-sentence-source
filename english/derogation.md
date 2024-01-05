@@ -1,5 +1,7 @@
 # derogation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derogation.md)
+
 <p><span class="chinese">婚姻意味着损害我的独立性。</span><span class="english">Marriage means the derogation of my independence.</span></p>
 
 <p><span class="chinese">婚姻意味着损害我的独立性。</span><span class="english">Marriage meant the derogation of my independence.</span></p>

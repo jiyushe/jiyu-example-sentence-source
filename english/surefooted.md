@@ -1,5 +1,7 @@
 # surefooted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surefooted.md)
+
 <p><span class="chinese">这个漂亮的跑车是强大的，因为它是脚踏实地。</span><span class="english">This comely coupe is as powerful as it is surefooted.</span></p>
 
 <p><span class="chinese">如果你有一个家，你就会觉得踏实和温暖。</span><span class="english">If you have a family, you will feel surefooted and warm.</span></p>

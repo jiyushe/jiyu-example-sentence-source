@@ -1,5 +1,7 @@
 # eggshell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eggshell.md)
+
 <p><span class="chinese">你的意思是，一会儿蛋壳破了，雏鸟就能飞。</span><span class="english">Wait a minute, you mean, the eggshell breaks, bird can fly.</span></p>
 
 <p><span class="chinese">以鸡蛋壳为原料，研究制备醋酸钙的工艺技术。</span><span class="english">The processing of calcium acetate from eggshell was studied.</span></p>

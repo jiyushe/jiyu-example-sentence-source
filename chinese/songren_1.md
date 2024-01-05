@@ -1,5 +1,7 @@
 # 松仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songren_1.md)
+
 <p><span class="chinese">我们的学校在松仁路。</span><span class="english">Our school is on Shong-Lung Road.</span></p>
 
 <p><span class="chinese">这些研究没有包括松仁或者巴西坚果。</span><span class="english">The studies didn't include pine nuts or Brazil nuts.</span></p>

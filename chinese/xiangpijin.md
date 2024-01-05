@@ -1,5 +1,7 @@
 # 橡皮筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpijin.md)
+
 <p><span class="chinese">那是一根橡皮筋。</span><span class="english">A rubber band.</span></p>
 
 <p><span class="chinese">用一根橡皮筋把这些书扎住。</span><span class="english">Put a rubber band round these books.</span></p>

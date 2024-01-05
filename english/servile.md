@@ -1,5 +1,7 @@
 # servile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servile.md)
+
 <p><span class="chinese">我厌恶被人卑屈地迎候</span><span class="english">I hate the touch of servile hands</span></p>
 
 <p><span class="chinese">同着数不尽的奴隶的凄苦。</span><span class="english">Along with innumerable servile miseries.</span></p>

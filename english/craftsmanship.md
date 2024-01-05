@@ -1,5 +1,7 @@
 # craftsmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craftsmanship.md)
+
 <p><span class="chinese">那么关键还是靠精雕细刻。</span><span class="english">The key still lies in fine craftsmanship.</span></p>
 
 <p><span class="chinese">这也是软件技艺的对应模型。</span><span class="english">And that's the model of Software Craftsmanship.</span></p>

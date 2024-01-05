@@ -1,5 +1,7 @@
 # xviii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xviii.md)
+
 <p><span class="chinese">我比较喜欢路易十七。</span><span class="english">I prefer Louis XVIII.</span></p>
 
 <p><span class="chinese">美国属地金融机构。完成第十七部份。</span><span class="english">Nonfinancial group entity. Complete Part XVIII.</span></p>

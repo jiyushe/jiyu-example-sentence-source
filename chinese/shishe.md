@@ -1,5 +1,7 @@
 # 施舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishe.md)
+
 <p><span class="chinese">她昨天施舍了一些钱。</span><span class="english">She booned away some money yesterday.</span></p>
 
 <p><span class="chinese">他的施舍行为表现出他的宽宏大量的性格。</span><span class="english">His charity bespeaks a generous nature.</span></p>

@@ -1,5 +1,7 @@
 # 昭示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshi_1.md)
+
 <p><span class="chinese">下一站在银石的比赛会昭示更多。</span><span class="english">The next race in Silverstone will tell more.</span></p>
 
 <p><span class="chinese">月圆月缺是具体而微的人生昭示。</span><span class="english">Full moon on a clear and concrete short life declares.</span></p>

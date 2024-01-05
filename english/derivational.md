@@ -1,5 +1,7 @@
 # derivational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derivational.md)
+
 <p><span class="chinese">派生词缀可以是前缀也可以是后缀。</span><span class="english">Derivational affixes can be prefixes or suffixes.</span></p>
 
 <p><span class="chinese">派生词缀可加在已存在的形式词上形成的一个新词，原来存在的形式词被称为词干。</span><span class="english">A stem is the existing form to which a derivational affix can be added.</span></p>

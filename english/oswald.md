@@ -1,5 +1,7 @@
 # oswald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oswald.md)
+
 <p><span class="chinese">警方审讯了奥斯瓦德两天。</span><span class="english">Police questioned Oswald for two days.</span></p>
 
 <p><span class="chinese">杀死奥斯瓦尔德的这名男子叫杰克·鲁比。</span><span class="english">The man who killed Oswald was Jack Ruby.</span></p>

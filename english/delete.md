@@ -1,5 +1,7 @@
 # delete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delete.md)
+
 <p><span class="chinese">剔除他它们</span><span class="english">Delete those.</span></p>
 
 <p><span class="chinese">删除一个映像。</span><span class="english">Delete an image.</span></p>

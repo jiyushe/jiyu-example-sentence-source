@@ -1,5 +1,7 @@
 # 切勿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiewu.md)
+
 <p><span class="chinese">切勿购买整个城镇。</span><span class="english">Never purchase a town.</span></p>
 
 <p><span class="chinese">切勿崇拜偶像。</span><span class="english">To worship as an idol.</span></p>

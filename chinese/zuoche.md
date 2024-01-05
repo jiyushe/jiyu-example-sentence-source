@@ -1,5 +1,7 @@
 # 坐车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoche.md)
+
 <p><span class="chinese">和我一起坐车.</span><span class="english">Ride with me.</span></p>
 
 <p><span class="chinese">我们坐车去。</span><span class="english">We are going by bus.</span></p>

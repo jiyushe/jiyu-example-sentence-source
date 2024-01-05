@@ -1,5 +1,7 @@
 # 各奔东西
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gebendongxi.md)
+
 <p><span class="chinese">亲爱的朋友只得各奔东西。</span><span class="english">And the dear friends have to part.</span></p>
 
 <p><span class="chinese">五月，曲终人散，六月，各奔东西。</span><span class="english">In may June finalizing every rushthing.</span></p>

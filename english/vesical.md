@@ -1,5 +1,7 @@
 # vesical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vesical.md)
+
 <p><span class="chinese">掌握膀胱结石的诊断和治疗原则。</span><span class="english">Mastering principles of diagnosis and treatment of vesical calculi.</span></p>
 
 <p><span class="chinese">目的提高膀胱憩室肿瘤的诊治水平。</span><span class="english">Objective To improve the diagnosis and treatment of carcinoma in vesical diverticulum.</span></p>

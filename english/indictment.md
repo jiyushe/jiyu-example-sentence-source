@@ -1,5 +1,7 @@
 # indictment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indictment.md)
+
 <p><span class="chinese">对亲爱的老父亲的严厉指控。</span><span class="english">A scathing indictment of dear old dad.</span></p>
 
 <p><span class="chinese">刑事诉状的措辞不正确。</span><span class="english">The indictment was incorrectly worded.</span></p>

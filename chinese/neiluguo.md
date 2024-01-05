@@ -1,5 +1,7 @@
 # 内陆国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiluguo.md)
+
 <p><span class="chinese">欧洲中部的内陆国。</span><span class="english">A landlocked country of central Europe.</span></p>
 
 <p><span class="chinese">奥地利是欧洲中部的内陆国。</span><span class="english">Austria is a landlocked country of central Europe.</span></p>

@@ -1,5 +1,7 @@
 # evangelical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelical.md)
+
 <p><span class="chinese">苔丝，你是一个福音教徒吗？</span><span class="english">Tessy, are you an Evangelical?</span></p>
 
 <p><span class="chinese">“他有一个人们奉之为福音的品牌，”他说。</span><span class="english">"It has a brand people are evangelical about, " he said.</span></p>

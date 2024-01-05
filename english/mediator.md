@@ -1,5 +1,7 @@
 # mediator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mediator.md)
+
 <p><span class="chinese">他是唯一的神和人之间的调停者。</span><span class="english">He is the only divine-human Mediator.</span></p>
 
 <p><span class="chinese">那么中保指谁？是摩西吧？</span><span class="english">Well who was the mediator? Moses right?</span></p>

@@ -1,5 +1,7 @@
 # 打小报告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiaobaogao.md)
+
 <p><span class="chinese">不要可恶地打小报告，杰克。</span><span class="english">Don't be a rat fink, Jack.</span></p>
 
 <p><span class="chinese">我跟老师打小报告说多莉偷我的书。</span><span class="english">I told my teacher on Dolly for stealing my book.</span></p>

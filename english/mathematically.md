@@ -1,5 +1,7 @@
 # mathematically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mathematically.md)
+
 <p><span class="chinese">这是很简单的一种正比关系。</span><span class="english">It could be mathematically worked out.</span></p>
 
 <p><span class="chinese">都可以从数学上描述。</span><span class="english">All the words mean things mathematically.</span></p>

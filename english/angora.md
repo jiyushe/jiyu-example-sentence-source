@@ -1,5 +1,7 @@
 # angora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angora.md)
+
 <p><span class="chinese">这只安哥拉兔需要剪毛了。</span><span class="english">This angora rabbit needs to be sheared.</span></p>
 
 <p><span class="chinese">安哥拉山羊也被用于表演节目。</span><span class="english">Angora goats are also used as show animals.</span></p>

@@ -1,5 +1,7 @@
 # diophantine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diophantine.md)
+
 <p><span class="chinese">不定方程是数论的一个分支，它有着悠久的历史与丰富的内容。</span><span class="english">On the diophantine equation is the number one branch, it has a long history and rich content.</span></p>
 
 <p><span class="chinese">因此，国内外有诸多学者对不定方程有着广泛而深入的研究。</span><span class="english">So many researchers study the Diophantine Equation extensively and highly in the domestic and abroad.</span></p>

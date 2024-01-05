@@ -1,5 +1,7 @@
 # dilate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilate.md)
+
 <p><span class="chinese">呼吸时肺部扩张。</span><span class="english">The lungs dilate in breathing.</span></p>
 
 <p><span class="chinese">气球充气将会膨胀。</span><span class="english">The balloon will dilate with air.</span></p>

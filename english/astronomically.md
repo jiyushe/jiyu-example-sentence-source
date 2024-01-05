@@ -1,5 +1,7 @@
 # astronomically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astronomically.md)
+
 <p><span class="chinese">创业失败的几率是非常高的。</span><span class="english">The failure rate is astronomically high.</span></p>
 
 <p><span class="chinese">谷歌创立十年后设定了宏伟的目标。</span><span class="english">A decade after its founding, Google’s goals have soared astronomically.</span></p>

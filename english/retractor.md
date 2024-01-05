@@ -1,5 +1,7 @@
 # retractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retractor.md)
+
 <p><span class="chinese">电线电缆回收机“，”</span><span class="english">Cable & Wire Retractor.</span></p>
 
 <p><span class="chinese">断开皮带卷收器线束接头。</span><span class="english">Disconnect retractor wire harness connector.</span></p>

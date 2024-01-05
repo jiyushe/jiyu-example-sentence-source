@@ -1,5 +1,7 @@
 # deciding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deciding.md)
+
 <p><span class="chinese">这是一场决胜局。</span><span class="english">It's a deciding game.</span></p>
 
 <p><span class="chinese">不急，您慢慢决定。</span><span class="english">Take your time deciding.</span></p>

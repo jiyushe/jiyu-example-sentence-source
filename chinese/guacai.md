@@ -1,5 +1,7 @@
 # 挂彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guacai.md)
+
 <p><span class="chinese">他手臂挂彩了。</span><span class="english">He was wounded in the arm.</span></p>
 
 <p><span class="chinese">他的挂彩使他有法负任这份农做。</span><span class="english">His back injury had rendered him unfit for work.</span></p>

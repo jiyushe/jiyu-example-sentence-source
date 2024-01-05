@@ -1,5 +1,7 @@
 # pounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pounce.md)
+
 <p><span class="chinese">然后突袭他。</span><span class="english">Then pounce.</span></p>
 
 <p><span class="chinese">一旦看到猎物，勇敢扑上去！</span><span class="english">When you see it, pounce on it.</span></p>

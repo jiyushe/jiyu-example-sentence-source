@@ -1,5 +1,7 @@
 # vascularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vascularity.md)
+
 <p><span class="chinese">并对两组纵隔进行彩色多普勒血流检查，结果进行组间比较。</span><span class="english">Color Doppler examine septal vascularity , the result was compared between two groups.</span></p>
 
 <p><span class="chinese">这些过程也受受体床的血运以及结构的影响。</span><span class="english">These processes are also influenced by the vascularity and composition of the host bed.</span></p>

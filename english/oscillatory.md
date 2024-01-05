@@ -1,5 +1,7 @@
 # oscillatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oscillatory.md)
+
 <p><span class="chinese">运动具有振动性质。</span><span class="english">The motion has an oscillatory nature.</span></p>
 
 <p><span class="chinese">小振幅的振动剪切流。</span><span class="english">Small-amplitude oscillatory shear flow.</span></p>

@@ -1,5 +1,7 @@
 # 翻涌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyong.md)
+
 <p><span class="chinese">漫漫人生，心如潮水般翻涌，难以平静。</span><span class="english">Long life, a heart like a flood Fanyong difficult to calm.</span></p>
 
 <p><span class="chinese">但我思绪仍不断地翻涌着，因为我并不认为我能做得到。</span><span class="english">In my head there is a riot, and I don't think that I can fight it.</span></p>

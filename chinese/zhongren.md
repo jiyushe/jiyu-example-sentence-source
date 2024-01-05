@@ -1,5 +1,7 @@
 # 中人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongren.md)
+
 <p><span class="chinese">看来我还是一个性情中人呀。</span><span class="english">I am still a sensitive guy.</span></p>
 
 <p><span class="chinese">字中人真呢是少啊。现在…</span><span class="english">The thing is the human must.</span></p>

@@ -1,5 +1,7 @@
 # 冲刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongshua.md)
+
 <p><span class="chinese">在我们海浪冲刷。</span><span class="english">Here at our sea-washed.</span></p>
 
 <p><span class="chinese">海滨的细浪刷刷地冲刷着海滨沙滩。</span><span class="english">Small waves swished on the shore.</span></p>

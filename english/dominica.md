@@ -1,5 +1,7 @@
 # dominica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominica.md)
+
 <p><span class="chinese">首先是来自多米尼加联邦共和国的凯先生。</span><span class="english">First to Kai over in the Commonwealth of Dominica.</span></p>
 
 <p><span class="chinese">对85岁的多米尼克霍夫曼而言，情况太糟糕了。</span><span class="english">It's bad enough already for 85-year-old Dominica Hoffman.</span></p>

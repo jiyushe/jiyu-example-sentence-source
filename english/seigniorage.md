@@ -1,5 +1,7 @@
 # seigniorage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seigniorage.md)
+
 <p><span class="chinese">铸币税就在这里发挥作用。</span><span class="english">That is where seigniorage comes in.</span></p>
 
 <p><span class="chinese">基金享有发钞利润。</span><span class="english">Fund enjoys the seigniorage of the currency notes.</span></p>

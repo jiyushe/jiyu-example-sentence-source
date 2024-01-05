@@ -1,5 +1,7 @@
 # 避风港
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bifenggang.md)
+
 <p><span class="chinese">美国国债是安全的避风港。</span><span class="english">US Treasuries are the safe haven.</span></p>
 
 <p><span class="chinese">然而，科先生的课堂却是避风港。</span><span class="english">But Mr. K’s classroom was a haven.</span></p>

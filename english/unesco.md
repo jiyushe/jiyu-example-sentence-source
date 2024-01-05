@@ -1,5 +1,7 @@
 # unesco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unesco.md)
+
 <p><span class="chinese">乌斯季诺夫后来成为联合国教科文组织的坚定拥护者。</span><span class="english">Ustinov later became a staunch6 advocate for UNESCO.</span></p>
 
 <p><span class="chinese">目前，联合国教科文组织共设立了550多个教席。</span><span class="english">Until now, UNESCO has established more than 550 chairs.</span></p>

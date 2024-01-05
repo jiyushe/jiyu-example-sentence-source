@@ -1,5 +1,7 @@
 # quadratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadratic.md)
+
 <p><span class="chinese">对数？线性？指数？平方？</span><span class="english">Log? Linear? Exponential? Quadratic?</span></p>
 
 <p><span class="chinese">二次曲线样条至少需要3个点。</span><span class="english">Quadratic splines need at least 3 points.</span></p>

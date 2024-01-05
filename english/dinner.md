@@ -1,5 +1,7 @@
 # dinner 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinner.md)
+
 <p><span class="chinese">活跃的帅小伙，晚餐，甜点。</span><span class="english">Dinner and desserts.</span></p>
 
 <p><span class="chinese">这就是你的晚餐？</span><span class="english">Is that your dinner?</span></p>

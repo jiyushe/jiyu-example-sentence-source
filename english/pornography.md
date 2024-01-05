@@ -1,5 +1,7 @@
 # pornography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pornography.md)
+
 <p><span class="chinese">黄色书刊毒害年轻人的心灵。</span><span class="english">Pornography taints the young mind.</span></p>
 
 <p><span class="chinese">不得去黄赌毒场所。</span><span class="english">Can not go to pornography and gambling sites.</span></p>

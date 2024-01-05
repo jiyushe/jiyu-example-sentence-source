@@ -1,5 +1,7 @@
 # 引动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yindong.md)
+
 <p><span class="chinese">从黑暗中有什么召唤在引动你？</span><span class="english">What call from the dark urges you?</span></p>
 
 <p><span class="chinese">启心铭志，引动未来！</span><span class="english">Unlock your mind, open your future!</span></p>

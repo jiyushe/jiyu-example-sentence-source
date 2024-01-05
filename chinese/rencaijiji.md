@@ -1,5 +1,7 @@
 # 人才济济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rencaijiji.md)
+
 <p><span class="chinese">人才济济的学校。</span><span class="english">quicker-related college.</span></p>
 
 <p><span class="chinese">老师，祝您教育的学生，人才济济，精英辈出。</span><span class="english">Teacher, I wish you the education students, a galaxy of talents, the elite men.</span></p>

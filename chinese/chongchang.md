@@ -1,5 +1,7 @@
 # 重唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongchang.md)
+
 <p><span class="chinese">重唱是整合歌剧主题的纽带。</span><span class="english">He was the pivot of the opera.</span></p>
 
 <p><span class="chinese">重唱一遍相同的老歌。</span><span class="english">Same old songs, just once more.</span></p>

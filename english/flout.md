@@ -1,5 +1,7 @@
 # flout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flout.md)
+
 <p><span class="chinese">“他们公然无视保护劳工权利的最基本法规”。</span><span class="english">They flout the most basic laws protecting the rights of workers.</span></p>
 
 <p><span class="chinese">其它的补习学校则遵循国家法令，继续在国家控制下苟延残喘地运行着——有时甚或需要伪装。</span><span class="english">Other hagwons flout the law, continuing to operate past the curfew — sometimes in disguise.</span></p>

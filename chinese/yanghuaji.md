@@ -1,5 +1,7 @@
 # 氧化剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuaji.md)
+
 <p><span class="chinese">氧化剂为液氧和空气。</span><span class="english">The oxidants used are liquid oxygen and air.</span></p>
 
 <p><span class="chinese">氧化剂管的凹陷使稳定性增强。</span><span class="english">Recessing the oxidizer tube improves stability.</span></p>

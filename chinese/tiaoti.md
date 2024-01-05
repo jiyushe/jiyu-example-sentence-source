@@ -1,5 +1,7 @@
 # 挑剔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoti.md)
+
 <p><span class="chinese">你是否太挑剔？</span><span class="english">Are you too picky?</span></p>
 
 <p><span class="chinese">不要那么挑剔。</span><span class="english">Don't be so picky.</span></p>

@@ -1,5 +1,7 @@
 # earning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earning.md)
+
 <p><span class="chinese">创建一个策略为你的旅程赚钱。</span><span class="english">Create a strategy for your mileage earning.</span></p>
 
 <p><span class="chinese">你不能指望着一个星期会挣300镑。</span><span class="english">You can't calculate on earning ￡300 a week.</span></p>

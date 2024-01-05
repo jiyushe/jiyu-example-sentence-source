@@ -1,5 +1,7 @@
 # grouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grouse.md)
+
 <p><span class="chinese">上星期天他猎获了三只松鸡。</span><span class="english">He hunted three grouse last Sunday.</span></p>
 
 <p><span class="chinese">他们在荒野射猎松鸡。</span><span class="english">They're shooting grouse up on the moors.</span></p>

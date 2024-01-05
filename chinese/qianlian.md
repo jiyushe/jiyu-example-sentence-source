@@ -1,5 +1,7 @@
 # 牵连
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlian.md)
+
 <p><span class="chinese">她和犯罪案有牵连。</span><span class="english">She was concerned in the crime.</span></p>
 
 <p><span class="chinese">别把我牵连进你们的争吵之中。</span><span class="english">Don't embroil me in your quarrel.</span></p>

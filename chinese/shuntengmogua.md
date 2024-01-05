@@ -1,5 +1,7 @@
 # 顺藤摸瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuntengmogua.md)
+
 <p><span class="chinese">我们花费了数月才得以顺藤摸瓜。</span><span class="english">We spent a few months was able to follow it.</span></p>
 
 <p><span class="chinese">他要迅速撕开这口子，顺藤摸瓜把水手找出来。</span><span class="english">He quickly tore open the wound, immediately instructed the crew to find out.</span></p>

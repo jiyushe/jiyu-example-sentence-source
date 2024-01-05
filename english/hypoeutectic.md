@@ -1,5 +1,7 @@
 # hypoeutectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoeutectic.md)
+
 <p><span class="chinese">高铬钼抗磨合金本质为亚共晶型高合金白口铸铁。</span><span class="english">High chromium-Molybdonum wear-resistant alloys are hypoeutectic white cast iron.</span></p>
 
 <p><span class="chinese">根据绿色化思想，对铸造亚共晶铝硅合金进行了绿色化规划探讨。</span><span class="english">Based on the greenness idea, the greenization planning on the hypoeutectic cast Al-Si alloy is provided.</span></p>

@@ -1,5 +1,7 @@
 # munitions
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/munitions.md)
+
 <p><span class="chinese">一些商人以贩卖军火赚钱。</span><span class="english">Some merchants make money by way of munitions.</span></p>
 
 <p><span class="chinese">继续其他军需品的数字统计。</span><span class="english">Other munitions production figures are as follows.</span></p>

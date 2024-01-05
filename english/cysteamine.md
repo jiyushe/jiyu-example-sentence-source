@@ -1,5 +1,7 @@
 # cysteamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cysteamine.md)
+
 <p><span class="chinese">但它对脂肪沉积的影响尚不清楚。</span><span class="english">However, the effect of cysteamine on adipose tissue depots is not very clear.</span></p>
 
 <p><span class="chinese">本文综述了半胱胺的生物学功能和应用情况。</span><span class="english">The biological functions of cysteamine and its application were reviewed in the article.</span></p>

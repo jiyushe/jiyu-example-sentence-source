@@ -1,5 +1,7 @@
 # domiciled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domiciled.md)
+
 <p><span class="chinese">她一年中有部分时间住在纽约。</span><span class="english">She domiciled in New York part of the year.</span></p>
 
 <p><span class="chinese">因税务的原因他们定居国外。</span><span class="english">They were domiciled abroad for tax purposes.</span></p>

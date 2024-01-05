@@ -1,5 +1,7 @@
 # allot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allot.md)
+
 <p><span class="chinese">给大多数部门分配固定的资金。</span><span class="english">Allot regular funding to most departments.</span></p>
 
 <p><span class="chinese">政府准备在那个地区分配住房。</span><span class="english">The government is ready to allot houses in that area.</span></p>

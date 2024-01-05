@@ -1,5 +1,7 @@
 # fumigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fumigate.md)
+
 <p><span class="chinese">寒以后，医院的病房进行烟熏消毒。</span><span class="english">The hospital ward is fumigate after the outbreak of typhus.</span></p>
 
 <p><span class="chinese">熏该中心就接到咨询电话30多个。</span><span class="english">Fumigate the center received more than 30 telephone counselling.</span></p>

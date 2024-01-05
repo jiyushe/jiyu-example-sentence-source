@@ -1,5 +1,7 @@
 # diviner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diviner.md)
+
 <p><span class="chinese">天赐神工！而雅典，更其神圣。</span><span class="english">A divine work! Athens, diviner yet.</span></p>
 
 <p><span class="chinese">为什么不去叫一个占卜者来解释我的梦呢?。</span><span class="english">Why not get a diviner to expound my dream?</span></p>

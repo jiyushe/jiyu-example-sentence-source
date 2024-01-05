@@ -1,5 +1,7 @@
 # 股份合作制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufenhezuozhi.md)
+
 <p><span class="chinese">清溪自来水合作公司为股份合作制水厂。</span><span class="english">Qingxi Tap Water Cooperative Corporation is a joint-stock water plant.</span></p>
 
 <p><span class="chinese">农村社区型股份合作制的特点和作用。</span><span class="english">Characteristics and functions of the rural community joint-stock system.</span></p>

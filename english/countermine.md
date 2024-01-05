@@ -1,5 +1,7 @@
 # countermine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countermine.md)
+
 <p><span class="chinese">如何增强抵抗感冒的能力呢？</span><span class="english">How to enhance the ability to countermine cold?</span></p>
 
 <p><span class="chinese">红外气溶胶烟幕技术能有效对抗先进的光电武器，尤其是成像制导。</span><span class="english">IR aerosol screening smoke can countermine advanced photoelectric equipment, in particular imaging homing.</span></p>

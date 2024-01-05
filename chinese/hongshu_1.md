@@ -1,5 +1,7 @@
 # 红薯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongshu_1.md)
+
 <p><span class="chinese">这里不卖红薯馅饺子。</span><span class="english">I couldn't find sweet potato dumplings here.</span></p>
 
 <p><span class="chinese">流行的配菜包括小红莓和红薯。</span><span class="english">Popular side dishes include cranberries and sweet potatoes.</span></p>

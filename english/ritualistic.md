@@ -1,5 +1,7 @@
 # ritualistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ritualistic.md)
+
 <p><span class="chinese">他们不太仪式的法律以外的甲烷。</span><span class="english">They are less ritualistic than the laws of ch.</span></p>
 
 <p><span class="chinese">无需语言，它的冲动是本能和仪式的。</span><span class="english">Lacking language, its impulses are instinctual and ritualistic.</span></p>

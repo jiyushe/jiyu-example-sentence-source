@@ -1,5 +1,7 @@
 # frenchwoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frenchwoman.md)
+
 <p><span class="chinese">你要想说服亨利结婚，非得有法国女人的口才不可。</span><span class="english">If you can persuade Henry to marry, you must have the address of a Frenchwoman.</span></p>
 
 <p><span class="chinese">其实，法国女人的苗条体型与她们的生活习惯密不可分。</span><span class="english">Actually, the slim type of build or figure of Frenchwoman and their habits and customs is inseparable.</span></p>

@@ -1,5 +1,7 @@
 # 霞光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaguang.md)
+
 <p><span class="chinese">此时，黄昏绽放出蔚蓝色的霞光。</span><span class="english">By now the blue of twilight is glowing.</span></p>
 
 <p><span class="chinese">天边那最后一道霞光渐渐堙灭了踪迹。</span><span class="english">You can't have them that a final Yin trace out glow gradually.</span></p>

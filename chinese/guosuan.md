@@ -1,5 +1,7 @@
 # 果酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guosuan.md)
+
 <p><span class="chinese">本文主要研究开发新型酸奶—椰果酸奶。</span><span class="english">Nata de Coco Yoghourt was studied in this paper.</span></p>
 
 <p><span class="chinese">它的果酸配方能够去除干皮死皮。</span><span class="english">The AHA formula exfoliates away dry, chapped layers.</span></p>

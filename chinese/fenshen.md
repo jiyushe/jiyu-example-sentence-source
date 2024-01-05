@@ -1,5 +1,7 @@
 # 分神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshen.md)
+
 <p><span class="chinese">我不希望被别人分神。</span><span class="english">I do not wish to be distracted by another.</span></p>
 
 <p><span class="chinese">可是他一直分神而忘了数的数字。</span><span class="english">But he kept getting distracted and losing count.</span></p>

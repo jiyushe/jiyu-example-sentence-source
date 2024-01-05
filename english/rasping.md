@@ -1,5 +1,7 @@
 # rasping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rasping.md)
+
 <p><span class="chinese">用一种刺耳的声音呼吸。</span><span class="english">To breathe with a rasping sound.</span></p>
 
 <p><span class="chinese">我的窗下，一个清晰而粗厉的响声</span><span class="english">Under my window a clean rasping sound</span></p>

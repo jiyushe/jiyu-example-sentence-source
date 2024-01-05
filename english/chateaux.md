@@ -1,5 +1,7 @@
 # chateaux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chateaux.md)
+
 <p><span class="chinese">你也可以在皇宫或教堂里聆听音乐会。</span><span class="english">You can also hear concerts in the chateaux and cathedrals.</span></p>
 
 <p><span class="chinese">你也能够在皇宫或教堂里倾听音乐会。</span><span class="english">You can also hear concerts in the chateaux and cathedrals.</span></p>

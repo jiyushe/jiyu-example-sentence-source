@@ -1,5 +1,7 @@
 # 西洋参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyangshen.md)
+
 <p><span class="chinese">姜块，马鞭草，西洋参，黑胡椒。</span><span class="english">Ginger root, verbena, ginseng, black pepper.</span></p>
 
 <p><span class="chinese">在威斯康星州，是西洋参的资本。</span><span class="english">The state of Wisconsin is the capital of American ginseng.</span></p>

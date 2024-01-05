@@ -1,5 +1,7 @@
 # frye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frye.md)
+
 <p><span class="chinese">所有迹象表明钱宁弗莱这个赛季会是个黑马。</span><span class="english">All systems are go for Channing Frye as a fantasy sleeper this season.</span></p>
 
 <p><span class="chinese">联邦证据规则虽然没有明确批判Frye规则，但是它们采纳了一种更加宽容的方法。</span><span class="english">While not explicitly repudiating the Frye rule, the Federal Rules adopt a more permissive approach.</span></p>

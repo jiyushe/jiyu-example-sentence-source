@@ -1,5 +1,7 @@
 # oppression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppression.md)
+
 <p><span class="chinese">本沃利奥哭你的好心受到压抑。</span><span class="english">BENVOLIO At thy good heart's oppression.</span></p>
 
 <p><span class="chinese">压迫逼得他们公开造反。</span><span class="english">Oppression drove them into open rebellion.</span></p>

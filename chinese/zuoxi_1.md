@@ -1,5 +1,7 @@
 # 坐席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoxi_1.md)
+
 <p><span class="chinese">坐席中有人献上鱼和鹅。</span><span class="english">One of the guests presented fish and gooses.</span></p>
 
 <p><span class="chinese">那么对于进入精英院校的坐席的分配问题呢？</span><span class="english">of seats in elite colleges and universities?</span></p>

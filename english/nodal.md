@@ -1,5 +1,7 @@
 # nodal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nodal.md)
+
 <p><span class="chinese">结节性多动脉炎。</span><span class="english">Much arteritis of ⑩ nodal sex.</span></p>
 
 <p><span class="chinese">它会在哪？</span><span class="english">What would the nodal plane be?</span></p>

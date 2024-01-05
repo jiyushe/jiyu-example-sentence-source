@@ -1,5 +1,7 @@
 # 排场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paichang.md)
+
 <p><span class="chinese">他喜欢大排场地招待女友。</span><span class="english">He likes to treat his date in a big way.</span></p>
 
 <p><span class="chinese">德国人是喜欢在圣诞节铺排场面的。</span><span class="english">The Germans love to make a great display at Christmas.</span></p>

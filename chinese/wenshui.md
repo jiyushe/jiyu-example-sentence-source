@@ -1,5 +1,7 @@
 # 温水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshui.md)
+
 <p><span class="chinese">在温水中清洗。</span><span class="english">Wash in warm water.</span></p>
 
 <p><span class="chinese">使用温水冲洗发片。</span><span class="english">Rie hair with warm water.</span></p>

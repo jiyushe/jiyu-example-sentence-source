@@ -1,5 +1,7 @@
 # sinclair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinclair.md)
+
 <p><span class="chinese">辛克莱尔•路易斯即是其中之一。</span><span class="english">One such writer was Sinclair Lewis.</span></p>
 
 <p><span class="chinese">辛克莱把它称为生存基因。</span><span class="english">Sinclair calls these survival genes.</span></p>

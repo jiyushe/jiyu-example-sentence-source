@@ -1,5 +1,7 @@
 # 出游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyou.md)
+
 <p><span class="chinese">开始计划你下次出游。</span><span class="english">Start planning your next outing.</span></p>
 
 <p><span class="chinese">我想是你首先欠我一次出游，对吧？</span><span class="english">I think you owe me a trip first”?</span></p>

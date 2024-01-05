@@ -1,5 +1,7 @@
 # counterfactual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterfactual.md)
+
 <p><span class="chinese">对于其意义理解的关键在构建反事实思维。</span><span class="english">To understand the meaning is to construct the counterfactual thought.</span></p>
 
 <p><span class="chinese">反事实表达是科学思考、道德行为的基础。</span><span class="english">Counterfactual statements are the building blocks of scientific thought and moral behavior.</span></p>

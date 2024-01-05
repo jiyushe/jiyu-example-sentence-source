@@ -1,5 +1,7 @@
 # winsome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winsome.md)
+
 <p><span class="chinese">她是一个媚人的小东西。</span><span class="english">She is a winsome wee thing.</span></p>
 
 <p><span class="chinese">她给了他一个最为迷人的微笑。</span><span class="english">She gave him her best winsome smile.</span></p>

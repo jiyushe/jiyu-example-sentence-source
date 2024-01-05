@@ -1,5 +1,7 @@
 # obscure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obscure.md)
+
 <p><span class="chinese">云层使太阳黯然无光。</span><span class="english">Clouds obscure the sun.</span></p>
 
 <p><span class="chinese">不可思议的，含糊难解的。</span><span class="english">Of a mysterious or obscure nature.</span></p>

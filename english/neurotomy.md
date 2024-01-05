@@ -1,5 +1,7 @@
 # neurotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotomy.md)
+
 <p><span class="chinese">结论选择性周围神经部分切断术是治疗痉挛状态安全有效的手术方法。</span><span class="english">Conclusion Selective peripheral neurotomy is an effective and safe microsurgical method for the treatment of spasticity.</span></p>
 
 <p><span class="chinese">结论选择性胫神经分支部分切断术是治疗踝部痉挛状态安全有效的显微外科手术方法。</span><span class="english">Conclusions Selective tibial neurotomy is an effective and safe microsurgical method for the treatment of ankle spasticity.</span></p>

@@ -1,5 +1,7 @@
 # masonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masonic.md)
+
 <p><span class="chinese">我爸爸偶尔会到他的共济会分会那里去。</span><span class="english">My father would occasionally go to his Masonic lodge.</span></p>
 
 <p><span class="chinese">通过对共济会成员的研究，我们可以推断出共济会的神的本质。</span><span class="english">We can deduce the nature of the Masonic god by a study of Freemasons.</span></p>

@@ -1,5 +1,7 @@
 # 冬装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongzhuang.md)
+
 <p><span class="chinese">最新的冬装款式现在正在大商店中陈列着。</span><span class="english">The lastest winter fashions are now on view in the big shops.</span></p>
 
 <p><span class="chinese">当天暖和起来的时候，我们就得脱去冬装。</span><span class="english">We leave off our winter underwear when the warm weather comes.</span></p>

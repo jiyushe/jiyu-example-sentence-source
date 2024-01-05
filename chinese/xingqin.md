@@ -1,5 +1,7 @@
 # 省亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqin.md)
+
 <p><span class="chinese">我们可以把这称作一次省亲。</span><span class="english">We can call it a visit.</span></p>
 
 <p><span class="chinese">对于让所有犹太人回来“省亲”的想法，耶胡达先生表示赞同。</span><span class="english">He welcomed the idea of Jews returning someday.</span></p>

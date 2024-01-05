@@ -1,5 +1,7 @@
 # acupressure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acupressure.md)
+
 <p><span class="chinese">是的。用按摩疗法治您的病效果较好。</span><span class="english">It is better to treat your condition with acupressure therapy.</span></p>
 
 <p><span class="chinese">另外，部分保险公司也逐渐接受穴位按压。</span><span class="english">In addition, some insurance companies begin to accept acupressure.</span></p>

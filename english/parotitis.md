@@ -1,5 +1,7 @@
 # parotitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parotitis.md)
+
 <p><span class="chinese">腮腺炎怎么能快治疗？</span><span class="english">Parotitis how can quick treatment?</span></p>
 
 <p><span class="chinese">治疗腮腺炎有特效药吗？</span><span class="english">Does remedial parotitis have specific?</span></p>

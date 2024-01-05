@@ -1,5 +1,7 @@
 # gaoshan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaoshan.md)
+
 <p><span class="chinese">不要浪费纳税人金钱，马上遣返高山！</span><span class="english">Don't waste taxpayer's money, deport Gaoshan now!</span></p>
 
 <p><span class="chinese">下面，我们一起来看图，听一听，高山和苏杨在谈论什么？</span><span class="english">Look at the picture. What are Su Yang and Gaoshan talking about ? Listen!</span></p>

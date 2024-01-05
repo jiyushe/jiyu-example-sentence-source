@@ -1,5 +1,7 @@
 # radicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radicle.md)
+
 <p><span class="chinese">层积处理对胚根的生长有利。</span><span class="english">Stratification was good for radicle growth.</span></p>
 
 <p><span class="chinese">然而，在其他方面，共同兄弟会的讲道是根源性的。</span><span class="english">In other ways, however, their teaching was radicle.</span></p>

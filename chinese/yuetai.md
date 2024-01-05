@@ -1,5 +1,7 @@
 # 月台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuetai.md)
+
 <p><span class="chinese">我有月台幕门都作出。</span><span class="english">I have the psds all made.</span></p>
 
 <p><span class="chinese">到月台去该怎么走？</span><span class="english">How can I go to the platform?</span></p>

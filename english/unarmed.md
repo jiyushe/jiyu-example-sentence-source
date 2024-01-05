@@ -1,5 +1,7 @@
 # unarmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unarmed.md)
+
 <p><span class="chinese">我是手无寸铁的"</span><span class="english">I am unarmed."</span></p>
 
 <p><span class="chinese">他们被解除武装。</span><span class="english">They were unarmed of weapons.</span></p>

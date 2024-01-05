@@ -1,5 +1,7 @@
 # yvette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yvette.md)
+
 <p><span class="chinese">伊薇特现在付出更多比当她租房。</span><span class="english">Yvette is now paying more than when she was renting.</span></p>
 
 <p><span class="chinese">就在圣诞节前，我听到Yvette说了一个将将能听懂的‘开门’。</span><span class="english">Before Christmas, I heard Yvette say a recognisable "Open the door".</span></p>

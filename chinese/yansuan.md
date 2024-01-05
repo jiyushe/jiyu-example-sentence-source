@@ -1,5 +1,7 @@
 # 演算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yansuan.md)
+
 <p><span class="chinese">这是tot的值，我们刚才已经演算过了。</span><span class="english">There's tot, we've checked that.</span></p>
 
 <p><span class="chinese">我在讲一个财政演算。</span><span class="english">I am talking about a fiscal exercise.</span></p>

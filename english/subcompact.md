@@ -1,5 +1,7 @@
 # subcompact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcompact.md)
+
 <p><span class="chinese">自2008年年底这种灵巧设计风格的小型汽车已经成为欧洲最畅销的车。</span><span class="english">This slickly styled subcompact has been a top seller in Europe since late 2008.</span></p>
 
 <p><span class="chinese">图中的金龟车也是电动车，虽然只是实验车，但是离上路不远了。</span><span class="english">The subcompact in the photo is battery-powered . Though still experimental, it will soon be on the road.</span></p>

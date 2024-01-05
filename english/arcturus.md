@@ -1,5 +1,7 @@
 # arcturus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arcturus.md)
+
 <p><span class="chinese">阿克图斯靠回他的座椅上。</span><span class="english">Arcturus leaned back in his seat.</span></p>
 
 <p><span class="chinese">甚至狼星、户星、宿星团星振动未跌低。</span><span class="english">Arcturus never fell so low in vibration.</span></p>

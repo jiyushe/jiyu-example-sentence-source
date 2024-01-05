@@ -1,5 +1,7 @@
 # electrocautery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrocautery.md)
+
 <p><span class="chinese">吸引器与电凝钩在腹腔镜胆囊切除术中的应用比较。</span><span class="english">Study on application of aspirator and electrocautery in laparoscopic cholecystectomy.</span></p>
 
 <p><span class="chinese">结论电灼术止血在永久起搏器植入术中的应用安全、有效。</span><span class="english">Conclusion The electrocautery is safe and effective in permanent pacemaker implantation.</span></p>

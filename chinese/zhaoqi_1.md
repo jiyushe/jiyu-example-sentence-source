@@ -1,5 +1,7 @@
 # 朝气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoqi_1.md)
+
 <p><span class="chinese">她有热情，有朝气。</span><span class="english">She is full of vigour and enthusiasm.</span></p>
 
 <p><span class="chinese">这是一支年青，有朝气，速度迅速的球队。</span><span class="english">This is such a young and vibrant, quick team.</span></p>

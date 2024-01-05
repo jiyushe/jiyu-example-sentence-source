@@ -1,5 +1,7 @@
 # critter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/critter.md)
+
 <p><span class="chinese">“科学和生物的研究”?。</span><span class="english">"Research Scienceand Critter Exploitation"?</span></p>
 
 <p><span class="chinese">这种已经灭绝的，长得类似于老鼠的生物比公牛还大。</span><span class="english">The extinct mouse-like critter was larger than a bull.</span></p>

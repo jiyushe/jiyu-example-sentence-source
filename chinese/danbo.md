@@ -1,5 +1,7 @@
 # 单薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danbo.md)
+
 <p><span class="chinese">你可曾感到自己如纸片一样单薄？</span><span class="english">Do you ever feel, feel so paper-thin?</span></p>
 
 <p><span class="chinese">稚嫩的蜻蜓，潮湿而单薄</span><span class="english">Fresh-opened dragonflies, wet and flimsy</span></p>

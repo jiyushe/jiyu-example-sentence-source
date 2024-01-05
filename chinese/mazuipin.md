@@ -1,5 +1,7 @@
 # 麻醉品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazuipin.md)
+
 <p><span class="chinese">麻醉品成瘾是在不知不觉中的。</span><span class="english">Narcotics addiction is insidious.</span></p>
 
 <p><span class="chinese">这样，无神论对于我们，只是一个麻醉品。</span><span class="english">Atheism was thus for us a mere intoxication.</span></p>

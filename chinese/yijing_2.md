@@ -1,5 +1,7 @@
 # 已经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijing_2.md)
+
 <p><span class="chinese">我已经被套牢了！</span><span class="english">I’m caught.</span></p>
 
 <p><span class="chinese">这已经过时了。</span><span class="english">It's obsolete.</span></p>

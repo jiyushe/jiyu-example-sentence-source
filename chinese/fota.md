@@ -1,5 +1,7 @@
 # 佛塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fota.md)
+
 <p><span class="chinese">王中之王是值得建佛塔的。</span><span class="english">A king of kings is worthy of a pagoda.</span></p>
 
 <p><span class="chinese">三人站在佛塔前的合照。</span><span class="english">Three of us stood in front of the stupa.</span></p>

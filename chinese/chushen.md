@@ -1,5 +1,7 @@
 # 出神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushen.md)
+
 <p><span class="chinese">他站在那里望着那景色出神。</span><span class="english">He stood entranced of the sight.</span></p>
 
 <p><span class="chinese">他们对着那景色出神。</span><span class="english">They were enraptured at the scene.</span></p>

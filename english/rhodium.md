@@ -1,5 +1,7 @@
 # rhodium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhodium.md)
+
 <p><span class="chinese">随链坠附送镀铑项链。</span><span class="english">Complemented with a rhodium plated chain.</span></p>
 
 <p><span class="chinese">黄铜镀金，镀银上镀铑，厚螺母，信号插座。</span><span class="english">Rhodium over silver plate. Brass nut, Gold plate.</span></p>

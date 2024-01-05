@@ -1,5 +1,7 @@
 # 货主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozhu.md)
+
 <p><span class="chinese">这一通知通常是由货主发出的。</span><span class="english">This notice is usually sent from the shipper.</span></p>
 
 <p><span class="chinese">他们劫持了货主，并抢走了他的所有东西。</span><span class="english">They held up the owner and robed him of everything.</span></p>

@@ -1,5 +1,7 @@
 # collate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collate.md)
+
 <p><span class="chinese">火鸟没有排序规则简体版?。</span><span class="english">Firebird don't have Collate for GB2312?</span></p>
 
 <p><span class="chinese">学生们通过阅读、采访、实地考察等获取信息。</span><span class="english">They collate information through reading, interviews, fieldwork, as well as other sources.</span></p>

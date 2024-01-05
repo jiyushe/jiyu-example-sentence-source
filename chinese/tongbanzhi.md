@@ -1,5 +1,7 @@
 # 铜版纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbanzhi.md)
+
 <p><span class="chinese">材料是250克铜版纸。</span><span class="english">The material is 250gsm coated paper.</span></p>
 
 <p><span class="chinese">两册套装—光面铜版纸和胶版纸。</span><span class="english">Set of two guides, coated and uncoated.</span></p>

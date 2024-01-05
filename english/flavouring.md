@@ -1,5 +1,7 @@
 # flavouring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavouring.md)
+
 <p><span class="chinese">这个菜里调味品加得太多了。</span><span class="english">There is too much flavouring in the dish.</span></p>
 
 <p><span class="chinese">她做菜很喜欢用辣椒油调味。</span><span class="english">She likes flavouring dishes with chili oil.</span></p>

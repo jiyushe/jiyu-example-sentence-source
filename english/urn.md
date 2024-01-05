@@ -1,5 +1,7 @@
 # urn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urn.md)
+
 <p><span class="chinese">在一个台基或者支撑物上竖直地站。</span><span class="english">The urn stands on a pedestal.</span></p>
 
 <p><span class="chinese">葬礼结束后，我把骨灰盒带走了。</span><span class="english">Afterward, I take the urn with me.</span></p>

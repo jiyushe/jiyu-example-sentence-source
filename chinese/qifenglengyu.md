@@ -1,5 +1,7 @@
 # 凄风冷雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifenglengyu.md)
+
 <p><span class="chinese">他在凄风冷雨中荡来荡去。</span><span class="english">He wandered about in the chill rain.</span></p>
 
 <p><span class="chinese">冬天伴着凄风冷雨一起来了。</span><span class="english">The winter came with the wind and the rain.</span></p>

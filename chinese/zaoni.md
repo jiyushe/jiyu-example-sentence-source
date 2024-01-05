@@ -1,5 +1,7 @@
 # 枣泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoni.md)
+
 <p><span class="chinese">我也学到了怎么做枣泥酥。</span><span class="english">I also learned how to make a red date paltry.</span></p>
 
 <p><span class="chinese">之后，加入枣泥，拌匀。下图。</span><span class="english">When combined, add the date mixture and mix well.</span></p>

@@ -1,5 +1,7 @@
 # infirmary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infirmary.md)
+
 <p><span class="chinese">他今晚要从医务室出来了。</span><span class="english">He’s getting out of the infirmary tonight.</span></p>
 
 <p><span class="chinese">汉娜躺在病房里的一间小屋子里。</span><span class="english">Hanna lay in the infirmary in a small cubicle.</span></p>

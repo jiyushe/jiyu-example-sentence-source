@@ -1,5 +1,7 @@
 # kathleen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kathleen.md)
+
 <p><span class="chinese">凯思琳。</span><span class="english">Kathleen.</span></p>
 
 <p><span class="chinese">凯斯林.丹。</span><span class="english">Kathleen Dan.</span></p>

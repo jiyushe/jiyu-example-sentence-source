@@ -1,5 +1,7 @@
 # reforming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reforming.md)
+
 <p><span class="chinese">第三是要深化外贸体制改革。</span><span class="english">Third, deepen reforming trade system.</span></p>
 
 <p><span class="chinese">但是革命可能会是改革文字。</span><span class="english">It might, however, be reforming orthography.</span></p>

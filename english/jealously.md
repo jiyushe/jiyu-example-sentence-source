@@ -1,5 +1,7 @@
 # jealously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jealously.md)
+
 <p><span class="chinese">不要浪费你的时间在嫉妒上。</span><span class="english">Don’t waste your time on jealously.</span></p>
 
 <p><span class="chinese">我不会把我的时间浪费在嫉妒上。</span><span class="english">I will not waste my time on jealously.</span></p>

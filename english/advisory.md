@@ -1,5 +1,7 @@
 # advisory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advisory.md)
+
 <p><span class="chinese">西莉亚飓风公开报道.</span><span class="english">Hurricane Celia Public Advisory.</span></p>
 
 <p><span class="chinese">阿莱克斯飓风公开报道第21号.</span><span class="english">Hurricane Alex Public Advisory No. 21.</span></p>

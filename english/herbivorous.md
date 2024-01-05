@@ -1,5 +1,7 @@
 # herbivorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbivorous.md)
+
 <p><span class="chinese">鹿是食草动物。</span><span class="english">Deer are herbivorous.</span></p>
 
 <p><span class="chinese">食草动物的犬牙很小或者没有。</span><span class="english">Herbivorous animals have very small canine teeth, or none.</span></p>

@@ -1,5 +1,7 @@
 # gulf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gulf.md)
+
 <p><span class="chinese">六十法郎白扔在河里。</span><span class="english">Sixty francs in the gulf.</span></p>
 
 <p><span class="chinese">女巫干尸貌狰狞。</span><span class="english">Witches' mummy  maw and  gulf.</span></p>

@@ -1,5 +1,7 @@
 # 河港
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hegang.md)
+
 <p><span class="chinese">建城于11世纪，是铁路枢纽和河港。</span><span class="english">Founded in the 11th century, it is a railroad junction and river port.</span></p>
 
 <p><span class="chinese">像比利时安特卫普这样的大型老旧河港同样处于劣势。</span><span class="english">Big, older river ports like Antwerp in Belgium are also at a disadvantage.</span></p>

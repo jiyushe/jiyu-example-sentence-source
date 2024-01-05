@@ -1,5 +1,7 @@
 # broil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broil.md)
+
 <p><span class="chinese">烤牛排。</span><span class="english">Broil the steak.</span></p>
 
 <p><span class="chinese">我们烤什么吃？</span><span class="english">What shall we broil?</span></p>

@@ -1,5 +1,7 @@
 # cephalopod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cephalopod.md)
+
 <p><span class="chinese">头足类是认为未来重要蛋白质来源之一。</span><span class="english">Cephalopod is one of the important sources of protein for human.</span></p>
 
 <p><span class="chinese">但这个两岁的头足类生物最终返回了它的第一选择。</span><span class="english">But the two-year-old cephalopod eventually returned to his first choice.</span></p>

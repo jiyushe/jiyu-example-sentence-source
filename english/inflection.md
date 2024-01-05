@@ -1,5 +1,7 @@
 # inflection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflection.md)
+
 <p><span class="chinese">我们正处于拐点。</span><span class="english">We are at the inflection point.</span></p>
 
 <p><span class="chinese">能否成为美国市场转折点？</span><span class="english">An Inflection Point in the US Market?</span></p>

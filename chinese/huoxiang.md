@@ -1,5 +1,7 @@
 # 活像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoxiang.md)
+
 <p><span class="chinese">一个坐在那里傻瞪着眼，活像一座木乃伊。</span><span class="english">That one sits staring like a mummy.</span></p>
 
 <p><span class="chinese">你现在难过的样子活像弃妇。</span><span class="english">Now you look like an abandoned woman.</span></p>

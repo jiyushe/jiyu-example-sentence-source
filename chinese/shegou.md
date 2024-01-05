@@ -1,5 +1,7 @@
 # 赊购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shegou.md)
+
 <p><span class="chinese">那自行车是我赊购的。</span><span class="english">I buy that bike on credit.</span></p>
 
 <p><span class="chinese">那自行车是我赊购的。</span><span class="english">I bought that bike on credit.</span></p>

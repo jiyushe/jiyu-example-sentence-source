@@ -1,5 +1,7 @@
 # malleolus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malleolus.md)
+
 <p><span class="chinese">结论腓骨头与外踝较为相似。</span><span class="english">Conclusion Fibular head is similar to lateral malleolus.</span></p>
 
 <p><span class="chinese">度三角韧带断裂或内踝撕脱骨折。</span><span class="english">Stage I. Rupture of deltoid ligament or avulsion of medial malleolus.</span></p>

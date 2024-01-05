@@ -1,5 +1,7 @@
 # 撞针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangzhen.md)
+
 <p><span class="chinese">所以，她把枪里的撞针卸了出来。</span><span class="english">So she took the firing pin out of the gun.</span></p>
 
 <p><span class="chinese">螺栓的撞针在其体内精。</span><span class="english">The bolt has firing pin milled in its body.</span></p>

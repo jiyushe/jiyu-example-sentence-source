@@ -1,5 +1,7 @@
 # clocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clocking.md)
+
 <p><span class="chinese">25名索马里穆斯林因工间祈祷时未打卡被开除</span><span class="english">Hertz fires 25 Somali Muslims for not clocking out to pray</span></p>
 
 <p><span class="chinese">那时候的我，有点像一个工作狂，一周至少工作六十小时。</span><span class="english">At the time, I was somewhat of a workaholic, clocking in sixty-hour weeks.</span></p>

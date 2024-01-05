@@ -1,5 +1,7 @@
 # na
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/na.md)
+
 <p><span class="chinese">果园的姑娘哦阿娜尔罕哟。</span><span class="english">A girl named Na Hanyo in the orchard.</span></p>
 
 <p><span class="chinese">让我们去往城让我们上城里去吧。</span><span class="english">Lase na ki ad urba. Let's go to town.</span></p>

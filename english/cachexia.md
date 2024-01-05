@@ -1,5 +1,7 @@
 # cachexia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cachexia.md)
+
 <p><span class="chinese">参附注射液抗癌症恶病质的临床研究。</span><span class="english">Clinical study on anticancer cachexia of Shenfu Injection.</span></p>
 
 <p><span class="chinese">平肺口服液治疗肺癌恶病质是通过多途径发挥作用的。</span><span class="english">The mechanism of PingFei Mixture treating cachexia is complex.</span></p>

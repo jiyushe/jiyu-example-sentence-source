@@ -1,5 +1,7 @@
 # entreat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entreat.md)
+
 <p><span class="chinese">我恳求你帮助。</span><span class="english">I entreat your help.</span></p>
 
 <p><span class="chinese">我恳求你帮助。</span><span class="english">I entreat your pardon.</span></p>

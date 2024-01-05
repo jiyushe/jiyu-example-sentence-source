@@ -1,5 +1,7 @@
 # 大粪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafen.md)
+
 <p><span class="chinese">我们可以一起做个“大粪”吗？</span><span class="english">Can we make a Turd?</span></p>
 
 <p><span class="chinese">不过是兽群中的一堆大粪罢了。</span><span class="english">Nothing but a turd in the herd.</span></p>

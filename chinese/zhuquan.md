@@ -1,5 +1,7 @@
 # 猪圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuquan.md)
+
 <p><span class="chinese">简直就是个猪圈。</span><span class="english">A real sty.</span></p>
 
 <p><span class="chinese">这地方跟猪圈一样。</span><span class="english">This place is a pigsty.</span></p>

@@ -1,5 +1,7 @@
 # douche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/douche.md)
+
 <p><span class="chinese">她的申请被驳回了。</span><span class="english">The application of a douche.</span></p>
 
 <p><span class="chinese">冲洗治疗法使用冲洗液冲洗或治疗。</span><span class="english">To cleanse or treat by means of a douche.</span></p>

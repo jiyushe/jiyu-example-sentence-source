@@ -1,5 +1,7 @@
 # 荆芥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjie.md)
+
 <p><span class="chinese">本发明公开了处理荆芥油的方法。</span><span class="english">Disclosed are methods for treating catmint oil.</span></p>
 
 <p><span class="chinese">目的探讨荆芥炭的最佳炮制程度。</span><span class="english">OBJECTIVE Study on the best processing degree of carbonized catnip.</span></p>

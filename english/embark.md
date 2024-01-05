@@ -1,5 +1,7 @@
 # embark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embark.md)
+
 <p><span class="chinese">我们在蒙特利尔上船去纽约。</span><span class="english">We embark at Montreal for New York.</span></p>
 
 <p><span class="chinese">小西中午将乘船去大连。</span><span class="english">Xiaoxi will embark for dalian at midday.</span></p>

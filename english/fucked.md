@@ -1,5 +1,7 @@
 # fucked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fucked.md)
+
 <p><span class="chinese">我们刚刚连着干了三次呢！</span><span class="english">We had just fucked three times!</span></p>
 
 <p><span class="chinese">这回你可真他妈搞砸了。</span><span class="english">You really fucked up this time.</span></p>

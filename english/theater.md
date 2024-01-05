@@ -1,5 +1,7 @@
 # theater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theater.md)
+
 <p><span class="chinese">梦剧场。</span><span class="english">Dream Theater.</span></p>
 
 <p><span class="chinese">你喜欢看戏吗？</span><span class="english">Do you enjoy the theater?</span></p>

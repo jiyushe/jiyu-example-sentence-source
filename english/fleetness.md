@@ -1,5 +1,7 @@
 # fleetness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleetness.md)
+
 <p><span class="chinese">我以不可思议的速度进行攻击，而我的敌人则被夺走的他们的速度。</span><span class="english">I strike with preternatural speed and my enemies are robbed of their fleetness.</span></p>
 
 <p><span class="chinese">提出智能化机器视觉快速测量策略。</span><span class="english">The policy of fleetness measure is put forwarded to form intellectualized vision.</span></p>

@@ -1,5 +1,7 @@
 # curve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curve.md)
+
 <p><span class="chinese">这是一条向里弯曲的曲线。</span><span class="english">This is an inward curve.</span></p>
 
 <p><span class="chinese">在转弯处千万不要超车!</span><span class="english">Never overtake on a curve.</span></p>

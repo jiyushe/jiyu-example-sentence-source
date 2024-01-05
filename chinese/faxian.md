@@ -1,5 +1,7 @@
 # 发现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/faxian.md)
+
 <p><span class="chinese">我们发现星云了！</span><span class="english">Wehave a nebula!</span></p>
 
 <p><span class="chinese">结果发现是鸟屎。</span><span class="english">It was bird shit.</span></p>

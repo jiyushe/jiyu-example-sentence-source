@@ -1,5 +1,7 @@
 # clink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clink.md)
+
 <p><span class="chinese">喝酒为什么要碰杯？</span><span class="english">Why clink while drinking?</span></p>
 
 <p><span class="chinese">他们碰杯喝酒。</span><span class="english">They clink glasses and drink.</span></p>

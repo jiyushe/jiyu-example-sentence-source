@@ -1,5 +1,7 @@
 # ulna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulna.md)
+
 <p><span class="chinese">肱骨、桡骨和尺骨在哪儿？</span><span class="english">Where are you humerus, radius, and ulna?</span></p>
 
 <p><span class="chinese">桡尺骨骨折是几个手术？？？？</span><span class="english">A few operations is oar ulna fracture? ? ? ?</span></p>

@@ -1,5 +1,7 @@
 # verona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verona.md)
+
 <p><span class="chinese">但是维洛那城是我的家呀。</span><span class="english">But Verona is my home.</span></p>
 
 <p><span class="chinese">伊斯克罗斯，维罗纳亲王。</span><span class="english">Escalus, Prince of Verona.</span></p>

@@ -1,5 +1,7 @@
 # aerator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerator.md)
+
 <p><span class="chinese">潜水搅拌机，曝气器等。</span><span class="english">And submersible mixer, aerator etc.</span></p>
 
 <p><span class="chinese">放入一个特点，如瀑布，喷泉，或曝气。</span><span class="english">Add a feature such as a waterfall, fountain, or aerator.</span></p>

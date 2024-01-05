@@ -1,5 +1,7 @@
 # woodwind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodwind.md)
+
 <p><span class="chinese">英国管属于木管乐器。</span><span class="english">Cor Anglais belongs to woodwind section.</span></p>
 
 <p><span class="chinese">他获得木管乐器组一等奖。</span><span class="english">He won first prize in the woodwind section.</span></p>

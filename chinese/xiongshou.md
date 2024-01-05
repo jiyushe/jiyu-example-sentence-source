@@ -1,5 +1,7 @@
 # 凶手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongshou.md)
+
 <p><span class="chinese">我们喜欢上凶手。</span><span class="english">We love our murderer.</span></p>
 
 <p><span class="chinese">凶手是职业杀手。</span><span class="english">Your killer is a pro.</span></p>

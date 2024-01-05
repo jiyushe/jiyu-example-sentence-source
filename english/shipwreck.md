@@ -1,5 +1,7 @@
 # shipwreck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipwreck.md)
+
 <p><span class="chinese">沉船岛南部海面的曼尼。</span><span class="english">Shipwreck off South Manitou Island.</span></p>
 
 <p><span class="chinese">海难的罹难者一个都没找到。</span><span class="english">No victim of the shipwreck has been found.</span></p>

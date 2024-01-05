@@ -1,5 +1,7 @@
 # 敷设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushe.md)
+
 <p><span class="chinese">敷设在室内，隧道，电缆沟，管道等固定场合。</span><span class="english">Flaying indoor, in tunnels, ducts, conduit etc.</span></p>
 
 <p><span class="chinese">她学会了自己给房子拉接电线、敷设水管。</span><span class="english">She learned to wire and plumb the house herself.</span></p>

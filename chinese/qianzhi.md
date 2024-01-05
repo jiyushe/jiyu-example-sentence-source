@@ -1,5 +1,7 @@
 # 前肢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhi.md)
+
 <p><span class="chinese">头部和前肢毛发较短。</span><span class="english">Head and forelimb of short hair.</span></p>
 
 <p><span class="chinese">狼爪可以切除，足爪与前肢相同。</span><span class="english">Dewclaws may be removed. Feet as in front.</span></p>

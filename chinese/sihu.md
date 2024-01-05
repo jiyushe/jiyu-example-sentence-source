@@ -1,5 +1,7 @@
 # 似乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihu.md)
+
 <p><span class="chinese">这似乎正确。</span><span class="english">This seems right.</span></p>
 
 <p><span class="chinese">可是你似乎很伤心。</span><span class="english">You seemed so sad.</span></p>

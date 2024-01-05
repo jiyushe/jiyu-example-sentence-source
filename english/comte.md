@@ -1,5 +1,7 @@
 # comte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comte.md)
+
 <p><span class="chinese">它倔强地重复着孔德的谬论。</span><span class="english">It stubbornly repeats all the fallacies of Comte.</span></p>
 
 <p><span class="chinese">正是从这个意义上说，孔德抛弃了经验主义。</span><span class="english">It is in this sense that Comte repudiates empiricism.</span></p>

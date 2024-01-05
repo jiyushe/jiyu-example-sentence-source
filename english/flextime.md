@@ -1,5 +1,7 @@
 # flextime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flextime.md)
+
 <p><span class="chinese">弹性上班制度对环境也有益。</span><span class="english">Flextime is good for the environment too.</span></p>
 
 <p><span class="chinese">你认为弹性时间工作制影响你的生产率?。</span><span class="english">Do you think that flextime has affected your productivity?</span></p>

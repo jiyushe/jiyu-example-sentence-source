@@ -1,5 +1,7 @@
 # dioxane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dioxane.md)
+
 <p><span class="chinese">因AES而产生的二恶烷会致癌吗？</span><span class="english">Does dioxane generated from AES cause cancer?</span></p>
 
 <p><span class="chinese">在二氧六环中它们的量子产率为0.4左右。</span><span class="english">Their quantum yields were about 0.4 in dioxane.</span></p>

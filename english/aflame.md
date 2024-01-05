@@ -1,5 +1,7 @@
 # aflame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aflame.md)
+
 <p><span class="chinese">然后去把火苗儿吹起。</span><span class="english">I went to blow the fire aflame.</span></p>
 
 <p><span class="chinese">街上灯火辉煌。</span><span class="english">The street is aflame with lamps.</span></p>

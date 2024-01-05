@@ -1,5 +1,7 @@
 # 使者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhe.md)
+
 <p><span class="chinese">你是我的使者。</span><span class="english">You are my emissaries.</span></p>
 
 <p><span class="chinese">他，是绿色的使者。</span><span class="english">He, it is green emissary.</span></p>

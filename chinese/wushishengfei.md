@@ -1,5 +1,7 @@
 # 无事生非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushishengfei.md)
+
 <p><span class="chinese">这个故事的道德是，“不要无事生非。”</span><span class="english">The moral to this story is, "Don't make much ado about nothing."</span></p>
 
 <p><span class="chinese">外局人或认为我们小题大做、无事生非。</span><span class="english">To an outsider, they may say that we are much ado about nothing.</span></p>

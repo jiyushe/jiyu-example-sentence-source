@@ -1,5 +1,7 @@
 # carrageenin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrageenin.md)
+
 <p><span class="chinese">应用角叉菜胶致大鼠足跖肿胀。</span><span class="english">Use carrageenin to make white rats' toes tumorous.</span></p>
 
 <p><span class="chinese">方法使用大鼠和小鼠前列腺增生模型及角叉菜胶炎症模型。</span><span class="english">Methods Experimental BPH was induced in mice and rats, and carrageenin was used to induce inflammation.</span></p>

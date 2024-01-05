@@ -1,5 +1,7 @@
 # 毕业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biye.md)
+
 <p><span class="chinese">中技或高中以上毕业。</span><span class="english">High school or above.</span></p>
 
 <p><span class="chinese">是的。我是一九三七年毕业的。</span><span class="english">Yup. I graduated in 1937.</span></p>

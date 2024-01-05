@@ -1,5 +1,7 @@
 # 简陋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianlou.md)
+
 <p><span class="chinese">这所学校设备简陋。</span><span class="english">The school is poorly equipped.</span></p>
 
 <p><span class="chinese">林家人住在简陋的房子里。</span><span class="english">The Lins live in a humble house.</span></p>

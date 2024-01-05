@@ -1,5 +1,7 @@
 # coordinates
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coordinates.md)
+
 <p><span class="chinese">这就是8-201室的位置。</span><span class="english">There is the coordinates 8-201.</span></p>
 
 <p><span class="chinese">也可能取其中一个坐标。</span><span class="english">It might be one of the coordinates.</span></p>

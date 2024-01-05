@@ -1,5 +1,7 @@
 # 著书立说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushulishuo.md)
+
 <p><span class="chinese">书面文化的主要传播方式是著书立说。</span><span class="english">Written cultural transmission was mainly writing books.</span></p>
 
 <p><span class="chinese">此外，他还著书立说，积极宣扬西方文化。</span><span class="english">What's more, wrote books to advocate the western culture.</span></p>

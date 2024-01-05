@@ -1,5 +1,7 @@
 # dipstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dipstick.md)
+
 <p><span class="chinese">机油加到机油尺最高位。</span><span class="english">Add oil level to dipstick max level.</span></p>
 
 <p><span class="chinese">安装引擎机油尺并确认它安放在管中。</span><span class="english">Install dipstick and verify it is seated in e tube.</span></p>

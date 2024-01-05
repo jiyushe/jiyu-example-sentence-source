@@ -1,5 +1,7 @@
 # 童声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongsheng.md)
+
 <p><span class="chinese">美妙的童声向夜莺在歌唱。</span><span class="english">Children's voice like nightingale singing.</span></p>
 
 <p><span class="chinese">这个小女孩用尖尖的童声讲话。</span><span class="english">The little girl spoke in a high childish voice.</span></p>

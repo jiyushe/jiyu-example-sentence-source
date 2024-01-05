@@ -1,5 +1,7 @@
 # 上弦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxian.md)
+
 <p><span class="chinese">她会给小提琴上弦。</span><span class="english">She can string a violin.</span></p>
 
 <p><span class="chinese">这只表需要上弦了。</span><span class="english">This watch needs winding up.</span></p>

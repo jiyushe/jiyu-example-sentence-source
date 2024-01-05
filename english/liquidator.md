@@ -1,5 +1,7 @@
 # liquidator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquidator.md)
+
 <p><span class="chinese">公司清算人制度。</span><span class="english">Company's liquidator system.</span></p>
 
 <p><span class="chinese">商业房产经理—清算人。</span><span class="english">Commercial real estate manager -- liquidator.</span></p>

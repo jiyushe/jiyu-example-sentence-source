@@ -1,5 +1,7 @@
 # forward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forward.md)
+
 <p><span class="chinese">向意大义前进！</span><span class="english">Forward to Italy!</span></p>
 
 <p><span class="chinese">只要上前</span><span class="english">Just come forward.</span></p>

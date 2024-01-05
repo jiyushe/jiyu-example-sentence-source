@@ -1,5 +1,7 @@
 # assuredness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assuredness.md)
+
 <p><span class="chinese">自信地说出来。</span><span class="english">Say it with assuredness.</span></p>
 
 <p><span class="chinese">或许是的，他确实太累了。</span><span class="english">Probably and yes, his assuredness are too tired.</span></p>

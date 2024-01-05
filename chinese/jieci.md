@@ -1,5 +1,7 @@
 # 借词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieci.md)
+
 <p><span class="chinese">汉语借词是汉语与汉外文化接触的产物。</span><span class="english">Loan words are products of cultural contacts.</span></p>
 
 <p><span class="chinese">借词是一个普遍的语言现象。</span><span class="english">Borrowing is a universal linguistic phenomenon.</span></p>

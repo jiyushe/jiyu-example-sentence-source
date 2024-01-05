@@ -1,5 +1,7 @@
 # damper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damper.md)
+
 <p><span class="chinese">粘滞阻尼器的特点。</span><span class="english">Features of Viscous Damper.</span></p>
 
 <p><span class="chinese">现在制音器变成必需设备，救助器！</span><span class="english">Now the damper became a must a life saver!</span></p>

@@ -1,5 +1,7 @@
 # instil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instil.md)
+
 <p><span class="chinese">灌输知识以及人的情感。</span><span class="english">Instil into knowledge as well as the feelings of person.</span></p>
 
 <p><span class="chinese">灌输安宁与过度温泉水区域的启发治疗。</span><span class="english">Instil tranquility with regionally inspired treatments in an over-water spa.</span></p>

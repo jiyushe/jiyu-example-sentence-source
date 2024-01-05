@@ -1,5 +1,7 @@
 # outpace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outpace.md)
+
 <p><span class="chinese">这些气垫船能轻易超过大多数小船。</span><span class="english">These hovercrafts can easily outpace most boats.</span></p>
 
 <p><span class="chinese">但加元很可能会超过美元在今后几年。</span><span class="english">But the Loonie is likely to outpace the US dollar for years to come.</span></p>

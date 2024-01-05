@@ -1,5 +1,7 @@
 # gimbals
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gimbals.md)
+
 <p><span class="chinese">1945年，詹姆斯首次在费城玩具城参加玩具推销会。</span><span class="english">In 1945, James debuted the toy at a Gimbals in Philadelphia.</span></p>
 
 <p><span class="chinese">此内转台可在其自身平面内绕其轴线A转动，并装在一个位于圆环里面的常平架上。</span><span class="english">This turnable can be rotated in its own plane about its axis A. and is mounted on gimbals within a ring.</span></p>

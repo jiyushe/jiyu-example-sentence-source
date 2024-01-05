@@ -1,5 +1,7 @@
 # wired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wired.md)
+
 <p><span class="chinese">她拍电报给家里要钱。</span><span class="english">She wired home for money.</span></p>
 
 <p><span class="chinese">他给我拍电报说我已及格。</span><span class="english">He wired me that I had passed.</span></p>

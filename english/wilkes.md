@@ -1,5 +1,7 @@
 # wilkes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilkes.md)
+
 <p><span class="chinese">安妮·威克斯我有这把枪。</span><span class="english">Annie Wilkes I have this gun.</span></p>
 
 <p><span class="chinese">约翰.威尔克斯白活了么？</span><span class="english">Did John Wilkes live in vain?</span></p>

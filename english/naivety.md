@@ -1,5 +1,7 @@
 # naivety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naivety.md)
+
 <p><span class="chinese">她丝毫没有失去那份天真烂漫。</span><span class="english">She has lost none of her naivety.</span></p>
 
 <p><span class="chinese">这真是有些自我陶醉天真烂漫。</span><span class="english">Its a mixture of narcissism and naivety.</span></p>

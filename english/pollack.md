@@ -1,5 +1,7 @@
 # pollack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollack.md)
+
 <p><span class="chinese">在被问到对Spring.NET的未来打算时，Pollack说到</span><span class="english">When asked about future plans for Spring.NET, Pollack said</span></p>
 
 <p><span class="chinese">波拉克是猛虎队2005年挑选的首名新秀，排名第17顺位。</span><span class="english">Pollack was the Bengals top draft choice in 2005, selected 17th overall.</span></p>

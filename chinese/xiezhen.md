@@ -1,5 +1,7 @@
 # 写真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezhen.md)
+
 <p><span class="chinese">这是我从未有过的于陌生人的写真体验。</span><span class="english">A stranger photo sesh I've never had.</span></p>
 
 <p><span class="chinese">他对顾露底写真，客总是不守信用。</span><span class="english">He always breaks faith with his clients.</span></p>

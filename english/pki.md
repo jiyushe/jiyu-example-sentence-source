@@ -1,5 +1,7 @@
 # pki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pki.md)
+
 <p><span class="chinese">现有网格的安全尺度采取了基于X.509证书的PKI机制。</span><span class="english">Grid security is based on the PKI certificate X. 509 mechanism.</span></p>
 
 <p><span class="chinese">这三个方面分别代表三维结构中的时间维、技术维和管理维。</span><span class="english">The new architecture is a three-dimensional model and based on PKI.</span></p>

@@ -1,5 +1,7 @@
 # holt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holt.md)
+
 <p><span class="chinese">“大博弈”托里霍尔特仍然可以赶上。</span><span class="english">Big Game Torry Holt can still catch.</span></p>
 
 <p><span class="chinese">朱丽叶·肖尔与道格拉斯·霍尔特编辑。</span><span class="english">Edited by Juliet Schor and Douglas Holt.</span></p>

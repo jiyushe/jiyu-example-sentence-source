@@ -1,5 +1,7 @@
 # 寒风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanfeng.md)
+
 <p><span class="chinese">你可害怕寒风凛冽？</span><span class="english">Do You Fear the Wind?</span></p>
 
 <p><span class="chinese">它们讨厌寒风。</span><span class="english">They dislike cold winds.</span></p>

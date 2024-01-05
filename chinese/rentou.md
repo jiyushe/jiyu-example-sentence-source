@@ -1,5 +1,7 @@
 # 人头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rentou.md)
+
 <p><span class="chinese">我今天刚拣到一个人头！</span><span class="english">Today I just picked up a head!</span></p>
 
 <p><span class="chinese">一张牌是插在两张人头牌中。</span><span class="english">A card is put between two picture cards.</span></p>

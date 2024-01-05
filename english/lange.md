@@ -1,5 +1,7 @@
 # lange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lange.md)
+
 <p><span class="chinese">乌韦兰格是一个48岁的验船师。</span><span class="english">Uwe Lange is a 48-year-old surveyor.</span></p>
 
 <p><span class="chinese">兰格先生将我送上双杠。</span><span class="english">Mr. Lange lifted me up to the parallel bars.</span></p>

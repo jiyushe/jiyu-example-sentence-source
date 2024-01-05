@@ -1,5 +1,7 @@
 # 甘当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandang_1.md)
+
 <p><span class="chinese">我甘当孺子牛，终生为国家服务。</span><span class="english">I'm willing to be an ox serving the country all my life.</span></p>
 
 <p><span class="chinese">还有一些没加入PBHA的学生甘当志愿者。</span><span class="english">There are other students who outside PBHA and who volunteer.</span></p>

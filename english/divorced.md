@@ -1,5 +1,7 @@
 # divorced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divorced.md)
+
 <p><span class="chinese">琼斯太太与她丈夫离婚了。</span><span class="english">Mrs. John divorced her husband.</span></p>
 
 <p><span class="chinese">五年后，两人分道扬镳。</span><span class="english">They divorced five years later.</span></p>

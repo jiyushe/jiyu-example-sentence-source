@@ -1,5 +1,7 @@
 # noontide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noontide.md)
+
 <p><span class="chinese">我们在中午离开家。</span><span class="english">We left home at the noontide.</span></p>
 
 <p><span class="chinese">即便在中午，它也会和她一起坐在花园里。</span><span class="english">Even at noontide it sat with her in the garden.</span></p>

@@ -1,5 +1,7 @@
 # 相差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangcha.md)
+
 <p><span class="chinese">但这和去博物馆参观相差太多了。</span><span class="english">But it's definitely a lot,</span></p>
 
 <p><span class="chinese">我们的生日只相差一天。</span><span class="english">Our birthdays are only one day apart.</span></p>

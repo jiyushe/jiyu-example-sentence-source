@@ -1,5 +1,7 @@
 # 林涛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lintao.md)
+
 <p><span class="chinese">我将为你转接给林涛。</span><span class="english">I'll get Lintao for you.</span></p>
 
 <p><span class="chinese">你是林涛吗？—是的。</span><span class="english">Are you Lin Tao? —Yes, I'm.</span></p>

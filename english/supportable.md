@@ -1,5 +1,7 @@
 # supportable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supportable.md)
+
 <p><span class="chinese">你可以从这个事实中得出一些站得住脚的结论。</span><span class="english">You can draw some supportable conclusion from the fact.</span></p>
 
 <p><span class="chinese">有些人是有合法声明，但大多是都没有。</span><span class="english">Some of those people have legitimate claims, but most are not supportable.</span></p>

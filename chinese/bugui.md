@@ -1,5 +1,7 @@
 # 不轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugui.md)
+
 <p><span class="chinese">不要心怀不轨。</span><span class="english">Don't harbor unkind thoughts.</span></p>
 
 <p><span class="chinese">那个人行为不轨。</span><span class="english">That man acted against the law.</span></p>

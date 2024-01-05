@@ -1,5 +1,7 @@
 # clarifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarifier.md)
+
 <p><span class="chinese">供应及安装净化底部排水阀。</span><span class="english">Supply and install clarifier bottom drain valves.</span></p>
 
 <p><span class="chinese">供应及安装净化回收水闸阀门。</span><span class="english">Supply and install clarifier recycling sluice valves.</span></p>

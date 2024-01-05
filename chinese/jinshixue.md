@@ -1,5 +1,7 @@
 # 金石学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshixue.md)
+
 <p><span class="chinese">扎实的知识，专注的用心，其在金石学的研究上成绩卓然。</span><span class="english">Solid knowledge of the intention to focus its research on epigraphy Zoran grade.</span></p>
 
 <p><span class="chinese">第八版采用了最新的考古和金石学研究。</span><span class="english">The eighth edition incorporates the latest archaeological and epigraphic research.</span></p>

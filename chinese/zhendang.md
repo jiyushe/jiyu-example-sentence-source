@@ -1,5 +1,7 @@
 # 振荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendang.md)
+
 <p><span class="chinese">这是个简单谐波振荡。</span><span class="english">This is a simple harmonic oscillation.</span></p>
 
 <p><span class="chinese">所以我先让它,来回振荡一次。</span><span class="english">So I will allow it one oscillation first.</span></p>

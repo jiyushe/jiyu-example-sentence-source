@@ -1,5 +1,7 @@
 # lugouqiao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lugouqiao.md)
+
 <p><span class="chinese">卢沟桥医院是奥运会定点医院。</span><span class="english">Lugouqiao hospital is an Olympic designated hospital.</span></p>
 
 <p><span class="chinese">很多人都设法想数清卢沟桥上的狮子。</span><span class="english">Many people try to count the member of lions on Lugouqiao Bridge.</span></p>

@@ -1,5 +1,7 @@
 # 先声夺人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshengduoren.md)
+
 <p><span class="chinese">那一茉丰腴细腻，先声夺人的品质。</span><span class="english">Mo which, heavily fine, the head start quality.</span></p>
 
 <p><span class="chinese">临阵一吹，就可以先声夺人，震破敌人的肝胆！</span><span class="english">Cold wind, you can break the enemy's attack, hepatobiliary!</span></p>

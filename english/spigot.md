@@ -1,5 +1,7 @@
 # spigot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spigot.md)
+
 <p><span class="chinese">这种点击付费的竞价营销模式又一次开启了Google新一轮的现金流交易。</span><span class="english">Pay-per-click auctions opened a cash spigot.</span></p>
 
 <p><span class="chinese">现在该你了，小熊，你可以把龙头敲进这里。</span><span class="english">And now Bear, you can tap the spigot into place.</span></p>

@@ -1,5 +1,7 @@
 # whoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whoa.md)
+
 <p><span class="chinese">停。这肯定是贾妮斯。</span><span class="english">Whoa. This must be Janice.</span></p>
 
 <p><span class="chinese">准确的说，我想，我们都叫道“哇哦”。</span><span class="english">Actually, I think we both said "Whoa."</span></p>

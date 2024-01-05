@@ -1,5 +1,7 @@
 # 公产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchan.md)
+
 <p><span class="chinese">行政公产有诸多不同于私有产权的法律特色。</span><span class="english">It has legal characteristics much different from private belongings.</span></p>
 
 <p><span class="chinese">在贺麟的心目中，文化是世界的，是人类的公产。</span><span class="english">In Helm's view, culture is the world's and mankind's public property.</span></p>

@@ -1,5 +1,7 @@
 # plush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plush.md)
+
 <p><span class="chinese">然后，像块红色的绒布。</span><span class="english">Then that red plush.</span></p>
 
 <p><span class="chinese">那是一家豪华旅馆吗?。</span><span class="english">Is that a plush hotel?</span></p>

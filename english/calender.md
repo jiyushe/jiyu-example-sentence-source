@@ -1,5 +1,7 @@
 # calender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calender.md)
+
 <p><span class="chinese">你再看看所有打印压延需要。</span><span class="english">Look no further for all your printable calender needs.</span></p>
 
 <p><span class="chinese">光泽压光机是涂布纸板、涂布卡纸的重要整饰装置。</span><span class="english">Gloss calender is the important finishing equipment for coated board.</span></p>

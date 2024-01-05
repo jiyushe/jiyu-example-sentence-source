@@ -1,5 +1,7 @@
 # organisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organisation.md)
+
 <p><span class="chinese">填写您的企业概况。</span><span class="english">Fill out your organisation profile.</span></p>
 
 <p><span class="chinese">乐施会，这是一个国际组织。</span><span class="english">Oxfam, yeah, international organisation.</span></p>

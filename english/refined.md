@@ -1,5 +1,7 @@
 # refined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refined.md)
+
 <p><span class="chinese">这些石油将被精炼。</span><span class="english">The oil will be refined.</span></p>
 
 <p><span class="chinese">百忍岂能炼成金？</span><span class="english">Can endure refined into gold?</span></p>

@@ -1,5 +1,7 @@
 # hooky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hooky.md)
+
 <p><span class="chinese">今天我们逃学吧。</span><span class="english">Lets play hooky today!</span></p>
 
 <p><span class="chinese">今天我们逃学吧！</span><span class="english">Let's paly hooky today!</span></p>

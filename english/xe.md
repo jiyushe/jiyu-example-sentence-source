@@ -1,5 +1,7 @@
 # xe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xe.md)
+
 <p><span class="chinese">却有水雾氤湿了眉间。</span><span class="english">There mist Xe wet brow.</span></p>
 
 <p><span class="chinese">现在看来一个安全的赌注，汽车将被命名为氙气。</span><span class="english">It now appears a safe bet that vehicle will be named XE.</span></p>

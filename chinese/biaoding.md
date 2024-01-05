@@ -1,5 +1,7 @@
 # 标定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoding.md)
+
 <p><span class="chinese">这是其中的一个标定程序。</span><span class="english">This is one of a calibration procedure.</span></p>
 
 <p><span class="chinese">计量器具与生产仪表等得标定。</span><span class="english">Equipment and rulers and gage demarcate.</span></p>

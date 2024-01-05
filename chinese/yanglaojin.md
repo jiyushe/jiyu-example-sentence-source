@@ -1,5 +1,7 @@
 # 养老金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanglaojin.md)
+
 <p><span class="chinese">他们的养老金随物价指数浮动。</span><span class="english">Their pensions are index-linked.</span></p>
 
 <p><span class="chinese">养老金缺口总额近9700亿美元。</span><span class="english">It totals nearly 97 billion dollars.</span></p>

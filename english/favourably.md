@@ -1,5 +1,7 @@
 # favourably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favourably.md)
+
 <p><span class="chinese">实物模型会看不起更有利。</span><span class="english">Mockups will be looked upon more favourably.</span></p>
 
 <p><span class="chinese">大家对这部影片反应很好。</span><span class="english">People responded very favourably to the film.</span></p>

@@ -1,5 +1,7 @@
 # Georgia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/georgia_1.md)
+
 <p><span class="chinese">乔治娅问我。</span><span class="english">Georgia asked me.</span></p>
 
 <p><span class="chinese">哦，对，还有乔治亚理工学院。</span><span class="english">Oh, and Georgia Tech.</span></p>

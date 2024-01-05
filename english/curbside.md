@@ -1,5 +1,7 @@
 # curbside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curbside.md)
+
 <p><span class="chinese">使用路边报到服务。</span><span class="english">Use Curbside Check-In.</span></p>
 
 <p><span class="chinese">最常见的是一个大字信箱里。</span><span class="english">The most common is a curbside mailbox.</span></p>

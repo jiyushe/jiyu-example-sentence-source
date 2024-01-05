@@ -1,5 +1,7 @@
 # nepenthes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nepenthes.md)
+
 <p><span class="chinese">福建莆田有没有猪笼草？</span><span class="english">Do Fujian Pu Tian City have common nepenthes?</span></p>
 
 <p><span class="chinese">变成喜爱欺负霸凌别人的不良猪儿！</span><span class="english">He became a bad boy, and like to bully weak nepenthes.</span></p>

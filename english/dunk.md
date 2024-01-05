@@ -1,5 +1,7 @@
 # dunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunk.md)
+
 <p><span class="chinese">他跳起来扣篮。</span><span class="english">He jumped and slam dunk.</span></p>
 
 <p><span class="chinese">在梦中我能扣篮。</span><span class="english">In my dreams, I can dunk.</span></p>

@@ -1,5 +1,7 @@
 # 熟石灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushihui.md)
+
 <p><span class="chinese">墙壁上没有壁纸，没有绘画，没有熟石灰。</span><span class="english">No wallpaper, no paint, no slaked lime.</span></p>
 
 <p><span class="chinese">不要使用生石灰或是熟石灰。</span><span class="english">Do not use slaked lime or unslaked lime.</span></p>

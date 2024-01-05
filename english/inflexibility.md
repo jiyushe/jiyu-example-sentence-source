@@ -1,5 +1,7 @@
 # inflexibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflexibility.md)
+
 <p><span class="chinese">但最大的问题还是缺乏灵活性。</span><span class="english">But still the biggest problem is inflexibility.</span></p>
 
 <p><span class="chinese">这种方法的问题是它不够灵活。</span><span class="english">The problem with this approach is its inflexibility.</span></p>

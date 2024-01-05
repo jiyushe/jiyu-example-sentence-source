@@ -1,5 +1,7 @@
 # deliberately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliberately.md)
+
 <p><span class="chinese">你故意忤逆我。</span><span class="english">You deliberately disobey me.</span></p>
 
 <p><span class="chinese">慢慢地并谨慎地做事。</span><span class="english">Do it slowly and deliberately.</span></p>

@@ -1,5 +1,7 @@
 # 起事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_6.md)
+
 <p><span class="chinese">我和吉姆对起事的意见从来不一致。</span><span class="english">Jim and I have never seen eye to eye on this matter.</span></p>
 
 <p><span class="chinese">要是我下令掉头的话，他们会立刻起事的。</span><span class="english">If i gave the word to go about , they would rise at once.</span></p>

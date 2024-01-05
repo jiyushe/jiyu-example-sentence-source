@@ -1,5 +1,7 @@
 # 实价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijia_1.md)
+
 <p><span class="chinese">你只要实心要，我给你开个实价。</span><span class="english">I can tell you love dogs.</span></p>
 
 <p><span class="chinese">报价单上的价格是实价吗?。</span><span class="english">This is the lowest possible price.</span></p>

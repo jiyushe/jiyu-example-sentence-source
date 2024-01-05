@@ -1,5 +1,7 @@
 # means 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/means.md)
+
 <p><span class="chinese">这样意味着坏运气。</span><span class="english">That means bad luck.</span></p>
 
 <p><span class="chinese">可交付意味着已经完成了。</span><span class="english">Shippable means done.</span></p>

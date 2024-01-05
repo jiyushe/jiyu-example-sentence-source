@@ -1,5 +1,7 @@
 # interdict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interdict.md)
+
 <p><span class="chinese">被告人不遵守禁令。</span><span class="english">The defendant did not obey the interdict.</span></p>
 
 <p><span class="chinese">告诉我，一个租用的油料供应中心如何去切断石油供给线？</span><span class="english">Tell me, how does a rented refueling station interdict oil?</span></p>

@@ -1,5 +1,7 @@
 # photosensitivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photosensitivity.md)
+
 <p><span class="chinese">胶片的感光作用是光化作用的一种。</span><span class="english">The photosensitivity of film is one kind of photochemical action.</span></p>
 
 <p><span class="chinese">MTT法可以作为光敏剂活性检测的一种快捷方法。</span><span class="english">MTT assay might be a rapid and efficient photosensitivity testing for photosensitizing agents.</span></p>

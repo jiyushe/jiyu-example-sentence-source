@@ -1,5 +1,7 @@
 # nee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nee.md)
+
 <p><span class="chinese">我们应该分手。</span><span class="english">We nee to break up.</span></p>
 
 <p><span class="chinese">你得服用一些中草药。</span><span class="english">You nee to take some Chinese herbs.</span></p>

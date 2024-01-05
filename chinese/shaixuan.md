@@ -1,5 +1,7 @@
 # 筛选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaixuan.md)
+
 <p><span class="chinese">这些却是一个不错的筛选器。</span><span class="english">But these are a good filter.</span></p>
 
 <p><span class="chinese">她把大米中的砂子筛选掉。</span><span class="english">She sifted the sand out from the rice.</span></p>

@@ -1,5 +1,7 @@
 # ghee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghee.md)
+
 <p><span class="chinese">大家可以在牧民朋友的家里，尝尝酥油茶，休息一下。</span><span class="english">We can drink ghee tee at the herds' homes to have a rest.</span></p>
 
 <p><span class="chinese">当牛奶基本上快要煮干，加入印度酥油，并搅拌均匀。</span><span class="english">When milk dries up completely, add pure ghee to stir continuously.</span></p>

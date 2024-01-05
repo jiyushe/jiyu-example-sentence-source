@@ -1,5 +1,7 @@
 # passe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passe.md)
+
 <p><span class="chinese">本拉登已经是过去式了。</span><span class="english">Bin Laden was already passé.</span></p>
 
 <p><span class="chinese">大胆的思想几乎已经过时。</span><span class="english">Bold ideas are almost passé.</span></p>

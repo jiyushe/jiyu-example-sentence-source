@@ -1,5 +1,7 @@
 # double 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/double_1.md)
+
 <p><span class="chinese">加一个双杆吗？</span><span class="english">A double rod?</span></p>
 
 <p><span class="chinese">请给我一间双人房。</span><span class="english">Double room,please.</span></p>

@@ -1,5 +1,7 @@
 # electromotive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromotive.md)
+
 <p><span class="chinese">通常用E这个字母表示电动势。</span><span class="english">The letter E is commonly used for electromotive force.</span></p>
 
 <p><span class="chinese">通常用E这个字母表示电动势。你知道河北没有定金英语代考。</span><span class="english">The letter E is commonly used for electromotive force.</span></p>

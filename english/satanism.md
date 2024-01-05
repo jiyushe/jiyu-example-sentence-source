@@ -1,5 +1,7 @@
 # satanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satanism.md)
+
 <p><span class="chinese">通常这些指控中包含了对于撒旦崇拜的控诉。</span><span class="english">Often the accusations included charges of Satanism.</span></p>
 
 <p><span class="chinese">即使是撒旦教，也被官方宣判为一个宗教！</span><span class="english">Even Satanism is officially acknowledged as a religion!</span></p>

@@ -1,5 +1,7 @@
 # 光明磊落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangmingleiluo.md)
+
 <p><span class="chinese">她行为光明磊落。</span><span class="english">She conducts herself honourably.</span></p>
 
 <p><span class="chinese">英雄是光明磊落的人。</span><span class="english">A hero is the man who is above aboard.</span></p>

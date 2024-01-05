@@ -1,5 +1,7 @@
 # 战史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshi_2.md)
+
 <p><span class="chinese">郭沫若的抗战史剧，便具有这种优秀品格。</span><span class="english">Guo Moruo s historical anti-war dramas have greatly displayed this essence.</span></p>
 
 <p><span class="chinese">在编写战史时他从老兵们的回忆中获得了大量材料。</span><span class="english">He has levied heavily on the memory of the veterans in writing the history of the war.</span></p>

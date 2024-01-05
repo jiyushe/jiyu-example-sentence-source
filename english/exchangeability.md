@@ -1,5 +1,7 @@
 # exchangeability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exchangeability.md)
+
 <p><span class="chinese">作者提示，货币的可兑换性引发了某种市场心态。</span><span class="english">The authors suggest that the exchangeability of currency invokes a market mindset.</span></p>
 
 <p><span class="chinese">高水头混流式水轮机导水机构互换性具有巨大的经济效益。</span><span class="english">The exchangeability of wicket gates in a high head Francis turbine has great economical benefits.</span></p>

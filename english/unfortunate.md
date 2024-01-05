@@ -1,5 +1,7 @@
 # unfortunate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfortunate.md)
+
 <p><span class="chinese">我认为作这一选择是不幸的。</span><span class="english">I think that would be unfortunate.</span></p>
 
 <p><span class="chinese">我为这个不幸的家伙觉得难过。</span><span class="english">I felt sorry for the unfortunate one.</span></p>

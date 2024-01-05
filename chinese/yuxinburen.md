@@ -1,5 +1,7 @@
 # 于心不忍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxinburen.md)
+
 <p><span class="chinese">看见他如此伤心，我实在于心不忍。</span><span class="english">Seeing him so sad really got to me.</span></p>
 
 <p><span class="chinese">她依然相信有圣诞老人，要使她这一幻想破灭还真于心不忍。</span><span class="english">She still believes in Santa Claus and it would be creel to disillusion her.</span></p>

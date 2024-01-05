@@ -1,5 +1,7 @@
 # 草地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caodi.md)
+
 <p><span class="chinese">还是在那片草地吗？</span><span class="english">In the Meadow?</span></p>
 
 <p><span class="chinese">‘草地’是什么？</span><span class="english">What is the Meadow?</span></p>

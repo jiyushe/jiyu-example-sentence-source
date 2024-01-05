@@ -1,5 +1,7 @@
 # manchurian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manchurian.md)
+
 <p><span class="chinese">木材有椴木，水曲柳等。</span><span class="english">Timber has basswood, Manchurian ash and so on.</span></p>
 
 <p><span class="chinese">以分布范围来看，远东苇莺可能性高很多。</span><span class="english">On range, Manchurian Reed is far the more likely.</span></p>

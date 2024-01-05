@@ -1,5 +1,7 @@
 # 修持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuchi.md)
+
 <p><span class="chinese">有时候，我们的外在修持的确是真实的。</span><span class="english">Sometimes its true that our external practices are real.</span></p>
 
 <p><span class="chinese">由真法而生，有这般善行修持的功德。</span><span class="english">Born of the true Dhamma, endowed with such virtues as good practice.</span></p>

@@ -1,5 +1,7 @@
 # 先例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianli.md)
+
 <p><span class="chinese">使用这种方法也有先例。</span><span class="english">It also has a precedent.</span></p>
 
 <p><span class="chinese">此类交易是有先例的。</span><span class="english">Such a deal has a precedent.</span></p>

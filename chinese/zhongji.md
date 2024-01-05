@@ -1,5 +1,7 @@
 # 中级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongji.md)
+
 <p><span class="chinese">为什么中级的涅磐呢？</span><span class="english">Why middle-grade Nirvana?</span></p>
 
 <p><span class="chinese">因此，我们说是中级涅磐。</span><span class="english">Hence, we say middle-grade Nirvana.</span></p>

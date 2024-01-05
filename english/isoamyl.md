@@ -1,5 +1,7 @@
 # isoamyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoamyl.md)
+
 <p><span class="chinese">本文首次报道用一种杂多酸——锗钨酸催化合成水杨酸异戊酯。</span><span class="english">Isoamyl salicylate was synthesized by using germanotungtic acid as catalyst.</span></p>
 
 <p><span class="chinese">以硫酸钛为催化剂催化合成了乙酸异戊酯，确定了酯化优化条件。</span><span class="english">A method of synthesis of isoamyl acetate catalyzed by titanic sulfate has been developed.</span></p>

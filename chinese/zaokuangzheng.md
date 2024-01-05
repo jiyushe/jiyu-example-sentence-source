@@ -1,5 +1,7 @@
 # 躁狂症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaokuangzheng.md)
+
 <p><span class="chinese">把中国说成是在一场躁狂症是显而易见的。</span><span class="english">To say that China is in the midst of a mania is obvious.</span></p>
 
 <p><span class="chinese">难道你选定我作你那躁狂症的牺牲品吗？</span><span class="english">Audley, and do you select me as the victim of your monomania?</span></p>

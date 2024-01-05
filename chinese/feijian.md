@@ -1,5 +1,7 @@
 # 飞溅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feijian.md)
+
 <p><span class="chinese">波浪飞溅到海滩上。</span><span class="english">The waves splashed on the beach.</span></p>
 
 <p><span class="chinese">戴好防护镜，防止物料飞溅。</span><span class="english">Wear goggles to avoid splashings. !</span></p>

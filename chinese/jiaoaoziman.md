@@ -1,5 +1,7 @@
 # 骄傲自满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoaoziman.md)
+
 <p><span class="chinese">但是骄傲自满情绪也无处不在。</span><span class="english">But there was complacency.</span></p>
 
 <p><span class="chinese">这样的成绩可能已经酝酿了骄傲自满的情绪。</span><span class="english">Such success may have bred complacency.</span></p>

@@ -1,5 +1,7 @@
 # 客店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kedian.md)
+
 <p><span class="chinese">您这是客店吗？</span><span class="english">Is this an inn?</span></p>
 
 <p><span class="chinese">他又跑到客店，客店的门又拴上了。</span><span class="english">He ran to the inn. The door was barred.</span></p>

@@ -1,5 +1,7 @@
 # 平均寿命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjunshouming.md)
+
 <p><span class="chinese">如果人们的平均寿命是45岁</span><span class="english">Well, it was fairly low, right?</span></p>
 
 <p><span class="chinese">现在的平均寿命已达到75。5岁。</span><span class="english">Life expectancy is now 75.5 years.</span></p>

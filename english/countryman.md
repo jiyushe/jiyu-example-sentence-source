@@ -1,5 +1,7 @@
 # countryman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countryman.md)
+
 <p><span class="chinese">有一次，一个乡下人进城去。</span><span class="english">A countryman once went to a town.</span></p>
 
 <p><span class="chinese">我碰到了一个同胞，确切的说，是他碰到了我。</span><span class="english">I met a fellow countryman of mine, rather he met me.</span></p>

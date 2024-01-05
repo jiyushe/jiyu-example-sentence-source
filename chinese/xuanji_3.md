@@ -1,5 +1,7 @@
 # 选集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanji_3.md)
+
 <p><span class="chinese">这个故事常被收入选集。</span><span class="english">The story has often been anthologized.</span></p>
 
 <p><span class="chinese">迈克尔·罗森是这本选集的编者。</span><span class="english">Michael Rosen is the editor of the anthology.</span></p>

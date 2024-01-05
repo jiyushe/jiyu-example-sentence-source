@@ -1,5 +1,7 @@
 # pagination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pagination.md)
+
 <p><span class="chinese">检查分页。</span><span class="english">Check for pagination.</span></p>
 
 <p><span class="chinese">这方面的一个例子是搜索结果分页。</span><span class="english">An example of this is with pagination of search results.</span></p>

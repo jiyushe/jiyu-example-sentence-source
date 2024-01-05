@@ -1,5 +1,7 @@
 # karaoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karaoke.md)
+
 <p><span class="chinese">在一家卡拉OK酒吧做伴舞演员。</span><span class="english">Be a back up dancer at a karaoke bar.</span></p>
 
 <p><span class="chinese">日本是第一台卡拉OK机的诞生地。</span><span class="english">Japan is the birthplace of the first karaoke machine.</span></p>

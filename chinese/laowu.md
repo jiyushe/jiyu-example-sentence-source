@@ -1,5 +1,7 @@
 # 老屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laowu.md)
+
 <p><span class="chinese">那座老屋已坍了。</span><span class="english">The old house has sloughed.</span></p>
 
 <p><span class="chinese">那栋老屋即使在白天也有一种神秘可怖的气氛。</span><span class="english">That old house is an eerie place even in the day.</span></p>

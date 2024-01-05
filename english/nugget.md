@@ -1,5 +1,7 @@
 # nugget
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nugget.md)
+
 <p><span class="chinese">一群拜金女……</span><span class="english">A 1 ton gold nugget.</span></p>
 
 <p><span class="chinese">最后再去拿最右边的金块。</span><span class="english">Finally, collect the rightmost nugget.</span></p>

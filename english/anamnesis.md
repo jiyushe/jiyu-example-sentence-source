@@ -1,5 +1,7 @@
 # anamnesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anamnesis.md)
+
 <p><span class="chinese">只是调了一下对比度！</span><span class="english">Anamnesis is the ashes of time.</span></p>
 
 <p><span class="chinese">同学须缴交病历表。</span><span class="english">Students should hand in the anamnesis record sheet.</span></p>

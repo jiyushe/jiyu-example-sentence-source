@@ -1,5 +1,7 @@
 # tympanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tympanic.md)
+
 <p><span class="chinese">鼓膜中心则留下一变干的小孔。</span><span class="english">Tympanic center leaves the alveolus of one desiccate.</span></p>
 
 <p><span class="chinese">凡鼓室成形术，均应行鼓室探查。</span><span class="english">The tympanic exploration is necessary to be included in tympanoplasty.</span></p>

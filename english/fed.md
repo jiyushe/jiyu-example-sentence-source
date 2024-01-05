@@ -1,5 +1,7 @@
 # fed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fed.md)
+
 <p><span class="chinese">我只是感到有些腻烦。</span><span class="english">I’m just a bit fed up.</span></p>
 
 <p><span class="chinese">他是一位感到腻烦的学生。</span><span class="english">He is a fed up student.</span></p>

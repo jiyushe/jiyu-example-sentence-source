@@ -1,5 +1,7 @@
 # windpipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windpipe.md)
+
 <p><span class="chinese">吸进气管的食物会造成窒息。</span><span class="english">Food breathed into the windpipe can cause choking.</span></p>
 
 <p><span class="chinese">掐住气管而使人窒息的行为。</span><span class="english">The act of suffocating by constricting the windpipe.</span></p>

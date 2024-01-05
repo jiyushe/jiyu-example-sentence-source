@@ -1,5 +1,7 @@
 # immorality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immorality.md)
+
 <p><span class="chinese">以邪恶或者不道德为特点。</span><span class="english">Characterized by wickedness or immorality.</span></p>
 
 <p><span class="chinese">她已堕落到放纵和道德败坏。</span><span class="english">She has degenerated into license and immorality.</span></p>

@@ -1,5 +1,7 @@
 # purser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purser.md)
+
 <p><span class="chinese">请问，您是乘务长吗？</span><span class="english">Excuse me, are you the purser?</span></p>
 
 <p><span class="chinese">我是本次航班乘务长。</span><span class="english">I am the purser of this flight.</span></p>

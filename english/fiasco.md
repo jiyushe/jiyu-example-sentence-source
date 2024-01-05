@@ -1,5 +1,7 @@
 # fiasco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiasco.md)
+
 <p><span class="chinese">货币改革的惨败将会加快这些趋势。</span><span class="english">The currency fiasco will accelerate these trends.</span></p>
 
 <p><span class="chinese">真不幸，我的四川特色菜在媳妇面前不战自败。</span><span class="english">Unfortunately my Sichuan food turned out to be a fiasco.</span></p>

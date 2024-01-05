@@ -1,5 +1,7 @@
 # symmetrically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symmetrically.md)
+
 <p><span class="chinese">和灯柱的位置都是对称的。</span><span class="english">The trees, flower-beds and lamp posts are symmetrically placed.</span></p>
 
 <p><span class="chinese">水平维与垂直维是对称的。</span><span class="english">The horizontal and vertical dimensions are treated symmetrically.</span></p>

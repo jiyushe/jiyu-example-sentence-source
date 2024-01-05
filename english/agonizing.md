@@ -1,5 +1,7 @@
 # agonizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agonizing.md)
+
 <p><span class="chinese">这对他来说是一个痛苦的决定。</span><span class="english">It was an agonizing decision for him.</span></p>
 
 <p><span class="chinese">我不知道生活为什么这样折磨我！</span><span class="english">I don't know why life has to be so agonizing.</span></p>

@@ -1,5 +1,7 @@
 # stricture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stricture.md)
+
 <p><span class="chinese">探讨腔内手术治疗尿道狭窄的治疗效果。</span><span class="english">Objective To study the effect of endovascular surgery to urethral stricture.</span></p>
 
 <p><span class="chinese">尿道狭窄的治疗一直是泌尿科医生的挑战。</span><span class="english">The management of urethral stricture is always a challenge to the urologists.</span></p>

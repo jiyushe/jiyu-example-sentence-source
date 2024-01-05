@@ -1,5 +1,7 @@
 # citroen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citroen.md)
+
 <p><span class="chinese">1900年，安德烈·雪铁龙发明了人字形齿轮。</span><span class="english">In 1900, Andre Citroen invented the herringbone gear.</span></p>
 
 <p><span class="chinese">合资公司初期将引入雪铁龙品牌高端产品DS系列车型。</span><span class="english">CAPSA will initially introduce the Citroën high-end brand DS line in China.</span></p>

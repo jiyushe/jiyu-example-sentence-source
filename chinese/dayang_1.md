@@ -1,5 +1,7 @@
 # 大洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayang_1.md)
+
 <p><span class="chinese">大洋国同东亚国作战。</span><span class="english">Oceania is at war with Eastasia.</span></p>
 
 <p><span class="chinese">这只海鸥在大洋上沾一沾水。</span><span class="english">The seagull dipped in the ocean.</span></p>

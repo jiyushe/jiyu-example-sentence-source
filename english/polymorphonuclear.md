@@ -1,5 +1,7 @@
 # polymorphonuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymorphonuclear.md)
+
 <p><span class="chinese">实验表明多型核白细胞增多。</span><span class="english">Laboratory tests show polymorphonuclear leukocytosis.</span></p>
 
 <p><span class="chinese">结果白细胞移动受到抑制。</span><span class="english">Results Polymorphonuclear leukocyte chemotaxis was restrained.</span></p>

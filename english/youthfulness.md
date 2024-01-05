@@ -1,5 +1,7 @@
 # youthfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/youthfulness.md)
+
 <p><span class="chinese">我必须再说一遍，我衷心佩服你老当益壮的侠义精神。</span><span class="english">I must say again that I heartily admire your gallantry and youthfulness.</span></p>
 
 <p><span class="chinese">这个夏天，六个毕业的年青人相约往沙滩露营，纪念青春的流逝。</span><span class="english">Six graduates go to summer camp on the beach to elapse their youthfulness.</span></p>

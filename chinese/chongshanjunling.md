@@ -1,5 +1,7 @@
 # 崇山峻岭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongshanjunling.md)
+
 <p><span class="chinese">盘旋在崇山峻岭之中。</span><span class="english">floating over lush mountains.</span></p>
 
 <p><span class="chinese">落基山脉有崇山峻岭和崎岖不平的道路。</span><span class="english">The Rocky Mountains have rugged mountains and roads.</span></p>

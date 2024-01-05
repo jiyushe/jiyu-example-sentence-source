@@ -1,5 +1,7 @@
 # demurrer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demurrer.md)
+
 <p><span class="chinese">这项建议在会上一宣布，她就站起来提出异议。</span><span class="english">She stood up and put in a demurrer once the proposal announced.</span></p>
 
 <p><span class="chinese">票据抗辩可以分为物的抗辩和人的抗辩两种。</span><span class="english">Bill demurrer can be classified into things'demurrer and persons'demurrer.</span></p>

@@ -1,5 +1,7 @@
 # 卵巢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanchao.md)
+
 <p><span class="chinese">天阿，一个卵巢。</span><span class="english">God, an ovary.</span></p>
 
 <p><span class="chinese">“她更像是个卵巢”。</span><span class="english">More like an ovary.</span></p>

@@ -1,5 +1,7 @@
 # kg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kg.md)
+
 <p><span class="chinese">由此我们可以算出这些纸的总质量为9千克。</span><span class="english">This gives a mass of 9 kg.</span></p>
 
 <p><span class="chinese">你有多重？我有48公斤重。</span><span class="english">How heavy are you? I'm 48 kg.</span></p>

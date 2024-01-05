@@ -1,5 +1,7 @@
 # 合金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hejin.md)
+
 <p><span class="chinese">锌合金压铸阀体。</span><span class="english">Die cast zinc alloy valve body.</span></p>
 
 <p><span class="chinese">宁波金亿合金材料有限公司。</span><span class="english">Ningbo Jingyi Alloy Material Co.</span></p>

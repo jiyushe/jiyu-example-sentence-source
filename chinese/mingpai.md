@@ -1,5 +1,7 @@
 # 铭牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingpai.md)
+
 <p><span class="chinese">设备应有铭牌。</span><span class="english">The equipments shall have relevant nameplates.</span></p>
 
 <p><span class="chinese">用于各类金属、非金属、零备件、工具等的标识铭牌制作。</span><span class="english">They are all used to mark the br in many areas.</span></p>

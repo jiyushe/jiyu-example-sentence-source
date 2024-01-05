@@ -1,5 +1,7 @@
 # attractively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attractively.md)
+
 <p><span class="chinese">穿着有吸引力但不挑逗。</span><span class="english">Dress attractively but not provocatively. ?</span></p>
 
 <p><span class="chinese">他们的产品重新包装得非常精美。</span><span class="english">Their products are attractively repackaged.</span></p>

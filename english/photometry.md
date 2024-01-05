@@ -1,5 +1,7 @@
 # photometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photometry.md)
+
 <p><span class="chinese">光电管也应用于光度学和光谱学。</span><span class="english">Photocells are also used in photometry and spectroscopy.</span></p>
 
 <p><span class="chinese">这种方法可以用于对没有感光斑点的底片作面光源测光。</span><span class="english">It may be useful for surface photometry on plates without sensitometer spots.</span></p>

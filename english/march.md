@@ -1,5 +1,7 @@
 # march
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/march.md)
+
 <p><span class="chinese">疯得像只三月的野兔。</span><span class="english">Mad as a March Hare.</span></p>
 
 <p><span class="chinese">“三八绿色工程”活动。</span><span class="english">March 8th Green Project.</span></p>

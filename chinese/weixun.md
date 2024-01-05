@@ -1,5 +1,7 @@
 # 微醺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixun.md)
+
 <p><span class="chinese">这是一种相当微醺的感觉。</span><span class="english">It’s a pretty giddy feeling.</span></p>
 
 <p><span class="chinese">主人微醺但很友好。</span><span class="english">The host is a bit drunk but friendly.</span></p>

@@ -1,5 +1,7 @@
 # liked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liked.md)
+
 <p><span class="chinese">我很喜欢它。</span><span class="english">I liked it.</span></p>
 
 <p><span class="chinese">我喜欢他。</span><span class="english">I liked him.</span></p>

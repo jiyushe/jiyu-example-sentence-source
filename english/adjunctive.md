@@ -1,5 +1,7 @@
 # adjunctive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjunctive.md)
+
 <p><span class="chinese">辅助治疗以保肝药物为主。</span><span class="english">Liver protectants were the chief adjunctive therapy.</span></p>
 
 <p><span class="chinese">行针的辅助手法在临床使用率不高。</span><span class="english">Usage of adjunctive acu-manipulations are not high in clinic.</span></p>

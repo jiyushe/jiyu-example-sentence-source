@@ -1,5 +1,7 @@
 # burma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burma.md)
+
 <p><span class="chinese">缅甸剃。</span><span class="english">Burma Shave.</span></p>
 
 <p><span class="chinese">缅甸与印度毗邻。</span><span class="english">Burma borders on India.</span></p>

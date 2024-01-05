@@ -1,5 +1,7 @@
 # 嘘寒问暖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhanwennuan.md)
+
 <p><span class="chinese">女人永远也不知道男人为什么要在分手以后还会对她嘘寒问暖?。</span><span class="english">Woman never know why man still care for her when they have parted?</span></p>
 
 <p><span class="chinese">为什么，我每天打电话对她嘘寒问暖，得到的只是冷漠的响应？</span><span class="english">Why? i call her everything day to show a kind concern, but what i have got is offish.</span></p>

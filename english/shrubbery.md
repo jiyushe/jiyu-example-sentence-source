@@ -1,5 +1,7 @@
 # shrubbery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrubbery.md)
+
 <p><span class="chinese">园丁修剪了灌木丛。</span><span class="english">The gardener clipped the shrubbery.</span></p>
 
 <p><span class="chinese">她看见洛蒂从灌木丛里钻出来。</span><span class="english">She saw Lottie emerge from the shrubbery.</span></p>

@@ -1,5 +1,7 @@
 # tighten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tighten.md)
+
 <p><span class="chinese">一个强硬的紧缩型货币市场</span><span class="english">A money market tough to tighten</span></p>
 
 <p><span class="chinese">拉紧已松弛的尾缆！</span><span class="english">Tighten the slacked stern line!</span></p>

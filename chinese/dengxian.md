@@ -1,5 +1,7 @@
 # 等闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengxian.md)
+
 <p><span class="chinese">我们大多数人把生命视若等闲。</span><span class="english">Most of us take life for granted.</span></p>
 
 <p><span class="chinese">烟稞长得好，中耕不等闲。</span><span class="english">The smoke he grow well, and not easily.</span></p>

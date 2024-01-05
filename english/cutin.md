@@ -1,5 +1,7 @@
 # cutin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutin.md)
+
 <p><span class="chinese">角质率与出粉率呈极显著正相关。</span><span class="english">Cutin rate is marked positive correlated with flour yield.</span></p>
 
 <p><span class="chinese">它同样可使木质素和角质被染为红色，而将叶绿体染为粉色。</span><span class="english">It also stains lignin and cutin red and chloroplasts pink.</span></p>

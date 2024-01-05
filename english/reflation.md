@@ -1,5 +1,7 @@
 # reflation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflation.md)
+
 <p><span class="chinese">可惜，通货再膨胀并不那么简单。</span><span class="english">Alas, reflation is not so simple.</span></p>
 
 <p><span class="chinese">不过，他们的通货再膨胀目标还是“实现”了。</span><span class="english">But their goal of reflation happened anyway.</span></p>

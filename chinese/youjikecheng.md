@@ -1,5 +1,7 @@
 # 有机可乘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjikecheng.md)
+
 <p><span class="chinese">松懈的保安措施使小偷有机可乘。</span><span class="english">Lax security allowed the thieves to enter.</span></p>
 
 <p><span class="chinese">九妹不愿让金珠有机可乘，只说自己是出去走一走。</span><span class="english">Nine younger sister dont want to let Kim annul, said he is only go for a walk.</span></p>

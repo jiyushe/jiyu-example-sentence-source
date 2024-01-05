@@ -1,5 +1,7 @@
 # archaize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archaize.md)
+
 <p><span class="chinese">仿古建筑是近代一种集体无意识的现象。</span><span class="english">Archaize building is a neoteric unconscious phenomenon.</span></p>
 
 <p><span class="chinese">其产品风格涵盖仿古、简欧、新古典等类别。</span><span class="english">Its products cover archaize style, Jane, a new type of classical etc.</span></p>

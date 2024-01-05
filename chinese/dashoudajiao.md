@@ -1,5 +1,7 @@
 # 大手大脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashoudajiao.md)
+
 <p><span class="chinese">她总是在购买服装上大手大脚。</span><span class="english">She always squanders on clothing.</span></p>
 
 <p><span class="chinese">我的女儿花钱总是大手大脚。</span><span class="english">My daughter is too careless with money.</span></p>

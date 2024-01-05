@@ -1,5 +1,7 @@
 # 病原体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuanti.md)
+
 <p><span class="chinese">病原体也进化来逃避“躲避”。</span><span class="english">Pathogens evolve to evade the evasions.</span></p>
 
 <p><span class="chinese">一旦发现病原体，就会把它吞噬掉。</span><span class="english">When the amoebas find a pathogen, they devour it.</span></p>

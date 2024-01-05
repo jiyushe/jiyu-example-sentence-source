@@ -1,5 +1,7 @@
 # unpopular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpopular.md)
+
 <p><span class="chinese">其中的一些将不受欢迎。</span><span class="english">Some of this will be unpopular.</span></p>
 
 <p><span class="chinese">他是一个不得人心的国王。</span><span class="english">He's an extremely unpopular king.</span></p>

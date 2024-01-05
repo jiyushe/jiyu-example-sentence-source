@@ -1,5 +1,7 @@
 # weirdness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weirdness.md)
+
 <p><span class="chinese">为什么我们无法感觉到那些量子理论的古怪呢？</span><span class="english">Why don’t we feel all the quantum weirdness?</span></p>
 
 <p><span class="chinese">日本最近有个例子能够证明中微子的怪异。</span><span class="english">The latest example of neutrinos’ weirdness comes from Japan.</span></p>

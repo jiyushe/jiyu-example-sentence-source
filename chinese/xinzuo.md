@@ -1,5 +1,7 @@
 # 新作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzuo.md)
+
 <p><span class="chinese">高保你有否听过我那新作的诗歌？</span><span class="english">D'y'hear my latest poem Goldbook?</span></p>
 
 <p><span class="chinese">他的另一部新作马上要开战首映。</span><span class="english">He's got a new movie opening soon.</span></p>

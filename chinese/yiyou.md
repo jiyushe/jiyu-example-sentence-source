@@ -1,5 +1,7 @@
 # 益友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyou.md)
+
 <p><span class="chinese">众所周知，良朋益友使生活平添乐趣与价值。</span><span class="english">As is known to all, good friends add happiness and value to life.</span></p>
 
 <p><span class="chinese">过放荡不羁的生活，容易得像顺水推舟，但是要结识良朋益友，却难如登天。</span><span class="english">A lead a fast life, was as easy as it, but to meet friends, but impossible.</span></p>

@@ -1,5 +1,7 @@
 # 香粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfen_1.md)
+
 <p><span class="chinese">我闻到一股紫罗兰香粉的淡淡的清香味儿。</span><span class="english">I caught a faint odour of violet sachet.</span></p>
 
 <p><span class="chinese">他还注意到她抹满厚厚一层香粉的脸。</span><span class="english">He also noticed that her face was heavily powdered.</span></p>

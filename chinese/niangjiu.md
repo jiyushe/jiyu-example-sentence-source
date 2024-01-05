@@ -1,5 +1,7 @@
 # 酿酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangjiu.md)
+
 <p><span class="chinese">新酿酒，旋烹茶。</span><span class="english">New wine, spin Pengcha.</span></p>
 
 <p><span class="chinese">酿酒人的妻子不愁酒没酒喝。</span><span class="english">A brewer's wife may drink of a ton.</span></p>

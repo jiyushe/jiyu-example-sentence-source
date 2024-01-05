@@ -1,5 +1,7 @@
 # 出勤率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqinlv.md)
+
 <p><span class="chinese">他这个月的出勤率令人满意。</span><span class="english">His attendance rate this month is desirable.</span></p>
 
 <p><span class="chinese">重新装弹能力对于出勤率而言是一个重要影响因素。</span><span class="english">Re-arming capacity is a significant factor in sortie generation rate.</span></p>

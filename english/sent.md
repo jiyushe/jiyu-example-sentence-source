@@ -1,5 +1,7 @@
 # sent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sent.md)
+
 <p><span class="chinese">我给她寄磁带。</span><span class="english">I sent her tapes.</span></p>
 
 <p><span class="chinese">他捎信来警告我。</span><span class="english">He sent to warn me.</span></p>

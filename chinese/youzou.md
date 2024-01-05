@@ -1,5 +1,7 @@
 # 游走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzou.md)
+
 <p><span class="chinese">悲伤德人们满街游走。</span><span class="english">Sad people wandering the streets.</span></p>
 
 <p><span class="chinese">好在这些致命生物又游走了。</span><span class="english">But the lethal creature bobbed off.</span></p>

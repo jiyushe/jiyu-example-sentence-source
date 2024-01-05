@@ -1,5 +1,7 @@
 # 迁怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiannu.md)
+
 <p><span class="chinese">他迁怒于他的妻子。</span><span class="english">He visited his anger on his wife.</span></p>
 
 <p><span class="chinese">如果你在经理生气时冒犯他，他会迁怒于你。</span><span class="english">Don't resent me, and when you're feeling empty.</span></p>

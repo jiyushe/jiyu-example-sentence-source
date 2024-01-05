@@ -1,5 +1,7 @@
 # maybe 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maybe.md)
+
 <p><span class="chinese">也许吧</span><span class="english">Maybe.</span></p>
 
 <p><span class="chinese">也许是3到5个。</span><span class="english">Maybe 3 -5.</span></p>

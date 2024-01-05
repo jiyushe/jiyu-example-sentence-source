@@ -1,5 +1,7 @@
 # collide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collide.md)
+
 <p><span class="chinese">最终，堆和栈会冲突。</span><span class="english">Eventually, stack and heap will collide.</span></p>
 
 <p><span class="chinese">没有恒星会真的在这一过程中碰撞。</span><span class="english">No stars actually collide in the process.</span></p>

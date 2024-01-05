@@ -1,5 +1,7 @@
 # lien
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lien.md)
+
 <p><span class="chinese">我在这里见淑女连。</span><span class="english">I'm here to see Lady Lien.</span></p>
 
 <p><span class="chinese">连战希望推翻选举结果。</span><span class="english">Mr Lien wants to challenge the results.</span></p>

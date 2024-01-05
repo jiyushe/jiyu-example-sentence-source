@@ -1,5 +1,7 @@
 # 文静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenjing.md)
+
 <p><span class="chinese">一个轻轻的、文静的声音，总是能够使我们平静下来。</span><span class="english">A quiet voice always can calm us down.</span></p>
 
 <p><span class="chinese">谁是你的朋友?我的朋友都很文静。</span><span class="english">Who is your friend?My friend is quiet.</span></p>

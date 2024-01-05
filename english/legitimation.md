@@ -1,5 +1,7 @@
 # legitimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimation.md)
+
 <p><span class="chinese">黑人区需要取得合法地地位，这只是一个开始。</span><span class="english">The ghetto wanted legitimation. That was a beginning.</span></p>
 
 <p><span class="chinese">黑人区需要取得合法的地位，这只是一个开始。</span><span class="english">The ghetto wanted legitimation. That was a beginning.</span></p>

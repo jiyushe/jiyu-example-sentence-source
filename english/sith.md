@@ -1,5 +1,7 @@
 # sith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sith.md)
+
 <p><span class="chinese">为西斯征服者输血的就是“星际煅炉”。</span><span class="english">Fueling the Sith conquest was the Star Forge.</span></p>
 
 <p><span class="chinese">但是在西斯大君的面前她无处可藏。</span><span class="english">But nothing could hide her from the Sith Lord.</span></p>

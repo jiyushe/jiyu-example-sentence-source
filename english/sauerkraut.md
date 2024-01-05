@@ -1,5 +1,7 @@
 # sauerkraut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sauerkraut.md)
+
 <p><span class="chinese">您也喜欢吃酸菜吗?。</span><span class="english">Do you also like to eat sauerkraut ?</span></p>
 
 <p><span class="chinese">德国泡菜是在自己的汁中发酵的卷心菜。</span><span class="english">Sauerkraut is cabbage fermented in its own juice.</span></p>

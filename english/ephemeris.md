@@ -1,5 +1,7 @@
 # ephemeris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephemeris.md)
+
 <p><span class="chinese">该策略利用了星历信息的确定性来预计用户的位置。</span><span class="english">The scheme can anticipate user's location by using ephemeris message.</span></p>
 
 <p><span class="chinese">人终究会成为绿叶就是天体的正常规律。</span><span class="english">Person finally will become greenery be the ephemeris normal regulation.</span></p>

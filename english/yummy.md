@@ -1,5 +1,7 @@
 # yummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yummy.md)
+
 <p><span class="chinese">我吃鱼。真好吃！</span><span class="english">I have fish. Yummy ! Yummy!</span></p>
 
 <p><span class="chinese">呀米柯恩，不仅仅是爆米花！</span><span class="english">Yummy corn, not just popcorn!</span></p>

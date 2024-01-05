@@ -1,5 +1,7 @@
 # 涌出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongchu.md)
+
 <p><span class="chinese">他死在战车上，血流涌出他的车外，他是这个样子回来的。</span><span class="english">He died on the chariot.</span></p>
 
 <p><span class="chinese">血从巨大的伤口涌出，没有人能止住。</span><span class="english">Blood oozes from a wound.</span></p>

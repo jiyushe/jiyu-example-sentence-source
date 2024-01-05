@@ -1,5 +1,7 @@
 # 射门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shemen.md)
+
 <p><span class="chinese">多棒的一次贴地射门啊！</span><span class="english">What an amazing grazing shot!</span></p>
 
 <p><span class="chinese">那脚射门真漂亮。</span><span class="english">That shoot was really something.</span></p>

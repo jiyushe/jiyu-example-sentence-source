@@ -1,5 +1,7 @@
 # thumb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thumb.md)
+
 <p><span class="chinese">拇指的残根。</span><span class="english">Thumb stump.</span></p>
 
 <p><span class="chinese">在我的手指上摆弄他的小玩意儿。</span><span class="english">He played nicknack on my thumb.</span></p>

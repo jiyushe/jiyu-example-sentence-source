@@ -1,5 +1,7 @@
 # dispersible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersible.md)
+
 <p><span class="chinese">目的考察苦参素分散片生物等效性。</span><span class="english">Aim To study the bioequivalence of oxymatrine dispersible tablets.</span></p>
 
 <p><span class="chinese">目的制备氟伐他汀钠分散片。</span><span class="english">Objective To prepare the dispersible tablet of Fluvastatin Sodium.</span></p>

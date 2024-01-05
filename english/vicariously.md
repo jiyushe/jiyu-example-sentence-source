@@ -1,5 +1,7 @@
 # vicariously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicariously.md)
+
 <p><span class="chinese">我的梦想就是作个心愿大使，帮人们实现所有这些愿望。</span><span class="english">Living vicariously through all those wishes was my dream.</span></p>
 
 <p><span class="chinese">这样，女性只有依附男性生活才能成为人。</span><span class="english">In this way, females could be human only by living vicariously thru a male.</span></p>

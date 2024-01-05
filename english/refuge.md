@@ -1,5 +1,7 @@
 # refuge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refuge.md)
+
 <p><span class="chinese">我别无归依，佛是我的至上归依。</span><span class="english">The Buddha is my foremost refuge.</span></p>
 
 <p><span class="chinese">我别无归依，法是我的至上归依。</span><span class="english">The Dhamma is my foremost refuge.</span></p>

@@ -1,5 +1,7 @@
 # erasure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erasure.md)
+
 <p><span class="chinese">选择默认文本是为了便于擦除。</span><span class="english">The default text is selected to allow easy erasure.</span></p>
 
 <p><span class="chinese">我正在堕落为律师，这一开除却救了我。</span><span class="english">I was on the brink of becoming a lawyer. This erasure saves me.</span></p>

@@ -1,5 +1,7 @@
 # faeces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faeces.md)
+
 <p><span class="chinese">犬只粪便弄污街道。</span><span class="english">Fouling of street by dog faeces.</span></p>
 
 <p><span class="chinese">选择新鲜而且外壳没有排秽物污点的蛋。</span><span class="english">Select fresh eggs , without faeces stains on the shell.</span></p>

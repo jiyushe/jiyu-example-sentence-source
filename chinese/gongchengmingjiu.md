@@ -1,5 +1,7 @@
 # 功成名就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchengmingjiu.md)
+
 <p><span class="chinese">很多功成名就是逼出来的。</span><span class="english">A lot of successful is forced out.</span></p>
 
 <p><span class="chinese">如果你已功成名就，难免会招来虚假的朋友和真正的敌人。</span><span class="english">If you are successful, you win false friend and true enemies.</span></p>

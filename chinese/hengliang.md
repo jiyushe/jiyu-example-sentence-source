@@ -1,5 +1,7 @@
 # 横梁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengliang.md)
+
 <p><span class="chinese">横梁已经翘曲了。</span><span class="english">The beam has started.</span></p>
 
 <p><span class="chinese">他在低矮的横梁下弯着腰。</span><span class="english">He stooped under the low beam.</span></p>

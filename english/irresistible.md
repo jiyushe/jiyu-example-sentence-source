@@ -1,5 +1,7 @@
 # irresistible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irresistible.md)
+
 <p><span class="chinese">这种魅力是无法抵御的。</span><span class="english">The charm is irresistible.</span></p>
 
 <p><span class="chinese">她有沉鱼落雁的魅力！</span><span class="english">She has an irresistible charm.</span></p>

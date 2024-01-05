@@ -1,5 +1,7 @@
 # green 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/green.md)
+
 <p><span class="chinese">为什么实行夏时制的日子被称为“绿色日子”？</span><span class="english">Green days.</span></p>
 
 <p><span class="chinese">我有一保绿杯子。</span><span class="english">I've a green cup.</span></p>

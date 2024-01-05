@@ -1,5 +1,7 @@
 # geoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geoid.md)
+
 <p><span class="chinese">其中与平均海平面重合的面就是大地水准面。</span><span class="english">Which coincide with the mean sea level surface is the geoid.</span></p>
 
 <p><span class="chinese">海平面升高可以得出一个适当的大地水准面模型使用。</span><span class="english">MSL elevations can be derived using an appropriate geoid model.</span></p>

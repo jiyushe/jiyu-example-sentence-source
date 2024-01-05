@@ -1,5 +1,7 @@
 # 雇请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guqing.md)
+
 <p><span class="chinese">他们雇请代理人来处理他们的事务。</span><span class="english">They hired agents to conduct their affairs.</span></p>
 
 <p><span class="chinese">慈善机构可以用这些钱雇请需要工作的人。</span><span class="english">The organisation could then hire several people in need of a job.</span></p>

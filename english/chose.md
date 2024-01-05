@@ -1,5 +1,7 @@
 # chose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chose.md)
+
 <p><span class="chinese">我选择这样做。</span><span class="english">I chose to.</span></p>
 
 <p><span class="chinese">上帝选择了你，你受之无愧否？</span><span class="english">God chose you.</span></p>

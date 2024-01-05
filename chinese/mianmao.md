@@ -1,5 +1,7 @@
 # 面貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmao.md)
+
 <p><span class="chinese">港都的面貌如何？</span><span class="english">What are harbor cities like?</span></p>
 
 <p><span class="chinese">他将会有一个崭新的面貌。</span><span class="english">He's going to have a new look.</span></p>

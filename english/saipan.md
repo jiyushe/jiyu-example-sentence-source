@@ -1,5 +1,7 @@
 # saipan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saipan.md)
+
 <p><span class="chinese">在塞班岛吃的非常差，大家要做好心理准备。</span><span class="english">In saipan eat very bad, everyone should be mentally prepared.</span></p>
 
 <p><span class="chinese">塞班岛航空公司来回香港至塞班岛机票。</span><span class="english">Roundtrip Economy class air ticket for Hong Kong and Saipan on 5K.</span></p>

@@ -1,5 +1,7 @@
 # 营业执照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyezhizhao.md)
+
 <p><span class="chinese">需要六个月时间办理一年的营业执照。</span><span class="english">It takes six months to obtain a one-year licence.</span></p>
 
 <p><span class="chinese">新版营业执照库存情况。</span><span class="english">Stock situation of the new-version business license.</span></p>

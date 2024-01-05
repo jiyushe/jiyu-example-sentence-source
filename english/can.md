@@ -1,5 +1,7 @@
 # can 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/can.md)
+
 <p><span class="chinese">我能单脚跳。</span><span class="english">I can hop.</span></p>
 
 <p><span class="chinese">我能，无限可能！</span><span class="english">I can plar!</span></p>

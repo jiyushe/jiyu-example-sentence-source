@@ -1,5 +1,7 @@
 # colchicine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colchicine.md)
+
 <p><span class="chinese">根状茎富有生物碱秋水仙素。</span><span class="english">The rhizomes are rich in the alkaloid colchicine.</span></p>
 
 <p><span class="chinese">本文观察了秋水仙素的免疫佐剂作用。</span><span class="english">The adjuvant of colchicine in immunization was observed.</span></p>

@@ -1,5 +1,7 @@
 # 刚正不阿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gangzhengbue.md)
+
 <p><span class="chinese">克林顿说“他的历史充满着惊人的力量和刚正不阿的精神。</span><span class="english">His story is filled with an amazing strength and integrity of spirit.</span></p>
 
 <p><span class="chinese">在中国的传统艺术中，竹子往往代表道德上的正直，刚正不阿。</span><span class="english">In traditional Chinese art, the bamboo stands for moral integrity and uprightness.</span></p>

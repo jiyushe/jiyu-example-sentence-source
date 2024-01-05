@@ -1,5 +1,7 @@
 # serious 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serious.md)
+
 <p><span class="chinese">我说正经的。</span><span class="english">I'm serious.</span></p>
 
 <p><span class="chinese">没错，我是认真的。</span><span class="english">Yes, I’m serious.</span></p>

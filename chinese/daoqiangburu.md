@@ -1,5 +1,7 @@
 # 刀枪不入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoqiangburu.md)
+
 <p><span class="chinese">思想是刀枪不入的。</span><span class="english">Creedy, and ideas are bulletproof.</span></p>
 
 <p><span class="chinese">⊙、你以为我刀枪不入，够坚强吗？</span><span class="english">Do you think I am invulnerability, strong enough?</span></p>

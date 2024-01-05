@@ -1,5 +1,7 @@
 # GNP
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnp.md)
+
 <p><span class="chinese">实际上，公共资源大多数时间比GNP增长更快。</span><span class="english">In fact, public resources very often grow faster than the GNP.</span></p>
 
 <p><span class="chinese">你不能将美国的国民生产毛额和发展中国家的国民生产毛额相提并论。</span><span class="english">You cannot equate the GNP of USA with that of a developing country.</span></p>

@@ -1,5 +1,7 @@
 # 资助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhu_3.md)
+
 <p><span class="chinese">这次民意调查由谁资助？</span><span class="english">Who paid for the poll?</span></p>
 
 <p><span class="chinese">他们以前资助过谁？</span><span class="english">What have they funded before?</span></p>

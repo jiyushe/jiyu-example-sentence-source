@@ -1,5 +1,7 @@
 # emphases
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emphases.md)
+
 <p><span class="chinese">服装符号系统是论文第二章所探讨的重点。</span><span class="english">The finery symbol system is the emphases of the second part.</span></p>
 
 <p><span class="chinese">本文的重点是二维结构元素的1-D分解和点对分解。</span><span class="english">The emphases of this paper are 1-D and point-pair decompositions.</span></p>

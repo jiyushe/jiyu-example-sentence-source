@@ -1,5 +1,7 @@
 # senescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senescent.md)
+
 <p><span class="chinese">我可能有显点老了，但还没有老到不中用的地步。</span><span class="english">I may be senescent , I am not yet senile.</span></p>
 
 <p><span class="chinese">地氟醚对于大鼠心肌衰老的作用。</span><span class="english">Effects of Desflurane in Senescent Rat Myocardium.</span></p>

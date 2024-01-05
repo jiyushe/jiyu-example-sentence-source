@@ -1,5 +1,7 @@
 # 脚底板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodiban.md)
+
 <p><span class="chinese">他的脚底板被殴打，还得了哮喘。</span><span class="english">The soles of his feet were beaten.</span></p>
 
 <p><span class="chinese">怎么样防止脚底板跟脱皮？</span><span class="english">How to prevent crural motherboard to follow desquamate ?</span></p>

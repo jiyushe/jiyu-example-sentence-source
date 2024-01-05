@@ -1,5 +1,7 @@
 # welland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welland.md)
+
 <p><span class="chinese">韦兰太太与她未来的女婿握手时问道。</span><span class="english">Mrs. Welland enquired as she shook hands with her future son- in-law.</span></p>
 
 <p><span class="chinese">做出这一大无畏的决定之后，韦兰先生又坚定地拿起了餐叉。</span><span class="english">And having arrived at this Spartan decision Mr. Welland firmly took up his fork.</span></p>

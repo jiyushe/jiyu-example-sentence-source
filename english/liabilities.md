@@ -1,5 +1,7 @@
 # liabilities
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liabilities.md)
+
 <p><span class="chinese">他们是滚动的债务。</span><span class="english">They are rolling liabilities.</span></p>
 
 <p><span class="chinese">他们是滚动的债务。</span><span class="english">Vehicles. They are rolling liabilities.</span></p>

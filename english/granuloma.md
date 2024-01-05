@@ -1,5 +1,7 @@
 # granuloma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granuloma.md)
+
 <p><span class="chinese">另例真菌性肉芽肿。</span><span class="english">Here is another fungal granuloma.</span></p>
 
 <p><span class="chinese">肉芽肿是较局限化的。</span><span class="english">Grossly, a granuloma tends to be a focal lesion.</span></p>

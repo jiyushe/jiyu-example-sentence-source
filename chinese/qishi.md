@@ -1,5 +1,7 @@
 # 乞食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi.md)
+
 <p><span class="chinese">男人可以去乞食，女人就得去卖身。</span><span class="english">Man begs, woman sells.</span></p>
 
 <p><span class="chinese">那狗用两只后腿站着乞食。</span><span class="english">The dog cocked its hind leg.</span></p>

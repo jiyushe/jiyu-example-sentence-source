@@ -1,5 +1,7 @@
 # hypomania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypomania.md)
+
 <p><span class="chinese">躁狂轻度到中度的表现称为轻躁。</span><span class="english">A mild to moderate level of mania is called hypomania.</span></p>
 
 <p><span class="chinese">轻躁狂对于创造力以及旺盛精力也有相当益处。</span><span class="english">Hypomania can also have a benefit in creativity and productive energy.</span></p>

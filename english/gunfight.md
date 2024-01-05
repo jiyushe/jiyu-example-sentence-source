@@ -1,5 +1,7 @@
 # gunfight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunfight.md)
+
 <p><span class="chinese">枪战开始了。</span><span class="english">The gunfight began.</span></p>
 
 <p><span class="chinese">他在一次枪战中中弹身亡。</span><span class="english">He was shot dead in a gunfight.</span></p>

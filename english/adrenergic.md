@@ -1,5 +1,7 @@
 # adrenergic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrenergic.md)
+
 <p><span class="chinese">肾上腺素受体阻断剂部分或全部阻断腺苷的作用。</span><span class="english">The effect of adenosine is blocked by adrenergic receptor blockers.</span></p>
 
 <p><span class="chinese">肾上腺素能反应系统在调节心血管的稳态上起重要作用。</span><span class="english">Adrenergic system plays an important role in regulating cardiovascular system.</span></p>

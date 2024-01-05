@@ -1,5 +1,7 @@
 # squatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squatter.md)
+
 <p><span class="chinese">什么让寮屋城区如此重要？</span><span class="english">What makes squatter cities so important?</span></p>
 
 <p><span class="chinese">我会找到我的座位号，并把占我位子的没坐票的人赶走。</span><span class="english">I will find my seat number, then kick out the squatter in my seat.</span></p>

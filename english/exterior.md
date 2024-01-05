@@ -1,5 +1,7 @@
 # exterior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exterior.md)
+
 <p><span class="chinese">进入外锚地。</span><span class="english">Go to exterior anchorage.</span></p>
 
 <p><span class="chinese">外部回滑袋。</span><span class="english">Exterior back slip pocket.</span></p>

@@ -1,5 +1,7 @@
 # trustee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trustee.md)
+
 <p><span class="chinese">我每天都在联系破产受托人。</span><span class="english">I try to reach the trustee every day.</span></p>
 
 <p><span class="chinese">受托人对受益人负有信托义务。</span><span class="english">To the beneficiary the trustee owes a fiduciary duty.</span></p>

@@ -1,5 +1,7 @@
 # sandpaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandpaper.md)
+
 <p><span class="chinese">增强塑料表面用砂纸打磨、拉毛。</span><span class="english">ERP surfaces by brushing with a sandpaper.</span></p>
 
 <p><span class="chinese">我家后院又见蓝花藤盛开。</span><span class="english">Sandpaper Vine at my backyard blooming again.</span></p>

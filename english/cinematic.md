@@ -1,5 +1,7 @@
 # cinematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinematic.md)
+
 <p><span class="chinese">还有比这个场景更唯美的的吗？</span><span class="english">The setting couldn't have been more cinematic.</span></p>
 
 <p><span class="chinese">全球院线的下个热门点又将是什么？</span><span class="english">What will be the next global cinematic hot spot?</span></p>

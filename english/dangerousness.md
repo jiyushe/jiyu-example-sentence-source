@@ -1,5 +1,7 @@
 # dangerousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dangerousness.md)
+
 <p><span class="chinese">因此，正确廓清人身危险性的概念是刻不容缓的。</span><span class="english">So it is very necessary to define the concept of personal dangerousness.</span></p>
 
 <p><span class="chinese">许多这些想法都是没有道理、夸大了情况中的危险性。</span><span class="english">Many of these thoughts are irrational and exaggerate the dangerousness of the situation.</span></p>

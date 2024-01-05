@@ -1,5 +1,7 @@
 # synonymous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synonymous.md)
+
 <p><span class="chinese">晚装似乎就是性感的同义词。</span><span class="english">Eveningwear is practically synonymous with sexy.</span></p>
 
 <p><span class="chinese">埃塞尔这个名字显然已经成为“低端”的代名词。</span><span class="english">The name Edsel has become synonymous with 'flop.</span></p>

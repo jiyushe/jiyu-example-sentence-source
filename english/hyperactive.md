@@ -1,5 +1,7 @@
 # hyperactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperactive.md)
+
 <p><span class="chinese">他动，每个人都可以看到。</span><span class="english">He's hyperactive , pipi , everyone can see that.</span></p>
 
 <p><span class="chinese">如果您的驯鹿生病了，可以叫我哥哥来帮您拉雪橇。反正他也是精力过剩了。</span><span class="english">If a reindeer gets sick take my brother to help pull the sleigh. He's hyperactive anyway!</span></p>

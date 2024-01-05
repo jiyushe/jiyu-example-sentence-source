@@ -1,5 +1,7 @@
 # upside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upside.md)
+
 <p><span class="chinese">上下颠倒了。</span><span class="english">It's upside down.</span></p>
 
 <p><span class="chinese">离婚的光明面？</span><span class="english">An Upside To Divorce?</span></p>

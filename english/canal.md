@@ -1,5 +1,7 @@
 # canal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canal.md)
+
 <p><span class="chinese">根管治疗！</span><span class="english">Root canal.</span></p>
 
 <p><span class="chinese">台南市运河。</span><span class="english">Canal of Tainan City.</span></p>

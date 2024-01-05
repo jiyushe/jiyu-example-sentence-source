@@ -1,5 +1,7 @@
 # saleslady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saleslady.md)
+
 <p><span class="chinese">“我帮你把他放到盒子里，好吗？”女售货员问道。</span><span class="english">"Shall I put him in a box for you?"the saleslady asked.</span></p>
 
 <p><span class="chinese">“需要我把小熊放到盒子里么？”女售货员问道。</span><span class="english">"Shall I put him in a box for you?" the saleslady asked.</span></p>

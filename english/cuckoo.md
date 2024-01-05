@@ -1,5 +1,7 @@
 # cuckoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuckoo.md)
+
 <p><span class="chinese">珍模仿布谷鸟的叫声。</span><span class="english">Jane imitates the cuckoo.</span></p>
 
 <p><span class="chinese">杜鹃道，不如归去。</span><span class="english">Cuckoo Road, Better go back.</span></p>

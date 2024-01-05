@@ -1,5 +1,7 @@
 # 安之若素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anzhiruosu.md)
+
 <p><span class="chinese">人们对其生活安之若素。</span><span class="english">People get too comfortable with their lives.</span></p>
 
 <p><span class="chinese">指派给你的性别是否让你安之若素？</span><span class="english">Was the gender assigned to you the one you feel most comfortable with?</span></p>

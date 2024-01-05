@@ -1,5 +1,7 @@
 # 外债
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizhai.md)
+
 <p><span class="chinese">1998年俄罗斯换不起外债。</span><span class="english">Russia in 1998 defaulted on its foreign debt.</span></p>
 
 <p><span class="chinese">她出售了自己的麦当劳店，倾其所有进行投资，又借了135万美元外债，准备要建立世界上最快速、最自动化的面包公司。</span><span class="english">She was ready to build the fastest, most automated bakery in the world.</span></p>

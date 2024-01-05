@@ -1,5 +1,7 @@
 # organist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organist.md)
+
 <p><span class="chinese">那位风琴手拔出了风琴的全部音栓。</span><span class="english">The organist pulled out all the stops.</span></p>
 
 <p><span class="chinese">弹风琴的弹着风琴把会众送了出去。</span><span class="english">The organist was playing the congregation out.</span></p>

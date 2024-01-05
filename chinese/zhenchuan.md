@@ -1,5 +1,7 @@
 # 真传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenchuan.md)
+
 <p><span class="chinese">猫妈妈一共有四个宝宝，这四个宝宝的从小深得猫妈真传，个个张牙舞爪。</span><span class="english">The four babies of the cat mother are all very ferocious too.</span></p>
 
 <p><span class="chinese">武元甲在南越构筑的情报网得到了孙子真传。</span><span class="english">Suntzu would have been impressed with general giap's spy network in South Vietnam.</span></p>

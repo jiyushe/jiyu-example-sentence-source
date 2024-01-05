@@ -1,5 +1,7 @@
 # endogenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endogenetic.md)
+
 <p><span class="chinese">几乎所有的大型内生金属矿床上都有明显的航磁局部异常。</span><span class="english">Covering almost all the large endogenetic metallic deposits there are distinct local aeromagnetic anomalies.</span></p>
 
 <p><span class="chinese">以民营中小企业为主的内生型产业集群对我国经济发展贡献极大。</span><span class="english">The Endogenetic Industrial Cluster which mainly includes Small-medium firms contributes to Chinese economy very much.</span></p>

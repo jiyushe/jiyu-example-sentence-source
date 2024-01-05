@@ -1,5 +1,7 @@
 # 停当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingdang.md)
+
 <p><span class="chinese">我们必须把房子收拾停当，以期我们的客人随时入住。</span><span class="english">We must get the house ready for our guests.</span></p>
 
 <p><span class="chinese">我把自己的一生都安排停当了。</span><span class="english">I've put my entire life into apple-pie order.</span></p>

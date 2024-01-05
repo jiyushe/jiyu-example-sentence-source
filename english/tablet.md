@@ -1,5 +1,7 @@
 # tablet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tablet.md)
+
 <p><span class="chinese">使药片融于水中。</span><span class="english">Dissolve the tablet in water.</span></p>
 
 <p><span class="chinese">那个碑亭是方形的。</span><span class="english">That tablet pavilion is square.</span></p>

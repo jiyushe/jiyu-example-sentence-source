@@ -1,5 +1,7 @@
 # bas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bas.md)
+
 <p><span class="chinese">她对他的勇气敬佩之至。</span><span class="english">She bas admiration for his courage.</span></p>
 
 <p><span class="chinese">逐渐在梅陇地区形成一个盆地。</span><span class="english">Gradually form a bas in in Zigzag area.</span></p>

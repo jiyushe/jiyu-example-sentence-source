@@ -1,5 +1,7 @@
 # dace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dace.md)
+
 <p><span class="chinese">我就知道你会考的好。</span><span class="english">I knew you dace your test.</span></p>
 
 <p><span class="chinese">他们回到蜂箱旁，仔细观察摆尾舞。</span><span class="english">Back at the hive they watched the wagging dace closely.</span></p>

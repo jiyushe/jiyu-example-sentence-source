@@ -1,5 +1,7 @@
 # lackluster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lackluster.md)
+
 <p><span class="chinese">什么是没有颜色，暗淡无光呢？</span><span class="english">What is the color of lackluster?</span></p>
 
 <p><span class="chinese">暗淡的外表最多只能算第一个打击。</span><span class="english">Lackluster looks are only one strike.</span></p>

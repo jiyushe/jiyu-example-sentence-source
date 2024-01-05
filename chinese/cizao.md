@@ -1,5 +1,7 @@
 # 辞藻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizao.md)
+
 <p><span class="chinese">女性固然有一套玩弄辞藻的办法。</span><span class="english">The woman certainly has a way with words.</span></p>
 
 <p><span class="chinese">用无数诗意的辞藻轻呼他名字</span><span class="english">Call'd him soft names in many a mused rhyme</span></p>

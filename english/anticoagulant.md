@@ -1,5 +1,7 @@
 # anticoagulant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticoagulant.md)
+
 <p><span class="chinese">利伐沙班是一种新型的可直接口服的抗凝剂。</span><span class="english">Rivaroxaban is a new type of direct oral anticoagulant.</span></p>
 
 <p><span class="chinese">肝素为最广泛应用及最可靠的抗凝剂。</span><span class="english">Heparin is the most widely used and reliable anticoagulant.</span></p>

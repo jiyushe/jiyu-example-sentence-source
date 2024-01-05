@@ -1,5 +1,7 @@
 # 有感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yougan.md)
+
 <p><span class="chinese">是我一时有感而发。</span><span class="english">I was inspired in the moment.</span></p>
 
 <p><span class="chinese">得了前列腺炎有感觉吗？什么感觉？</span><span class="english">Got prostatitis to there is a feeling? What feeling?</span></p>

@@ -1,5 +1,7 @@
 # extract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extract.md)
+
 <p><span class="chinese">什么是红车轴草的提取物？</span><span class="english">What is Red Clover Extract?</span></p>
 
 <p><span class="chinese">我们可从橄榄中榨油。</span><span class="english">We can extract oil from olive.</span></p>

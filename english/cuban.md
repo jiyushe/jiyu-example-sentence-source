@@ -1,5 +1,7 @@
 # Cuban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuban.md)
+
 <p><span class="chinese">正如古班所说。</span><span class="english">As Cuban says.</span></p>
 
 <p><span class="chinese">这是一架古巴的米格-29战机。</span><span class="english">This is A Cuban MiG-29.</span></p>

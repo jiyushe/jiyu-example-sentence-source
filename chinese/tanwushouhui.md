@@ -1,5 +1,7 @@
 # 贪污受贿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanwushouhui.md)
+
 <p><span class="chinese">有些政府官员对贪污受贿视而不见。</span><span class="english">Some government officials connive at graft.</span></p>
 
 <p><span class="chinese">问题不仅仅是挪用公款和贪污受贿那么简单。</span><span class="english">The problem is not simply one of embezzlement and bribery.</span></p>

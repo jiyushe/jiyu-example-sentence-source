@@ -1,5 +1,7 @@
 # css
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/css.md)
+
 <p><span class="chinese">以我以上的框架为例，这样的动态进程可以设置成在仅在base.css需要时被触发，而type.css,grids.css等被请求时却不这样被触发。</span><span class="english">is requested, but not when type.css, grids.css</span></p>
 
 <p><span class="chinese">在氚，如何设置一个CSS类作为一个变量?。</span><span class="english">In Tritium, how do I set a CSS class as a variable?</span></p>

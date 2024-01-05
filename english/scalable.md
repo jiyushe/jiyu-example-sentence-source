@@ -1,5 +1,7 @@
 # scalable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalable.md)
+
 <p><span class="chinese">译作不可随意增减伸缩。</span><span class="english">Translation is not scalable.</span></p>
 
 <p><span class="chinese">可扩展的–添加或移动的风机盘管当需要时。</span><span class="english">Scalable – add or move fan coils as needed.</span></p>

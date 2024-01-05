@@ -1,5 +1,7 @@
 # distress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distress.md)
+
 <p><span class="chinese">他表达了他的苦恼。</span><span class="english">He telegraphed his distress.</span></p>
 
 <p><span class="chinese">他们发出了一枚呼救信号火箭。</span><span class="english">They sent a distress rocket.</span></p>

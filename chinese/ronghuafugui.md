@@ -1,5 +1,7 @@
 # 荣华富贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronghuafugui.md)
+
 <p><span class="chinese">所以世间的荣华富贵绝不能贪图啊！</span><span class="english">So the world the splendor can never covet!</span></p>
 
 <p><span class="chinese">因著信心，摩西离弃了荣华富贵。</span><span class="english">By faith, Moses turned his back on prosperity.</span></p>

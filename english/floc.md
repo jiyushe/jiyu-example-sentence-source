@@ -1,5 +1,7 @@
 # floc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floc.md)
+
 <p><span class="chinese">结果表明，腐植酸絮体的粒径呈现对数正态分布。</span><span class="english">The results showed that Al-humic floc size followed a lognormal distribution.</span></p>
 
 <p><span class="chinese">ROMAX-668和HF-03两药剂复配使用可以获得更快的絮体增长速度和更大的絮体粒径尺寸。</span><span class="english">By mixing ROMAX-668 and HF-03, it can increase floc growth speed and its size.</span></p>

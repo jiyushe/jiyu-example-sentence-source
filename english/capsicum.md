@@ -1,5 +1,7 @@
 # capsicum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsicum.md)
+
 <p><span class="chinese">有辣椒。</span><span class="english">Which has capsicum.</span></p>
 
 <p><span class="chinese">即使不放辣椒。</span><span class="english">Even though without capsicum.</span></p>

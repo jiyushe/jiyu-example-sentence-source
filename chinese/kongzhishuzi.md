@@ -1,5 +1,7 @@
 # 控制数字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongzhishuzi.md)
+
 <p><span class="chinese">这是一个完全的议案，控制数字万花筒，石英作曲家。</span><span class="english">This is a fully motion controlled digital kaleidoscope, developed in quartz composer.</span></p>
 
 <p><span class="chinese">最后给出了本文实验所用的逆变器功率电路的设计和并联控制数字电路的设计。</span><span class="english">Finally it is explained how the inverter circuit and the digital control circuit are design.</span></p>

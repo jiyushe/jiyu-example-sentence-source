@@ -1,5 +1,7 @@
 # alternately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternately.md)
+
 <p><span class="chinese">宝宝一会儿睡一会儿尿。</span><span class="english">The baby alternately dozed and puddled.</span></p>
 
 <p><span class="chinese">交替旋入六角头螺栓。</span><span class="english">Screw in hexagon-head bolts alternately.</span></p>

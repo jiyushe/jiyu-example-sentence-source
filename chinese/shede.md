@@ -1,5 +1,7 @@
 # 舍得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shede.md)
+
 <p><span class="chinese">舍得花钱去筹到更多的资金。</span><span class="english">Spend money to raise mone.</span></p>
 
 <p><span class="chinese">他不舍得给他的猫吃食物。</span><span class="english">He grudged his cat the food it ate.</span></p>

@@ -1,5 +1,7 @@
 # 自诩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixu_2.md)
+
 <p><span class="chinese">她自诩为古钱币专家。</span><span class="english">She poses as an expert in old coins.</span></p>
 
 <p><span class="chinese">它们中有些自诩为使徒所写。</span><span class="english">Well,some of them claimed to be by apostles.</span></p>

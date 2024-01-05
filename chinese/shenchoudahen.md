@@ -1,5 +1,7 @@
 # 深仇大恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenchoudahen.md)
+
 <p><span class="chinese">她对法西斯主义怀有深仇大恨。</span><span class="english">She has a profound hatred of fascism.</span></p>
 
 <p><span class="chinese">深仇大恨，没法调和。</span><span class="english">Great hatred does not lend itself to reconciliation.</span></p>

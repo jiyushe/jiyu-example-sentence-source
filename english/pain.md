@@ -1,5 +1,7 @@
 # pain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pain.md)
+
 <p><span class="chinese">在颈部疼痛。</span><span class="english">Pain in the neck.</span></p>
 
 <p><span class="chinese">悲伤和痛苦。</span><span class="english">Sadness and pain.</span></p>

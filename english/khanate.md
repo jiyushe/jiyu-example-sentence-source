@@ -1,5 +1,7 @@
 # khanate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khanate.md)
+
 <p><span class="chinese">1234年并入蒙古察合台汗国。</span><span class="english">Incorporated into the Mongol Chagatai Khanate in 1234.</span></p>
 
 <p><span class="chinese">1206年，成吉思汗建立蒙古汗国。</span><span class="english">In 1206, Genghis Khan established the Mongolian Khanate.</span></p>

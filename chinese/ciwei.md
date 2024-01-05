@@ -1,5 +1,7 @@
 # 刺猬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciwei.md)
+
 <p><span class="chinese">刺猬也这样干。</span><span class="english">Hedgehogs do it too.</span></p>
 
 <p><span class="chinese">刺猬能滚成一团，形成圆球。</span><span class="english">Hedgehogs can roll into balls.</span></p>

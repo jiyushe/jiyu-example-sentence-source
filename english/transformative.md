@@ -1,5 +1,7 @@
 # transformative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transformative.md)
+
 <p><span class="chinese">这样，静就成为了一种变形的“动”。</span><span class="english">The stillness becomes a transformative action.</span></p>
 
 <p><span class="chinese">提出了机翼型叶轮的改造问题。</span><span class="english">Transformative problem of aerofoil impeller is put forward.</span></p>

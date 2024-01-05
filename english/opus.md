@@ -1,5 +1,7 @@
 # opus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opus.md)
+
 <p><span class="chinese">什么是天主事工会？</span><span class="english">What is Opus Dei?</span></p>
 
 <p><span class="chinese">第232号作品，西班牙诗篇，第4。</span><span class="english">Cantos de Espana, Opus 232. No 4</span></p>

@@ -1,5 +1,7 @@
 # worthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worthful.md)
+
 <p><span class="chinese">我完成了很多有价值的工作。</span><span class="english">I'm done some piece of work that are worthful.</span></p>
 
 <p><span class="chinese">这一工作对研究煤的结构很有意义。</span><span class="english">It is worthful for people to know and study coal structure.</span></p>

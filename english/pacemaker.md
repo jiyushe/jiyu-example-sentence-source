@@ -1,5 +1,7 @@
 # pacemaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacemaker.md)
+
 <p><span class="chinese">VNS就像是大脑的起搏器。</span><span class="english">VNS is like a pacemaker for the brain.</span></p>
 
 <p><span class="chinese">一个两心室的起搏器可以解决这个问题。</span><span class="english">A biventricular pacemaker can fix this problem.</span></p>

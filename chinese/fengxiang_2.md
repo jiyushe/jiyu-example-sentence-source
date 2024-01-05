@@ -1,5 +1,7 @@
 # 风向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxiang_2.md)
+
 <p><span class="chinese">今天傍晚，风向将转南。</span><span class="english">The wind will south this evening.</span></p>
 
 <p><span class="chinese">风向的转变阻止了火势的蔓延。</span><span class="english">A change of wind checked the fire.</span></p>

@@ -1,5 +1,7 @@
 # 娥眉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emei.md)
+
 <p><span class="chinese">形容情人的娥眉。</span><span class="english">Made to his mistress' eyebrow.</span></p>
 
 <p><span class="chinese">因为是娥眉，所以，赢的希望很大。</span><span class="english">Because it is a crescent, so to win a lot of hope.</span></p>

@@ -1,5 +1,7 @@
 # loyalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loyalist.md)
+
 <p><span class="chinese">他是一个典型的封建时代的忠君爱国人物。</span><span class="english">He is a typical loyalist patriot of feudal times.</span></p>
 
 <p><span class="chinese">扎卡菲拥护者使用坦克和火箭重火力压倒了反对者。</span><span class="english">Loyalist forces using tanks and rockets outgunned the rebel groups.</span></p>

@@ -1,5 +1,7 @@
 # promontory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promontory.md)
+
 <p><span class="chinese">返回海角岗哨。</span><span class="english">Return to Promontory Point.</span></p>
 
 <p><span class="chinese">有一次我坐在海岬上。</span><span class="english">Since once I sat upon a promontory.</span></p>

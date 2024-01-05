@@ -1,5 +1,7 @@
 # 糖苷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanggan.md)
+
 <p><span class="chinese">甜菊糖苷是一种低热能的高倍甜味剂。</span><span class="english">Steviosides is a low heat energy sweetener.</span></p>
 
 <p><span class="chinese">双糖的糖苷配基是一个单糖单元的苷。</span><span class="english">A glycoside, the sugar component of which is glucose.</span></p>

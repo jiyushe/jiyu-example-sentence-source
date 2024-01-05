@@ -1,5 +1,7 @@
 # 猿人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanren_1.md)
+
 <p><span class="chinese">猿人的魔法书！</span><span class="english">The Bape Magic Book !</span></p>
 
 <p><span class="chinese">这个猿人长得真帅呀！</span><span class="english">This ape-man is so handsome!</span></p>

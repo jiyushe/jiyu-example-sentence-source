@@ -1,5 +1,7 @@
 # 不明不白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumingbubai.md)
+
 <p><span class="chinese">不明不白我离你而去。</span><span class="english">I am sorry to you!</span></p>
 
 <p><span class="chinese">时间就这样不明不白地流走了。</span><span class="english">Time flies away without anything left in this way.</span></p>

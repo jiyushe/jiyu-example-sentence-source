@@ -1,5 +1,7 @@
 # theocratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theocratic.md)
+
 <p><span class="chinese">任何国家沾染上这种病毒就会成为民主的敌人。</span><span class="english">Any country that goes theocratic will never again be democratic.</span></p>
 
 <p><span class="chinese">克莱恩说这是安息日记号的神治国度戳印功能。</span><span class="english">Kline speaks of this as the Sabbath sign's theocratic stamping function.</span></p>

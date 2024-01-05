@@ -1,5 +1,7 @@
 # conjugal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjugal.md)
+
 <p><span class="chinese">酒与杯恩恩爱爱!!</span><span class="english">Wine and cup boon conjugal love!!</span></p>
 
 <p><span class="chinese">缘分，其实是一种微妙的东西。</span><span class="english">Conjugal fate is something delicate.</span></p>

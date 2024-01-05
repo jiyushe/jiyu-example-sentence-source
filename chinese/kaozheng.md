@@ -1,5 +1,7 @@
 # 考证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaozheng.md)
+
 <p><span class="chinese">机工的专业知识和考证培训等。</span><span class="english">Mechanic's expertise and research training.</span></p>
 
 <p><span class="chinese">据她考证，这个词最早出现于1968年。</span><span class="english">She traced the word's first use back to 1968.</span></p>

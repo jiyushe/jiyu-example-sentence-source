@@ -1,5 +1,7 @@
 # 回采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huicai.md)
+
 <p><span class="chinese">为回采方案的实施打下了良好的基础。</span><span class="english">It will lay the better foundation for practice of extraction plan.</span></p>
 
 <p><span class="chinese">文章介绍了回采工作面的调斜方法。</span><span class="english">This paper introduces the method of slope adjustment of stope face.</span></p>

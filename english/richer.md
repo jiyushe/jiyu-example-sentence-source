@@ -1,5 +1,7 @@
 # richer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/richer.md)
+
 <p><span class="chinese">故此我比你更加富有。</span><span class="english">I am richer than you.</span></p>
 
 <p><span class="chinese">谁谁的很胖，谁很富裕，谁又聪明伶俐，...等等。</span><span class="english">Who's fatter? Richer?</span></p>

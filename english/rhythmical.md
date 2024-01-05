@@ -1,5 +1,7 @@
 # rhythmical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhythmical.md)
+
 <p><span class="chinese">那音乐有强烈的节奏。</span><span class="english">The music is strongly rhythmical.</span></p>
 
 <p><span class="chinese">诗歌缘于优美词汇的有节奏性组合，这个解释很新奇。</span><span class="english">Poetry is the rhythmical creation of beauty in words.</span></p>

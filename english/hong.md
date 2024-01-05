@@ -1,5 +1,7 @@
 # hong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hong.md)
+
 <p><span class="chinese">我问红红。</span><span class="english">I ask Hong Hong.</span></p>
 
 <p><span class="chinese">您是张黑吗？</span><span class="english">Are you Zhang Hong?</span></p>

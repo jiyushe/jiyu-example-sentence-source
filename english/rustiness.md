@@ -1,5 +1,7 @@
 # rustiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rustiness.md)
+
 <p><span class="chinese">他那沙哑的讲话声，也成了公众迷醉于他的一个重要因素。</span><span class="english">His rustiness had become a charming attraction to the public.</span></p>
 
 <p><span class="chinese">为防止内装物锈蚀采取一定防护措施的包装。</span><span class="english">In order to prevent naiso of rustiness take certain precautions.</span></p>

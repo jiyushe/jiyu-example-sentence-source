@@ -1,5 +1,7 @@
 # 感应电流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyingdianliu.md)
+
 <p><span class="chinese">鸭嘴兽利用感应电流觅食。</span><span class="english">Platypuses find food by sensing electricity.</span></p>
 
 <p><span class="chinese">在第一个线圈中感应电流随着时间变化。</span><span class="english">The donating current varies over time in the first wire.</span></p>

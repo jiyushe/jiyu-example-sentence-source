@@ -1,5 +1,7 @@
 # 青苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmiao.md)
+
 <p><span class="chinese">您是如何知道青苗国际双语学校的？</span><span class="english">How did you learn about Beanstalk International Bilingual School?</span></p>
 
 <p><span class="chinese">青苗的课程设置注重发展学生在不同领域的不同技能。</span><span class="english">BIBS curriculum focuses on strengthening students' skills in a variety of areas.</span></p>

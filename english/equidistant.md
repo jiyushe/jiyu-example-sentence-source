@@ -1,5 +1,7 @@
 # equidistant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equidistant.md)
+
 <p><span class="chinese">要确保你的耳朵与两肩等距离。</span><span class="english">Make sure your ears are equidistant from your shoulders.</span></p>
 
 <p><span class="chinese">它必须与最远处的弹奏的手指等距离。</span><span class="english">It must be equidistant from the extreme fingers that play.</span></p>

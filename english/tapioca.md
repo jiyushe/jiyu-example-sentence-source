@@ -1,5 +1,7 @@
 # tapioca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapioca.md)
+
 <p><span class="chinese">我得思考淀粉的问题。</span><span class="english">I got to get my thoughts down on tapioca.</span></p>
 
 <p><span class="chinese">将西谷米和甜菜汁放入锅中烹煮。</span><span class="english">Place tapioca in a pan with the beet juice.</span></p>

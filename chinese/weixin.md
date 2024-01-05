@@ -1,5 +1,7 @@
 # 唯心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixin.md)
+
 <p><span class="chinese">女性们当然并不希望被要求参与进传统唯心的社会。</span><span class="english">Women, of course, are not really asked in idealistic, traditionalistic societies.</span></p>
 
 <p><span class="chinese">把黑格尔的初级唯心辩证法改造为高级唯物辩证法。</span><span class="english">The Hegelian dialectics of the initial idealism for senior materialist dialectics.</span></p>

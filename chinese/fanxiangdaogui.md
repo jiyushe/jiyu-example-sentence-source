@@ -1,5 +1,7 @@
 # 翻箱倒柜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxiangdaogui.md)
+
 <p><span class="chinese">她翻箱倒柜的在底部寻找到她的钱包。</span><span class="english">She rummaged change from the bottom of her purse.</span></p>
 
 <p><span class="chinese">我翻箱倒柜地找了三个抽屉才找到手套。</span><span class="english">I rummaged three drawers before I found my gloves.</span></p>

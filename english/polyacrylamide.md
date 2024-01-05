@@ -1,5 +1,7 @@
 # polyacrylamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyacrylamide.md)
+
 <p><span class="chinese">研究了聚丙烯酰胺对混凝土性能的改性效果。</span><span class="english">The paper researches the concrete property effect modified by polyacrylamide.</span></p>
 
 <p><span class="chinese">用聚丙烯酰胺凝胶电泳法研究丝胶的蛋白质组成问题。</span><span class="english">The protein composition of sericin have been studied by polyacrylamide gel electrophoresis.</span></p>

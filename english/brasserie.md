@@ -1,5 +1,7 @@
 # brasserie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brasserie.md)
+
 <p><span class="chinese">酒店餐厅是一个轻松的国际餐饮场所。</span><span class="english">Brasserie Restaurant is a relaxed International dining venue.</span></p>
 
 <p><span class="chinese">开发和执行尼盛万丽啤酒屋的销售计划。</span><span class="english">Develop and execute plans and actions for the marketing of the Renaissance Brasserie.</span></p>

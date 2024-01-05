@@ -1,5 +1,7 @@
 # upcoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upcoming.md)
+
 <p><span class="chinese">那么你接下来的项目是什么？</span><span class="english">So what about your upcoming projects?</span></p>
 
 <p><span class="chinese">回到即将在加利福尼亚举行的网络营销峰会来。</span><span class="english">Back to the upcoming OMS in California.</span></p>

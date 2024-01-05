@@ -1,5 +1,7 @@
 # 放养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangyang.md)
+
 <p><span class="chinese">你放养的牧人，因为它是。</span><span class="english">You herd the herder, as it were.</span></p>
 
 <p><span class="chinese">从前西部式放养哪里去了？</span><span class="english">Where did the old Western round-up go?</span></p>

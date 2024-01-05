@@ -1,5 +1,7 @@
 # 答应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daying.md)
+
 <p><span class="chinese">我答应你！</span><span class="english">I promise that!</span></p>
 
 <p><span class="chinese">答应我，师傅。</span><span class="english">Promise me, Shifu.</span></p>

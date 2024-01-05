@@ -1,5 +1,7 @@
 # 默默不语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momobuyu.md)
+
 <p><span class="chinese">只能默默不语。</span><span class="english">Can only be silent.</span></p>
 
 <p><span class="chinese">我们都默默不语地坐在那儿。</span><span class="english">We all sat there in dumb silence.</span></p>

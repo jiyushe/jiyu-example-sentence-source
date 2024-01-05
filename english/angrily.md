@@ -1,5 +1,7 @@
 # angrily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angrily.md)
+
 <p><span class="chinese">他生气地走了。</span><span class="english">He left angrily.</span></p>
 
 <p><span class="chinese">亚哈王气冲冲地问。</span><span class="english">Ahab asked angrily.</span></p>

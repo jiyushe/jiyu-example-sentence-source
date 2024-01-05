@@ -1,5 +1,7 @@
 # downswing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downswing.md)
+
 <p><span class="chinese">这就是为什么下挥杆的时候根可以那么快速的外展他的髋关节。</span><span class="english">That's why his hips unwound so fast on the downswing.</span></p>
 
 <p><span class="chinese">一名球员球杆的杆身在下挥杆的时候折断了。</span><span class="english">The shaft of a players club broke during his downswing.</span></p>

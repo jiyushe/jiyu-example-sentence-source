@@ -1,5 +1,7 @@
 # aneurism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aneurism.md)
+
 <p><span class="chinese">动脉瘤可是一个最贴切的词了。</span><span class="english">Aneurism is as good a word as any other.</span></p>
 
 <p><span class="chinese">那个血腥的哥患有脑动脉瘤，他已经撑不了几天了。</span><span class="english">The taxi driver had a brain aneurism. He was dying.</span></p>

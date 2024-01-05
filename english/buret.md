@@ -1,5 +1,7 @@
 # buret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buret.md)
+
 <p><span class="chinese">滴定管用于液体滴定。</span><span class="english">A buret is used to titrate liquids.</span></p>
 
 <p><span class="chinese">这种二指操作法难度大。</span><span class="english">It is difficulty to operate the basic buret.</span></p>

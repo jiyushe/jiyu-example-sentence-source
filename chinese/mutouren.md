@@ -1,5 +1,7 @@
 # 木头人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mutouren.md)
+
 <p><span class="chinese">他是一个十足的木头人。</span><span class="english">He is a regular stick.</span></p>
 
 <p><span class="chinese">我不过是个木头人。</span><span class="english">I'm the king , you are my queen.</span></p>

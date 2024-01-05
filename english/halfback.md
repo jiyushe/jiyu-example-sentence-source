@@ -1,5 +1,7 @@
 # halfback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halfback.md)
+
 <p><span class="chinese">在下半场，他派了出色的左中卫上场。</span><span class="english">He started his ace left halfback on the second half.</span></p>
 
 <p><span class="chinese">那位明星中位接住远传球触地得分。</span><span class="english">The star halfback hauled down the pass for a touchdown.</span></p>

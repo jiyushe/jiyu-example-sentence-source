@@ -1,5 +1,7 @@
 # deaden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deaden.md)
+
 <p><span class="chinese">厚墙隔绝嘈杂声。</span><span class="english">Thick walls deaden noise.</span></p>
 
 <p><span class="chinese">她的脚都冻得麻木了。</span><span class="english">Her feet were deaden with cold.</span></p>

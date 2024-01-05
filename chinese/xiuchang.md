@@ -1,5 +1,7 @@
 # 修长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuchang.md)
+
 <p><span class="chinese">我看到一个身材修长的人。</span><span class="english">I saw a slender man.</span></p>
 
 <p><span class="chinese">她身量修长。</span><span class="english">She is tall and slim.</span></p>

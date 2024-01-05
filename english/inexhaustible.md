@@ -1,5 +1,7 @@
 # inexhaustible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexhaustible.md)
+
 <p><span class="chinese">蒂亚戈有着无尽的天赋。</span><span class="english">Thiago has an inexhaustible talent.</span></p>
 
 <p><span class="chinese">据说这口井很大，它的水是取之不尽用之不竭的。</span><span class="english">The well is, they say, great and inexhaustible.</span></p>

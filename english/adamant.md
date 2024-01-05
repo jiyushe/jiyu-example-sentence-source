@@ -1,5 +1,7 @@
 # adamant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adamant.md)
+
 <p><span class="chinese">在窑工们的强烈要求下啊。</span><span class="english">At the adamant demand of kiln workers.</span></p>
 
 <p><span class="chinese">而且你像磁铁似的吸引我那铁的心。</span><span class="english">And thou like adamant draw mine iron heart.</span></p>

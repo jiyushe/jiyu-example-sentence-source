@@ -1,5 +1,7 @@
 # chez
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chez.md)
+
 <p><span class="chinese">这就是埃尔维斯的家，哈？</span><span class="english">So this is chez Elvis, eh?</span></p>
 
 <p><span class="chinese">桑切斯戴安娜酒店实际是在23号公寓4层的2套经济型酒店。</span><span class="english">Chez Diana is actually two B&B's in apartment 23 on the 4th floor.</span></p>

@@ -1,5 +1,7 @@
 # proteolytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteolytic.md)
+
 <p><span class="chinese">催化的酶为蛋白酶或蛋白水解酶。</span><span class="english">Enzymes that catalyze this are proteases or proteolytic enzymes.</span></p>
 
 <p><span class="chinese">什么是全身性蛋白水解酶和你如何从中获益？</span><span class="english">What Are Systemic Proteolytic Enzymes and How Can You Benefit from Them?</span></p>

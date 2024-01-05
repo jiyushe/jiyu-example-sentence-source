@@ -1,5 +1,7 @@
 # coolie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coolie.md)
+
 <p><span class="chinese">昨天一直在宿舍做苦力。</span><span class="english">Yesterday has been doing coolie quarters.</span></p>
 
 <p><span class="chinese">你就像一个苦力一样到处被人利用。</span><span class="english">You are being used by everyone as paid coolie.</span></p>

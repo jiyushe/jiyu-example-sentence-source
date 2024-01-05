@@ -1,5 +1,7 @@
 # improperly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improperly.md)
+
 <p><span class="chinese">宠物如喂养不当可得病。</span><span class="english">A pet may founder if fed improperly.</span></p>
 
 <p><span class="chinese">没有正确卸载文件系统</span><span class="english">Any file system is improperly unmounted</span></p>

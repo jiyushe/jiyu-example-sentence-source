@@ -1,5 +1,7 @@
 # trichotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichotomy.md)
+
 <p><span class="chinese">民事行为能力三分法缺乏实用性。</span><span class="english">Trichotomy of civil liability lacks applicability.</span></p>
 
 <p><span class="chinese">时间三分法和以它为基础的时体理论存在诸多问题。</span><span class="english">Trichotomy of time and tense theories on its basis has many problems.</span></p>

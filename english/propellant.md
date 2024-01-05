@@ -1,5 +1,7 @@
 # propellant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propellant.md)
+
 <p><span class="chinese">推动力来自最上面。</span><span class="english">The propellant came from the top.</span></p>
 
 <p><span class="chinese">液氧和酒精被用作推进剂。</span><span class="english">Liquid oxygen and alcohol were used as the propellant.</span></p>

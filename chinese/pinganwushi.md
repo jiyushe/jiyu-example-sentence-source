@@ -1,5 +1,7 @@
 # 平安无事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinganwushi.md)
+
 <p><span class="chinese">谢天谢地你平安无事。</span><span class="english">Thank God you’re safe!</span></p>
 
 <p><span class="chinese">世界大部分地区平安无事。</span><span class="english">Most of the world is at peace.</span></p>

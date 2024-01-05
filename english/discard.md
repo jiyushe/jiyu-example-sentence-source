@@ -1,5 +1,7 @@
 # discard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discard.md)
+
 <p><span class="chinese">放弃你的偏见。</span><span class="english">Discard your prejudices.</span></p>
 
 <p><span class="chinese">扔掉电磁铁。</span><span class="english">Discard the electromagnet.</span></p>

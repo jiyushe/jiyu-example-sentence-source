@@ -1,5 +1,7 @@
 # 水磨石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimoshi.md)
+
 <p><span class="chinese">水磨石地板还能液体循环辐射加热。</span><span class="english">Terrazzo flooring contains hydronic radiant heating.</span></p>
 
 <p><span class="chinese">大理石、花岗石、水磨石等石材表面的光泽测量。</span><span class="english">Stone materials, such as marble, granite, terrazzo, etc.</span></p>

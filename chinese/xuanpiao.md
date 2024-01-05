@@ -1,5 +1,7 @@
 # 选票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanpiao.md)
+
 <p><span class="chinese">你们所有人的选票都投给了我。</span><span class="english">All of you voted for me.</span></p>
 
 <p><span class="chinese">选票名的数组。</span><span class="english">an array of ballot names.</span></p>

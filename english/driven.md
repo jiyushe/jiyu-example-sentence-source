@@ -1,5 +1,7 @@
 # driven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/driven.md)
+
 <p><span class="chinese">她开车出去了。</span><span class="english">She has driven out.</span></p>
 
 <p><span class="chinese">帕特好多年都没开车了。</span><span class="english">Pat hadn’t driven in years.</span></p>

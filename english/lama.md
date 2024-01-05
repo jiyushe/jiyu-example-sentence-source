@@ -1,5 +1,7 @@
 # lama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lama.md)
+
 <p><span class="chinese">与喇嘛相处愉快。</span><span class="english">Bill and Loden Lama.</span></p>
 
 <p><span class="chinese">鞑莱喇嘛是什么宗教？</span><span class="english">What religion is the Dalai Lama?</span></p>

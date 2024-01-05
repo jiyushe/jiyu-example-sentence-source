@@ -1,5 +1,7 @@
 # infiltrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infiltrative.md)
+
 <p><span class="chinese">周围无淋巴细胞和浆细胞浸润。</span><span class="english">No lymphocytes and plasmacytes were infiltrative peripherally.</span></p>
 
 <p><span class="chinese">③结果X线表现为按叶、段分布的肺实变。</span><span class="english">Results X ray films showed lobar pneumonic infiltrative shadow.</span></p>

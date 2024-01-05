@@ -1,5 +1,7 @@
 # 入不敷出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rubufuchu.md)
+
 <p><span class="chinese">旅游业在走下坡路，许多酒店惨淡经营，入不敷出。</span><span class="english">Tourism are down and many hotels are operating in the red.</span></p>
 
 <p><span class="chinese">由于物价的上涨，很多年轻夫妻是入不敷出。</span><span class="english">With prices rising, many young couples are unable to make ends meet.</span></p>

@@ -1,5 +1,7 @@
 # en
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/en.md)
+
 <p><span class="chinese">他在电影院。</span><span class="english">El está en el cine.</span></p>
 
 <p><span class="chinese">在西班牙广场。</span><span class="english">En Plaza de España.</span></p>

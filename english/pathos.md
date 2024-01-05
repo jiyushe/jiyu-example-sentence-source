@@ -1,5 +1,7 @@
 # pathos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathos.md)
+
 <p><span class="chinese">让人无限哀婉。</span><span class="english">and make people feel infinite pathos.</span></p>
 
 <p><span class="chinese">她的话非常哀婉动人。</span><span class="english">There is abundant pathos in her words.</span></p>

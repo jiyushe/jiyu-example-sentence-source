@@ -1,5 +1,7 @@
 # demur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demur.md)
+
 <p><span class="chinese">异议书已送达英特尔。</span><span class="english">Demur book already service Intel.</span></p>
 
 <p><span class="chinese">若再有一些国家出现反对或欺骗的情况，那么整个系统都将崩溃。</span><span class="english">If even a few nations demur or cheat, the whole system can break down.</span></p>

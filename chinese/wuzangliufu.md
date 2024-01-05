@@ -1,5 +1,7 @@
 # 五脏六腑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzangliufu.md)
+
 <p><span class="chinese">单独与房间只为你的五脏六腑。</span><span class="english">The derrnatopathy with room only for you alone.</span></p>
 
 <p><span class="chinese">温斯顿的五脏六腑似乎都变成了冰块。</span><span class="english">Winston's entrails seemed to have turned into ice.</span></p>

@@ -1,5 +1,7 @@
 # toddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toddy.md)
+
 <p><span class="chinese">汤姆也许已经忘记今天是他生日。</span><span class="english">Tom has probably forgotten that toddy is his birthday.</span></p>
 
 <p><span class="chinese">蒂文森先生正在东京，请与他在皇后饭店联系。</span><span class="english">Rl stevenson director abc company now in toddy contact him at queen hotel.</span></p>

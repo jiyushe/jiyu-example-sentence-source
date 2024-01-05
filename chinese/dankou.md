@@ -1,5 +1,7 @@
 # 单口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dankou.md)
+
 <p><span class="chinese">有一种深受人们喜爱的喜剧形式，叫做单口喜剧。</span><span class="english">One favourite type of comedy is called stand-up.</span></p>
 
 <p><span class="chinese">他在利物浦出道时是一个单口喜剧演员。</span><span class="english">He started out as a standup comedian in Liverpool.</span></p>

@@ -1,5 +1,7 @@
 # chiba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiba.md)
+
 <p><span class="chinese">我很高。千叶県出身。</span><span class="english">I'm tall. I'm from Chiba.</span></p>
 
 <p><span class="chinese">我住在千叶県、东京的郊区。</span><span class="english">Living in Chiba Prefecture, near Tokyo, Japan.</span></p>

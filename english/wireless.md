@@ -1,5 +1,7 @@
 # wireless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wireless.md)
+
 <p><span class="chinese">不准有无线设备。</span><span class="english">No wireless devices.</span></p>
 
 <p><span class="chinese">多模无线网络。</span><span class="english">Multimode Wireless Networks.</span></p>

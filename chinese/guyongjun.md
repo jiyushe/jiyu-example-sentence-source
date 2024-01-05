@@ -1,5 +1,7 @@
 # 雇佣军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyongjun.md)
+
 <p><span class="chinese">在那里被巴格达哈里发雇为雇佣军。</span><span class="english">as mercenaries by the Baghdad caliphs.</span></p>
 
 <p><span class="chinese">这些可能是新教雇佣军</span><span class="english">So, maybe these are Protestant mercenaries.</span></p>

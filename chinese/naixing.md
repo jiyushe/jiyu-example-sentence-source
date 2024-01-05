@@ -1,5 +1,7 @@
 # 耐性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naixing.md)
+
 <p><span class="chinese">练习耐性。</span><span class="english">Practice patience.</span></p>
 
 <p><span class="chinese">他应该耐性等待，并开始存钱？</span><span class="english">Should he be patient and save?</span></p>

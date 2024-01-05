@@ -1,5 +1,7 @@
 # 秘书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mishu.md)
+
 <p><span class="chinese">我的秘书是个难得的人才。</span><span class="english">My secret is a treasure people.</span></p>
 
 <p><span class="chinese">她现在在一家律师事务所当临时秘书。</span><span class="english">She is now temping in a law office.</span></p>

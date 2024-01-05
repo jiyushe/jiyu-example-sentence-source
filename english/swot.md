@@ -1,5 +1,7 @@
 # swot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swot.md)
+
 <p><span class="chinese">下一步是做SWOT分析。</span><span class="english">Next step is to do SWOT analysis.</span></p>
 
 <p><span class="chinese">我这几天得在物理学上下点功夫了。</span><span class="english">I have to swot up  my physics now.</span></p>

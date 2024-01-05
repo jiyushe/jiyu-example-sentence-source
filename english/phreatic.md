@@ -1,5 +1,7 @@
 # phreatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phreatic.md)
+
 <p><span class="chinese">另外，本文首次提出根据潜水水位曲线确定边坡几何形状的理论。</span><span class="english">The theory of the phreatic water level confirms the slope form was first presented.</span></p>
 
 <p><span class="chinese">浅层承压水含水组的地下水质变化特征和潜水基本一致。</span><span class="english">The variation characteristics of shallow confined groundwater are similar with phreatic water.</span></p>

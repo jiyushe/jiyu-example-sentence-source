@@ -1,5 +1,7 @@
 # transposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transposition.md)
+
 <p><span class="chinese">最直观的两张牌互换转移。</span><span class="english">The most visual two-card transposition ever.</span></p>
 
 <p><span class="chinese">本研究中发现转位并没有保护作用。</span><span class="english">Transposition was not protective in this analysis.</span></p>

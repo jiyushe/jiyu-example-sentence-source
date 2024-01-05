@@ -1,5 +1,7 @@
 # 紫罗兰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziluolan.md)
+
 <p><span class="chinese">我认为它们是紫罗兰。</span><span class="english">I think they’re violets.</span></p>
 
 <p><span class="chinese">中度的红色中透出一点紫罗兰色泽。</span><span class="english">Mid-red color with violet hues.</span></p>

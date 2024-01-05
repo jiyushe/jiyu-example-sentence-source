@@ -1,5 +1,7 @@
 # inconsolable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsolable.md)
+
 <p><span class="chinese">特纳的朋友说，他伤心至极。</span><span class="english">Turner 's friends said he was inconsolable.</span></p>
 
 <p><span class="chinese">你的离开让我如此伤心。</span><span class="english">I'm so inconsolable because of your departure.</span></p>

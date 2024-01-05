@@ -1,5 +1,7 @@
 # 撰稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangao.md)
+
 <p><span class="chinese">亚历山大·拉扎勒斯是为该报撰稿的饮食评论家。</span><span class="english">Lazarus is a food critic for the newspaper.</span></p>
 
 <p><span class="chinese">他为一名杂志出版社自由撰稿。</span><span class="english">He freelanced pieces to a magazine publisher.</span></p>

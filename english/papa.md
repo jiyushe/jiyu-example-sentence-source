@@ -1,5 +1,7 @@
 # papa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papa.md)
+
 <p><span class="chinese">棒约翰？</span><span class="english">Papa John's?</span></p>
 
 <p><span class="chinese">你去哪里，爸爸？</span><span class="english">Where to papa?</span></p>

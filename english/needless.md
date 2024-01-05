@@ -1,5 +1,7 @@
 # needless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/needless.md)
+
 <p><span class="chinese">少废话！带走！</span><span class="english">Little needless talk! Take!</span></p>
 
 <p><span class="chinese">不必说的是，我们还没有看完。</span><span class="english">Needless to say, we're not done.</span></p>

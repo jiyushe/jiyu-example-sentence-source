@@ -1,5 +1,7 @@
 # caressing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caressing.md)
+
 <p><span class="chinese">在他爱抚的同时。</span><span class="english">" while he was caressing them.</span></p>
 
 <p><span class="chinese">由于有我在毁灭中爱抚着你。</span><span class="english">For in deduringh i'm caressing u.</span></p>

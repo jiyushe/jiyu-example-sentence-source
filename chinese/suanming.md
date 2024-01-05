@@ -1,5 +1,7 @@
 # 算命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanming.md)
+
 <p><span class="chinese">我不可喜欢听金西嬷嬷算命。</span><span class="english">I don’t like Mammy Jincy’s fortunes.</span></p>
 
 <p><span class="chinese">他不相信算命人。</span><span class="english">He doesn't believe in fortune-tellers.</span></p>

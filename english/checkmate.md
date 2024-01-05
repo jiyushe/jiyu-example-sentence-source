@@ -1,5 +1,7 @@
 # checkmate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkmate.md)
+
 <p><span class="chinese">将军，三步之内将死。</span><span class="english">Check, checkmate in three moves.</span></p>
 
 <p><span class="chinese">这对印度来说是死局，找其他解决办法吧。</span><span class="english">It is checkmate for india. Find different solution.</span></p>

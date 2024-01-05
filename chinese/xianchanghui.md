@@ -1,5 +1,7 @@
 # 现场会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchanghui.md)
+
 <p><span class="chinese">现场会很冷。</span><span class="english">It's colder.</span></p>
 
 <p><span class="chinese">如果在真实的现场会有同样的错误吗？</span><span class="english">Would the same kind of mistakes be made with a really stressful event?</span></p>

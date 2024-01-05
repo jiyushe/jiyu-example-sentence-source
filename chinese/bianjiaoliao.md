@@ -1,5 +1,7 @@
 # 边角料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianjiaoliao.md)
+
 <p><span class="chinese">或者用地毯边角料。</span><span class="english">Use carpet cast-offs.</span></p>
 
 <p><span class="chinese">首先将这些碎的边角料用强碱水煮几个小时。</span><span class="english">First the wool shearings are boiled up in a strong lye for some hours.</span></p>

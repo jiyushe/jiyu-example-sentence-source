@@ -1,5 +1,7 @@
 # babu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babu.md)
+
 <p><span class="chinese">从现在开始，我可以经常见到班吉姆先生了。</span><span class="english">From now I began constantly to meet Bankim Babu.</span></p>
 
 <p><span class="chinese">晚上，阿戈尔先生来教我们英文。</span><span class="english">In the evening Aghore Babu came for our English lessons.</span></p>

@@ -1,5 +1,7 @@
 # 零工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linggong.md)
+
 <p><span class="chinese">你必须做什么零工呢？</span><span class="english">What chores do you have to do?</span></p>
 
 <p><span class="chinese">找第二份工作或者做零工。</span><span class="english">Look for a second job or odd jobs.</span></p>

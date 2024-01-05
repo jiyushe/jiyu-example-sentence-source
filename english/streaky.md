@@ -1,5 +1,7 @@
 # streaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streaky.md)
+
 <p><span class="chinese">洗你那脏的有了泥条的脸去，琼尼。</span><span class="english">Wash your dirty streaky face, Johnny.</span></p>
 
 <p><span class="chinese">唯一的缺点是投篮时准时不准。</span><span class="english">The only issue is the streaky shooting.</span></p>

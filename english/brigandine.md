@@ -1,5 +1,7 @@
 # brigandine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brigandine.md)
+
 <p><span class="chinese">热那亚弩兵是精锐弩兵，装备镶甲和全身巨盾。</span><span class="english">Superior Italian crossbow unit armoured with brigandine and a pavise.</span></p>
 
 <p><span class="chinese">热那亚巨盾弩兵是精锐弩兵，装备镶甲和全身巨盾。</span><span class="english">Superior Italian crossbow garrison unit armoured with brigandine and a pavise.</span></p>

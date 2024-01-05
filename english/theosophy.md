@@ -1,5 +1,7 @@
 # theosophy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theosophy.md)
+
 <p><span class="chinese">属于或关于神智学的。</span><span class="english">Of or relating to theosophy.</span></p>
 
 <p><span class="chinese">上帝在神智学的犹太法典。</span><span class="english">God in the Theosophy of the Talmud.</span></p>

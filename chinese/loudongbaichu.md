@@ -1,5 +1,7 @@
 # 漏洞百出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loudongbaichu.md)
+
 <p><span class="chinese">他对抢劫案经过的陈述漏洞百出。</span><span class="english">His account of the robbery won't hold water.</span></p>
 
 <p><span class="chinese">都是假的——就是一场戏，还是漏洞百出的。</span><span class="english">This is all fake — a drama, and a crude one.</span></p>

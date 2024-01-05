@@ -1,5 +1,7 @@
 # bullshit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullshit.md)
+
 <p><span class="chinese">我说”胡扯！</span><span class="english">I say bullshit.</span></p>
 
 <p><span class="chinese">SEO是狗屁。</span><span class="english">SEO is bullshit.</span></p>

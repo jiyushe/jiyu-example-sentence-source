@@ -1,5 +1,7 @@
 # spat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spat.md)
+
 <p><span class="chinese">我吐出嘴里的头发。</span><span class="english">And I spat out hair.</span></p>
 
 <p><span class="chinese">我的猫向一只狗呜呜地低鸣。</span><span class="english">My cat spat at a dog.</span></p>

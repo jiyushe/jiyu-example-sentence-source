@@ -1,5 +1,7 @@
 # 领教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjiao_1.md)
+
 <p><span class="chinese">对此，弗格森是领教过的。</span><span class="english">For Ferguson was learned.</span></p>
 
 <p><span class="chinese">我领教了他的怒气。</span><span class="english">I have tasted of his anger.</span></p>

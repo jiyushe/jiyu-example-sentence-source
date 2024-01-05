@@ -1,5 +1,7 @@
 # 第三产业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/disanchanye.md)
+
 <p><span class="chinese">第三产业和非公有制经济快速增长。</span><span class="english">Tertiary industry and private economies are growing rapidly.</span></p>
 
 <p><span class="chinese">第三产业是沙溪经济的重要组成部分。</span><span class="english">The tertiary industry is an important part of Shaxi Economy.</span></p>

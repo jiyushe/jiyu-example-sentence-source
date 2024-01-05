@@ -1,5 +1,7 @@
 # guadalcanal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guadalcanal.md)
+
 <p><span class="chinese">它是珊瑚海海战、中途岛海战、瓜岛海战这一系列历史性胜利中的关键武器。</span><span class="english">It was the crucial weapon in historic victories at the Coral Sea, Midway, and Guadalcanal.</span></p>
 
 <p><span class="chinese">所罗门群岛的首都，位于瓜达尔卡纳尔西北海岸。人口'，25。</span><span class="english">The capital of the Solomon Islands, on the northwest coast of Guadalcanal. Population, ', 25.</span></p>

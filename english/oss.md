@@ -1,5 +1,7 @@
 # oss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oss.md)
+
 <p><span class="chinese">哈罗德总是拍老闆的马屁。</span><span class="english">Harold is always brown-nosing the oss.</span></p>
 
 <p><span class="chinese">今天要求所有的二水刷船壳。</span><span class="english">All OSs are required to paint hull today.</span></p>

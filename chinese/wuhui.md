@@ -1,5 +1,7 @@
 # 误会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhui.md)
+
 <p><span class="chinese">不要误会我的意思！勿会错意！</span><span class="english">Don't get me wrong!</span></p>
 
 <p><span class="chinese">有一个误会。</span><span class="english">Now, here is the twist.</span></p>

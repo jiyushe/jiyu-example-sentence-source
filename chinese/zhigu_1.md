@@ -1,5 +1,7 @@
 # 桎梏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigu_1.md)
+
 <p><span class="chinese">似乎还是看不出，我已逃离过去的桎梏。</span><span class="english">Can't seem to loosen my grip On the past.</span></p>
 
 <p><span class="chinese">迷信是人们思想的一大桎梏。</span><span class="english">Superstition is a great shackle on men's minds.</span></p>

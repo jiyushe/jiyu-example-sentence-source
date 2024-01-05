@@ -1,5 +1,7 @@
 # 感恩戴德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganendaide.md)
+
 <p><span class="chinese">他走到哪里，却总有人感恩戴德。</span><span class="english">He go to where, but someone deceptive.</span></p>
 
 <p><span class="chinese">势力以为就义者的痛苦是感恩戴德。</span><span class="english">Power takes as inacknowledgment the askews of its victims.</span></p>

@@ -1,5 +1,7 @@
 # 宪制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhi_1.md)
+
 <p><span class="chinese">挪威是一个议会体系的政府立宪制国家。</span><span class="english">Norway is a constitutional monarchy with a parliamentary system of government.</span></p>
 
 <p><span class="chinese">几位部长发言谴责暂停宪制的决定。</span><span class="english">Ministers took the floor to denounce the decision to suspend constitutional rule.</span></p>

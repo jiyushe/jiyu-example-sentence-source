@@ -1,5 +1,7 @@
 # yike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yike.md)
+
 <p><span class="chinese">我认为曾轶可更红。</span><span class="english">Well, I think Zeng Yike is more poplular.</span></p>
 
 <p><span class="chinese">快女曾轶可真的该备受“争议”吗？</span><span class="english">Do you believe the Happy Girl "Zeng Yike" should be in dispute?</span></p>

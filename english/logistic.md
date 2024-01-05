@@ -1,5 +1,7 @@
 # logistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logistic.md)
+
 <p><span class="chinese">这家物流公司先前计划要削减489个工作岗位。</span><span class="english">FM Logistic is planning to cut 489 jobs.</span></p>
 
 <p><span class="chinese">世卫组织提供了技术和后勤支助。</span><span class="english">WHO provided technical and logistic support.</span></p>

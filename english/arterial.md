@@ -1,5 +1,7 @@
 # arterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arterial.md)
+
 <p><span class="chinese">对流向大脑的动脉血的测量。</span><span class="english">A measure of arterial blood flow to the head.</span></p>
 
 <p><span class="chinese">简述动脉血压的正常值。</span><span class="english">What are normal values of arterial pressions?</span></p>

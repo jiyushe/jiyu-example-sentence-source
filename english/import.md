@@ -1,5 +1,7 @@
 # import
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/import.md)
+
 <p><span class="chinese">这含有什么意思?</span><span class="english">What does this import?</span></p>
 
 <p><span class="chinese">他是一个进口保理商。</span><span class="english">He is an import factor.</span></p>

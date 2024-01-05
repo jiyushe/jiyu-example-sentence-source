@@ -1,5 +1,7 @@
 # befitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/befitting.md)
+
 <p><span class="chinese">她的邋遢正好适合当时的情景。</span><span class="english">She had the scruffiness befitting the circumstances.</span></p>
 
 <p><span class="chinese">属于大公，或与大公地位相适应。</span><span class="english">Belonging to or befitting an archduke or his archduchy.</span></p>

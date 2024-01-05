@@ -1,5 +1,7 @@
 # matinee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matinee.md)
+
 <p><span class="chinese">我们去看早场电影吧。</span><span class="english">Let's go to see matinee movies.</span></p>
 
 <p><span class="chinese">我要两张今天日场的票。</span><span class="english">Not unless you want the matinee.</span></p>

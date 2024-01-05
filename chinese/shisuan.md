@@ -1,5 +1,7 @@
 # 失算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisuan.md)
+
 <p><span class="chinese">可是，敌人大大的失算了。</span><span class="english">But the enemy wholly miscalculated.</span></p>
 
 <p><span class="chinese">藉全能的神帮助，我们不会失算的！</span><span class="english">With the help of almighty God, we will not be shortchanged.</span></p>

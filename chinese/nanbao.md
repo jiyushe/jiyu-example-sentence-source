@@ -1,5 +1,7 @@
 # 难保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanbao.md)
+
 <p><span class="chinese">这就是那座神龛的结局，他自身都难保，如何守护人？</span><span class="english">So that was the end of the shrine.</span></p>
 
 <p><span class="chinese">你赶快跑，不然的话你生命难保啊！</span><span class="english">Run along or your life will be in danger!</span></p>

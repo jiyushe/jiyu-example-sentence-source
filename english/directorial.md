@@ -1,5 +1,7 @@
 # directorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directorial.md)
+
 <p><span class="chinese">这将是周星驰在好莱坞执导并出演的处女作。</span><span class="english">The film will be Chow's directorial and acting debut in Hollywood.</span></p>
 
 <p><span class="chinese">它是绕汗的第一个大型合资导演，你可以看到他是成功的。</span><span class="english">It is Sajid Khan's first major directorial venture and you can see he is successful.</span></p>

@@ -1,5 +1,7 @@
 # fanciful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanciful.md)
+
 <p><span class="chinese">哪国国家是富于幻想的？</span><span class="english">What nation is a fanciful nation?</span></p>
 
 <p><span class="chinese">而且这个不完全是胡思乱想。</span><span class="english">And this is not altogether fanciful.</span></p>

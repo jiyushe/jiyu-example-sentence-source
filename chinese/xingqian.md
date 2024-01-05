@@ -1,5 +1,7 @@
 # 行前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqian.md)
+
 <p><span class="chinese">机组人员又复习了一遍飞行前的程序。</span><span class="english">The crew ran through the preflight procedures.</span></p>
 
 <p><span class="chinese">可以只进行恢复而不进行前滚。</span><span class="english">You could restore only without rolling forward.</span></p>

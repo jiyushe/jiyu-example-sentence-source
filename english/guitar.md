@@ -1,5 +1,7 @@
 # guitar 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guitar.md)
+
 <p><span class="chinese">他给吉他定弦。</span><span class="english">He tuned the guitar.</span></p>
 
 <p><span class="chinese">他随意弹弄着吉他。</span><span class="english">He thrummed a guitar.</span></p>

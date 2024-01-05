@@ -1,5 +1,7 @@
 # telencephalon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telencephalon.md)
+
 <p><span class="chinese">成年鸣禽前脑的某些区域具有神经元的再生现象。</span><span class="english">Neurogenesis occurs in some areas of the telencephalon of adult songbirds.</span></p>
 
 <p><span class="chinese">医学及解剖学上，多用大脑指代端脑。</span><span class="english">In medicine and anatomy, the use of the term to refer to the telencephalon.</span></p>

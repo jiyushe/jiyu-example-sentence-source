@@ -1,5 +1,7 @@
 # intimidate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intimidate.md)
+
 <p><span class="chinese">没有人能够胁迫我们。</span><span class="english">No one can intimidate us.</span></p>
 
 <p><span class="chinese">这吓不倒我们。</span><span class="english">This cannot intimidate us.</span></p>

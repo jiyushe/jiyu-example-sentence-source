@@ -1,5 +1,7 @@
 # 纠缠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuchan.md)
+
 <p><span class="chinese">纠缠这个问题。</span><span class="english">Entangle this issue.</span></p>
 
 <p><span class="chinese">他们总是纠缠不清。</span><span class="english">They always come around.</span></p>

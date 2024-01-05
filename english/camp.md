@@ -1,5 +1,7 @@
 # camp 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camp.md)
+
 <p><span class="chinese">太空营。</span><span class="english">Space camp.</span></p>
 
 <p><span class="chinese">夏令营？</span><span class="english">Summer camp?</span></p>

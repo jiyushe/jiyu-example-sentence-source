@@ -1,5 +1,7 @@
 # 下乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxiang.md)
+
 <p><span class="chinese">至今杭州、宁波、温州巡回医疗和送医下乡已有多次，需募捐50万元。</span><span class="english">There have been several medical circuits in Hangzhou, Ningbo, and Wenzhou.</span></p>
 
 <p><span class="chinese">他努力想象搬下乡去以后生活将是个什么样子。</span><span class="english">He was trying to picture what it would be like if they did move to the country.</span></p>

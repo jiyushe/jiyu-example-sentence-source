@@ -1,5 +1,7 @@
 # passionfruit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passionfruit.md)
+
 <p><span class="chinese">将百香果切开，将籽和果汁倒入平底锅。</span><span class="english">Halve the passionfruit and scoop the seeds and juice into the pan.</span></p>
 
 <p><span class="chinese">具有猕猴桃、新鲜酸橙皮和西番莲果的香气。</span><span class="english">With aromas and flavours of kiwifruit, fresh lime zest and passionfruit.</span></p>

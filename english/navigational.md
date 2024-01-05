@@ -1,5 +1,7 @@
 # navigational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navigational.md)
+
 <p><span class="chinese">的答复导航台是好的。</span><span class="english">The response of the navigational pads is good.</span></p>
 
 <p><span class="chinese">海图标绘仪能执行许多种导航任务。</span><span class="english">Chartplotters can perform many navigational tasks.</span></p>

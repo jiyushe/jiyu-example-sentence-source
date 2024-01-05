@@ -1,5 +1,7 @@
 # sidewalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidewalk.md)
+
 <p><span class="chinese">在家的时候，我走在人行道上。</span><span class="english">At home, I walk on the sidewalk.</span></p>
 
 <p><span class="chinese">跑到车道，上了人行道。</span><span class="english">Down the driveway, to the sidewalk.</span></p>

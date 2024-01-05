@@ -1,5 +1,7 @@
 # unerring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unerring.md)
+
 <p><span class="chinese">那古董商慧眼识珠，鉴别假货从不出错。</span><span class="english">The antique dealer has an unerring ability to spot a fake.</span></p>
 
 <p><span class="chinese">是的，她已经丧失了对邪恶气息的敏锐嗅觉。</span><span class="english">Yes, she had lost her unerring sense for the reek of evil.</span></p>

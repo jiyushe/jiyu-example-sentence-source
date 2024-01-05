@@ -1,5 +1,7 @@
 # 恩仇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enchou.md)
+
 <p><span class="chinese">两代恩仇如何了断？</span><span class="english">Two generations of EnQiu how to break?</span></p>
 
 <p><span class="chinese">不会以为可以相逢一笑泯恩仇了吧？</span><span class="english">Dont think you can meet a smile to life, isnt it?</span></p>

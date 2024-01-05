@@ -1,5 +1,7 @@
 # 幽门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmen.md)
+
 <p><span class="chinese">幽门螺杆菌是非常棘手的。</span><span class="english">H. pylori is a tricky bug.</span></p>
 
 <p><span class="chinese">幽门螺旋杆菌是耐胃酸的。</span><span class="english">H. pylori is resistant to gastric acid.</span></p>

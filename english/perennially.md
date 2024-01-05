@@ -1,5 +1,7 @@
 # perennially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perennially.md)
+
 <p><span class="chinese">它是一座常年披著面纱的山，山上的雪终年不化。</span><span class="english">It is a mountain filled with snow perennially.</span></p>
 
 <p><span class="chinese">设定目标看起来是一个持续的热议话题。</span><span class="english">Goal setting seems to be a perennially hot topic!</span></p>

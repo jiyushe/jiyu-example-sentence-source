@@ -1,5 +1,7 @@
 # 英杰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjie_1.md)
+
 <p><span class="chinese">凯飞车队的刘英杰因偷跑而被罚时30秒。</span><span class="english">David Lau was given 30 seconds penalty due to the jump start.</span></p>
 
 <p><span class="chinese">德英杰愿与您携手共同发展！</span><span class="english">Yingjie Germany is willing to work with you to develop together!</span></p>

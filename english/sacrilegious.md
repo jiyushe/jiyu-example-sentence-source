@@ -1,5 +1,7 @@
 # sacrilegious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrilegious.md)
+
 <p><span class="chinese">在回教教堂内穿鞋子是亵渎神圣的。</span><span class="english">It is sacrilegious to wear shoes inside a mosque.</span></p>
 
 <p><span class="chinese">人们认为在圣诞节举行佳卡努，无疑是亵渎神灵。</span><span class="english">They thought it was sacrilegious to hold it on Christmas Day.</span></p>

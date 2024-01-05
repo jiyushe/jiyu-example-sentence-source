@@ -1,5 +1,7 @@
 # 呋喃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/funan.md)
+
 <p><span class="chinese">采用呋喃树脂砂型铸造。</span><span class="english">The casting is cast in furan sand mould.</span></p>
 
 <p><span class="chinese">结论呋喃唑酮可促进精子细胞凋亡。</span><span class="english">Conclusion NFZ induced the apoptosis of testicular cells.</span></p>

@@ -1,5 +1,7 @@
 # understandably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/understandably.md)
+
 <p><span class="chinese">激怒了众多的粉丝那是可以理解的了。</span><span class="english">Understandably that's riling a lot of fans.</span></p>
 
 <p><span class="chinese">高层的凝重气氛是可以理解的。</span><span class="english">The mood at the top is understandably solemn.</span></p>

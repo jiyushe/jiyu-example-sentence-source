@@ -1,5 +1,7 @@
 # 麝香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shexiang.md)
+
 <p><span class="chinese">淡淡的麝香味的古龙水。</span><span class="english">Some light, musky cologne.</span></p>
 
 <p><span class="chinese">麝香猫扮演两个角色。</span><span class="english">The civets play two roles.</span></p>

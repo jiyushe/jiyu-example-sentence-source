@@ -1,5 +1,7 @@
 # 内参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neican.md)
+
 <p><span class="chinese">这里有一些内参来帮助促进你们未来的彼此关系。</span><span class="english">Here are some insider tips to help nurture future interactions.</span></p>
 
 <p><span class="chinese">叶绿素是植物叶绿体内参与光合作用的重要色素。</span><span class="english">Chlorophyll is the important pigment involved in photosynthesis in plant chloroplasts.</span></p>

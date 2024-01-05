@@ -1,5 +1,7 @@
 # flyby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flyby.md)
+
 <p><span class="chinese">信使完成了第三次飞越在2009年9月29日。</span><span class="english">MESSENGER completed its third flyby on Sept. 29, 2009.</span></p>
 
 <p><span class="chinese">事业蒸蒸，越飞越高像大鹏。</span><span class="english">Cause steams , flyby height resembles increasingly big rocs.</span></p>

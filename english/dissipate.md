@@ -1,5 +1,7 @@
 # dissipate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissipate.md)
+
 <p><span class="chinese">不要浪费你的精力。</span><span class="english">Don't dissipate your efforts.</span></p>
 
 <p><span class="chinese">气流有助于散热。</span><span class="english">Airflow helps to dissipate heat.</span></p>

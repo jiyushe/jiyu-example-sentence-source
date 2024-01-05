@@ -1,5 +1,7 @@
 # 烛照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhao.md)
+
 <p><span class="chinese">有时候就是这样，别人的智慧能烛照出自己的平庸。</span><span class="english">Sometimes, like this, other people's wisdom to candles out of their own mediocrity.</span></p>
 
 <p><span class="chinese">古典小说正是在史传文学精神的烛照下，对史传文学传统的继承与叛逆。</span><span class="english">It is in the light of this literature spirit that classic novels develop and deviate through history.</span></p>

@@ -1,5 +1,7 @@
 # 先发制人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianfazhiren.md)
+
 <p><span class="chinese">柏林选择先发制人，保护国家安全。</span><span class="english">Berlin opted to strike preemptively to preserve its security.</span></p>
 
 <p><span class="chinese">我曾经提议过发起先发制人的飞鱼飞弹攻击他的空军。</span><span class="english">I've recommended a preemptive Exocet Missile attack against his airforce.</span></p>

@@ -1,5 +1,7 @@
 # colonization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonization.md)
+
 <p><span class="chinese">殖民地化的过程又是怎样？</span><span class="english">What is the process of colonization?</span></p>
 
 <p><span class="chinese">也许欧洲殖民化就是错误的。</span><span class="english">Maybe the European colonization isn't right.</span></p>

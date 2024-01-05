@@ -1,5 +1,7 @@
 # dock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dock.md)
+
 <p><span class="chinese">船于17点停靠码头。</span><span class="english">The ship dock at 17.00.</span></p>
 
 <p><span class="chinese">与“方舟天使”号停靠在一起。</span><span class="english">Dock with the Ark Angel.</span></p>

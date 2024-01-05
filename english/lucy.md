@@ -1,5 +1,7 @@
 # lucy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucy.md)
+
 <p><span class="chinese">他向露西使个眼色。</span><span class="english">He winked at Lucy.</span></p>
 
 <p><span class="chinese">露西有一个苹果。</span><span class="english">Lucy has an apple.</span></p>

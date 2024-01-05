@@ -1,5 +1,7 @@
 # faucet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faucet.md)
+
 <p><span class="chinese">不要让水龙头的水一直流！</span><span class="english">NO13, Don't let the faucet run!</span></p>
 
 <p><span class="chinese">我需要一个新的浴室洗手台的水龙头。</span><span class="english">I need a new bathroom sink faucet.</span></p>

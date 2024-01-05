@@ -1,5 +1,7 @@
 # nutria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutria.md)
+
 <p><span class="chinese">新奥尔良名厨们已经提出烹制海狸鼠的食谱。</span><span class="english">Famous New Orleans chefs have come up with recipes for cooking nutria.</span></p>
 
 <p><span class="chinese">红狼通常以白尾鹿，浣熊，野兔，海狸鼠以及其它齧齿动物为食。</span><span class="english">Red wolves primarily prey on white-tailed deer, raccoons, rabbits, nutria and other rodents.</span></p>

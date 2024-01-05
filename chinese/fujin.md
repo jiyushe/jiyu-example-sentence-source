@@ -1,5 +1,7 @@
 # 附近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujin.md)
+
 <p><span class="chinese">他住在本家附近。</span><span class="english">He lives near Ben.</span></p>
 
 <p><span class="chinese">也没有蔷薇花蕾在附近。</span><span class="english">No rosebud is nigh.</span></p>

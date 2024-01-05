@@ -1,5 +1,7 @@
 # 别称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biecheng.md)
+
 <p><span class="chinese">但他的别称是百庆州。</span><span class="english">But its nickname is the Centennial State.</span></p>
 
 <p><span class="chinese">木兰，亦称辛夷，别称木力芽。</span><span class="english">Mulan, as well Xinyi, known as bud wood edge.</span></p>

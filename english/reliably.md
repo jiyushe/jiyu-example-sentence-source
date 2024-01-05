@@ -1,5 +1,7 @@
 # reliably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reliably.md)
+
 <p><span class="chinese">这些并非是蛊惑人心的材料。</span><span class="english">This is not reliably rabble-rousing stuff.</span></p>
 
 <p><span class="chinese">它们要有快速而可靠的实现。</span><span class="english">They must be implemented quickly and reliably.</span></p>

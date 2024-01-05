@@ -1,5 +1,7 @@
 # 锁钥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyue.md)
+
 <p><span class="chinese">有锁钥可以上锁吗？</span><span class="english">Does it have a lock?</span></p>
 
 <p><span class="chinese">他所掌有的成对锁钥,这里所讲的对弥尔顿而言非常重要。</span><span class="english">Two massy Keys he bore of metals twain Now this is important to Milton.</span></p>

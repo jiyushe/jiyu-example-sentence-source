@@ -1,5 +1,7 @@
 # 酒瓶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuping.md)
+
 <p><span class="chinese">请把酒瓶递给我。</span><span class="english">Pass me the bottle, please.</span></p>
 
 <p><span class="chinese">他拔去酒瓶的塞子。</span><span class="english">He uncorked the wine bottle.</span></p>

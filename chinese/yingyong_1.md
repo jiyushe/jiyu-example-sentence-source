@@ -1,5 +1,7 @@
 # 英勇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyong_1.md)
+
 <p><span class="chinese">又像英勇的火炬。</span><span class="english">And a valiant torch.</span></p>
 
 <p><span class="chinese">吉米，你是如此地英勇。</span><span class="english">You were so heroic, Jimmy.</span></p>

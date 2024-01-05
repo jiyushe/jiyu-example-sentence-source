@@ -1,5 +1,7 @@
 # 政党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdang.md)
+
 <p><span class="chinese">这个政党分裂成两派。</span><span class="english">The party was rent in two.</span></p>
 
 <p><span class="chinese">还有，没错，我说的是政党之一。</span><span class="english">And, yes, I mean one of our parties.</span></p>

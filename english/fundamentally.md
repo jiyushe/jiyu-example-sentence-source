@@ -1,5 +1,7 @@
 # fundamentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundamentally.md)
+
 <p><span class="chinese">概念根本地改变了。</span><span class="english">The concept changed fundamentally.</span></p>
 
 <p><span class="chinese">这是乐观主义的基本行为。</span><span class="english">It is fundamentally an act of optimism.</span></p>

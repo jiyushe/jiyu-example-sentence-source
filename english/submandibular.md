@@ -1,5 +1,7 @@
 # submandibular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submandibular.md)
+
 <p><span class="chinese">腮腺，下颌腺，舌下腺，结肠。</span><span class="english">Parotid, submandibular and sublingual gland, and colon.</span></p>
 
 <p><span class="chinese">最常见的体征和症状是声音嘶哑和可触及的下颌下肿块。</span><span class="english">The most common signs and symptoms are hoarseness and a palpable submandibular mass.</span></p>

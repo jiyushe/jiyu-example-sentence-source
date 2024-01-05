@@ -1,5 +1,7 @@
 # 水位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwei.md)
+
 <p><span class="chinese">水位高涨。</span><span class="english">The water level has risen.</span></p>
 
 <p><span class="chinese">水位正在不断地升高。</span><span class="english">The water level is heightening.</span></p>

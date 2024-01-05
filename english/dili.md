@@ -1,5 +1,7 @@
 # dili
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dili.md)
+
 <p><span class="chinese">袭帝文明，梁正左右。</span><span class="english">Hit Dili civilization, beams so.</span></p>
 
 <p><span class="chinese">反对澳大利亚的涂鸦在首都帝力各处喷涂。</span><span class="english">Anti-Australia graffiti is sprinkled around the capital, Dili.</span></p>

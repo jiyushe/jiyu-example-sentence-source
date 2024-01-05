@@ -1,5 +1,7 @@
 # 称霸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengba.md)
+
 <p><span class="chinese">我们永远不称霸。</span><span class="english">We will never seek hegemony.</span></p>
 
 <p><span class="chinese">剑齿虎什么时候曾称霸于陆地？</span><span class="english">When did saber-toothed tigers roam the land?</span></p>

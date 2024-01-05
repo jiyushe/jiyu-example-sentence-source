@@ -1,5 +1,7 @@
 # 朝令夕改
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaolingxigai.md)
+
 <p><span class="chinese">即使长期投资者也抱怨朝令夕改。</span><span class="english">Even longtime investors complain that the rules seem to keep shifting.</span></p>
 
 <p><span class="chinese">但是有时候你会朝令夕改而让人们很难适应你。</span><span class="english">Yet sometimes you are filled with cranky ideas which people find hard to follow.</span></p>

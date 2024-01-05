@@ -1,5 +1,7 @@
 # 莲蓬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpeng.md)
+
 <p><span class="chinese">还有莲须就是莲蓬里面的须啊。</span><span class="english">Lin is also required to be inside lotus ah.</span></p>
 
 <p><span class="chinese">我越吃越想吃，可惜，老师家里只有一只莲蓬。</span><span class="english">I want to eat Unfortunately, only one teacher lotus home.</span></p>

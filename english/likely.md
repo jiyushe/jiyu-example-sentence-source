@@ -1,5 +1,7 @@
 # likely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likely.md)
+
 <p><span class="chinese">不可能。</span><span class="english">Not likely.</span></p>
 
 <p><span class="chinese">这个不大可能。</span><span class="english">This is not likely.</span></p>

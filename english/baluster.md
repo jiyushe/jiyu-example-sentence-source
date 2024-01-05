@@ -1,5 +1,7 @@
 # baluster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baluster.md)
+
 <p><span class="chinese">尤莉轻轻地叫了一声，面孔红得象一朵玫瑰，伸手扶住了栏杆。</span><span class="english">Cry, blushed like a rose, and leaned against the baluster.</span></p>
 
 <p><span class="chinese">一条断了的石栏杆竖在平台的前端，如同一条断腿。</span><span class="english">One broken baluster is placed on the pediment like a fractured leg.</span></p>

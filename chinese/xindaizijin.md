@@ -1,5 +1,7 @@
 # 信贷资金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindaizijin.md)
+
 <p><span class="chinese">支农政策调整对农业信贷资金运行既是机遇也是挑战。</span><span class="english">The adjustment is a challenge as well as an opportunity.</span></p>
 
 <p><span class="chinese">利用虚假资料、虚构事实，诈骗和套取银行信贷资金的个人客户。</span><span class="english">Individual customers who illegally get bank loans by using false materials and making false statements.</span></p>

@@ -1,5 +1,7 @@
 # susie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/susie.md)
+
 <p><span class="chinese">苏希告诉我她们可以提供衣物。</span><span class="english">Susie told me they had loaners.</span></p>
 
 <p><span class="chinese">苏西遇见她的梦中之人。</span><span class="english">Susie meets the man of her dreams.</span></p>

@@ -1,5 +1,7 @@
 # 天际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianji_3.md)
+
 <p><span class="chinese">我飞向梦想的天际。</span><span class="english">I fly to heaven dreaming.</span></p>
 
 <p><span class="chinese">一个翱翔天际。</span><span class="english">One is flying in the sky.</span></p>

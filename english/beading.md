@@ -1,5 +1,7 @@
 # beading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beading.md)
+
 <p><span class="chinese">什么是土生华人珠绣？</span><span class="english">What is Peranakan beading?</span></p>
 
 <p><span class="chinese">她把珍珠串在一起做成项链。</span><span class="english">She was beading pearls for a necklace.</span></p>

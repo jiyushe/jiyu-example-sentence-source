@@ -1,5 +1,7 @@
 # unenlightened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unenlightened.md)
+
 <p><span class="chinese">我真同情他们，这些无知的可怜虫。</span><span class="english">I pity them, these poor unenlightened souls.</span></p>
 
 <p><span class="chinese">某些老人的思想仍然是老式的和落后的。</span><span class="english">The thought of some old men is still old-fashioned and unenlightened.</span></p>

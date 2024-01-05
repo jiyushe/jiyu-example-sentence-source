@@ -1,5 +1,7 @@
 # atonement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atonement.md)
+
 <p><span class="chinese">亚伦一年一次要在坛的角上行赎罪之礼。</span><span class="english">Once a year Aaron shall make atonement on its horns.</span></p>
 
 <p><span class="chinese">并献一只公山羊作赎罪祭，为你们赎罪。</span><span class="english">And one goat for a sin offering, to make an atonement for you.</span></p>

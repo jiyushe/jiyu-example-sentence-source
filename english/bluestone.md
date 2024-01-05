@@ -1,5 +1,7 @@
 # bluestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluestone.md)
+
 <p><span class="chinese">只见一条青石小径穿林而过。</span><span class="english">Cutting through the woods was a bluestone path.</span></p>
 
 <p><span class="chinese">研究中采用的流体为硫酸铜溶液。</span><span class="english">The fluid used in the study is bluestone solution.</span></p>

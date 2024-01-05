@@ -1,5 +1,7 @@
 # project 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/project.md)
+
 <p><span class="chinese">构思新项目。</span><span class="english">Conceive New Project.</span></p>
 
 <p><span class="chinese">创建一个新项目。</span><span class="english">Create a new project.</span></p>

@@ -1,5 +1,7 @@
 # emit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emit.md)
+
 <p><span class="chinese">发射的粒子数。</span><span class="english">Emit a number of particles.</span></p>
 
 <p><span class="chinese">你为什么发出那种尖叫声？</span><span class="english">Why did you emit that scream?</span></p>

@@ -1,5 +1,7 @@
 # chunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chunk.md)
+
 <p><span class="chinese">接着就是替换部分。</span><span class="english">Next is the replacement chunk.</span></p>
 
 <p><span class="chinese">你能把一个南瓜扔多远呢？</span><span class="english">How far can you chunk a pumpkin?</span></p>

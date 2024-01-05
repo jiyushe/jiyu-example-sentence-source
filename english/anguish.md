@@ -1,5 +1,7 @@
 # anguish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anguish.md)
+
 <p><span class="chinese">这减轻了我们的痛苦。</span><span class="english">This lessens our anguish.</span></p>
 
 <p><span class="chinese">垂挂著热病的露珠。</span><span class="english">With anguish moist and fever dew.</span></p>

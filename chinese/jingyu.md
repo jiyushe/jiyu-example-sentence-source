@@ -1,5 +1,7 @@
 # 境遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyu.md)
+
 <p><span class="chinese">莫非NBA老板真的境遇如此不堪？</span><span class="english">Do NBA owners really have it that bad?</span></p>
 
 <p><span class="chinese">但是人生境遇并非恒常如此。</span><span class="english">But circumstances are not always pleasant.</span></p>

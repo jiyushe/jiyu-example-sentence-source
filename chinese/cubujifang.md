@@ -1,5 +1,7 @@
 # 猝不及防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cubujifang.md)
+
 <p><span class="chinese">这番话让我有点猝不及防。</span><span class="english">This catches me a little off guard.</span></p>
 
 <p><span class="chinese">威尔伯猝不及防的一击，使他成为新拳击冠军。</span><span class="english">It was a quick kayo, and Wilbur was the new champ.</span></p>

@@ -1,5 +1,7 @@
 # pressor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressor.md)
+
 <p><span class="chinese">电刺激下丘脑“防御反应区”诱发升压反应。</span><span class="english">Pressor response was induced by electrical stimulation of the hypothalamic defence area.</span></p>
 
 <p><span class="chinese">结果表明，该树脂吸水性能好，并具有良好加压保水能力。</span><span class="english">The result indicates the hydroscopicity of this resin is good and has good pressor absorbent power.</span></p>

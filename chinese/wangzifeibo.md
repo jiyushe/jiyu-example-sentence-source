@@ -1,5 +1,7 @@
 # 妄自菲薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangzifeibo.md)
+
 <p><span class="chinese">最后的收益是不会妄自菲薄。</span><span class="english">The final benefit in my list is far from trivial.</span></p>
 
 <p><span class="chinese">英格兰在威灵顿眼前过于妄自菲薄了。</span><span class="english">England has been too modest in the matter of Wellington.</span></p>

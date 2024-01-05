@@ -1,5 +1,7 @@
 # analogic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogic.md)
+
 <p><span class="chinese">将分类后的平面图相加，得到统计类比图。</span><span class="english">Integrating the sorted map to make statistic analogic map.</span></p>
 
 <p><span class="chinese">同样构造的线性变迹的光子晶体和正弦变迹的光子晶体对于光子禁带的中心频率和宽度有类似的影响。</span><span class="english">The apodized function has analogic effect to the center frequency and the width of the bandgap.</span></p>

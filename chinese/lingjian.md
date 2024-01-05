@@ -1,5 +1,7 @@
 # 零件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjian.md)
+
 <p><span class="chinese">管理整个零件厂质量部。</span><span class="english">Manage the entire QA Dept.</span></p>
 
 <p><span class="chinese">读入一个VDA文件到零件。</span><span class="english">Read a VDA file into Part.</span></p>

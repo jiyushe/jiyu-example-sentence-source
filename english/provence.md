@@ -1,5 +1,7 @@
 # provence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provence.md)
+
 <p><span class="chinese">普罗旺斯是香水业的发源地。</span><span class="english">Provence is the home of perfumery.</span></p>
 
 <p><span class="chinese">普罗旺斯一棵成熟的桑树。</span><span class="english">A mature mulberry tree in Provence.</span></p>

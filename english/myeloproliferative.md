@@ -1,5 +1,7 @@
 # myeloproliferative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myeloproliferative.md)
+
 <p><span class="chinese">JAK2单倍体是发生骨髓增生性肿瘤的一个重要的危险因子。</span><span class="english">JAK2 haplotype is a major risk factor for the development of myeloproliferative neoplasms.</span></p>
 
 <p><span class="chinese">目的探讨骨髓增生性疾病致门静脉高压症的诊断及治疗。</span><span class="english">Objective To discuss the diagnosis and treatment of portal hypertension secondary to myeloproliferative diseases.</span></p>

@@ -1,5 +1,7 @@
 # 隐忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyou_2.md)
+
 <p><span class="chinese">当时你可能并不了解其中隐忧对吧</span><span class="english">You might not have caught it, right?</span></p>
 
 <p><span class="chinese">对所有关注的人来说，这一延迟都是一个隐忧。</span><span class="english">The delay will be a worry for all concerned.</span></p>

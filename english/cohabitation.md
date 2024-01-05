@@ -1,5 +1,7 @@
 # cohabitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohabitation.md)
+
 <p><span class="chinese">并且只有很少的公众反对同居。</span><span class="english">And there has been little public opposition to cohabitation.</span></p>
 
 <p><span class="chinese">选择同居或单身父母的人变得很少。</span><span class="english">Cohabitation and single parenthood by choice were very rare.</span></p>

@@ -1,5 +1,7 @@
 # ferrochromium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrochromium.md)
+
 <p><span class="chinese">铬铁矿是生产铬铁合金的重要原料。</span><span class="english">Chromite is main raw material for smelting ferrochromium.</span></p>
 
 <p><span class="chinese">用催化动力学示波极谱法测定铬铁中微量钒。</span><span class="english">A method for the determination of micro amounts of vanadium in ferrochromium was presented.</span></p>

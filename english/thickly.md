@@ -1,5 +1,7 @@
 # thickly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thickly.md)
+
 <p><span class="chinese">她浓浓地抹了一层脂粉。</span><span class="english">She laid the paint on thickly.</span></p>
 
 <p><span class="chinese">不要把油漆涂得太厚。</span><span class="english">Don't daub the paint on too thickly.</span></p>

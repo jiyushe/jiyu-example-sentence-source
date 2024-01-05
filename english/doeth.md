@@ -1,5 +1,7 @@
 # doeth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doeth.md)
+
 <p><span class="chinese">不先听本人的口供，不知道他所作的事，难道我们的律法还定他的罪吗。</span><span class="english">Doth our law judge any man, before it hear him, and know what he doeth?</span></p>
 
 <p><span class="chinese">时常行善而不犯罪的义人，世上实在没有。</span><span class="english">For there is not a just man upon earth, that doeth good, and sinneth not.</span></p>

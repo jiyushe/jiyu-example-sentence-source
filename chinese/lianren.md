@@ -1,5 +1,7 @@
 # 连任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianren.md)
+
 <p><span class="chinese">每一年换届时重选，可连选连任。</span><span class="english">Officers in the group may be re-elected.</span></p>
 
 <p><span class="chinese">重选黄伟明先生连任董事。</span><span class="english">To re-elect Mr Wong Wai Ming as director.</span></p>

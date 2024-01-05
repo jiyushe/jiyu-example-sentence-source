@@ -1,5 +1,7 @@
 # 厅房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingfang_1.md)
+
 <p><span class="chinese">对不起，现在已经没有厅房了。</span><span class="english">I'm sorry the restaurant is full now.</span></p>
 
 <p><span class="chinese">对不起，现在已经没有厅房了。</span><span class="english">I'm sorry the banqueting hall is full now.</span></p>

@@ -1,5 +1,7 @@
 # 工作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzuo.md)
+
 <p><span class="chinese">选哪份工作？</span><span class="english">Which job?</span></p>
 
 <p><span class="chinese">点解我哋要工作?。</span><span class="english">Why we work?</span></p>

@@ -1,5 +1,7 @@
 # furrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furrow.md)
+
 <p><span class="chinese">精确测绘犁沟距间。</span><span class="english">Mapping the furrow exactly.</span></p>
 
 <p><span class="chinese">老牛拉犁犁沟直。</span><span class="english">An old ox makes straight furrow.</span></p>

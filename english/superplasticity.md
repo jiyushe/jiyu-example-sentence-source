@@ -1,5 +1,7 @@
 # superplasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superplasticity.md)
+
 <p><span class="chinese">金属间化合物超塑性是近十几年开展的研究课题。</span><span class="english">Superplasticity in intermetallics has been researched in the past decade.</span></p>
 
 <p><span class="chinese">铝合金棒材经这一方法处理后，可呈现出良好的超塑性能。</span><span class="english">After treatment in this way, the aluminium alloy bars present a good superplasticity.</span></p>

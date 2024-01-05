@@ -1,5 +1,7 @@
 # incombustible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incombustible.md)
+
 <p><span class="chinese">第四，A1级不燃材料。</span><span class="english">Grade A1 incombustible materials.</span></p>
 
 <p><span class="chinese">通过中国不燃材料的A级认定。</span><span class="english">Approved by china incombustible material and got a grade rating.</span></p>

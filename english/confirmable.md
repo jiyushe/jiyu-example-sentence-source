@@ -1,5 +1,7 @@
 # confirmable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confirmable.md)
+
 <p><span class="chinese">唯有不确定性是可确定的因素。</span><span class="english">Only the indetermination is a confirmable factor.</span></p>
 
 <p><span class="chinese">下一刻我就和她一起躺在了旅馆舒适的床上。</span><span class="english">The next moment I was in the hotel confirmable bed with her.</span></p>

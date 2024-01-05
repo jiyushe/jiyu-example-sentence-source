@@ -1,5 +1,7 @@
 # 叶绿素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yelvsu.md)
+
 <p><span class="chinese">老叶还送回叶绿素。</span><span class="english">Aging leaves also send back chlorophyll.</span></p>
 
 <p><span class="chinese">旱地龙和三十烷醇可提高叶绿素含量。</span><span class="english">FA and TRIA could increase the content of chlorophyll.</span></p>

@@ -1,5 +1,7 @@
 # sulfuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfuration.md)
+
 <p><span class="chinese">炭黑中水分质量分数超出一定范围时，影响胶料的焦烧时间及硫化速度。</span><span class="english">In order to improve the sulfuration speed of EPDM sizing material, mass accelerants are required to add.</span></p>
 
 <p><span class="chinese">在不硫化的条件下，黄药能够浮选白铅矿，但浮选指标不高。</span><span class="english">The cerusite can be collected by xanthate without sulfuration , however the flotation indexes are not good.</span></p>

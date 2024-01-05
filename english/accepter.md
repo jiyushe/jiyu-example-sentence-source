@@ -1,5 +1,7 @@
 # accepter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accepter.md)
+
 <p><span class="chinese">财产转移法律关系的主体为委托人和财产接受人。</span><span class="english">The bodies of trust property transfer legal relation include settlor and accepter.</span></p>
 
 <p><span class="chinese">作为政治的受众，我们期望更加开放和民主的革新。</span><span class="english">As the accepter of politic, we hope the society more open and accelerate the democracy.</span></p>

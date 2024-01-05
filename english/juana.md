@@ -1,5 +1,7 @@
 # juana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juana.md)
+
 <p><span class="chinese">你好，胡安娜。生日快乐！</span><span class="english">Hello, Juana. Happy Birthday!</span></p>
 
 <p><span class="chinese">胡安娜急匆匆地在后面跟着。</span><span class="english">Juana followed, trotting after him.</span></p>

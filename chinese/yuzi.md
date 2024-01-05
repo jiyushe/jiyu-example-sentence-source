@@ -1,5 +1,7 @@
 # 鱼子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzi.md)
+
 <p><span class="chinese">有紫铁足，多断纹隐裂如鱼子。</span><span class="english">Purple iron foot, multi-cracked-off patterns, such as roe.</span></p>
 
 <p><span class="chinese">我期望有的海胆，中拖罗，三文鱼子或好一点的鲷鱼均欠奉。</span><span class="english">I was really expecting some Uni, chu-toro, ikura and some better snappers.</span></p>

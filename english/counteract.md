@@ -1,5 +1,7 @@
 # counteract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counteract.md)
+
 <p><span class="chinese">中和作用，抵消，中和反应。</span><span class="english">To counteract or neutralize.</span></p>
 
 <p><span class="chinese">我们需要抗毒素来解被狼蛛咬后产生的毒。</span><span class="english">We need an antitoxin to counteract the bite of the tarantula.</span></p>

@@ -1,5 +1,7 @@
 # 礼拜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/libai.md)
+
 <p><span class="chinese">“一个礼拜。”我说。</span><span class="english">"One week," I say.</span></p>
 
 <p><span class="chinese">我能够安排在下个礼拜参观。</span><span class="english">I can set up a twe near week.</span></p>

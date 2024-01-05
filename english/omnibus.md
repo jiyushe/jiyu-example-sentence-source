@@ -1,5 +1,7 @@
 # omnibus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnibus.md)
+
 <p><span class="chinese">两匹白马拖着一辆公共马车从那街口经过。</span><span class="english">An omnibus with two white horses passed the end of the street.</span></p>
 
 <p><span class="chinese">共有2584名英国成年人参与了该在线调查。</span><span class="english">Pollsters TNS Omnibus surveyed 2,584 adults in England online.</span></p>

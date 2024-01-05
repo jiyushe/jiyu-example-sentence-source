@@ -1,5 +1,7 @@
 # trace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trace.md)
+
 <p><span class="chinese">父辈消失地毫无影踪。</span><span class="english">Fathers lost without a trace.</span></p>
 
 <p><span class="chinese">我们找不到他的踪迹。</span><span class="english">We have lost all trace of him.</span></p>

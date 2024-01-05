@@ -1,5 +1,7 @@
 # tussah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tussah.md)
+
 <p><span class="chinese">以柞蚕蛹为原料进行柞蚕蛹油提取的研究。</span><span class="english">Tussah pupa oil was extracted from tussah pupa.</span></p>
 
 <p><span class="chinese">将柞蚕丝用不同方式进行鞣化处理，使柞蚕丝具有一定的抑菌性。</span><span class="english">After tanning the tussah silk, it becomes a certain against germs.</span></p>

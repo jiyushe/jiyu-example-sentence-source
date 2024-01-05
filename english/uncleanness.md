@@ -1,5 +1,7 @@
 # uncleanness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncleanness.md)
+
 <p><span class="chinese">有时教皇的罗马城是腐败肮脏的魔窟。</span><span class="english">Sometimes papal rome was a den of corruption and uncleanness.</span></p>
 
 <p><span class="chinese">我是照他们的污秽和罪过待他们，并且我掩面不顾他们。</span><span class="english">According to their uncleanness and according to their transgressions have I done unto them, and hid my face from them.</span></p>

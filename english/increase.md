@@ -1,5 +1,7 @@
 # increase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/increase.md)
+
 <p><span class="chinese">提高可见度。</span><span class="english">Increase your visibility.</span></p>
 
 <p><span class="chinese">那就是几何级数增长。</span><span class="english">That's geometric increase.</span></p>

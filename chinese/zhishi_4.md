@@ -1,5 +1,7 @@
 # 指示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishi_4.md)
+
 <p><span class="chinese">照我的指示去做。</span><span class="english">Do as I command.</span></p>
 
 <p><span class="chinese">低电量指示。</span><span class="english">Low battery indication.</span></p>

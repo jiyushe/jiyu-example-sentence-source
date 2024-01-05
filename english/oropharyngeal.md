@@ -1,5 +1,7 @@
 # oropharyngeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oropharyngeal.md)
+
 <p><span class="chinese">插入口咽导气管。</span><span class="english">B. Insert oropharyngeal airway.</span></p>
 
 <p><span class="chinese">口咽炎及牙部感染同样导致颈部腺病。</span><span class="english">Oropharyngeal and dental infections can also cause cervical adenopathy.</span></p>

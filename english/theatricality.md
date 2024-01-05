@@ -1,5 +1,7 @@
 # theatricality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theatricality.md)
+
 <p><span class="chinese">除非你是参加专业展览的名流，否则你就不要再想了。</span><span class="english">Unless you are a celebrity on professional display, forget this consumer theatricality.</span></p>
 
 <p><span class="chinese">近年来，标榜戏剧性的舞台剧演出在法国逐渐蔚为风潮。</span><span class="english">To display the theatricality of performance has become more and more frequent in recent France.</span></p>

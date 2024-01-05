@@ -1,5 +1,7 @@
 # disrepair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disrepair.md)
+
 <p><span class="chinese">后两庙皆失修倾塌，1981年重新修建。</span><span class="english">After the two temples are in disrepair Qingta, re-built in 1981.</span></p>
 
 <p><span class="chinese">该协会称，水坝基本处于严重失修状态。</span><span class="english">The group found that dams are, on average, in terrible disrepair.</span></p>

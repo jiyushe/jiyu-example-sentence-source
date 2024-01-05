@@ -1,5 +1,7 @@
 # freeform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeform.md)
+
 <p><span class="chinese">这个设计提供了一个自由的文本框。</span><span class="english">This design provides a freeform text box.</span></p>
 
 <p><span class="chinese">结果得到的自由图如下所示。</span><span class="english">The resulting freeform diagram is shown below.</span></p>

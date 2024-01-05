@@ -1,5 +1,7 @@
 # pythagorean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pythagorean.md)
+
 <p><span class="chinese">这就证明了勾股定理</span><span class="english">This proves Pythagorean Theorem.</span></p>
 
 <p><span class="chinese">勾股定理和四边形。</span><span class="english">Pythagorean theorem and quadrangle.</span></p>

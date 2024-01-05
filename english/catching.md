@@ -1,5 +1,7 @@
 # catching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catching.md)
+
 <p><span class="chinese">想捕获一头骆马并不容易。</span><span class="english">Catching one is not easy.</span></p>
 
 <p><span class="chinese">可能我感冒了。</span><span class="english">I think I'm catching the flu.</span></p>

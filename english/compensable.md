@@ -1,5 +1,7 @@
 # compensable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compensable.md)
+
 <p><span class="chinese">在该领域仍然存在许多需要解决的问题，如近亲属可得赔偿的精神损害的范围有多大?。</span><span class="english">Many problems need to be solved in this field, for example, how large is the scope of compensable moral damage?</span></p>
 
 <p><span class="chinese">在可赔偿资本风险比率管理中，重点研究事务所如何有效地调节可赔偿资本及最优赔偿资本。</span><span class="english">In the compensable capital ratio management, this paper researches how to adjust efficiently the compensable capital.</span></p>

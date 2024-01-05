@@ -1,5 +1,7 @@
 # unquestioning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unquestioning.md)
+
 <p><span class="chinese">指挥官要下属绝对服从。</span><span class="english">The commanding officer expected unquestioning obedience from his men.</span></p>
 
 <p><span class="chinese">我们必须无条件服从上级的命令，无论是什么命令我们都要表示服从。</span><span class="english">We have to act in unquestioning obedience to the orders of our superior.</span></p>

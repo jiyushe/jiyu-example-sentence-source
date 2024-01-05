@@ -1,5 +1,7 @@
 # crack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crack.md)
+
 <p><span class="chinese">杯子上有一道璺。</span><span class="english">The cup has a crack.</span></p>
 
 <p><span class="chinese">那么，这个裂缝是什么呢？</span><span class="english">So what is this crack?</span></p>

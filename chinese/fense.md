@@ -1,5 +1,7 @@
 # 粉色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fense.md)
+
 <p><span class="chinese">把沿帽涂成粉色。</span><span class="english">Colour the cap pink.</span></p>
 
 <p><span class="chinese">我喜欢粉色的玫瑰。</span><span class="english">I like roseate roses.</span></p>

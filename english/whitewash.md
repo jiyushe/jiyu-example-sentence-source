@@ -1,5 +1,7 @@
 # whitewash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitewash.md)
+
 <p><span class="chinese">你不应该粉饰。</span><span class="english">You shouldn’t whitewash it.</span></p>
 
 <p><span class="chinese">喂，汤姆，让我来刷点儿看看。</span><span class="english">Say, Tom, let me whitewash a little.</span></p>

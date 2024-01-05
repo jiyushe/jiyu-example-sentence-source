@@ -1,5 +1,7 @@
 # 内耗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihao.md)
+
 <p><span class="chinese">这种内耗对SOA非常有害。</span><span class="english">This in-fighting can be very detrimental to SOA.</span></p>
 
 <p><span class="chinese">如果民族党持续内耗的话，他们将会输掉这次总统竞选。</span><span class="english">If the Democrats remain divided they will lose the presidency.</span></p>

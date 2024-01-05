@@ -1,5 +1,7 @@
 # clip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clip.md)
+
 <p><span class="chinese">还是夹起几页？</span><span class="english">Clip pages?</span></p>
 
 <p><span class="chinese">我们试图获得票息。</span><span class="english">We try to clip coupons.</span></p>

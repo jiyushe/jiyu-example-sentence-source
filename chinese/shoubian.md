@@ -1,5 +1,7 @@
 # 手边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoubian.md)
+
 <p><span class="chinese">手边有笔吗？</span><span class="english">Got a pen handy?</span></p>
 
 <p><span class="chinese">胜利就在手边！</span><span class="english">Victory is at hand!</span></p>

@@ -1,5 +1,7 @@
 # 声讨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengtao.md)
+
 <p><span class="chinese">但另一个声讨将会安静下来。</span><span class="english">But another vocal critic will be silent.</span></p>
 
 <p><span class="chinese">任何把他们推向正义审判的尝试都将激起俄罗斯的愤怒声讨。</span><span class="english">Any attempt to bring them to justice prompts angry protests from Russia.</span></p>

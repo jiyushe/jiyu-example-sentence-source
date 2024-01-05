@@ -1,5 +1,7 @@
 # 插科打诨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chakedahun.md)
+
 <p><span class="chinese">杰克喜欢在上课的时候插科打诨。</span><span class="english">Jack likes to cut up in class.</span></p>
 
 <p><span class="chinese">这个演员在所“扮演”的喜剧角色中插科打诨。</span><span class="english">The actor gagged up his part in the comedy.</span></p>

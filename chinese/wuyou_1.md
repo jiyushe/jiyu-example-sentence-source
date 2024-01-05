@@ -1,5 +1,7 @@
 # 无由
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyou_1.md)
+
 <p><span class="chinese">法律是无由的理念。</span><span class="english">Law is law, just or not.</span></p>
 
 <p><span class="chinese">法律是无由的理念。</span><span class="english">Law is mind without reason.</span></p>

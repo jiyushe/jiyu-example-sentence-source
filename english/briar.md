@@ -1,5 +1,7 @@
 # briar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briar.md)
+
 <p><span class="chinese">玫瑰是多刺的植物。</span><span class="english">Rose is a briar.</span></p>
 
 <p><span class="chinese">布瑞尔·罗丝问道，“我可以吗？”</span><span class="english">"Oh. may I?" asked Briar Rose.</span></p>

@@ -1,5 +1,7 @@
 # 胡作非为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huzuofeiwei.md)
+
 <p><span class="chinese">而我们仍然被源源不断的CEO们胡作非为的故事吓得胆战心惊。</span><span class="english">And we're treated to a constant stream of stories about CEOs run amok.</span></p>
 
 <p><span class="chinese">议员猛烈抨击了总统的胡作非为。</span><span class="english">The congressman launched a strong attack on the president's misconduct.</span></p>

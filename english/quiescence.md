@@ -1,5 +1,7 @@
 # quiescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quiescence.md)
+
 <p><span class="chinese">PEA并不意味著机械静止。</span><span class="english">PEA does not mean mechanical quiescence.</span></p>
 
 <p><span class="chinese">亚欧带仍保持平静。</span><span class="english">The Eurasian seismic belt still remained in quiescence.</span></p>

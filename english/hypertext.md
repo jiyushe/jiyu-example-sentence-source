@@ -1,5 +1,7 @@
 # hypertext
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypertext.md)
+
 <p><span class="chinese">Wiki是一个简单的但功能强大的超文本系统。</span><span class="english">Wiki is a simple, yet powerful hypertext system.</span></p>
 
 <p><span class="chinese">表示超链接的起始或目的位置。</span><span class="english">Designates the start or destination of a hypertext link.</span></p>

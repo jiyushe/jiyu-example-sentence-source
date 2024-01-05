@@ -1,5 +1,7 @@
 # silently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silently.md)
+
 <p><span class="chinese">我默默的向上帝请求着。</span><span class="english">I pleaded silently to God.</span></p>
 
 <p><span class="chinese">这些人排成一列排队一声不吭地出发了。</span><span class="english">The men filed away silently.</span></p>

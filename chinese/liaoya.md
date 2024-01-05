@@ -1,5 +1,7 @@
 # 獠牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoya.md)
+
 <p><span class="chinese">还有，这是獠牙怪。</span><span class="english">And then this is snaggletooth.</span></p>
 
 <p><span class="chinese">同时它们还拥有长达16英尺的獠牙。</span><span class="english">They had tusks up to 16ft long.</span></p>

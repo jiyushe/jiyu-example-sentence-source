@@ -1,5 +1,7 @@
 # 奇货可居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihuokeju.md)
+
 <p><span class="chinese">市场的法则是奇货可居！</span><span class="english">Market rules is to enjoy high!</span></p>
 
 <p><span class="chinese">她因其技术奇货可居，故可以主宰自己的薪金待遇。</span><span class="english">Her skills were in such demand that she could dictate her own salary.</span></p>

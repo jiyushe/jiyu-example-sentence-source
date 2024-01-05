@@ -1,5 +1,7 @@
 # simpleton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simpleton.md)
+
 <p><span class="chinese">你有落后了，傻逼。</span><span class="english">You have it backwards, simpleton.</span></p>
 
 <p><span class="chinese">难道我是一个愚蠢的人吗？</span><span class="english">Is it possible that I am a simpleton?</span></p>

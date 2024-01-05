@@ -1,5 +1,7 @@
 # carry 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carry.md)
+
 <p><span class="chinese">带好安全设备。</span><span class="english">Carry safety gear.</span></p>
 
 <p><span class="chinese">我带着满身的伤痕。</span><span class="english">I carry a lot of scars.</span></p>

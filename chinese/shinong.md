@@ -1,5 +1,7 @@
 # 侍弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinong.md)
+
 <p><span class="chinese">对不起，“他说，”我不能和你一起侍弄这些花草了。</span><span class="english">Sorry, " he said, "I can't garden with you.</span></p>
 
 <p><span class="chinese">我也花了很多时间来侍弄我的头发。</span><span class="english">I spent a lot of time thinking about my hair.</span></p>

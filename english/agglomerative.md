@@ -1,5 +1,7 @@
 # agglomerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglomerative.md)
+
 <p><span class="chinese">发展集聚型旅游业态是加快旅游业发展的途径之一。</span><span class="english">Speeding up the development of agglomerative tourism operational types is one of the measures.</span></p>
 
 <p><span class="chinese">文中介绍了聚类分析中的聚合法及其在动物分类中的应用。</span><span class="english">The agglomerative methods of Cluster Analysis and their application in classifying animals are described.</span></p>

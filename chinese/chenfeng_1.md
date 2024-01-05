@@ -1,5 +1,7 @@
 # 晨风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenfeng_1.md)
+
 <p><span class="chinese">香气四溢的晨风轻松的呼召。</span><span class="english">The breezy call of incense-breathing Morn.</span></p>
 
 <p><span class="chinese">晨风吹拂着垂柳。</span><span class="english">The morning breeze is swaying the weeping willows.</span></p>

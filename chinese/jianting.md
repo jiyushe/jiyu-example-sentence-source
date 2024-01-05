@@ -1,5 +1,7 @@
 # 坚挺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianting.md)
+
 <p><span class="chinese">我们的股票一直十分坚挺。</span><span class="english">Our stocks still strengthen.</span></p>
 
 <p><span class="chinese">迄今为止，收藏品的价格一直坚挺。</span><span class="english">And so far, prices of collectibles have held firm.</span></p>

@@ -1,5 +1,7 @@
 # operand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operand.md)
+
 <p><span class="chinese">内存操作数约束的使用</span><span class="english">Use of memory operand constraint</span></p>
 
 <p><span class="chinese">从操作数堆栈获取所需的操作数。</span><span class="english">Fetches the required operands from the operand stack.</span></p>

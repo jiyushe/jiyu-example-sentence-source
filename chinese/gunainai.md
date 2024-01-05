@@ -1,5 +1,7 @@
 # 姑奶奶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gunainai.md)
+
 <p><span class="chinese">这事为吉诺曼姑奶奶提供了进行第二个计谋的机会。</span><span class="english">This inspired Aunt Gillenormand with a second idea.</span></p>
 
 <p><span class="chinese">吉诺曼姑奶奶走到她的书桌边，开了抽屉。</span><span class="english">Aunt Gillenormand went to her writing-desk and opened it.</span></p>

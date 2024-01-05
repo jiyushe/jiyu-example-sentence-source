@@ -1,5 +1,7 @@
 # 信封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfeng_1.md)
+
 <p><span class="chinese">它们在信封里。</span><span class="english">They're in the envelope.</span></p>
 
 <p><span class="chinese">我用了一个邮资已付的信封。</span><span class="english">I use a prepaid envelope.</span></p>

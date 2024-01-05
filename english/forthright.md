@@ -1,5 +1,7 @@
 # forthright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forthright.md)
+
 <p><span class="chinese">这样就会更直截了当和敏锐。</span><span class="english">It's to be more forthright and incisive.</span></p>
 
 <p><span class="chinese">中国在人民币汇率方面应更加坦诚布公。</span><span class="english">China should be more forthright on the yuan.</span></p>

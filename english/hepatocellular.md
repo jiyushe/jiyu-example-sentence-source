@@ -1,5 +1,7 @@
 # hepatocellular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatocellular.md)
+
 <p><span class="chinese">TIL具有很强的特异性抗小鼠肝癌作用。</span><span class="english">H22-DC-TIL has very strong specific anti-mouse hepatocellular carcinoma effect.</span></p>
 
 <p><span class="chinese">目的探讨庚型肝炎病毒在肝细胞癌组织中存在状态。</span><span class="english">Objective To investigate the prevalence of hepatitis G virus in hepatocellular carcinoma.</span></p>

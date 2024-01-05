@@ -1,5 +1,7 @@
 # 产褥期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanruqi.md)
+
 <p><span class="chinese">经过产褥期的休息和调养，产妇一般都能自我感觉良好。</span><span class="english">After puerperium rest and nursed back to health, maternal generally feel good.</span></p>
 
 <p><span class="chinese">目的探讨产褥期首发精神障碍临床特点。</span><span class="english">Objective To investigate the clinical characteristic of puerperal mental disorder.</span></p>

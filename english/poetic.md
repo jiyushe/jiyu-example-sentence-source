@@ -1,5 +1,7 @@
 # poetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poetic.md)
+
 <p><span class="chinese">她的舞姿袅娜，富有诗情画意。</span><span class="english">She danced with poetic grace.</span></p>
 
 <p><span class="chinese">还是说，这只是一句听上去像诗的屁话？</span><span class="english">Or it was just poetic bullshit?</span></p>

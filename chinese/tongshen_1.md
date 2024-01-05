@@ -1,5 +1,7 @@
 # 通身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshen_1.md)
+
 <p><span class="chinese">她通身擦满肥皂后用水冲洗。</span><span class="english">She soaped herself down and then showered.</span></p>
 
 <p><span class="chinese">我们可以卖牦牛的皮、肉和毛，通身都能卖钱，然后买粮食等等。</span><span class="english">We can sell the yak skins, meat and hair. All the parts can be sold, then we buy things like grain.</span></p>

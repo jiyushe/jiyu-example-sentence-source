@@ -1,5 +1,7 @@
 # 议席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixi_1.md)
+
 <p><span class="chinese">穆沙拉夫的党派名列第三，获得38个议席。</span><span class="english">Mr. Musharraf's party is in third with 38 seats.</span></p>
 
 <p><span class="chinese">他们决心从工党手里重新夺得这个议席。</span><span class="english">They were determined to win the seat back from Labor.</span></p>

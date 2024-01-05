@@ -1,5 +1,7 @@
 # courteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courteous.md)
+
 <p><span class="chinese">女童军是谦恭的。</span><span class="english">Girl Scout is courteous.</span></p>
 
 <p><span class="chinese">她总是很谦恭有礼。</span><span class="english">She was always courteous.</span></p>

@@ -1,5 +1,7 @@
 # 音色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinse_1.md)
+
 <p><span class="chinese">这个钟有优美的音色。</span><span class="english">The bell has a beautiful tone.</span></p>
 
 <p><span class="chinese">当旋律没有音色还会因何存系？</span><span class="english">What use is the rhyme with no tone?</span></p>

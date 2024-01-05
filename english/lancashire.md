@@ -1,5 +1,7 @@
 # lancashire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lancashire.md)
+
 <p><span class="chinese">他们夫妇俩被赶出了兰开郡的小镇。</span><span class="english">The couple were driven out of the Lancashire town.</span></p>
 
 <p><span class="chinese">安妮是兰开夏郡姑娘，老家在普雷斯顿附近的朗顿。</span><span class="english">Anne is a Lancashire lass from Longton, near Preston.</span></p>

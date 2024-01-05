@@ -1,5 +1,7 @@
 # absorptivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorptivity.md)
+
 <p><span class="chinese">实际上，测得的摩尔消光系数也和使用的仪器有关。</span><span class="english">In fact, measured molar absorptivity is also related to apparatus used.</span></p>
 
 <p><span class="chinese">分子筛吸附性能及其测定方法的比较。</span><span class="english">Absorptivity of A molecular sieve and comparision of their measurement methods.</span></p>

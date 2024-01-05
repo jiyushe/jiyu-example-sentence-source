@@ -1,5 +1,7 @@
 # 偏向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianxiang.md)
+
 <p><span class="chinese">话又说回来，我还是偏向我自身。</span><span class="english">But then again, I am biased.</span></p>
 
 <p><span class="chinese">我觉得他偏向主队。</span><span class="english">I think he favors the host team.</span></p>

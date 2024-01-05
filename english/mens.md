@@ -1,5 +1,7 @@
 # mens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mens.md)
+
 <p><span class="chinese">乂，就丆必说抱歉。</span><span class="english">Love mens never say sorry.</span></p>
 
 <p><span class="chinese">无论思想或谈话，全像个疯子。</span><span class="english">My thoughts and my discourse as mad mens are.</span></p>

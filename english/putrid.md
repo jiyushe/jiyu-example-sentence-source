@@ -1,5 +1,7 @@
 # putrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putrid.md)
+
 <p><span class="chinese">为什么我最进老失眠馁？</span><span class="english">Why I most putrid into old insomnia?</span></p>
 
 <p><span class="chinese">吃了腐败的食物容易生病。</span><span class="english">To eat putrid food is liable to get sick.</span></p>

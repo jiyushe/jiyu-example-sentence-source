@@ -1,5 +1,7 @@
 # stamp 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stamp.md)
+
 <p><span class="chinese">那是一枚用过的邮票。</span><span class="english">That is a used stamp.</span></p>
 
 <p><span class="chinese">这是一个橡皮图章。</span><span class="english">This is. rubber stamp.</span></p>

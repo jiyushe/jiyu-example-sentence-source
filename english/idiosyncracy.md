@@ -1,5 +1,7 @@
 # idiosyncracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiosyncracy.md)
+
 <p><span class="chinese">台语的特质是什麽呢？</span><span class="english">What is the idiosyncracy of Taigi?</span></p>
 
 <p><span class="chinese">讨论研究的必要性、研究现状及企业集团内在特质。</span><span class="english">On the necessity of the research, it's progress and the inherent idiosyncracy.</span></p>

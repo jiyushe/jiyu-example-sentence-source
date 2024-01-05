@@ -1,5 +1,7 @@
 # 万事大吉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshidaji.md)
+
 <p><span class="chinese">认为签订了合同就万事大吉</span><span class="english">Thinking a contract is binding</span></p>
 
 <p><span class="chinese">如果看到时钟，则万事大吉了。</span><span class="english">If you see the clock, all is well.</span></p>

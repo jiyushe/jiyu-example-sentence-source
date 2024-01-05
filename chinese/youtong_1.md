@@ -1,5 +1,7 @@
 # 油桐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtong_1.md)
+
 <p><span class="chinese">每朵油桐花都只有一天的寿命。</span><span class="english">Each oil tung flower has one day-long of life.</span></p>
 
 <p><span class="chinese">油桐也正开花呢，这一丛，那儿一簇，很不少。</span><span class="english">Tung is flowering, this cluster, a cluster, there is very little.</span></p>

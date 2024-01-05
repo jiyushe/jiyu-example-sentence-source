@@ -1,5 +1,7 @@
 # triune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triune.md)
+
 <p><span class="chinese">因为我们的三位一体神是充满恩典的神。</span><span class="english">Because our triune God is the God of all grace.</span></p>
 
 <p><span class="chinese">所有的殖民地都要求唯有相信三位一体之神的人方可任公职。</span><span class="english">All colonies required belief in the Triune God for office-holding.</span></p>

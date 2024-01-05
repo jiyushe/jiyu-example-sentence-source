@@ -1,5 +1,7 @@
 # fleck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleck.md)
+
 <p><span class="chinese">每个红褐色的斑点都很清楚。</span><span class="english">And every fleck of russet showing clear.</span></p>
 
 <p><span class="chinese">我假装拭去一只眼睛里的沙粒。</span><span class="english">I pretended to rub a fleck of grit from one eye.</span></p>

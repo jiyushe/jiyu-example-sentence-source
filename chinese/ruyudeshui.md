@@ -1,5 +1,7 @@
 # 如鱼得水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyudeshui.md)
+
 <p><span class="chinese">我在北京简直就是如鱼得水。</span><span class="english">I feel just like a fish in water.</span></p>
 
 <p><span class="chinese">在格雷厄姆门下,巴菲特如鱼得水。</span><span class="english">In Graham sects Buffett duck to water.</span></p>

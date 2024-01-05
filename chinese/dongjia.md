@@ -1,5 +1,7 @@
 # 东家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongjia.md)
+
 <p><span class="chinese">她东家行礼、西家打躬。</span><span class="english">She bowed his bow, hezekiah play.</span></p>
 
 <p><span class="chinese">第18副，东家发排，南北有局。</span><span class="english">Board 18. Dealer East. North-South vul.</span></p>

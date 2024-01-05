@@ -1,5 +1,7 @@
 # whipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whipping.md)
+
 <p><span class="chinese">这些男孩子正在抽陀螺。</span><span class="english">These boys are whipping tops.</span></p>
 
 <p><span class="chinese">旗帜在劲风中飘扬。</span><span class="english">Flags are whipping in high wind.</span></p>

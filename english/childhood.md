@@ -1,5 +1,7 @@
 # childhood 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childhood.md)
+
 <p><span class="chinese">小时候，妈妈对我讲。</span><span class="english">Mom told me in my childhood.</span></p>
 
 <p><span class="chinese">要追溯到你的童年？</span><span class="english">Going back to your childhood?</span></p>

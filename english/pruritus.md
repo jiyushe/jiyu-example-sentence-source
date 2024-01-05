@@ -1,5 +1,7 @@
 # pruritus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pruritus.md)
+
 <p><span class="chinese">瘙痒是最常见的症状之一。</span><span class="english">Pruritus is one of the commonest symptoms.</span></p>
 
 <p><span class="chinese">瘙痒症是最常见的不良体验。</span><span class="english">Pruritus was the most common adverse experience.</span></p>

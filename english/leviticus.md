@@ -1,5 +1,7 @@
 # leviticus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leviticus.md)
+
 <p><span class="chinese">你是如何读利未记的？</span><span class="english">So how do you read Leviticus ?</span></p>
 
 <p><span class="chinese">在利未记里这些话反复述说了有九次之多。</span><span class="english">Nine times these words are repeated in Leviticus.</span></p>

@@ -1,5 +1,7 @@
 # 佩戴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peidai.md)
+
 <p><span class="chinese">佩戴花环的阿波罗神。</span><span class="english">And garlanded Apollo goes.</span></p>
 
 <p><span class="chinese">母亲节那天，在胸前佩戴石竹花。</span><span class="english">In the chest wearing pink.</span></p>

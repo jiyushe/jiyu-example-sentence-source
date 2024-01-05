@@ -1,5 +1,7 @@
 # 文章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhang.md)
+
 <p><span class="chinese">又一篇入门文章？</span><span class="english">Another primer?</span></p>
 
 <p><span class="chinese">我喜欢读你的文章。</span><span class="english">I liked your article.</span></p>

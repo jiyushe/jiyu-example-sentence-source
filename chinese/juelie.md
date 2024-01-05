@@ -1,5 +1,7 @@
 # 决裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juelie.md)
+
 <p><span class="chinese">那一日。他和他决裂。</span><span class="english">They split up on that day.</span></p>
 
 <p><span class="chinese">是同自负决裂。</span><span class="english">To part with self-conceit.</span></p>

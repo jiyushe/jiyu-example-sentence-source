@@ -1,5 +1,7 @@
 # stigma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stigma.md)
+
 <p><span class="chinese">花柱及柱头已经干掉。</span><span class="english">The style and stigma have dried out.</span></p>
 
 <p><span class="chinese">这些人生活在污名的阴影中。</span><span class="english">Those living in the shadow of stigma.</span></p>

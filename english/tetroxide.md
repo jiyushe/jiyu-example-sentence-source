@@ -1,5 +1,7 @@
 # tetroxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetroxide.md)
+
 <p><span class="chinese">四氧化锇是一种贵而毒性大的试剂。</span><span class="english">Osmium tetroxide is an expensive reagent with great toxicity.</span></p>
 
 <p><span class="chinese">介绍了四氧化二氮毒气浓度监测仪的设计思路和组成结构。</span><span class="english">The design and Structure of nitrogen tetroxide concentration monitor are introduced.</span></p>

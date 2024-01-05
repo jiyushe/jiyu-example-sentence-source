@@ -1,5 +1,7 @@
 # 动物纤维
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongwuxianwei.md)
+
 <p><span class="chinese">动物纤维制成的纤维。</span><span class="english">A fabric made of compressed matted animal fibers.</span></p>
 
 <p><span class="chinese">特种动物纤维是指除绵羊毛以外的其他动物纤维。</span><span class="english">Special animal fiber is animal fiber other than wool.</span></p>

@@ -1,5 +1,7 @@
 # precess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precess.md)
+
 <p><span class="chinese">信息“横断”于管理全过程。</span><span class="english">Information runs through the whole management precess.</span></p>
 
 <p><span class="chinese">在论文中详细介绍了该系统的理论基础以及设计与实现。</span><span class="english">And in the thesis, the basic theory and precess of this design will be introduced.</span></p>

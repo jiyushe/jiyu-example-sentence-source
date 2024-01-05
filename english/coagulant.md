@@ -1,5 +1,7 @@
 # coagulant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coagulant.md)
+
 <p><span class="chinese">存在最佳混凝剂投加量，它可使膜过滤通量最大。</span><span class="english">The optimal coagulant dosage exists, and makes flux maximun.</span></p>
 
 <p><span class="chinese">在本文中粉煤灰经酸处理后，制得混凝剂。</span><span class="english">In this paper, fly ash treated by acids is changed into coagulant.</span></p>

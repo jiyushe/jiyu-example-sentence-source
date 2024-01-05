@@ -1,5 +1,7 @@
 # vasa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasa.md)
+
 <p><span class="chinese">瓦撒上的枪炮提供了铁。</span><span class="english">Vasa 's guns supplied the iron.</span></p>
 
 <p><span class="chinese">直血管降支呈束状进入髓质。</span><span class="english">The descending vasa recta run in bundles into the medulla.</span></p>

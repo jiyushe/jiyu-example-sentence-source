@@ -1,5 +1,7 @@
 # 情夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingfu_2.md)
+
 <p><span class="chinese">他是她的情夫。</span><span class="english">He’s her lover.</span></p>
 
 <p><span class="chinese">弗莱德，我的情夫，就是的。</span><span class="english">Fred, my leman, is locally.</span></p>

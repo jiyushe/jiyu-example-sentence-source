@@ -1,5 +1,7 @@
 # morgue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morgue.md)
+
 <p><span class="chinese">我在停尸间找到了他。</span><span class="english">I found him in the morgue.</span></p>
 
 <p><span class="chinese">停尸房后来又重新开门了。</span><span class="english">The morgue has since reopened.</span></p>

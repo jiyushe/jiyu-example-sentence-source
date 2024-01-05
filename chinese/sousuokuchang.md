@@ -1,5 +1,7 @@
 # 搜索枯肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sousuokuchang.md)
+
 <p><span class="chinese">她搜索枯肠来嘲笑我了。</span><span class="english">She racked her poor brains to have the laugh on me.</span></p>
 
 <p><span class="chinese">我搜索枯肠寻找一个恰当的字不得，决定查字典。</span><span class="english">After fishing for right word, I decided to look in the dictionary.</span></p>

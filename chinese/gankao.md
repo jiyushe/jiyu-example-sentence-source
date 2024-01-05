@@ -1,5 +1,7 @@
 # 赶考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gankao.md)
+
 <p><span class="chinese">哦?我要此刻上京赶考准能患上中吗?。</span><span class="english">Oh? I want to have special attends Beijing now?</span></p>
 
 <p><span class="chinese">从前有两个秀才一同进京赶考！</span><span class="english">There are two former Beijing scholar Examination together!</span></p>

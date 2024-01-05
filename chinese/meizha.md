@@ -1,5 +1,7 @@
 # 煤渣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizha.md)
+
 <p><span class="chinese">炉火中劈啪劈啪地爆溅出煤渣。</span><span class="english">The fire sputtered cinders.</span></p>
 
 <p><span class="chinese">屋顶上是煤渣块和木板条压着塑料油布。</span><span class="english">Cinder blocks and wood planks anchor plastic tarps on the roof.</span></p>

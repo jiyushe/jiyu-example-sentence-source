@@ -1,5 +1,7 @@
 # warmth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warmth.md)
+
 <p><span class="chinese">我享受西班牙示的温暖。</span><span class="english">I enjoy the warmth of Spain.</span></p>
 
 <p><span class="chinese">是温情？</span><span class="english">Was it the rating of warmth?</span></p>

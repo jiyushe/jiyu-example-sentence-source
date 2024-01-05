@@ -1,5 +1,7 @@
 # 静音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyin.md)
+
 <p><span class="chinese">静音摇臂支撑结构，噪声更低。</span><span class="english">The mute rocker arm, less noise.</span></p>
 
 <p><span class="chinese">别忘了把手机关闭或调成静音状态。</span><span class="english">Turn your phone off or to silent.</span></p>

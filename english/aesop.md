@@ -1,5 +1,7 @@
 # aesop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesop.md)
+
 <p><span class="chinese">"走，"伊索朝他喊道。</span><span class="english">"Go,"Aesop shouted to him.</span></p>
 
 <p><span class="chinese">伊索是寓言大师。</span><span class="english">Aesop was the master of the apologue.</span></p>

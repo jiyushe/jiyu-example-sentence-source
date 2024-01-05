@@ -1,5 +1,7 @@
 # reclaimer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclaimer.md)
+
 <p><span class="chinese">“测试承担一切取使用相同的分拣技术，用于测试，”亚历山大说。</span><span class="english">The tests assume every reclaimer uses the same sortation technology that was used in the test, " Alexander said."</span></p>
 
 <p><span class="chinese">本设计的取料装置主要由取料杆，升降机构，平移机构，底座，液压控制系统组成。</span><span class="english">The design for the main device by Reclaimer par, body movements, translation agencies, the base, hydraulic control system.</span></p>

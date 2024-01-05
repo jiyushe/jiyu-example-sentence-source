@@ -1,5 +1,7 @@
 # creature 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creature.md)
+
 <p><span class="chinese">我是独一无二的造化。</span><span class="english">I am a unique creature.</span></p>
 
 <p><span class="chinese">我们从未敬拜一个被造之物。</span><span class="english">We do not worship a creature.</span></p>

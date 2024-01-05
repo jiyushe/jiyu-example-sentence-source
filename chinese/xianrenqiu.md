@@ -1,5 +1,7 @@
 # 仙人球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianrenqiu.md)
+
 <p><span class="chinese">这儿我们围绕着仙人球</span><span class="english">Here we go round the prickly pear</span></p>
 
 <p><span class="chinese">它是我的掌上盆景-----仙人球。</span><span class="english">It is my palm bonsai ----- cactus.</span></p>

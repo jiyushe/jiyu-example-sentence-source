@@ -1,5 +1,7 @@
 # preparative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preparative.md)
+
 <p><span class="chinese">常年必要的计量准备工作。</span><span class="english">Prepare perennial essential preparative work.</span></p>
 
 <p><span class="chinese">协助生产许可证和型式试验的准备工作.</span><span class="english">Production Certificates and test preparative work.</span></p>

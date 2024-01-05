@@ -1,5 +1,7 @@
 # microcephaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcephaly.md)
+
 <p><span class="chinese">在有头小畸型病的人中，这两个基因不起作用。</span><span class="english">These two genes do not work right in people with microcephaly.</span></p>
 
 <p><span class="chinese">比例不符的头围可能表示脑积水或小头畸形。</span><span class="english">Disproportionate head measurements may indicate hydrocephaly or microcephaly.</span></p>

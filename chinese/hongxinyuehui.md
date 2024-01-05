@@ -1,5 +1,7 @@
 # 红新月会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxinyuehui.md)
+
 <p><span class="chinese">万荣说，红新月会城市的活动始于1998年。</span><span class="english">Vang said the Crescent City event began in 1998.</span></p>
 
 <p><span class="chinese">我与一个红十字&红新月会的顾问见过面。</span><span class="english">I had a meeting with a Red Cross & Red Crescent Federation consultant.</span></p>

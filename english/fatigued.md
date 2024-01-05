@@ -1,5 +1,7 @@
 # fatigued
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatigued.md)
+
 <p><span class="chinese">冉阿让疲乏不堪。</span><span class="english">Jean Valjean was fatigued.</span></p>
 
 <p><span class="chinese">你是从苦难疲劳肾上腺?。</span><span class="english">Are You Suffering from Fatigued Adrenals?</span></p>

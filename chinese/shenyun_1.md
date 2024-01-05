@@ -1,5 +1,7 @@
 # 身孕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyun_1.md)
+
 <p><span class="chinese">我的身孕具体说来有多"深"了?</span><span class="english">How pregnant am I, exactly?</span></p>
 
 <p><span class="chinese">金闰美现在已有7个月身孕。</span><span class="english">Gim currently is seven months pregnant.</span></p>

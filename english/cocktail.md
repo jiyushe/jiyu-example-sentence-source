@@ -1,5 +1,7 @@
 # cocktail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cocktail.md)
+
 <p><span class="chinese">来一杯夏日鸡尾酒？</span><span class="english">Want a summer cocktail?</span></p>
 
 <p><span class="chinese">当忆酷夏兮，鸡尾酒会欢娱。</span><span class="english">Hot summer. Cheerful Cocktail.</span></p>

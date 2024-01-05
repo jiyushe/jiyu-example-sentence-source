@@ -1,5 +1,7 @@
 # unpunished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpunished.md)
+
 <p><span class="chinese">决不能让这些盗贼逍遥法外。</span><span class="english">The thieves must not go unpunished.</span></p>
 
 <p><span class="chinese">决不允许罪恶的行为逍遥法外。</span><span class="english">Never allow a sinful act to go unpunished.</span></p>

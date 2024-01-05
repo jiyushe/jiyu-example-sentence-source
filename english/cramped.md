@@ -1,5 +1,7 @@
 # cramped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cramped.md)
+
 <p><span class="chinese">我的腿抽筋了。</span><span class="english">My leg cramped up.</span></p>
 
 <p><span class="chinese">整个机舱挺狭小的。</span><span class="english">The cabin is quite cramped.</span></p>

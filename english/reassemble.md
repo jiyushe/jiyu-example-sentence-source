@@ -1,5 +1,7 @@
 # reassemble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassemble.md)
+
 <p><span class="chinese">添加正确的水量和组装的过滤器。</span><span class="english">Add the correct amount of water and reassemble the percolator.</span></p>
 
 <p><span class="chinese">重新装配。确认模具四角已经对齐。确认螺母正确对位。</span><span class="english">Reassemble. Verify Die is flush at ends. Verify that the nuts are tight.</span></p>

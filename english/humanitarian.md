@@ -1,5 +1,7 @@
 # humanitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanitarian.md)
+
 <p><span class="chinese">增拨1.6元亿美元用于人道救援</span><span class="english">MILLION FOR MORE HUMANITARIAN ASSISTANCE</span></p>
 
 <p><span class="chinese">嗅探蜂还能应用于人道主义援助。</span><span class="english">There are also humanitarian uses for sniffer bees.</span></p>

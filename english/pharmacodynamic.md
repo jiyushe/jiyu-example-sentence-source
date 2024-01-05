@@ -1,5 +1,7 @@
 # pharmacodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmacodynamic.md)
+
 <p><span class="chinese">目的研究干咳清糖浆的止咳祛痰的药效学。</span><span class="english">Objective Research dry cough expectorant cough syrup- Pharmacodynamic.</span></p>
 
 <p><span class="chinese">本文综述了米格列醇的发展、生物合成及其药效的研究。</span><span class="english">This paper reviews some studies about its finding, biosynthesize and pharmacodynamic.</span></p>

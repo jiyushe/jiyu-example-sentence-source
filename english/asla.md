@@ -1,5 +1,7 @@
 # asla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asla.md)
+
 <p><span class="chinese">请访问ASLA年度大会网站。</span><span class="english">Please visit the official ASLA Annual Meeting website.</span></p>
 
 <p><span class="chinese">提供ASLA学生会员资格一年，包括各种福利。</span><span class="english">Provides Student ASLA membership for one year, including all benefits.</span></p>

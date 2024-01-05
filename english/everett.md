@@ -1,5 +1,7 @@
 # everett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everett.md)
+
 <p><span class="chinese">但是凯文?埃弗雷特立刻倒下了。</span><span class="english">But it was Kevin Everett who immediately went down.</span></p>
 
 <p><span class="chinese">埃林顿和埃弗雷特知道，他是他们做的家伙。</span><span class="english">And Everett Ellington knows that he's the guy to do them.</span></p>

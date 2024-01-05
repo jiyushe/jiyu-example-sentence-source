@@ -1,5 +1,7 @@
 # assumed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assumed.md)
+
 <p><span class="chinese">也假定了一个初始条件。</span><span class="english">We've assumed an initial condition.</span></p>
 
 <p><span class="chinese">我对我的姿态不佳毫无办法。</span><span class="english">Assumed a posture of angry defiance.</span></p>

@@ -1,5 +1,7 @@
 # crosstab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosstab.md)
+
 <p><span class="chinese">动态交叉表和数据立方体特性。</span><span class="english">The dynamic Crosstab and data cube feature.</span></p>
 
 <p><span class="chinese">这个例子的报表将是一个交叉表。</span><span class="english">The report in this example will be a crosstab.</span></p>

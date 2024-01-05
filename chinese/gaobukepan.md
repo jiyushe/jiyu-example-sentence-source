@@ -1,5 +1,7 @@
 # 高不可攀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaobukepan.md)
+
 <p><span class="chinese">毕加索的艺术，是一般大众高不可攀的东西。</span><span class="english">Picasso's art is caviare to the general.</span></p>
 
 <p><span class="chinese">“这一目标并非高不可攀。”她补充道。</span><span class="english">“That goal is not unattainable,” she adds.</span></p>

@@ -1,5 +1,7 @@
 # 邪说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshuo.md)
+
 <p><span class="chinese">或将您使用他们自己的歪理邪说优势？</span><span class="english">Or will you use them to your own devious advantage?</span></p>
 
 <p><span class="chinese">你不要被这些歪理邪说蒙骗了。</span><span class="english">Don't let yourself be taken in by such absurd deception.</span></p>

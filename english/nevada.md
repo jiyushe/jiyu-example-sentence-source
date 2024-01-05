@@ -1,5 +1,7 @@
 # nevada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nevada.md)
+
 <p><span class="chinese">我还真不知道盖茨堡在内华达呢。</span><span class="english">I didn't know Gettysburg was in nevada.</span></p>
 
 <p><span class="chinese">他们在内华达的外景地拍摄了那部电影。</span><span class="english">They shot the film on location in Nevada.</span></p>

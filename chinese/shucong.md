@@ -1,5 +1,7 @@
 # 树丛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shucong.md)
+
 <p><span class="chinese">枭翼树丛挖掘场。</span><span class="english">Owl Wing Thicket Digsite.</span></p>
 
 <p><span class="chinese">树丛使他下落的坠势稍缓。</span><span class="english">The trees broke his fall.</span></p>

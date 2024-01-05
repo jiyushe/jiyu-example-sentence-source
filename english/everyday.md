@@ -1,5 +1,7 @@
 # everyday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everyday.md)
+
 <p><span class="chinese">我每天浪费时间？</span><span class="english">I dallied everyday?</span></p>
 
 <p><span class="chinese">它每天都在我心中播放。</span><span class="english">I play it everyday.</span></p>

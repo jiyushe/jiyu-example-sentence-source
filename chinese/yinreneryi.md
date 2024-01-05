@@ -1,5 +1,7 @@
 # 因人而异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinreneryi.md)
+
 <p><span class="chinese">答案因人而异。</span><span class="english">The answer varies for everybody.</span></p>
 
 <p><span class="chinese">我因人而异地谱写音乐。</span><span class="english">I tailor-make music according to the person.</span></p>

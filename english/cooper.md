@@ -1,5 +1,7 @@
 # cooper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooper.md)
+
 <p><span class="chinese">为什么库柏先生这么疲倦？</span><span class="english">Why is Mr. Cooper so tired?</span></p>
 
 <p><span class="chinese">是的，加里库柏也是这样。</span><span class="english">Yeah, Gary Cooper was the same.</span></p>

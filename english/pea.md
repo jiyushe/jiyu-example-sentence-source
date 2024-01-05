@@ -1,5 +1,7 @@
 # pea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pea.md)
+
 <p><span class="chinese">青豌豆汤，先生。</span><span class="english">Green pea soup, sir.</span></p>
 
 <p><span class="chinese">终于，豌豆苗开花了。</span><span class="english">Finally, the pea plant blooms.</span></p>

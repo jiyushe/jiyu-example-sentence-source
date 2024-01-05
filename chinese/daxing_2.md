@@ -1,5 +1,7 @@
 # 大幸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxing_2.md)
+
 <p><span class="chinese">然而不幸中的大幸是，它的拓本一直在民间流传。</span><span class="english">Rubbings in the spread of civil cases.</span></p>
 
 <p><span class="chinese">对奴婢来说能看到皇上就已经是大幸了。</span><span class="english">I think I am lucky just to get to see him in person.</span></p>

@@ -1,5 +1,7 @@
 # 随身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suishen.md)
+
 <p><span class="chinese">随身带把伞。</span><span class="english">Take an umbrella with you.</span></p>
 
 <p><span class="chinese">一个行李箱，还有一个包随身携带。</span><span class="english">I also have a carry-on bag.</span></p>

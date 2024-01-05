@@ -1,5 +1,7 @@
 # 注入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuru_1.md)
+
 <p><span class="chinese">上帝为亚当注入生命</span><span class="english">God breathes into Adam.</span></p>
 
 <p><span class="chinese">这些是自动注入式的笔吗？</span><span class="english">Are these self-filling pens?</span></p>

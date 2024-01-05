@@ -1,5 +1,7 @@
 # 重装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhuang_1.md)
+
 <p><span class="chinese">重装步兵是为了方阵才存在的</span><span class="english">A hoplite only makes sense in a phalanx.</span></p>
 
 <p><span class="chinese">我该怎么办？重装系统吗？</span><span class="english">What should I do? Should I reinstall the system?</span></p>

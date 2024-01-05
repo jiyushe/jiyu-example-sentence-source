@@ -1,5 +1,7 @@
 # 宁死不屈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningsibuqu.md)
+
 <p><span class="chinese">他说他宁死不屈。</span><span class="english">He said he would die first.</span></p>
 
 <p><span class="chinese">我宁死不屈。</span><span class="english">I will die,ere I will yield.</span></p>

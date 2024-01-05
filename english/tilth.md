@@ -1,5 +1,7 @@
 # tilth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tilth.md)
+
 <p><span class="chinese">经过俄勒冈州有机认证。</span><span class="english">Certified Organic by Oregon Tilth.</span></p>
 
 <p><span class="chinese">有些有机肥是用来改善土壤的耕性的。</span><span class="english">Some of these provide tilth to a soil.</span></p>

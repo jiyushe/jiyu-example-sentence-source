@@ -1,5 +1,7 @@
 # pentoxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentoxide.md)
+
 <p><span class="chinese">分子中含有两个氮原子和五个氧原子。</span><span class="english">One dinitrogen pentoxide molecule contains two nitrogen atoms and five oxygen atoms.</span></p>
 
 <p><span class="chinese">公司主要产品有五氧化二钒、钒铁合金、钒酸盐和涂料四大系列产品。</span><span class="english">Our main products are in four series of vanadium pentoxide , ferrovanadium , vanadate salts and coatings.</span></p>

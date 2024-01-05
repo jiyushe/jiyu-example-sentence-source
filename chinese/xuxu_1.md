@@ -1,5 +1,7 @@
 # 徐徐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuxu_1.md)
+
 <p><span class="chinese">徐徐的吻，深深的爱，快快的原宥。</span><span class="english">Kiss slowly Love deeply Forgive quickly.</span></p>
 
 <p><span class="chinese">赤红色的天空，徐徐染上了暗色。</span><span class="english">Chek red sky, slowly contracted the dark.</span></p>

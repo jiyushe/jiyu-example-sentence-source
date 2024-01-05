@@ -1,5 +1,7 @@
 # sandalwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandalwood.md)
+
 <p><span class="chinese">檀香……</span><span class="english">sandalwood...</span></p>
 
 <p><span class="chinese">这些檀香扇卖吗？</span><span class="english">Are these sandalwood fans for sale?</span></p>

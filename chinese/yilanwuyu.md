@@ -1,5 +1,7 @@
 # 一览无余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilanwuyu.md)
+
 <p><span class="chinese">可是，他那著名的急脾气，仍一览无余。</span><span class="english">But his famous impatience is still close to thesurface.</span></p>
 
 <p><span class="chinese">白灼的阳光，令戈壁越发一览无余。</span><span class="english">Boiled in the sun, so that more and more sweeping views of the Gobi.</span></p>

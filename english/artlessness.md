@@ -1,5 +1,7 @@
 # artlessness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artlessness.md)
+
 <p><span class="chinese">她天真烂漫地说。</span><span class="english">She said, in her artlessness.</span></p>
 
 <p><span class="chinese">艺术的最高境界就是没有艺术。</span><span class="english">The highest state of art is artlessness.</span></p>

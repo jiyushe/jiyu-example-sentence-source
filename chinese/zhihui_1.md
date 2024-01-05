@@ -1,5 +1,7 @@
 # 智慧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihui_1.md)
+
 <p><span class="chinese">聪明智慧！</span><span class="english">Smart!</span></p>
 
 <p><span class="chinese">智慧与年俱增。</span><span class="english">Year brings wisdom.</span></p>

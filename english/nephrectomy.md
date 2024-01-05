@@ -1,5 +1,7 @@
 # nephrectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephrectomy.md)
+
 <p><span class="chinese">移植肾切除术并不与脓毒血症相关。</span><span class="english">Transplant nephrectomy was not associated with septicemia.</span></p>
 
 <p><span class="chinese">治疗应行肾部分切除或肿瘤剜除术。</span><span class="english">The treatment should be nephrectomy or enucleation of the tumor.</span></p>

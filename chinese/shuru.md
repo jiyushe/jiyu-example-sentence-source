@@ -1,5 +1,7 @@
 # 输入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuru.md)
+
 <p><span class="chinese">语音输入?。</span><span class="english">VI? Voice Input?</span></p>
 
 <p><span class="chinese">输入任何字符串。</span><span class="english">Type any string in.</span></p>

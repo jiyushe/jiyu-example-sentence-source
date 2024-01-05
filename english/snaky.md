@@ -1,5 +1,7 @@
 # snaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snaky.md)
+
 <p><span class="chinese">他像狐狸一样还耍花招。</span><span class="english">He's as snaky as a fox.</span></p>
 
 <p><span class="chinese">太长，象蛇一样的身躯，显得虚弱。</span><span class="english">Too long, weedy and snaky a body, giving an impression of weakness.</span></p>

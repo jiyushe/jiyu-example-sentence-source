@@ -1,5 +1,7 @@
 # apprehend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprehend.md)
+
 <p><span class="chinese">我不领会你的意思。</span><span class="english">I don't apprehend your meaning.</span></p>
 
 <p><span class="chinese">你听过玛丽娅·卡拉斯唱歌吗？</span><span class="english">Did you anytime apprehend Maria Callas sing?</span></p>

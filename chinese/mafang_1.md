@@ -1,5 +1,7 @@
 # 麻纺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mafang_1.md)
+
 <p><span class="chinese">公司是中国麻纺行业的重点骨干企业。</span><span class="english">Hemp is one of China's key enterprises industry.</span></p>
 
 <p><span class="chinese">亚麻、苎麻、黄麻等麻纺行业的分行业的发展也出现了新的机遇。</span><span class="english">Of flax, ramie, jute and hemp industries industries have come new opportunities.</span></p>

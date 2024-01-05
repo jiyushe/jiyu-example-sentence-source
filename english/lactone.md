@@ -1,5 +1,7 @@
 # lactone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactone.md)
+
 <p><span class="chinese">聚合物是含有内酯结构的聚合物。</span><span class="english">The polymer may contain a lactone structure.</span></p>
 
 <p><span class="chinese">本品为大环内酯类抗生素。</span><span class="english">This is the large ring lactone class antibiotic.</span></p>

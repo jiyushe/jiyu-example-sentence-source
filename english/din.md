@@ -1,5 +1,7 @@
 # din
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/din.md)
+
 <p><span class="chinese">5个针片，信号插座用。</span><span class="english">TIDP 5 pin, female DIN phono plug.</span></p>
 
 <p><span class="chinese">你好，丁先生。我叫约翰?布朗。</span><span class="english">How are you, Mr. Din? I'm John Brown.</span></p>

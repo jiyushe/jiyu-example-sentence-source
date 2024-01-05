@@ -1,5 +1,7 @@
 # 转体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanti_1.md)
+
 <p><span class="chinese">移动的武器的节奏做POI的旋子转体。</span><span class="english">Move the arms in rhythm to do the poi spinning butterfly.</span></p>
 
 <p><span class="chinese">在练习时，我们先要做的是一个叫“三个数翻身”的动作训练转体。</span><span class="english">During practice, we do three-count rolls to work on rotation.</span></p>

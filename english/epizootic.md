@@ -1,5 +1,7 @@
 # epizootic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epizootic.md)
+
 <p><span class="chinese">这个世界范围的家畜流行病不会很快减少。</span><span class="english">B. The worldwide epizootic will not decrease immediately.</span></p>
 
 <p><span class="chinese">这种动物流行病在人群中引起极大的恐慌。</span><span class="english">D. The epizootic has caused tremendous fear among people.</span></p>

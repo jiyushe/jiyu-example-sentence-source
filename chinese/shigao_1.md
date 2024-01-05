@@ -1,5 +1,7 @@
 # 诗稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigao_1.md)
+
 <p><span class="chinese">他向报社投了一篇诗稿。</span><span class="english">He contributed poem to a newspaper.</span></p>
 
 <p><span class="chinese">他投诗稿给杂志。</span><span class="english">He contributed poems to the magazine.</span></p>

@@ -1,5 +1,7 @@
 # 上方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfang_1.md)
+
 <p><span class="chinese">我在怪物的上方。</span><span class="english">I’m above the monster.</span></p>
 
 <p><span class="chinese">在地图上北指上方。</span><span class="english">Noth Points up on a map.</span></p>

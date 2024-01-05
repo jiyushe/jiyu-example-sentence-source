@@ -1,5 +1,7 @@
 # omniscience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omniscience.md)
+
 <p><span class="chinese">神学上的术语就是“全知”。</span><span class="english">The theological term is " omniscience."</span></p>
 
 <p><span class="chinese">他们不会过度自信或假装什么都知道。</span><span class="english">They don't get overly confident or pretend omniscience.</span></p>

@@ -1,5 +1,7 @@
 # 半吊子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandiaozi.md)
+
 <p><span class="chinese">所以现在是半吊子科学家。</span><span class="english">On the way to be a scientist.</span></p>
 
 <p><span class="chinese">半吊子进步，表面的人权。</span><span class="english">Half of progress, quasi-right.</span></p>

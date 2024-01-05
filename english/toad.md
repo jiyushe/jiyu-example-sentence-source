@@ -1,5 +1,7 @@
 # toad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toad.md)
+
 <p><span class="chinese">你这个讨厌的癞蛤蟆！</span><span class="english">You repulsive little toad !</span></p>
 
 <p><span class="chinese">我想念我癞蛤蟆小女朋友。</span><span class="english">I am missing my toad girlfriend.</span></p>

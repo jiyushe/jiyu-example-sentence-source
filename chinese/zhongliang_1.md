@@ -1,5 +1,7 @@
 # 种粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongliang_1.md)
+
 <p><span class="chinese">第三阶段是国家对种粮实行直接补贴时期。</span><span class="english">In the third stage, the nation earned out direct subsidy for grain production.</span></p>
 
 <p><span class="chinese">我们也不会发现一尺可以种粮的田地。</span><span class="english">We shall not find a single foot of earth that can be planted with crops to raise food.</span></p>

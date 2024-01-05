@@ -1,5 +1,7 @@
 # debatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debatable.md)
+
 <p><span class="chinese">除此之外，麦凯恩的顺口溜也值得商榷。</span><span class="english">Besides, the McCain dictum is debatable.</span></p>
 
 <p><span class="chinese">是否有利于所有人，有待商榷。</span><span class="english">It's debatable whether it was good for everybody.</span></p>

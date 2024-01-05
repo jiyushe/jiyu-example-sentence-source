@@ -1,5 +1,7 @@
 # 擎天柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtianzhu.md)
+
 <p><span class="chinese">擎天柱只能有一个声音。</span><span class="english">Prime only has one voice.</span></p>
 
 <p><span class="chinese">擎天柱和大黄蜂是真男人。</span><span class="english">It is real man, Optimus Prime and Bumblebee.</span></p>

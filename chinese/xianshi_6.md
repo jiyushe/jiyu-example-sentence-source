@@ -1,5 +1,7 @@
 # 现世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_6.md)
+
 <p><span class="chinese">耶稣教给了我们度现世生活的方法。</span><span class="english">Jesus teaches us how to live in the present time.</span></p>
 
 <p><span class="chinese">无奈是，现世的晞岚，实在是无法接受这事实！</span><span class="english">Helpless, earthly Xi arashi is really cant accept this fact!</span></p>

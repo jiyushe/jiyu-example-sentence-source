@@ -1,5 +1,7 @@
 # 清清白白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqingbaibai.md)
+
 <p><span class="chinese">找到你、爱著你、清清白白地活下去。</span><span class="english">Find you, love you and live without shame.</span></p>
 
 <p><span class="chinese">在遇到这个男人以前，她一直清清白白地生活着。</span><span class="english">She had lived blamelessly until she met this man.</span></p>

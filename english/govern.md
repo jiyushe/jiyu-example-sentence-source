@@ -1,5 +1,7 @@
 # govern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/govern.md)
+
 <p><span class="chinese">谁该被统治？</span><span class="english">Who should govern?</span></p>
 
 <p><span class="chinese">谁统治这个国家?</span><span class="english">Who govern this country?</span></p>

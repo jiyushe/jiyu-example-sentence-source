@@ -1,5 +1,7 @@
 # 作画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuohua.md)
+
 <p><span class="chinese">他整天作画或读书。</span><span class="english">He painted or read all day.</span></p>
 
 <p><span class="chinese">你可以用粉彩笔作画。</span><span class="english">You can draw in colored chalks.</span></p>

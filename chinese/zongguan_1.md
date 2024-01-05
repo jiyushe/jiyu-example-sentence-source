@@ -1,5 +1,7 @@
 # 纵观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongguan_1.md)
+
 <p><span class="chinese">那样我们才可以纵观全局。</span><span class="english">This's our opportunity to step back.</span></p>
 
 <p><span class="chinese">纵观历史，这些当然有很大的意义。</span><span class="english">Historically, of course, this makes a lot of sense.</span></p>

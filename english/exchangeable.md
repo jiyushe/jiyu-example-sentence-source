@@ -1,5 +1,7 @@
 # exchangeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exchangeable.md)
+
 <p><span class="chinese">本店货物售出概不退换。</span><span class="english">Sale goods in our shop are not exchangeable.</span></p>
 
 <p><span class="chinese">它们层间存在可交换的离子。</span><span class="english">There are exchangeable ions between the layers.</span></p>

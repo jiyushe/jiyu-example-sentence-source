@@ -1,5 +1,7 @@
 # rarefaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarefaction.md)
+
 <p><span class="chinese">这个区域称为稀疏区，并用疏散的小点表示。</span><span class="english">This is called a rarefaction and is represented by widely spaced dots.</span></p>
 
 <p><span class="chinese">文中分别给出反射冲击波和反射稀疏波两种情况的迭代收敛计算公式。</span><span class="english">The formulas of both reflection shock waves and rarefaction waves are given.</span></p>

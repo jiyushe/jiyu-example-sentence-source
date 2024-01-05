@@ -1,5 +1,7 @@
 # warn 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warn.md)
+
 <p><span class="chinese">给他警告！</span><span class="english">To warn him!</span></p>
 
 <p><span class="chinese">我必须去警告师傅！</span><span class="english">I must warn Shifu.</span></p>

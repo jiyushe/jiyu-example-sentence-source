@@ -1,5 +1,7 @@
 # groomsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groomsman.md)
+
 <p><span class="chinese">为什么？你是我的伴郎啊。</span><span class="english">Why? You are my groomsman.</span></p>
 
 <p><span class="chinese">结婚的时候，他是伴郎。</span><span class="english">He is the groomsman of my wedding.</span></p>

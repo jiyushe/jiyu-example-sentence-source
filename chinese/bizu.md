@@ -1,5 +1,7 @@
 # 鼻祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizu.md)
+
 <p><span class="chinese">乔叟是英诗的鼻祖。</span><span class="english">Chaucer is the father of English poetry.</span></p>
 
 <p><span class="chinese">亚当和夏娃是“躲猫猫”游戏的鼻祖。</span><span class="english">Adam and Eve played the first game of hide and seek.</span></p>

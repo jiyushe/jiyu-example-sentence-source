@@ -1,5 +1,7 @@
 # weighbridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weighbridge.md)
+
 <p><span class="chinese">称量这些沙子的重量。</span><span class="english">They are using a weighbridge to weigh the sand.</span></p>
 
 <p><span class="chinese">他们用地磅称量这些沙子的重量。</span><span class="english">They are using a weighbridge to weigh the sand.</span></p>

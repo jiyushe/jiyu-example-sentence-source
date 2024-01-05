@@ -1,5 +1,7 @@
 # varus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varus.md)
+
 <p><span class="chinese">有一天，这些箭和韦神选出的维鲁斯射出的箭会寻找到靶子的。</span><span class="english">One day those arrows and GodV's Varus arrow will find a target.</span></p>
 
 <p><span class="chinese">上述措施可防止出现肘内翻或外翻畸形。</span><span class="english">These measures would prevent the cubitus varus or valgus deformity.</span></p>

@@ -1,5 +1,7 @@
 # jaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaded.md)
+
 <p><span class="chinese">只在这里呆了一周就累得不行了。</span><span class="english">You've only been here a week and are so jaded.</span></p>
 
 <p><span class="chinese">结果却更加疲倦不堪。</span><span class="english">But the outcome leaves them more jaded than before.</span></p>

@@ -1,5 +1,7 @@
 # introspective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introspective.md)
+
 <p><span class="chinese">所以要多反省自己。</span><span class="english">So be a little bit introspective.</span></p>
 
 <p><span class="chinese">亦或你是在深刻反省，思绪万千，需要别人给你个拥抱吗？</span><span class="english">Are you feeling introspective and thoughtful and need a hug?</span></p>

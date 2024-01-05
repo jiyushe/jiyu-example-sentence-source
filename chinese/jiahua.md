@@ -1,5 +1,7 @@
 # 假话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiahua.md)
+
 <p><span class="chinese">她用一套假话把他瞒过去了。</span><span class="english">She palmed him off with some story or others.</span></p>
 
 <p><span class="chinese">现在，这是谎言还是天真的假话？</span><span class="english">Now, is that a lie or a naive false statement?</span></p>

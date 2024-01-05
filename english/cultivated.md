@@ -1,5 +1,7 @@
 # cultivated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultivated.md)
+
 <p><span class="chinese">他女亲耕作一个80英亩天的农场。</span><span class="english">His father cultivated a farm of 80 acres.</span></p>
 
 <p><span class="chinese">含有薄荷醇的，或充满薄荷醇的。</span><span class="english">Peppermint is cultivated on some farms here.</span></p>

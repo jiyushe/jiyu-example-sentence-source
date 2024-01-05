@@ -1,5 +1,7 @@
 # 小鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxie_2.md)
+
 <p><span class="chinese">他准备开办一个小鞋铺。</span><span class="english">He's going to open a small shoe shop.</span></p>
 
 <p><span class="chinese">我简直没法吧眼睛从她的小鞋上移开。</span><span class="english">I couldn't take me eyes off her tiny shoes.</span></p>

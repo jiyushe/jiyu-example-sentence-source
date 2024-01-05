@@ -1,5 +1,7 @@
 # unspecified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unspecified.md)
+
 <p><span class="chinese">市、镇或村，未特别指定人口。</span><span class="english">City, town or village, unspecified population.</span></p>
 
 <p><span class="chinese">这里操作符是否是一个成员函数是不确定的。</span><span class="english">That is, whether the operator is a member is unspecified.</span></p>

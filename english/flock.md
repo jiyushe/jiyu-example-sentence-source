@@ -1,5 +1,7 @@
 # flock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flock.md)
+
 <p><span class="chinese">我在向我的信徒们布道。</span><span class="english">I'm ministering to a flock.</span></p>
 
 <p><span class="chinese">他们养着一群羊。</span><span class="english">They raised a flock of sheep.</span></p>

@@ -1,5 +1,7 @@
 # sepulchral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sepulchral.md)
+
 <p><span class="chinese">你是否听到那阴森森的音调？</span><span class="english">Do you hear it's sepulchral tone ?</span></p>
 
 <p><span class="chinese">他沿着阴森森的走廊走着。</span><span class="english">He made his way along the sepulchral corridors.</span></p>

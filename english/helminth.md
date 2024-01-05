@@ -1,5 +1,7 @@
 # helminth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helminth.md)
+
 <p><span class="chinese">南靖县防治效果尤为满意，已达到控制流行的目标。</span><span class="english">The effectiveness has achieved the goal of helminth control.</span></p>
 
 <p><span class="chinese">蠕虫感染是“卫生学假说”研究的主题。</span><span class="english">Helminth infections are a major theme of the "hygiene hypothesis."</span></p>

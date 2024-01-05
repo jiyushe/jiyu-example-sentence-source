@@ -1,5 +1,7 @@
 # 案例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anli_1.md)
+
 <p><span class="chinese">昏迷案例之二。</span><span class="english">Coma case two.</span></p>
 
 <p><span class="chinese">为什么是案例研究法？</span><span class="english">Why the Case Method?</span></p>

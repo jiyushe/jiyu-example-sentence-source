@@ -1,5 +1,7 @@
 # metropolitan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metropolitan.md)
+
 <p><span class="chinese">你在大都会艺术博物馆都看到什么了？</span><span class="english">What did you see at the Metropolitan Museum?</span></p>
 
 <p><span class="chinese">林肯中央，除夜皆市歌剧。</span><span class="english">Lincoln Center, home of the Metropolitan Opera.</span></p>

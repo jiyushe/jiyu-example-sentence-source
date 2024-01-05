@@ -1,5 +1,7 @@
 # procreate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procreate.md)
+
 <p><span class="chinese">你有责任去生儿育女。</span><span class="english">Your duty to procreate.</span></p>
 
 <p><span class="chinese">大多数的年轻妇女都有生儿育女的生理需要。</span><span class="english">Most young women feel a biological need to procreate.</span></p>

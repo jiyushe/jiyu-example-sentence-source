@@ -1,5 +1,7 @@
 # 要好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaohao.md)
+
 <p><span class="chinese">那些男孩彼此很要好。</span><span class="english">The boys are very pally.</span></p>
 
 <p><span class="chinese">我和她是非常非常要好的朋友！</span><span class="english">I am buddy-buddy with her!</span></p>

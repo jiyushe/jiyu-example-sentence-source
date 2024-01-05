@@ -1,5 +1,7 @@
 # pressure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressure.md)
+
 <p><span class="chinese">渗透压。</span><span class="english">Osmotic pressure.</span></p>
 
 <p><span class="chinese">报酬的压力？</span><span class="english">Pressure of rewards?</span></p>

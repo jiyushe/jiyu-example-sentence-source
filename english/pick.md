@@ -1,5 +1,7 @@
 # pick 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pick.md)
+
 <p><span class="chinese">我喜欢可以拣到的钱。</span><span class="english">I can pick up.</span></p>
 
 <p><span class="chinese">那是一把镐吗？</span><span class="english">Is that a pick?</span></p>

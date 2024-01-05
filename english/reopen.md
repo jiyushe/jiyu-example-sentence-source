@@ -1,5 +1,7 @@
 # reopen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reopen.md)
+
 <p><span class="chinese">就连电影都能撕开旧伤。</span><span class="english">Even movies can reopen raw wounds.</span></p>
 
 <p><span class="chinese">你要是不重开牛博，人民会答应吗？！</span><span class="english">If you don't reopen Bullog, would people agree?</span></p>

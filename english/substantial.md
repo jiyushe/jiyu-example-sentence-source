@@ -1,5 +1,7 @@
 # substantial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantial.md)
+
 <p><span class="chinese">实质性的改变才是真本事</span><span class="english">Substantial Changes Harder to Copy</span></p>
 
 <p><span class="chinese">但是挑战仍然是严峻的。</span><span class="english">But the challenges remain substantial.</span></p>

@@ -1,5 +1,7 @@
 # drupe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drupe.md)
+
 <p><span class="chinese">与核果类混合调制小点心。</span><span class="english">Mix with drupe for making dim sum.</span></p>
 
 <p><span class="chinese">核果宽椭圆形，紫黑色。</span><span class="english">Drupe is wide elliptic, violet black.</span></p>

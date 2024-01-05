@@ -1,5 +1,7 @@
 # 呱呱叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guaguajiao.md)
+
 <p><span class="chinese">我吻了，他们仍呱呱叫。</span><span class="english">I kissed and they croaked.</span></p>
 
 <p><span class="chinese">乌鸦呱呱叫预报灾难。</span><span class="english">The crow croaked disaster.</span></p>

@@ -1,5 +1,7 @@
 # 首相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxiang_2.md)
+
 <p><span class="chinese">首相说，“不允许背叛。”</span><span class="english">"No sell-out , " says PM.</span></p>
 
 <p><span class="chinese">首相先生，我刚跟死去的人交谈过。</span><span class="english">I talk to families who die.</span></p>

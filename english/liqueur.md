@@ -1,5 +1,7 @@
 # liqueur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liqueur.md)
+
 <p><span class="chinese">甘露咖啡酒是一种利口酒。</span><span class="english">Kahlua is a kind of liqueur.</span></p>
 
 <p><span class="chinese">它也是药酒的调味品。</span><span class="english">It is also flavoring Cointreau liqueur.</span></p>

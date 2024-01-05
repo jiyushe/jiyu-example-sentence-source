@@ -1,5 +1,7 @@
 # dunkirk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunkirk.md)
+
 <p><span class="chinese">他为什么要放走在敦克尔克的英国部队？</span><span class="english">Why did he let the British army go at Dunkirk?</span></p>
 
 <p><span class="chinese">他们乘船回英国从敦刻尔克法国小镇。</span><span class="english">They sailed back to Britain from the French town of Dunkirk.</span></p>

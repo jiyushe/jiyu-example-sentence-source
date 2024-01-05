@@ -1,5 +1,7 @@
 # 蹦跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengtiao.md)
+
 <p><span class="chinese">蹦跳的鱼跃出水面。</span><span class="english">The jumping fish broke.</span></p>
 
 <p><span class="chinese">你蹦跳着上楼梯。</span><span class="english">You scamper up that ladder.</span></p>

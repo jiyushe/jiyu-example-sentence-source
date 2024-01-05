@@ -1,5 +1,7 @@
 # admission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admission.md)
+
 <p><span class="chinese">凭票入场。</span><span class="english">Admission by ticket only.</span></p>
 
 <p><span class="chinese">他们收入场费吗？</span><span class="english">Do they charge for admission?</span></p>

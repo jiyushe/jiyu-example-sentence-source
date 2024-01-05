@@ -1,5 +1,7 @@
 # fiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiction.md)
+
 <p><span class="chinese">是否是小说？</span><span class="english">Is it fiction?</span></p>
 
 <p><span class="chinese">阅读同人小说。</span><span class="english">Read fan fiction.</span></p>

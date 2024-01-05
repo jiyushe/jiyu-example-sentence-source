@@ -1,5 +1,7 @@
 # pampas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pampas.md)
+
 <p><span class="chinese">没有果树，比较像是没有河流的彭巴。</span><span class="english">No berry bushes, similar to Pampas without the river.</span></p>
 
 <p><span class="chinese">拉斯维加斯潘帕斯地区警方正调查死因。</span><span class="english">Las Pampas regional police are investigating the death.</span></p>

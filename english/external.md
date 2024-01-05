@@ -1,5 +1,7 @@
 # external 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/external.md)
+
 <p><span class="chinese">被泄露的外置轨迹板。</span><span class="english">The leaked external trackpad.</span></p>
 
 <p><span class="chinese">外在是指信息。</span><span class="english">External refers to information.</span></p>

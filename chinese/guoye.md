@@ -1,5 +1,7 @@
 # 过夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoye.md)
+
 <p><span class="chinese">他时常在外面过夜。</span><span class="english">He spends the night out.</span></p>
 
 <p><span class="chinese">你要我们在那里过夜吗？</span><span class="english">I'm here for the sleepover.</span></p>

@@ -1,5 +1,7 @@
 # broadness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadness.md)
+
 <p><span class="chinese">甚至在晚上，它示范它的阔和率先。</span><span class="english">Even at night , it demonstrates its broadness and initiative.</span></p>
 
 <p><span class="chinese">走进商场，立刻有一种疏朗通透、宽敞明亮的感觉。</span><span class="english">Entering the Mall, you can feel its clearness, broadness and brightness.</span></p>

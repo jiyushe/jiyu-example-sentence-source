@@ -1,5 +1,7 @@
 # priory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/priory.md)
+
 <p><span class="chinese">赶上小修道院组员！</span><span class="english">Catching up with the Priory crew!</span></p>
 
 <p><span class="chinese">峋山隐修会真的存在吗？</span><span class="english">Does the Priory of Sion really exist?</span></p>

@@ -1,5 +1,7 @@
 # smoothen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoothen.md)
+
 <p><span class="chinese">请问这是多少用户签批他们取胜。</span><span class="english">What will smoothen it out is how many customers they win.</span></p>
 
 <p><span class="chinese">您可以使用金刚砂局顺利结束你的指甲。</span><span class="english">You can use emery board to smoothen the ends of your fingernails.</span></p>

@@ -1,5 +1,7 @@
 # 和好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hehao.md)
+
 <p><span class="chinese">我们能否和好如初？</span><span class="english">Can we make it good?</span></p>
 
 <p><span class="chinese">让我们和好相处。</span><span class="english">Let's get along well.</span></p>

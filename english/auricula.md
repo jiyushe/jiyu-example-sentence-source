@@ -1,5 +1,7 @@
 # auricula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auricula.md)
+
 <p><span class="chinese">黑木耳是一种营养丰富的食、药用真菌。</span><span class="english">Auricularia auricula is an edible and medicinal fungus.</span></p>
 
 <p><span class="chinese">对无糖黑木耳薏米保健饮料的加工工艺进行了初步探讨研究。</span><span class="english">Processing technology of auricular auricula and Job's tears beverage without sugar was studied.</span></p>

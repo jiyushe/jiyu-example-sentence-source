@@ -1,5 +1,7 @@
 # grammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grammy.md)
+
 <p><span class="chinese">格莱美奖对我而言是真实可信的。</span><span class="english">The Grammy for me is credibility.</span></p>
 
 <p><span class="chinese">他还获得了13个格莱美奖。</span><span class="english">He also received 13 Grammy Awards.</span></p>

@@ -1,5 +1,7 @@
 # 一文不名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwenbuming.md)
+
 <p><span class="chinese">现在我们一文不名了。</span><span class="english">Now we are penniless.</span></p>
 
 <p><span class="chinese">因为有个非常好的理由。我一文不名。</span><span class="english">For a very good reason. I'm broke.</span></p>

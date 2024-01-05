@@ -1,5 +1,7 @@
 # shiloh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiloh.md)
+
 <p><span class="chinese">你在萨克拉门托的时候还有Shiloh浸信会。</span><span class="english">And you had Shiloh Baptist when you were in Sacramento.</span></p>
 
 <p><span class="chinese">当我赶到夏洛城门的时候，我看见以利已经死了。</span><span class="english">I went back to the gate of Shiloh and there, I sawEli, dead.</span></p>

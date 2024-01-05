@@ -1,5 +1,7 @@
 # 制服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifu_1.md)
+
 <p><span class="chinese">他们有制服。</span><span class="english">They have uniforms.</span></p>
 
 <p><span class="chinese">谁又是你最爱的制服女人？</span><span class="english">Who is your favorite WIU?</span></p>

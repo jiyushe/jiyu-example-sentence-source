@@ -1,5 +1,7 @@
 # infield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infield.md)
+
 <p><span class="chinese">内野高飞球的规则是什麽?。</span><span class="english">What's the infield fly rule?</span></p>
 
 <p><span class="chinese">你曾想过当内野手吗？</span><span class="english">You ever think about the infield?</span></p>

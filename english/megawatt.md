@@ -1,5 +1,7 @@
 # megawatt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megawatt.md)
+
 <p><span class="chinese">一个大的沃尔玛就要消耗一兆瓦的电能。</span><span class="english">A large Wal-Mart draws about one megawatt.</span></p>
 
 <p><span class="chinese">一兆瓦是电力的瞬间衡量指标。</span><span class="english">A megawatt is an instantaneous measure of power.</span></p>

@@ -1,5 +1,7 @@
 # scram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scram.md)
+
 <p><span class="chinese">叫那些男孩子快走开。</span><span class="english">Tell those boys to scram.</span></p>
 
 <p><span class="chinese">你可以从我的世界么滚开。</span><span class="english">You can from my world scram Mody.</span></p>

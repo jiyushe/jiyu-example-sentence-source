@@ -1,5 +1,7 @@
 # 孔府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongfu.md)
+
 <p><span class="chinese">清朝将孔府列当朝一品官的官府。</span><span class="english">North Korea will be a Qing Dynasty Confucian Orobanchaceae Guanfu product officer.</span></p>
 
 <p><span class="chinese">清代不但沿袭，还特许紫禁城骑马等优礼，故以“一品”寓孔府。</span><span class="english">In Qing Dynasty, The duke got a special permission to ride a horse in the Forbidden City.</span></p>

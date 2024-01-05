@@ -1,5 +1,7 @@
 # watchdog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchdog.md)
+
 <p><span class="chinese">我哥是只傻傻的看门狗。</span><span class="english">My brother is a silly watchdog.</span></p>
 
 <p><span class="chinese">这些必须经监察者同意。</span><span class="english">These must be agreed by the watchdog.</span></p>

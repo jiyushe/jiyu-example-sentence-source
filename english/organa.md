@@ -1,5 +1,7 @@
 # organa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organa.md)
+
 <p><span class="chinese">从议会退休后，贝尔回到奥德朗。</span><span class="english">When Organa retired from the Senate, he returned to Alderaan.</span></p>
 
 <p><span class="chinese">小女孩儿莱娅被奥德朗的贝尔·奥加纳总督带走。</span><span class="english">The young girl, Leia, was taken to Viceroy Bail Organa of Alderaan.</span></p>

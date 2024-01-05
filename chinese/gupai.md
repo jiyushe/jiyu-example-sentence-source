@@ -1,5 +1,7 @@
 # 骨牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gupai.md)
+
 <p><span class="chinese">这是骨牌效应。</span><span class="english">It's a domino effect.</span></p>
 
 <p><span class="chinese">冰岛语中多米诺骨牌怎么说？</span><span class="english">What's the Icelandic for "domino"?</span></p>

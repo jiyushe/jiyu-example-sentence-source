@@ -1,5 +1,7 @@
 # 试听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiting_1.md)
+
 <p><span class="chinese">我们试听的这些女演员都不合适。</span><span class="english">None of the actresses we've auditioned is suitable.</span></p>
 
 <p><span class="chinese">我的拍档M.G昨天停止老化并进行试听。</span><span class="english">My associate, M. G, stopped by yesterday to listen to it.</span></p>

@@ -1,5 +1,7 @@
 # pliability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pliability.md)
+
 <p><span class="chinese">柔软便是生命。</span><span class="english">Pliability is life.</span></p>
 
 <p><span class="chinese">保持柔软性，并具抗氧化功能。</span><span class="english">Keep pliability and have the function of resist oxidation.</span></p>

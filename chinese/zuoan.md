@@ -1,5 +1,7 @@
 # 作案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoan.md)
+
 <p><span class="chinese">但是该团伙仍在作案。</span><span class="english">But the gang goes on.</span></p>
 
 <p><span class="chinese">官方正在搜寻作案动机。</span><span class="english">Authorities are looking for a motive.</span></p>

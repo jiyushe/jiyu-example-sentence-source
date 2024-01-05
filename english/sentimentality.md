@@ -1,5 +1,7 @@
 # sentimentality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentimentality.md)
+
 <p><span class="chinese">因为你偶尔的多愁善感。</span><span class="english">Because of your occasional sentimentality.</span></p>
 
 <p><span class="chinese">这就是我说的多愁善感的一部分。</span><span class="english">That is part of what I mean by sentimentality.</span></p>

@@ -1,5 +1,7 @@
 # polytheism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polytheism.md)
+
 <p><span class="chinese">多神论是我们探讨的对象</span><span class="english">Polytheism is what we're talking about.</span></p>
 
 <p><span class="chinese">多神论被普遍认为是落后原始的。</span><span class="english">Polytheism was understood as clearly inferior and primitive.</span></p>

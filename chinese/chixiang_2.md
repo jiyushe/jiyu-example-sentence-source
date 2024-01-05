@@ -1,5 +1,7 @@
 # 痴想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chixiang_2.md)
+
 <p><span class="chinese">他大部分时间都在痴想着海伦。</span><span class="english">He spends most of his time mooning over Helen.</span></p>
 
 <p><span class="chinese">忘记昨天，也不痴想明天。</span><span class="english">Forget yesterday and aren't crazy for tomorrow.</span></p>

@@ -1,5 +1,7 @@
 # 工场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchang_2.md)
+
 <p><span class="chinese">这是个工场</span><span class="english">Here is a workhouse.</span></p>
 
 <p><span class="chinese">李先死正在一家大年夜工场工做。</span><span class="english">Mr Li works in a big factory.</span></p>

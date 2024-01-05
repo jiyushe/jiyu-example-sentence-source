@@ -1,5 +1,7 @@
 # 结膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiemo.md)
+
 <p><span class="chinese">戴镜时间每日平均13.5小时，无明显角结膜并发症出现。</span><span class="english">The average time of wearing RGPCL was 13.5 hours per day.</span></p>
 
 <p><span class="chinese">结膜下出血是十分常见的眼部表现。</span><span class="english">Subconjunctival hemorrhages are very common ocular findings.</span></p>

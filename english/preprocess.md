@@ -1,5 +1,7 @@
 # preprocess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preprocess.md)
+
 <p><span class="chinese">进行预处理，以删除名称空间。</span><span class="english">Preprocess to remove the namespace.</span></p>
 
 <p><span class="chinese">图像的预处理是后续图像处理的基础。</span><span class="english">Preprocess of image is the base of following image processing.</span></p>

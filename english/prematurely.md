@@ -1,5 +1,7 @@
 # prematurely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prematurely.md)
+
 <p><span class="chinese">因此往往会过早地检查错误。</span><span class="english">Thus it tends to detect errors prematurely.</span></p>
 
 <p><span class="chinese">霍姆格伦非常小心，以免庆祝得过早了。</span><span class="english">Holmgren is careful not to celebrate prematurely.</span></p>

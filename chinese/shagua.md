@@ -1,5 +1,7 @@
 # 傻瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shagua.md)
+
 <p><span class="chinese">可怜的傻瓜们。</span><span class="english">Poor fools.</span></p>
 
 <p><span class="chinese">他就是个傻瓜。</span><span class="english">He is a dumb.</span></p>

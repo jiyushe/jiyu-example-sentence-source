@@ -1,5 +1,7 @@
 # 游街
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjie.md)
+
 <p><span class="chinese">说真的，为什么老鸨和皮条客没有游街呢？</span><span class="english">Indeed, why not the patrons and the pimps?</span></p>
 
 <p><span class="chinese">为什么不挂牌、不游街示众？</span><span class="english">Why not listed, do not paraded through the streets?</span></p>

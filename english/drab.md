@@ -1,5 +1,7 @@
 # drab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drab.md)
+
 <p><span class="chinese">草黄色俄罗斯战术背心M21。</span><span class="english">Russian Tactical Vest M21 in Olive Drab.</span></p>
 
 <p><span class="chinese">假定想要快些单调能够用电吹风。</span><span class="english">Assume that want faster drab can use hair dryer.</span></p>

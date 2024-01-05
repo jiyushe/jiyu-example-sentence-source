@@ -1,5 +1,7 @@
 # copulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copulate.md)
+
 <p><span class="chinese">我想让所有的孩子都来和我交配。</span><span class="english">I want all the kids to copulate me.</span></p>
 
 <p><span class="chinese">只有包括人类在内的某些脊椎动物是面对面的进行交合的。</span><span class="english">Only a few vertebrates besides humans copulate face to face.</span></p>

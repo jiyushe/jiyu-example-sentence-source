@@ -1,5 +1,7 @@
 # bollworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bollworm.md)
+
 <p><span class="chinese">可以将之用于棉铃虫的预测预报。</span><span class="english">The two-wave-lamp can be used in the forecast of cotton bollworm.</span></p>
 
 <p><span class="chinese">本文研究来源于棉铃虫幼虫粪便的产卵忌避信息素，主要结果如下。</span><span class="english">Here we investigate oviposition-deterring pheromone originated from larval frass of cotton bollworm.</span></p>

@@ -1,5 +1,7 @@
 # 听见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingjian.md)
+
 <p><span class="chinese">他一个字儿都没听见。</span><span class="english">He's a thief.</span></p>
 
 <p><span class="chinese">我听见他们柔声呼唤「老黑乔！」</span><span class="english">Old Black Joe!</span></p>

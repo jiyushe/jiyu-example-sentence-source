@@ -1,5 +1,7 @@
 # offload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offload.md)
+
 <p><span class="chinese">但是，卖方也想卸下风险。</span><span class="english">But sellers want to offload their risk as well.</span></p>
 
 <p><span class="chinese">使用云计算环境来卸载主站的工作负载</span><span class="english">Using a cloud environment to offload main site workloads</span></p>

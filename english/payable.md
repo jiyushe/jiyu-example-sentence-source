@@ -1,5 +1,7 @@
 # payable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payable.md)
+
 <p><span class="chinese">这是张即期汇票。</span><span class="english">This bill is payable at sight.</span></p>
 
 <p><span class="chinese">向持票人付款的支票。</span><span class="english">The check is payable to bearer.</span></p>

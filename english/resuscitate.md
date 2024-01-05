@@ -1,5 +1,7 @@
 # resuscitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resuscitate.md)
+
 <p><span class="chinese">我们回到贝多芬。</span><span class="english">We'll resuscitate Beethoven here.</span></p>
 
 <p><span class="chinese">医生们设法让她苏醒，但她始终处于危急状况。</span><span class="english">The doctors managed to resuscitate her, but she remained in a critical condition.</span></p>

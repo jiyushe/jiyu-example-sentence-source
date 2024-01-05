@@ -1,5 +1,7 @@
 # bolus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolus.md)
+
 <p><span class="chinese">晕车丸有什么作用？</span><span class="english">What effect does carsick bolus have?</span></p>
 
 <p><span class="chinese">而造成管道堵塞的是忧虑。</span><span class="english">And the bolus blocking the pipes is fear.</span></p>

@@ -1,5 +1,7 @@
 # newscast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newscast.md)
+
 <p><span class="chinese">现在听这段对话，这次是常速。</span><span class="english">Now let's listen to the newscast again at a normal speed.</span></p>
 
 <p><span class="chinese">背景上的电视机正在播放哥伦比亚广播电台的新闻。</span><span class="english">The television is on in the background, with a CNN newscast broadcasting.</span></p>

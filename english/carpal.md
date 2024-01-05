@@ -1,5 +1,7 @@
 # carpal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpal.md)
+
 <p><span class="chinese">它与腕管综合症有何不同呢？</span><span class="english">How is it different from carpal tunnel syndrome?</span></p>
 
 <p><span class="chinese">腕管综合征继发性痛风是少见。</span><span class="english">Carpal tunnel syndrome secondary to gout is uncommon.</span></p>

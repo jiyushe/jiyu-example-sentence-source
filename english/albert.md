@@ -1,5 +1,7 @@
 # albert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albert.md)
+
 <p><span class="chinese">阿尔伯特何许人也？</span><span class="english">Albert who?</span></p>
 
 <p><span class="chinese">艾伯特笑道。</span><span class="english">Albert laughed.</span></p>

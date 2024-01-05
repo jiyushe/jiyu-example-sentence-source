@@ -1,5 +1,7 @@
 # 题意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiyi_1.md)
+
 <p><span class="chinese">根据题意，每空填上一个适当的英文单词。</span><span class="english">Fill in the blanks with proper words.</span></p>
 
 <p><span class="chinese">首先，应正确理解题意。</span><span class="english">First of all, try to understand the question correctly.</span></p>

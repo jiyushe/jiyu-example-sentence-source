@@ -1,5 +1,7 @@
 # preternatural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preternatural.md)
+
 <p><span class="chinese">你冲到敌人身后，以不可思议的速度从后面攻击他们。</span><span class="english">Lunge past your foes with preternatural speed to attack them from behind.</span></p>
 
 <p><span class="chinese">“属阴节与占卜和传说故事联系紧密，”是超脱时间的时间，“充满了古怪的超自然的力量。”</span><span class="english">" It was a time out of time "charged with a peculiar preternatural energy.</span></p>

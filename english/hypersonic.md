@@ -1,5 +1,7 @@
 # hypersonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypersonic.md)
+
 <p><span class="chinese">指出了高超音速导弹天线罩技术的发展方向。</span><span class="english">The prospects of hypersonic missile radomes are given at last.</span></p>
 
 <p><span class="chinese">它适用于超音速和低的高超音速范围，并可用于中等攻角和侧滑角。</span><span class="english">It is valid in the range of supersonic and low hypersonic speeds.</span></p>

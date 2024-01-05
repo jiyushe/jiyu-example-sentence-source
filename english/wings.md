@@ -1,5 +1,7 @@
 # wings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wings.md)
+
 <p><span class="chinese">鸡翅和华夫饼。</span><span class="english">Wings and waffles.</span></p>
 
 <p><span class="chinese">画两个大翅膀。</span><span class="english">Draw two big wings.</span></p>

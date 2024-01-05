@@ -1,5 +1,7 @@
 # noticeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noticeable.md)
+
 <p><span class="chinese">这班有明显的进步。</span><span class="english">The class made noticeable improvement.</span></p>
 
 <p><span class="chinese">这个班已有引人注目的进步。</span><span class="english">The class has made noticeable improvement.</span></p>

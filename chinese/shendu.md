@@ -1,5 +1,7 @@
 # 审读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shendu.md)
+
 <p><span class="chinese">经理赞许地审读她的报告。</span><span class="english">The manager surveyed her report with approbation.</span></p>
 
 <p><span class="chinese">组织对报纸、期刊的审读。</span><span class="english">To organize the review of newspapers and periodicals.</span></p>

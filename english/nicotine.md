@@ -1,5 +1,7 @@
 # nicotine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicotine.md)
+
 <p><span class="chinese">它们不像尼古丁。</span><span class="english">They’re not like nicotine.</span></p>
 
 <p><span class="chinese">嗯，低尼古丁，高糠醛。</span><span class="english">Huh. low in nicotine high in furfur al.</span></p>

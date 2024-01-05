@@ -1,5 +1,7 @@
 # viciousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viciousness.md)
+
 <p><span class="chinese">警方对这一攻击的残忍感到震惊。</span><span class="english">Police were shocked by the viciousness of the assault.</span></p>
 
 <p><span class="chinese">然而，仇恨、妒忌和凶残又是什么呢？</span><span class="english">However, what are the jealousy, the hating and the viciousness?</span></p>

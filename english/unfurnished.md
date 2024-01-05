@@ -1,5 +1,7 @@
 # unfurnished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfurnished.md)
+
 <p><span class="chinese">这个公寓什麽时候可以出租？</span><span class="english">Is the apartment furnished or unfurnished?</span></p>
 
 <p><span class="chinese">拥有家具设备，如果无傢俱设备也可。</span><span class="english">Have own furniture, so unfurnished will be fine.</span></p>

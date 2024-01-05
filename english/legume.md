@@ -1,5 +1,7 @@
 # legume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legume.md)
+
 <p><span class="chinese">我们从想不到这种豆类，除非它们放在汤里。</span><span class="english">We never think of this legume unless it's in our soup.</span></p>
 
 <p><span class="chinese">任何开裂的干果，尤指荚果或蓇葖果。</span><span class="english">Any dry, dehiscent fruit, especially a legume or follicle.</span></p>

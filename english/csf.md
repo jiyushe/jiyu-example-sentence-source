@@ -1,5 +1,7 @@
 # csf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/csf.md)
+
 <p><span class="chinese">CSF临床应用具有安全性。</span><span class="english">Clinical application of rhG CSF is safety.</span></p>
 
 <p><span class="chinese">所有5例患者都出现脑脊液和血清HCG水平升高。</span><span class="english">CSF and serum HCG levels were elevated in the all 5 patients.</span></p>

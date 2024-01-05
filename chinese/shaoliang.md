@@ -1,5 +1,7 @@
 # 少量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoliang.md)
+
 <p><span class="chinese">加入少量的牛奶和糖，味道更佳。</span><span class="english">Add sugar and milk to taste.</span></p>
 
 <p><span class="chinese">在汤里放少量盐。</span><span class="english">Put a little salt in the soup.</span></p>

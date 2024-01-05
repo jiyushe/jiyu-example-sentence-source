@@ -1,5 +1,7 @@
 # emaciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emaciation.md)
+
 <p><span class="chinese">病畜尸体极度消瘦。</span><span class="english">Carcasses of diseased sheep were extreme emaciation.</span></p>
 
 <p><span class="chinese">他身材中等，显得瘦削，非常地脆弱。</span><span class="english">Of medium height, he was thin to emaciation and extremely delicate.</span></p>

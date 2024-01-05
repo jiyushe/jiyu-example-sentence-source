@@ -1,5 +1,7 @@
 # 得手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deshou.md)
+
 <p><span class="chinese">扒窃钥匙总是得手。</span><span class="english">Pickpocketing keys always works.</span></p>
 
 <p><span class="chinese">而我们不会让他们轻易得手。</span><span class="english">And we won't let them get away with it.</span></p>

@@ -1,5 +1,7 @@
 # minivan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minivan.md)
+
 <p><span class="chinese">谁会买辆521马力的面包车?。</span><span class="english">Who Needs a 521 HP Minivan?</span></p>
 
 <p><span class="chinese">对于我来说，中年危机就是我买了一辆红色的商务车。</span><span class="english">For me, a mid-life crisis is a red minivan.</span></p>

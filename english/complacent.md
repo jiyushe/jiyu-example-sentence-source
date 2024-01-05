@@ -1,5 +1,7 @@
 # complacent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complacent.md)
+
 <p><span class="chinese">我们不能安于现状。</span><span class="english">We cannot be complacent.</span></p>
 
 <p><span class="chinese">若有自满心，就是愚痴。</span><span class="english">Being complacent is stupid.</span></p>

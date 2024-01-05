@@ -1,5 +1,7 @@
 # hunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunt.md)
+
 <p><span class="chinese">狮子追猎斑马。</span><span class="english">Lions hunt zebra.</span></p>
 
 <p><span class="chinese">我追猎那头金鹿！</span><span class="english">I hunt for the golden stag.</span></p>

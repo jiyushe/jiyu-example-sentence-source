@@ -1,5 +1,7 @@
 # observant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observant.md)
+
 <p><span class="chinese">你是个有眼力的人。</span><span class="english">You are an observant man.</span></p>
 
 <p><span class="chinese">属鸡的人观察力非常敏锐。</span><span class="english">Rooster is a very observant person.</span></p>

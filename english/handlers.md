@@ -1,5 +1,7 @@
 # handlers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handlers.md)
+
 <p><span class="chinese">经手此事的人无利可图。</span><span class="english">It does not pay its handlers.</span></p>
 
 <p><span class="chinese">然后，设置回调句柄。</span><span class="english">Then, it sets the callback handlers.</span></p>

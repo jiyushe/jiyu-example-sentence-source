@@ -1,5 +1,7 @@
 # ticking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ticking.md)
+
 <p><span class="chinese">台钟在滴答滴答地响。</span><span class="english">The clock is ticking.</span></p>
 
 <p><span class="chinese">生命的时钟在嘀哒作响。</span><span class="english">That clock is ticking for you.</span></p>

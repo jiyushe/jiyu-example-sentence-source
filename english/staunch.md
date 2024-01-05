@@ -1,5 +1,7 @@
 # staunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staunch.md)
+
 <p><span class="chinese">这种堰称之为拦水坝。</span><span class="english">Such weirs were called staunch.</span></p>
 
 <p><span class="chinese">我是自由贸易的坚定支持者。</span><span class="english">I am a staunch supporter of free trade.</span></p>

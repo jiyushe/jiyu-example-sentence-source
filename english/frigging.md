@@ -1,5 +1,7 @@
 # frigging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frigging.md)
+
 <p><span class="chinese">谁把这儿搞得一团糟?。</span><span class="english">Who made this frigging mess?</span></p>
 
 <p><span class="chinese">上帝给人类最可怕的礼物。</span><span class="english">Dod's frigging gift to humanity.</span></p>

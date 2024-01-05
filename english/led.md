@@ -1,5 +1,7 @@
 # led
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/led.md)
+
 <p><span class="chinese">他先出了一张方块。</span><span class="english">He led a diamond.</span></p>
 
 <p><span class="chinese">她被引入歧途。</span><span class="english">She was led astray.</span></p>

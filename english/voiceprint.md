@@ -1,5 +1,7 @@
 # voiceprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voiceprint.md)
+
 <p><span class="chinese">最好的示例是使用声纹来认证。</span><span class="english">The best example is using a voiceprint for authentication.</span></p>
 
 <p><span class="chinese">我们利用声模认出了凶手。</span><span class="english">We have succeeded in identifying the murderer by using a voiceprint.</span></p>

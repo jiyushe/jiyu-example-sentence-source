@@ -1,5 +1,7 @@
 # 余力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuli.md)
+
 <p><span class="chinese">你有没有余力去做更多的事情？</span><span class="english">Do you have reserve power to do more?</span></p>
 
 <p><span class="chinese">我觉得你是心有余力而力不足。</span><span class="english">I'm just not sure you're feeling up to it.</span></p>

@@ -1,5 +1,7 @@
 # lsu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lsu.md)
+
 <p><span class="chinese">不过，路易斯安那州立大学是不堪重负，这小马是一个福利情况。</span><span class="english">But LSU was overwhelmed, and this pony was a welfare case.</span></p>
 
 <p><span class="chinese">我开始在巴吞鲁日的路易斯安那州立大学，但现在我在联合国办事处在新奥尔良。</span><span class="english">I started at LSU in Baton Rouge but, now I'm at UNO in New Orleans.</span></p>

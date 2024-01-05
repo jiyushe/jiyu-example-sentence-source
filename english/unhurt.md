@@ -1,5 +1,7 @@
 # unhurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhurt.md)
+
 <p><span class="chinese">韩寒和他的领航员都未受伤。</span><span class="english">Han and his navigator remained unhurt.</span></p>
 
 <p><span class="chinese">范和货车内的另外一个人未在车祸中受伤。</span><span class="english">Fan and a second person in the truck were unhurt.</span></p>

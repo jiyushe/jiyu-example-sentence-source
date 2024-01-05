@@ -1,5 +1,7 @@
 # potty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potty.md)
+
 <p><span class="chinese">妈妈，灰姑娘有没有尿盆？</span><span class="english">Does Cinderella have a potty?</span></p>
 
 <p><span class="chinese">这届会议是所谓的厕所平价。</span><span class="english">That session is called Potty Parity.</span></p>

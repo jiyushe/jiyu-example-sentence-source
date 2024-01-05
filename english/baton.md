@@ -1,5 +1,7 @@
 # baton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baton.md)
+
 <p><span class="chinese">鼓女快速转动她指挥棒。</span><span class="english">The drum majorette twirled her baton.</span></p>
 
 <p><span class="chinese">鼓乐队女队长快速地转动她的指挥棒。</span><span class="english">The drum majorette twirled her baton.</span></p>

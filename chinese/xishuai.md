@@ -1,5 +1,7 @@
 # 蟋蟀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishuai.md)
+
 <p><span class="chinese">小猫咪看到了一只蟋蟀。</span><span class="english">The kittens see a cricket.</span></p>
 
 <p><span class="chinese">并不相信这只蟋蟀。</span><span class="english">He didn't believe the cricket.</span></p>

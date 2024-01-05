@@ -1,5 +1,7 @@
 # 筹码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouma.md)
+
 <p><span class="chinese">他赌输掉所有的筹码。</span><span class="english">He has lost all his chips.</span></p>
 
 <p><span class="chinese">看到这些白筹码吗，莉丝?。</span><span class="english">See all those white chips , Lizzie?</span></p>

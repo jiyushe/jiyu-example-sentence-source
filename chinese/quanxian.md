@@ -1,5 +1,7 @@
 # 全线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanxian.md)
+
 <p><span class="chinese">军队已全线溃退。</span><span class="english">The army was in full retreat.</span></p>
 
 <p><span class="chinese">敌军全线撤退。</span><span class="english">The enemy is in full-scale retreat.</span></p>

@@ -1,5 +1,7 @@
 # entrepot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrepot.md)
+
 <p><span class="chinese">第二种类型为“转口贸易型”，以中国香港、新加坡等为代表。</span><span class="english">The other one is "entrepot trade", like Hong Kong and Singapore.</span></p>
 
 <p><span class="chinese">转口贸易曾经是香港经济的重要支柱之一。</span><span class="english">Entrepot trade was once one of the important economic pillars in Hong Kong.</span></p>

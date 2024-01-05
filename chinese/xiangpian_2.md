@@ -1,5 +1,7 @@
 # 香片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpian_2.md)
+
 <p><span class="chinese">茉莉香片是免费的，先生。</span><span class="english">The Jasmine Tea is complimentary, sir.</span></p>
 
 <p><span class="chinese">她的手提包里装著口香片，接吻时吃的糖果。</span><span class="english">Phila of cachous, kissing comfits, in her satchel.</span></p>

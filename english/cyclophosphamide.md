@@ -1,5 +1,7 @@
 # cyclophosphamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclophosphamide.md)
+
 <p><span class="chinese">方法用环磷酰胺诱导淋巴细胞凋亡。</span><span class="english">Methods Apoptosis of lymphocytes was induced with cyclophosphamide.</span></p>
 
 <p><span class="chinese">环磷酰胺、顺铂是临床常用的非选择性烷化剂。</span><span class="english">Cyclophosphamide and Cisplatin are all nonclassical alkylating agent.</span></p>

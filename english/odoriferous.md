@@ -1,5 +1,7 @@
 # odoriferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odoriferous.md)
+
 <p><span class="chinese">香料的芬芳刺激她疲惫的胃口。</span><span class="english">The odoriferous spices stimulated her jaded appetite.</span></p>
 
 <p><span class="chinese">而现在，一项新的研究即将揭开这种散发着臭味的球茎的秘密。</span><span class="english">Now new research is beginning to unlock the secrets of the odoriferous bulb.</span></p>

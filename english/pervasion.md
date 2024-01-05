@@ -1,5 +1,7 @@
 # pervasion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pervasion.md)
+
 <p><span class="chinese">解决了厨房的油烟扩散及污染问题。</span><span class="english">Our kitchen products solve the problem of lampblack pervasion and pollution.</span></p>
 
 <p><span class="chinese">本发明公开了一种背光模块及所使用的扩散板结构。</span><span class="english">The invention discloses a negative phototropism module and its pervasion plate structure.</span></p>

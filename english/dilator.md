@@ -1,5 +1,7 @@
 # dilator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilator.md)
+
 <p><span class="chinese">它由圆球和圆柱两部分组成。</span><span class="english">The dilator is composed of a circular ball and a circular column.</span></p>
 
 <p><span class="chinese">在进行椎弓根攻丝时，最外面的扩张器可起到保护性套筒的作用。</span><span class="english">The outermost dilator can be used as a protective sleeve during pedicle tapping.</span></p>

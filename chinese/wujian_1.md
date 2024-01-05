@@ -1,5 +1,7 @@
 # 物件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujian_1.md)
+
 <p><span class="chinese">清理散乱物件和脏的物品。</span><span class="english">Clean up the clutter and dirtiness.</span></p>
 
 <p><span class="chinese">生活中的物件对我们是一种安慰。</span><span class="english">The stuff of our lives is a comfort.</span></p>

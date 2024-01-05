@@ -1,5 +1,7 @@
 # beanie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beanie.md)
+
 <p><span class="chinese">在你的右边会有一个两端各有一个小帽子的跷跷板。</span><span class="english">To your right will be a see-saw with beanie caps sitting at each end.</span></p>
 
 <p><span class="chinese">学习如何使用特种纱钩针在这个自由的视频无檐小便帽。</span><span class="english">Learn how to use specialty yarn to crochet a beanie in this free video.</span></p>

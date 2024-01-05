@@ -1,5 +1,7 @@
 # 夸大其辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuadaqici_1.md)
+
 <p><span class="chinese">记住，孩子马上就能识破夸大其辞的赞扬。</span><span class="english">Children will soon see through empty praise.</span></p>
 
 <p><span class="chinese">中国批评美国的报告称它夸大其辞。</span><span class="english">China criticised the US report as an exaggeration.</span></p>

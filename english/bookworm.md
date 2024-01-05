@@ -1,5 +1,7 @@
 # bookworm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookworm.md)
+
 <p><span class="chinese">书呆子大叫。</span><span class="english">Bookworm shouted.</span></p>
 
 <p><span class="chinese">他是个书呆子。</span><span class="english">He is a bookworm.</span></p>

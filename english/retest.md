@@ -1,5 +1,7 @@
 # retest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retest.md)
+
 <p><span class="chinese">这表明市场可能会试探21000点的位置。</span><span class="english">This suggests the market can retest the 21000 level.</span></p>
 
 <p><span class="chinese">供印上日后再次试压日期的预留空位。</span><span class="english">Reserved space for marking subsequent pressure retest date.</span></p>

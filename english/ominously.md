@@ -1,5 +1,7 @@
 # ominously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ominously.md)
+
 <p><span class="chinese">纹身男不怀好意的朝我靠了过来。</span><span class="english">The tattooed man leans toward me ominously.</span></p>
 
 <p><span class="chinese">“听着，迈格莱格，”董事长开始说，语气中有不吉利的意思。</span><span class="english">“Listen, McGregor,” the chairman began ominously.</span></p>

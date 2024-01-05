@@ -1,5 +1,7 @@
 # runout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/runout.md)
+
 <p><span class="chinese">这个距离越大，脱落的距离越长。</span><span class="english">A long runout equates to a long fall.</span></p>
 
 <p><span class="chinese">如果我们的钱用完了，可以在广州卖掉一些产品。</span><span class="english">If we runout of money, we can sell some of the products in Guangzhou.</span></p>

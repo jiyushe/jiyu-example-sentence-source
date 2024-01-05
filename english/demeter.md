@@ -1,5 +1,7 @@
 # demeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demeter.md)
+
 <p><span class="chinese">得墨忒尔恍然大悟，但为时已晚。</span><span class="english">Demeter came, but it was too late.</span></p>
 
 <p><span class="chinese">女神德米特照看大地。</span><span class="english">The goddess Demeter looked after the Earth.</span></p>

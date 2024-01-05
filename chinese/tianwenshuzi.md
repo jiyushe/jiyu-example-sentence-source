@@ -1,5 +1,7 @@
 # 天文数字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianwenshuzi.md)
+
 <p><span class="chinese">成本也是个天文数字。</span><span class="english">And the cost can be astronomical.</span></p>
 
 <p><span class="chinese">我们最终得到的Q是一个天文数字。</span><span class="english">Turns out, it is an astronomical number.</span></p>

@@ -1,5 +1,7 @@
 # 方将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangjiang.md)
+
 <p><span class="chinese">方将不支付任何保证金、租金或磨损费用。</span><span class="english">Caution money , rental or cost of wear.</span></p>
 
 <p><span class="chinese">你总能听到哪一方将会获胜的消息。</span><span class="english">Because you get to hear which side will win.</span></p>

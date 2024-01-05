@@ -1,5 +1,7 @@
 # upswing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upswing.md)
+
 <p><span class="chinese">有迹象表明，行市准备上升。</span><span class="english">Market ready upswing as sign indicate.</span></p>
 
 <p><span class="chinese">我们小城里的入室盗窃案一直在上升。</span><span class="english">Burglaries in our town have been on the upswing.</span></p>

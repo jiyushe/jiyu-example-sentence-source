@@ -1,5 +1,7 @@
 # 同人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongren_3.md)
+
 <p><span class="chinese">阅读同人小说。</span><span class="english">Read fan fiction.</span></p>
 
 <p><span class="chinese">你看过同人小说吗？</span><span class="english">Have you read any fan fiction?</span></p>

@@ -1,5 +1,7 @@
 # 推选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixuan.md)
+
 <p><span class="chinese">他们推选了一个新的教皇，本笃十六世。</span><span class="english">They chose a new pope, Benedict XVI.</span></p>
 
 <p><span class="chinese">她被推选为今年的五月节女王。</span><span class="english">She is elected as May Queen this year.</span></p>

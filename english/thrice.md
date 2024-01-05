@@ -1,5 +1,7 @@
 # thrice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrice.md)
+
 <p><span class="chinese">她叫着，连吹口哨三声。</span><span class="english">Quoth she and whistles thrice.</span></p>
 
 <p><span class="chinese">也许一次或两次或最高三次。</span><span class="english">Maybe once or twice or maximum thrice.</span></p>

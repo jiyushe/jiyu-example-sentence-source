@@ -1,5 +1,7 @@
 # phoenicia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoenicia.md)
+
 <p><span class="chinese">其中有强大的，例如埃及、巴比伦、亚述和腓尼基。</span><span class="english">Some of them were great powers, like Egypt, Babylonia, Assyria and Phoenicia.</span></p>
 
 <p><span class="chinese">在此期间，他摧毁了腓尼基，该国是希腊商人的宿敌。</span><span class="english">In the meantime he had destroyed Phoenicia , the old rival of the Greek merchants.</span></p>

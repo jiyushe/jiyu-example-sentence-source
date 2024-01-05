@@ -1,5 +1,7 @@
 # 遍野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianye.md)
+
 <p><span class="chinese">七月的雨纷飞，漫天遍野。</span><span class="english">July fiercely, sky filled by the rain.</span></p>
 
 <p><span class="chinese">我会看见你在阳光里，我将听见你声音遍野。</span><span class="english">I'll see you in the sunlight. I'll hear your voice everywhere.</span></p>

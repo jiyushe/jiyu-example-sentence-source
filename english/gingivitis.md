@@ -1,5 +1,7 @@
 # gingivitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingivitis.md)
+
 <p><span class="chinese">看起来像牙龈炎。</span><span class="english">Looks like gingivitis.</span></p>
 
 <p><span class="chinese">早期龈炎的临床指征？</span><span class="english">Early indications of clinical gingivitis?</span></p>

@@ -1,5 +1,7 @@
 # steamer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steamer.md)
+
 <p><span class="chinese">往下沉的轮船沉没了。</span><span class="english">The sinking steamer sunk.</span></p>
 
 <p><span class="chinese">你们的轮船什么时候启航?</span><span class="english">When does your steamer sail?</span></p>

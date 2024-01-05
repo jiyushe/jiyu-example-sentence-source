@@ -1,5 +1,7 @@
 # providence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/providence.md)
+
 <p><span class="chinese">新普罗维登斯在巴哈马。</span><span class="english">New Providence is in the Bahamas.</span></p>
 
 <p><span class="chinese">而且普罗维登斯还有一个购物中心，</span><span class="english">and also there's the mall in Providence</span></p>

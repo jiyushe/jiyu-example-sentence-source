@@ -1,5 +1,7 @@
 # 深切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqie.md)
+
 <p><span class="chinese">他深切的爱着你。</span><span class="english">He loves you passionately.</span></p>
 
 <p><span class="chinese">我们将深切缅怀吉亚琴托。</span><span class="english">We will miss Giacinto so much.</span></p>

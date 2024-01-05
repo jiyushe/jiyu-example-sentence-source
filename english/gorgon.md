@@ -1,5 +1,7 @@
 # gorgon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gorgon.md)
+
 <p><span class="chinese">他告诉我那是蛇发女怪美杜莎。</span><span class="english">Me that it was Medusa, the Gorgon.</span></p>
 
 <p><span class="chinese">戈耳戈蛇发女妖是神话中的怪物。</span><span class="english">The gorgon was a mythical creature.</span></p>

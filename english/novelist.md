@@ -1,5 +1,7 @@
 # novelist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novelist.md)
+
 <p><span class="chinese">狄更斯是位多产的小说家。</span><span class="english">Dicken's was a fruitful novelist.</span></p>
 
 <p><span class="chinese">他是小说家陆陆天明的儿子。</span><span class="english">He is the son of novelist Lu Tianming.</span></p>

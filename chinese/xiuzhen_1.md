@@ -1,5 +1,7 @@
 # 袖珍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzhen_1.md)
+
 <p><span class="chinese">你喜欢袖珍台历吗？</span><span class="english">Do you like pocket calendars?</span></p>
 
 <p><span class="chinese">我们去找袖珍计算机器！</span><span class="english">Let’s go find a pocket calculator!</span></p>

@@ -1,5 +1,7 @@
 # 腰肢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhi.md)
+
 <p><span class="chinese">一位青年搂着情人的腰肢。</span><span class="english">A yOuth with his arm round his lass.</span></p>
 
 <p><span class="chinese">模特儿款扭腰肢穿过舞台。</span><span class="english">The models ankled through the stage.</span></p>

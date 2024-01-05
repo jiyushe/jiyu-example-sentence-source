@@ -1,5 +1,7 @@
 # 契合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihe.md)
+
 <p><span class="chinese">双背带扣封，确保安全的契合。</span><span class="english">Two strap buckle closure ensures a secure fit.</span></p>
 
 <p><span class="chinese">如果标准契合，配偶即乔迁而来。</span><span class="english">If they meet her standards, mating will follow.</span></p>

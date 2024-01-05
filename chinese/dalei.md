@@ -1,5 +1,7 @@
 # 打雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dalei.md)
+
 <p><span class="chinese">你怕不怕打雷？</span><span class="english">Are you afraid of thunder?</span></p>
 
 <p><span class="chinese">天开始打雷下雨。</span><span class="english">It began to thunder and rain.</span></p>

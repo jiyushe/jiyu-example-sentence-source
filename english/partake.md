@@ -1,5 +1,7 @@
 # partake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partake.md)
+
 <p><span class="chinese">事物可以分有它们</span><span class="english">Things can partake of them.</span></p>
 
 <p><span class="chinese">它们美的程度不一样</span><span class="english">They partake of beauty to varying degrees.</span></p>

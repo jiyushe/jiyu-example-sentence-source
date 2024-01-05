@@ -1,5 +1,7 @@
 # 打击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daji.md)
+
 <p><span class="chinese">哦，不小的打击。</span><span class="english">Ooh low  blow.</span></p>
 
 <p><span class="chinese">这是一个打击。</span><span class="english">This was a blow.</span></p>

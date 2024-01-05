@@ -1,5 +1,7 @@
 # speculative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speculative.md)
+
 <p><span class="chinese">投机房一定是空房。</span><span class="english">Speculative housing must be available.</span></p>
 
 <p><span class="chinese">理论通常是假设性的。</span><span class="english">Theory is very often a purely speculative undertaking.</span></p>

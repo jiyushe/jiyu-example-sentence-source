@@ -1,5 +1,7 @@
 # usefulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usefulness.md)
+
 <p><span class="chinese">它是极有用的。</span><span class="english">It is of the greatest usefulness.</span></p>
 
 <p><span class="chinese">这也是质数非常有用的关键。</span><span class="english">This is also the key to their usefulness.</span></p>

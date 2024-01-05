@@ -1,5 +1,7 @@
 # 海蚀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishi_1.md)
+
 <p><span class="chinese">这里的海蚀现象很严重。</span><span class="english">The transgression is very serious here.</span></p>
 
 <p><span class="chinese">这里就是典型的海蚀地貌了。</span><span class="english">And this is typical marine- abrasion topography.</span></p>

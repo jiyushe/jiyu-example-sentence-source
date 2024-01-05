@@ -1,5 +1,7 @@
 # lessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lessor.md)
+
 <p><span class="chinese">出租人可以说“不”吗？—当然！</span><span class="english">Can the Lessor say No? – Yes!</span></p>
 
 <p><span class="chinese">不要用“出租人”和“承租人”。</span><span class="english">Don't say "Lessor" and "Lessee."</span></p>

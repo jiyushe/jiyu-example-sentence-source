@@ -1,5 +1,7 @@
 # geomagnetism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomagnetism.md)
+
 <p><span class="chinese">Gauthier在上海徐家汇天主教堂开始了地磁观测。</span><span class="english">Gauthier began to carry out his geomagnetism observation in Xujiahui Catholic Church of Shanghai.</span></p>
 
 <p><span class="chinese">地磁对时间预报的贡献较大，但在地点判断上相对困难，预报时地点必须参考其它观测项目。</span><span class="english">Geomagnetism makes a great contribution to the time forecast, but it is difficult to predict the place.</span></p>

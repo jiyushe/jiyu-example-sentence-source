@@ -1,5 +1,7 @@
 # extra 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extra.md)
+
 <p><span class="chinese">没有，咖啡是另计的。</span><span class="english">No, coffee is extra.</span></p>
 
 <p><span class="chinese">并无其他</span><span class="english">There's no extra part.</span></p>

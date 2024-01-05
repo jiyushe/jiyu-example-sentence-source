@@ -1,5 +1,7 @@
 # 通性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxing_3.md)
+
 <p><span class="chinese">它的主要特征是流畅性、变通性和独创性。</span><span class="english">Its main features are fluency, flexibility and originality.</span></p>
 
 <p><span class="chinese">在这方面，他与他同胞的通性是不相同的。</span><span class="english">In this he was different from the generality of his countrymen.</span></p>

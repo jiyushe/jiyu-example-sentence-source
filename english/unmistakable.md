@@ -1,5 +1,7 @@
 # unmistakable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmistakable.md)
+
 <p><span class="chinese">但是证据是确凿的。</span><span class="english">But the evidence is unmistakable.</span></p>
 
 <p><span class="chinese">但是，它也明显带有斯通的风格。</span><span class="english">But there are also unmistakable Stone-isms.</span></p>

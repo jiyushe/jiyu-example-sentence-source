@@ -1,5 +1,7 @@
 # backpack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backpack.md)
+
 <p><span class="chinese">我有一个背囊。</span><span class="english">I have a backpack.</span></p>
 
 <p><span class="chinese">我的背包丢了。</span><span class="english">I lost my backpack.</span></p>

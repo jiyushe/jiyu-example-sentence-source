@@ -1,5 +1,7 @@
 # neurosurgery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurosurgery.md)
+
 <p><span class="chinese">我们在神经外科领域处于显著领先地位。</span><span class="english">We are marked leader in neurosurgery.</span></p>
 
 <p><span class="chinese">谁最近在神经外科的人。</span><span class="english">People who have recently had neurosurgery.</span></p>

@@ -1,5 +1,7 @@
 # bigot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigot.md)
+
 <p><span class="chinese">执拗的人是全聋的演说者。</span><span class="english">A bigot is a stone-deaf orator.</span></p>
 
 <p><span class="chinese">偏执狂是极聋的演说家。</span><span class="english">A bigot is a stone-leaf orator.</span></p>

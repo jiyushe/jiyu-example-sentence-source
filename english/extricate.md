@@ -1,5 +1,7 @@
 # extricate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extricate.md)
+
 <p><span class="chinese">康州大学正在解决林和李的问题。</span><span class="english">UConn is trying to extricate Lin and Li.</span></p>
 
 <p><span class="chinese">鹬鸟用尽力气，也拔不出它的喙来。</span><span class="english">Despite all its efforts, the snipe could not extricate its bill.</span></p>

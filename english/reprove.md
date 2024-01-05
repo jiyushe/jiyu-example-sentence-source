@@ -1,5 +1,7 @@
 # reprove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprove.md)
+
 <p><span class="chinese">我将继续我的邻居谴责。</span><span class="english">I will continue to reprove my neighbors.</span></p>
 
 <p><span class="chinese">我不许你责怪你自己。</span><span class="english">I forbid you to reprove and scold yourself.</span></p>

@@ -1,5 +1,7 @@
 # cms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cms.md)
+
 <p><span class="chinese">建立CMS设备的技术档案。</span><span class="english">Establish technical documents for CMS equipment.</span></p>
 
 <p><span class="chinese">想听听你会提出哪些合作医疗使用。</span><span class="english">Would like to hear which CMS you would propose using.</span></p>

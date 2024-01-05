@@ -1,5 +1,7 @@
 # 永久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongjiu.md)
+
 <p><span class="chinese">溺爱我直到永久。</span><span class="english">To dote upon me ever.</span></p>
 
 <p><span class="chinese">他永久不会健忘那张脸。</span><span class="english">He never forgets a face.</span></p>

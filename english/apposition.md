@@ -1,5 +1,7 @@
 # apposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apposition.md)
+
 <p><span class="chinese">这就是余华小说在空间形式上的并置链。</span><span class="english">That is the apposition chains on space.</span></p>
 
 <p><span class="chinese">红鼻驯鹿鲁道夫和红鼻子驯鹿是同位语最好的例子。</span><span class="english">Rudolph the red-nosed reindeer ' is an example of apposition.</span></p>

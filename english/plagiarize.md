@@ -1,5 +1,7 @@
 # plagiarize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plagiarize.md)
+
 <p><span class="chinese">人们为什么会抄袭呢？</span><span class="english">Why do people plagiarize?</span></p>
 
 <p><span class="chinese">所以我觉得很难抄袭，</span><span class="english">So I think it would be hard to plagiarize</span></p>

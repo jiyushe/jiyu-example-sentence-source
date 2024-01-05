@@ -1,5 +1,7 @@
 # kepler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kepler.md)
+
 <p><span class="chinese">天文学家将这一系统命名为“开普勒-11”。</span><span class="english">Astronomers will be the system named "Kepler -11."</span></p>
 
 <p><span class="chinese">开普勒携带着储备燃料用于任务扩展。</span><span class="english">Kepler has reserve fuel if NASA extends the mission.</span></p>

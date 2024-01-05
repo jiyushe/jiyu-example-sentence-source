@@ -1,5 +1,7 @@
 # strawberry 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strawberry.md)
+
 <p><span class="chinese">做草莓酱。</span><span class="english">Make strawberry jam.</span></p>
 
 <p><span class="chinese">你们有卖草莓吗?</span><span class="english">Do you have strawberry?</span></p>

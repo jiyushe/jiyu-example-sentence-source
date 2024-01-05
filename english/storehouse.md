@@ -1,5 +1,7 @@
 # storehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storehouse.md)
+
 <p><span class="chinese">他是一个见闻广博的人。</span><span class="english">He is a storehouse of information.</span></p>
 
 <p><span class="chinese">仓库爆炸后，仓库保管员感到昏昏然。</span><span class="english">We store our grain into the storehouse.</span></p>

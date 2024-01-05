@@ -1,5 +1,7 @@
 # flair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flair.md)
+
 <p><span class="chinese">菲戈有一手绝活儿。</span><span class="english">Figo has a special flair.</span></p>
 
 <p><span class="chinese">乔有语言天赋。</span><span class="english">Jo has flair for language.</span></p>

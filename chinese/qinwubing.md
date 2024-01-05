@@ -1,5 +1,7 @@
 # 勤务兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinwubing.md)
+
 <p><span class="chinese">他朝着勤务兵的脸野蛮地踹了一脚。</span><span class="english">He launched a brutal kick in batman's face.</span></p>
 
 <p><span class="chinese">每个将军都配有一个勤务兵。</span><span class="english">Every general was accompanied by an orderly.</span></p>

@@ -1,5 +1,7 @@
 # crater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crater.md)
+
 <p><span class="chinese">彗星上的人造陨坑。</span><span class="english">Man-Made Crater on Comet.</span></p>
 
 <p><span class="chinese">杯口，碟边，火山口。</span><span class="english">The lip of a cup, saucer, crater.</span></p>

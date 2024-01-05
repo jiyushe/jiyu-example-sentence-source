@@ -1,5 +1,7 @@
 # embryo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryo.md)
+
 <p><span class="chinese">他所用的是小鸡胚胎。</span><span class="english">And he used a chicken embryo.</span></p>
 
 <p><span class="chinese">成熟胚囊内具七个细胞。</span><span class="english">The mature embryo sac has seven cells.</span></p>

@@ -1,5 +1,7 @@
 # central
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/central.md)
+
 <p><span class="chinese">中央公园，林荫大道。</span><span class="english">The Mall, Central Park.</span></p>
 
 <p><span class="chinese">您看，中间是一条中轴线。</span><span class="english">Look, there's a central axis.</span></p>

@@ -1,5 +1,7 @@
 # 当初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangchu.md)
+
 <p><span class="chinese">当初我为什么要去跟她？</span><span class="english">Why did I follow her?</span></p>
 
 <p><span class="chinese">你当初是怎么跟我说的?</span><span class="english">What did you tell me, eh?</span></p>

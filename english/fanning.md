@@ -1,5 +1,7 @@
 # fanning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanning.md)
+
 <p><span class="chinese">她看到他们的船在扬帆徐进。</span><span class="english">She saw their boat fanning along.</span></p>
 
 <p><span class="chinese">四个奴仆继续为她扇风不止。</span><span class="english">And the four slaves went on fanning her.</span></p>

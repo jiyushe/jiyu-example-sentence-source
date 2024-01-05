@@ -1,5 +1,7 @@
 # 松口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songkou.md)
+
 <p><span class="chinese">松口蘑窝是松口蘑生长发育和产量形成的基础。</span><span class="english">The shiro is the basis of growth, development and yield of Tricholoma matsutake.</span></p>
 
 <p><span class="chinese">本文综述了松口蘑的分布、发生季节、生物学特性及栽培方法等。</span><span class="english">The distribution, growth season, biological characters and cultivation methods of T.</span></p>

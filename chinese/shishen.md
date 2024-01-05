@@ -1,5 +1,7 @@
 # 士绅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishen.md)
+
 <p><span class="chinese">来自土地的收入是衡量是否士绅阶层的真正标准。</span><span class="english">Landed income was the true measure of the gentry.</span></p>
 
 <p><span class="chinese">它败于波兰和立陶宛士绅。</span><span class="english">She was beaten by the Polish and Lithuanian gentry.</span></p>

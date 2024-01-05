@@ -1,5 +1,7 @@
 # 青杨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyang_1.md)
+
 <p><span class="chinese">青杨脊虎天牛雄虫精子分为头部和尾部。</span><span class="english">The sperm of male Xylotechus rusticus composed of head and tail.</span></p>
 
 <p><span class="chinese">本文叙述了对青杨天牛病毒的研究成果。</span><span class="english">This article expatiated about the researching on Saperda populnea Virus.</span></p>

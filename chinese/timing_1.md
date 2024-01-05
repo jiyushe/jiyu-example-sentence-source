@@ -1,5 +1,7 @@
 # 题名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/timing_1.md)
+
 <p><span class="chinese">请题名留念。</span><span class="english">Please give your autograph as a memento.</span></p>
 
 <p><span class="chinese">他给字典题名为“我们的环境”。</span><span class="english">He entitled the dictionary "Our environment".</span></p>

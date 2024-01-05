@@ -1,5 +1,7 @@
 # 取乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qule.md)
+
 <p><span class="chinese">只是为了取乐。</span><span class="english">Just for the fun of it.</span></p>
 
 <p><span class="chinese">有些人以干荒唐事取乐。</span><span class="english">Some amuse themselves in folly.</span></p>

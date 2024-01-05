@@ -1,5 +1,7 @@
 # geothermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geothermic.md)
+
 <p><span class="chinese">该工厂使用地热能源，自然采光和自然通风。</span><span class="english">The factory uses geothermic energy, natural lighting and natural ventilation.</span></p>
 
 <p><span class="chinese">燕山期主要的热流异常中心是成矿的有利部位。</span><span class="english">The major centers of the Yansanian geothermic anomaly were favorable for ore deposits.</span></p>

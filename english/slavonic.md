@@ -1,5 +1,7 @@
 # slavonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slavonic.md)
+
 <p><span class="chinese">大调为钢琴四手联弹而作的第9斯拉夫舞曲。</span><span class="english">Slavonic Dance No. 9 for piano, 4 hands in B major.</span></p>
 
 <p><span class="chinese">e小调为钢琴四手联弹而作的第10斯拉夫舞曲。</span><span class="english">Slavonic Dance No. 10 for piano, 4 hands in E minor.</span></p>

@@ -1,5 +1,7 @@
 # 铺子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puzi_1.md)
+
 <p><span class="chinese">我管理这个铺子。</span><span class="english">I'm ruing this shop.</span></p>
 
 <p><span class="chinese">他两手叉腰，站在铺子前。</span><span class="english">Children standing with arms akimbo.</span></p>

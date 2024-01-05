@@ -1,5 +1,7 @@
 # dispirited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispirited.md)
+
 <p><span class="chinese">我感到灰心丧气。</span><span class="english">I felt dispirited.</span></p>
 
 <p><span class="chinese">你看起来有些沮丧。</span><span class="english">You look dispirited.</span></p>

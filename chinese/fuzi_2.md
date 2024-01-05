@@ -1,5 +1,7 @@
 # 浮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzi_2.md)
+
 <p><span class="chinese">浮子就是浮漂。</span><span class="english">Bobber is floating drift.</span></p>
 
 <p><span class="chinese">你是一个新的浮子患者？</span><span class="english">Are you a new floater sufferer?</span></p>

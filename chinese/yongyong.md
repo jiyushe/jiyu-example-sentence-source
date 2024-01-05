@@ -1,5 +1,7 @@
 # 喁喁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyong.md)
+
 <p><span class="chinese">那对年轻夫妇总是情话喁喁。</span><span class="english">The young couple are always occupied with endless whispers of love.</span></p>
 
 <p><span class="chinese">你听起来像在悲叹，一只如鸽般喁喁细语的蝴蝶。</span><span class="english">It sounds as though you are lamenting, a butterfly cooing like a dove.</span></p>

@@ -1,5 +1,7 @@
 # 天皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianhuang.md)
+
 <p><span class="chinese">日本天皇的权利是象征性的。</span><span class="english">The power of Mikado in Japan is symbolic.</span></p>
 
 <p><span class="chinese">胡锦涛致电日本天皇表示慰问。</span><span class="english">Hu extends condolences to Japanese emperor.</span></p>

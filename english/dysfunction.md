@@ -1,5 +1,7 @@
 # dysfunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysfunction.md)
+
 <p><span class="chinese">供指无明显功能障碍。</span><span class="english">The donor finger had no finger dysfunction.</span></p>
 
 <p><span class="chinese">足部供区无明显功能障碍。</span><span class="english">No dysfunction of the donor foot was observed.</span></p>

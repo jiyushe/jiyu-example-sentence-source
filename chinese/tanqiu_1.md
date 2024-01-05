@@ -1,5 +1,7 @@
 # 贪求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanqiu_1.md)
+
 <p><span class="chinese">贝索斯没有贪求赢利。</span><span class="english">Bezos was not profit-hungry.</span></p>
 
 <p><span class="chinese">这让他进而贪求丰美的食物。</span><span class="english">This created a craving for rich food.</span></p>

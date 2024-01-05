@@ -1,5 +1,7 @@
 # divan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divan.md)
+
 <p><span class="chinese">会议厅的门大开著。</span><span class="english">The door to the divan was wide open.</span></p>
 
 <p><span class="chinese">长沙发椅在离她三尺远的地方。</span><span class="english">Within three feet of her was the divan.</span></p>

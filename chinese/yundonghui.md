@@ -1,5 +1,7 @@
 # 运动会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundonghui.md)
+
 <p><span class="chinese">室内运动会。</span><span class="english">Indoor Olympics.</span></p>
 
 <p><span class="chinese">英联邦运动会就是主要的例子。</span><span class="english">CWG is the prime example.</span></p>

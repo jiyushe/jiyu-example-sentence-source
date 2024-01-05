@@ -1,5 +1,7 @@
 # showplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showplace.md)
+
 <p><span class="chinese">我在湖北省地方戏曲剧院工作。</span><span class="english">I am working in a drama showplace.</span></p>
 
 <p><span class="chinese">新主人把那幢旧房子装修得富丽堂皇。</span><span class="english">The new owner transformed the old house into a showplace.</span></p>

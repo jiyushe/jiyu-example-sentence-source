@@ -1,5 +1,7 @@
 # mysticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mysticism.md)
+
 <p><span class="chinese">因为在很多方面，这听上去像神秘主义。</span><span class="english">Because in many ways, this sounds like mysticism.</span></p>
 
 <p><span class="chinese">香烛的烟雾增加了这里的神秘氛围。</span><span class="english">The smoke only adds to the mysticism of the place.</span></p>

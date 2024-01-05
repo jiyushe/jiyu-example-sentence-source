@@ -1,5 +1,7 @@
 # insolent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insolent.md)
+
 <p><span class="chinese">你的土地，你这傲慢的贱人！</span><span class="english">Your land, insolent slut!</span></p>
 
 <p><span class="chinese">她对他的傲慢的言论发怒。</span><span class="english">She bristled at his insolent remarks.</span></p>

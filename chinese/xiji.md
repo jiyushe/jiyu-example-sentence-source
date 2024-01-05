@@ -1,5 +1,7 @@
 # 希冀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiji.md)
+
 <p><span class="chinese">冯战强一直有这样的希冀。</span><span class="english">Mr Zhanqiang have such a hope has been.</span></p>
 
 <p><span class="chinese">并且在那地，希冀着，最后真正的疯狂。</span><span class="english">And there , mayhap , true madness at last.</span></p>

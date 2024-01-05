@@ -1,5 +1,7 @@
 # 依次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yici_1.md)
+
 <p><span class="chinese">她依次数说她的罪恶。</span><span class="english">She recounted her sins.</span></p>
 
 <p><span class="chinese">我将依次指导您进行每一个步骤。</span><span class="english">I'll walk you through each step in turn.</span></p>

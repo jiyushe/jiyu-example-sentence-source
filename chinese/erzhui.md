@@ -1,5 +1,7 @@
 # 耳坠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erzhui.md)
+
 <p><span class="chinese">这耳坠中间是一块翡翠，四周镶著珍珠。</span><span class="english">The pendant was set with pearls surrounding an emerald.</span></p>
 
 <p><span class="chinese">今天，我把新买的耳坠借一位朋友。</span><span class="english">Today, I lent my brand new earrings to one of my friends.</span></p>

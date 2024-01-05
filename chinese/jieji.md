@@ -1,5 +1,7 @@
 # 接济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieji.md)
+
 <p><span class="chinese">接济他俩钱儿。</span><span class="english">Help him with some money.</span></p>
 
 <p><span class="chinese">你来接济我，你真是太好了。</span><span class="english">Itas very nice of you to help me.</span></p>

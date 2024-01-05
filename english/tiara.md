@@ -1,5 +1,7 @@
 # tiara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiara.md)
+
 <p><span class="chinese">你该考虑一下冠状头饰。</span><span class="english">You might consider a tiara.</span></p>
 
 <p><span class="chinese">挑一条面纱、一个头饰并与礼服风格相吻合。</span><span class="english">Pick a veil and tiara that match the dress.</span></p>

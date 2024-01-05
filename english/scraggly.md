@@ -1,5 +1,7 @@
 # scraggly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scraggly.md)
+
 <p><span class="chinese">哪里只有有蓬乱的灌木。</span><span class="english">There were some scraggly bushes, but that was all.</span></p>
 
 <p><span class="chinese">那里只有有蓬乱的灌木。</span><span class="english">There were some scraggly bushes, but that was all.</span></p>

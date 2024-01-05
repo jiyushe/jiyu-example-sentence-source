@@ -1,5 +1,7 @@
 # varsity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varsity.md)
+
 <p><span class="chinese">我们的赛艇队，我们有一个大学代表队。</span><span class="english">Our rowing team, we have a varsity program.</span></p>
 
 <p><span class="chinese">你在学校篮球队打球，是吗？</span><span class="english">“You play varsity basketball, right?” I said.</span></p>

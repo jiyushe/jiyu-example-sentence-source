@@ -1,5 +1,7 @@
 # dissent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissent.md)
+
 <p><span class="chinese">他们可以自由地异议</span><span class="english">They were free to dissent.</span></p>
 
 <p><span class="chinese">老师笑着表示不同意。</span><span class="english">The teacher laughed her dissent.</span></p>

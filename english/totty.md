@@ -1,5 +1,7 @@
 # totty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totty.md)
+
 <p><span class="chinese">斯帕莱蒂则用小将梅内换下托蒂。</span><span class="english">Si handkerchief Lettie uses in the young fellow plum to change Totty.</span></p>
 
 <p><span class="chinese">第9分钟，托蒂远射还以颜色，可惜皮球射高。</span><span class="english">The 9th minute, Totty long-range returns the favor, what a pity rubber ball altitude range.</span></p>

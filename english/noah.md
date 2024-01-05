@@ -1,5 +1,7 @@
 # noah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noah.md)
+
 <p><span class="chinese">诺亚信靠了神。</span><span class="english">Noah trusted God.</span></p>
 
 <p><span class="chinese">艾莉会为了诺亚放弃罗恩吗？</span><span class="english">Will Allie leave Lon for Noah?</span></p>

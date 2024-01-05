@@ -1,5 +1,7 @@
 # glider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glider.md)
+
 <p><span class="chinese">这种感觉，就好像滑翔机根本就不在我身上一样。</span><span class="english">It was as if the glider wasn't there.</span></p>
 
 <p><span class="chinese">那架滑翔机由绞车拖离地面。</span><span class="english">The glider was winched off the ground.</span></p>

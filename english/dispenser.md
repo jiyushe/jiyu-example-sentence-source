@@ -1,5 +1,7 @@
 # dispenser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispenser.md)
+
 <p><span class="chinese">液化石油气加气机。</span><span class="english">Liquefied Petroleum Gas Dispenser.</span></p>
 
 <p><span class="chinese">药剂师立刻照处方为我配了药。</span><span class="english">The dispenser quickly filled the prescription for me.</span></p>

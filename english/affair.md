@@ -1,5 +1,7 @@
 # affair 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affair.md)
+
 <p><span class="chinese">做事二心一意。</span><span class="english">One affair at a time.</span></p>
 
 <p><span class="chinese">你知道那件桃色新闻吗？</span><span class="english">Do you know that affair ?</span></p>

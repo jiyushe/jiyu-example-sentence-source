@@ -1,5 +1,7 @@
 # 整备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbei.md)
+
 <p><span class="chinese">死者和伤者都分布于士兵整备中心周围。</span><span class="english">All the dead and wounded were in the area around the centre.</span></p>
 
 <p><span class="chinese">对其实施整备作业是有效管理的一个重要环节。</span><span class="english">Conditioning is an important step in whole management process.</span></p>

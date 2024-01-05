@@ -1,5 +1,7 @@
 # numbered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numbered.md)
+
 <p><span class="chinese">他的迷思有如下四个。</span><span class="english">These myths numbered four.</span></p>
 
 <p><span class="chinese">P-45的日子可能屈指可数了。</span><span class="english">P-45's days may be numbered.</span></p>

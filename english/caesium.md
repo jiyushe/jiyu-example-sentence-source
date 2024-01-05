@@ -1,5 +1,7 @@
 # caesium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caesium.md)
+
 <p><span class="chinese">还发现了放射性铯。</span><span class="english">Radioactive caesium has also been detected.</span></p>
 
 <p><span class="chinese">周五时从东京的自来水中检测到放射性碘，现在出现了放射性铯。</span><span class="english">Tokyo's tap water, where iodine turned up Friday, now has caesium as well.</span></p>

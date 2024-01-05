@@ -1,5 +1,7 @@
 # 分散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fensan.md)
+
 <p><span class="chinese">分散式团队。</span><span class="english">Distributed teams.</span></p>
 
 <p><span class="chinese">到底什么事物能让你的注意力分散呢？</span><span class="english">What distracts you?</span></p>

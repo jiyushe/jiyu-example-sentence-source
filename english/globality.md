@@ -1,5 +1,7 @@
 # globality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globality.md)
+
 <p><span class="chinese">非线性和整体性是生物的两个基本特征。</span><span class="english">The nonlinearity and globality are two basic characters in biology.</span></p>
 
 <p><span class="chinese">21世纪，经济全球化已成为不可逆转的发展趋势。</span><span class="english">In the 21th century, economy globality has been a development tendency.</span></p>

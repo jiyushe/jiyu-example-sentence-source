@@ -1,5 +1,7 @@
 # 棋逢对手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifengduishou.md)
+
 <p><span class="chinese">两校学生棋逢对手、各有千秋，比赛在友好的气氛中顺利进行。</span><span class="english">The match went with a swing in a friendly atmosphere.</span></p>
 
 <p><span class="chinese">赛跑选手们棋逢对手，比赛非常激烈。</span><span class="english">The runners were a good match and ran a very close race.</span></p>

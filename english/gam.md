@@ -1,5 +1,7 @@
 # gam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gam.md)
+
 <p><span class="chinese">我是来自香港的张小柑。</span><span class="english">My name is Gam come from hong kong.</span></p>
 
 <p><span class="chinese">可口可乐是一家基于美国的全球帐户管理公司。</span><span class="english">Coke is a GAM account based out of the US.</span></p>

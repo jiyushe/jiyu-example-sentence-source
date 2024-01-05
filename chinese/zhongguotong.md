@@ -1,5 +1,7 @@
 # 中国通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongguotong.md)
+
 <p><span class="chinese">你真是一个中国通。</span><span class="english">You really are a China hand.</span></p>
 
 <p><span class="chinese">中国通，让你和中国短信相通。</span><span class="english">Trysms lets you chat with China by SMS.</span></p>

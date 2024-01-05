@@ -1,5 +1,7 @@
 # 红利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongli.md)
+
 <p><span class="chinese">你知道他刚拿到了红利。</span><span class="english">You know he just got his bonus.</span></p>
 
 <p><span class="chinese">一些封闭投资基金还提供红利。</span><span class="english">Some closed-end funds offer dividends.</span></p>

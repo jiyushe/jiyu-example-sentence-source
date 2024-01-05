@@ -1,5 +1,7 @@
 # alkalescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkalescence.md)
+
 <p><span class="chinese">组氨酸是含咪唑核的碱性氨基酸。</span><span class="english">L-histidine is an alkalescence amino acid with an imidazole group.</span></p>
 
 <p><span class="chinese">版基上的冷敏涂层干不朱，并且不溶于碱性药火。</span><span class="english">On the base of the thermal coating, and insoluble in alkalescence.</span></p>

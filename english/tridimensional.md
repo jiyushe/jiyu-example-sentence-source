@@ -1,5 +1,7 @@
 # tridimensional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tridimensional.md)
+
 <p><span class="chinese">但我会说他也非常的有深度。</span><span class="english">But he also is very tridimensional I would say.</span></p>
 
 <p><span class="chinese">自动立体停车库在这个严峻形势下应运而生。</span><span class="english">The automatic tridimensional garage is born in this grim situation.</span></p>

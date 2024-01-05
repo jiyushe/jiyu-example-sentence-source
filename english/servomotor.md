@@ -1,5 +1,7 @@
 # servomotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servomotor.md)
+
 <p><span class="chinese">它只有一个伺服电机控制。</span><span class="english">It only controls one servomotor.</span></p>
 
 <p><span class="chinese">该光电管控制着一个伺服电动机。</span><span class="english">The photoelectric cell controls a servomotor.</span></p>

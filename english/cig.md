@@ -1,5 +1,7 @@
 # cig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cig.md)
+
 <p><span class="chinese">你们报的是到岸价仍是离岸价?。</span><span class="english">Do you quote CIG or FOB?</span></p>
 
 <p><span class="chinese">你们报的是到岸价照旧离岸价?。</span><span class="english">do you quote cig or fob?</span></p>

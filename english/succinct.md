@@ -1,5 +1,7 @@
 # succinct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succinct.md)
+
 <p><span class="chinese">最后这段话概括性很强。</span><span class="english">The last paragraph is a succinct summary.</span></p>
 
 <p><span class="chinese">通常来说，越简洁的文章，越具说服力。</span><span class="english">Generally the more succinct a paper the more compelling it is.</span></p>

@@ -1,5 +1,7 @@
 # pliocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pliocene.md)
+
 <p><span class="chinese">现代人类第一代可辨认的祖先就是在上新世进化而来。</span><span class="english">The first recognisable ancestors of modern humans evolved during the Pliocene epoch.</span></p>
 
 <p><span class="chinese">它们现在的构造格局基本上是在晚上新世或早更新世奠定的。</span><span class="english">Their tectonic framework was basically underlain in early Pleistocene or late Pliocene.</span></p>

@@ -1,5 +1,7 @@
 # cysticercosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cysticercosis.md)
+
 <p><span class="chinese">分析其在各个病理阶段的MRI表现。</span><span class="english">The MRI manifestations of cerebral cysticercosis in various stages were analysed.</span></p>
 
 <p><span class="chinese">目的分析MRI对于不同时期脑囊虫病的诊断价值。</span><span class="english">Objective To evaluate MRI in the diagnosis of cerebral cysticercosis in different stages.</span></p>

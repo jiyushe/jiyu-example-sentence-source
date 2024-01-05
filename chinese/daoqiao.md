@@ -1,5 +1,7 @@
 # 刀鞘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoqiao.md)
+
 <p><span class="chinese">他把刀从刀鞘里抽出来。</span><span class="english">He drew his knife from its sheath.</span></p>
 
 <p><span class="chinese">你把刀插回刀鞘里了吗？</span><span class="english">Have you put the knife in the case?</span></p>

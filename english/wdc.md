@@ -1,5 +1,7 @@
 # wdc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wdc.md)
+
 <p><span class="chinese">事实上，IDSF从不对WDC的行为进行还击。</span><span class="english">In fact, IDSF never takes action in reaction to WDC.</span></p>
 
 <p><span class="chinese">看起来他们最近的状态不错，特别是最近的比赛给他们带来不少的信心，我们期待下吧。</span><span class="english">Seems to be in good shape for WDC judging by v1lat's confidence, but we'll see.</span></p>

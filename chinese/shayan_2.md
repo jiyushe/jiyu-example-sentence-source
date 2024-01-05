@@ -1,5 +1,7 @@
 # 砂眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shayan_2.md)
+
 <p><span class="chinese">不均匀，甚至在某些地方出现砂眼等故障。</span><span class="english">UN-uniform, and even in some parts sand hole, and so on.</span></p>
 
 <p><span class="chinese">砂眼。打光后可以达到镜面效果。</span><span class="english">Trachoma. Lighting can be achieved after the mirror effect.</span></p>

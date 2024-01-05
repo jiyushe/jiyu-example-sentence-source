@@ -1,5 +1,7 @@
 # 雁行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhang.md)
+
 <p><span class="chinese">这是因为日本奉行所谓“雁行发展模式”的结果。</span><span class="english">This is the result of the "swan ranks development model".</span></p>
 
 <p><span class="chinese">它们走向北西，雁行斜列，左行走滑。</span><span class="english">They are all northwest strikes, echelons and left-lateral strike-slips.</span></p>

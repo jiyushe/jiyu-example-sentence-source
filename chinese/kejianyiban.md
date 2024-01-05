@@ -1,5 +1,7 @@
 # 可见一斑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejianyiban.md)
+
 <p><span class="chinese">佟佳氏的势力地位由此可见一斑。</span><span class="english">Tong Jia Shi status of forces is obvious.</span></p>
 
 <p><span class="chinese">教皇制度的庐山真面目，于此可见一斑。</span><span class="english">Here is displayed the true spirit of popery.</span></p>

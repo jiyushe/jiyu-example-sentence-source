@@ -1,5 +1,7 @@
 # 视网膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwangmo.md)
+
 <p><span class="chinese">而鹰的视网膜具有一百万个棒状细胞。</span><span class="english">An eagle has about a million.</span></p>
 
 <p><span class="chinese">RRD是视网膜脱离的主要类型之一。</span><span class="english">RRD is the main type of retina disease.</span></p>

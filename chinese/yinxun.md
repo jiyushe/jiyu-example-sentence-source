@@ -1,5 +1,7 @@
 # 音讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxun.md)
+
 <p><span class="chinese">听到这个音讯，我很兴奋。</span><span class="english">B- I'm excited by the news.</span></p>
 
 <p><span class="chinese">她听到这好音讯脸上显露了忧色。</span><span class="english">Her face lighted up at the good news.</span></p>

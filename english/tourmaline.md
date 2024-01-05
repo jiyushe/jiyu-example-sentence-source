@@ -1,5 +1,7 @@
 # tourmaline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tourmaline.md)
+
 <p><span class="chinese">纳米银电气石陶瓷板。</span><span class="english">Nano Silver tourmaline ceramic plates.</span></p>
 
 <p><span class="chinese">这是一颗来自印度的经打磨后光洁的电气石。</span><span class="english">A polished tourmaline from India gleams.</span></p>

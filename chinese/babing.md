@@ -1,5 +1,7 @@
 # 把柄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/babing.md)
+
 <p><span class="chinese">黄铜棒被用作把柄。</span><span class="english">Brasss rod was used for the handles.</span></p>
 
 <p><span class="chinese">另外，必须拿到控制常福的把柄。</span><span class="english">In addition, must get control Chang Fu.</span></p>

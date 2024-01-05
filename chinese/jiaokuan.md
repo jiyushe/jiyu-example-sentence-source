@@ -1,5 +1,7 @@
 # 交款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaokuan.md)
+
 <p><span class="chinese">请到付款台去交款。</span><span class="english">Please pay at the cash desk.</span></p>
 
 <p><span class="chinese">请您到收款处交款。</span><span class="english">Will you pay at the desk, please?</span></p>

@@ -1,5 +1,7 @@
 # 仔仔细细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizixixi.md)
+
 <p><span class="chinese">公寓被仔仔细细地打扫过了。</span><span class="english">The flat had been meticulously cleaned.</span></p>
 
 <p><span class="chinese">我要仔仔细细讲多少遍？</span><span class="english">How many times do I have to spell it out?</span></p>

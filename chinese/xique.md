@@ -1,5 +1,7 @@
 # 喜鹊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xique.md)
+
 <p><span class="chinese">喜鹊整天在喳喳叫。</span><span class="english">The magpies call all day long.</span></p>
 
 <p><span class="chinese">不过喜鹊不会去加利福尼亚的。</span><span class="english">But Magpie would not go to California.</span></p>

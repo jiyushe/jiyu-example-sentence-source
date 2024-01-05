@@ -1,5 +1,7 @@
 # unanimously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unanimously.md)
+
 <p><span class="chinese">人们一致选举他当总统。</span><span class="english">He was unanimously elected as President.</span></p>
 
 <p><span class="chinese">该法案在初审时全票通过。</span><span class="english">On first reading, the bill passed unanimously.</span></p>

@@ -1,5 +1,7 @@
 # troop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troop.md)
+
 <p><span class="chinese">上星期一支伪军部队起义了。</span><span class="english">A puppet troop revolted last week.</span></p>
 
 <p><span class="chinese">时而一群少女嬉戏。</span><span class="english">Sometimes a troop of damsels glad.</span></p>

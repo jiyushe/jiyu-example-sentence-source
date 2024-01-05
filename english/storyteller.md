@@ -1,5 +1,7 @@
 # storyteller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storyteller.md)
+
 <p><span class="chinese">斯蒂芬·金是讲故事的大师。</span><span class="english">A master storyteller.</span></p>
 
 <p><span class="chinese">他是我们的说书人。</span><span class="english">He was our storyteller.</span></p>

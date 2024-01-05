@@ -1,5 +1,7 @@
 # calculational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculational.md)
+
 <p><span class="chinese">介绍了几种系统可靠性模型及其相应的可靠性计算方法。</span><span class="english">Several system reliability models and their calculational methods are introduced.</span></p>
 
 <p><span class="chinese">文章对玻璃表面憎水膜上躺滴的数学模型进行了理论研究，得出了接触角的计算结果。</span><span class="english">The standard shape curve of different lying droplet can be drawn up by the calculational formula and result.</span></p>

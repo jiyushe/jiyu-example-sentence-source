@@ -1,5 +1,7 @@
 # 峥嵘岁月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengrongsuiyue.md)
+
 <p><span class="chinese">这首诗非常形象地概括了那段峥嵘岁月。</span><span class="english">This poem sums up that period very vividly memorable days.</span></p>
 
 <p><span class="chinese">忆往昔峥嵘岁月，望未来前程更辉煌。</span><span class="english">Recall the eventful years, look forward to prosperous future.</span></p>

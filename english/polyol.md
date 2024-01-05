@@ -1,5 +1,7 @@
 # polyol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyol.md)
+
 <p><span class="chinese">本发明公开了具有多元醇分子的缓慢溶解锭剂。</span><span class="english">A slow-dissolving troche with polyol molecules is disclosed.</span></p>
 
 <p><span class="chinese">以自产聚醚多元醇为主要原料，试制成普通块状软泡。</span><span class="english">Flexible slabstock foam was prepared by self made polyether polyol.</span></p>

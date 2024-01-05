@@ -1,5 +1,7 @@
 # 粽子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzi.md)
+
 <p><span class="chinese">粽子是大枣和葡萄干的，甜甜的。</span><span class="english">Dumplings are dates and raisins, sweet.</span></p>
 
 <p><span class="chinese">艾丽斯喜爱没有红豆的甜味粽子。</span><span class="english">Alice loves the sweet ones without red beans.</span></p>

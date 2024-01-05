@@ -1,5 +1,7 @@
 # flying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flying.md)
+
 <p><span class="chinese">我讨厌坐飞机。</span><span class="english">I hate flying.</span></p>
 
 <p><span class="chinese">飞龙在天。</span><span class="english">A flying dragon.</span></p>

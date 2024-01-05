@@ -1,5 +1,7 @@
 # chiffon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiffon.md)
+
 <p><span class="chinese">柔美而精致的一款雪纺裙。</span><span class="english">Soft and delicate one paragraph chiffon skirt.</span></p>
 
 <p><span class="chinese">雪纺绸是一种几货透镊的丝资薄织物。</span><span class="english">Chiffon is a kind of almost transparent fabric.</span></p>

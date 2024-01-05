@@ -1,5 +1,7 @@
 # scorer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorer.md)
+
 <p><span class="chinese">不过，罗斯同时也是球队的第一得分手。</span><span class="english">But Rose is also the primary scorer.</span></p>
 
 <p><span class="chinese">他夸他是最高的得分手。</span><span class="english">He bragged that he was the highest scorer.</span></p>

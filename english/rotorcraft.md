@@ -1,5 +1,7 @@
 # rotorcraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotorcraft.md)
+
 <p><span class="chinese">但它们是一种特殊的旋翼机。</span><span class="english">But they're a special kind of rotorcraft.</span></p>
 
 <p><span class="chinese">一般来说，直升机都是旋翼机。</span><span class="english">Generally speaking, helicopters are rotorcraft.</span></p>

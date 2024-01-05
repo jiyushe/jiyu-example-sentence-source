@@ -1,5 +1,7 @@
 # 不然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buran.md)
+
 <p><span class="chinese">愚以为不然。</span><span class="english">I do not agree.</span></p>
 
 <p><span class="chinese">但是宗教不然。</span><span class="english">Religion is not.</span></p>

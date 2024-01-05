@@ -1,5 +1,7 @@
 # 重生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongsheng_2.md)
+
 <p><span class="chinese">也许又一个浴火重生的故事。</span><span class="english">Perhaps another story.</span></p>
 
 <p><span class="chinese">在长梦中重生。</span><span class="english">Respawn in the long dream.</span></p>

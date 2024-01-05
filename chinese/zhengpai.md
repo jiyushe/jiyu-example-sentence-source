@@ -1,5 +1,7 @@
 # 正派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengpai.md)
+
 <p><span class="chinese">他为人正派。</span><span class="english">He is a man of decency.</span></p>
 
 <p><span class="chinese">他行为不正派。</span><span class="english">He is a man of decency.</span></p>

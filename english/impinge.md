@@ -1,5 +1,7 @@
 # impinge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impinge.md)
+
 <p><span class="chinese">她的意见将影响我的决定。</span><span class="english">Her opinion will impinge on my decision.</span></p>
 
 <p><span class="chinese">他听见雨水冲击着窗子的声音。</span><span class="english">He heard the rain impinge on the windows.</span></p>

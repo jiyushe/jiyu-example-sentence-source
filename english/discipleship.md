@@ -1,5 +1,7 @@
 # discipleship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discipleship.md)
+
 <p><span class="chinese">带领门徒包括传福音，但是在此基础上拓展了。</span><span class="english">Discipleship includes evangelism, but it extends beyond it.�</span></p>
 
 <p><span class="chinese">我会把传福音归在带领门徒的施洗那部分。</span><span class="english">I would include evangelism under the baptizing part of discipleship.�</span></p>

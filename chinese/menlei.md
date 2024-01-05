@@ -1,5 +1,7 @@
 # 门类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menlei.md)
+
 <p><span class="chinese">他们属于同一门类。</span><span class="english">They are of the same class.</span></p>
 
 <p><span class="chinese">这个门类下的乳酪大军可谓浩浩荡荡。</span><span class="english">A great range of cheeses fall into this category.</span></p>

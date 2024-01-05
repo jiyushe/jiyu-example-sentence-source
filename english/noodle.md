@@ -1,5 +1,7 @@
 # noodle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noodle.md)
+
 <p><span class="chinese">他加了一些盐巴在面里面。</span><span class="english">He add some salt in the noodle.</span></p>
 
 <p><span class="chinese">这里有汤面吗？</span><span class="english">Do you have Chinese noodle soup?</span></p>

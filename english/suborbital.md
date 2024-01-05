@@ -1,5 +1,7 @@
 # suborbital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suborbital.md)
+
 <p><span class="chinese">但是他的亚轨道飞行仅仅持续了15分钟。</span><span class="english">But his suborbital hop lasted just 15 minutes.</span></p>
 
 <p><span class="chinese">自由7号宇宙飞船共进行了长达15分钟的轨道外飞行。</span><span class="english">The Freedom 7 capsule made a suborbital flight lasting 15 minutes.</span></p>

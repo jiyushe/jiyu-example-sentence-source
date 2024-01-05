@@ -1,5 +1,7 @@
 # scarab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarab.md)
+
 <p><span class="chinese">埃及圣甲虫其实就是蜣螂。</span><span class="english">The Egyptian sacred scarab is a dung beetle.</span></p>
 
 <p><span class="chinese">圣甲虫像用于记录历史性事件。</span><span class="english">The scarab image was used for recording historical events.</span></p>

@@ -1,5 +1,7 @@
 # 地震波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhenbo.md)
+
 <p><span class="chinese">这次地震波及周围几个城市。</span><span class="english">This earthquake affected several cities in the vicinity.</span></p>
 
 <p><span class="chinese">数据和人工地震波都与抵达的P波或SH波同步。</span><span class="english">Both data and synthetic seismograms are aligned on the P or SH arrivals.</span></p>

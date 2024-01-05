@@ -1,5 +1,7 @@
 # macroscale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macroscale.md)
+
 <p><span class="chinese">对于染料木素的中试规模制备，尤其是染料木素纯化工艺条件的优化进行了深入探索。</span><span class="english">Further investigation of the macroscale preparation and especial the purification of genistein is still in progress.</span></p>
 
 <p><span class="chinese">在微缩放喷嘴中，强粘性影响导致了流动结构完全偏离了宏观尺度。</span><span class="english">The strong viscous effect induces the fluid mechanics in micro nozzles sufficiently deviated from those in macroscale.</span></p>

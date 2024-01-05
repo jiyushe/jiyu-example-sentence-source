@@ -1,5 +1,7 @@
 # 见事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshi_4.md)
+
 <p><span class="chinese">做了这见事，你会后悔的。</span><span class="english">Do it and you'll be sorry.</span></p>
 
 <p><span class="chinese">我有见事想告诉你。</span><span class="english">I have something to tell you.</span></p>

@@ -1,5 +1,7 @@
 # ponder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ponder.md)
+
 <p><span class="chinese">仔细想想这层关系。</span><span class="english">Just ponder that for a moment.</span></p>
 
 <p><span class="chinese">西凤不解，和向南揣摩。</span><span class="english">West chicken, and ponder to the south.</span></p>

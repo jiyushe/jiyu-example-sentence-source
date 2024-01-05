@@ -1,5 +1,7 @@
 # volatilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volatilize.md)
+
 <p><span class="chinese">这种水泥很容易挥发或干燥。</span><span class="english">This type of cement can easily volatilize or dry.</span></p>
 
 <p><span class="chinese">酒精暴露在空气中会挥发。</span><span class="english">Alcohol will volatilize after exposure to the air.</span></p>

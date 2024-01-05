@@ -1,5 +1,7 @@
 # fiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiver.md)
+
 <p><span class="chinese">能借给我五英镑吗?。</span><span class="english">Can I borrow a fiver ?</span></p>
 
 <p><span class="chinese">这顶帽子的价格是五镑。</span><span class="english">The hat costs a fiver.</span></p>

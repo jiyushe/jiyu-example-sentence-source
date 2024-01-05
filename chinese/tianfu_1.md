@@ -1,5 +1,7 @@
 # 天赋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianfu_1.md)
+
 <p><span class="chinese">记录你的天赋。</span><span class="english">Record Your Genius.</span></p>
 
 <p><span class="chinese">她是一个有天赋的高尔夫球手.</span><span class="english">She is a gifted golfer.</span></p>

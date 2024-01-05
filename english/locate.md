@@ -1,5 +1,7 @@
 # locate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locate.md)
+
 <p><span class="chinese">他们希望在芝加哥定居。</span><span class="english">They hoped to locate in Chicago.</span></p>
 
 <p><span class="chinese">找到敌对城市特洛阿斯。</span><span class="english">Locate the hostile city of Troas.</span></p>

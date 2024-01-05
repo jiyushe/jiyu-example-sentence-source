@@ -1,5 +1,7 @@
 # 始末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimo.md)
+
 <p><span class="chinese">我始末没能习气恁地早上床困觉。</span><span class="english">I never got used to going to bed so early.</span></p>
 
 <p><span class="chinese">有没有哪个上司、同事或朋友知道事情的始末？</span><span class="english">Did a boss, colleague or a friend see what happened?</span></p>

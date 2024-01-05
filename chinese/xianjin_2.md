@@ -1,5 +1,7 @@
 # 现今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjin_2.md)
+
 <p><span class="chinese">该市现今有10口深水井。</span><span class="english">The city currently has 10.</span></p>
 
 <p><span class="chinese">现今我们有数码电视。</span><span class="english">Nowadays we have digital TV.</span></p>

@@ -1,5 +1,7 @@
 # 马蹄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mati.md)
+
 <p><span class="chinese">英雷人马蹄靴成新时尚?。</span><span class="english">Horses' hooves' in fashion?</span></p>
 
 <p><span class="chinese">马蹄踏在卵石上的回响。</span><span class="english">The echo of a horse's hoof.</span></p>

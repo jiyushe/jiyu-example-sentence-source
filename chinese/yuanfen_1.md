@@ -1,5 +1,7 @@
 # 缘份
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanfen_1.md)
+
 <p><span class="chinese">花开花落缘份几何？</span><span class="english">The flowers bloom fate?</span></p>
 
 <p><span class="chinese">呵呵，难道这也是种缘份？</span><span class="english">Oh, is this also a kind of fate?</span></p>

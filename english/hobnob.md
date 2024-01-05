@@ -1,5 +1,7 @@
 # hobnob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobnob.md)
+
 <p><span class="chinese">你愿意和我一起喝两杯吗?</span><span class="english">Do you like to hobnob with me?</span></p>
 
 <p><span class="chinese">我过去常与富有而又著名的人交往。</span><span class="english">I used to hobnob with the rich and famous.</span></p>

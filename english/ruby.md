@@ -1,5 +1,7 @@
 # ruby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruby.md)
+
 <p><span class="chinese">我的名字叫露比。</span><span class="english">My name is Ruby.</span></p>
 
 <p><span class="chinese">红宝石般的明艳色泽。</span><span class="english">Ruby red in color.</span></p>

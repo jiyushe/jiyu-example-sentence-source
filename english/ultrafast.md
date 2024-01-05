@@ -1,5 +1,7 @@
 # ultrafast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrafast.md)
+
 <p><span class="chinese">哪里有既便宜又极速的宽带？香港有。</span><span class="english">Cheap, Ultrafast Broadband? Hong Kong Has It</span></p>
 
 <p><span class="chinese">利用原子力显微镜加工超快光导开关器件原型。</span><span class="english">The prototype of the ultrafast photoconductive switch is fabricated using AFM.</span></p>

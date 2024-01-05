@@ -1,5 +1,7 @@
 # gastric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastric.md)
+
 <p><span class="chinese">湿疹伴有胃紊乱。</span><span class="english">Eczema with gastric derangements.</span></p>
 
 <p><span class="chinese">我的胃病就是这么得的。</span><span class="english">That was how I got my gastric trouble.</span></p>

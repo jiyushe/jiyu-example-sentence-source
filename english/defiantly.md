@@ -1,5 +1,7 @@
 # defiantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defiantly.md)
+
 <p><span class="chinese">不在洛杉矶，你抗拒地大喊。</span><span class="english">Not in LA you shout defiantly.</span></p>
 
 <p><span class="chinese">离心机依旧无畏地运转。</span><span class="english">The centrifuges spin defiantly on.</span></p>

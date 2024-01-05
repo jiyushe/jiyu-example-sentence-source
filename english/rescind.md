@@ -1,5 +1,7 @@
 # rescind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rescind.md)
+
 <p><span class="chinese">IDSA强烈要求EPA取消它的这项决定。</span><span class="english">IDSA is urging EPA to rescind its decision.</span></p>
 
 <p><span class="chinese">第三，解除权的行使与消灭。</span><span class="english">Exertion of the right of rescission is necessary to rescind a contract.</span></p>

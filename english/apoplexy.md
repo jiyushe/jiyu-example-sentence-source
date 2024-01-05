@@ -1,5 +1,7 @@
 # apoplexy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apoplexy.md)
+
 <p><span class="chinese">他因患中风而死去。</span><span class="english">Apoplexy struck him down.</span></p>
 
 <p><span class="chinese">这位老人因中风死去。</span><span class="english">The old man died of apoplexy.</span></p>

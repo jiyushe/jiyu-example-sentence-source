@@ -1,5 +1,7 @@
 # sweetmeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetmeat.md)
+
 <p><span class="chinese">少吃甜食及粘性很强的食物，不吃零食。</span><span class="english">Little eat sweetmeat and glue sex of very strong food, don't eat between meals.</span></p>
 
 <p><span class="chinese">所述冰柜只限存放成型原料甜品芯。</span><span class="english">The ice cabinet is only limited to store the molding raw material sweetmeat cores.</span></p>

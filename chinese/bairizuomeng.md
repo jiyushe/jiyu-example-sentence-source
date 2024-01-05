@@ -1,5 +1,7 @@
 # 白日做梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bairizuomeng.md)
+
 <p><span class="chinese">坐起来，白日做梦。</span><span class="english">Sit up and daydream.</span></p>
 
 <p><span class="chinese">不要白日做梦而且在流口水了！</span><span class="english">Do have a day-dream and water!</span></p>

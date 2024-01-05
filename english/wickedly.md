@@ -1,5 +1,7 @@
 # wickedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wickedly.md)
+
 <p><span class="chinese">那把刀在月光下闪着凶光。</span><span class="english">The knife gleamed wickedly in the moonlight.</span></p>
 
 <p><span class="chinese">过着邪恶生活的人不会正直地死赴。</span><span class="english">He that liveth wickedly can hardly die honestly.</span></p>

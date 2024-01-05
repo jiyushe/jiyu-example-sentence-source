@@ -1,5 +1,7 @@
 # procrastinator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procrastinator.md)
+
 <p><span class="chinese">拖延者为什么要做这些事呢？</span><span class="english">Why does the procrastinator do these things?</span></p>
 
 <p><span class="chinese">在我的生活里我从来都没见过一个快乐的拖延者。</span><span class="english">I’ve never in my life seen a happy procrastinator.</span></p>

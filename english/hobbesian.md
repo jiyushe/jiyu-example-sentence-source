@@ -1,5 +1,7 @@
 # hobbesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobbesian.md)
+
 <p><span class="chinese">在霍布斯的天赋人权观点中，我可以杀死你。</span><span class="english">In a Hobbesian state of nature, I can kill you.</span></p>
 
 <p><span class="chinese">你的信件则在继续挖掘这一霍布斯哲学的传统。</span><span class="english">Your letter continues mining this Hobbesian vein.</span></p>

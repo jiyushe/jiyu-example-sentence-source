@@ -1,5 +1,7 @@
 # unemployment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unemployment.md)
+
 <p><span class="chinese">她絮絮不休她的失业问题。</span><span class="english">She was burbling on her unemployment.</span></p>
 
 <p><span class="chinese">其次，我们是如何测量失业的？</span><span class="english">Second, how do we measure unemployment?</span></p>

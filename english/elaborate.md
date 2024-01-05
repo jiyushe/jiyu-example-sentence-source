@@ -1,5 +1,7 @@
 # elaborate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elaborate.md)
+
 <p><span class="chinese">您能详细阐述一下吗？</span><span class="english">Can you elaborate on that?</span></p>
 
 <p><span class="chinese">但他拒绝阐述细节。</span><span class="english">But he declines to elaborate.</span></p>

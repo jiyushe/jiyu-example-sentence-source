@@ -1,5 +1,7 @@
 # pigmentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigmentation.md)
+
 <p><span class="chinese">鼻无色素沉着。</span><span class="english">Nose without pigmentation.</span></p>
 
 <p><span class="chinese">在年轻的狗过多的皮肤色素沉着。</span><span class="english">Excessive skin pigmentation in young dogs.</span></p>

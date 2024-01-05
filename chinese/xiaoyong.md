@@ -1,5 +1,7 @@
 # 效用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyong.md)
+
 <p><span class="chinese">运行效用。</span><span class="english">Run the utility.</span></p>
 
 <p><span class="chinese">雾笛效用试验。</span><span class="english">Function test of fog horn.</span></p>

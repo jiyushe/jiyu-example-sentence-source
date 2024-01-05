@@ -1,5 +1,7 @@
 # 千山万水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshanwanshui.md)
+
 <p><span class="chinese">你们横渡大洋，跨越千山万水。</span><span class="english">Across oceans, rivers and mountains.</span></p>
 
 <p><span class="chinese">他说，我现在有千山万水须行！</span><span class="english">He says, I have now thousands of miles to travel!</span></p>

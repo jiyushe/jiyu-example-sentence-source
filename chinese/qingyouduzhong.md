@@ -1,5 +1,7 @@
 # 情有独钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyouduzhong.md)
+
 <p><span class="chinese">我对耳环一直情有独钟。</span><span class="english">I always wanted an earring.</span></p>
 
 <p><span class="chinese">他们对新鲜的香草情有独钟么？</span><span class="english">Do they have a fondness for fresh herbs?</span></p>

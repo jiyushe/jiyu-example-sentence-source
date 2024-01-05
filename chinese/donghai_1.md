@@ -1,5 +1,7 @@
 # 冻害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghai_1.md)
+
 <p><span class="chinese">低温造成生物的冷害、霜害和冻害。</span><span class="english">The most frequent effect of high temperature on organisms is dehydration.</span></p>
 
 <p><span class="chinese">冻害是世界性的柑橘生产上的主要灾害之一。</span><span class="english">Freezing damage is one of the majordisasters of the world citrus production.</span></p>

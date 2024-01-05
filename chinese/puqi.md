@@ -1,5 +1,7 @@
 # 铺砌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puqi.md)
+
 <p><span class="chinese">不知怎的它脱离了轨道的铺砌道口。</span><span class="english">Somehow it had veered off the paved crossing.</span></p>
 
 <p><span class="chinese">切割及铺砌各种砖片及屋瓦。</span><span class="english">Cutting, shaping and laying tiles to floor, wall and roof.</span></p>

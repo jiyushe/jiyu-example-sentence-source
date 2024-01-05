@@ -1,5 +1,7 @@
 # pvt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pvt.md)
+
 <p><span class="chinese">这项研究的主要目标是，看看是否依诺肝素减少PVT的发病率。</span><span class="english">The study's primary goal was to see if enoxaparin reduced the incidence of PVT.</span></p>
 
 <p><span class="chinese">而在上述同种心理动作警觉作业测速中，内向型人所受影响则相对不那么明显。</span><span class="english">Introverts’ speed on the PVT was relatively unaffected by prior social exposure.</span></p>

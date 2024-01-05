@@ -1,5 +1,7 @@
 # overset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overset.md)
+
 <p><span class="chinese">看到她时，他感到心烦意乱。</span><span class="english">He was overset by seeing her.</span></p>
 
 <p><span class="chinese">路面上有一辆倾覆的公共汽车。</span><span class="english">There's a bus overset on the road.</span></p>

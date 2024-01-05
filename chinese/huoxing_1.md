@@ -1,5 +1,7 @@
 # 火性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoxing_1.md)
+
 <p><span class="chinese">也会用整块地来测试它的隔音性和防火性。</span><span class="english">Full size floors were also tested for acoustic insulation and for fire resistance.</span></p>
 
 <p><span class="chinese">陶板为烧制而成，所以具有很好的耐火性，是一种遇火也不会变色变形的耐燃材料。</span><span class="english">Because they are burned with fire, they are also fire proof and won't change their color when burnt.</span></p>

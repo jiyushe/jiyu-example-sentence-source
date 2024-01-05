@@ -1,5 +1,7 @@
 # evangel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangel.md)
+
 <p><span class="chinese">如题自由的灾难是自由敌人的莫大喜讯。</span><span class="english">The tragedy of freedom is the evangel for its enemy.</span></p>
 
 <p><span class="chinese">天使把福音传道者的佳音传给一伙有毒牙的瘦长匪徒。</span><span class="english">The angel told the evangelist's evangel to a gang of fanged gangling gangsters.</span></p>

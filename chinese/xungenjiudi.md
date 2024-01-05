@@ -1,5 +1,7 @@
 # 寻根究底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xungenjiudi.md)
+
 <p><span class="chinese">当我们还很小的时候，寻根究底的力量就开始显现了。</span><span class="english">The search for power begins when we quiet young.</span></p>
 
 <p><span class="chinese">市长打算将此事寻根究底。</span><span class="english">The mayor intended to get to the bottom of the matter.</span></p>

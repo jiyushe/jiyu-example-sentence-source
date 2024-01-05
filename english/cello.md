@@ -1,5 +1,7 @@
 # cello
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cello.md)
+
 <p><span class="chinese">丑陋裸男演奏大提琴。</span><span class="english">Ugly Naked Guy plays the Cello.</span></p>
 
 <p><span class="chinese">浪漫曲，为小提琴和乐队所作，作品4。</span><span class="english">Romance for cello og orkester, Op. 4</span></p>

@@ -1,5 +1,7 @@
 # 脑室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoshi.md)
+
 <p><span class="chinese">侧脑室有些扩大。</span><span class="english">The lateral ventricles are somewhat enlarged.</span></p>
 
 <p><span class="chinese">这儿有许多电脑室在三楼。</span><span class="english">There are some comput rooms on the second floor.</span></p>

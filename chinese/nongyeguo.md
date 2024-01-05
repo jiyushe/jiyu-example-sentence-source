@@ -1,5 +1,7 @@
 # 农业国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongyeguo.md)
+
 <p><span class="chinese">法国曾是个农业国。</span><span class="english">France once was an agricultural country.</span></p>
 
 <p><span class="chinese">难道这是让一个农业国走向城市化必须的吗？</span><span class="english">Is this necessary to urbanize a rural country?</span></p>

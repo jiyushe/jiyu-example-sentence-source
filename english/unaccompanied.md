@@ -1,5 +1,7 @@
 # unaccompanied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaccompanied.md)
+
 <p><span class="chinese">在阿富汗很少可以看到无伴侣的的女人。</span><span class="english">In Afghanistan you seldom see an unaccompanied woman.</span></p>
 
 <p><span class="chinese">揭幕式当晚的音乐会重要以大提琴独奏为主。</span><span class="english">The opening night concert featured unaccompanied cello only.</span></p>

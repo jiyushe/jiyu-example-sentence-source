@@ -1,5 +1,7 @@
 # domain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domain.md)
+
 <p><span class="chinese">领域专家。</span><span class="english">Domain expert.</span></p>
 
 <p><span class="chinese">域名解析服务器?。</span><span class="english">Domain Name Server?</span></p>

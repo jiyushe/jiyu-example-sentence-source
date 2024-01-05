@@ -1,5 +1,7 @@
 # offside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offside.md)
+
 <p><span class="chinese">那个进球被裁判判为越位。</span><span class="english">The goal was called offside by the referee.</span></p>
 
 <p><span class="chinese">那个进球被裁判判为越位。</span><span class="english">Thee goal was called offside by the referee.</span></p>

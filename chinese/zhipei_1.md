@@ -1,5 +1,7 @@
 # 支配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipei_1.md)
+
 <p><span class="chinese">你的时间不能自己支配。</span><span class="english">Your time is not your own.</span></p>
 
 <p><span class="chinese">什么支配我的生活。</span><span class="english">Which predominating my life.</span></p>

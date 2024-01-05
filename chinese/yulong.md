@@ -1,5 +1,7 @@
 # 鱼龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulong.md)
+
 <p><span class="chinese">是什么驱使一只鱼龙袭击另一个鱼龙的鼻口部仍未可知。</span><span class="english">What led one ichthyosaur to bite another on the snout is unknown.</span></p>
 
 <p><span class="chinese">化石。这表明大量的鱼龙经年累月重复使用一个特定的地点。</span><span class="english">Site was used by large numbers of ichthyosaurs repeatedly over time.</span></p>

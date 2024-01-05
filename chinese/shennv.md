@@ -1,5 +1,7 @@
 # 神女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shennv.md)
+
 <p><span class="chinese">要看神女，请点击这里。</span><span class="english">Click here to watch "The Goddess".</span></p>
 
 <p><span class="chinese">伊什塔，诸神女主人，记住！</span><span class="english">ISHTAR, Mistress of the Gods, Remember!</span></p>

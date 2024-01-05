@@ -1,5 +1,7 @@
 # prolong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prolong.md)
+
 <p><span class="chinese">延长料管和柱塞头的使用寿命。</span><span class="english">Prolong the material tube life in use.</span></p>
 
 <p><span class="chinese">茶叶为什么可以治病，为什么可以延年益寿？</span><span class="english">Why tea can cure, why can prolong life?</span></p>

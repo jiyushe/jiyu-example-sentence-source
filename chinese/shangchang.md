@@ -1,5 +1,7 @@
 # 上场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangchang.md)
+
 <p><span class="chinese">他没有机会上场。</span><span class="english">He has no chance.</span></p>
 
 <p><span class="chinese">什么时候第一次上场检验？</span><span class="english">Il primo test sul campo?</span></p>

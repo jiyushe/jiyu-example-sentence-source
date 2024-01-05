@@ -1,5 +1,7 @@
 # 粘糊糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianhuhu.md)
+
 <p><span class="chinese">她把粘糊糊的平底锅内壁擦干净了。</span><span class="english">She scraped out the sticky saucepan.</span></p>
 
 <p><span class="chinese">斯洛特喝了一匙粘糊糊的苏格兰肉汤。</span><span class="english">Slote took a spoonful of gummy Scotch broth.</span></p>

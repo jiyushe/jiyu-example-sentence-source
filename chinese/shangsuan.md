@@ -1,5 +1,7 @@
 # 上算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangsuan.md)
+
 <p><span class="chinese">他开始用粉笔在一块“黑板”上算题。</span><span class="english">But it was not a blackboard.</span></p>
 
 <p><span class="chinese">你做了一笔很上算的交易。</span><span class="english">You've got a good bargain there.</span></p>

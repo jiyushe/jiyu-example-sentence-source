@@ -1,5 +1,7 @@
 # 璀璨夺目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuicanduomu.md)
+
 <p><span class="chinese">璀璨夺目，只因你们的汇集！</span><span class="english">Bright and brilliant, only because you gather!</span></p>
 
 <p><span class="chinese">璀璨夺目的面纱，正在脱离黑暗影池。</span><span class="english">In the dark pool, the resplendent veil is about to come off.</span></p>

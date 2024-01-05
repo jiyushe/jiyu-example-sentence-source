@@ -1,5 +1,7 @@
 # slow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slow.md)
+
 <p><span class="chinese">我慢了下来。</span><span class="english">I slow down.</span></p>
 
 <p><span class="chinese">这种方式速度极慢。</span><span class="english">This was slow.</span></p>

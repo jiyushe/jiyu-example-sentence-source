@@ -1,5 +1,7 @@
 # watered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watered.md)
+
 <p><span class="chinese">这牛奶已被掺水了。</span><span class="english">This milk has been watered.</span></p>
 
 <p><span class="chinese">我发现花已浇过了。</span><span class="english">I found the flowers watered.</span></p>

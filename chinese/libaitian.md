@@ -1,5 +1,7 @@
 # 礼拜天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/libaitian.md)
+
 <p><span class="chinese">我们将在礼拜天前晌脱离。</span><span class="english">We'll be leaving Sunday morning.</span></p>
 
 <p><span class="chinese">礼拜天大多在教堂里度过。</span><span class="english">Sundays are spent mostly in church.</span></p>

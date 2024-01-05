@@ -1,5 +1,7 @@
 # lace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lace.md)
+
 <p><span class="chinese">三板花边裙。</span><span class="english">Three-panel lace skirt.</span></p>
 
 <p><span class="chinese">抽绳花边关闭。</span><span class="english">Drawstring lace closure.</span></p>

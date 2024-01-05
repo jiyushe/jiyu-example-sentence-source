@@ -1,5 +1,7 @@
 # rostrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rostrum.md)
+
 <p><span class="chinese">他昂首阔步走上了主席台。</span><span class="english">He stalked up the rostrum.</span></p>
 
 <p><span class="chinese">然后他向主席台走去。</span><span class="english">Then he advanced to the rostrum.</span></p>

@@ -1,5 +1,7 @@
 # recording
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recording.md)
+
 <p><span class="chinese">停止记录。</span><span class="english">Stop recording.</span></p>
 
 <p><span class="chinese">开始记录。</span><span class="english">Begin recording.</span></p>

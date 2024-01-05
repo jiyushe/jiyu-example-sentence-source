@@ -1,5 +1,7 @@
 # overindulgence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overindulgence.md)
+
 <p><span class="chinese">过分任性会引发冲突。</span><span class="english">Overindulgence may cause conflicts.</span></p>
 
 <p><span class="chinese">使疲惫使疲惫不堪，如因工作过度或放纵欲望。</span><span class="english">To wear out, as by overuse or overindulgence.</span></p>

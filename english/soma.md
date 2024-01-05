@@ -1,5 +1,7 @@
 # soma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soma.md)
+
 <p><span class="chinese">在重建的苏玛区那边。</span><span class="english">That's in kind of the remodeled SoMa neighborhood.</span></p>
 
 <p><span class="chinese">当贺大多数美国人，预期体体合同。</span><span class="english">When greeting most Americans, expect soma body contract.</span></p>

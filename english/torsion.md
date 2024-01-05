@@ -1,5 +1,7 @@
 # torsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torsion.md)
+
 <p><span class="chinese">他利用了一架非常灵敏的扭力天平。</span><span class="english">He used a very sensitive torsion balance.</span></p>
 
 <p><span class="chinese">用一台轻便的弹簧秤称重。</span><span class="english">A portable torsion balance is used for weighing.</span></p>

@@ -1,5 +1,7 @@
 # 通顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshun.md)
+
 <p><span class="chinese">句子不通顺。</span><span class="english">The sentence doesn't read smoothly.</span></p>
 
 <p><span class="chinese">人才，是通顺的第一资源。</span><span class="english">Talents are the primary source of TOSO.</span></p>

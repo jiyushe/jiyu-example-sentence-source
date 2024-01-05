@@ -1,5 +1,7 @@
 # 适意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_7.md)
+
 <p><span class="chinese">哈里的声音充满了适意。</span><span class="english">Harry's voice was full of amenity.</span></p>
 
 <p><span class="chinese">我们现在的生活比以前轻松适意多了。</span><span class="english">Bleuel. 'It's a much easier way to live.</span></p>

@@ -1,5 +1,7 @@
 # 闪开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shankai.md)
+
 <p><span class="chinese">前面有冰山，快闪开！</span><span class="english">Iceberg, dead ahead!</span></p>
 
 <p><span class="chinese">让你女朋友闪开点儿。</span><span class="english">Keep your girlfriend out of this.</span></p>

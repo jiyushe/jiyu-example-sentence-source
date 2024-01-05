@@ -1,5 +1,7 @@
 # 手心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxin_1.md)
+
 <p><span class="chinese">俺已经将蝴蝶撷在手心里了。</span><span class="english">I have to hand in the mind.</span></p>
 
 <p><span class="chinese">如何治疗手心脱皮?。</span><span class="english">How to treat control desquamate?</span></p>

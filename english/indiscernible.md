@@ -1,5 +1,7 @@
 # indiscernible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indiscernible.md)
+
 <p><span class="chinese">相同或不可区分的对象可能被表示多次。</span><span class="english">The same or indiscernible objects may be represented several times.</span></p>
 
 <p><span class="chinese">红土型金矿床为一种难识别的金矿床类型。</span><span class="english">The lateritical gold deposit is an lately-founded indiscernible and a new type of gold deposit.</span></p>

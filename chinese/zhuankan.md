@@ -1,5 +1,7 @@
 # 专刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuankan.md)
+
 <p><span class="chinese">据先前的驾驶专刊报道，在2008年初长城汽车已进入澳大利亚的测试车目录。</span><span class="english">As previously reported by Drive, Great Wall was testing vehicles in Australia in early 2008.</span></p>
 
 <p><span class="chinese">不久其他的新闻报纸也想要这个“迷你栏目”，贝蒂·德伯南为儿童们写了一个专刊迷你栏目。</span><span class="english">Soon other newspapers wanted to use the Mini Page. Betty began writing the special page for children have a Mini Page.</span></p>

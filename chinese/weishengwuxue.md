@@ -1,5 +1,7 @@
 # 微生物学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishengwuxue.md)
+
 <p><span class="chinese">他的工作促进了微生物学这门科学。</span><span class="english">His work advanced the science of microbiology.</span></p>
 
 <p><span class="chinese">细菌学，特别是微生物学使他陶醉。</span><span class="english">Bacteriology, in particular, microbiology had fascinated him.</span></p>

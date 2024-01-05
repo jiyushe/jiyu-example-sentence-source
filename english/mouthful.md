@@ -1,5 +1,7 @@
 # mouthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouthful.md)
+
 <p><span class="chinese">专注于每一口。</span><span class="english">Focus on each mouthful.</span></p>
 
 <p><span class="chinese">但最后，她喝了一口。</span><span class="english">Finally she took a mouthful.</span></p>

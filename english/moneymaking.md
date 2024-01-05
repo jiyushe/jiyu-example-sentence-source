@@ -1,5 +1,7 @@
 # moneymaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moneymaking.md)
+
 <p><span class="chinese">这个投机赚钱事业让他成为大富翁。</span><span class="english">The moneymaking venture made him rich.</span></p>
 
 <p><span class="chinese">本周赚钱的机会将会出现。</span><span class="english">Moneymaking opportunities will surface.</span></p>

@@ -1,5 +1,7 @@
 # accommodate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accommodate.md)
+
 <p><span class="chinese">容纳多字的输入。</span><span class="english">Accommodate multiple-word input.</span></p>
 
 <p><span class="chinese">这旅馆可容纳500个客人。</span><span class="english">The hotel can accommodate 500 guests.</span></p>

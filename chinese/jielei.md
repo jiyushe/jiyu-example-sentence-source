@@ -1,5 +1,7 @@
 # 街垒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jielei.md)
+
 <p><span class="chinese">到街垒去了！</span><span class="english">To the barricade?</span></p>
 
 <p><span class="chinese">全街垒鼓掌叫好。</span><span class="english">The barricade applauded.</span></p>

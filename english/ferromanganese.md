@@ -1,5 +1,7 @@
 # ferromanganese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferromanganese.md)
+
 <p><span class="chinese">对锰铁合金渣进行处理，变废为宝，已经成为重要的研究课题。</span><span class="english">Thus, many researches have been performed on ferromanganese slag for recycling.</span></p>
 
 <p><span class="chinese">深入地探讨了锰铁高炉水淬矿渣的利用。</span><span class="english">The utilization of water quenched slag from ferromanganese blast furnace is discussed.</span></p>

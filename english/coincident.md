@@ -1,5 +1,7 @@
 # coincident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coincident.md)
+
 <p><span class="chinese">因此，这看起来像是一致的。</span><span class="english">Thus, this doesn't look like just a coincident.</span></p>
 
 <p><span class="chinese">此判断与地震测深的结果一致。</span><span class="english">This inference is coincident with deep seismic sounding.</span></p>

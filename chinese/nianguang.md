@@ -1,5 +1,7 @@
 # 年光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianguang.md)
+
 <p><span class="chinese">这是晚上最好的年光。</span><span class="english">It is the best time in the evening.</span></p>
 
 <p><span class="chinese">年光不可待，空羡向南枝。</span><span class="english">Nianguang not to be, empty envy the south branch.</span></p>

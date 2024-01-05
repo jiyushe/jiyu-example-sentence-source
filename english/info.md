@@ -1,5 +1,7 @@
 # info
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/info.md)
+
 <p><span class="chinese">谢谢为我提供信息。</span><span class="english">Thanks for the info.</span></p>
 
 <p><span class="chinese">去这里了解更多信息。</span><span class="english">Go here for more info.</span></p>

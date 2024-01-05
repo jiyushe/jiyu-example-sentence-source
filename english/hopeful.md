@@ -1,5 +1,7 @@
 # hopeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopeful.md)
+
 <p><span class="chinese">但我不抱太大希望。</span><span class="english">But I am not hopeful.</span></p>
 
 <p><span class="chinese">你必须怀抱希望。</span><span class="english">You have to be hopeful.</span></p>

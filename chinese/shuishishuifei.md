@@ -1,5 +1,7 @@
 # 谁是谁非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishishuifei.md)
+
 <p><span class="chinese">谁是谁非，谁来评判？</span><span class="english">And who can be judge?</span></p>
 
 <p><span class="chinese">我哪知道谁是谁非？</span><span class="english">What do I know of those?</span></p>

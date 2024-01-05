@@ -1,5 +1,7 @@
 # firebreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firebreak.md)
+
 <p><span class="chinese">快车员就是美国林务局使用的。</span><span class="english">Hotshots are employed by the U. S. forest Service Firebreak.</span></p>
 
 <p><span class="chinese">当地官员表示这是计划烧除以清理出一条防火通道。</span><span class="english">Local officials say the spark was deliberately lit to create a controlled firebreak.</span></p>

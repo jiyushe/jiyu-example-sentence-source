@@ -1,5 +1,7 @@
 # 透空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toukong.md)
+
 <p><span class="chinese">出去透透空气，一定会使我精神爽快得多。</span><span class="english">An airing would do me a great deal of good, I am sure.</span></p>
 
 <p><span class="chinese">这么好的天气，应该出去透透空气。</span><span class="english">The weather is so good for enjoying fresh and clear air.</span></p>

@@ -1,5 +1,7 @@
 # 盛开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengkai.md)
+
 <p><span class="chinese">小花是否盛开？</span><span class="english">Did the floret bloom?</span></p>
 
 <p><span class="chinese">盛开水仙花的原野?</span><span class="english">The fields of asphodel?</span></p>

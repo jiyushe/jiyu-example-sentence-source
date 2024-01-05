@@ -1,5 +1,7 @@
 # bottom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bottom.md)
+
 <p><span class="chinese">上底油。</span><span class="english">Bottom on oil.</span></p>
 
 <p><span class="chinese">擦擦屁股。</span><span class="english">Wipe your bottom.</span></p>

@@ -1,5 +1,7 @@
 # 合营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heying.md)
+
 <p><span class="chinese">合伙人入伙合营</span><span class="english">Partner joins the company.</span></p>
 
 <p><span class="chinese">阳市酱油厂是1956年公私合营时组建的国营企业。</span><span class="english">It is a state-run enterprise set up in 1956.</span></p>

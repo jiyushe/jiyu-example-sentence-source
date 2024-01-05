@@ -1,5 +1,7 @@
 # 品性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinxing.md)
+
 <p><span class="chinese">他是个品性良好的人。</span><span class="english">He is a man of fine character.</span></p>
 
 <p><span class="chinese">心慈是他的好品性之一。</span><span class="english">Kindness is one of his best attributes.</span></p>

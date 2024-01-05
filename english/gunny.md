@@ -1,5 +1,7 @@
 # gunny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunny.md)
+
 <p><span class="chinese">麻袋装，然后装托盘。</span><span class="english">In gunny bags, then on pallets.</span></p>
 
 <p><span class="chinese">他手里提着一只粗抹布口袋。</span><span class="english">He carried a gunny sack in his hand.</span></p>

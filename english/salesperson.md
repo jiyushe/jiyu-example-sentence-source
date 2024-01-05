@@ -1,5 +1,7 @@
 # salesperson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salesperson.md)
+
 <p><span class="chinese">是的，问售货员。</span><span class="english">Yes, ask the salesperson.</span></p>
 
 <p><span class="chinese">这令销售人员非常惊讶。</span><span class="english">This makes a salesperson very open-eyed.</span></p>

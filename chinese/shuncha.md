@@ -1,5 +1,7 @@
 # 顺差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuncha.md)
+
 <p><span class="chinese">中国从不追求贸易顺差。</span><span class="english">China does not seek trade surplus.</span></p>
 
 <p><span class="chinese">中国不搞一个贸易顺差，闻先生说道。</span><span class="english">China does not pursue a trade surplus, Wen said.</span></p>

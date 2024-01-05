@@ -1,5 +1,7 @@
 # 嘴脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuilian.md)
+
 <p><span class="chinese">当然，并非所有投资者都是这副嘴脸。</span><span class="english">Not all investors are like that.</span></p>
 
 <p><span class="chinese">我们要把他们的丑恶嘴脸公布于众。</span><span class="english">We are gonna publish their ugly faces.</span></p>

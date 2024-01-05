@@ -1,5 +1,7 @@
 # divisive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divisive.md)
+
 <p><span class="chinese">他也是美国历史上很有争议的人物之一。</span><span class="english">He is also one of the most divisive men in America.</span></p>
 
 <p><span class="chinese">问题在于政治从本质上就是有分歧的。</span><span class="english">The problem is that politics are divisive in their nature.</span></p>

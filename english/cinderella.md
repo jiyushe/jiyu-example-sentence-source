@@ -1,5 +1,7 @@
 # cinderella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinderella.md)
+
 <p><span class="chinese">灰姑娘害羞的问。</span><span class="english">Cinderella shyly.</span></p>
 
 <p><span class="chinese">你能点一下灰姑娘么？</span><span class="english">Can you click on Cinderella?</span></p>

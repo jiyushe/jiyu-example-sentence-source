@@ -1,5 +1,7 @@
 # 注重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhong.md)
+
 <p><span class="chinese">还是更注重优点？</span><span class="english">Or your strength?</span></p>
 
 <p><span class="chinese">他非常注重结果。</span><span class="english">He is very result-oriented.</span></p>

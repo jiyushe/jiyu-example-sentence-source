@@ -1,5 +1,7 @@
 # licensed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licensed.md)
+
 <p><span class="chinese">书必须得到许可才可以出版。</span><span class="english">Books now have to be licensed.</span></p>
 
 <p><span class="chinese">你给汽车办执照了吗?。</span><span class="english">Have you licensed your motorcar?</span></p>

@@ -1,5 +1,7 @@
 # 应诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingsu.md)
+
 <p><span class="chinese">“不应诉判决”是英美法系民事诉讼中的独特制度安排。</span><span class="english">Default judgment is a unique system in civil litigations of common law.</span></p>
 
 <p><span class="chinese">承担行政复议和行政诉讼的应诉代理工作等。</span><span class="english">to undertake response representation to administrative reviews and administrative prosecutions.</span></p>

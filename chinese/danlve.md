@@ -1,5 +1,7 @@
 # 胆略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danlve.md)
+
 <p><span class="chinese">给我肤色的祖国，给我智慧与胆略的祖国。</span><span class="english">Color my country, give me wisdom and boldness of the motherland.</span></p>
 
 <p><span class="chinese">当疑惑不定的时候，相信你的常识与胆略！</span><span class="english">When it is in doubt, use your common sense, and follow your guts!</span></p>

@@ -1,5 +1,7 @@
 # cowpea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowpea.md)
+
 <p><span class="chinese">研究了施用催娩克氏菌菌剂对长豇豆的影响。</span><span class="english">Effects of Klebsiella oxytoca on cowpea plant were studied.</span></p>
 
 <p><span class="chinese">该项目被称为“PICS”项目，即普渡大学改善豇豆储藏项目。</span><span class="english">The project is called PICS, for Purdue Improved Cowpea Storage.</span></p>

@@ -1,5 +1,7 @@
 # expressly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressly.md)
+
 <p><span class="chinese">该法令明文规定了强制令救济。</span><span class="english">The act expressly provides for injunctive relief.</span></p>
 
 <p><span class="chinese">该法律明文规定了强制令救济。</span><span class="english">The act expressly provides for injunctive relief.</span></p>

@@ -1,5 +1,7 @@
 # slushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slushy.md)
+
 <p><span class="chinese">那条道路肯定泥泞不堪。</span><span class="english">The road must be slushy.</span></p>
 
 <p><span class="chinese">估计今年冬天将雨雪纷飞、泥泞不堪。</span><span class="english">Predictably the winter will be snowy, sleety and slushy.</span></p>

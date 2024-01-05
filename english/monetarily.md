@@ -1,5 +1,7 @@
 # monetarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monetarily.md)
+
 <p><span class="chinese">人命不能用金钱衡量。</span><span class="english">I think it can't be used monetarily.</span></p>
 
 <p><span class="chinese">和相通的心灵探讨那些无法用物质来衡量的事物。</span><span class="english">Talk with similar minds on things cannot be measured monetarily.</span></p>

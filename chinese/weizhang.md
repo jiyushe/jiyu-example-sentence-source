@@ -1,5 +1,7 @@
 # 违章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhang.md)
+
 <p><span class="chinese">他接到违章停车罚款单。</span><span class="english">He got a parking ticket.</span></p>
 
 <p><span class="chinese">哎呀，糟了，违章停车罚款通知单！</span><span class="english">Oh, no! A parking ticket!</span></p>

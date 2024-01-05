@@ -1,5 +1,7 @@
 # upturn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upturn.md)
+
 <p><span class="chinese">中国是当前经济形势好转的一大推动力。</span><span class="english">China is a big driver of the current upturn.</span></p>
 
 <p><span class="chinese">并非所有德国出口商的状况都在好转。</span><span class="english">Not all German exporters are enjoying the upturn.</span></p>

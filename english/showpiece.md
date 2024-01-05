@@ -1,5 +1,7 @@
 # showpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showpiece.md)
+
 <p><span class="chinese">他说，“这像是中国政府的展示品。”</span><span class="english">It's a showpiece of the government.</span></p>
 
 <p><span class="chinese">安德里亚是个展示品，也是功能项目。</span><span class="english">Andrea is a showpiece as well as functional item.</span></p>

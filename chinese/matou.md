@@ -1,5 +1,7 @@
 # 马头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/matou.md)
+
 <p><span class="chinese">在顺门街马头巷里。</span><span class="english">The horse tossed its head.</span></p>
 
 <p><span class="chinese">他突然掉转马头返回到大门。</span><span class="english">Heed his horse back to the gate.</span></p>

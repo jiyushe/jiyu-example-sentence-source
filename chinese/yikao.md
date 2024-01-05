@@ -1,5 +1,7 @@
 # 依靠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yikao.md)
+
 <p><span class="chinese">我们依靠那儿呼吸。</span><span class="english">There breathes us.</span></p>
 
 <p><span class="chinese">你可以依靠/信得过我。</span><span class="english">You can rely on me.</span></p>

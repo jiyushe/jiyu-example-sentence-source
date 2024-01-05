@@ -1,5 +1,7 @@
 # preempt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preempt.md)
+
 <p><span class="chinese">还有一种方法，就是先行修改这些错误。</span><span class="english">Another approach is to preempt errors.</span></p>
 
 <p><span class="chinese">解决性能问题和预先解决问题</span><span class="english">Resolve performance problems and preempt issues</span></p>

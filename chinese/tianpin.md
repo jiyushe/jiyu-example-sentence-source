@@ -1,5 +1,7 @@
 # 甜品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianpin.md)
+
 <p><span class="chinese">做一道热巧克力糕当饭后甜品</span><span class="english">Make warm chocolate cake for dessert.</span></p>
 
 <p><span class="chinese">将一包雅妍即食银耳润颜甜品倒入杯中。</span><span class="english">Pour the sachet's content into a cup.</span></p>

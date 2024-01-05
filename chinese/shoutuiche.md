@@ -1,5 +1,7 @@
 # 手推车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutuiche.md)
+
 <p><span class="chinese">你有手推车吗？</span><span class="english">Do you have any handcarts?</span></p>
 
 <p><span class="chinese">这辆手推车是用木头作的。</span><span class="english">This cart is made of wood.</span></p>

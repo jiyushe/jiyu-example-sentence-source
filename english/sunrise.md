@@ -1,5 +1,7 @@
 # sunrise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunrise.md)
+
 <p><span class="chinese">博伊斯的日出。</span><span class="english">Boise Sunrise.</span></p>
 
 <p><span class="chinese">旭日染红了天空。</span><span class="english">Sunrise dyed the sky red.</span></p>

@@ -1,5 +1,7 @@
 # 配售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peishou.md)
+
 <p><span class="chinese">请限制配售不超过百分之三土葬空间。</span><span class="english">Please limit placements to no more than three per interment space.</span></p>
 
 <p><span class="chinese">我公司在西南地区设有两家批发门市部，两个配售中心。</span><span class="english">I am in the southwestern region with two wholesale shops, placing the two centres.</span></p>

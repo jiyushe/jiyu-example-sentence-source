@@ -1,5 +1,7 @@
 # relax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relax.md)
+
 <p><span class="chinese">那么索性放松一下。</span><span class="english">So relax.</span></p>
 
 <p><span class="chinese">你如何放松呢？</span><span class="english">How do you relax?</span></p>

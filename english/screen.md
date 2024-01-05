@@ -1,5 +1,7 @@
 # screen 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screen.md)
+
 <p><span class="chinese">现在应经搬上荧屏。</span><span class="english">And now it’s on screen.</span></p>
 
 <p><span class="chinese">它拥有四英寸的大屏。</span><span class="english">It has a 4-inch screen.</span></p>

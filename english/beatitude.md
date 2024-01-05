@@ -1,5 +1,7 @@
 # beatitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatitude.md)
+
 <p><span class="chinese">这个祝福，如同圣经本身一样广阔。</span><span class="english">This beatitude is as vast as the Bible itself.</span></p>
 
 <p><span class="chinese">这个祝福，盖括了整本圣经的信息。</span><span class="english">This beatitude encompasses the whole message of the Bible.</span></p>

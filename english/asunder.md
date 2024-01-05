@@ -1,5 +1,7 @@
 # asunder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asunder.md)
+
 <p><span class="chinese">炮弹把战舰炸碎了。</span><span class="english">The missile had blown the battleship asunder.</span></p>
 
 <p><span class="chinese">它是放荡不羁、跟社会生活没关系吗？</span><span class="english">Is it loosed and rent asunder from social life?</span></p>

@@ -1,5 +1,7 @@
 # niigata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niigata.md)
+
 <p><span class="chinese">十七年前我死于新滹。</span><span class="english">Seventeen years ago I died in Niigata.</span></p>
 
 <p><span class="chinese">她已不记得她前生在新滹的一切。</span><span class="english">She did not remember her previous existence in Niigata.</span></p>

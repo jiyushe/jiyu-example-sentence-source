@@ -1,5 +1,7 @@
 # rebekah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebekah.md)
+
 <p><span class="chinese">利伯加是一位有信心的女子。</span><span class="english">Rebekah was a woman of faith.</span></p>
 
 <p><span class="chinese">利百加和她的使女们起来，骑上骆驼，跟着那仆人，仆人就带着利百加走了。</span><span class="english">So the servant took Rebekah and left.</span></p>

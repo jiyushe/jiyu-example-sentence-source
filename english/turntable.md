@@ -1,5 +1,7 @@
 # turntable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turntable.md)
+
 <p><span class="chinese">把想播放的唱片放到唱盘垫上。</span><span class="english">Place a record on the turntable mat.</span></p>
 
 <p><span class="chinese">行星毕竟并非连接着转盘。</span><span class="english">The planets are not attached to a turntable.</span></p>

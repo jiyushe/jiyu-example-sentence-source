@@ -1,5 +1,7 @@
 # 出马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuma.md)
+
 <p><span class="chinese">这一次首领决定亲自出马。</span><span class="english">Now the chief decided to go himself.</span></p>
 
 <p><span class="chinese">他一遇到这个20岁的女孩，就会立刻出马。</span><span class="english">He meets a 20-year-old and is immediately smitten.</span></p>

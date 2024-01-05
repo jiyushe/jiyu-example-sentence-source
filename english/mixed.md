@@ -1,5 +1,7 @@
 # mixed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mixed.md)
+
 <p><span class="chinese">他们能混装吗？</span><span class="english">Can they be mixed?</span></p>
 
 <p><span class="chinese">你全搞溷了。</span><span class="english">You're all mixed up.</span></p>

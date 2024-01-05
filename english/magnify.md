@@ -1,5 +1,7 @@
 # magnify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnify.md)
+
 <p><span class="chinese">汤尼要把那张照片放大。</span><span class="english">Tony wanted to magnify that picture.</span></p>
 
 <p><span class="chinese">我想放大我母亲的照片。</span><span class="english">I want to magnify my mother's picture.</span></p>

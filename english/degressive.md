@@ -1,5 +1,7 @@
 # degressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degressive.md)
+
 <p><span class="chinese">大一学生的心理健康状况有下降的趋势。</span><span class="english">And their level of mental health take on degressive tendence.</span></p>
 
 <p><span class="chinese">异构无线网络中传统TCP协议性能大幅度下降。</span><span class="english">The application of TCP over heterogeneous wireless networks is challenged with degressive performance.</span></p>

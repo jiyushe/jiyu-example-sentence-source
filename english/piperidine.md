@@ -1,5 +1,7 @@
 # piperidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piperidine.md)
+
 <p><span class="chinese">合成了一种新萃取剂哌啶多氮衍生物。</span><span class="english">A new extracting agent of piperidine derivant was synthesized.</span></p>
 
 <p><span class="chinese">采用六氢吡啶法测出了异氰腺酸酯的质量分数。</span><span class="english">The mass fraction of isocyanurate was calculated by piperidine method.</span></p>

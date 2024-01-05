@@ -1,5 +1,7 @@
 # 设法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shefa.md)
+
 <p><span class="chinese">有人在设法贿赂他。</span><span class="english">He's being got at.</span></p>
 
 <p><span class="chinese">我设法将比分扳回来。</span><span class="english">I managed to come back.</span></p>

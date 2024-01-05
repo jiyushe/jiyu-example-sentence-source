@@ -1,5 +1,7 @@
 # cryptococcosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptococcosis.md)
+
 <p><span class="chinese">隐球菌的诊断比较容易。</span><span class="english">Cryptococcosis is relatively easy to diagnose.</span></p>
 
 <p><span class="chinese">目的提高对隐球菌病的诊断水平。</span><span class="english">ObjectiveTo improve the diagnosis of cryptococcosis.</span></p>

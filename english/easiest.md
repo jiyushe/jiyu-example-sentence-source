@@ -1,5 +1,7 @@
 # easiest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easiest.md)
+
 <p><span class="chinese">比如说最方便。</span><span class="english">Whatever is the easiest.</span></p>
 
 <p><span class="chinese">他们是最容易跟着学的。</span><span class="english">Thay are the easiest to follow.</span></p>

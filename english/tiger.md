@@ -1,5 +1,7 @@
 # tiger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiger.md)
+
 <p><span class="chinese">虎咆哮。</span><span class="english">A tiger growls.</span></p>
 
 <p><span class="chinese">你会画老虎吗?。</span><span class="english">Can you draw a tiger?</span></p>

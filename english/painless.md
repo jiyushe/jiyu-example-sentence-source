@@ -1,5 +1,7 @@
 # painless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painless.md)
+
 <p><span class="chinese">我的阴囊有不痛的肿大。</span><span class="english">I have had painless swelling in my scrotum.</span></p>
 
 <p><span class="chinese">一些服务甚至可以无痛苦地每日更新！</span><span class="english">Some services do painless updates on a Daily basis!</span></p>

@@ -1,5 +1,7 @@
 # 爱恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ailian_1.md)
+
 <p><span class="chinese">矢志不移地追求你的爱恋。</span><span class="english">Your love I do seek.</span></p>
 
 <p><span class="chinese">爱恋永远是我给你的礼物。</span><span class="english">Love is always my gift to you.</span></p>

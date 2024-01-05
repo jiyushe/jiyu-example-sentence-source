@@ -1,5 +1,7 @@
 # sebacic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sebacic.md)
+
 <p><span class="chinese">以癸二酸和尿素为原料合成癸二酰胺。</span><span class="english">Decanediamide was synthesized using sebacic acid and urea as starting materials.</span></p>
 
 <p><span class="chinese">该过程中所有的癸二酸是以离子的形式存在的，不存在未解离的癸二酸分子。</span><span class="english">All the sebacic acids were exist as the dianion, and there was no undissociated molecules.</span></p>

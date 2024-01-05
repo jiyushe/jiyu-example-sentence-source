@@ -1,5 +1,7 @@
 # morse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morse.md)
+
 <p><span class="chinese">摩尔斯电码是相同的。</span><span class="english">Morse code is the same.</span></p>
 
 <p><span class="chinese">该如何学习摩尔斯电码。</span><span class="english">How to learn morse code.</span></p>

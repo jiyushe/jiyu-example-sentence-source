@@ -1,5 +1,7 @@
 # 即便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibian.md)
+
 <p><span class="chinese">即便如此，我们仍缺乏有关细节。</span><span class="english">Even so, we lack specifics.</span></p>
 
 <p><span class="chinese">即便是受伤也要实事求是。</span><span class="english">Be truthful even if it hurts.</span></p>

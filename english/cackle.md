@@ -1,5 +1,7 @@
 # cackle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cackle.md)
+
 <p><span class="chinese">不下蛋，别乱叫。</span><span class="english">Never cackle unless you lay.</span></p>
 
 <p><span class="chinese">我们听见了母鸡下蛋后的咯咯叫声。</span><span class="english">We heard the cackle of the hen.</span></p>

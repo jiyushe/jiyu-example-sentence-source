@@ -1,5 +1,7 @@
 # 干姜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjiang.md)
+
 <p><span class="chinese">可乐，健怡可乐，干姜水，苏打水，雪碧，汤利水。</span><span class="english">Coke, Diet Coke, Ginger ale, Soda, Sprite, Tonic.</span></p>
 
 <p><span class="chinese">有苹果汁般的琥珀色，苹果风味，也像干姜水。</span><span class="english">It had an apple-like flavor, but also like ginger ale.</span></p>

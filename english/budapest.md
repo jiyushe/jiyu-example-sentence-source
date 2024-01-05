@@ -1,5 +1,7 @@
 # budapest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/budapest.md)
+
 <p><span class="chinese">布达佩斯位于河的两旁。</span><span class="english">Budapest lies astride the river.</span></p>
 
 <p><span class="chinese">布达佩斯〔匈牙利首都〕自1997年开始就举行“自豪大游行”。</span><span class="english">Budapest has held Pride marches since 1997.</span></p>

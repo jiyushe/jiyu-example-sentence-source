@@ -1,5 +1,7 @@
 # zu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zu.md)
+
 <p><span class="chinese">又名吕祖庙。</span><span class="english">Also Minglv Zu Temple.</span></p>
 
 <p><span class="chinese">这你在中国能买到。</span><span class="english">Das bekommst du in China zu kaufen.</span></p>

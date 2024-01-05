@@ -1,5 +1,7 @@
 # dprk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dprk.md)
+
 <p><span class="chinese">南韩3比零战胜北朝鲜。</span><span class="english">South Korea beat the DPRK 3-nil.</span></p>
 
 <p><span class="chinese">美国不会承认朝鲜是拥有核武器国家。</span><span class="english">US not to accept nuclear-armed DPRK.</span></p>

@@ -1,5 +1,7 @@
 # nationalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationalize.md)
+
 <p><span class="chinese">国有化银行？</span><span class="english">Nationalize banks?</span></p>
 
 <p><span class="chinese">它会告诉你当你国有化银行和信用以后的恶果。</span><span class="english">It shows what happens when you nationalize banks and credit.</span></p>

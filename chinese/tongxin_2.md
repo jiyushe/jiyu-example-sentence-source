@@ -1,5 +1,7 @@
 # 童心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxin_2.md)
+
 <p><span class="chinese">你的“童心”是真实存在的。</span><span class="english">Your inner child is real.</span></p>
 
 <p><span class="chinese">这就是“童心”的本质。</span><span class="english">This is the " childishness " nature.</span></p>

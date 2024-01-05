@@ -1,5 +1,7 @@
 # lovesickness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovesickness.md)
+
 <p><span class="chinese">相思病无药医。</span><span class="english">No herb will cure lovesickness.</span></p>
 
 <p><span class="chinese">她自从得了相思病而益发憔悴。</span><span class="english">She has pined away since she got lovesickness.</span></p>

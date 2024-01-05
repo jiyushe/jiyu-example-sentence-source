@@ -1,5 +1,7 @@
 # palmyra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmyra.md)
+
 <p><span class="chinese">在634年，第一批穆斯林来到帕尔米拉。</span><span class="english">In 634 the first Muslims arrived in Palmyra.</span></p>
 
 <p><span class="chinese">伊斯兰国极端分子三个月前占领了帕尔米拉古城。</span><span class="english">The Islamic extremists seized Palmyra three months ago.</span></p>

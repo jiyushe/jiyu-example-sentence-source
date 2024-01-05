@@ -1,5 +1,7 @@
 # nicotinic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicotinic.md)
+
 <p><span class="chinese">猫无法从色氨酸中合成足够的烟酸。</span><span class="english">The cat cannot synthesise sufficient nicotinic acid from tryptophan.</span></p>
 
 <p><span class="chinese">啤酒也含有乳黄素和烟酸，有助于减少失眠。</span><span class="english">It also has lactoflavin and nicotinic acid, which can help reduce insomnia.</span></p>

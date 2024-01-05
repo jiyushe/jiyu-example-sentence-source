@@ -1,5 +1,7 @@
 # 书香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxiang_1.md)
+
 <p><span class="chinese">由此说来，我们成了书香民族。</span><span class="english">We became a people of the book.</span></p>
 
 <p><span class="chinese">书香仿佛空气，无处不在。</span><span class="english">We breathe but the air of books.</span></p>

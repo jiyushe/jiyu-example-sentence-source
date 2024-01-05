@@ -1,5 +1,7 @@
 # 去伪存真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quweicunzhen.md)
+
 <p><span class="chinese">期望在一定程度上达到对注意的分配理论去粗取精、去伪存真的目的。</span><span class="english">Our aim is to refine the attention assigned theory to some extent.</span></p>
 
 <p><span class="chinese">去伪存真，确保藏品的质量及藏品的来源有序。</span><span class="english">Quweicunzhen, ensure the quality and source of the orderly collection of collections.</span></p>

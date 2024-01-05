@@ -1,5 +1,7 @@
 # cryopreservation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryopreservation.md)
+
 <p><span class="chinese">目的探讨小鼠胚胎冷冻保存方法。</span><span class="english">Objective To study the methods of mouse embryo cryopreservation. ?</span></p>
 
 <p><span class="chinese">自来水冲洗化冻能够较高的保持花粉的萌发率。</span><span class="english">Cryopreservation can maintain peony pollen viability for a long time.</span></p>

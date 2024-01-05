@@ -1,5 +1,7 @@
 # 拼写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinxie.md)
+
 <p><span class="chinese">拼写检查。</span><span class="english">Spell checking.</span></p>
 
 <p><span class="chinese">使用拼写检查。</span><span class="english">Use spell check.</span></p>

@@ -1,5 +1,7 @@
 # excitedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitedly.md)
+
 <p><span class="chinese">梅金兴奋地说。</span><span class="english">Megan said excitedly.</span></p>
 
 <p><span class="chinese">张宝林兴奋地告诉记者。</span><span class="english">Baolin excitedly told reporters.</span></p>

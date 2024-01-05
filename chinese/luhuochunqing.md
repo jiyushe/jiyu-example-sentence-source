@@ -1,5 +1,7 @@
 # 炉火纯青
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luhuochunqing.md)
+
 <p><span class="chinese">他把穿梭外交艺术发展到炉火纯青的地步。</span><span class="english">He refined the whole art of shuttle diplomacy.</span></p>
 
 <p><span class="chinese">但是，显而易见，如果你自身具备艺术素养，便能够磨炼得炉火纯青。</span><span class="english">But obviously, if you have it in you, it can be honed to perfection.</span></p>

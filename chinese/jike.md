@@ -1,5 +1,7 @@
 # 饥渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jike.md)
+
 <p><span class="chinese">饥渴的心灵在追饱暖的心灵哪！</span><span class="english">A hungry soul in pursuit of a full soul!</span></p>
 
 <p><span class="chinese">主啊，今天我怀着饥渴慕义的心想要更深入的知道祢！</span><span class="english">I hunger today to know more of You, Lord.</span></p>

@@ -1,5 +1,7 @@
 # 君主制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhuzhi.md)
+
 <p><span class="chinese">俄国曾是一个君主制国家</span><span class="english">Muscovy was a princely state.</span></p>
 
 <p><span class="chinese">政府的标准结构是君主制政体</span><span class="english">Standard form of government has been monarchy.</span></p>

@@ -1,5 +1,7 @@
 # scion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scion.md)
+
 <p><span class="chinese">它要求接穗上有几个芽。</span><span class="english">It requires a scion with several buds on it.</span></p>
 
 <p><span class="chinese">你要付出的代价就是两片司祭盎。</span><span class="english">Yours are going to cost you both pieces of the Scion.</span></p>

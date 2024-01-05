@@ -1,5 +1,7 @@
 # shinto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shinto.md)
+
 <p><span class="chinese">日本是一个以神道教为信仰基础的国家和民族。</span><span class="english">Japan is a Shinto faith basis for the country and people.</span></p>
 
 <p><span class="chinese">我还想去看看那儿的严岛神社。</span><span class="english">And I would like to visit the Itsukushima Shinto Shrine there.</span></p>

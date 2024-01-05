@@ -1,5 +1,7 @@
 # openable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/openable.md)
+
 <p><span class="chinese">开启式车盖，便于维修处理。</span><span class="english">Openable hood, easy to deal with repair.</span></p>
 
 <p><span class="chinese">每种音乐风格都是单独可以打开的网页，也会有符合这个风格的音乐。</span><span class="english">Each music style can be an openable individual webpage as well as the music in keeping with this style.</span></p>

@@ -1,5 +1,7 @@
 # tragically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tragically.md)
+
 <p><span class="chinese">手冢不幸满足了那些YY人士的需要。</span><span class="english">Tezuka tragically meets the demand of those YYers.</span></p>
 
 <p><span class="chinese">日本天皇裕仁对战争的优柔寡断是悲剧性的。</span><span class="english">Japan’s emperor Hirohito tragically vacillated over the war.</span></p>

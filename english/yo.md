@@ -1,5 +1,7 @@
 # yo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yo.md)
+
 <p><span class="chinese">希望大家喜欢哟。</span><span class="english">Hope you like yo.</span></p>
 
 <p><span class="chinese">好怕怕爱情哟。</span><span class="english">Good fears love yo.</span></p>

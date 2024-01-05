@@ -1,5 +1,7 @@
 # pdl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdl.md)
+
 <p><span class="chinese">从长远看来，菲尼先生无疑仍希望执掌自由人民新党。</span><span class="english">In the long term, no doubt, Mr Fini still aspires to the PdL leadership.</span></p>
 
 <p><span class="chinese">采用PDL语言对人体边界轮廓进行编码，实现了人体环节的识别。</span><span class="english">It has coded the human body edge in PDL Language, and thus identified the human taches.</span></p>

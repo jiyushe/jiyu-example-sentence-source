@@ -1,5 +1,7 @@
 # epilogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epilogue.md)
+
 <p><span class="chinese">开头和结尾提供标准的设置。</span><span class="english">The preamble and epilogue provide standard setup.</span></p>
 
 <p><span class="chinese">本文包括前言、主文和结论。</span><span class="english">The dissertation includes preface, text and epilogue.</span></p>

@@ -1,5 +1,7 @@
 # 嗡嗡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wengweng.md)
+
 <p><span class="chinese">蜜蜂嗡嗡叫，忙着去赶工。</span><span class="english">Buzz bee, busy work.</span></p>
 
 <p><span class="chinese">将你的压力“嗡嗡”走。</span><span class="english">Hum your stress away.</span></p>

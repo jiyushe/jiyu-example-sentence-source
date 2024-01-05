@@ -1,5 +1,7 @@
 # damascus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damascus.md)
+
 <p><span class="chinese">论大马士革的默示。</span><span class="english">The burden of Damascus.</span></p>
 
 <p><span class="chinese">吉姆。穆瑞大马士革报到。</span><span class="english">Jim Muir reports from Damascus.</span></p>

@@ -1,5 +1,7 @@
 # 水螅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixi_1.md)
+
 <p><span class="chinese">在研究范围内，30℃的水螅个体最小。</span><span class="english">Hydra got the minimum body size at 30℃.</span></p>
 
 <p><span class="chinese">具有细弱分支软水母亚目水螅体的一个属。</span><span class="english">Of, relating to, or characteristic of a hydroid.</span></p>

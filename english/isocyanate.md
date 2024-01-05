@@ -1,5 +1,7 @@
 # isocyanate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isocyanate.md)
+
 <p><span class="chinese">2002年负责“氯磺酰异氰酸酯”项目的研发工作。</span><span class="english">Direct R&D of " isocyanate chlorosulfonyl" project in 2002.</span></p>
 
 <p><span class="chinese">结果制备了槲皮素的甲基异氰酸酯、氯代化合物和氧化物。</span><span class="english">Results Methyl isocyanate , chloride and oxide of Quercetin were prepared.</span></p>

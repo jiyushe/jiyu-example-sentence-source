@@ -1,5 +1,7 @@
 # conversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conversion.md)
+
 <p><span class="chinese">类型转换。</span><span class="english">Type conversion.</span></p>
 
 <p><span class="chinese">转换为图像。</span><span class="english">Conversion to images.</span></p>

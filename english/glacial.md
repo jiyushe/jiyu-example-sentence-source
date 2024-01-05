@@ -1,5 +1,7 @@
 # glacial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glacial.md)
+
 <p><span class="chinese">大多数湖泊是由冰川的作用形成的。</span><span class="english">Most lakes were formed of glacial action.</span></p>
 
 <p><span class="chinese">研究人员称其为“冰锯”。</span><span class="english">Researchers call it the glacial buzz-saw.</span></p>

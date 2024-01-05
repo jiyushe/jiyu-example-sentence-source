@@ -1,5 +1,7 @@
 # 陆路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lulu_1.md)
+
 <p><span class="chinese">此次陆路道口安检将持续7个月。</span><span class="english">The security check will last for 7 months.</span></p>
 
 <p><span class="chinese">不久我又准备回家——是经陆路。</span><span class="english">Soon I was ready to go home again- by land.</span></p>

@@ -1,5 +1,7 @@
 # vary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vary.md)
+
 <p><span class="chinese">玫瑰不同于雏菊。</span><span class="english">Roses vary from daisies.</span></p>
 
 <p><span class="chinese">比喻每个人都有自己不同的见解。</span><span class="english">Views vary from ppl to ppl.</span></p>

@@ -1,5 +1,7 @@
 # muddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muddy.md)
+
 <p><span class="chinese">别弄脏了你的新鞋。</span><span class="english">Don't muddy your new shoes.</span></p>
 
 <p><span class="chinese">他在泥泞的路面上滑着走。</span><span class="english">His muddy slide onto the road.</span></p>

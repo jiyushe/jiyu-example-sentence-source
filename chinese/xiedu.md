@@ -1,5 +1,7 @@
 # 亵渎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedu.md)
+
 <p><span class="chinese">不可用亵渎的语言。</span><span class="english">Do not use profanity.</span></p>
 
 <p><span class="chinese">她是亵渎者！</span><span class="english">She was a blasphemer.</span></p>

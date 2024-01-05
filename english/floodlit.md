@@ -1,5 +1,7 @@
 # floodlit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floodlit.md)
+
 <p><span class="chinese">圣母院大教堂晚上将点起泛光灯。</span><span class="english">Notre Dame cathedral will be floodlit at night.</span></p>
 
 <p><span class="chinese">在你的美食晚餐之后，可以到被聚光灯照耀的纪念碑去走一趟。</span><span class="english">After your gourmet dinner, take a walking tour of the floodlit monuments.</span></p>

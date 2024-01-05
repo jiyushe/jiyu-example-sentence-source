@@ -1,5 +1,7 @@
 # commemorative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commemorative.md)
+
 <p><span class="chinese">你们有纪念邮票吗？</span><span class="english">Do you have commemorative stamps?</span></p>
 
 <p><span class="chinese">哪里可以买到纪念邮票呢？</span><span class="english">Where can I buy commemorative stamps?</span></p>

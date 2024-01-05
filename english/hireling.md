@@ -1,5 +1,7 @@
 # hireling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hireling.md)
+
 <p><span class="chinese">改正2幕雇佣工气氛。</span><span class="english">Altered Act 2 Hireling Auras.</span></p>
 
 <p><span class="chinese">这马只是一个雇用品。</span><span class="english">The horse is only a hireling.</span></p>

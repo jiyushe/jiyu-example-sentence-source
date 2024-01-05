@@ -1,5 +1,7 @@
 # 华灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huadeng.md)
+
 <p><span class="chinese">撩起窗帘，看城市的华灯初上。</span><span class="english">Raise the curtain, see the city of lights.</span></p>
 
 <p><span class="chinese">城市华灯初上，大家出来散步，</span><span class="english">And the city just lights up and everyone mills around,</span></p>

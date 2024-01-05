@@ -1,5 +1,7 @@
 # chu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chu.md)
+
 <p><span class="chinese">老楚很疑惑。</span><span class="english">wondered Old Chu.</span></p>
 
 <p><span class="chinese">苏楚侨终于清醒过了。</span><span class="english">Su Chu qiao finally awake.</span></p>

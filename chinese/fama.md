@@ -1,5 +1,7 @@
 # 砝码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fama.md)
+
 <p><span class="chinese">他在天平盘上放了两个砝码。</span><span class="english">He placed two weights in the scale pan.</span></p>
 
 <p><span class="chinese">舍甫琴柯将给我们的攻击力增加砝码。</span><span class="english">Sheva would make an ideal addition to our attack.</span></p>

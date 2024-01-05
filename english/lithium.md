@@ -1,5 +1,7 @@
 # lithium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithium.md)
+
 <p><span class="chinese">我们把它夺去。</span><span class="english">Let's denude lithium 2plus.</span></p>
 
 <p><span class="chinese">洋地黄，锂毒性。</span><span class="english">Digitalis, lithium toxicity.</span></p>

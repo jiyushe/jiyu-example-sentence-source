@@ -1,5 +1,7 @@
 # resorcinol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resorcinol.md)
+
 <p><span class="chinese">间苯二酚和2-硝基二苯胺可用作安定剂。</span><span class="english">Resorcinol and 2-nitrodiphenylamine may be used as stabilizers.</span></p>
 
 <p><span class="chinese">首先对传统的磺化碱熔法制备间苯二酚进行了改进性实验研究。</span><span class="english">The traditional technics for resorcinol with sulfuric acid was firstly improved.</span></p>

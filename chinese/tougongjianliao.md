@@ -1,5 +1,7 @@
 # 偷工减料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tougongjianliao.md)
+
 <p><span class="chinese">那些倒塌的房子都是偷工减料盖的。</span><span class="english">Those collapsed houses were all jerry-built.</span></p>
 
 <p><span class="chinese">超低价格极有可能是“偷工减料”。</span><span class="english">Ultra low prices very likely " jerry-built".</span></p>

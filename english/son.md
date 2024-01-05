@@ -1,5 +1,7 @@
 # son
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/son.md)
+
 <p><span class="chinese">睡吧，儿子。</span><span class="english">Sleep, son.</span></p>
 
 <p><span class="chinese">二五仔。</span><span class="english">Two five son.</span></p>

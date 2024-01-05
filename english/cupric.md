@@ -1,5 +1,7 @@
 # cupric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupric.md)
+
 <p><span class="chinese">本文提出用银盐代替铜盐用间接原子吸收光谱测定。</span><span class="english">In this paper, the silver salt instead of cupric salt is proposed.</span></p>
 
 <p><span class="chinese">载铜电气石由电气石和铜盐制成。</span><span class="english">The copper-carrying tourmaline is made of tourmaline and cupric salt.</span></p>

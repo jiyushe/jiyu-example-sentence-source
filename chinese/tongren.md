@@ -1,5 +1,7 @@
 # 同仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongren.md)
+
 <p><span class="chinese">我的一些州长同仁也这样认为。</span><span class="english">So did several of my fellow governors.</span></p>
 
 <p><span class="chinese">军山酒店全体同仁热诚欢迎您的光临！</span><span class="english">A warm welcome awaits you at Junshan Hotel !</span></p>

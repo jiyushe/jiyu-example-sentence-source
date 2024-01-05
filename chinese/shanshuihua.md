@@ -1,5 +1,7 @@
 # 山水画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshuihua.md)
+
 <p><span class="chinese">真是名副其实的山水画！</span><span class="english">It's a landscape painting indeed.</span></p>
 
 <p><span class="chinese">他画起山水画儿来得心应手。</span><span class="english">He paints landscapes with great facility.</span></p>

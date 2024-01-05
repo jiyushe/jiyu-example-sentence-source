@@ -1,5 +1,7 @@
 # weltanschauung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weltanschauung.md)
+
 <p><span class="chinese">有一个正确的人生观世界观。</span><span class="english">I have correct philosophy and weltanschauung.</span></p>
 
 <p><span class="chinese">欧洲人的世界观前所未有地拓宽了。</span><span class="english">The weltanschauung of European man was ever broadening out.</span></p>

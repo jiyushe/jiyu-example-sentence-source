@@ -1,5 +1,7 @@
 # 欢愉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyu_2.md)
+
 <p><span class="chinese">让我的心盈满欢愉。</span><span class="english">Fill my heart with gladness.</span></p>
 
 <p><span class="chinese">绿袖子曾是我的欢愉。</span><span class="english">Greensleeves was my delight.</span></p>

@@ -1,5 +1,7 @@
 # 支支吾吾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhiwuwu.md)
+
 <p><span class="chinese">我语塞，支支吾吾地回避了她的问题。</span><span class="english">I'm serious. I avoided her question.</span></p>
 
 <p><span class="chinese">别支支吾吾的，快亮明你的观点。</span><span class="english">Don't hum and haw, but air your views.</span></p>

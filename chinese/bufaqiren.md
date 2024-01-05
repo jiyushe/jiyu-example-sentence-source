@@ -1,5 +1,7 @@
 # 不乏其人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufaqiren.md)
+
 <p><span class="chinese">不乏其人。</span><span class="english">There's no lack of such person.</span></p>
 
 <p><span class="chinese">不乏其人。</span><span class="english">There is no lack of such people.</span></p>

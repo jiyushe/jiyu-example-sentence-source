@@ -1,5 +1,7 @@
 # impassible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impassible.md)
+
 <p><span class="chinese">当然我告诉我自己，那是不可能的。</span><span class="english">Of course I told myself that's impassible.</span></p>
 
 <p><span class="chinese">这类不觉疼痛的地形没有在它上涂上的闸极栏。</span><span class="english">This sort of impassible terrain has no grid overlaid on it.</span></p>

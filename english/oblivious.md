@@ -1,5 +1,7 @@
 # oblivious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblivious.md)
+
 <p><span class="chinese">原因在于健忘的人类。</span><span class="english">The cause is oblivious man.</span></p>
 
 <p><span class="chinese">但美国人现在都是井底之蛙了。</span><span class="english">But the Americans are oblivious.</span></p>

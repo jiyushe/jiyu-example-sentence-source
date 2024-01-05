@@ -1,5 +1,7 @@
 # 耿直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengzhi.md)
+
 <p><span class="chinese">他个性就是这麽耿直。</span><span class="english">His personality is stiff and straightforward.</span></p>
 
 <p><span class="chinese">他不但才华横溢，而且为人耿直。</span><span class="english">He was not only very talented, but also very upright.</span></p>

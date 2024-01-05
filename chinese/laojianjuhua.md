@@ -1,5 +1,7 @@
 # 老奸巨猾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laojianjuhua.md)
+
 <p><span class="chinese">你这个老奸巨猾的家伙！</span><span class="english">You sly old devil!</span></p>
 
 <p><span class="chinese">他是政治家中最老奸巨猾的一个。</span><span class="english">He is the subtlest of the politicians.</span></p>

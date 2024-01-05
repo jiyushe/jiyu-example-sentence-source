@@ -1,5 +1,7 @@
 # middling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middling.md)
+
 <p><span class="chinese">中等的小麦是为喂养奶牛而挑选出来的。</span><span class="english">Wheat middling was the chosen grain for feeding milk cows.</span></p>
 
 <p><span class="chinese">到中后期，这两种技能开始向商人等中等阶层扩展。</span><span class="english">Later on, literacy gradually expanded in the middling order.</span></p>

@@ -1,5 +1,7 @@
 # 耽误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danwu.md)
+
 <p><span class="chinese">我讨厌耽误时间。</span><span class="english">I detest delays.</span></p>
 
 <p><span class="chinese">别在这儿耽误时间了。</span><span class="english">Don't waste time here.</span></p>

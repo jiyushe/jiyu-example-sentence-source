@@ -1,5 +1,7 @@
 # 覆被
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fubei.md)
+
 <p><span class="chinese">这块儿地被灌木覆被。</span><span class="english">The land is covered in shrubs.</span></p>
 
 <p><span class="chinese">坝上地区土地利用与覆被变化对土壤养分的影响。</span><span class="english">Effect of land use and land cover on soil nutrients.</span></p>

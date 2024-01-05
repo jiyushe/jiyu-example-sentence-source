@@ -1,5 +1,7 @@
 # welch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welch.md)
+
 <p><span class="chinese">韦尔奇男士从前是囚犯。</span><span class="english">Mr. Welch is an ex-convict.</span></p>
 
 <p><span class="chinese">他用勒戈尔。韦尔什的名字写作。</span><span class="english">He wrote under the name of Raquel Welch.</span></p>

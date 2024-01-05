@@ -1,5 +1,7 @@
 # 解气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieqi.md)
+
 <p><span class="chinese">高温裂解气的生成造成甲烷碳同位素变重的假象。</span><span class="english">Cracked gas in high-temperature causes methane carbon isotope to heavy.</span></p>
 
 <p><span class="chinese">计算表明，热解气可以作为轮胎热解的热源。</span><span class="english">It shows that gas will provide enough energy to the degradation of tire.</span></p>

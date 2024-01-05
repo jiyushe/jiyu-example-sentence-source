@@ -1,5 +1,7 @@
 # athleticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athleticism.md)
+
 <p><span class="chinese">格拉芙对体育天生的热爱使她显得与其他网球运动员不同。</span><span class="english">Graf's natural athleticism set her apart from other tennis players.</span></p>
 
 <p><span class="chinese">他可以在任何人的头上扣篮，因为他的臂长和他的运动的热情。</span><span class="english">He could dunk it over anyone because of his length and his athleticism.</span></p>

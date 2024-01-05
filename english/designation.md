@@ -1,5 +1,7 @@
 # designation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designation.md)
+
 <p><span class="chinese">颜色编码电路指示。</span><span class="english">Colour coded circuit designation.</span></p>
 
 <p><span class="chinese">什么时候可以使用FRM头衔？</span><span class="english">When can I begin using my FRM Designation?</span></p>

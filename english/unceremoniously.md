@@ -1,5 +1,7 @@
 # unceremoniously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unceremoniously.md)
+
 <p><span class="chinese">人们会沦落到随便被裸露的，如果他们真的出现。</span><span class="english">They would unceremoniously be nuked if they emerged.</span></p>
 
 <p><span class="chinese">一个世纪以前，这些国家随便就被殖民化了。</span><span class="english">A century ago, such countries would have been unceremoniously colonized.</span></p>

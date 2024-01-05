@@ -1,5 +1,7 @@
 # carmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carmaker.md)
+
 <p><span class="chinese">大众也希望自己能在2018年成为汽车产业的一哥。</span><span class="english">It wants to be the number one carmaker by 2018.</span></p>
 
 <p><span class="chinese">汽车制造商将于九月投产新型汽车。</span><span class="english">The carmaker is almost ready to launch out a new model in September.</span></p>

@@ -1,5 +1,7 @@
 # bled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bled.md)
+
 <p><span class="chinese">我的心在为你泣血。</span><span class="english">My heart bled for you.</span></p>
 
 <p><span class="chinese">她最后流血至死。</span><span class="english">She had bled to death.</span></p>

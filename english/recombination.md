@@ -1,5 +1,7 @@
 # recombination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recombination.md)
+
 <p><span class="chinese">目的基因的重组与稳定性。</span><span class="english">Recombination and stability of transgenes in plants.</span></p>
 
 <p><span class="chinese">复合过程产生的辐射可能使同一原子核素的另一个原子发生电离。</span><span class="english">Recombination radiation can ionize another atom of the same species.</span></p>

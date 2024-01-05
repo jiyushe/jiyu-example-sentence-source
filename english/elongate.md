@@ -1,5 +1,7 @@
 # elongate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elongate.md)
+
 <p><span class="chinese">阴蒂脚坚硬而伸长。</span><span class="english">The legs stiffen and elongate.</span></p>
 
 <p><span class="chinese">在玉米杆开始拔节时，给玉米打药。</span><span class="english">Corn is treated when the stalk starts to elongate.</span></p>

@@ -1,5 +1,7 @@
 # dulcimer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dulcimer.md)
+
 <p><span class="chinese">扬琴对我来说是生命中不可缺少的一部分。</span><span class="english">The dulcimer to me is in the life an essential part.</span></p>
 
 <p><span class="chinese">解决好这些新问题，可以大大提高扬琴学习的效率。</span><span class="english">Had solved these problems, can improve the efficiency of dulcimer study greatly.</span></p>

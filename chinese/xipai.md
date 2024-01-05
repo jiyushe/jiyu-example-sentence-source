@@ -1,5 +1,7 @@
 # 洗牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xipai.md)
+
 <p><span class="chinese">洗牌和切牌。</span><span class="english">The Shuffle and Cut.</span></p>
 
 <p><span class="chinese">在此后，该玩家将他的牌库洗牌。</span><span class="english">That player then shuffles his or her library.</span></p>

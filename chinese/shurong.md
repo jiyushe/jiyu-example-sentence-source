@@ -1,5 +1,7 @@
 # 殊荣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shurong.md)
+
 <p><span class="chinese">魔术师却从未获得这一殊荣。</span><span class="english">Magic was never an all-league defender.</span></p>
 
 <p><span class="chinese">海神波塞冬和雅典娜女神都想得到这份殊荣。</span><span class="english">Poseidon and Athena7 each wanted the honor.</span></p>

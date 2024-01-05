@@ -1,5 +1,7 @@
 # arsenate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenate.md)
+
 <p><span class="chinese">含铁砷酸盐在碱性水泥投入混合时也不稳定。</span><span class="english">Ferric arsenate is also not stable in alkaline cement cast admixes.</span></p>
 
 <p><span class="chinese">钡被作为极其难以解决的砷酸盐，但是这被显示是错误的。</span><span class="english">Barium arsenate was proposed as being an extremely insoluble arsenate , but this was shown to be incorrect.</span></p>

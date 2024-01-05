@@ -1,5 +1,7 @@
 # frequent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frequent_1.md)
+
 <p><span class="chinese">你是否常去寺庙？</span><span class="english">Do you frequent any temples?</span></p>
 
 <p><span class="chinese">为什么改版如此频繁?</span><span class="english">Why is revision so frequent ?</span></p>

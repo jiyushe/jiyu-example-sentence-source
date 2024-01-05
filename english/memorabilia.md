@@ -1,5 +1,7 @@
 # memorabilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorabilia.md)
+
 <p><span class="chinese">收藏品和纪念品。</span><span class="english">Memorabilia and mementoes.</span></p>
 
 <p><span class="chinese">婚礼纪念品是用骨瓷制成的。</span><span class="english">The wedding memorabilia is being made with bone china.</span></p>

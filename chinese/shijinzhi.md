@@ -1,5 +1,7 @@
 # 十进制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijinzhi.md)
+
 <p><span class="chinese">把下列各十进制换算成以8为基值的数。</span><span class="english">Convert the following denary numbers base 8.</span></p>
 
 <p><span class="chinese">十进制以十为进位的数字系统。</span><span class="english">Of or relating to the decimal number system.</span></p>

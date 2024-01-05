@@ -1,5 +1,7 @@
 # uncombed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncombed.md)
+
 <p><span class="chinese">他头发凌乱，衣服肮脏。</span><span class="english">He had uncombed hair , and dirty clothes.</span></p>
 
 <p><span class="chinese">那从不曾梳过的红色长发以及那白色的短须看起来就叫人惊骇。</span><span class="english">His uncombed long red hair and white short beard seemed electrified.</span></p>

@@ -1,5 +1,7 @@
 # 粗枝大叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuzhidaye.md)
+
 <p><span class="chinese">不要那么粗枝大叶。</span><span class="english">Don't be so careless.</span></p>
 
 <p><span class="chinese">他是个粗枝大叶的浪荡子。</span><span class="english">He is a careless profligate.</span></p>

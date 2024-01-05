@@ -1,5 +1,7 @@
 # stretchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stretchy.md)
+
 <p><span class="chinese">首先，避孕套非常有弹性。</span><span class="english">First of all, condoms are very stretchy.</span></p>
 
 <p><span class="chinese">这些小圆块是有两个眼睛的弹性球体。</span><span class="english">The blobs are stretchy spheres with two eyes.</span></p>

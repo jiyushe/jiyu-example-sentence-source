@@ -1,5 +1,7 @@
 # 禾草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hecao.md)
+
 <p><span class="chinese">禾草类植物之间的竞争，对吧？</span><span class="english">The competition of grasses, right?</span></p>
 
 <p><span class="chinese">一根轻微的禾草也可以告知你大风的趋势。</span><span class="english">A straw may show which way the wind blows.</span></p>

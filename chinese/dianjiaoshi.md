@@ -1,5 +1,7 @@
 # 垫脚石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianjiaoshi.md)
+
 <p><span class="chinese">有时我们需要垫脚石。</span><span class="english">Sometimes we need stepping stones.</span></p>
 
 <p><span class="chinese">把失败当做通往成功的垫脚石。</span><span class="english">See failure as a stepping stone to success.</span></p>

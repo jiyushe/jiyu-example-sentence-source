@@ -1,5 +1,7 @@
 # 奏效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouxiao.md)
+
 <p><span class="chinese">我们希望它奏效。</span><span class="english">We hope it works.</span></p>
 
 <p><span class="chinese">那并没有奏效。</span><span class="english">That didn't pan out.</span></p>

@@ -1,5 +1,7 @@
 # hydrofoil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrofoil.md)
+
 <p><span class="chinese">那艘水翼船不久就增加速度。</span><span class="english">The hydrofoil soon speeded up.</span></p>
 
 <p><span class="chinese">为什么气垫船能靠后方的气流移动？</span><span class="english">Why can a hydrofoil move on a layer of air?</span></p>

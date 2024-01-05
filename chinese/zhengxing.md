@@ -1,5 +1,7 @@
 # 整形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxing.md)
+
 <p><span class="chinese">蔡依林做过整形手术吗？</span><span class="english">Has Cai Yilin done plastic surgery?</span></p>
 
 <p><span class="chinese">那就是为什么我们有整形手术！</span><span class="english">That's why we have plastic surgery!</span></p>

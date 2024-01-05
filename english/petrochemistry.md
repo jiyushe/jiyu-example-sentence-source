@@ -1,5 +1,7 @@
 # petrochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrochemistry.md)
+
 <p><span class="chinese">④结论石化催化作业可引起工人神经行为功能的改变。</span><span class="english">Conclusion Changes of neurobehavioral functions can be caused by catalysis in petrochemistry.</span></p>
 
 <p><span class="chinese">目的探讨石化催化作业对工人神经行为功能的影响。</span><span class="english">Objective To study the effect of catalysis in petrochemistry on neurobehavioral functions of workers.</span></p>

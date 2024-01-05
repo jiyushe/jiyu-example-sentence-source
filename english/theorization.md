@@ -1,5 +1,7 @@
 # theorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theorization.md)
+
 <p><span class="chinese">经济改革要以经济理论的发展为先导。</span><span class="english">Guiding role of economic theorization in the reforms.</span></p>
 
 <p><span class="chinese">他也反对艺术作品研究的理论化倾向。</span><span class="english">He opposed the tendency of theorization in the field of art works research, too.</span></p>

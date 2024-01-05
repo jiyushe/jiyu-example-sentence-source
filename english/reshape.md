@@ -1,5 +1,7 @@
 # reshape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reshape.md)
+
 <p><span class="chinese">你使我脱胎换骨！</span><span class="english">You make my completely reshape myself!</span></p>
 
 <p><span class="chinese">龙芯也可能改变全球计算机产业格局。</span><span class="english">Loongson could also reshape the global PC business.</span></p>

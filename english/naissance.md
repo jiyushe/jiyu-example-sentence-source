@@ -1,5 +1,7 @@
 # naissance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naissance.md)
+
 <p><span class="chinese">近年来，网格技术的诞生使得这些问题能够得以解决。</span><span class="english">The naissance of Grid technology put the axe in the helve.</span></p>
 
 <p><span class="chinese">假名的出现，标志着日本民族文字的诞生。</span><span class="english">The appearance of Kana marked the naissance of written Japanese.</span></p>

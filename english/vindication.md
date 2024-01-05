@@ -1,5 +1,7 @@
 # vindication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vindication.md)
+
 <p><span class="chinese">先前，我提到道德澄清。</span><span class="english">I mentioned moral vindication earlier.</span></p>
 
 <p><span class="chinese">或许我们是在寻求原谅──或是辩解。</span><span class="english">Or maybe we're searching for forgiveness -- or vindication.</span></p>

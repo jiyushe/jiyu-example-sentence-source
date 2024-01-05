@@ -1,5 +1,7 @@
 # 千家万户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjiawanhu.md)
+
 <p><span class="chinese">房价事关千家万户。</span><span class="english">House prices concern millions of households.</span></p>
 
 <p><span class="chinese">铁艺家具和饰品，已经走进了千家万户。</span><span class="english">Wrought iron furniture and adorn article, had entered the country.</span></p>

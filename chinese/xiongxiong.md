@@ -1,5 +1,7 @@
 # 熊熊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongxiong.md)
+
 <p><span class="chinese">熊熊说道，“一只大棕熊。”</span><span class="english">A big brown bear.</span></p>
 
 <p><span class="chinese">你的灵魂正在被熊熊邺火炙烤。</span><span class="english">Cause your soul is on fire.</span></p>

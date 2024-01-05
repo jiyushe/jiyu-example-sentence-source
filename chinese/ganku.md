@@ -1,5 +1,7 @@
 # 干枯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganku.md)
+
 <p><span class="chinese">直到大海干枯水尽。</span><span class="english">Till a' the seas gang dry.</span></p>
 
 <p><span class="chinese">使干枯的根芽得到一点点生命的滋养。</span><span class="english">A little life with dried tubers.</span></p>

@@ -1,5 +1,7 @@
 # fascinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fascinate.md)
+
 <p><span class="chinese">据说蛇能蛊惑小动物。</span><span class="english">Snakes are said to fascinate small animals.</span></p>
 
 <p><span class="chinese">红杉魅力无穷，其树身之大，寿命之长，令人赞叹。</span><span class="english">Sequoias fascinate people by their size and age.</span></p>

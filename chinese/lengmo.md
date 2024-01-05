@@ -1,5 +1,7 @@
 # 冷漠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengmo.md)
+
 <p><span class="chinese">它是冷漠的。</span><span class="english">It’s standoffish.</span></p>
 
 <p><span class="chinese">是无知还是冷漠？</span><span class="english">Is it ignorance or apathy?</span></p>

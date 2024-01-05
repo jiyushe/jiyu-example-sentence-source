@@ -1,5 +1,7 @@
 # abbey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbey.md)
+
 <p><span class="chinese">这是威斯敏特教堂。</span><span class="english">This is Westminster Abbey.</span></p>
 
 <p><span class="chinese">艾比很高兴是你的狗狗。</span><span class="english">Abbey loved being your dog.</span></p>

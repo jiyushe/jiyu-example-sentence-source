@@ -1,5 +1,7 @@
 # 顶灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdeng.md)
+
 <p><span class="chinese">你能告诉那盏吸顶灯的价格吗？</span><span class="english">Can you tell me the price of that ceiling lamp?</span></p>
 
 <p><span class="chinese">嗯。那盏吸顶灯的价格是几多?。</span><span class="english">Yes. Can you tell me the price of that ceiling lamp?</span></p>

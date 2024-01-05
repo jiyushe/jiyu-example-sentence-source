@@ -1,5 +1,7 @@
 # 舞池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchi_1.md)
+
 <p><span class="chinese">但是你是舞池女王。</span><span class="english">But you are the queen of the dancefloor.</span></p>
 
 <p><span class="chinese">您宁愿坐得靠近舞池吗？</span><span class="english">Woud you rather sit near the dance floor?</span></p>

@@ -1,5 +1,7 @@
 # 疯狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggou.md)
+
 <p><span class="chinese">疯狗咬主人。</span><span class="english">Mad dog bites his master.</span></p>
 
 <p><span class="chinese">那疯狗从丹身边跑过。</span><span class="english">The mad dog ran past Dan.</span></p>

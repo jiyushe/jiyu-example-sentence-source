@@ -1,5 +1,7 @@
 # worthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worthiness.md)
+
 <p><span class="chinese">客观的值得更难捉摸些。</span><span class="english">Objective worthiness is more elusive.</span></p>
 
 <p><span class="chinese">它曾经被认为“以人为本”作出的决定，对你的信用，老有所为。</span><span class="english">It used to be that "people" made decisions about your credit worthiness.</span></p>

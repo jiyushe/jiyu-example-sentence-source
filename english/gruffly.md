@@ -1,5 +1,7 @@
 # gruffly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gruffly.md)
+
 <p><span class="chinese">当我自报家门之后，他挥手示意让我离开，粗声说道，“现在不行，我还在工作。”</span><span class="english">"Not now " he said gruffly. "I'm working."</span></p>
 
 <p><span class="chinese">"好了，不要再问我了，"哈格力粗暴地说，"那是绝密。""</span><span class="english">“Now, don't ask me anymore, ” said Hagrid gruffly.</span></p>

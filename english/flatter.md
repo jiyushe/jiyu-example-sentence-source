@@ -1,5 +1,7 @@
 # flatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatter.md)
+
 <p><span class="chinese">我的好老爷，你太棒我啦。</span><span class="english">My dear, you flatter me.</span></p>
 
 <p><span class="chinese">今天我要好好对您献殷勤。</span><span class="english">I will flatter you today.</span></p>

@@ -1,5 +1,7 @@
 # 观摩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanmo.md)
+
 <p><span class="chinese">谢谢珮琳在观摩上的用心和努力。</span><span class="english">Thanks for Patty's industrious work on the demo.</span></p>
 
 <p><span class="chinese">与会人员还观摩了方国胜工作室。</span><span class="english">Participants also watched the Fang Guosheng studio.</span></p>

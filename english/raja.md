@@ -1,5 +1,7 @@
 # raja
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raja.md)
+
 <p><span class="chinese">拉贾.萨勒姆和丈夫艾哈迈德一起来菜市场买东西。</span><span class="english">Raja Salem has come shopping with her husband, Ahmed.</span></p>
 
 <p><span class="chinese">斯塔德迈尔和贝尔也客串亮相。</span><span class="english">Amaré Stoudemire and Raja Bell have cameo appearances.</span></p>

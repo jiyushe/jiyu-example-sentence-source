@@ -1,5 +1,7 @@
 # larynx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larynx.md)
+
 <p><span class="chinese">它是软骨组织包裹喉形成。</span><span class="english">It is composed of cartilage which surrounds the larynx.</span></p>
 
 <p><span class="chinese">主要评价指标是3年保喉率。</span><span class="english">The primary endpoint was 3-year larynx preservation rate.</span></p>

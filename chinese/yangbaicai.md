@@ -1,5 +1,7 @@
 # 洋白菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangbaicai.md)
+
 <p><span class="chinese">来点洋白菜如何？</span><span class="english">How about some cabbage?</span></p>
 
 <p><span class="chinese">他种植了一行洋白菜。</span><span class="english">He planted a row of cabbages.</span></p>

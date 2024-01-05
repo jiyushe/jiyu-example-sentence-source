@@ -1,5 +1,7 @@
 # 毛囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maonang.md)
+
 <p><span class="chinese">皮脂腺附着于每个毛囊上。</span><span class="english">Sebaceous glands are attached to each hair follicle.</span></p>
 
 <p><span class="chinese">巨大毛囊皮脂腺囊性错构瘤。</span><span class="english">Giant folliculosebaceous cystic hamartoma was diagnosed.</span></p>

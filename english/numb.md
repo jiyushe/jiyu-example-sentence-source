@@ -1,5 +1,7 @@
 # numb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numb.md)
+
 <p><span class="chinese">我感觉很麻木.</span><span class="english">I feel numb.</span></p>
 
 <p><span class="chinese">我觉得舌头有点麻麻的。</span><span class="english">My tongue feels numb.</span></p>

@@ -1,5 +1,7 @@
 # bazooka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bazooka.md)
+
 <p><span class="chinese">如果你用射不完的火箭炮来杀蟑螂，谁会管你？</span><span class="english">If you use the proverbial bazooka to kill cockroaches, then who cares?</span></p>
 
 <p><span class="chinese">呃，啊。是啊，上次你见到我们只是想用火箭炮将我们轰杀。</span><span class="english">Yeah, last time we met you just wanted to blow me away with a bazooka.</span></p>

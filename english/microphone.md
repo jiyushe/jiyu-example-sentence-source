@@ -1,5 +1,7 @@
 # microphone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microphone.md)
+
 <p><span class="chinese">麦克是好的吗？，是的。</span><span class="english">Is the microphone on? Yes.</span></p>
 
 <p><span class="chinese">茱莉亚对着麦克风说。</span><span class="english">Julia said into the microphone.</span></p>

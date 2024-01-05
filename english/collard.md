@@ -1,5 +1,7 @@
 # collard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collard.md)
+
 <p><span class="chinese">绿色甘蓝菜等填料。</span><span class="english">Collard greens. Stuffing.</span></p>
 
 <p><span class="chinese">谁在乎我吃胡萝卜还是甘蓝菜？</span><span class="english">Who care if me eat carrot or collard greens?</span></p>

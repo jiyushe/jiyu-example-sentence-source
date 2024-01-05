@@ -1,5 +1,7 @@
 # cadaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadaver.md)
+
 <p><span class="chinese">他和他的同事们用一只死人的手测试这台机器。</span><span class="english">He and colleagues tested it using a cadaver hand.</span></p>
 
 <p><span class="chinese">他们把这样的实验室开在优美的高尔夫胜地？</span><span class="english">Do they hold the cadaver labs at fancy golf resorts like this one?</span></p>

@@ -1,5 +1,7 @@
 # 窘态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiongtai.md)
+
 <p><span class="chinese">他以微笑解除了她的窘态。</span><span class="english">He smiled away her embarrassment.</span></p>
 
 <p><span class="chinese">他没法掩盖自己的窘态。</span><span class="english">He could not hide his embarrassment.</span></p>

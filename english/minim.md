@@ -1,5 +1,7 @@
 # minim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minim.md)
+
 <p><span class="chinese">微量的酒精能达到更好的清洁效果。</span><span class="english">The alcohol of minim can achieve better clean result.</span></p>
 
 <p><span class="chinese">硒是人体必需的微量元素之一，对肿瘤有明显的抑制作用。</span><span class="english">Selenium is one of the necessary minim elements of human.</span></p>

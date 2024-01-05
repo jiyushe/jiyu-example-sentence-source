@@ -1,5 +1,7 @@
 # 患难与共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huannanyugong.md)
+
 <p><span class="chinese">秦将军带领的这支患难与共的队伍从河南府往南移动。</span><span class="english">General Ching's resolute group moved south from Honan Province.</span></p>
 
 <p><span class="chinese">在这个国家，我们属于同一民族，我们患难与共。</span><span class="english">In this country, we rise or fall as one nation — as one people.</span></p>

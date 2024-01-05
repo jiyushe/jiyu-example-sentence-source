@@ -1,5 +1,7 @@
 # undersell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undersell.md)
+
 <p><span class="chinese">一金融市场出现恶性抛售。</span><span class="english">One money market appears malign undersell.</span></p>
 
 <p><span class="chinese">这个商店售价低于其他店是因其以现金交易。</span><span class="english">This store can undersell other stores because it sells by cash.</span></p>

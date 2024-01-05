@@ -1,5 +1,7 @@
 # communicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communicative.md)
+
 <p><span class="chinese">它的社会性和交流性。</span><span class="english">It's social and communicative.</span></p>
 
 <p><span class="chinese">她们都很有责任心，也很健谈。</span><span class="english">All are very responsible and communicative.</span></p>

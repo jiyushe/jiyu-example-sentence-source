@@ -1,5 +1,7 @@
 # coding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coding.md)
+
 <p><span class="chinese">但是在云中存在编码吗？</span><span class="english">But coding in the cloud?</span></p>
 
 <p><span class="chinese">可变速率编码?。</span><span class="english">VRC? Variable Rate Coding?</span></p>

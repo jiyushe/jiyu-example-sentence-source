@@ -1,5 +1,7 @@
 # 接收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshou_1.md)
+
 <p><span class="chinese">我是不会接收钱的。</span><span class="english">I do not accept money.</span></p>
 
 <p><span class="chinese">接收那条消息。</span><span class="english">It receives that message.</span></p>

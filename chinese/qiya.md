@@ -1,5 +1,7 @@
 # 欺压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiya.md)
+
 <p><span class="chinese">现在，那灾星再也不来欺压我们。</span><span class="english">The devil does not ride us any more.</span></p>
 
 <p><span class="chinese">欺压群众，会这样。</span><span class="english">Oppressing The Masses, Could This Be.</span></p>

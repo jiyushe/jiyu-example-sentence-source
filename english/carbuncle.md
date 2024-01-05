@@ -1,5 +1,7 @@
 # carbuncle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbuncle.md)
+
 <p><span class="chinese">用于痰热喘咳、热痢、热淋、痈肿疮毒等症。</span><span class="english">Useing for asthma, heat dysentery, heat stranguria, and carbuncle.</span></p>
 
 <p><span class="chinese">此药对消除婴儿胎毒有显著的效果。</span><span class="english">The drug is provided with obvious effect in eliminating the infantile carbuncle of the infant.</span></p>

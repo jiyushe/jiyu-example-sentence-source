@@ -1,5 +1,7 @@
 # 旁敲侧击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangqiaoceji.md)
+
 <p><span class="chinese">真的？是吗，我只是旁敲侧击了下，不错。</span><span class="english">I mean, I was just winging it, But that's good.</span></p>
 
 <p><span class="chinese">不要旁敲侧击了，你想说什么？</span><span class="english">Don't beat around the bush! What do you want to say?</span></p>

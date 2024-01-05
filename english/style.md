@@ -1,5 +1,7 @@
 # style
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/style.md)
+
 <p><span class="chinese">或猴拳。</span><span class="english">Or Monkey style.</span></p>
 
 <p><span class="chinese">我的美胸风格是啥？</span><span class="english">What is my style?</span></p>

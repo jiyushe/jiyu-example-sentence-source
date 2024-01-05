@@ -1,5 +1,7 @@
 # portable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portable.md)
+
 <p><span class="chinese">不仅如此，它编出来的软件是可移植的。</span><span class="english">It was also portable.</span></p>
 
 <p><span class="chinese">家具及便携式水族缸。</span><span class="english">Furniture and portable aquaria.</span></p>

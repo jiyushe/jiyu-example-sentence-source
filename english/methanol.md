@@ -1,5 +1,7 @@
 # methanol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methanol.md)
+
 <p><span class="chinese">甲醇是反应的主要产物。</span><span class="english">Methanol was main product from BCSR.</span></p>
 
 <p><span class="chinese">蜂窝技术使用如氢和甲醇作为能量的来源。</span><span class="english">Microcells use energy sources like hydrogen and methanol.</span></p>

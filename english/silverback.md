@@ -1,5 +1,7 @@
 # silverback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silverback.md)
+
 <p><span class="chinese">只有36岁的雄性首领银背腊玛没有靠近。</span><span class="english">Only the silverback male leader, Ramar, 36, stayed away.</span></p>
 
 <p><span class="chinese">悉尼塔朗加动物园里，银背大猩猩科巴布嚼起了树枝。</span><span class="english">Silverback gorilla Kibabu chews on a stick at the Taronga Zoo in Sydney.</span></p>

@@ -1,5 +1,7 @@
 # 顺遂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunsui.md)
+
 <p><span class="chinese">祝你未来事业顺遂。</span><span class="english">Wishing you many future sesses.</span></p>
 
 <p><span class="chinese">祝你未来事业顺遂。</span><span class="english">Wishing you many future succe es.</span></p>

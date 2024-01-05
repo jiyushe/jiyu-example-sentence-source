@@ -1,5 +1,7 @@
 # withering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withering.md)
+
 <p><span class="chinese">因为那儿有朵枯萎的花躺在草间。</span><span class="english">As where some flower lay withering on the ground.</span></p>
 
 <p><span class="chinese">老陈用那令人畏惧的眼神再一次打量他。</span><span class="english">Mr. Chen sized him up again with a withering look.</span></p>

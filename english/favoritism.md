@@ -1,5 +1,7 @@
 # favoritism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favoritism.md)
+
 <p><span class="chinese">因为神不偏待人。</span><span class="english">For God does not show favoritism.</span></p>
 
 <p><span class="chinese">我还可以向自己的族群多许诺些好处，作为配套。</span><span class="english">I can also promise favoritism for my own group.</span></p>

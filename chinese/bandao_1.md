@@ -1,5 +1,7 @@
 # 半道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandao_1.md)
+
 <p><span class="chinese">我可不想半道儿就没油了。</span><span class="english">I don't want to run out of gas.</span></p>
 
 <p><span class="chinese">他在去商店的半道儿迷路了。</span><span class="english">He lost his way halfway to the shop.</span></p>

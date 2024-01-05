@@ -1,5 +1,7 @@
 # 三天两头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/santianliangtou.md)
+
 <p><span class="chinese">她三天两头往肉铺里跑什么？</span><span class="english">She three day does 2 go toward to run what in butcher shop?</span></p>
 
 <p><span class="chinese">我们三天两头旅行，每天要供应几百份饭。</span><span class="english">We live out of suitcases, and we serve hundreds of meals each day.</span></p>

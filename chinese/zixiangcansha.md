@@ -1,5 +1,7 @@
 # 自相残杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixiangcansha.md)
+
 <p><span class="chinese">一些组织甚至自相残杀。</span><span class="english">Some groups even fought one another.</span></p>
 
 <p><span class="chinese">没人期待自相残杀的妈妈们战斗中选择离场。</span><span class="english">No one expects us to choose sides in internecine mommy battles.</span></p>

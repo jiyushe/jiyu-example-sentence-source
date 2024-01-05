@@ -1,5 +1,7 @@
 # jams
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jams.md)
+
 <p><span class="chinese">为了避免这条街交通太拥挤。</span><span class="english">To avoid jams in this street.</span></p>
 
 <p><span class="chinese">北京、多伦多，都处都有交通堵塞。</span><span class="english">Beijing, Toronto, traffic jams</span></p>

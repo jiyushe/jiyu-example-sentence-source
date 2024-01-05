@@ -1,5 +1,7 @@
 # reuters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reuters.md)
+
 <p><span class="chinese">陈对路透社说。</span><span class="english">Chen told Reuters.</span></p>
 
 <p><span class="chinese">McNeill告诉路透社健康专栏。</span><span class="english">McNeill told Reuters Health.</span></p>

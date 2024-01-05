@@ -1,5 +1,7 @@
 # 前俯后仰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfuhouyang.md)
+
 <p><span class="chinese">观众笑得前俯后仰。</span><span class="english">The audience was rocking with laughter.</span></p>
 
 <p><span class="chinese">小丑在台上蹦来跳去的，观众们在座位里笑得前俯后仰。</span><span class="english">The audience were rolling about in their seats as the clown romped around on the stage.</span></p>

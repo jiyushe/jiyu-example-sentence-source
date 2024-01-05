@@ -1,5 +1,7 @@
 # entrust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrust.md)
+
 <p><span class="chinese">健康所系，性命所托。</span><span class="english">Tie with health, entrust by life.</span></p>
 
 <p><span class="chinese">不要将你的计划委托给一个“接线员”。</span><span class="english">Do not entrust your project to an "order taker".</span></p>

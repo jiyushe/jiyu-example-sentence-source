@@ -1,5 +1,7 @@
 # reappraise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reappraise.md)
+
 <p><span class="chinese">你多久进行一次房地产抵押品的再评估？</span><span class="english">How often do you reappraise real estate collateral?</span></p>
 
 <p><span class="chinese">但是他或许还须重新评估他的整个政治战略。</span><span class="english">But he may yet have to reappraise his entire political strategy.</span></p>

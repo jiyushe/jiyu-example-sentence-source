@@ -1,5 +1,7 @@
 # 产物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanwu.md)
+
 <p><span class="chinese">你是永世的一个产物。</span><span class="english">You are a heir of Eternity.</span></p>
 
 <p><span class="chinese">这首乐曲是他的智力产物。</span><span class="english">The music is his brain child.</span></p>

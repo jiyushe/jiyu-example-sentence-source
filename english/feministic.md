@@ -1,5 +1,7 @@
 # feministic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feministic.md)
+
 <p><span class="chinese">男性的高跟鞋，我可以当做是男女平等的另一个象征。</span><span class="english">And male's high-heel shoes may consider as a symbol of feministic.</span></p>
 
 <p><span class="chinese">上世纪后期也有人通过女性主义对其作品进行解读。</span><span class="english">Feministic criticism also appears in the later years of last century.</span></p>

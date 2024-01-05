@@ -1,5 +1,7 @@
 # 姨母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimu.md)
+
 <p><span class="chinese">她是你的姨母吗？</span><span class="english">Is she your aunt?</span></p>
 
 <p><span class="chinese">她与你的姨母相处得如何?</span><span class="english">Does she get on with your aunt?</span></p>

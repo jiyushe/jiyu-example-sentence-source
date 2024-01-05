@@ -1,5 +1,7 @@
 # band
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/band.md)
+
 <p><span class="chinese">那是一根橡皮筋。</span><span class="english">A rubber band.</span></p>
 
 <p><span class="chinese">什么样的乐队?</span><span class="english">What kind of band?</span></p>

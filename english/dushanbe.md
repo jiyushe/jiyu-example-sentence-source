@@ -1,5 +1,7 @@
 # dushanbe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dushanbe.md)
+
 <p><span class="chinese">杜尚别是首都和最大城市。</span><span class="english">Dushanbe is the capital and the largest city.</span></p>
 
 <p><span class="chinese">所有病例报告均来自该国的西南部地区，包括首都杜尚别市。</span><span class="english">All cases are reported from the south-west of the country, including the capital city Dushanbe.</span></p>

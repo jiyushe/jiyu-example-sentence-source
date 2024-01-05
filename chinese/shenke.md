@@ -1,5 +1,7 @@
 # 深刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenke.md)
+
 <p><span class="chinese">临走时，我的印象很深刻。</span><span class="english">I left impressed.</span></p>
 
 <p><span class="chinese">印象深刻的乘客？</span><span class="english">Memorable customers?</span></p>

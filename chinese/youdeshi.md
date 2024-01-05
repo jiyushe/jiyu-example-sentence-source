@@ -1,5 +1,7 @@
 # 有的是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdeshi.md)
+
 <p><span class="chinese">他有的是力气。</span><span class="english">He has plenty of strength.</span></p>
 
 <p><span class="chinese">有的是国家，为什么偏要去挪威呢？</span><span class="english">Why go to Norway, of all countries?</span></p>

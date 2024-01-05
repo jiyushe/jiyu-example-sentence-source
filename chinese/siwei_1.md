@@ -1,5 +1,7 @@
 # 思维
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siwei_1.md)
+
 <p><span class="chinese">改变思维定势。</span><span class="english">Change the mind-set.</span></p>
 
 <p><span class="chinese">他的思维也十分开阔。</span><span class="english">He was also broad-minded.</span></p>

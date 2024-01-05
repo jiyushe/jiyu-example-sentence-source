@@ -1,5 +1,7 @@
 # helpmate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helpmate.md)
+
 <p><span class="chinese">尽管人们证明他是一个认真尽责的帮手。</span><span class="english">It turns out, though, that he was a conscientious helpmate.</span></p>
 
 <p><span class="chinese">现在，她已成了他一切仁慈行为当仁不让的助手。</span><span class="english">She had now the right to be his helpmate in his all kind deeds.</span></p>

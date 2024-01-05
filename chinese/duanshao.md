@@ -1,5 +1,7 @@
 # 短少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanshao.md)
+
 <p><span class="chinese">短少按照有关条款处理。</span><span class="english">Shortage to be settled as per relevant clause.</span></p>
 
 <p><span class="chinese">我们发现每箱重量都短少。</span><span class="english">We find that the case shows a shortage in weight.</span></p>

@@ -1,5 +1,7 @@
 # 摘除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaichu.md)
+
 <p><span class="chinese">手术可摘除白内障。</span><span class="english">Surgery can remove cataracts.</span></p>
 
 <p><span class="chinese">她是去年摘除的扁桃腺。</span><span class="english">She had her tonsils out last year.</span></p>

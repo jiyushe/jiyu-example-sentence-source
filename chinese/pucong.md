@@ -1,5 +1,7 @@
 # 仆从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pucong.md)
+
 <p><span class="chinese">哦，你是个不自觉的仆从。</span><span class="english">Oh, you are an unconscious henchman.</span></p>
 
 <p><span class="chinese">巫妖王在看著我们这些仆从！</span><span class="english">The Lich King watches over us minions!</span></p>

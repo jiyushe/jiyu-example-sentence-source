@@ -1,5 +1,7 @@
 # 少言寡语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoyanguayu.md)
+
 <p><span class="chinese">你是一个少言寡语的人。</span><span class="english">He is aman of few words.</span></p>
 
 <p><span class="chinese">我叔叔是个少言寡语的人。</span><span class="english">My uncle is a man of few words.</span></p>

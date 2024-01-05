@@ -1,5 +1,7 @@
 # languish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/languish.md)
+
 <p><span class="chinese">应是绿肥红瘦.</span><span class="english">The red should languish and the green must grow?</span></p>
 
 <p><span class="chinese">你炼就了我的铁石心肠，不会在月圆的夜苦苦期盼。</span><span class="english">You had my heart of stone, not in the full moon night languish.</span></p>

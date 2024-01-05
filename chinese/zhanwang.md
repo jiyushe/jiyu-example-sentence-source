@@ -1,5 +1,7 @@
 # 展望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanwang.md)
+
 <p><span class="chinese">展望了该领域未来的研究方向。</span><span class="english">And the future study is previewed.</span></p>
 
 <p><span class="chinese">展望了菊粉的应用前景。</span><span class="english">It predicts the prospect of inulin.</span></p>

@@ -1,5 +1,7 @@
 # 受害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhai.md)
+
 <p><span class="chinese">受害比率。</span><span class="english">Victimization ratio.</span></p>
 
 <p><span class="chinese">受害的人不只是达克沃斯。</span><span class="english">Duckworth is not alone.</span></p>

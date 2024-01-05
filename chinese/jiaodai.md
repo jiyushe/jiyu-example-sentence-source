@@ -1,5 +1,7 @@
 # 交代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodai.md)
+
 <p><span class="chinese">我怎么跟特克斯交代啊?</span><span class="english">What am I going to tell Tex?</span></p>
 
 <p><span class="chinese">上级交代的其他任务。</span><span class="english">Other tasks assigned by Superior.</span></p>

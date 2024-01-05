@@ -1,5 +1,7 @@
 # goldsmith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldsmith.md)
+
 <p><span class="chinese">由杰瑞．曼特和爱德华．戈德史密斯编辑。</span><span class="english">Edited by Jerry Mander and Edward Goldsmith.</span></p>
 
 <p><span class="chinese">这是欧文对奥利弗·戈德史密斯的评语。</span><span class="english">This is Irving's appraisal of Oliver Goldsmith.</span></p>

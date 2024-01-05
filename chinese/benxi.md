@@ -1,5 +1,7 @@
 # 奔袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benxi.md)
+
 <p><span class="chinese">我选择成为一个影子杀手，因为我喜欢长距离的带球奔袭。</span><span class="english">I prefer playing as a Trequartista, as I like to run at the goal from distance.</span></p>
 
 <p><span class="chinese">在如今这个社会里，每个男人都像一匹长途奔袭的马，没有终点，只有长路。</span><span class="english">In today's society in which every man is like a long-range raid the horse, there is no end, only a long way.</span></p>

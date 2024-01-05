@@ -1,5 +1,7 @@
 # 兼收并蓄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshoubingxu.md)
+
 <p><span class="chinese">一切都兼收并蓄，但所有一起工作。</span><span class="english">It's all eclectic, but it all works together.</span></p>
 
 <p><span class="chinese">也许最佳的答案是对五种方法采取兼收并蓄的态度。</span><span class="english">Probable the best answer is a synthesis of all five.</span></p>

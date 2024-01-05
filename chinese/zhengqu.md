@@ -1,5 +1,7 @@
 # 争取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqu.md)
+
 <p><span class="chinese">争取更低的银行费用。</span><span class="english">Negotiate lower bank fees.</span></p>
 
 <p><span class="chinese">你今天争取了什么呢？</span><span class="english">What have you taken today?</span></p>

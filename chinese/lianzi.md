@@ -1,5 +1,7 @@
 # 帘子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzi.md)
+
 <p><span class="chinese">贼人溜到了帘子后面。</span><span class="english">The thief slid behind the curtains.</span></p>
 
 <p><span class="chinese">每个床上都挂了帘子。</span><span class="english">Over each bed there hangs a curtain.</span></p>

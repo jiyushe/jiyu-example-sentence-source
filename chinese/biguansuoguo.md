@@ -1,5 +1,7 @@
 # 闭关锁国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biguansuoguo.md)
+
 <p><span class="chinese">闭关锁国，任何一个国家都不能健康的发展。</span><span class="english">No country can develop healthily with its door closed.</span></p>
 
 <p><span class="chinese">导致了中国走向了闭关锁国的小农经济的开始。</span><span class="english">Led to a closed-door policy of China to start small-scale peasant.</span></p>

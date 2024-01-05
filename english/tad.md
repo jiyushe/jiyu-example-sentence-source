@@ -1,5 +1,7 @@
 # tad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tad.md)
+
 <p><span class="chinese">首先，合资企业本身多少就是一个时代错误。</span><span class="english">For one thing, JVs themselves are a tad anachronistic.</span></p>
 
 <p><span class="chinese">当她叫他“先生”的时候，那男人只是微微抬起下巴。</span><span class="english">He raised his chin just a tad when she called him "Sir."</span></p>

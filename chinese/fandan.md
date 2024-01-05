@@ -1,5 +1,7 @@
 # 反弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fandan.md)
+
 <p><span class="chinese">球反弹越过了网。</span><span class="english">The ball bounced over the net.</span></p>
 
 <p><span class="chinese">如果你把它往下抛，它会反弹。</span><span class="english">If you drop it,it will bounce back.</span></p>

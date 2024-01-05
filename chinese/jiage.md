@@ -1,5 +1,7 @@
 # 价格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiage.md)
+
 <p><span class="chinese">价格定在C</span><span class="english">At C.</span></p>
 
 <p><span class="chinese">价格已跌落。</span><span class="english">Price has declined.</span></p>

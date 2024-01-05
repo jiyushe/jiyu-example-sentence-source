@@ -1,5 +1,7 @@
 # tyranny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyranny.md)
+
 <p><span class="chinese">唉，为什么，既怵于时光的专横。</span><span class="english">Alas why fearing of time's tyranny.</span></p>
 
 <p><span class="chinese">中国是超级资本主义暴政。</span><span class="english">China is a ultra-capitalist tyranny.</span></p>

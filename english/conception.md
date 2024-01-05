@@ -1,5 +1,7 @@
 # conception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conception.md)
+
 <p><span class="chinese">这种观念已被僵化。</span><span class="english">This conception has been rigidified.</span></p>
 
 <p><span class="chinese">“毒”是中医学的一个特殊概念。</span><span class="english">"Du" is a special conception of TCM.</span></p>

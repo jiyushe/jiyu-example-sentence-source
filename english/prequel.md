@@ -1,5 +1,7 @@
 # prequel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prequel.md)
+
 <p><span class="chinese">现在则有了“前传”。</span><span class="english">Now there is the "prequel".</span></p>
 
 <p><span class="chinese">不过，幸亏有前传三部曲，丘巴卡又回来了。</span><span class="english">Chewbacca nonetheless returned thanks to the prequel trilogy.</span></p>

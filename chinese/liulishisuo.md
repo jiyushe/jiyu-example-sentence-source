@@ -1,5 +1,7 @@
 # 流离失所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulishisuo.md)
+
 <p><span class="chinese">去年冬天他们由于尘暴而流离失所。</span><span class="english">They were dusted out last winter.</span></p>
 
 <p><span class="chinese">苏丹西达尔富尔州国内流离失所者营地**</span><span class="english">Sudan, West Darfur State IDP camps **</span></p>

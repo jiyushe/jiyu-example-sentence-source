@@ -1,5 +1,7 @@
 # cases
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cases.md)
+
 <p><span class="chinese">是的，在某些情况下。</span><span class="english">Yes, in some cases.</span></p>
 
 <p><span class="chinese">这是你们的箱子吗？</span><span class="english">Are there yous cases?</span></p>

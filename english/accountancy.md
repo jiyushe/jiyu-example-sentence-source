@@ -1,5 +1,7 @@
 # accountancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accountancy.md)
+
 <p><span class="chinese">他是一名会计专业的学生。</span><span class="english">He is an accountancy student.</span></p>
 
 <p><span class="chinese">我是一名会计系毕业的学生。</span><span class="english">I am an accountancy graduation of student.</span></p>

@@ -1,5 +1,7 @@
 # staghorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staghorn.md)
+
 <p><span class="chinese">临床应用37例，全部一次取尽结石。</span><span class="english">The complex staghorn calculi were completely removed in 37 cases.</span></p>
 
 <p><span class="chinese">图中可见巨大的鹿角样结石嵌顿于肾盂肾盏系统。</span><span class="english">A large staghorn calculus is seen obstructing the renal peli-calyceal system.</span></p>

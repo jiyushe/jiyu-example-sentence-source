@@ -1,5 +1,7 @@
 # 财主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caizhu.md)
+
 <p><span class="chinese">你现在很富有了，是个大财主了。</span><span class="english">You are rich as Croesus now!</span></p>
 
 <p><span class="chinese">财主也死了，并且埋葬了。</span><span class="english">The rich man also died and was buried.</span></p>

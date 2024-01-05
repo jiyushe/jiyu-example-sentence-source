@@ -1,5 +1,7 @@
 # 心直口快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhikoukuai.md)
+
 <p><span class="chinese">我是个老实人，心直口快。</span><span class="english">I am an honest man, straight as an arrow.</span></p>
 
 <p><span class="chinese">我是一个诚实的人，心直口快。</span><span class="english">I was an honest man , straight as an arrow.</span></p>

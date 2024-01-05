@@ -1,5 +1,7 @@
 # ear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ear.md)
+
 <p><span class="chinese">附耳过来说句话。</span><span class="english">A word in your ear.</span></p>
 
 <p><span class="chinese">附耳过来说句话。</span><span class="english">AA word in your ear.</span></p>

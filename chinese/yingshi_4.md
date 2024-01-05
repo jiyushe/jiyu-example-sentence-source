@@ -1,5 +1,7 @@
 # 萤石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshi_4.md)
+
 <p><span class="chinese">萤石是一种常见呈晶簇产出的矿物。</span><span class="english">Fluorite is common mineral assumed druses.</span></p>
 
 <p><span class="chinese">萤石-石英-白云石是一种稀见少有呈晶簇产出的矿物。</span><span class="english">Fluorite is one of common mineral assumed crystalline druses.</span></p>

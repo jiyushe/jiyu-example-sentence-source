@@ -1,5 +1,7 @@
 # tryptophan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tryptophan.md)
+
 <p><span class="chinese">火鸡肉是绝佳的色氨酸来源。</span><span class="english">Turkey meat is an excellent source for tryptophan.</span></p>
 
 <p><span class="chinese">一旦进入大脑，色氨酸会被转化成血清素。</span><span class="english">Once in the brain, the tryptophan is converted to serotonin.</span></p>

@@ -1,5 +1,7 @@
 # 大器晚成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqiwancheng.md)
+
 <p><span class="chinese">但李是大器晚成。</span><span class="english">But Li is a late bloomer.</span></p>
 
 <p><span class="chinese">自己属于大器晚成型。</span><span class="english">You belong to built type.</span></p>

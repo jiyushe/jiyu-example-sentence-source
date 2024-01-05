@@ -1,5 +1,7 @@
 # unattractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unattractive.md)
+
 <p><span class="chinese">显然他那些小孩般的抱怨也不讨人喜欢。</span><span class="english">And the brattish whining is distinctly unattractive.</span></p>
 
 <p><span class="chinese">我的会计是一位很难看的德国中年妇女。</span><span class="english">My bookkeeper is a big unattractive German middleaged woman.</span></p>

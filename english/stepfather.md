@@ -1,5 +1,7 @@
 # stepfather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepfather.md)
+
 <p><span class="chinese">他的继父给了他很多指导。</span><span class="english">Instruction came from his stepfather.</span></p>
 
 <p><span class="chinese">还好她的继父是个很好的人.</span><span class="english">Fortunately the stepfather is a kind man.</span></p>

@@ -1,5 +1,7 @@
 # 增生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengsheng.md)
+
 <p><span class="chinese">传代培养细胞不能增生。</span><span class="english">The subculture could not be established.</span></p>
 
 <p><span class="chinese">能抚慰乳腺增生发育。</span><span class="english">To assuage the development of mammary hyperplasia.</span></p>

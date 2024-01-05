@@ -1,5 +1,7 @@
 # 焚香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenxiang_1.md)
+
 <p><span class="chinese">他在焚香祷祝。</span><span class="english">He is praying with incense burning.</span></p>
 
 <p><span class="chinese">点燃香烛或者焚香。</span><span class="english">Light an aromatherapy candle or incense.</span></p>

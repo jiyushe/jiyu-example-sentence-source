@@ -1,5 +1,7 @@
 # 童年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongnian_1.md)
+
 <p><span class="chinese">要追溯到你的童年？</span><span class="english">Going back to your childhood?</span></p>
 
 <p><span class="chinese">我的童年是个恶梦。</span><span class="english">My childhood was a nightmare.</span></p>

@@ -1,5 +1,7 @@
 # 美容院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meirongyuan.md)
+
 <p><span class="chinese">这家餐厅的斜对面是一家美容院。</span><span class="english">The station is almost opposite the school.</span></p>
 
 <p><span class="chinese">瑞哈娜在远一点的一家美容院打工。</span><span class="english">Rehana works at a beauty parlour down the road.</span></p>

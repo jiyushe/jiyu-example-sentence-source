@@ -1,5 +1,7 @@
 # 奉还
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghuan.md)
+
 <p><span class="chinese">任何人如果杀了该隐，该隐可以七倍奉还。</span><span class="english">If anyone kills Cain, Cain shall be avenged sevenfold.</span></p>
 
 <p><span class="chinese">货一到我们就会寄出，然后把余额奉还。</span><span class="english">We sent the goods arrived, and then the shortage will be refund.</span></p>

@@ -1,5 +1,7 @@
 # referenda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referenda.md)
+
 <p><span class="chinese">“作为一个国家”做决定有时候是不可避免的，比如选举和全民公决。</span><span class="english">Making choices "as a country" cannot be avoided in some cases, such as elections or referenda.</span></p>
 
 <p><span class="chinese">同时还能让我们的选择，从简单的“是”与“否”的二元投票扩展到更广的范围。</span><span class="english">It will also increase the spectrum of our choices, beyond the binary options of "Yes" or "No" referenda.</span></p>

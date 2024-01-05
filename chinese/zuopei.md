@@ -1,5 +1,7 @@
 # 作陪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuopei.md)
+
 <p><span class="chinese">你是来作陪的吗？</span><span class="english">Are you here to chaperone?</span></p>
 
 <p><span class="chinese">欢腾要有悲伤作陪！</span><span class="english">Hrequestiness is together with sorrow!</span></p>

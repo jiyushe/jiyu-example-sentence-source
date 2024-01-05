@@ -1,5 +1,7 @@
 # balloonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balloonist.md)
+
 <p><span class="chinese">“你一定是一个工程师”，热气球上的人说。</span><span class="english">You must be an engineer" says the balloonist.</span></p>
 
 <p><span class="chinese">“你必定是个工程设计师，”气球上的男人说。</span><span class="english">"You must be an engineer," said the balloonist.</span></p>

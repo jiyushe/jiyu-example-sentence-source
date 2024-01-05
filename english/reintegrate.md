@@ -1,5 +1,7 @@
 # reintegrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reintegrate.md)
+
 <p><span class="chinese">当前政策的主要关注点是把辍学的年轻人从新整合起来。</span><span class="english">A major current policy concern is to reintegrate young drop-outs.</span></p>
 
 <p><span class="chinese">我们应当将国家经济重新纳入世界经济中去。</span><span class="english">We should reintegrate our nation's economy into the world economy.</span></p>

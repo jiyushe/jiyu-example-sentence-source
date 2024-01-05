@@ -1,5 +1,7 @@
 # bev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bev.md)
+
 <p><span class="chinese">我叫贝弗马歇尔。</span><span class="english">I'm Bev Marshall.</span></p>
 
 <p><span class="chinese">贝弗利，但是请叫我贝弗。</span><span class="english">Beverly, but please call me Bev.</span></p>

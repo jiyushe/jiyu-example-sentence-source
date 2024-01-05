@@ -1,5 +1,7 @@
 # sirius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sirius.md)
+
 <p><span class="chinese">但是小天狼星没有出现。</span><span class="english">But Sirius did not reappear.</span></p>
 
 <p><span class="chinese">邓不利多悲伤的眼睛转向小天狼星。</span><span class="english">Dumbledore's sad eyes moved back to Sirius.</span></p>

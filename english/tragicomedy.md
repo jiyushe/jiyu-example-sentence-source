@@ -1,5 +1,7 @@
 # tragicomedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tragicomedy.md)
+
 <p><span class="chinese">这构成女作家一生的悲喜剧。</span><span class="english">This constituted her life tragicomedy.</span></p>
 
 <p><span class="chinese">在许多地区，这一悲喜剧不断上演。</span><span class="english">In many areas, this tragicomedy staged continuously.</span></p>

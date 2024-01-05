@@ -1,5 +1,7 @@
 # 蹦床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengchuang.md)
+
 <p><span class="chinese">摆上一个鞍马和蹦床。</span><span class="english">Get a vaulting horse and a trampoline.</span></p>
 
 <p><span class="chinese">跳到蹦床上你得先脱鞋。</span><span class="english">You take your shoes off to jump on a trampoline.</span></p>

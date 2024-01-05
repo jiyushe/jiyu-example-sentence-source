@@ -1,5 +1,7 @@
 # psychic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychic.md)
+
 <p><span class="chinese">你是通灵还是透视啊？</span><span class="english">Are you psychic or clairvoyant?</span></p>
 
 <p><span class="chinese">女人越老越通灵及成熟。</span><span class="english">Women get psychic and mature as they age.</span></p>

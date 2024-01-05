@@ -1,5 +1,7 @@
 # bargain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bargain.md)
+
 <p><span class="chinese">房钱很廉价。</span><span class="english">Its really a bargain.</span></p>
 
 <p><span class="chinese">空言不能成交易。</span><span class="english">Bare words, no bargain.</span></p>

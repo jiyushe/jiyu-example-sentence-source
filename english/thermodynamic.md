@@ -1,5 +1,7 @@
 # thermodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermodynamic.md)
+
 <p><span class="chinese">这就是热力学第零定律。</span><span class="english">And that's the zeroth law thermodynamic.</span></p>
 
 <p><span class="chinese">然后抽象这些一般的热力学定律。</span><span class="english">We formulate these broad thermodynamic laws.</span></p>

@@ -1,5 +1,7 @@
 # 丁当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdang.md)
+
 <p><span class="chinese">他使钟丁当作响。</span><span class="english">He dinged the bell.</span></p>
 
 <p><span class="chinese">小铃丁当作响。</span><span class="english">The little bell tinkles.</span></p>

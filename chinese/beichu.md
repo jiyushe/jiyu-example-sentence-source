@@ -1,5 +1,7 @@
 # 辈出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beichu.md)
+
 <p><span class="chinese">我们的时代英雄辈出。</span><span class="english">Our era produces a host of heroes and heroines.</span></p>
 
 <p><span class="chinese">即便在耶鲁这个才子辈出的地方，他也表现得很突出。</span><span class="english">Even at Yale, home of overachievers, he stands out.</span></p>

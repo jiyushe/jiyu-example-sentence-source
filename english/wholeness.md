@@ -1,5 +1,7 @@
 # wholeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wholeness.md)
+
 <p><span class="chinese">你回到了一个完整的舒适的状态。</span><span class="english">You return to a state of wholeness and ease.</span></p>
 
 <p><span class="chinese">我希望他能够健健康康的，完整无缺。</span><span class="english">I wished for him to find health and wholeness.</span></p>

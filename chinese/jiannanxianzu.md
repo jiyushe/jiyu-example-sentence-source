@@ -1,5 +1,7 @@
 # 艰难险阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiannanxianzu.md)
+
 <p><span class="chinese">约翰•威斯特历尽艰难险阻为您带来最佳的镜头。</span><span class="english">John West endures the worst to bring you the best.</span></p>
 
 <p><span class="chinese">任何时候都不要轻易放弃，即使遇到了艰难险阻。</span><span class="english">Don't be a quitter at any time, even in face of immense difficulties.</span></p>

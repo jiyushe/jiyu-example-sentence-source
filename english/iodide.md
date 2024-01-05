@@ -1,5 +1,7 @@
 # iodide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iodide.md)
+
 <p><span class="chinese">那是一种叫做碘化银的化合物。</span><span class="english">It was a compound called silver iodide.</span></p>
 
 <p><span class="chinese">孕妇可以服用碘化钾药片吗？</span><span class="english">Can pregnant women take potassium iodide pills?</span></p>

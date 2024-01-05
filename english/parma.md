@@ -1,5 +1,7 @@
 # parma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parma.md)
+
 <p><span class="chinese">番茄酱，马苏里拉，巴马火腿，芝麻菜。</span><span class="english">Tomato sauce, mozzarella, parma ham, arugula.</span></p>
 
 <p><span class="chinese">他现在在纽卡斯尔，现在有机会大放光彩。</span><span class="english">He is at Parma now and he has a chance to shine.</span></p>

@@ -1,5 +1,7 @@
 # 黄泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangquan.md)
+
 <p><span class="chinese">而今，我堕入黄泉，你永生碧落。</span><span class="english">Now, I fall into their lives, you Biluo immortalized.</span></p>
 
 <p><span class="chinese">妻也空，子也空，黄泉路上不相逢。</span><span class="english">Wife are empty, son of space, would not meet the Styx.</span></p>

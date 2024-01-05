@@ -1,5 +1,7 @@
 # 蛮不讲理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manbujiangli.md)
+
 <p><span class="chinese">在这种蛮不讲理的人手下工作真令人恼火。</span><span class="english">It rubs to work under such an obstinate man.</span></p>
 
 <p><span class="chinese">他是一个贪婪、奸诈而又蛮不讲理的人。</span><span class="english">He is a possessive, duplicitous and unreasonable man.</span></p>

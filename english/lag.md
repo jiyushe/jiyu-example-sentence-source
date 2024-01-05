@@ -1,5 +1,7 @@
 # lag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lag.md)
+
 <p><span class="chinese">“我倒了两天时差”怎么说？</span><span class="english">I had jet lag for 2 days.</span></p>
 
 <p><span class="chinese">成比例的玩具小人模型也表现出这种滞后。</span><span class="english">A scale model showed the same lag.</span></p>

@@ -1,5 +1,7 @@
 # 和颜悦色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyanyuese.md)
+
 <p><span class="chinese">隔邻邻人们都是和颜悦色的人。</span><span class="english">The next-door neighbors are amiable people.</span></p>
 
 <p><span class="chinese">她对待大小人物一样和颜悦色。</span><span class="english">She shows the same kind manner towards great and small alike.</span></p>

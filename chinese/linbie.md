@@ -1,5 +1,7 @@
 # 临别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linbie.md)
+
 <p><span class="chinese">一个小小的临别礼物。</span><span class="english">A little going-away present.</span></p>
 
 <p><span class="chinese">临别的演说、言语、礼物。</span><span class="english">A valedictory speech, message, gift.</span></p>

@@ -1,5 +1,7 @@
 # 途程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tucheng_1.md)
+
 <p><span class="chinese">由车站走到这里只要非常钟的途程。</span><span class="english">It is no more than ten minutes" walk from the station."</span></p>
 
 <p><span class="chinese">在三部一鸣惊人的电影之后，X战警们不可思议的途程将接续开始！</span><span class="english">After three blockbuster movies, the incredible journey of the X-Men continues!</span></p>

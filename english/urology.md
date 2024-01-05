@@ -1,5 +1,7 @@
 # urology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urology.md)
+
 <p><span class="chinese">泌尿学。</span><span class="english">Nature Reviews Urology.</span></p>
 
 <p><span class="chinese">结论彻底降低了泌尿外科的感染率。</span><span class="english">Conculsion To reduce urology infection rates.</span></p>

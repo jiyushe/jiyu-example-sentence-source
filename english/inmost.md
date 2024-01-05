@@ -1,5 +1,7 @@
 # inmost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inmost.md)
+
 <p><span class="chinese">她想方设法要了解他内心深处的想法。</span><span class="english">She sought to discern his inmost thoughts.</span></p>
 
 <p><span class="chinese">内心深处的幸福是世界上最美妙的。</span><span class="english">The inmost happiness is the most dulcet in the world.</span></p>

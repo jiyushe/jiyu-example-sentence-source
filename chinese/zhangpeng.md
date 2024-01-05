@@ -1,5 +1,7 @@
 # 帐篷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangpeng.md)
+
 <p><span class="chinese">一些人还支起了帐篷。</span><span class="english">Some had tents.</span></p>
 
 <p><span class="chinese">我的帐篷是防水的。</span><span class="english">My tent is waterproof.</span></p>

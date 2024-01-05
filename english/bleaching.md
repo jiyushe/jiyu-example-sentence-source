@@ -1,5 +1,7 @@
 # bleaching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleaching.md)
+
 <p><span class="chinese">漂染会损伤我的头发吗？</span><span class="english">Will bleaching damage my hair?</span></p>
 
 <p><span class="chinese">我担心染发会伤害我的头发。</span><span class="english">I'm afraid of bleaching my hair.</span></p>

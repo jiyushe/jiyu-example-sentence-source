@@ -1,5 +1,7 @@
 # 呆若木鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dairuomuji.md)
+
 <p><span class="chinese">你在那一刻呆若木鸡。</span><span class="english">You are just stunned at that moment.</span></p>
 
 <p><span class="chinese">当娜佳的母亲看到这枚戒指时，她惊得呆若木鸡?。</span><span class="english">When Naja's mother saw the ring, she was petrified.</span></p>

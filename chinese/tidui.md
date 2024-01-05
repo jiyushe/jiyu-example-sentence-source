@@ -1,5 +1,7 @@
 # 梯队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tidui.md)
+
 <p><span class="chinese">二是队伍结构形成梯队。</span><span class="english">The team structure is rundle.</span></p>
 
 <p><span class="chinese">第三梯队是一些地方品牌。</span><span class="english">And Group 3 covers some local brands.</span></p>

@@ -1,5 +1,7 @@
 # undermanned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undermanned.md)
+
 <p><span class="chinese">他们人员不足，而我们很好的利用了这一点。</span><span class="english">They were undermanned and we were able to take advantage of them.</span></p>
 
 <p><span class="chinese">“他们人手不足而我们恰好能够利用这个机会，”小拜说。</span><span class="english">"They were undermanned and we were able to take advantage of them, " Bynum said.</span></p>

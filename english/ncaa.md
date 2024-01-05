@@ -1,5 +1,7 @@
 # ncaa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ncaa.md)
+
 <p><span class="chinese">1999年，这支爱斯基摩犬队进入了球队的第一个NCAA四强赛。</span><span class="english">In 1999, the Huskies reached their first Final Four appearance in NCAA.</span></p>
 
 <p><span class="chinese">NCAA将热适应加入到足球训练的计划中</span><span class="english">The NCAA has incorporated heat acclimation into football training schedules.</span></p>

@@ -1,5 +1,7 @@
 # wedge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wedge.md)
+
 <p><span class="chinese">楔板实心蒙乃尔。</span><span class="english">Wedge solid Monel.</span></p>
 
 <p><span class="chinese">从前，有一只圆圈缺了一块楔子。</span><span class="english">Once, a circle missed a wedge.</span></p>

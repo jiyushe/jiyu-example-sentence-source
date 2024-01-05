@@ -1,5 +1,7 @@
 # 卡口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kakou.md)
+
 <p><span class="chinese">PDA压电式加速度计，卡口。</span><span class="english">PDA Piezoelectric Accelerometer, twistlock plug.</span></p>
 
 <p><span class="chinese">该装置彻底地消除了雷管卡口工序过程中存在的安全隐患。</span><span class="english">This device eliminates potential safety hazard existing in the crimping operation.</span></p>

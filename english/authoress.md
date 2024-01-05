@@ -1,5 +1,7 @@
 # authoress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authoress.md)
+
 <p><span class="chinese">他向这位女作家点点头。</span><span class="english">He bowed to the authoress.</span></p>
 
 <p><span class="chinese">丁玲是一位有着强烈自我更新愿望的女作家。</span><span class="english">Ding Ling is an authoress with a strong hope of self-renewal.</span></p>

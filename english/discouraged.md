@@ -1,5 +1,7 @@
 # discouraged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discouraged.md)
+
 <p><span class="chinese">不要气馁！</span><span class="english">Don't get discouraged.</span></p>
 
 <p><span class="chinese">但是爱德华兹并不气馁。</span><span class="english">But Edwards isn’t discouraged.</span></p>

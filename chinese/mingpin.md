@@ -1,5 +1,7 @@
 # 名品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingpin.md)
+
 <p><span class="chinese">纽约佬可以在当地买到世界各地的名品。</span><span class="english">New Yorkers can shop locally and buy globally.</span></p>
 
 <p><span class="chinese">你知道茅台酒吗，那可是酒中名品啊！</span><span class="english">Do you know the brand Maotai? It is famous liquor.</span></p>

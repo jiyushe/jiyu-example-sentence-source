@@ -1,5 +1,7 @@
 # genre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genre.md)
+
 <p><span class="chinese">我异域的野玫瑰。</span><span class="english">My rose of foreign genre.</span></p>
 
 <p><span class="chinese">因此它是一种音乐体裁</span><span class="english">So it's a genre of music.</span></p>

@@ -1,5 +1,7 @@
 # component 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/component.md)
+
 <p><span class="chinese">什么是语音合成组件？</span><span class="english">What is the TTS component?</span></p>
 
 <p><span class="chinese">方向的分力。，the，y，component。,这是x方向的。</span><span class="english">y This is the x component.</span></p>

@@ -1,5 +1,7 @@
 # 食物链
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwulian.md)
+
 <p><span class="chinese">昆虫吃树叶就是一条食物链的一层。</span><span class="english">An insect eating a leaf is a chain of one.</span></p>
 
 <p><span class="chinese">污染影响的不仅仅是这些，还进入了人的食物链。</span><span class="english">The impact may well have spread into the human food chain.</span></p>

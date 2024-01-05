@@ -1,5 +1,7 @@
 # wellspring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wellspring.md)
+
 <p><span class="chinese">水源学院还在加利福尼亚开设了一所学校。</span><span class="english">Wellspring also runs an academy in California.</span></p>
 
 <p><span class="chinese">保守你的心胜过保守一切，因为一身的果效是由心发出的。</span><span class="english">Gard your heart for it is wellspring of your life.</span></p>

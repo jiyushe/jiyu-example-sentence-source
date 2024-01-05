@@ -1,5 +1,7 @@
 # 伤心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxin_1.md)
+
 <p><span class="chinese">可是你似乎很伤心。</span><span class="english">You seemed so sad.</span></p>
 
 <p><span class="chinese">现在，托托不伤心了。</span><span class="english">Tod is not sad now.</span></p>

@@ -1,5 +1,7 @@
 # 夜袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yexi.md)
+
 <p><span class="chinese">我们试图夜袭。</span><span class="english">We attempted an attack by night.</span></p>
 
 <p><span class="chinese">他们企图夜袭。</span><span class="english">They attempted an attack by night.</span></p>

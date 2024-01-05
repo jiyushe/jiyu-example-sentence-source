@@ -1,5 +1,7 @@
 # 牌照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizhao_1.md)
+
 <p><span class="chinese">牌照可是我付了钱的呀。</span><span class="english">I paid for my license plate.</span></p>
 
 <p><span class="chinese">批出29个金矿开采牌照。</span><span class="english">Awarded 29 gold mining licenses.</span></p>

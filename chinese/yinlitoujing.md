@@ -1,5 +1,7 @@
 # 引力透镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinlitoujing.md)
+
 <p><span class="chinese">这种超级天体如同一个引力透镜。</span><span class="english">That massive object acts as a gravitational lens.</span></p>
 
 <p><span class="chinese">引力透镜现象就是光被巨大质量物体弯曲的现象。</span><span class="english">A gravitational lens is formed when light is bent by a massive object.</span></p>

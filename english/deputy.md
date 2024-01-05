@@ -1,5 +1,7 @@
 # deputy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deputy.md)
+
 <p><span class="chinese">副议长主持了会议。</span><span class="english">The Deputy Speaker took the chair.</span></p>
 
 <p><span class="chinese">这个李刚是当地一个区的公安分局副局长。</span><span class="english">’—the district’s deputy police chief.</span></p>

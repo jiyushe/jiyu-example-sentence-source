@@ -1,5 +1,7 @@
 # 脚踏实地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotashidi.md)
+
 <p><span class="chinese">我看到他们脚踏实地。</span><span class="english">I see them being real.</span></p>
 
 <p><span class="chinese">他们必须脚踏实地，一步步来。</span><span class="english">They have to go step by step.</span></p>

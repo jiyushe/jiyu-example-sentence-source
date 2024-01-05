@@ -1,5 +1,7 @@
 # 举家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujia.md)
+
 <p><span class="chinese">玛丽出生在古巴，两岁时举家搬迁到迈阿密市。</span><span class="english">Anybody in Cuba can get Miami on his radio.</span></p>
 
 <p><span class="chinese">我非常了解宜兴这个地方。我两岁的时候就举家搬来了，并且从那时起就住在这。</span><span class="english">I Yixing very. I here my family when I was two years old and here.</span></p>

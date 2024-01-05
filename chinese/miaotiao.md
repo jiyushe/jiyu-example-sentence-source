@@ -1,5 +1,7 @@
 # 苗条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaotiao.md)
+
 <p><span class="chinese">她身材苗条。</span><span class="english">Her figure is svelte.</span></p>
 
 <p><span class="chinese">马丽是一个苗条的女孩。</span><span class="english">Mary is a slight girl.</span></p>

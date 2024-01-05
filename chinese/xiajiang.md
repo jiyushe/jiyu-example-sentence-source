@@ -1,5 +1,7 @@
 # 下降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajiang.md)
+
 <p><span class="chinese">还下降了一个百分点。</span><span class="english">in the last 7 years.</span></p>
 
 <p><span class="chinese">价格可能下降。</span><span class="english">Prices will drop back.</span></p>

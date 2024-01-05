@@ -1,5 +1,7 @@
 # bat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bat.md)
+
 <p><span class="chinese">是只蝙蝠。</span><span class="english">Just a bat.</span></p>
 
 <p><span class="chinese">一根棒球棒？</span><span class="english">A baseball bat?</span></p>

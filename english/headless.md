@@ -1,5 +1,7 @@
 # headless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headless.md)
+
 <p><span class="chinese">无头蟑螂能存活9天以上</span><span class="english">Headless Roaches Can Live Up To Nine Days</span></p>
 
 <p><span class="chinese">即使是没有头的蟑螂，也可以存活几个星期之久。</span><span class="english">Headless roaches are capable of living for weeks.</span></p>

@@ -1,5 +1,7 @@
 # get
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/get.md)
+
 <p><span class="chinese">滚出去。</span><span class="english">Get out.</span></p>
 
 <p><span class="chinese">我还过得去。</span><span class="english">I get by.</span></p>

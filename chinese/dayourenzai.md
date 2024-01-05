@@ -1,5 +1,7 @@
 # 大有人在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayourenzai.md)
+
 <p><span class="chinese">对这项技术持批评意见的大有人在。</span><span class="english">The technology has plenty of critics.</span></p>
 
 <p><span class="chinese">合格的工作人员现在大有人在。</span><span class="english">Qualified staff are two-a-penny at the moment.</span></p>

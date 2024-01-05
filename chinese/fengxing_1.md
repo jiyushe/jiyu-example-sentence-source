@@ -1,5 +1,7 @@
 # 风行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxing_1.md)
+
 <p><span class="chinese">但现在，推特开始风行于别处。</span><span class="english">But now it is catching on elsewhere.</span></p>
 
 <p><span class="chinese">去年夏天风行迷你裙。</span><span class="english">Mini-skirts were in fashion last summer.</span></p>

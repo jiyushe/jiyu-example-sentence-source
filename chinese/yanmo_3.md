@@ -1,5 +1,7 @@
 # 研磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmo_3.md)
+
 <p><span class="chinese">黑胡椒是研磨的胡椒子。</span><span class="english">Black pepper is ground peppercorns.</span></p>
 
 <p><span class="chinese">你用嘴巴研磨咖啡豆。</span><span class="english">You grind coffee beans in your mouth.</span></p>

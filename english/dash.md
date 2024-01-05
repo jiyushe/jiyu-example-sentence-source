@@ -1,5 +1,7 @@
 # dash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dash.md)
+
 <p><span class="chinese">叫他不要冲向前去。</span><span class="english">Tell him not to dash up.</span></p>
 
 <p><span class="chinese">真希望就在这分钟逃离。</span><span class="english">I wish to Dash this minute.</span></p>

@@ -1,5 +1,7 @@
 # mig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mig.md)
+
 <p><span class="chinese">米格战机一般搭载1到2人。</span><span class="english">MiG generally carry 1-2 people.</span></p>
 
 <p><span class="chinese">阀体-阀帽的焊接工艺是采用完全自动化的MIG焊接设备进行的。</span><span class="english">The body-bonnet welds are made on fully automatic MIG Welders.</span></p>

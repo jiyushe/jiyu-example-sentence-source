@@ -1,5 +1,7 @@
 # childless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childless.md)
+
 <p><span class="chinese">一对无子女的夫妇领养了这个混血儿。</span><span class="english">A childless couple adopted the half-breed.</span></p>
 
 <p><span class="chinese">这对无子女夫妇从孤儿院认养了一个女儿。</span><span class="english">This childless couple adopted a daughter from the orphanage.</span></p>

@@ -1,5 +1,7 @@
 # 麋鹿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/milu_1.md)
+
 <p><span class="chinese">麋鹿喝大量稀粥。</span><span class="english">Moose noshing much mush.</span></p>
 
 <p><span class="chinese">多可爱的麋鹿啊！</span><span class="english">What lovely elks they are!</span></p>

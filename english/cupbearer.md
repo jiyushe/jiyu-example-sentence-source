@@ -1,5 +1,7 @@
 # cupbearer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupbearer.md)
+
 <p><span class="chinese">我是作王酒政的。</span><span class="english">I was cupbearer to the king.</span></p>
 
 <p><span class="chinese">我是作王酒政的。</span><span class="english">For I was the king's cupbearer.</span></p>

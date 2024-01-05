@@ -1,5 +1,7 @@
 # 鹅卵石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eluanshi.md)
+
 <p><span class="chinese">我在鹅卵石上呀呀学语。</span><span class="english">I babble on the pebble.</span></p>
 
 <p><span class="chinese">这儿没有人带头盔，自行车胎在湿滑的鹅卵石路面上抓地力很好。</span><span class="english">No one wears helmets here.</span></p>

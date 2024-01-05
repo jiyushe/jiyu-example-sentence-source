@@ -1,5 +1,7 @@
 # 曲尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quchi.md)
+
 <p><span class="chinese">当然，现在曲尺是数学的公式。</span><span class="english">Nowadays, of course, splines are mathematical formulas.</span></p>
 
 <p><span class="chinese">海军曲尺手枪-唯一一套两个匹配的左轮手枪，在收集。</span><span class="english">Colt Navy Revolvers—the only set of two matching revolvers in the collection.</span></p>

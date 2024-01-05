@@ -1,5 +1,7 @@
 # 泥浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nijiang.md)
+
 <p><span class="chinese">泥浆从地下冒出来。</span><span class="english">Mud oozed from underground.</span></p>
 
 <p><span class="chinese">小李，把泥浆挖大点。</span><span class="english">Dig the mud-pit larger, Xiao Li.</span></p>

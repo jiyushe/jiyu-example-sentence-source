@@ -1,5 +1,7 @@
 # 卫星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixing.md)
+
 <p><span class="chinese">卫星广播？</span><span class="english">Satellite radio?</span></p>
 
 <p><span class="chinese">我们的卫星被打掉了，好么？</span><span class="english">Our satelite was down, ok?</span></p>

@@ -1,5 +1,7 @@
 # vitoria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitoria.md)
+
 <p><span class="chinese">我照的一张维多利亚港的照片，在比赛中得了第二名。</span><span class="english">A photograph I took of Vitoria Harbor won second prize in a contest.</span></p>
 
 <p><span class="chinese">曾有人问我是否在努力恢复维多利亚时代的价值观。</span><span class="english">Did someone ask me if I was trying to restore the value of the Vitoria era.</span></p>

@@ -1,5 +1,7 @@
 # daemon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daemon.md)
+
 <p><span class="chinese">我可以安装一个BC2代守护进程？</span><span class="english">Can I install a BC2 Daemon?</span></p>
 
 <p><span class="chinese">非根端口监控程序对用户的攻击</span><span class="english">Attacks by a non-root daemon on a user</span></p>

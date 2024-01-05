@@ -1,5 +1,7 @@
 # parameter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parameter.md)
+
 <p><span class="chinese">向量参数文件?。</span><span class="english">VPF? Vector Parameter File?</span></p>
 
 <p><span class="chinese">什么是安全系数？</span><span class="english">What is the safety parameter?</span></p>

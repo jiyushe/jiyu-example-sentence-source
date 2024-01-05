@@ -1,5 +1,7 @@
 # eurovision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eurovision.md)
+
 <p><span class="chinese">拿欧洲一年一度的大型歌唱大赛举个例子。</span><span class="english">Let’s take the Eurovision Song Contest as an example.</span></p>
 
 <p><span class="chinese">请点击这里欣赏他的出色表演。</span><span class="english">See link to his performance at the Eurovision final here.</span></p>

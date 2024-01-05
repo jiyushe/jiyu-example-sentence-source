@@ -1,5 +1,7 @@
 # astrophysics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrophysics.md)
+
 <p><span class="chinese">天体物理学与空间科学。</span><span class="english">Astrophysics and Space Science.</span></p>
 
 <p><span class="chinese">空间和时间，这听起来,像不像天文课程上学的东西？</span><span class="english">Space and time. Sounds like an astrophysics course, right?</span></p>

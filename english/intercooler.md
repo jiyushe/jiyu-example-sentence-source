@@ -1,5 +1,7 @@
 # intercooler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercooler.md)
+
 <p><span class="chinese">双级压缩复叠式热泵系统的最突出特点就是中冷器。</span><span class="english">The most important part of the system of TCCH is intercooler.</span></p>
 
 <p><span class="chinese">介绍了关于中间冷却器功能和再加热功能的控制方法。</span><span class="english">Methods of control are presented for both the intercooler and reheat functions.</span></p>

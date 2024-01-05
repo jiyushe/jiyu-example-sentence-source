@@ -1,5 +1,7 @@
 # 触类旁通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuleipangtong.md)
+
 <p><span class="chinese">如果懂得这点，其它的就可以触类旁通了。</span><span class="english">If you understand this point, you can understand the rest by analogy.</span></p>
 
 <p><span class="chinese">然而绘画与音乐在某种程度上又是触类旁通的。</span><span class="english">However, painting and music to some extent can also be comprehended similarly.</span></p>

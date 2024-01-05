@@ -1,5 +1,7 @@
 # 八卦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bagua.md)
+
 <p><span class="chinese">可我讨厌八卦新闻。</span><span class="english">But I hate to tabloid news.</span></p>
 
 <p><span class="chinese">我们先去八卦山。</span><span class="english">We went to Bagua Mountain first.</span></p>

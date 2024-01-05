@@ -1,5 +1,7 @@
 # puddling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puddling.md)
+
 <p><span class="chinese">沙砾搅着泥浆。</span><span class="english">The gravel was puddling with the mud.</span></p>
 
 <p><span class="chinese">使除锌后的瓦斯泥可继续作炼铁原料使用。</span><span class="english">The gas mud after making divide zinc can continue puddling raw material is used.</span></p>

@@ -1,5 +1,7 @@
 # pedant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedant.md)
+
 <p><span class="chinese">他是个老学究。</span><span class="english">He's an old pedant.</span></p>
 
 <p><span class="chinese">这人有点迂。</span><span class="english">He's a bit of a pedant.</span></p>

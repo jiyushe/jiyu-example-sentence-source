@@ -1,5 +1,7 @@
 # measuring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measuring.md)
+
 <p><span class="chinese">它度量着什么？</span><span class="english">What's it measuring?</span></p>
 
 <p><span class="chinese">不会漆测量竿的。</span><span class="english">Not the measuring stick.</span></p>

@@ -1,5 +1,7 @@
 # commendably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commendably.md)
+
 <p><span class="chinese">麦凯恩是一个标志明显的自由贸易主义者。</span><span class="english">Mr McCain is a commendably committed free-trader.</span></p>
 
 <p><span class="chinese">站长们都有一种可贵的拼劲，愈挫愈勇。</span><span class="english">Stationmaster people one kind spells interest commendably , more defeat heals brave.</span></p>

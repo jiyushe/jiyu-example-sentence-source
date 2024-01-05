@@ -1,5 +1,7 @@
 # antiseptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiseptic.md)
+
 <p><span class="chinese">她用消毒剂浸洗伤口。</span><span class="english">She bathed the cut with antiseptic.</span></p>
 
 <p><span class="chinese">护士用抗菌剂涂擦伤口。</span><span class="english">The nurse painted the wind antiseptic.</span></p>

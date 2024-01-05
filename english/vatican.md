@@ -1,5 +1,7 @@
 # vatican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vatican.md)
+
 <p><span class="chinese">梵蒂冈城可谓是“麻雀虽小，肝胆俱全”！</span><span class="english">Vatican City is all grown up.</span></p>
 
 <p><span class="chinese">梵帝冈这周公布了这封信的内容。</span><span class="english">The Vatican released the letter this week.</span></p>

@@ -1,5 +1,7 @@
 # 引以为耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyiweichi.md)
+
 <p><span class="chinese">是觉得引以为傲或引以为耻呢？</span><span class="english">Feel pride in it?Are we ashamed of it?</span></p>
 
 <p><span class="chinese">一个人引以为耻的事情越多，就越可敬。</span><span class="english">The more things a man is ashamed of the more respectable he is.</span></p>

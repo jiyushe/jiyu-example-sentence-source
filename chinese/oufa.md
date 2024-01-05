@@ -1,5 +1,7 @@
 # 偶发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/oufa.md)
+
 <p><span class="chinese">本质复杂度与偶发复杂度的比较</span><span class="english">Essential vs. accidental complexity</span></p>
 
 <p><span class="chinese">有三个问题可能会产生偶发复杂度。</span><span class="english">Three things tend to spawn accidental complexity.</span></p>

@@ -1,5 +1,7 @@
 # 驼色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuose_1.md)
+
 <p><span class="chinese">那么我们今年要留意哪些驼色单品呢？</span><span class="english">So what items are we seeing in camel this year?</span></p>
 
 <p><span class="chinese">骆驼色的沙丘沿着湖泊的北岸滚滚而过。</span><span class="english">Camel-colored sand dunes ripple along the lake's northern shore.</span></p>

@@ -1,5 +1,7 @@
 # bloodiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodiness.md)
+
 <p><span class="chinese">的确，这部电影震撼了我，我被亚洲人的残忍震撼了。</span><span class="english">Yes, the movie shocked me by showing the bloodiness of Asian.</span></p>
 
 <p><span class="chinese">我还不够自私不够残忍不够虚伪么。</span><span class="english">I am not selfish enough bloodiness enough and untruthful enough ?</span></p>

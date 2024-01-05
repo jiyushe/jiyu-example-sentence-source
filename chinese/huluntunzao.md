@@ -1,5 +1,7 @@
 # 囫囵吞枣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huluntunzao.md)
+
 <p><span class="chinese">你不能一个晚上囫囵吞枣式地读完那本书。</span><span class="english">You can't swallow the idea in that book overnight.</span></p>
 
 <p><span class="chinese">读书不能囫囵吞枣，而要从中吸取自己需要的东西。——易卜生。</span><span class="english">Reading cannot be swallowed, and learn what you need.</span></p>

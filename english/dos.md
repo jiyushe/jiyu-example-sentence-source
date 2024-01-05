@@ -1,5 +1,7 @@
 # dos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dos.md)
+
 <p><span class="chinese">宠坏的小羊将成了脾气坏的大羊。</span><span class="english">A pet lamb dos a cross ram.</span></p>
 
 <p><span class="chinese">猫一胆怯，鼠就翻天。</span><span class="english">A timid cat dos a proud mouse.</span></p>

@@ -1,5 +1,7 @@
 # impatience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impatience.md)
+
 <p><span class="chinese">要尽量控制住你的急躁情绪。</span><span class="english">Try to control your impatience.</span></p>
 
 <p><span class="chinese">但是也反映了某种日益增长的急躁情绪。</span><span class="english">But it reflects a growing impatience.</span></p>

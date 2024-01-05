@@ -1,5 +1,7 @@
 # brewhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brewhouse.md)
+
 <p><span class="chinese">系统清洗简便快捷，适用于大中型啤酒厂。</span><span class="english">It's suitable for the large and medium-sized brewhouse.</span></p>
 
 <p><span class="chinese">糖化车间既能分批糖化，又能连续糖化。</span><span class="english">The brewhouse can mash both by batch processing and continuously.</span></p>

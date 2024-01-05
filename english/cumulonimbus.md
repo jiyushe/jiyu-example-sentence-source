@@ -1,5 +1,7 @@
 # cumulonimbus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumulonimbus.md)
+
 <p><span class="chinese">这云的学名是积雨云。</span><span class="english">That's what is technically cumulonimbus.</span></p>
 
 <p><span class="chinese">龙卷风产生于强烈不稳定的积雨云中。</span><span class="english">Tornadoes have a strong instability in the cumulonimbus of.</span></p>

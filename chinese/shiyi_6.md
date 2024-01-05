@@ -1,5 +1,7 @@
 # 适宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_6.md)
+
 <p><span class="chinese">苹果也适宜晒干。</span><span class="english">They also dry well.</span></p>
 
 <p><span class="chinese">一个适宜居住的地方。</span><span class="english">A nice place to stay.</span></p>

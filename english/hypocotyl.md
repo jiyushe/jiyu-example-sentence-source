@@ -1,5 +1,7 @@
 # hypocotyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypocotyl.md)
+
 <p><span class="chinese">子叶和未来称为下胚轴的主轴延长。</span><span class="english">Cytyledons and future stalk called the hypocotyl elongate.</span></p>
 
 <p><span class="chinese">最佳外植体为下胚轴。</span><span class="english">Hypocotyl was the best explant for rapid callus induction.</span></p>

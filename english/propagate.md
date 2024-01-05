@@ -1,5 +1,7 @@
 # propagate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propagate.md)
+
 <p><span class="chinese">大多数植物靠种子繁殖。</span><span class="english">Most plants propagate by seed.</span></p>
 
 <p><span class="chinese">你能通过修剪架枝来繁殖这个植物。</span><span class="english">You can propagate it from cuttings.</span></p>

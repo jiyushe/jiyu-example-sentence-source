@@ -1,5 +1,7 @@
 # dusk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dusk.md)
+
 <p><span class="chinese">门掩黄昏，无计留春住。</span><span class="english">At dusk I bar the gate.</span></p>
 
 <p><span class="chinese">野火在暮色中烧。</span><span class="english">Wild-fire burns at dusk.</span></p>

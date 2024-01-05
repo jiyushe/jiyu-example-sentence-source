@@ -1,5 +1,7 @@
 # 丧身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangshen.md)
+
 <p><span class="chinese">难民们相继因病丧身。</span><span class="english">The refugees were dying off from disease.</span></p>
 
 <p><span class="chinese">你们追击仇敌时，他们必在你们面前丧身刀下。</span><span class="english">You shall pursue your enemies, and they shall fall before you.</span></p>

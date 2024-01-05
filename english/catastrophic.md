@@ -1,5 +1,7 @@
 # catastrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catastrophic.md)
+
 <p><span class="chinese">如我刚才所说，治疗费用是灾难性的。</span><span class="english">The costs, as I said, are catastrophic.</span></p>
 
 <p><span class="chinese">这对经济的影响可能是灾难性的.我的意思是,可能出现比2008年更严重的金融经济危机.</span><span class="english">The impact on the economy would be catastrophic.</span></p>

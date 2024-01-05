@@ -1,5 +1,7 @@
 # 死战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sizhan.md)
+
 <p><span class="chinese">谁敢来决死战？</span><span class="english">Zhang Fei of Yan, who dares to fight with me to the death!</span></p>
 
 <p><span class="chinese">当时狂骂那家伙一顿帮人立即在屋内展开了一场死战。</span><span class="english">Two groups of people have launched a dying war immediately in the room.</span></p>

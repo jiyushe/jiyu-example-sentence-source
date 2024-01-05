@@ -1,5 +1,7 @@
 # uncorrupted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncorrupted.md)
+
 <p><span class="chinese">那是死还未被腐化的理由。</span><span class="english">That's why death is still uncorrupted.</span></p>
 
 <p><span class="chinese">上帝的语言意味着与上帝合一，在心智上不受世俗的羁绊。</span><span class="english">The language of God means integrating your character with God and being uncorrupted.</span></p>

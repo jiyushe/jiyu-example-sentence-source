@@ -1,5 +1,7 @@
 # phonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonation.md)
+
 <p><span class="chinese">例如，发声和语速是如何来表现说话者的情绪的。</span><span class="english">For example, how the emotion is expressed in the phonation and speech-speed of a speaker.</span></p>
 
 <p><span class="chinese">同时重建发音功能并不会妨碍吞嚥功能的恢复。</span><span class="english">Simultaneous reconstruction of phonation will not interfere with the patients' swallowing.</span></p>

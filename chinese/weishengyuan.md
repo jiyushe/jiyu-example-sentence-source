@@ -1,5 +1,7 @@
 # 卫生员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishengyuan.md)
+
 <p><span class="chinese">她是一名卫生员。</span><span class="english">She is a medical orderly.</span></p>
 
 <p><span class="chinese">有些设备很昂贵，但是卫生员的支出并不高。</span><span class="english">Some of the equipment is expensive, but hygienists don't cost much.</span></p>

@@ -1,5 +1,7 @@
 # 话剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaju.md)
+
 <p><span class="chinese">我喜欢科幻，话剧，和动作。</span><span class="english">I love Sci-fi, drama, and action.</span></p>
 
 <p><span class="chinese">我只看经典电影和话剧。</span><span class="english">I only see classic movies or plays.</span></p>

@@ -1,5 +1,7 @@
 # 细部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibu_1.md)
+
 <p><span class="chinese">细部花纹，是粉红和白色混织的唷！</span><span class="english">Close-up, a mix of pink and white!</span></p>
 
 <p><span class="chinese">请用眼睛检查，做细部的调整。</span><span class="english">Please check by eye to make fine correction.</span></p>

@@ -1,5 +1,7 @@
 # 不择手段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzeshouduan.md)
+
 <p><span class="chinese">他们不择手段谋取党的领导权。</span><span class="english">They jockey for the leaderships of the party.</span></p>
 
 <p><span class="chinese">各个节目为了高的收视率，几乎不择手段。</span><span class="english">Programs will do almost anything for good ratings.</span></p>

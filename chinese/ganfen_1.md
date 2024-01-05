@@ -1,5 +1,7 @@
 # 感奋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganfen_1.md)
+
 <p><span class="chinese">咖啡茶使感奋。</span><span class="english">Coffee and tea stimulate me.</span></p>
 
 <p><span class="chinese">在苦苦挣扎中，如果有人向你投以理解的目光，你会感到一种生命的暖意，或许仅有短暂的一瞥，就足以使我感奋不已。</span><span class="english">You would be affected by the warmth of life if someone gives you a understanding look during your bitter struggle.</span></p>

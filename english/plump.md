@@ -1,5 +1,7 @@
 # plump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plump.md)
+
 <p><span class="chinese">肥嘟嘟的大脸。</span><span class="english">Big plump face.</span></p>
 
 <p><span class="chinese">谷粒儿很饱。</span><span class="english">The grains are quite plump.</span></p>

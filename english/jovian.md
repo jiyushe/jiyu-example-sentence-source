@@ -1,5 +1,7 @@
 # jovian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jovian.md)
+
 <p><span class="chinese">大红斑是木星大气层中一个古老的风暴。</span><span class="english">An Ancient Storm in the Jovian Atmosphere.</span></p>
 
 <p><span class="chinese">木星的卫星木卫四和木卫三也可能有水。</span><span class="english">So too might the Jovian moons Callisto and Ganymede.</span></p>

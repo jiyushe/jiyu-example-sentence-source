@@ -1,5 +1,7 @@
 # 元帅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshuai.md)
+
 <p><span class="chinese">元帅谈到她的手臂。</span><span class="english">Marshal touched her arm.</span></p>
 
 <p><span class="chinese">元帅走到我旁边。</span><span class="english">Marshal walked next to me.</span></p>

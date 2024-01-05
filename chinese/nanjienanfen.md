@@ -1,5 +1,7 @@
 # 难解难分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanjienanfen.md)
+
 <p><span class="chinese">二者的联系是难解难分的。</span><span class="english">The two are inextricably linked.</span></p>
 
 <p><span class="chinese">两军厮杀，难解难分。</span><span class="english">The two opposing armies are locked in battle.</span></p>

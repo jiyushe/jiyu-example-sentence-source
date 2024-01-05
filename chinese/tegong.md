@@ -1,5 +1,7 @@
 # 特工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tegong.md)
+
 <p><span class="chinese">一名特工答道，“阿尔梅达掉线了。”</span><span class="english">Almeida is off the net.</span></p>
 
 <p><span class="chinese">在特工之后你又该做些什么呢？</span><span class="english">What do you do after being a spy?</span></p>

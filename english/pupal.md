@@ -1,5 +1,7 @@
 # pupal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pupal.md)
+
 <p><span class="chinese">半变态的经历缺少蛹的阶段的蜕变的。用于某些昆虫。</span><span class="english">Undergoing a metamorphosis that lacks a pupal stage. Used of certain insects.</span></p>
 
 <p><span class="chinese">但是在眼发育后期，昆虫在蛹期就可以感光。</span><span class="english">However, late in the development of the eye, the insects in the pupal stage begin to sense light.</span></p>

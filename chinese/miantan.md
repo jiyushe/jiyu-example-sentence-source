@@ -1,5 +1,7 @@
 # 面瘫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantan.md)
+
 <p><span class="chinese">中枢性及周围性面瘫的鉴别诊断。</span><span class="english">Master the diagnosis, treatment and prognosis of facial paralysis.</span></p>
 
 <p><span class="chinese">结果显示正常组眼轮匝肌阈值低，面瘫组眼轮匝肌除神经外程度重。</span><span class="english">The threshold of S-D of ocular orbicularis is low in the normal group.</span></p>

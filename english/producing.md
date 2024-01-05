@@ -1,5 +1,7 @@
 # producing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/producing.md)
+
 <p><span class="chinese">这些蚕吐丝量很大。</span><span class="english">The silkworms are producing well.</span></p>
 
 <p><span class="chinese">生产方形木柱的车间。</span><span class="english">Workshop for producing square beams.</span></p>

@@ -1,5 +1,7 @@
 # pollutant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollutant.md)
+
 <p><span class="chinese">整个城市弥漫在污染的浓雾之中。</span><span class="english">The city was overhung  with the pollutant smog.</span></p>
 
 <p><span class="chinese">可吸入颗粒物对人的影响要大于其他任何污染物。</span><span class="english">PM affects more people than any other pollutant.</span></p>

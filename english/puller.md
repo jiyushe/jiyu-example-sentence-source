@@ -1,5 +1,7 @@
 # puller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puller.md)
+
 <p><span class="chinese">金属匙链拉钉。</span><span class="english">Metal spoon chain puller bolt.</span></p>
 
 <p><span class="chinese">“他平常是怎样的？”普勒问。</span><span class="english">"What was his usual?" asked Puller.</span></p>

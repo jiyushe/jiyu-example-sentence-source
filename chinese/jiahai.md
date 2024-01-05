@@ -1,5 +1,7 @@
 # 加害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiahai.md)
+
 <p><span class="chinese">那么为什么感觉甚至连莴苣都要加害我们呢？</span><span class="english">So why does it feel like even the lettuce is out to get us?</span></p>
 
 <p><span class="chinese">此问题有很大部分是女性加害女性。</span><span class="english">A large share of the problem involves women victimizing women.</span></p>

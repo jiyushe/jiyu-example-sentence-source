@@ -1,5 +1,7 @@
 # submit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submit.md)
+
 <p><span class="chinese">或许臣服也没有用。</span><span class="english">Or submit to also useless.</span></p>
 
 <p><span class="chinese">我们在哪儿交投标书？</span><span class="english">Where do we submit the tender?</span></p>

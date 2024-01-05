@@ -1,5 +1,7 @@
 # 贤达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianda.md)
+
 <p><span class="chinese">他是一个神甫，一个贤达之士，也是一个大丈夫。</span><span class="english">He was a priest, a sage, and a man.</span></p>
 
 <p><span class="chinese">柳下先生你是社会贤达，而令弟却为土匪头。</span><span class="english">You are sage while your brother is the head of bandit.</span></p>

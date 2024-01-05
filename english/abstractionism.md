@@ -1,5 +1,7 @@
 # abstractionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstractionism.md)
+
 <p><span class="chinese">第四是抽象主义的真实。</span><span class="english">The fourth is the truth of abstractionism.</span></p>
 
 <p><span class="chinese">这封公开信是反驳抽象派论点的。</span><span class="english">This open letter is to rebut the argument of abstractionism.</span></p>

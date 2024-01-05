@@ -1,5 +1,7 @@
 # nonrepudiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonrepudiation.md)
+
 <p><span class="chinese">在讨论这个问题之前，我们先说一说抗抵赖。</span><span class="english">Before we cover that, let's talk about nonrepudiation.</span></p>
 
 <p><span class="chinese">数字签名也可用于认可。</span><span class="english">Digital signatures also play a role in nonrepudiation.</span></p>

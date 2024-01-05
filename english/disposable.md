@@ -1,5 +1,7 @@
 # disposable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disposable.md)
+
 <p><span class="chinese">你们有用完即丢的镜片吗？</span><span class="english">Do you have disposable lenses?</span></p>
 
 <p><span class="chinese">不要用免洗餐具。</span><span class="english">Do not use disposable utensils.</span></p>

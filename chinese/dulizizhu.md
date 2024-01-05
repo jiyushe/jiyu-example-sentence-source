@@ -1,5 +1,7 @@
 # 独立自主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dulizizhu.md)
+
 <p><span class="chinese">她父亲生前是个好静而独立自主的人。</span><span class="english">Her father was a quiet self-contained man.</span></p>
 
 <p><span class="chinese">如果你是一个独立自主的人，你就是一个抢手货。</span><span class="english">You are a good catch if you are self-reliant.</span></p>

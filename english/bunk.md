@@ -1,5 +1,7 @@
 # bunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunk.md)
+
 <p><span class="chinese">历史是一堆废话。</span><span class="english">Hsitory is bunk.</span></p>
 
 <p><span class="chinese">厉史是一堆废话。</span><span class="english">Hsitory is bunk.</span></p>

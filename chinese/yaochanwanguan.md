@@ -1,5 +1,7 @@
 # 腰缠万贯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaochanwanguan.md)
+
 <p><span class="chinese">他讨吃要饭离家，腰缠万贯回归。</span><span class="english">He went away a beggar, returned a millionaire.</span></p>
 
 <p><span class="chinese">如果你认为你永远不会变得腰缠万贯，你猜怎么着？</span><span class="english">And if you believe you’ll never be rich, guess what?</span></p>

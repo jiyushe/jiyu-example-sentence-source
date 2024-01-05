@@ -1,5 +1,7 @@
 # penetrability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penetrability.md)
+
 <p><span class="chinese">通过实验考查了不同磷酸酯的耐碱性和渗透性。</span><span class="english">Alkali resistance and penetrability of different phosphates were tested.</span></p>
 
 <p><span class="chinese">由于高能电子的穿透能力较强，需要采用较厚的探测器进行探测。</span><span class="english">Because high-energy electron penetrability is strong, needs to use the thick detector.</span></p>

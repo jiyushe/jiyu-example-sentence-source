@@ -1,5 +1,7 @@
 # respite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respite.md)
+
 <p><span class="chinese">法拉利在不停息的工作。</span><span class="english">Ferrari is working with no respite.</span></p>
 
 <p><span class="chinese">跳进水内只能失掉暂时的缓解。</span><span class="english">Jumping into water is the only respite.</span></p>

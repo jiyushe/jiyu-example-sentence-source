@@ -1,5 +1,7 @@
 # 团委
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanwei.md)
+
 <p><span class="chinese">他一直在本校的团委工作。</span><span class="english">He has been working in the CYL committee at our school.</span></p>
 
 <p><span class="chinese">但我又想起在团委工作的时候，我们是多么快乐，嗨！</span><span class="english">But I also think the work of the CYL , how happy we are, Hey!</span></p>

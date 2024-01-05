@@ -1,5 +1,7 @@
 # 师友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyou.md)
+
 <p><span class="chinese">对其师友做一番考究，对研究颜元思想的发展演变是很有帮助的。</span><span class="english">So, exploring on Yan Yuan's teachers and friends is helpful for us to understand his thoughts development.</span></p>
 
 <p><span class="chinese">做儿女的，或如人子，从小时候就要亲近师友，不要轻慢无礼，要学会为人处事的礼节。</span><span class="english">As children or son of man like Jesus, you should respect your teachers and friends, and learn good manners.</span></p>

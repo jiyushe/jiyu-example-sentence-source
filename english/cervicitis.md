@@ -1,5 +1,7 @@
 # cervicitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cervicitis.md)
+
 <p><span class="chinese">选择108例患有慢性宫颈炎的妇科病患者。</span><span class="english">Methods 108 gynecological patients with chronic cervicitis were chosen.</span></p>
 
 <p><span class="chinese">目的寻求一种根治难治性宫颈炎的方法。</span><span class="english">Objective To seek a therapeutic method of intractably therapeutic cervicitis.</span></p>

@@ -1,5 +1,7 @@
 # geodetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geodetic.md)
+
 <p><span class="chinese">在大地测量中，病态问题是广泛存在的。</span><span class="english">Ill-conditioned problems are widely existed in geodetic surveying.</span></p>
 
 <p><span class="chinese">正常高，大地高，非格网数据，地形影响。</span><span class="english">GPS, normal height, geodetic height, non-grid data, terrain effect.</span></p>

@@ -1,5 +1,7 @@
 # vesicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vesicular.md)
+
 <p><span class="chinese">表面光滑、多孔状的膨胀珍珠岩独一无二，非常新颖。</span><span class="english">The smooth-surfaced vesicular expanded perlite is unique and novel.</span></p>
 
 <p><span class="chinese">细胞核染色苍白呈空泡状，应为主要含有的是不著色的常染色质。</span><span class="english">Their nuclei are pale and vesicular containing mainly unstained euchromatin.</span></p>

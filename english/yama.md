@@ -1,5 +1,7 @@
 # yama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yama.md)
+
 <p><span class="chinese">山和丹山的研究。</span><span class="english">The study of Yama and Niyama.</span></p>
 
 <p><span class="chinese">阎王将我拒门外。</span><span class="english">Yet Yama keeps me outside the gate.</span></p>

@@ -1,5 +1,7 @@
 # equation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equation.md)
+
 <p><span class="chinese">波动方程式。</span><span class="english">It is a wave equation.</span></p>
 
 <p><span class="chinese">我还需要一个等式。</span><span class="english">I need another equation.</span></p>

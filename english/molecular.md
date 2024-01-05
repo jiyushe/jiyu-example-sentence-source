@@ -1,5 +1,7 @@
 # molecular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molecular.md)
+
 <p><span class="chinese">分子的状态。</span><span class="english">The molecular state.</span></p>
 
 <p><span class="chinese">寒冷抑制了分子的运动。</span><span class="english">Cold quells molecular motion.</span></p>

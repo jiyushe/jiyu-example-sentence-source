@@ -1,5 +1,7 @@
 # publicly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publicly.md)
+
 <p><span class="chinese">请允许我公开表达我的谢意-的确。</span><span class="english">Let me say publicly. -Yes. Yes.</span></p>
 
 <p><span class="chinese">那就让贵族议事会公开宣誓。</span><span class="english">So let the council swear publicly.</span></p>

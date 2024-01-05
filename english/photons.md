@@ -1,5 +1,7 @@
 # photons
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photons.md)
+
 <p><span class="chinese">如果我们把这众多的光子,射出去又会怎样？</span><span class="english">How about if we shoot this many photons?</span></p>
 
 <p><span class="chinese">留下重子，发送光子。</span><span class="english">Leave the baryons at home. Send photons.</span></p>

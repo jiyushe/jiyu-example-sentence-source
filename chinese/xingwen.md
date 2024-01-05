@@ -1,5 +1,7 @@
 # 行文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingwen.md)
+
 <p><span class="chinese">你的文章行文冗赘，弄得我有点糊涂了。</span><span class="english">I got lost in your rather diffuse essay.</span></p>
 
 <p><span class="chinese">在文本字段可以三次点击选择正行文本。</span><span class="english">Should triple-clicking select whole text in text fields.</span></p>

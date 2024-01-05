@@ -1,5 +1,7 @@
 # 相关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangguan.md)
+
 <p><span class="chinese">熊是与平衡相关的。</span><span class="english">Bear is about balance.</span></p>
 
 <p><span class="chinese">拱点的或与之相关的。</span><span class="english">Of or relating an apse.</span></p>

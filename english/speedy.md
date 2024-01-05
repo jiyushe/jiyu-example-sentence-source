@@ -1,5 +1,7 @@
 # speedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speedy.md)
+
 <p><span class="chinese">一个非常快的笔记本电脑？</span><span class="english">A epically speedy laptop?</span></p>
 
 <p><span class="chinese">祝你早日痊愈。</span><span class="english">I wish you a speedy recovery.</span></p>

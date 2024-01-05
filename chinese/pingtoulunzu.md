@@ -1,5 +1,7 @@
 # 评头论足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingtoulunzu.md)
+
 <p><span class="chinese">我们生活在一个非难的、评头论足的世界。</span><span class="english">We live in a condemnatory, judgmental world.</span></p>
 
 <p><span class="chinese">对她评头论足是不礼貌的。</span><span class="english">It would be rude to remark upon her appearance.</span></p>

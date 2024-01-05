@@ -1,5 +1,7 @@
 # 递增
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizeng.md)
+
 <p><span class="chinese">在我不再递增变量之前，你知道的。</span><span class="english">OK. So now you've seen two simple examples.</span></p>
 
 <p><span class="chinese">第二部分是递增容度。</span><span class="english">The second part is the increasing capacities.</span></p>

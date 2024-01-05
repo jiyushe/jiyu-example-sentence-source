@@ -1,5 +1,7 @@
 # hostage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hostage.md)
+
 <p><span class="chinese">他们将他扣作人质。</span><span class="english">They held him hostage.</span></p>
 
 <p><span class="chinese">我接受霍斯特作为我们的人质。</span><span class="english">I will accept Hoster as our hostage.</span></p>

@@ -1,5 +1,7 @@
 # 跃进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuejin.md)
+
 <p><span class="chinese">跃进到更绿色的纳米技术？</span><span class="english">Leapfrogging to greener nanotech?</span></p>
 
 <p><span class="chinese">浙江宁波跃进汽车前桥有限公司。</span><span class="english">Ningbo Yuejin Automobile Front Axle Co. , Ltd.</span></p>

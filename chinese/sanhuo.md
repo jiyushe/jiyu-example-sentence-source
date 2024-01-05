@@ -1,5 +1,7 @@
 # 散伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanhuo.md)
+
 <p><span class="chinese">也许是散伙的时候了。</span><span class="english">Maybe that will be the end.</span></p>
 
 <p><span class="chinese">他和他的代理人散伙了。</span><span class="english">He and his agent have parted company.</span></p>

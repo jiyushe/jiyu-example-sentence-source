@@ -1,5 +1,7 @@
 # 提议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiyi.md)
+
 <p><span class="chinese">我提议道。</span><span class="english">I suggested.</span></p>
 
 <p><span class="chinese">一个大胆的提议。</span><span class="english">A bold proposal, then.</span></p>

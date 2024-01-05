@@ -1,5 +1,7 @@
 # sulphite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphite.md)
+
 <p><span class="chinese">研究杏的无硫护色工艺。</span><span class="english">Apricot processing technology of antibrowning without sulphite was studied.</span></p>
 
 <p><span class="chinese">针叶树亚硫酸盐化学木浆，溶解级除外，未漂白。</span><span class="english">Coniferous chemical wood pulp, sulphite other than dissolving grades, unbleached.</span></p>

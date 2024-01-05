@@ -1,5 +1,7 @@
 # 臀鳍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tunqi.md)
+
 <p><span class="chinese">雄性孔雀鱼与食蚊鱼一样，臀鳍会演化为生殖管。</span><span class="english">Similar to G. affinis, the anal fin of male would develop into a gonopodium.</span></p>
 
 <p><span class="chinese">背鳍、脂鳍和尾鳍稍带浅黄色，胸鳍、腹鳍和臀鳍灰白色。</span><span class="english">Dorsal fin , tail fin and fat fins slightly yellow, pectoral fin , and ventral fin Tunqi gray.</span></p>

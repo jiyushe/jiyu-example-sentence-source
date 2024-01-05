@@ -1,5 +1,7 @@
 # embarrassingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embarrassingly.md)
+
 <p><span class="chinese">而那些的确带给我这种喜悦的东西却通常平凡得让人尴尬。</span><span class="english">And those that do are usually embarrassingly prosaic.</span></p>
 
 <p><span class="chinese">我们曾经一起喝得烂醉，喝醉到令人尴尬的程度。</span><span class="english">We've got horrifically, embarrassingly drunk together.</span></p>

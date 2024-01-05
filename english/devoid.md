@@ -1,5 +1,7 @@
 # devoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devoid.md)
+
 <p><span class="chinese">无水的井没有用途。</span><span class="english">A well devoid of water is useless.</span></p>
 
 <p><span class="chinese">他为人正直但缺乏常识。</span><span class="english">He is honest but devoid of common sense.</span></p>

@@ -1,5 +1,7 @@
 # 念珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianzhu.md)
+
 <p><span class="chinese">某种独一无二的念珠？</span><span class="english">Some unique chaplet?</span></p>
 
 <p><span class="chinese">和尚戴著一串念珠。</span><span class="english">The monk wears a string of beads.</span></p>

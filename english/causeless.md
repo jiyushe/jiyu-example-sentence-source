@@ -1,5 +1,7 @@
 # causeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causeless.md)
+
 <p><span class="chinese">这并不令图像无因。</span><span class="english">This does not make the picture causeless.</span></p>
 
 <p><span class="chinese">毫无缘由的匆忙和惊慌支配着军队。</span><span class="english">And the troops were overtaken by causeless panic and haste.</span></p>

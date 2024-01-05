@@ -1,5 +1,7 @@
 # crisis 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crisis.md)
+
 <p><span class="chinese">危机很快就过去了。</span><span class="english">The crisis soon passed.</span></p>
 
 <p><span class="chinese">抑或是一场信心危机？</span><span class="english">Or a crisis of confidence?</span></p>

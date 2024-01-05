@@ -1,5 +1,7 @@
 # rudderless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rudderless.md)
+
 <p><span class="chinese">我是个没有目标的酒鬼。</span><span class="english">I was a rudderless drunk.</span></p>
 
 <p><span class="chinese">好像这里没有领头的。</span><span class="english">Seems like rudderless leadership here.</span></p>

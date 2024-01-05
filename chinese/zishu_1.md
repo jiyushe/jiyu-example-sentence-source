@@ -1,5 +1,7 @@
 # 字书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zishu_1.md)
+
 <p><span class="chinese">这样，我很早就会看字书了。</span><span class="english">I could read books very early in this way.</span></p>
 
 <p><span class="chinese">请用汉字正楷或英文方体字书写。</span><span class="english">Please write clearly in BLOCK CAPITAL LETTERS in English or in Chinese.</span></p>

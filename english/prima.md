@@ -1,5 +1,7 @@
 # prima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prima.md)
+
 <p><span class="chinese">您是第一次来罗马吗？</span><span class="english">E la prima volta che viene a Roma?</span></p>
 
 <p><span class="chinese">我乍看似有道理。</span><span class="english">I see a prima facie reason for it.</span></p>

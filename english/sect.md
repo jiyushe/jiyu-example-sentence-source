@@ -1,5 +1,7 @@
 # sect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sect.md)
+
 <p><span class="chinese">景教是基督教的一个流派。</span><span class="english">Jingjiao was a Christian sect.</span></p>
 
 <p><span class="chinese">属于一个宗教的，具有某一宗教特点的。</span><span class="english">The followers of such a religion or sect.</span></p>

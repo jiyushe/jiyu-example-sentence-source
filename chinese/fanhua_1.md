@@ -1,5 +1,7 @@
 # 繁花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanhua_1.md)
+
 <p><span class="chinese">苹果树繁花盛开。</span><span class="english">The fruit trees were in flowers.</span></p>
 
 <p><span class="chinese">忽而静静地在半空如一树繁花。</span><span class="english">And off a blossom in mid-air stands still.</span></p>

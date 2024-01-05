@@ -1,5 +1,7 @@
 # gradational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradational.md)
+
 <p><span class="chinese">两层序间可以是过渡的或以一真正的沉没不整合分割。</span><span class="english">Gradational strata or a true unconformity exist between the two sequences.</span></p>
 
 <p><span class="chinese">实践证明这种分级优化是有效的。</span><span class="english">The reality also testifies the effectiveness of this gradational optimization.</span></p>

@@ -1,5 +1,7 @@
 # 耳鸣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erming.md)
+
 <p><span class="chinese">我左耳耳鸣。</span><span class="english">My left ear tingles.</span></p>
 
 <p><span class="chinese">长期服用塞乐特会不会引起耳鸣呢？</span><span class="english">Long-term use plug Lete will it cause tinnitus?</span></p>

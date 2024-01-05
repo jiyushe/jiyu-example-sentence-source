@@ -1,5 +1,7 @@
 # arno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arno.md)
+
 <p><span class="chinese">等一下，不要做出反应。</span><span class="english">Wait Arno , don't react.</span></p>
 
 <p><span class="chinese">还包括其他一些著名的河流，如台伯河、阿迪杰河以及亚诺河。</span><span class="english">Other well-known rivers include the Tiber, Adige and Arno.</span></p>

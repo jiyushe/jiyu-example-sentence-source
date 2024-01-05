@@ -1,5 +1,7 @@
 # 追兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuibing.md)
+
 <p><span class="chinese">要逃离法老王的追兵并不容易。</span><span class="english">To escape the Pharaoh's men is not so easy.</span></p>
 
 <p><span class="chinese">李将军之后，是北军将领乔治．麦克莱伦的追兵。</span><span class="english">Chasing Lee was Union general George McClellan.</span></p>

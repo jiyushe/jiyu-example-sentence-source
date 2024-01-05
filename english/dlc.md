@@ -1,5 +1,7 @@
 # dlc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dlc.md)
+
 <p><span class="chinese">最后，简要说明了非晶碳类金刚石膜应用情况。</span><span class="english">Finally, the application of DLC films was introduced briefly.</span></p>
 
 <p><span class="chinese">突变是专门提供给业主的“过”类金刚石。</span><span class="english">Mutations are exclusively available to owners of "The Passing" DLC.</span></p>

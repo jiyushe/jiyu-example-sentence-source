@@ -1,5 +1,7 @@
 # brahmin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brahmin.md)
+
 <p><span class="chinese">他虽然还没有达到婆罗门教的境界。</span><span class="english">He did not go as far as the Brahmin.</span></p>
 
 <p><span class="chinese">三时，优陀耶婆罗门，以白饭盛满世尊之钵。</span><span class="english">The Brahmin Udaya filled the Blessed One's bowl with rice.</span></p>

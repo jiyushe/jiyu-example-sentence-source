@@ -1,5 +1,7 @@
 # unashamed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unashamed.md)
+
 <p><span class="chinese">不要对你们的缺点羞愧、要真实。</span><span class="english">Be real and be unashamed , even of your faults.</span></p>
 
 <p><span class="chinese">作为一种不加掩饰的施舍，这一计划受到很多批评。</span><span class="english">As an unashamed handout, the scheme has many critics.</span></p>

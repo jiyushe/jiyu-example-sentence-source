@@ -1,5 +1,7 @@
 # capulet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capulet.md)
+
 <p><span class="chinese">我再也不做坎普莱特家的人。</span><span class="english">And I'll no longer be a Capulet.</span></p>
 
 <p><span class="chinese">老人，来自凯普莱特家族。</span><span class="english">An old Man, of the Capulet family.</span></p>

@@ -1,5 +1,7 @@
 # telford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telford.md)
+
 <p><span class="chinese">他是保罗。泰尔福德的唯一的儿子。</span><span class="english">He was the only son of Paul Telford.</span></p>
 
 <p><span class="chinese">味千拉面德福广场分店现已开业。</span><span class="english">Ajisen Ramen "Telford Plaza" branch launching.</span></p>

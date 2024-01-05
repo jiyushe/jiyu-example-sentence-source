@@ -1,5 +1,7 @@
 # taro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taro.md)
+
 <p><span class="chinese">用中火炸至芋丸呈金黄色即可。</span><span class="english">Fry the taro balls into golden ones.</span></p>
 
 <p><span class="chinese">而我最喜欢的就是秘制芋头茎酿鸭肉。</span><span class="english">My favorite is the taro stem and duck.</span></p>

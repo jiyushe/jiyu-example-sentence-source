@@ -1,5 +1,7 @@
 # firestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firestone.md)
+
 <p><span class="chinese">好的，这是给你和罗伊费尔斯通的。</span><span class="english">Alright, this is for you and Roy Firestone.</span></p>
 
 <p><span class="chinese">我要证明自己比费尔斯通的人更能干。</span><span class="english">I wanted to prove myself better than Firestone.</span></p>

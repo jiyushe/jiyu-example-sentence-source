@@ -1,5 +1,7 @@
 # 立宪派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixianpai.md)
+
 <p><span class="chinese">这部分人成为留日学生中的立宪派。</span><span class="english">These students became the Constitutional Group among the students studying in Japan.</span></p>
 
 <p><span class="chinese">留日立宪派的主张相较于革命主张而言，是落后于时代的。</span><span class="english">Compared with the revolutionary advocate, the constitutional group's propositions were outdated.</span></p>

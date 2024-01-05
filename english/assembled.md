@@ -1,5 +1,7 @@
 # assembled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assembled.md)
+
 <p><span class="chinese">我们在礼堂集合。</span><span class="english">We assembled in the auditorium.</span></p>
 
 <p><span class="chinese">包括全面装饰的家用轿车！</span><span class="english">Includes fully assembled family car!</span></p>

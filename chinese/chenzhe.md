@@ -1,5 +1,7 @@
 # 沉着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenzhe.md)
+
 <p><span class="chinese">罗恩咕哝着，灰沉着脸。</span><span class="english">moaned Ron, gray-faced.</span></p>
 
 <p><span class="chinese">真正的勇敢是冷静和沉着。</span><span class="english">True courage is cool and calm.</span></p>

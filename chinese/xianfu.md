@@ -1,5 +1,7 @@
 # 先父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianfu.md)
+
 <p><span class="chinese">今天我就要为先父报仇。</span><span class="english">I have to avenge my dad now.</span></p>
 
 <p><span class="chinese">1999年，先父死于癌症。</span><span class="english">In 1999, my father died of cancer.</span></p>

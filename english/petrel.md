@@ -1,5 +1,7 @@
 # petrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrel.md)
+
 <p><span class="chinese">海燕在暴风雨中飞掠。</span><span class="english">The petrel rode the storm.</span></p>
 
 <p><span class="chinese">为一中型，具有叉尾中等的黑色海燕。</span><span class="english">A medium-sized, all-dark storm petrel with a.</span></p>

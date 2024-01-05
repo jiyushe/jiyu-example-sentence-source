@@ -1,5 +1,7 @@
 # 忧伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshang.md)
+
 <p><span class="chinese">她会更忧伤。</span><span class="english">She's unhappy.</span></p>
 
 <p><span class="chinese">却是影单空忧伤。</span><span class="english">Alone is empty.</span></p>

@@ -1,5 +1,7 @@
 # garish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garish.md)
+
 <p><span class="chinese">这颜色艳而不俗。</span><span class="english">This colour is bright but not garish.</span></p>
 
 <p><span class="chinese">不久我们驶入纽约红红绿绿的灯光中。</span><span class="english">Soon we were assailed by the garish lights of New York.</span></p>

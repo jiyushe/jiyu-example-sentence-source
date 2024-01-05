@@ -1,5 +1,7 @@
 # urgence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urgence.md)
+
 <p><span class="chinese">在这个例子中，是害怕和饥饿。</span><span class="english">To completing urgence and in this case, fear and hunger.</span></p>
 
 <p><span class="chinese">两课教学改革是高等教育中的紧迫大事。</span><span class="english">The reformation of two-course teaching is an urgence of higher education.</span></p>

@@ -1,5 +1,7 @@
 # 撤离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cheli.md)
+
 <p><span class="chinese">士兵在黎明时撤离了营地。</span><span class="english">The soldiers decamped at dawn.</span></p>
 
 <p><span class="chinese">印尼火山爆发，居民被迫撤离。</span><span class="english">Volcano forces evacuations in Indonesia.</span></p>

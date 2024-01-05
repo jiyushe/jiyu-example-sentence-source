@@ -1,5 +1,7 @@
 # adrenocortical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrenocortical.md)
+
 <p><span class="chinese">慢性肾上腺皮质功能减退症70例临床分析。</span><span class="english">Clinical analysis of 70 cases with chronic adrenocortical hypofunction.</span></p>
 
 <p><span class="chinese">肾上腺皮质反应与烧伤的严重性是平行的。</span><span class="english">The adrenocortical response appears to parallel the severity of the burn.</span></p>

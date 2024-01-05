@@ -1,5 +1,7 @@
 # 瓜子脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guazilian.md)
+
 <p><span class="chinese">她是一个典型的瓜子脸，小鼻子，嘴巴有点宽。</span><span class="english">She is a typical frame, a small nose and mouth wide.</span></p>
 
 <p><span class="chinese">拥有一张纤细清秀的瓜子脸是众多女士的梦想。</span><span class="english">Many women dream of a sleek and refined face contour.</span></p>

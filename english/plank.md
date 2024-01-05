@@ -1,5 +1,7 @@
 # plank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plank.md)
+
 <p><span class="chinese">这块木板将被当作床。</span><span class="english">This plank will form a bed.</span></p>
 
 <p><span class="chinese">吸气向前到斜板式。</span><span class="english">Inhale forward to Plank Pose.</span></p>

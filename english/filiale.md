@@ -1,5 +1,7 @@
 # filiale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filiale.md)
+
 <p><span class="chinese">是承德钢铁公司下属吧？</span><span class="english">Material Filiale of Chengde Steel Co.</span></p>
 
 <p><span class="chinese">他希望公司能将他调到苏州的分部。</span><span class="english">He wish that his corporation could manoeuvre him to the filiale at SuZhou.</span></p>

@@ -1,5 +1,7 @@
 # 远祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzu.md)
+
 <p><span class="chinese">我们的远祖也许就没有过这样的解释。</span><span class="english">Our distant forbears would not have understood such an interpretation.</span></p>
 
 <p><span class="chinese">源自1413年凉茶远祖、英伦皇室特供茶！</span><span class="english">Herbal tea from the remote ancestor of 1413, British Royal Special tea!</span></p>

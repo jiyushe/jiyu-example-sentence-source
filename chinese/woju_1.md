@@ -1,5 +1,7 @@
 # 莴苣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woju_1.md)
+
 <p><span class="chinese">莴苣。</span><span class="english">Lettuces.</span></p>
 
 <p><span class="chinese">在莴苣生菜叶上铺一层西红柿。</span><span class="english">Tomatoes on a bed of lettuce.</span></p>

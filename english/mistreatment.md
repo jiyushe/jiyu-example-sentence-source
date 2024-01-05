@@ -1,5 +1,7 @@
 # mistreatment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistreatment.md)
+
 <p><span class="chinese">特意的批评或虐待？</span><span class="english">Mean criticism or mistreatment?</span></p>
 
 <p><span class="chinese">学生们谈起当时遭受的拷问和虐待。</span><span class="english">Students spoke of torture and mistreatment.</span></p>

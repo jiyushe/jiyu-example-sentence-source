@@ -1,5 +1,7 @@
 # jukebox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jukebox.md)
+
 <p><span class="chinese">自动点唱机在放我最喜欢的歌。</span><span class="english">My favorite song is on the jukebox.</span></p>
 
 <p><span class="chinese">自动唱机正在放一张乡间情歌唱片。</span><span class="english">A hillbilly love song was on the jukebox.</span></p>

@@ -1,5 +1,7 @@
 # 邮箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxiang_1.md)
+
 <p><span class="chinese">我们在邮箱遇著。</span><span class="english">We met at the mailboxes.</span></p>
 
 <p><span class="chinese">你有电子邮箱吗？</span><span class="english">Do you have ane-mail box?</span></p>

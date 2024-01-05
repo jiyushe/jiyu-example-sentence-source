@@ -1,5 +1,7 @@
 # piggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piggy.md)
+
 <p><span class="chinese">我是你的储蓄罐。</span><span class="english">I'll be your Piggy bank.</span></p>
 
 <p><span class="chinese">小猪会晕车怎么办？</span><span class="english">Is piggy carsick how to do?</span></p>

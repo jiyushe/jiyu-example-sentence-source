@@ -1,5 +1,7 @@
 # litmus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litmus.md)
+
 <p><span class="chinese">您认为有某种类似石蕊试纸的东西可以帮助判断吗？</span><span class="english">Do you see some sort of litmus test?</span></p>
 
 <p><span class="chinese">现在，我不会提供石蕊测试。</span><span class="english">Now, I would not provide a litmus test.</span></p>

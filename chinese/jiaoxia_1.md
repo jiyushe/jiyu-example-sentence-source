@@ -1,5 +1,7 @@
 # 脚下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxia_1.md)
+
 <p><span class="chinese">我拜倒在你脚下。</span><span class="english">I am at your feet.</span></p>
 
 <p><span class="chinese">走到哪儿脚下都是满地的纸屑，天啊，还有水果皮，难道屋子从来都不扫吗！?</span><span class="english">The rooms are never swept!</span></p>

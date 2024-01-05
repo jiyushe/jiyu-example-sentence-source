@@ -1,5 +1,7 @@
 # syllabi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syllabi.md)
+
 <p><span class="chinese">花点时间去了解课程内容和教学大纲。</span><span class="english">Take the time to look at class descriptions and syllabi.</span></p>
 
 <p><span class="chinese">我可以在上课前在电脑上先确认课程大纲吗?。</span><span class="english">Can I check the course syllabi online before classes begin?</span></p>

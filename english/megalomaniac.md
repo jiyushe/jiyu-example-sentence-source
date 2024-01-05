@@ -1,5 +1,7 @@
 # megalomaniac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megalomaniac.md)
+
 <p><span class="chinese">我认为他自认为是世界之王，他变得有点癫狂了。</span><span class="english">I think he thought he was the king of the world. He became a bit of a megalomaniac.</span></p>
 
 <p><span class="chinese">弗拉基米尔·普京总统的批评者立马就抓住这个机会，把他描述成一个性情难测的，迷恋权术的自大狂。</span><span class="english">President Vladimir Putin's critics seized the moment with alacrity to portray him as a whimsical megalomaniac.</span></p>

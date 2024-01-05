@@ -1,5 +1,7 @@
 # troubled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troubled.md)
+
 <p><span class="chinese">混水摸鱼。</span><span class="english">Fish in troubled water.</span></p>
 
 <p><span class="chinese">她搅乱了他的安宁。</span><span class="english">She troubled his peace.</span></p>

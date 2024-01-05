@@ -1,5 +1,7 @@
 # demeanour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demeanour.md)
+
 <p><span class="chinese">比利的行为变了很多。</span><span class="english">Billy's demeanour changed.</span></p>
 
 <p><span class="chinese">你有没有绅士风度啊?。</span><span class="english">Do you have the gentry demeanour?</span></p>

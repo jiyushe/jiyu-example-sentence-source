@@ -1,5 +1,7 @@
 # 拥挤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongji.md)
+
 <p><span class="chinese">过度拥挤。</span><span class="english">Overcrowding.</span></p>
 
 <p><span class="chinese">瞧这拥挤的交通。</span><span class="english">Look at the traffic.</span></p>

@@ -1,5 +1,7 @@
 # 招工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaogong_1.md)
+
 <p><span class="chinese">招工形势非常严峻。</span><span class="english">The situation is most severe.</span></p>
 
 <p><span class="chinese">他们会张贴招工信息，你自己去那儿看，</span><span class="english">They will post jobs and you can look on there</span></p>

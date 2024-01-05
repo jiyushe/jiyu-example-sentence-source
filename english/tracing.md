@@ -1,5 +1,7 @@
 # tracing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracing.md)
+
 <p><span class="chinese">可使用描图纸画。</span><span class="english">Tracing paper may be used.</span></p>
 
 <p><span class="chinese">他知道他们正在追踪他。</span><span class="english">He knew they were tracing him.</span></p>

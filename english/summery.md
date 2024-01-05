@@ -1,5 +1,7 @@
 # summery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summery.md)
+
 <p><span class="chinese">很夏天、很清爽的音乐。</span><span class="english">Their music is very summery and refreshing.</span></p>
 
 <p><span class="chinese">在你报告后你可不可以下一个简短的结论？</span><span class="english">Can you give a brief summery after your presentation?</span></p>

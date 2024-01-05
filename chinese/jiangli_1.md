@@ -1,5 +1,7 @@
 # 讲理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangli_1.md)
+
 <p><span class="chinese">他不讲理。</span><span class="english">He is not amenable to reason.</span></p>
 
 <p><span class="chinese">这完整是不讲理。</span><span class="english">This is totally unreasonable.</span></p>

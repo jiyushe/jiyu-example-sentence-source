@@ -1,5 +1,7 @@
 # complemental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complemental.md)
+
 <p><span class="chinese">结论CT仿真内窥镜是纤维喉镜的很好补充手段，具有一定的发展潜力。</span><span class="english">Conclusion CT virtual laryngoscopy is a good complemental method of fiber optic laryngoscopy.</span></p>
 
 <p><span class="chinese">本文用生成元和定义关系的方法，对每个可解可补李代数给出一个定义矩阵。</span><span class="english">A defining matrix is given for the solvable and complemental Lie algebras with a generator relation method.</span></p>

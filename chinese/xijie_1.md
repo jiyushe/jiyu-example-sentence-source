@@ -1,5 +1,7 @@
 # 细节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijie_1.md)
+
 <p><span class="chinese">她没有给出细节.</span><span class="english">She gave no details.</span></p>
 
 <p><span class="chinese">一些装饰的细节。</span><span class="english">Some decor elements.</span></p>

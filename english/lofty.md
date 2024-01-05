@@ -1,5 +1,7 @@
 # lofty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lofty.md)
+
 <p><span class="chinese">他使用高深的词语。</span><span class="english">He used lofty terms.</span></p>
 
 <p><span class="chinese">洛夫蒂是我的真爱。</span><span class="english">Lofty is my true love.</span></p>

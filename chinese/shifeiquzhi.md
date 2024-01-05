@@ -1,5 +1,7 @@
 # 是非曲直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifeiquzhi.md)
+
 <p><span class="chinese">救助艇的最大工作负荷是非曲直14KN。</span><span class="english">The mar working load is 14KN.</span></p>
 
 <p><span class="chinese">他们正在激烈争论这个事件的是非曲直。</span><span class="english">They are disputing about the rights and wrongs of the case.</span></p>

@@ -1,5 +1,7 @@
 # 凝固点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ninggudian.md)
+
 <p><span class="chinese">用凝固点下降法测定了产品的分子量为478。</span><span class="english">The freezing point has been determined out 478.</span></p>
 
 <p><span class="chinese">把沸点,换成凝固点。</span><span class="english">Replace the boiling point with the freezing point.</span></p>

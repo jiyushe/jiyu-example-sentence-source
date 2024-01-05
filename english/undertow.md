@@ -1,5 +1,7 @@
 # undertow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undertow.md)
+
 <p><span class="chinese">有没有危险的暗流？</span><span class="english">Is there a dangerous undertow?</span></p>
 
 <p><span class="chinese">具有情绪感召力是所有政治的一个方面。</span><span class="english">The existence of an emotional undertow is an aspect of all politics.</span></p>

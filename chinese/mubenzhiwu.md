@@ -1,5 +1,7 @@
 # 木本植物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubenzhiwu.md)
+
 <p><span class="chinese">标题东亚木本植物区系的特有性。</span><span class="english">Endemism in the ligneous flora of eastern Asia.</span></p>
 
 <p><span class="chinese">这些木本植物都是从俄国进口而来。</span><span class="english">All these ligneous plants are imported from Russia.</span></p>

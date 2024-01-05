@@ -1,5 +1,7 @@
 # 相差无几
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchawuji.md)
+
 <p><span class="chinese">夜寒料峭，简直跟冬天相差无几。</span><span class="english">It was a very cold night in winter.</span></p>
 
 <p><span class="chinese">狗食的价格与牛排相差无几。</span><span class="english">Dog food costs nearly as much as steak.</span></p>

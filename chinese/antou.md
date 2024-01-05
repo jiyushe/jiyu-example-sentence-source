@@ -1,5 +1,7 @@
 # 案头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/antou.md)
+
 <p><span class="chinese">我做的是案头工作。</span><span class="english">I work at the desk.</span></p>
 
 <p><span class="chinese">我有些案头工作要完成。</span><span class="english">I have some paper work to finish.</span></p>

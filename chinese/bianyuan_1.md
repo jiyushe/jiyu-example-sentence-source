@@ -1,5 +1,7 @@
 # 边远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianyuan_1.md)
+
 <p><span class="chinese">这是英国最边远的岛屿了。</span><span class="english">No British island is more remote.</span></p>
 
 <p><span class="chinese">把车停放在停车场边远而又安全的地方。</span><span class="english">Park in remote, but safe sections of parking lots.</span></p>

@@ -1,5 +1,7 @@
 # fantastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantastic.md)
+
 <p><span class="chinese">做得也很棒。</span><span class="english">And he was fantastic.</span></p>
 
 <p><span class="chinese">他的发球相当棒。</span><span class="english">His serve is fantastic.</span></p>

@@ -1,5 +1,7 @@
 # 稀土元素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xituyuansu.md)
+
 <p><span class="chinese">但该公司并没有承诺支撑所有稀土元素的价格。</span><span class="english">Yet it didn’t pledge to underpin all rare earth prices.</span></p>
 
 <p><span class="chinese">重稀土元素及Y也属于不活泼元素。</span><span class="english">The heavy rare earth and Y also belong to immobile elements.</span></p>

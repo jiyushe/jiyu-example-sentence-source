@@ -1,5 +1,7 @@
 # sagittarius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sagittarius.md)
+
 <p><span class="chinese">他是个典型的射手座.</span><span class="english">He's a typical Sagittarius.</span></p>
 
 <p><span class="chinese">射手座是火相星座。</span><span class="english">Sagittarius is a fiery sign.</span></p>

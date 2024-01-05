@@ -1,5 +1,7 @@
 # forethought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forethought.md)
+
 <p><span class="chinese">生活就像棋局，提前想好才会赢。</span><span class="english">In life, as in chess, forethought wins.</span></p>
 
 <p><span class="chinese">有了智慧和深谋远虑，最终才会赢得胜利。</span><span class="english">In the end, wisdom and forethought will win.</span></p>

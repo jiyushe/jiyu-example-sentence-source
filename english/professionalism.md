@@ -1,5 +1,7 @@
 # professionalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/professionalism.md)
+
 <p><span class="chinese">职业是最重要的。</span><span class="english">Professionalism is all-important.</span></p>
 
 <p><span class="chinese">一直都要保持职业化。</span><span class="english">Maintain professionalism at all times.</span></p>

@@ -1,5 +1,7 @@
 # 召见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaojian.md)
+
 <p><span class="chinese">于是汉王召见韩信拜他为大将。</span><span class="english">Then the king called letter to him.</span></p>
 
 <p><span class="chinese">一下子寡妇会召见您的，尊贵的爵士。</span><span class="english">The widow will see you next, noble ser.</span></p>

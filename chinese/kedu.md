@@ -1,5 +1,7 @@
 # 刻度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kedu.md)
+
 <p><span class="chinese">小心刻度。</span><span class="english">Watch out for the scale.</span></p>
 
 <p><span class="chinese">刻度在你们那边。</span><span class="english">The scale is on your side.</span></p>

@@ -1,5 +1,7 @@
 # compaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compaction.md)
+
 <p><span class="chinese">紧实松垮肌肤、眼部提升。</span><span class="english">Compaction skin, eye upgrade.</span></p>
 
 <p><span class="chinese">用户对邮件数据库的压缩</span><span class="english">User compaction of the mail database</span></p>

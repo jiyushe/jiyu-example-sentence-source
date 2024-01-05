@@ -1,5 +1,7 @@
 # hormuz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hormuz.md)
+
 <p><span class="chinese">内贾德总统威胁关闭霍尔木兹海峡。</span><span class="english">President Ahmadinejad threatens to close Strait of Hormuz.</span></p>
 
 <p><span class="chinese">以霍尔木兹海峡和阿曼湾与阿拉伯海衔接。</span><span class="english">To the Strait of Hormuz and the Gulf of Oman and the Arabian Sea converge.</span></p>

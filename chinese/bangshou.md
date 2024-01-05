@@ -1,5 +1,7 @@
 # 帮手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangshou.md)
+
 <p><span class="chinese">我们急需帮手。</span><span class="english">We need help inferiorly.</span></p>
 
 <p><span class="chinese">你可以自己选择你需要的帮手。</span><span class="english">You can handpick your assistants.</span></p>

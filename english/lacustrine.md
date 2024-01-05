@@ -1,5 +1,7 @@
 # lacustrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacustrine.md)
+
 <p><span class="chinese">盖层为湖相泥岩和含膏泥岩。</span><span class="english">The cap rocks are lacustrine mudstone and gypsiferous.</span></p>
 
 <p><span class="chinese">滨浅湖沉积微相由砂泥坪及滩坝构成。</span><span class="english">While shore shallow lacustrine consists of mudflats and bank bars.</span></p>

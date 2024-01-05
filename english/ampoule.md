@@ -1,5 +1,7 @@
 # ampoule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ampoule.md)
+
 <p><span class="chinese">请问你喜欢加精华素吗？</span><span class="english">Would you like to use ampoule?</span></p>
 
 <p><span class="chinese">他只有一些安培计和一个安瓶。</span><span class="english">He only had some ammeter and an ampoule.</span></p>

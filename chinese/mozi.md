@@ -1,5 +1,7 @@
 # 抹子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mozi.md)
+
 <p><span class="chinese">这款饮料获得了“最糟糕抹子奖”。</span><span class="english">This drink won the “Worst Float Award.”</span></p>
 
 <p><span class="chinese">砂浆可用喷枪喷涂或者抹子手工涂抹。</span><span class="english">The plaster is applied with a sprayer or by hand using a twohanded trowel.</span></p>

@@ -1,5 +1,7 @@
 # spanner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spanner.md)
+
 <p><span class="chinese">你需要扳手吗？</span><span class="english">Do you need the spanner?</span></p>
 
 <p><span class="chinese">环形扳手在哪里？</span><span class="english">Where is the ring spanner?</span></p>

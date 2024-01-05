@@ -1,5 +1,7 @@
 # 质料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliao_2.md)
+
 <p><span class="chinese">是用什麽质料做的？</span><span class="english">What is the material made of?</span></p>
 
 <p><span class="chinese">您喜欢什么质料的镜架？</span><span class="english">What kind of frame do you like?</span></p>

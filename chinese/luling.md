@@ -1,5 +1,7 @@
 # 炉龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luling.md)
+
 <p><span class="chinese">浸油润滑，保证采用常年炉龄。</span><span class="english">Dip-in lubrication guarantees long life.</span></p>
 
 <p><span class="chinese">溅渣护炉技术是提高转炉炉龄的有效措施。</span><span class="english">Slag splashing is effective in extending the lining life.</span></p>

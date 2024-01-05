@@ -1,5 +1,7 @@
 # 心惊胆颤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjingdanchan.md)
+
 <p><span class="chinese">幸存者躺在海岸上，疲惫不堪，心惊胆颤。</span><span class="english">The survivors lay on the beach, exhausted and shocked.</span></p>
 
 <p><span class="chinese">巨浪拍打在我们的身上，把我们吓得心惊胆颤。</span><span class="english">It was terrifying for us, as we were shaken by the waves.</span></p>

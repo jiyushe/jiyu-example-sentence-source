@@ -1,5 +1,7 @@
 # gentlemanly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentlemanly.md)
+
 <p><span class="chinese">他摆出他那副绅士派头。</span><span class="english">He donned his gentlemanly attitude.</span></p>
 
 <p><span class="chinese">他们还更具绅士风度。</span><span class="english">They're also much more gentlemanly.</span></p>

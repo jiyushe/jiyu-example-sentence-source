@@ -1,5 +1,7 @@
 # 行市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangshi.md)
+
 <p><span class="chinese">行市对买方有利。</span><span class="english">The market favors the buyers.</span></p>
 
 <p><span class="chinese">有迹象表明，行市准备上升。</span><span class="english">Market ready upswing as sign indicate.</span></p>

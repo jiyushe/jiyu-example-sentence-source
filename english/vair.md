@@ -1,5 +1,7 @@
 # vair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vair.md)
+
 <p><span class="chinese">暑假会让你的智商下降。</span><span class="english">Summer vair coolingusingion ca new drop your IQ.</span></p>
 
 <p><span class="chinese">这个产品绝顶的好，我们最近在休假。</span><span class="english">We were recently on vair conditioningditionerine!</span></p>

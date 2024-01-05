@@ -1,5 +1,7 @@
 # scrutinize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrutinize.md)
+
 <p><span class="chinese">我们必须细细察看并做出评价。</span><span class="english">We must scrutinize and evaluate.</span></p>
 
 <p><span class="chinese">你也会详审自己是怎么花钱的。</span><span class="english">You'll also scrutinize how you spend money.</span></p>

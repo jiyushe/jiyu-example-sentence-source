@@ -1,5 +1,7 @@
 # accompanying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accompanying.md)
+
 <p><span class="chinese">她来了，没有任何人陪着她。</span><span class="english">She came without anyone accompanying her.</span></p>
 
 <p><span class="chinese">防空炮是首要打击目标。</span><span class="english">Engage accompanying air-defense guns first.</span></p>

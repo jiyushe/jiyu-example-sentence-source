@@ -1,5 +1,7 @@
 # boletus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boletus.md)
+
 <p><span class="chinese">白牛肝菌味道鲜美，营养丰富。</span><span class="english">White Boletus delicious and rich nutrition.</span></p>
 
 <p><span class="chinese">烘干和晒干的美味牛肝菌片，混级，10-20吨左右。</span><span class="english">Dries delicacy boletus piece which and seasons, mixes the level, about 10-20 tons.</span></p>

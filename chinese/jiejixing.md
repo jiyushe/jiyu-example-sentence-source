@@ -1,5 +1,7 @@
 # 阶级性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejixing.md)
+
 <p><span class="chinese">既然任何人都能运用这一工具，它就具有阶级性。</span><span class="english">Since anyone can use this instrument, it has a class nature.</span></p>
 
 <p><span class="chinese">阶级性是国家的本质属性。</span><span class="english">According to Marxism, class division is the nature of a country.</span></p>

@@ -1,5 +1,7 @@
 # income
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/income.md)
+
 <p><span class="chinese">易货是收入。</span><span class="english">Barter is income.</span></p>
 
 <p><span class="chinese">所得税回单。</span><span class="english">Income tax returns.</span></p>

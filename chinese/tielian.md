@@ -1,5 +1,7 @@
 # 铁链
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tielian.md)
+
 <p><span class="chinese">那铁链就从他手上脱落下来。</span><span class="english">And his chains fell off his hands.</span></p>
 
 <p><span class="chinese">那铁链就从他手上脱落下来。</span><span class="english">And his chains fell off from his hands.</span></p>

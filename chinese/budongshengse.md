@@ -1,5 +1,7 @@
 # 不动声色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budongshengse.md)
+
 <p><span class="chinese">农夫继续不动声色地给牛驾轭。</span><span class="english">The farmer continued solidly yoking his oxen.</span></p>
 
 <p><span class="chinese">杜洛埃坐立不安了，赫斯渥却一点不动声色。</span><span class="english">Drouet fidgeted. Hurstwood moved his toe the least bit.</span></p>

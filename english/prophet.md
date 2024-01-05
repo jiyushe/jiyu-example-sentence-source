@@ -1,5 +1,7 @@
 # prophet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophet.md)
+
 <p><span class="chinese">先知殉教者。</span><span class="english">A prophet martyr.</span></p>
 
 <p><span class="chinese">先知为何？</span><span class="english">What is a prophet?</span></p>

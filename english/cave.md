@@ -1,5 +1,7 @@
 # cave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cave.md)
+
 <p><span class="chinese">山洞崩塌了。</span><span class="english">The cave fell in.</span></p>
 
 <p><span class="chinese">好一个痴癫的穴居男人。</span><span class="english">An insane cave man.</span></p>

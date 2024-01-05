@@ -1,5 +1,7 @@
 # scintigraphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scintigraphy.md)
+
 <p><span class="chinese">同位素红血球扫描发现空肠处出血。</span><span class="english">Scintigraphy with Technetium-labeled red blood cells showed jejunal bleeding.</span></p>
 
 <p><span class="chinese">心肌灌注闪烁照相术对缺血程度估计提供辅助资料。</span><span class="english">Myocardial perfusion scintigraphy provides complementary data for assessing ischemic burden.</span></p>

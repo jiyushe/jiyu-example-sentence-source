@@ -1,5 +1,7 @@
 # 塞北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saibei.md)
+
 <p><span class="chinese">塞北的冬天，生命在奏响，如此精彩！</span><span class="english">Saibei winter, life in the sounded so wonderful!</span></p>
 
 <p><span class="chinese">这里有着浓厚、典型的塞北文化气息。</span><span class="english">It is full of strong and typical Saibei culture tinge.</span></p>

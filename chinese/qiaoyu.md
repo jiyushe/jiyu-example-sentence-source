@@ -1,5 +1,7 @@
 # 巧遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoyu.md)
+
 <p><span class="chinese">当在国外巧遇时。</span><span class="english">When we meet abroad.</span></p>
 
 <p><span class="chinese">为什么我们不为这次的巧遇庆祝一下呢？</span><span class="english">Why don't we celebrate this great coincidence?</span></p>

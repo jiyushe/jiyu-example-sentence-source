@@ -1,5 +1,7 @@
 # 腊梅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lamei.md)
+
 <p><span class="chinese">一枝腊梅开。</span><span class="english">Lo, what a blooming wintersweet!</span></p>
 
 <p><span class="chinese">腊梅的枝桠也已经覆上了厚厚的积雪。</span><span class="english">The branch of La plum also already answer last very thick accumulated snow.</span></p>

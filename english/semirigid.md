@@ -1,5 +1,7 @@
 # semirigid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semirigid.md)
+
 <p><span class="chinese">手术后嘱患者2个月内戴半刚性的颈托。</span><span class="english">A postoperative semirigid cervical collar was prescribed for 2 months.</span></p>
 
 <p><span class="chinese">褥垫层是刚性桩和半刚性桩复合地基的核心技术之一。</span><span class="english">Cushion is a core part in the rigid and semirigid composite foundation.</span></p>

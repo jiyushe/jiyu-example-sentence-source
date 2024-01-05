@@ -1,5 +1,7 @@
 # thrive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrive.md)
+
 <p><span class="chinese">先发迹后娶妻。</span><span class="english">First thrive and then wife.</span></p>
 
 <p><span class="chinese">什么可以使你事业有成？</span><span class="english">What do you need to thrive?</span></p>

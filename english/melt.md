@@ -1,5 +1,7 @@
 # melt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melt.md)
+
 <p><span class="chinese">热将使铁熔化。</span><span class="english">Heat will melt iron.</span></p>
 
 <p><span class="chinese">片片原野融化了我的心脏。</span><span class="english">Fields melt my heart.</span></p>

@@ -1,5 +1,7 @@
 # incision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incision.md)
+
 <p><span class="chinese">覆盖切口，并包扎伤口处。</span><span class="english">Close the incision and dress the wound side.</span></p>
 
 <p><span class="chinese">就在我背底部，同一个切口。</span><span class="english">It was in the bottom of my back, the same incision.</span></p>

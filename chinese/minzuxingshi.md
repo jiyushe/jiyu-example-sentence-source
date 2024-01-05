@@ -1,5 +1,7 @@
 # 民族形式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzuxingshi.md)
+
 <p><span class="chinese">中国文化应有自己的形式，这就是民族形式。</span><span class="english">Chinese culture should have its own form, its own national form.</span></p>
 
 <p><span class="chinese">笔者认为李遇秋的创作的民族性格表现在民族形式和民族精神两个方面。</span><span class="english">The researcher thinks that Li Yuqiu's folk personality was mainly embodied in his folk format and his folk spirit.</span></p>

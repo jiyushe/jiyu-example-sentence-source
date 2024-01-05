@@ -1,5 +1,7 @@
 # organza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organza.md)
+
 <p><span class="chinese">伴娘身着杏黄色和白色相间的透明硬纱礼服。</span><span class="english">The bridesmaids wore apricot and white organza.</span></p>
 
 <p><span class="chinese">磨光和发亮的材料，色丁和薄纱。</span><span class="english">Polish and bright materials iridescent satin and organza.</span></p>

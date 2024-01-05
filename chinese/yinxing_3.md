@@ -1,5 +1,7 @@
 # 音型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxing_3.md)
+
 <p><span class="chinese">在爵士乐中，即兴反复片段是一个简单的曲调音型。</span><span class="english">In jazz music, a riff ias simple melodic figure.</span></p>
 
 <p><span class="chinese">节拍，是指一种重音与非重音循环出现的，简单而固定的律动音型。</span><span class="english">A simple, regular, recurring pattern with a pulse of accented and unaccented beats is called the meter.</span></p>

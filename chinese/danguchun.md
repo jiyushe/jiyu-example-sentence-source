@@ -1,5 +1,7 @@
 # 胆固醇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danguchun.md)
+
 <p><span class="chinese">你的胆固醇高吗？</span><span class="english">Do you have high cholesterol?</span></p>
 
 <p><span class="chinese">他汀类药物还可以降低血液胆固醇水平。</span><span class="english">Statin drugs lower cholesterol.</span></p>

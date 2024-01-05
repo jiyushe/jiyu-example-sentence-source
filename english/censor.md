@@ -1,5 +1,7 @@
 # censor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/censor.md)
+
 <p><span class="chinese">我们不对消息材料做审查。</span><span class="english">We do not censor material.</span></p>
 
 <p><span class="chinese">你必须是你自己的检查者。</span><span class="english">You have to be your own censor.</span></p>

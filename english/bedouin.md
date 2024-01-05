@@ -1,5 +1,7 @@
 # bedouin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedouin.md)
+
 <p><span class="chinese">他们被描写为父权家长制的贝都印式酋长。</span><span class="english">They are presented as patriarchal Bedouin chiefs.</span></p>
 
 <p><span class="chinese">卡塔尔文化基于贝多因人的诗歌，歌唱和舞蹈。</span><span class="english">Qatar’s culture is based on Bedouin poetry, song and dance.</span></p>

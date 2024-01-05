@@ -1,5 +1,7 @@
 # 趴下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paxia.md)
+
 <p><span class="chinese">必须趴下，迅速出去。</span><span class="english">Drop down low and get out fast.</span></p>
 
 <p><span class="chinese">那个乱穿马路的人被卡车撞趴下了。</span><span class="english">The jaywalker was run down by a truck.</span></p>

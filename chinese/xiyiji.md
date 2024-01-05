@@ -1,5 +1,7 @@
 # 洗衣机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyiji.md)
+
 <p><span class="chinese">像洗衣机，它们太耗水了。</span><span class="english">They use too much water.</span></p>
 
 <p><span class="chinese">打开洗衣机。</span><span class="english">Turn on the washing-machine.</span></p>

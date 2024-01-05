@@ -1,5 +1,7 @@
 # jeanette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeanette.md)
+
 <p><span class="chinese">欧萱曾是丑小鸭，被造型师批评！</span><span class="english">Jeanette Aw was once an ugly duckling!</span></p>
 
 <p><span class="chinese">珍妮特难得错过一场足球赛。</span><span class="english">Jeanette rarely misses a football game.</span></p>

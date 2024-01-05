@@ -1,5 +1,7 @@
 # timbre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timbre.md)
+
 <p><span class="chinese">自制的柳笛，音质非常好。</span><span class="english">The willow whistle he made himself has a pleasant timbre.</span></p>
 
 <p><span class="chinese">我喜欢上了羌笛那略带哀怨的音色。</span><span class="english">I fell in love with the subtly plaintive timbre of the Qiang flute.</span></p>

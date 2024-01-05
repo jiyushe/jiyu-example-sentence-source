@@ -1,5 +1,7 @@
 # when 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/when.md)
+
 <p><span class="chinese">我12岁时读的。</span><span class="english">When I was 12.</span></p>
 
 <p><span class="chinese">我什么时候测试？</span><span class="english">When do I test?</span></p>

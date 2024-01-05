@@ -1,5 +1,7 @@
 # stuffiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stuffiness.md)
+
 <p><span class="chinese">共享的空间以避免窒息感。</span><span class="english">The spaces are shared to avoid stuffiness.</span></p>
 
 <p><span class="chinese">我们不能忍受这间屋子里的窒闷。</span><span class="english">We cannot stand the stuffiness of the room.</span></p>

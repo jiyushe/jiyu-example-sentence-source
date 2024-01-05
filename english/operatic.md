@@ -1,5 +1,7 @@
 # operatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operatic.md)
+
 <p><span class="chinese">我们刚才提到了歌剧？</span><span class="english">Did we say operatic?</span></p>
 
 <p><span class="chinese">蒙蒂维迪是第一个伟大的歌剧作曲家。</span><span class="english">Monteverdi was the first great operatic composer.</span></p>

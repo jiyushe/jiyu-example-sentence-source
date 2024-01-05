@@ -1,5 +1,7 @@
 # 月份
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuefen.md)
+
 <p><span class="chinese">我在12月份时参加过一次。</span><span class="english">I did one in December.</span></p>
 
 <p><span class="chinese">这个月是几月份？</span><span class="english">Unit16 Whick month is this?</span></p>

@@ -1,5 +1,7 @@
 # toxemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxemia.md)
+
 <p><span class="chinese">子痫前症也被称为血毒症。</span><span class="english">Preeclampsia is also called toxemia.</span></p>
 
 <p><span class="chinese">该孕妇曾患妊娠毒血症。</span><span class="english">The mother had toxemia of pregnancy.</span></p>

@@ -1,5 +1,7 @@
 # scandalous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scandalous.md)
+
 <p><span class="chinese">但是现在又完全失败了。</span><span class="english">But it was a scandalous failure.</span></p>
 
 <p><span class="chinese">他的友好行为不过是他险恶用心的伪装。</span><span class="english">We are surprised by his scandalous behaviour.</span></p>

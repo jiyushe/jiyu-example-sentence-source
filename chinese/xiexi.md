@@ -1,5 +1,7 @@
 # 歇息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexi.md)
+
 <p><span class="chinese">我看见几十头在歇息的骆驼。</span><span class="english">I saw dozens of resting camels.</span></p>
 
 <p><span class="chinese">为我的歇息之处遮蔽黎明白日。</span><span class="english">Hide day-dawn from my resting-place.</span></p>

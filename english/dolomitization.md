@@ -1,5 +1,7 @@
 # dolomitization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolomitization.md)
+
 <p><span class="chinese">白云石化作用是形成优质储层的基础。</span><span class="english">The dolomitization is the base of forming high quality reservoirs.</span></p>
 
 <p><span class="chinese">进行了白云石化分区分带研究，为下步勘探部署指明了方向。</span><span class="english">Distribution research of dolomitization is made, and next exploration target is pointed out.</span></p>

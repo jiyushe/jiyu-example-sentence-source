@@ -1,5 +1,7 @@
 # 露宿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lusu_1.md)
+
 <p><span class="chinese">“露宿在公园里？”修行者问道。</span><span class="english">"In the open air?" Asked the yogi.</span></p>
 
 <p><span class="chinese">我们在那个地区露宿过夜。</span><span class="english">We bivouacked for the evening in that area.</span></p>

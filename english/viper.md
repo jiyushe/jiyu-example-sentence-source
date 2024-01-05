@@ -1,5 +1,7 @@
 # viper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viper.md)
+
 <p><span class="chinese">灵蛇大侠成功的秘诀是什么呢？</span><span class="english">What is the secret of Viper?</span></p>
 
 <p><span class="chinese">毒蛇车报警模块3202。</span><span class="english">"Viper" car alarm unit 3202.</span></p>

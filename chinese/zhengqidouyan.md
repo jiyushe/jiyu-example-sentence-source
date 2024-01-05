@@ -1,5 +1,7 @@
 # 争奇斗艳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqidouyan.md)
+
 <p><span class="chinese">只在焦黑的田野争奇斗艳！</span><span class="english">Bloom in these darkened fields alone.</span></p>
 
 <p><span class="chinese">随之色彩斑斓花朵儿争奇斗艳。</span><span class="english">And flowers of colours bloom brightly soon.</span></p>

@@ -1,5 +1,7 @@
 # 瑰丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guili.md)
+
 <p><span class="chinese">有棕榈树的小岛生如夏日朝霞般瑰丽！</span><span class="english">Born as rosy and magnificent as summer sunglow!</span></p>
 
 <p><span class="chinese">抱起往真甘愿批准。爸爸、妈妈支的瑰丽婴女床。</span><span class="english">So cuddly. The beautiful crib from Mom and Dad.</span></p>

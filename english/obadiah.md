@@ -1,5 +1,7 @@
 # obadiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obadiah.md)
+
 <p><span class="chinese">第一以薛，第二俄巴底雅，第三以利押。</span><span class="english">Ezer the chief, Obadiah second, Eliab third.</span></p>
 
 <p><span class="chinese">第一以薛，第二俄巴底雅，第三以利押</span><span class="english">Ezer the first, Obadiah the second, Eliab the third</span></p>

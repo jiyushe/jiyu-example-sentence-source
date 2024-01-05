@@ -1,5 +1,7 @@
 # 片言只语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianyanzhiyu.md)
+
 <p><span class="chinese">他们的对话，我只听到片言只语。</span><span class="english">I heard only a fragment of their conversation.</span></p>
 
 <p><span class="chinese">你要经常给我发电邮，哪怕片言只语也好。</span><span class="english">You should email me often – just a few words will do.</span></p>

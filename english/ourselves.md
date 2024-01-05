@@ -1,5 +1,7 @@
 # ourselves 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ourselves.md)
+
 <p><span class="chinese">我们必须依靠自己。</span><span class="english">We must rely on ourselves.</span></p>
 
 <p><span class="chinese">但我们只属于我们自己。</span><span class="english">But we belong to ourselves.</span></p>

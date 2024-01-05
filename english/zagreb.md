@@ -1,5 +1,7 @@
 # zagreb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zagreb.md)
+
 <p><span class="chinese">在仅仅只有17岁的时候，这个年轻的克罗地亚人就是萨各勒布迪纳摩的队长了。</span><span class="english">At the age of just 17 the young Croat was captain of Dinamo Zagreb.</span></p>
 
 <p><span class="chinese">阿贾克斯，1995年的冠军，萨格勒布迪纳摩组中的功能。</span><span class="english">Ajax, the 1995 champions, and Dinamo Zagreb also feature in the group.</span></p>

@@ -1,5 +1,7 @@
 # palpitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpitation.md)
+
 <p><span class="chinese">我有心悸。</span><span class="english">I have a palpitation.</span></p>
 
 <p><span class="chinese">您感觉心悸有多长时间?。</span><span class="english">How long have you had palpitation?</span></p>

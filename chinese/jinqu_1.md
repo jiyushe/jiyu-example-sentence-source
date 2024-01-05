@@ -1,5 +1,7 @@
 # 进去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqu_1.md)
+
 <p><span class="chinese">我走了进去。</span><span class="english">I went in.</span></p>
 
 <p><span class="chinese">他走进去了。</span><span class="english">He entered it.</span></p>

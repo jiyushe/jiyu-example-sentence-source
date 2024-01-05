@@ -1,5 +1,7 @@
 # aspic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspic.md)
+
 <p><span class="chinese">什么是花色肉冻？</span><span class="english">What exactly is aspic?</span></p>
 
 <p><span class="chinese">肉冻就是牛肉味的吉露果子冻。</span><span class="english">An aspic is sort of a beef-flavored Jell-O mold.</span></p>

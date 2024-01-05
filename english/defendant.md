@@ -1,5 +1,7 @@
 # defendant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defendant.md)
+
 <p><span class="chinese">在被诉人国家。</span><span class="english">In the country of the defendant.</span></p>
 
 <p><span class="chinese">原告是被告的反义字。</span><span class="english">Plaintiff is an antonym of defendant.</span></p>

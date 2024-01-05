@@ -1,5 +1,7 @@
 # genii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genii.md)
+
 <p><span class="chinese">被那有著苍白头发的小鬼。</span><span class="english">By such slight genii in such pale air.</span></p>
 
 <p><span class="chinese">是的，伯尼是海格萨博的资本参与竞投。</span><span class="english">That's right, Bernie is part of the Genii Capital bid for Saab.</span></p>

@@ -1,5 +1,7 @@
 # treacherously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treacherously.md)
+
 <p><span class="chinese">山路蜿蜒曲折。</span><span class="english">The mountain road bends treacherously.</span></p>
 
 <p><span class="chinese">你说我狡猾而肮脏地谋杀了他时，你说的是谎言。</span><span class="english">When you say that I murdered him treacherously and foully , you lie.</span></p>

@@ -1,5 +1,7 @@
 # 东晋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongjin.md)
+
 <p><span class="chinese">它们互相争奇斗艳，共同推动了东晋小说的繁荣。</span><span class="english">All these pushed story of Eastern Jin to a boom.</span></p>
 
 <p><span class="chinese">东晋太元年间，有个武陵人以捕鱼作为职业。</span><span class="english">Jin is too yuan, Wuling people fishing for the industry.</span></p>

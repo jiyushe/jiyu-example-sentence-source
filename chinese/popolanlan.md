@@ -1,5 +1,7 @@
 # 破破烂烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/popolanlan.md)
+
 <p><span class="chinese">他脸上划满了破破烂烂的十诫。</span><span class="english">His face be fille with break commandment.</span></p>
 
 <p><span class="chinese">这是一间昼夜营业的破破烂烂的小咖啡馆。</span><span class="english">It was a small and shabby all-night café.</span></p>

@@ -1,5 +1,7 @@
 # vlan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vlan.md)
+
 <p><span class="chinese">VLAN是网络界最为热门同时也是最使人感到迷惑的话题。</span><span class="english">About the network, VLAN is a topic which is both most attactive and baffling.</span></p>
 
 <p><span class="chinese">基于用户标识VLAN是将用户标识直接作为VLAN划分依据的VLAN实现模式。</span><span class="english">User identity-based VLAN is the VLAN mode which associates the VLAN division with the user identity directly.</span></p>

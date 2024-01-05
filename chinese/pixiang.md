@@ -1,5 +1,7 @@
 # 皮箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pixiang.md)
+
 <p><span class="chinese">在皮箱外捆上一条皮带。</span><span class="english">Put a strap around the trunk.</span></p>
 
 <p><span class="chinese">她把它也放进了皮箱。</span><span class="english">She put it into the trunk also.</span></p>

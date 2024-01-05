@@ -1,5 +1,7 @@
 # 收服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufu_2.md)
+
 <p><span class="chinese">但它并不十分可爱，所以我没有收服他。</span><span class="english">But it wasn't very cute, so I left it.</span></p>
 
 <p><span class="chinese">还有一个是来收服你的。</span><span class="english">The third man is the one who come to conquer you.</span></p>

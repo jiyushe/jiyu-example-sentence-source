@@ -1,5 +1,7 @@
 # excelsior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excelsior.md)
+
 <p><span class="chinese">精实保全，谁在处理？</span><span class="english">Excelsior Securities, who's handling that?</span></p>
 
 <p><span class="chinese">精益求精，我相信我能把衣服做好。</span><span class="english">Excelsior , I believe I can have made the clothing.</span></p>

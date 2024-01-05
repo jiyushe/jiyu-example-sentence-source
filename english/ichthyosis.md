@@ -1,5 +1,7 @@
 # ichthyosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ichthyosis.md)
+
 <p><span class="chinese">鱼鳞病在全球范围发生。</span><span class="english">Ichthyosis occurs worldwide and affects people of all races.</span></p>
 
 <p><span class="chinese">他们是层状，X连锁，鱼鳞病及表皮角化的形式。</span><span class="english">They are lamellar, x-linked, and epidermolytic hyperkeratosis forms of ichthyosis.</span></p>

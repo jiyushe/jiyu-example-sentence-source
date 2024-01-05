@@ -1,5 +1,7 @@
 # fixate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixate.md)
+
 <p><span class="chinese">如果你固定在十字架上，您应该只看到一个新月。</span><span class="english">If you fixate on the cross, you should only see a crescent.</span></p>
 
 <p><span class="chinese">“你必须思想开放，不要关注其他人的想法，”戴安说。</span><span class="english">"You have to be open-minded and not fixate on what other people think, " said Diane.</span></p>

@@ -1,5 +1,7 @@
 # grubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grubby.md)
+
 <p><span class="chinese">两个肮里肮脏的小男孩在那正挖着什么。</span><span class="english">The two grubby small boys are digging there.</span></p>
 
 <p><span class="chinese">我的母亲常常抱怨，说圣诞节玩具肮脏不堪，没到复活节就被遗忘了。</span><span class="english">My mother used to complain that the Christmas toys were grubby and forgotten by Easter.</span></p>

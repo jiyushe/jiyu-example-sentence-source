@@ -1,5 +1,7 @@
 # subsistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsistence.md)
+
 <p><span class="chinese">总的来说，很少人一直挣扎在温饱水平。</span><span class="english">In sum, few people remain at subsistence level.</span></p>
 
 <p><span class="chinese">生活资料只能按算术级数增长。</span><span class="english">Subsistence only increases in an arithmetic ratio.</span></p>

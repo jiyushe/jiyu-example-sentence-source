@@ -1,5 +1,7 @@
 # 世风日下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifengrixia.md)
+
 <p><span class="chinese">幸福家庭不会唾手可得，尤其是在当今世风日下的社会。</span><span class="english">Making happy homes is not easy, especially in a corrupt society.</span></p>
 
 <p><span class="chinese">我想，我是彻底迷失了，于这个世风日下的恐怖世界！</span><span class="english">What a pathetic world! And what a miserable life we are living now!</span></p>

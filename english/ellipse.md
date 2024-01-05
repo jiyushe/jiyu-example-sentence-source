@@ -1,5 +1,7 @@
 # ellipse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellipse.md)
+
 <p><span class="chinese">在盒盖的背面画一个椭圆。</span><span class="english">Draw an ellipse on the box.</span></p>
 
 <p><span class="chinese">它是椭圆型的焦点。</span><span class="english">It's the focus of the ellipse.</span></p>

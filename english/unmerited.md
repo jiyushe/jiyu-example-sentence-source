@@ -1,5 +1,7 @@
 # unmerited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmerited.md)
+
 <p><span class="chinese">因为神的恩典是宝贵的，是我们不配得的恩惠。</span><span class="english">Because God's grace is precious unmerited favor.</span></p>
 
 <p><span class="chinese">求祢使我们也把这福音与身边的人共享，让他们看见祢无条件的爱。</span><span class="english">Help us to share that same news with the people around us, showing your unmerited love.</span></p>

@@ -1,5 +1,7 @@
 # 火情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoqing.md)
+
 <p><span class="chinese">下到舱内探测火情。将所有消防器材放回原位。</span><span class="english">The fire has been put out and fire site cleaned up.</span></p>
 
 <p><span class="chinese">一旦你发现火情、焦糊味或烟雾，应该立即采取行动。</span><span class="english">Always act immediately if you detect fire, smell or smoke.</span></p>

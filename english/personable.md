@@ -1,5 +1,7 @@
 # personable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personable.md)
+
 <p><span class="chinese">他聪明、机敏而且讨人喜欢。</span><span class="english">He is bright, personable and resourceful.</span></p>
 
 <p><span class="chinese">多一些微笑并且做到行为优雅和风度迷人。</span><span class="english">Smile a lot and be personable and engaging.</span></p>

@@ -1,5 +1,7 @@
 # 楔子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezi_1.md)
+
 <p><span class="chinese">从前，有一只圆圈缺了一块楔子。</span><span class="english">Once, a circle missed a wedge.</span></p>
 
 <p><span class="chinese">在我停下车时，把后轮用楔子塞住。</span><span class="english">Chock the back wheels when I stop.</span></p>

@@ -1,5 +1,7 @@
 # drizzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drizzle.md)
+
 <p><span class="chinese">细雨一丝丝，就是我的泪珠。</span><span class="english">The light drizzle is my teardrops.</span></p>
 
 <p><span class="chinese">随好淋上枫糖浆。</span><span class="english">Drizzle with maple syrup if desired.</span></p>

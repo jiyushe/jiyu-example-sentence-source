@@ -1,5 +1,7 @@
 # reprehensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprehensible.md)
+
 <p><span class="chinese">我觉得这是应该谴责的。</span><span class="english">I thought that is really reprehensible.</span></p>
 
 <p><span class="chinese">他如此不忠，应受谴责。</span><span class="english">It was reprehensible of him to be so disloyal.</span></p>

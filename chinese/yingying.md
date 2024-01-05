@@ -1,5 +1,7 @@
 # 嘤嘤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingying.md)
+
 <p><span class="chinese">想象自己置身于那样一个蜜蜂嘤嘤的空地。</span><span class="english">Imagine yourself in that bee-loud glade.</span></p>
 
 <p><span class="chinese">电灯边蚊子苍蝇嗡嗡嘤嘤。</span><span class="english">Mosquitoes and flies buzzed around our electric lanterns.</span></p>

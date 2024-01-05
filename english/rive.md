@@ -1,5 +1,7 @@
 # rive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rive.md)
+
 <p><span class="chinese">还有月亮河和我。</span><span class="english">Moon rive and me.</span></p>
 
 <p><span class="chinese">如流水般与希望同逝。</span><span class="english">Like rive gone with my wishes.</span></p>

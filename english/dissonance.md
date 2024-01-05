@@ -1,5 +1,7 @@
 # dissonance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissonance.md)
+
 <p><span class="chinese">这是个不和谐音</span><span class="english">Here is a dissonance.</span></p>
 
 <p><span class="chinese">这也是认识失调来解释。</span><span class="english">Again, it's cognitive dissonance.</span></p>

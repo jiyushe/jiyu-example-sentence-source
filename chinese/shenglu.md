@@ -1,5 +1,7 @@
 # 生路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglu.md)
+
 <p><span class="chinese">噢大祸临头了这下可有生路？</span><span class="english">Oh, calamity , is there no way out?</span></p>
 
 <p><span class="chinese">最终，放小女孩们一条生路的话，玩家会得到奖励。</span><span class="english">Players are rewarded, ultimately, by letting them live.</span></p>

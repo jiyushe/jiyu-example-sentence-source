@@ -1,5 +1,7 @@
 # 光芒四射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangmangsishe.md)
+
 <p><span class="chinese">你光芒四射。</span><span class="english">You were radiant.</span></p>
 
 <p><span class="chinese">我用清晰的光芒四射的智慧净化我的思想。</span><span class="english">With Mindfulness clear and radiant, I purify my mind.</span></p>

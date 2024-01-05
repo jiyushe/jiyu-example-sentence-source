@@ -1,5 +1,7 @@
 # 海峡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haixia.md)
+
 <p><span class="chinese">经常有人游过海峡</span><span class="english">They do it all the time.</span></p>
 
 <p><span class="chinese">船已驶出海峡。</span><span class="english">The ship cleared the straits.</span></p>

@@ -1,5 +1,7 @@
 # contagion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contagion.md)
+
 <p><span class="chinese">种族间的嫉恨是一种不良的风气。</span><span class="english">Racial hatred is a contagion.</span></p>
 
 <p><span class="chinese">没有接触传染的风险。</span><span class="english">There is no risk of contagion.</span></p>

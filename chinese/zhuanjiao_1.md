@@ -1,5 +1,7 @@
 # 转角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanjiao_1.md)
+
 <p><span class="chinese">然后，圆滑那些转角。</span><span class="english">Then round the corners.</span></p>
 
 <p><span class="chinese">在道路转角的那一刹难。</span><span class="english">A moment when the road bends.</span></p>

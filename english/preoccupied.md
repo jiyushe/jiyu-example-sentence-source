@@ -1,5 +1,7 @@
 # preoccupied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preoccupied.md)
+
 <p><span class="chinese">所以不需要担心末端。</span><span class="english">So don't get preoccupied by the end.</span></p>
 
 <p><span class="chinese">前排座位已给别人先占了。</span><span class="english">The front seats have been preoccupied.</span></p>

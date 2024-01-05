@@ -1,5 +1,7 @@
 # 吊唁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaoyan.md)
+
 <p><span class="chinese">有的人留下了吊唁卡。</span><span class="english">Some left condolence cards.</span></p>
 
 <p><span class="chinese">我们会吊唁和你一起共事的韶光。</span><span class="english">We'll miss doing business with you.</span></p>

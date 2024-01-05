@@ -1,5 +1,7 @@
 # 伸手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshou.md)
+
 <p><span class="chinese">说着他就伸手去拿我那一首诗。</span><span class="english">He was reaching for my poem.</span></p>
 
 <p><span class="chinese">你再做一遍,他会伸手去拿</span><span class="english">You do it again, reach for it.</span></p>

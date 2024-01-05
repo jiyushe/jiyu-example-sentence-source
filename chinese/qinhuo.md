@@ -1,5 +1,7 @@
 # 擒获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinhuo.md)
+
 <p><span class="chinese">多年以后他才被擒获。</span><span class="english">It has been many long years until he was captured.</span></p>
 
 <p><span class="chinese">我们只须伸出手去，将其擒获。</span><span class="english">We had only to stretch out our hands and take them.</span></p>

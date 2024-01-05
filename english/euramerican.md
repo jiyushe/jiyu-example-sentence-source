@@ -1,5 +1,7 @@
 # euramerican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euramerican.md)
+
 <p><span class="chinese">家具适合用带雕刻的欧美家具样式。</span><span class="english">Furniture suits to use take carven Euramerican furniture style.</span></p>
 
 <p><span class="chinese">今天向亲们介绍欧美风的服装。</span><span class="english">Today, I'd like to introduce you to euramerican style of clothing.</span></p>

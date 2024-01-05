@@ -1,5 +1,7 @@
 # judean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judean.md)
+
 <p><span class="chinese">他可能遭到的成员朱迪亚法院。</span><span class="english">He may have been a member of the Judean court.</span></p>
 
 <p><span class="chinese">死海古卷是在朱迪亚沙漠的山洞中发现的。</span><span class="english">The Dead Sea Scrolls were found in caves in the Judean desert.</span></p>

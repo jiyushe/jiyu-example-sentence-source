@@ -1,5 +1,7 @@
 # oxidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidation.md)
+
 <p><span class="chinese">金铝圈表面氧化处理。</span><span class="english">Aluminum ring and oxidation.</span></p>
 
 <p><span class="chinese">no氧化是自动催化的。</span><span class="english">The NO oxidation is autocatalytic.</span></p>

@@ -1,5 +1,7 @@
 # oxbow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxbow.md)
+
 <p><span class="chinese">这组照片捕捉到了一个U型湖的发展过程。</span><span class="english">These images capture the development of an oxbow lake.</span></p>
 
 <p><span class="chinese">U型湖干掉后的曲流痕往往孕育出湿地。</span><span class="english">Wetlands often develop in the meander scars of dried-up oxbow lakes.</span></p>

@@ -1,5 +1,7 @@
 # vegan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegan.md)
+
 <p><span class="chinese">我们先去了素食餐厅。</span><span class="english">We went to a vegan restaurant.</span></p>
 
 <p><span class="chinese">自1985年以来，我一直是个纯素食者。</span><span class="english">I have been a vegan since 1985.</span></p>

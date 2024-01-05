@@ -1,5 +1,7 @@
 # shanxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shanxi.md)
+
 <p><span class="chinese">我们居住在陕西街93号。</span><span class="english">We live at 93 Shanxi Street Now.</span></p>
 
 <p><span class="chinese">欢迎光临山西国贸大饭店。</span><span class="english">Welcome to Shanxi World Trade Hotel.</span></p>

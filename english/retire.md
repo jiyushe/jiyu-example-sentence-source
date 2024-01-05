@@ -1,5 +1,7 @@
 # retire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retire.md)
+
 <p><span class="chinese">我今天就能退休。</span><span class="english">I could retire today.</span></p>
 
 <p><span class="chinese">毕竟，我已经准备洗手不干了。</span><span class="english">I'm ready to retire anyway.</span></p>

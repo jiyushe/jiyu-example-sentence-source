@@ -1,5 +1,7 @@
 # taser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taser.md)
+
 <p><span class="chinese">早矢香推她，而工作组不断艾培训的泰瑟。</span><span class="english">Sayaka pushes her, while WG keeps the taser trained on Ai.</span></p>
 
 <p><span class="chinese">一种革命性的，新的多射门Taser国际创意总监。</span><span class="english">A revolutionary, new multi-shot ECD from TASER International.</span></p>

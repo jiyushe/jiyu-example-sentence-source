@@ -1,5 +1,7 @@
 # rok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rok.md)
+
 <p><span class="chinese">韩国称同意考虑与中国建立自由贸易区。</span><span class="english">ROK says agrees with China to consider FTA.</span></p>
 
 <p><span class="chinese">竹岛当前由韩国实际控制。</span><span class="english">Takeshima by the ROK current actual control.</span></p>

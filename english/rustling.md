@@ -1,5 +1,7 @@
 # rustling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rustling.md)
+
 <p><span class="chinese">风吹树叶簌簌响。</span><span class="english">The leaves are rustling in the wind.</span></p>
 
 <p><span class="chinese">沙沙的丝绸声静了下来。</span><span class="english">The sound of rustling silk is stilled.</span></p>

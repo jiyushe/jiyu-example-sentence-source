@@ -1,5 +1,7 @@
 # wand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wand.md)
+
 <p><span class="chinese">你的纸棒只是参与总体决定中的一票。</span><span class="english">Your wand is just one vote.</span></p>
 
 <p><span class="chinese">在工具面板中点击魔术棒工具。</span><span class="english">Click on the Magic Wand Tool.</span></p>

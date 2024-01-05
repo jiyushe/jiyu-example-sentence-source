@@ -1,5 +1,7 @@
 # 类别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leibie.md)
+
 <p><span class="chinese">我们把节拍分成不同的类别</span><span class="english">We organize it into groups.</span></p>
 
 <p><span class="chinese">一个贴子只能归入一个类别。</span><span class="english">A post can only go into one category.</span></p>

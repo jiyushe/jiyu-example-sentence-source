@@ -1,5 +1,7 @@
 # demi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demi.md)
+
 <p><span class="chinese">黛咪摩儿是哪一个？</span><span class="english">Which one is Demi Moore?</span></p>
 
 <p><span class="chinese">我说我要像黛咪摩儿！</span><span class="english">I said I wanted it like Demi Moore!</span></p>

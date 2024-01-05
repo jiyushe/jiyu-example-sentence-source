@@ -1,5 +1,7 @@
 # 定睛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjing.md)
+
 <p><span class="chinese">定睛凝视水泊上嬉戏的野禽。</span><span class="english">Fix eyes on frolic wild fowls on the moor water.</span></p>
 
 <p><span class="chinese">会堂里的人都定睛看他。</span><span class="english">The eyes of all in the synagogue were fixed on him.</span></p>

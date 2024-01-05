@@ -1,5 +1,7 @@
 # 原野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanye.md)
+
 <p><span class="chinese">片片原野融化了我的心脏。</span><span class="english">Fields melt my heart.</span></p>
 
 <p><span class="chinese">盛开水仙花的原野?</span><span class="english">The fields of asphodel?</span></p>

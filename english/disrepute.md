@@ -1,5 +1,7 @@
 # disrepute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disrepute.md)
+
 <p><span class="chinese">丑闻使这所学校名誉扫地。</span><span class="english">Because of the scandal the school has fallen into disrepute.</span></p>
 
 <p><span class="chinese">这家旅馆自卖起酒来之后就名声不好。</span><span class="english">The hotel fell into disrepute after they began to serve alcohol.</span></p>

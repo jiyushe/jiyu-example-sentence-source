@@ -1,5 +1,7 @@
 # hiatus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiatus.md)
+
 <p><span class="chinese">顶部超覆是无沉积作用间断的证据。</span><span class="english">Toplap is evidence of a non de-positional hiatus.</span></p>
 
 <p><span class="chinese">这种削蚀现象是侵蚀沉积间断的证据。</span><span class="english">Such truncation is evidence of an erosional hiatus.</span></p>

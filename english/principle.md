@@ -1,5 +1,7 @@
 # principle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principle.md)
+
 <p><span class="chinese">很好,大体上是对的</span><span class="english">Good, in principle.</span></p>
 
 <p><span class="chinese">但权利大于原则。</span><span class="english">But power trumps principle.</span></p>

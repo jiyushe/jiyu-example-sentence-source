@@ -1,5 +1,7 @@
 # 农业税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongyeshui.md)
+
 <p><span class="chinese">废除农业税每人直接受益100元。</span><span class="english">The direct benefit of tax abolishment is 100 yuan per-person.</span></p>
 
 <p><span class="chinese">农业税最早纪录于春秋时期。</span><span class="english">Well, agricultural tax was first recorded in Spring and Autumn period.</span></p>

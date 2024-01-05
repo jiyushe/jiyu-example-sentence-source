@@ -1,5 +1,7 @@
 # mastering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastering.md)
+
 <p><span class="chinese">掌握好人生的四则运算。</span><span class="english">Mastering the arithmetic of life.</span></p>
 
 <p><span class="chinese">掌握图块的创建与使用。</span><span class="english">Mastering the create and use of the block.</span></p>

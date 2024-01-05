@@ -1,5 +1,7 @@
 # 量力而行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianglierxing.md)
+
 <p><span class="chinese">坚持量力而行，确保重点棚户区居民全部按时回迁安居。</span><span class="english">To act to ensure that all key squatters movements home on time.</span></p>
 
 <p><span class="chinese">真正看中的东西就买，不要借钱。真正喜欢的男人就追，量力而行。</span><span class="english">Really fancy things to buy, do not borrow money. Really love the man on, do.</span></p>

@@ -1,5 +1,7 @@
 # Pentecostal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentecostal.md)
+
 <p><span class="chinese">古代信徒的祷告，像放在银行柜台上的支票一样，立刻可以兑取现金。</span><span class="english">The prayer of the Pentecostal age was like a cheque to be paid in coin over the counter.</span></p>
 
 <p><span class="chinese">我们承认属灵医治者在五旬节教会所有属灵恩赐为我们的信仰。</span><span class="english">We admit our belief in the presence of the Healer in all the charismata of the Pentecostal church.</span></p>

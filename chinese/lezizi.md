@@ -1,5 +1,7 @@
 # 乐滋滋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lezizi.md)
+
 <p><span class="chinese">那条西班牙种的狗如今乐滋滋地在舐我的手了。</span><span class="english">The Spanish dog now happily licks my hand.</span></p>
 
 <p><span class="chinese">这位演员受到热烈喝彩，心里感到乐滋滋的。</span><span class="english">The actor basked in appreciative applause.</span></p>

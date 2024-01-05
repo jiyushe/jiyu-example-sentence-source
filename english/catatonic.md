@@ -1,5 +1,7 @@
 # catatonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catatonic.md)
+
 <p><span class="chinese">我问一个护士为什么凯瑟琳会得了紧张性精神分裂症。</span><span class="english">I asked one of the nurses why Katherine was catatonic.</span></p>
 
 <p><span class="chinese">麦迪文因此陷入了长达数年的昏睡。</span><span class="english">Medivh fell into a catatonic state which lasted for many years.</span></p>

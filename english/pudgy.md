@@ -1,5 +1,7 @@
 # pudgy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pudgy.md)
+
 <p><span class="chinese">你的爱犬越来越发福吗？</span><span class="english">Is your puppy getting pudgy?</span></p>
 
 <p><span class="chinese">他指向面包师，矮胖的纳佐林。</span><span class="english">He pointed to the baker, the pudgy Nazorine.</span></p>

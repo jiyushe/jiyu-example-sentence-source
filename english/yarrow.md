@@ -1,5 +1,7 @@
 # yarrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yarrow.md)
+
 <p><span class="chinese">经济学家基特·亚罗认为，这个估计还是保守的。</span><span class="english">Economist Kit Yarrow believes those estimates are on the low side.</span></p>
 
 <p><span class="chinese">你用龟板、蓍草占卦，没有不吉利的预兆。</span><span class="english">Your use of turtle shell, yarrow divination, there is no an unlucky omen.</span></p>

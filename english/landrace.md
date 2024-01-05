@@ -1,5 +1,7 @@
 # landrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landrace.md)
+
 <p><span class="chinese">外来猪种间只有大约克和长白间差异显著。</span><span class="english">Large Yorkshire had highly significant differences with Landrace pig.</span></p>
 
 <p><span class="chinese">地方品种按亚区分为28组，选育品种按大区分为10组。</span><span class="english">The modern varieties were divided into 10 regions, the landrace into 28 sub-regions.</span></p>

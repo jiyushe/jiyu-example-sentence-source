@@ -1,5 +1,7 @@
 # 牙齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yachi.md)
+
 <p><span class="chinese">我的牙齿痛了。</span><span class="english">My teeth hurt.</span></p>
 
 <p><span class="chinese">我的牙齿很痛。</span><span class="english">My tooth hurts.</span></p>

@@ -1,5 +1,7 @@
 # tool 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tool.md)
+
 <p><span class="chinese">把仪器抬下来…</span><span class="english">Take down the tool.</span></p>
 
 <p><span class="chinese">淬硬工具钢。</span><span class="english">Hardened tool steel.</span></p>

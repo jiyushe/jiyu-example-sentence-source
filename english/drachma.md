@@ -1,5 +1,7 @@
 # drachma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drachma.md)
+
 <p><span class="chinese">德国人民又开心地用上了德国马克，希腊人还是用德拉克马。</span><span class="english">The Germans are happily spending deutchmarks again, the Greeks are back with the drachma.</span></p>
 
 <p><span class="chinese">单词"dram"用英语翻译是“钱”与古希腊的硬币名称是同词源的。</span><span class="english">The word "dram" translates into English as "money", and is cognate with the Greek drachma.</span></p>

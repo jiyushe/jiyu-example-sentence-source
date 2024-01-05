@@ -1,5 +1,7 @@
 # organ 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organ.md)
+
 <p><span class="chinese">他们是器官捐赠者。</span><span class="english">As in organ donor.</span></p>
 
 <p><span class="chinese">风琴在奏鸣。</span><span class="english">The organ is playing.</span></p>

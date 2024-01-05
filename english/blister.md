@@ -1,5 +1,7 @@
 # blister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blister.md)
+
 <p><span class="chinese">我起水泡。</span><span class="english">I have a blister.</span></p>
 
 <p><span class="chinese">他用针扎破水疱。</span><span class="english">He broke the blister with a needle.</span></p>

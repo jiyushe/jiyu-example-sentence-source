@@ -1,5 +1,7 @@
 # alternation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternation.md)
+
 <p><span class="chinese">你们看到轮替了吗？</span><span class="english">Did you see the alternation?</span></p>
 
 <p><span class="chinese">节奏意味着压缩和释放的交替。</span><span class="english">Rhythm means the alternation of compressions and releases.</span></p>

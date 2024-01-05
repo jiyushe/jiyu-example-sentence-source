@@ -1,5 +1,7 @@
 # 查处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chachu.md)
+
 <p><span class="chinese">我们现在到了海关检查处。</span><span class="english">Now we are at the Customs Office.</span></p>
 
 <p><span class="chinese">我们现在到了海关检查处。</span><span class="english">Here we are at the Customs Office.</span></p>

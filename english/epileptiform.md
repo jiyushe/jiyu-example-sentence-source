@@ -1,5 +1,7 @@
 # epileptiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epileptiform.md)
+
 <p><span class="chinese">本文对冷却处理控制样放电的研究进展予以综述。</span><span class="english">The cooling control epileptiform discharge researches were reviewed here.</span></p>
 
 <p><span class="chinese">脑电图异常表现为弥漫性慢波增多和局限性痫性放电。</span><span class="english">The appearances of abnormal EEG were mainly slow wave and local epileptiform discharge.</span></p>

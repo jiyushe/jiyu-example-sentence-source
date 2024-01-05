@@ -1,5 +1,7 @@
 # 前途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantu.md)
+
 <p><span class="chinese">前途不明朗？</span><span class="english">No bright future?</span></p>
 
 <p><span class="chinese">前途暗淡。</span><span class="english">The prospects are dim.</span></p>

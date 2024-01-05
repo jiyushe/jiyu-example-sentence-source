@@ -1,5 +1,7 @@
 # aneuploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aneuploid.md)
+
 <p><span class="chinese">倍体类型及异倍体的含量与其预后相关。</span><span class="english">The DNA ploidy types and aneuploid was associated with prognosis.</span></p>
 
 <p><span class="chinese">本发明属于小麦非整倍体生物技术育种领域。</span><span class="english">The invention belongs to the field of wheat aneuploid biotechnics breeding.</span></p>

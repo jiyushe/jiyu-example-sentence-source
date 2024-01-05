@@ -1,5 +1,7 @@
 # gumbo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gumbo.md)
+
 <p><span class="chinese">什锦菜，河虾派，秋葵加肉片。</span><span class="english">Jambalaya , crawfish pie, fillet gumbo.</span></p>
 
 <p><span class="chinese">什锦饭，河虾派，肉片秋葵。</span><span class="english">Jambalaya, craw-fish pie, fillet gumbo.</span></p>

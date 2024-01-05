@@ -1,5 +1,7 @@
 # provoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provoke.md)
+
 <p><span class="chinese">耶和华说，他们岂是惹我发怒呢。</span><span class="english">Do they provoke me to anger?</span></p>
 
 <p><span class="chinese">相反，他应该挑衅让日本人先进攻。</span><span class="english">Instead, he sought to provoke a Japanese attack.</span></p>

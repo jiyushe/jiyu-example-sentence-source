@@ -1,5 +1,7 @@
 # spunbonded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spunbonded.md)
+
 <p><span class="chinese">在聚丙烯纺粘法非织造布生产过程中，断丝经常严重影响生产的正常进行。</span><span class="english">In production process of PP spunbonded nonwovens, broken fibers seriously impact on the normal production.</span></p>
 
 <p><span class="chinese">主要介绍了双组分纤维、细旦纤维等纺粘非织造新工艺技术的进展。</span><span class="english">The development of the new bi-component and fine fiber spunbonded nonwoven technology and application were introduced.</span></p>

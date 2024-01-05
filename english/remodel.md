@@ -1,5 +1,7 @@
 # remodel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remodel.md)
+
 <p><span class="chinese">您能承担改型？</span><span class="english">Can you afford to remodel ?</span></p>
 
 <p><span class="chinese">玩家改造武器只需要钱。</span><span class="english">You only need money to remodel your weapon.</span></p>

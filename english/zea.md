@@ -1,5 +1,7 @@
 # zea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zea.md)
+
 <p><span class="chinese">不同逆境对玉米幼苗根系活力及硝酸还原酶活性的影响。</span><span class="english">Effect of different stress on roots activity and nitrate reductase activity in Zea mays L.</span></p>
 
 <p><span class="chinese">氮素吸收强度皖草2号逐渐增加，墨西哥玉米呈单峰曲线变化。</span><span class="english">Nitrogen uptake intensity of Wancan 2 enhanced gradually, and that of Zea mexican presented an odd peak curve.</span></p>

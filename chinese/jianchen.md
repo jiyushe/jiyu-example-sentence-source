@@ -1,5 +1,7 @@
 # 奸臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchen.md)
+
 <p><span class="chinese">把一切罪过归咎于秦桧这个“大奸臣”。</span><span class="english">Qin Hui put all the blame attributed to the "big traitor."</span></p>
 
 <p><span class="chinese">我们中国只有奸臣，哪有“奸皇帝”！</span><span class="english">" We Chinese only a traitor, can there be "cunning Emperor"!</span></p>

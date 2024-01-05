@@ -1,5 +1,7 @@
 # freeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeness.md)
+
 <p><span class="chinese">我要请林间的小鸟来歌唱大自然的自由。</span><span class="english">I will request birds to sing freeness of nature.</span></p>
 
 <p><span class="chinese">机械浆根据不同的游离度和滤水性生产。</span><span class="english">Mechanical pulps are made to different freeness or drainage rates.</span></p>

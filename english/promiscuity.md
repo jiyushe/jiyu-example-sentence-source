@@ -1,5 +1,7 @@
 # promiscuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promiscuity.md)
+
 <p><span class="chinese">但愿史前的滥交能精确被测量！</span><span class="english">If only prehistoric promiscuity could be precisely measured!</span></p>
 
 <p><span class="chinese">一只白顶食蜂鸟，这一物种的滥交比率非常低。</span><span class="english">A white-fronted bee-eater, a species with very low rates of promiscuity.</span></p>

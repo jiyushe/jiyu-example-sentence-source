@@ -1,5 +1,7 @@
 # probable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probable.md)
+
 <p><span class="chinese">什么是一个"很可能"的年轻男子</span><span class="english">What is a probable young man?</span></p>
 
 <p><span class="chinese">我不认为这个故事合情理。</span><span class="english">I don't think the story is probable.</span></p>

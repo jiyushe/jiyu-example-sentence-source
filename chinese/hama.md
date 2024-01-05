@@ -1,5 +1,7 @@
 # 蛤蟆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hama.md)
+
 <p><span class="chinese">他向蛤蟆道声谢，就爬出来了。</span><span class="english">He thanked the toad and climbed back out.</span></p>
 
 <p><span class="chinese">许多人觉得瘌蛤蟆和蛇可憎。</span><span class="english">Toads and snakes are repulsive to many people.</span></p>

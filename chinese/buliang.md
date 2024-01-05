@@ -1,5 +1,7 @@
 # 不良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buliang.md)
+
 <p><span class="chinese">无不良嗜好。</span><span class="english">Without bad hobby.</span></p>
 
 <p><span class="chinese">我会如此不良的吗?</span><span class="english">Was I so undesirable?</span></p>

@@ -1,5 +1,7 @@
 # freestanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freestanding.md)
+
 <p><span class="chinese">我想买一个独立式的洗碗机。</span><span class="english">I'd like to get a freestanding dishwasher.</span></p>
 
 <p><span class="chinese">通常靠墙放置的圆形独立式水池。</span><span class="english">Round freestanding sink that is usually placed against a wall.</span></p>

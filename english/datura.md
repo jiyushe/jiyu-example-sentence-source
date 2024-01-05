@@ -1,5 +1,7 @@
 # datura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/datura.md)
+
 <p><span class="chinese">中药洋金花可以做烟吗？</span><span class="english">Can datura flower do Chinese traditional medicine smoke?</span></p>
 
 <p><span class="chinese">采用灌胃法测定曼陀罗对小鼠的毒性。</span><span class="english">G was adopted to determine toxicity of Datura stramonium.</span></p>

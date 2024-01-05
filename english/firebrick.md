@@ -1,5 +1,7 @@
 # firebrick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firebrick.md)
+
 <p><span class="chinese">罐外壳由钢板与吊架焊接而成，内衬砌筑耐火砖。</span><span class="english">Tank shell by welding together steel plates with the pylon, lined masonry firebrick.</span></p>
 
 <p><span class="chinese">炉芯包括内烟道和活化道，用特异型耐火砖堆砌组装而成。</span><span class="english">The furnace chamber has flue next to activation path which were built up with special firebrick.</span></p>

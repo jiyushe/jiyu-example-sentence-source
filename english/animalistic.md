@@ -1,5 +1,7 @@
 # animalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animalistic.md)
+
 <p><span class="chinese">所以你趋于采用动物性的夸张。</span><span class="english">So you're driven to animalistic puffery.</span></p>
 
 <p><span class="chinese">谈到今年的动物性的方式。</span><span class="english">Talk about animalistic fashion for this year.</span></p>

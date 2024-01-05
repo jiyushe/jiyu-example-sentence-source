@@ -1,5 +1,7 @@
 # expectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expectable.md)
+
 <p><span class="chinese">“又”可以用于预计之内的重复。</span><span class="english">"yòu" also indicates the repetition which is expectable.</span></p>
 
 <p><span class="chinese">很奇怪吗？同时它也是很出乎预料的。</span><span class="english">Sounds strange? Yes. But at the same time it was quite expectable.</span></p>

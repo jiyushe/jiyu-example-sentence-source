@@ -1,5 +1,7 @@
 # tailor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailor.md)
+
 <p><span class="chinese">但是裁缝死了。</span><span class="english">But the tailor died.</span></p>
 
 <p><span class="chinese">但我可以推荐一个裁缝师。</span><span class="english">But I can recommend a tailor.</span></p>

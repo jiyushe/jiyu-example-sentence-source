@@ -1,5 +1,7 @@
 # larch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larch.md)
+
 <p><span class="chinese">我将在那些落叶松下面，记住！</span><span class="english">I shall be under those larch trees.</span></p>
 
 <p><span class="chinese">脚下的水仙在吐苞，带穗的落叶松摇摆不定。</span><span class="english">The daffodil breaks under foot, and the tasselled larch.</span></p>

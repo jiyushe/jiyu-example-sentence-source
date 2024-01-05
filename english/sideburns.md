@@ -1,5 +1,7 @@
 # sideburns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideburns.md)
+
 <p><span class="chinese">那你的鬓脚呢？</span><span class="english">How about your sideburns?</span></p>
 
 <p><span class="chinese">请不要剪鬓发。</span><span class="english">Please don't cut my sideburns.</span></p>

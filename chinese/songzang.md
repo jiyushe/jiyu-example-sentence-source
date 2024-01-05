@@ -1,5 +1,7 @@
 # 送葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songzang.md)
+
 <p><span class="chinese">送葬行列</span><span class="english">Okay, cortege.</span></p>
 
 <p><span class="chinese">送葬马车有几辆？</span><span class="english">How many coacher shall I have?</span></p>

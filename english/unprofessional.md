@@ -1,5 +1,7 @@
 # unprofessional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprofessional.md)
+
 <p><span class="chinese">那则是不专业的。</span><span class="english">That's unprofessional.</span></p>
 
 <p><span class="chinese">作为一个非职业的扑克赛报导记者，我答应了。</span><span class="english">Being an unprofessional poker reporter, I said yes.</span></p>

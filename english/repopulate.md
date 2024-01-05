@@ -1,5 +1,7 @@
 # repopulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repopulate.md)
+
 <p><span class="chinese">我看到了一个真正需要重新填充这个运动与年轻的人们。</span><span class="english">I saw a need to really repopulate this movement with the younger folks.</span></p>
 
 <p><span class="chinese">我会说出这个字，只留下一个女人，之后我们重新创造星球。</span><span class="english">I would say the word and only save 1 women so we could repopulate the planet.</span></p>

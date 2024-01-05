@@ -1,5 +1,7 @@
 # 故弄玄虚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gunongxuanxu.md)
+
 <p><span class="chinese">没有故弄玄虚的猜测和图表统计分析。</span><span class="english">No educated guesses' about what to do or chart reading.</span></p>
 
 <p><span class="chinese">在某种程度上，这一定义可能显得有点故弄玄虚。</span><span class="english">On some level this definition may seem like quite a lot of scientific mumbo-jumbo.</span></p>

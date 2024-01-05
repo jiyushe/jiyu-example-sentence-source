@@ -1,5 +1,7 @@
 # younger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/younger.md)
+
 <p><span class="chinese">我看起来年轻多了。</span><span class="english">I look so much younger.</span></p>
 
 <p><span class="chinese">谢谢你，小李欧。</span><span class="english">Thank you, younger Leo!</span></p>

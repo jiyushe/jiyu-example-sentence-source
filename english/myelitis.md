@@ -1,5 +1,7 @@
 # myelitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myelitis.md)
+
 <p><span class="chinese">两组均无放射性脊髓炎。</span><span class="english">There was no radioactive myelitis in both groups.</span></p>
 
 <p><span class="chinese">目的探讨钩体L型脊髓炎发病机理和防治。</span><span class="english">Aim To investigate the pathogenesis, treatment of leptospira L-forms myelitis.</span></p>

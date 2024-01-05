@@ -1,5 +1,7 @@
 # 语感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugan.md)
+
 <p><span class="chinese">也会去运用语感。</span><span class="english">and kind of the way that it does function.</span></p>
 
 <p><span class="chinese">语文素质的核心是语感。</span><span class="english">The core of language quality is language sense.</span></p>

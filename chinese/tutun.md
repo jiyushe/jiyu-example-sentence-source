@@ -1,5 +1,7 @@
 # 土豚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tutun.md)
+
 <p><span class="chinese">土豚是夜行动物。</span><span class="english">Aardvarks are nocturnal.</span></p>
 
 <p><span class="chinese">土豚生活在整个的非洲南撒哈拉大沙漠。</span><span class="english">Aardvarks live throughout Africa, south of the Sahara.</span></p>

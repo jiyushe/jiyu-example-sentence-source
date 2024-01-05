@@ -1,5 +1,7 @@
 # prefectural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefectural.md)
+
 <p><span class="chinese">庭院正前方朝着县道开放。</span><span class="english">The frontage was open for the prefectural road.</span></p>
 
 <p><span class="chinese">应代，岩手县立大学，日本。</span><span class="english">Ying Dai , Iwate Prefectural University, Japan.</span></p>

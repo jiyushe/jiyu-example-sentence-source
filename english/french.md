@@ -1,5 +1,7 @@
 # french
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/french.md)
+
 <p><span class="chinese">她是法国人。</span><span class="english">She is  French.</span></p>
 
 <p><span class="chinese">意大利菜还是法国菜？</span><span class="english">Italian or French?</span></p>

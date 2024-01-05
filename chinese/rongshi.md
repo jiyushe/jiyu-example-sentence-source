@@ -1,5 +1,7 @@
 # 溶蚀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongshi.md)
+
 <p><span class="chinese">结论药物释放主要取决于凝胶溶蚀。</span><span class="english">Conclusion The drug release mainly depends on the gel erosion.</span></p>
 
 <p><span class="chinese">溶蚀系数可指示砂金是近或远原生源金矿。</span><span class="english">The coefficient of dissolution can indicate the source of placer gold.</span></p>

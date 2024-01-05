@@ -1,5 +1,7 @@
 # 起用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyong_1.md)
+
 <p><span class="chinese">他又获得了重新起用。</span><span class="english">He was started again.</span></p>
 
 <p><span class="chinese">我认为在决赛中我们应起用布朗。</span><span class="english">I think we should play Brown in the finals.</span></p>

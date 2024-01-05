@@ -1,5 +1,7 @@
 # 劳务费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laowufei.md)
+
 <p><span class="chinese">你还没给我劳务费呢！</span><span class="english">You haven't given me service fee.</span></p>
 
 <p><span class="chinese">我可用食物或其它东西来换取劳务费呀。</span><span class="english">I could pay for things with food or something.</span></p>

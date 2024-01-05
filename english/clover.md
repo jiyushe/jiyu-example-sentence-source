@@ -1,5 +1,7 @@
 # clover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clover.md)
+
 <p><span class="chinese">这便是四叶草的悲伤。</span><span class="english">This is the clover.</span></p>
 
 <p><span class="chinese">我的四叶车轴草。</span><span class="english">My four-leaf clover.</span></p>

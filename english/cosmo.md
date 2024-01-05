@@ -1,5 +1,7 @@
 # cosmo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmo.md)
+
 <p><span class="chinese">我在找科兹莫公司的电话号码。</span><span class="english">I am looking for the number for Cosmo Company.</span></p>
 
 <p><span class="chinese">请将答案及联络方法于四月底前交回柏丽数码摄影影楼。</span><span class="english">Please return answers and contacts to Cosmo Studio before the end of April.</span></p>

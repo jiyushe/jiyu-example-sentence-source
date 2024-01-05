@@ -1,5 +1,7 @@
 # 原则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanze.md)
+
 <p><span class="chinese">那是我的生活原则。</span><span class="english">That is my life standars.</span></p>
 
 <p><span class="chinese">第一个原则是习惯化。</span><span class="english">The first is habituation.</span></p>

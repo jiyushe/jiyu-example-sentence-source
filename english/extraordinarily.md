@@ -1,5 +1,7 @@
 # extraordinarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraordinarily.md)
+
 <p><span class="chinese">格外的成功。</span><span class="english">Extraordinarily successful.</span></p>
 
 <p><span class="chinese">我非常感激他们。</span><span class="english">I am extraordinarily grateful.</span></p>

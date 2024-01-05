@@ -1,5 +1,7 @@
 # 口粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouliang.md)
+
 <p><span class="chinese">各部队已发给了口粮。</span><span class="english">Rations were served to the troops.</span></p>
 
 <p><span class="chinese">他们也会被削减一半配额的口粮。</span><span class="english">They may also be put on half-rations.</span></p>

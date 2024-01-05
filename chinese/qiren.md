@@ -1,5 +1,7 @@
 # 奇人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiren.md)
+
 <p><span class="chinese">谁才是安鲁那奇人？</span><span class="english">Just who are the Annunaki?</span></p>
 
 <p><span class="chinese">年老的养鹿户鹿肉是楚科奇人的传统食物。</span><span class="english">Deer meat is the traditional food of the Chukchi.</span></p>

@@ -1,5 +1,7 @@
 # presiding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presiding.md)
+
 <p><span class="chinese">对他的一切指控已撤消。</span><span class="english">The presiding judge cleared him of a charge.</span></p>
 
 <p><span class="chinese">审判长宣布审讯暂时中止。</span><span class="english">The trial was recessed by the presiding judge.</span></p>

@@ -1,5 +1,7 @@
 # siu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siu.md)
+
 <p><span class="chinese">下一站系兆康。</span><span class="english">The next station is Siu Hong.</span></p>
 
 <p><span class="chinese">乘客请留意，下一站为兆康。</span><span class="english">Attention please, Next stop is Siu Hong.</span></p>

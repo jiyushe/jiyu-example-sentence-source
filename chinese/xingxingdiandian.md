@@ -1,5 +1,7 @@
 # 星星点点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxingdiandian.md)
+
 <p><span class="chinese">宛如魔方星星点点散布在河床</span><span class="english">In shapes like bits of puzzle strew the bottom</span></p>
 
 <p><span class="chinese">用它来管理星星点点的信息。</span><span class="english">Use it to manage bits and pieces of information.</span></p>

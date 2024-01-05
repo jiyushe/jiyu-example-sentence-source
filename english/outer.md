@@ -1,5 +1,7 @@
 # outer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outer.md)
+
 <p><span class="chinese">在一个外圈侧面。</span><span class="english">In one outer ring side face.</span></p>
 
 <p><span class="chinese">第四道就是外城了。</span><span class="english">The fourth is the Outer City.</span></p>

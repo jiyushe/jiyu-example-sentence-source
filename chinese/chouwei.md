@@ -1,5 +1,7 @@
 # 臭味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouwei.md)
+
 <p><span class="chinese">臭鼬为什么有臭味？</span><span class="english">Why Do Skunks Stink?</span></p>
 
 <p><span class="chinese">他口里散发出洋葱的臭味。</span><span class="english">His breath reeks of onions.</span></p>

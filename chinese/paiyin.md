@@ -1,5 +1,7 @@
 # 排印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiyin.md)
+
 <p><span class="chinese">现在上的一个词，排印。</span><span class="english">Now a word on typography.</span></p>
 
 <p><span class="chinese">基于几个排印上的原因。</span><span class="english">Because of several typographical reasons.</span></p>

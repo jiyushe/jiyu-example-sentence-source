@@ -1,5 +1,7 @@
 # devitrification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devitrification.md)
+
 <p><span class="chinese">提高复温速率能够有效地缩短反玻璃化时间。</span><span class="english">Increasing the warming rate can decrease the devitrification time effectively.</span></p>
 
 <p><span class="chinese">结合我公司浮法一线的生产实际，分析了硅灰石析晶产生的原因，并提出了具体的解决办法。</span><span class="english">This article analyses the cause of wollastonite crystallization and brings forward some solutions for preventing the devitrification of galss.</span></p>

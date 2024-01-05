@@ -1,5 +1,7 @@
 # liaise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liaise.md)
+
 <p><span class="chinese">联系审计署海关审计局。</span><span class="english">To liaise with Audit Bureau of the Customs Office.</span></p>
 
 <p><span class="chinese">她的特殊任务是和政府官员取得联系。</span><span class="english">Her special job is to liaise with government officials.</span></p>

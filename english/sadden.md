@@ -1,5 +1,7 @@
 # sadden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadden.md)
+
 <p><span class="chinese">我丝毫不想使您悲伤。</span><span class="english">I do not want to sadden you again.</span></p>
 
 <p><span class="chinese">不其它的罪恶悲哀你吗？</span><span class="english">Do not the sins of others sadden you?</span></p>

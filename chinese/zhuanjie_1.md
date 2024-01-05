@@ -1,5 +1,7 @@
 # 转接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanjie_1.md)
+
 <p><span class="chinese">我将为您转接。</span><span class="english">I’ll transfer you.</span></p>
 
 <p><span class="chinese">我将为你转接给林涛。</span><span class="english">I'll get Lintao for you.</span></p>

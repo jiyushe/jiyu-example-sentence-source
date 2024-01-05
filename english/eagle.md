@@ -1,5 +1,7 @@
 # eagle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eagle.md)
+
 <p><span class="chinese">鹰飞得很高。</span><span class="english">The eagle flies high.</span></p>
 
 <p><span class="chinese">鹰飞得很高。</span><span class="english">Thee eagle flies high.</span></p>

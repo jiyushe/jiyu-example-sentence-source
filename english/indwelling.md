@@ -1,5 +1,7 @@
 # indwelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indwelling.md)
+
 <p><span class="chinese">我们是否相信圣灵住在我们里面？</span><span class="english">Do we believe in the indwelling Holy Spirit?</span></p>
 
 <p><span class="chinese">内住的圣灵是我们在主里新身份的保证。</span><span class="english">Our guaranty of new identity is the indwelling Spirit.</span></p>

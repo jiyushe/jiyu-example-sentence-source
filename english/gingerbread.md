@@ -1,5 +1,7 @@
 # gingerbread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gingerbread.md)
+
 <p><span class="chinese">然后，姜饼人遇到了一头猪。</span><span class="english">Then Gingerbread Man met a pig.</span></p>
 
 <p><span class="chinese">不一会儿，姜饼人遇到了一只熊。</span><span class="english">Soon Gingerbread Man met a bear.</span></p>

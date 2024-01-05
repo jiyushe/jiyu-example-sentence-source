@@ -1,5 +1,7 @@
 # eyeglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeglass.md)
+
 <p><span class="chinese">我的眼镜框断了！</span><span class="english">My eyeglass frame is broken!</span></p>
 
 <p><span class="chinese">有三种主要类型的帧无框眼镜。</span><span class="english">There are three main types of rimless eyeglass frames.</span></p>

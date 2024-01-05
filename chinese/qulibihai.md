@@ -1,5 +1,7 @@
 # 趋利避害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qulibihai.md)
+
 <p><span class="chinese">在进出口工作中，我们要扬长避短，趋利避害。</span><span class="english">In our import-and-export work, we should foster strengths and circumvent weakness.</span></p>
 
 <p><span class="chinese">无论什么动机，说谎总是为了趋利避害。</span><span class="english">Whatever the motives maybe, lying is to avoid being harmed and to seek being benefited.</span></p>

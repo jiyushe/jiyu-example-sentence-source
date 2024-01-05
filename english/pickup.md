@@ -1,5 +1,7 @@
 # pickup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pickup.md)
+
 <p><span class="chinese">您需要接驳服务吗?。</span><span class="english">Do you need pickup service?</span></p>
 
 <p><span class="chinese">货物运输时一种中码头业务。</span><span class="english">Freight pickup is a terminal service.</span></p>

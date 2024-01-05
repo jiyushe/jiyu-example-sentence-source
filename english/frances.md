@@ -1,5 +1,7 @@
 # frances
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frances.md)
+
 <p><span class="chinese">弗朗西丝·克莱克是个犹太人，或是犹太女人。</span><span class="english">Frances Blake is a Jew, or a Jewess.</span></p>
 
 <p><span class="chinese">他将法郎兑换成美元。</span><span class="english">He converted his frances into dollars.</span></p>

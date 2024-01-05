@@ -1,5 +1,7 @@
 # 转赠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzeng.md)
+
 <p><span class="chinese">逃离之时，我把妈妈早上给的零花钱转赠给老人家。</span><span class="english">Before I escape, I gave the allowance my mother gave me to the old lady.</span></p>
 
 <p><span class="chinese">他们同样送来了纸尿布，但员工不想使用，所以就把它们再转赠给宣教士。</span><span class="english">They sent disposal diapers that the staff would not use so we gave them to the missionaries.</span></p>

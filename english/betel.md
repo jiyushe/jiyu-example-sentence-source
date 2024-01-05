@@ -1,5 +1,7 @@
 # betel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betel.md)
+
 <p><span class="chinese">什么是槟榔？</span><span class="english">What are betel nuts?</span></p>
 
 <p><span class="chinese">处方里写上了蒌叶这味药。</span><span class="english">The doctor wrote betel in his prescription.</span></p>

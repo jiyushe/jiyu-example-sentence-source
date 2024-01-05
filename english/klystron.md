@@ -1,5 +1,7 @@
 # klystron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/klystron.md)
+
 <p><span class="chinese">大功率速调管在雷达发射机中的运用越来越广泛。</span><span class="english">High-power klystron are used in radar transmitter more and more.</span></p>
 
 <p><span class="chinese">描述了一种延长EPR波谱仪中速调管使用寿命的方法。</span><span class="english">A method for prolonging the operation lifetime of klystron in EPR spectrometer was described.</span></p>

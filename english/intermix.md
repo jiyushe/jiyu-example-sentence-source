@@ -1,5 +1,7 @@
 # intermix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermix.md)
+
 <p><span class="chinese">这种窃听方式为“基于混杂模式的嗅探”。</span><span class="english">Such as wiretapping mode called "sniffer base on intermix mode".</span></p>
 
 <p><span class="chinese">出于实用目的，在混合使用多个词汇表时，才需要前缀。</span><span class="english">For practical purposes, prefixes are required when you intermix vocabularies.</span></p>

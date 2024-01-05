@@ -1,5 +1,7 @@
 # frantically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frantically.md)
+
 <p><span class="chinese">凯瑟琳更加发狂似地问道。</span><span class="english">Katherine asked more frantically.</span></p>
 
 <p><span class="chinese">他望着它，发狂似的望着它。</span><span class="english">He gazes and gazes at it frantically.</span></p>

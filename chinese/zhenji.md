@@ -1,5 +1,7 @@
 # 侦缉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenji.md)
+
 <p><span class="chinese">琼斯是一名负责严重刑事侦缉的侦探。</span><span class="english">Jones is a police detective from the Homicide squad.</span></p>
 
 <p><span class="chinese">三个侦缉队员把柳婵绑在一把椅子上审问。</span><span class="english">Three members of the detective Liu Chan tied to a chair.</span></p>

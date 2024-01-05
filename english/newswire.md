@@ -1,5 +1,7 @@
 # newswire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newswire.md)
+
 <p><span class="chinese">感谢美通社，让我们的XBRL存档过程更加容易了！</span><span class="english">We appreciate PR Newswire for making the XBRL filing much easier!</span></p>
 
 <p><span class="chinese">微科非常期待与财经社的一样合作案。</span><span class="english">Microtech is really looking forward to a collaboration with Newswire Inc.</span></p>

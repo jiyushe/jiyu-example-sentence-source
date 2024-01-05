@@ -1,5 +1,7 @@
 # rapidness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapidness.md)
+
 <p><span class="chinese">通过实验，证实了该算法的快速性和准确性。</span><span class="english">Experiments verified the rapidness and precision of the algorithm.</span></p>
 
 <p><span class="chinese">频域配准方法具有配准精度高和速度快的优点。</span><span class="english">The advantages of frequency approaches to registration are rapidness and high precision.</span></p>

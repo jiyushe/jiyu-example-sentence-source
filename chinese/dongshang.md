@@ -1,5 +1,7 @@
 # 冻伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshang.md)
+
 <p><span class="chinese">天气频道说暴露的皮肤会在三分钟内被冻伤。</span><span class="english">And he burns holes in your skin with his mouth.</span></p>
 
 <p><span class="chinese">不可揉搓冻伤区域或直接加热。</span><span class="english">Do not rub frostbitten areas or apply direct heat.</span></p>

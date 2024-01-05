@@ -1,5 +1,7 @@
 # 铭记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingji.md)
+
 <p><span class="chinese">高呼着“铭记阿拉莫！”</span><span class="english">Shouting “Remember the Alamo!</span></p>
 
 <p><span class="chinese">将蒂帕嬷的忠告铭记于心吧。</span><span class="english">Take Dipa Ma's advice to heart.</span></p>

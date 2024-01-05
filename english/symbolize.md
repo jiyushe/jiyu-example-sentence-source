@@ -1,5 +1,7 @@
 # symbolize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolize.md)
+
 <p><span class="chinese">象征幸福的合家团圆。</span><span class="english">It symbolize a happy family reunion.</span></p>
 
 <p><span class="chinese">对我来说，麦片通常象征着什么？</span><span class="english">What do oats typically symbolize for me?</span></p>

@@ -1,5 +1,7 @@
 # encapsulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encapsulation.md)
+
 <p><span class="chinese">是否有好的封装？</span><span class="english">Does it have good encapsulation?</span></p>
 
 <p><span class="chinese">这就是封装的基本原理。</span><span class="english">It’s the principle of encapsulation.</span></p>

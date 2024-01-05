@@ -1,5 +1,7 @@
 # dreariness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreariness.md)
+
 <p><span class="chinese">大家都是这样，有什么可怕的呢。</span><span class="english">Everybody is such, have what dreariness.</span></p>
 
 <p><span class="chinese">猫叫综合症状可怕么?。</span><span class="english">Does the cat call syndrome shape dreariness ?</span></p>

@@ -1,5 +1,7 @@
 # 投行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxing.md)
+
 <p><span class="chinese">独立投行之死留下了一片真空地带。</span><span class="english">They may leave behind a vacuum.</span></p>
 
 <p><span class="chinese">但友邦保险及其承销投行不会继续打折了。</span><span class="english">But AIA and its bankers will go only so low.</span></p>

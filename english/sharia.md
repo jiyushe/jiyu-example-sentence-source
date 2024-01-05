@@ -1,5 +1,7 @@
 # sharia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharia.md)
+
 <p><span class="chinese">夏奇拉和黑眼豆豆合唱团将成为开幕式的亮点。</span><span class="english">Sharia and the Black Eyed Peas were the highlights.</span></p>
 
 <p><span class="chinese">我猜土耳其军队是不想被伊斯兰教法限制。</span><span class="english">I guess the Turks military doesn't want tobe confined by Sharia law.</span></p>

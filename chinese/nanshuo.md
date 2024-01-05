@@ -1,5 +1,7 @@
 # 难说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanshuo.md)
+
 <p><span class="chinese">难说。</span><span class="english">It's hard to tell.</span></p>
 
 <p><span class="chinese">这有点难说。</span><span class="english">Well, it's a little hard to say.</span></p>

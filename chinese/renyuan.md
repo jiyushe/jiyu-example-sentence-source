@@ -1,5 +1,7 @@
 # 人员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyuan.md)
+
 <p><span class="chinese">一个值班人员。</span><span class="english">An operator on duty.</span></p>
 
 <p><span class="chinese">我与工作人员进行了交谈。</span><span class="english">I have talked with staff.</span></p>

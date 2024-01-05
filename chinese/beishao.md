@@ -1,5 +1,7 @@
 # 焙烧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beishao.md)
+
 <p><span class="chinese">以我厂一号焙烧炉举例说明。</span><span class="english">We give one example of NO. 1 calciner in our plant.</span></p>
 
 <p><span class="chinese">铁矿砂及其精矿，包括焙烧黄铁矿。</span><span class="english">Iron ores and concentrates, including roasted iron pyrites.</span></p>

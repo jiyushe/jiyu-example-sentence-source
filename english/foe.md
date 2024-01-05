@@ -1,5 +1,7 @@
 # foe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foe.md)
+
 <p><span class="chinese">他是我的手下败将。</span><span class="english">He is my defeated foe.</span></p>
 
 <p><span class="chinese">清洁是疾病的敌人，清洁可以祛病。</span><span class="english">Cleanliness is a foe to disease.</span></p>

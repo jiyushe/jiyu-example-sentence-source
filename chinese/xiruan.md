@@ -1,5 +1,7 @@
 # 细软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiruan.md)
+
 <p><span class="chinese">要看穿细软衣服的人吗？</span><span class="english">A man dressed in fine clothes?</span></p>
 
 <p><span class="chinese">猫有一身细软的毛皮。</span><span class="english">Cats are covered with soft fur.</span></p>

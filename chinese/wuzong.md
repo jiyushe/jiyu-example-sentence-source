@@ -1,5 +1,7 @@
 # 无踪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzong.md)
+
 <p><span class="chinese">是这红雀飞走无踪！</span><span class="english">And this linnet flew!</span></p>
 
 <p><span class="chinese">只有罗杰·斯通杳然无踪。</span><span class="english">Roger Stone was nowhere to be seen.</span></p>

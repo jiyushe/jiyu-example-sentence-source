@@ -1,5 +1,7 @@
 # 地下铁道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixiatiedao.md)
+
 <p><span class="chinese">北京从前没有地下铁道。</span><span class="english">There was not an underground in Beijing before.</span></p>
 
 <p><span class="chinese">而这地下铁道是非常方便的东西。</span><span class="english">And these Tubes were convenient things〔affairs〕.</span></p>

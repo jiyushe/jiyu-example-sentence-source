@@ -1,5 +1,7 @@
 # tradespeople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tradespeople.md)
+
 <p><span class="chinese">他们从来不跟商人讨价还价。</span><span class="english">They never chaffer with tradespeople.</span></p>
 
 <p><span class="chinese">问及原因，店主只说多放浪费。</span><span class="english">Ask and casus, tradespeople says dissoluting fee more.</span></p>

@@ -1,5 +1,7 @@
 # was
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/was.md)
+
 <p><span class="chinese">果然是他。</span><span class="english">It was he.</span></p>
 
 <p><span class="chinese">但是，这是的。</span><span class="english">But it was.</span></p>

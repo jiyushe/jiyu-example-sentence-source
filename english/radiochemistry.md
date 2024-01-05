@@ -1,5 +1,7 @@
 # radiochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiochemistry.md)
+
 <p><span class="chinese">杨承宗教授是我国放射化学的奠基人。</span><span class="english">Professor Yang Chengzong is one of the founders of radiochemistry in China.</span></p>
 
 <p><span class="chinese">应用有毒或放射性化学物品时注意保护自己。</span><span class="english">Applies virulent or when the radiochemistry goods pays attention protects oneself.</span></p>

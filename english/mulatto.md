@@ -1,5 +1,7 @@
 # mulatto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mulatto.md)
+
 <p><span class="chinese">由于他是黑白混血人的身份，其一生都受种族主义的困扰。</span><span class="english">As he is a mulatto person's identity, their lives are plagued by racism.</span></p>
 
 <p><span class="chinese">她就是刚才站在这儿用围裙擦眼泪的混血女人。</span><span class="english">She's the mulatto woman who was standing in here a while ago, with her apron to her eyes.</span></p>

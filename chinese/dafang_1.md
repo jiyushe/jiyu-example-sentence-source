@@ -1,5 +1,7 @@
 # 大方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafang_1.md)
+
 <p><span class="chinese">她举止庄重大方。</span><span class="english">She bears herself with dignity.</span></p>
 
 <p><span class="chinese">是什么原因使得她如此大方呢?</span><span class="english">What prompted her to be so generous?</span></p>

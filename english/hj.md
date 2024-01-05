@@ -1,5 +1,7 @@
 # hj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hj.md)
+
 <p><span class="chinese">结论HJ有平喘的作用。</span><span class="english">Conclusion HJ has an antiasthma effect.</span></p>
 
 <p><span class="chinese">目前该职位是暂时由沙巴人莫哈末尤索夫哈芝易卜拉欣医生代替。</span><span class="english">Currently, the post is temporarily held by a sabahan, Dr Mohd Yusof Hj Ibrahim.</span></p>

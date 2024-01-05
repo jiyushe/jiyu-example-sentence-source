@@ -1,5 +1,7 @@
 # pizzicato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pizzicato.md)
+
 <p><span class="chinese">对,拨奏</span><span class="english">Okay, pizzicato.</span></p>
 
 <p><span class="chinese">拨奏,很好</span><span class="english">Pizzicato. Good.</span></p>

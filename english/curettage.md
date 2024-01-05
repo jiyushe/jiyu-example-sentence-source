@@ -1,5 +1,7 @@
 # curettage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curettage.md)
+
 <p><span class="chinese">像我这种情况一定要刮宫吗？</span><span class="english">Like me this situation you must curettage?</span></p>
 
 <p><span class="chinese">自然流产后必须刮宫吗？</span><span class="english">After natural abortion must dilatation and curettage ?</span></p>

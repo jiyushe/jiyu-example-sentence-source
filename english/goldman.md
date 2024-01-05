@@ -1,5 +1,7 @@
 # goldman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldman.md)
+
 <p><span class="chinese">高盛是一头大肥猪。</span><span class="english">Goldman Sachs is a giant pig.</span></p>
 
 <p><span class="chinese">高盛是厚朴的一个投资者。</span><span class="english">Goldman is an investor in Hopu.</span></p>

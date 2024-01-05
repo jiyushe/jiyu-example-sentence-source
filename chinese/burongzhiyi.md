@@ -1,5 +1,7 @@
 # 不容置疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/burongzhiyi.md)
+
 <p><span class="chinese">这个数字上的差异是不容置疑的。</span><span class="english">The arithmetic is undeniable.</span></p>
 
 <p><span class="chinese">我的意思是，那是不容置疑的。</span><span class="english">I mean, that’s just not disputable.</span></p>

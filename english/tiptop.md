@@ -1,5 +1,7 @@
 # tiptop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiptop.md)
+
 <p><span class="chinese">他把他的别墅保持在顶尖的样子。</span><span class="english">He kept his villa in tiptop shape.</span></p>
 
 <p><span class="chinese">这是美国公民所能获得的最高荣誉。</span><span class="english">It's the tiptop honor that USA burgher can gain.</span></p>

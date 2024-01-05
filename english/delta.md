@@ -1,5 +1,7 @@
 # delta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delta.md)
+
 <p><span class="chinese">万豪酒店跟达美航空的呢？</span><span class="english">Delta Airlines’ app?</span></p>
 
 <p><span class="chinese">派对！我们爱你，德尔塔奴。</span><span class="english">Delta Nu, we love you!</span></p>

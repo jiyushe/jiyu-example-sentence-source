@@ -1,5 +1,7 @@
 # 同等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdeng.md)
+
 <p><span class="chinese">这是一间三星级的酒店或同等旅店。</span><span class="english">It's a 3-star hotel or equivalent.</span></p>
 
 <p><span class="chinese">自由与法律以同等的比例发展。</span><span class="english">Liberty and law advance pari passu.</span></p>

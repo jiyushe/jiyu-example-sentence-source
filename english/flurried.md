@@ -1,5 +1,7 @@
 # flurried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flurried.md)
+
 <p><span class="chinese">刘慌忙又和警方取得联系。</span><span class="english">Liu flurried again and contact the police.</span></p>
 
 <p><span class="chinese">众人从睡梦中惊醒，慌忙赶出门外。</span><span class="english">All awakened from sleep, flurried cast out the door.</span></p>

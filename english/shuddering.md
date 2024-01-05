@@ -1,5 +1,7 @@
 # shuddering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shuddering.md)
+
 <p><span class="chinese">“可是我在乎，”她的表弟说，颤栗着。</span><span class="english">But I do,' said her cousin, shuddering.</span></p>
 
 <p><span class="chinese">现在邻居们一提这事都还忍不住发抖呢。</span><span class="english">Neighbors are still shuddering at this.</span></p>

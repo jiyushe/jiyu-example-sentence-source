@@ -1,5 +1,7 @@
 # airlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airlock.md)
+
 <p><span class="chinese">气闸室的两个门不可以同时打开。</span><span class="english">Both airlock doors should not be opened simultaneously.</span></p>
 
 <p><span class="chinese">用水填装气密室以保证空气流通。</span><span class="english">Attach the bung and the airlock, making sure to fill the airlock halfway with water.</span></p>

@@ -1,5 +1,7 @@
 # 主语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyu.md)
+
 <p><span class="chinese">花“时间，金钱”主语须是人。</span><span class="english">He spend 5 hours writing the article.</span></p>
 
 <p><span class="chinese">复数主语与复数动词连用。</span><span class="english">Plural subjects go with plural verbs.</span></p>

@@ -1,5 +1,7 @@
 # 非但
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidan.md)
+
 <p><span class="chinese">他非但没生气，反而很高兴。</span><span class="english">Far from being angry, he is delighted.</span></p>
 
 <p><span class="chinese">这里的玻璃房非但可爱而且是难以置信的浪漫。</span><span class="english">The igloos are adorable and incredibly romantic.</span></p>

@@ -1,5 +1,7 @@
 # iges
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iges.md)
+
 <p><span class="chinese">IGES文件的分析及数据提取。</span><span class="english">Analyze IGES files and extract graphics data.</span></p>
 
 <p><span class="chinese">介绍了IGES后处理器设计的全过程。</span><span class="english">This paper presents the implementation of an IGES post-processor.</span></p>

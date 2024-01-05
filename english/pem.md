@@ -1,5 +1,7 @@
 # pem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pem.md)
+
 <p><span class="chinese">材料兼具有弹性和粘性。</span><span class="english">PEM are elastic and viscid material.</span></p>
 
 <p><span class="chinese">509证书可以使用PEM或者DER编码。</span><span class="english">X.509 Certificates can be PEM or DER encoded.</span></p>

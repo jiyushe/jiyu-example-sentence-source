@@ -1,5 +1,7 @@
 # 冰雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxue.md)
+
 <p><span class="chinese">冰雪聪明。</span><span class="english">Ice snow clever.</span></p>
 
 <p><span class="chinese">因为她知道我冰雪聪明！</span><span class="english">She knew I am smart!</span></p>

@@ -1,5 +1,7 @@
 # fecundity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fecundity.md)
+
 <p><span class="chinese">男孩想像力的丰富使老师感到讶异。</span><span class="english">The boy's fecundity of imagination amazed his teacher.</span></p>
 
 <p><span class="chinese">观察到雌蛾在生殖力方面表现出一定的差异。</span><span class="english">The fecundity of female moths was observed to be different.</span></p>

@@ -1,5 +1,7 @@
 # airhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airhead.md)
+
 <p><span class="chinese">你姐姐真是来个没有头脑的人。</span><span class="english">Your sister is such an airhead.</span></p>
 
 <p><span class="chinese">他是我所见过的最大的傻瓜。</span><span class="english">He's the biggest airhead I've ever met.</span></p>

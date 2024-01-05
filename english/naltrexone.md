@@ -1,5 +1,7 @@
 # naltrexone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naltrexone.md)
+
 <p><span class="chinese">对纳曲酮改善记忆的作用还需要做进一步的研究。</span><span class="english">So, the role of naltrexone improving memory is also required further study.</span></p>
 
 <p><span class="chinese">纳曲酮的制造商说，这几乎没有副作用，不会上瘾。</span><span class="english">The makers of Naltrexone say that it has few side effects and is not addictive.</span></p>

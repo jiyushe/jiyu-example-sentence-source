@@ -1,5 +1,7 @@
 # 招引
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyin.md)
+
 <p><span class="chinese">鲜花招引来许多蜜蜂。</span><span class="english">She was attract many bees.</span></p>
 
 <p><span class="chinese">亮光招引了很多昆虫。</span><span class="english">The light attracted a lot of insects.</span></p>

@@ -1,5 +1,7 @@
 # 隐居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinju.md)
+
 <p><span class="chinese">我们目前过着乡村隐居生活。</span><span class="english">We are now in rural seclusion.</span></p>
 
 <p><span class="chinese">他隐居乡下。</span><span class="english">He buried himself in the countryside.</span></p>

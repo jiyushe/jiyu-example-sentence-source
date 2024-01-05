@@ -1,5 +1,7 @@
 # valhalla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valhalla.md)
+
 <p><span class="chinese">史翠克和马汉两年前在瓦尔哈拉是第一次打莱德杯。</span><span class="english">Stricker and Mahan played the first time two years ago at Valhalla.</span></p>
 
 <p><span class="chinese">你必须保持在航道右侧4链的距离。</span><span class="english">Valhalla . You must keep to the starboard side of the fairway for 4 cables.</span></p>

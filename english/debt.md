@@ -1,5 +1,7 @@
 # debt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debt.md)
+
 <p><span class="chinese">许愿就是债，欠了不容赖。</span><span class="english">Promise is debt.</span></p>
 
 <p><span class="chinese">许愿就是债，欠了不容赖。</span><span class="english">Promisee is debt.</span></p>

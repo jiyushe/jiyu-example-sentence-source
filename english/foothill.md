@@ -1,5 +1,7 @@
 # foothill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foothill.md)
+
 <p><span class="chinese">警方正积极疏散山区居民。</span><span class="english">Police continue to evacuate some foothill neighborhoods.</span></p>
 
 <p><span class="chinese">然后无休止名单内华达山下的道路可供选择。</span><span class="english">And then an endless list of Sierra Nevada Foothill roads to choose from.</span></p>

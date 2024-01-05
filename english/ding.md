@@ -1,5 +1,7 @@
 # ding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ding.md)
+
 <p><span class="chinese">叮咚！我们再来一次吧。</span><span class="english">Ding Dong ! Here we go again.</span></p>
 
 <p><span class="chinese">我在哪儿可以找到丁岱晗？</span><span class="english">Where can I find Ding Daihan?</span></p>

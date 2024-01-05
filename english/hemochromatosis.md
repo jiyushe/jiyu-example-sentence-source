@@ -1,5 +1,7 @@
 # hemochromatosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemochromatosis.md)
+
 <p><span class="chinese">血色沉着病怎样治疗呢？</span><span class="english">How is hemochromatosis treated?</span></p>
 
 <p><span class="chinese">青铜色的色素沉着见于血色素沉着症和砷中毒。</span><span class="english">Bronze hyperpigmentation is seen in hemochromatosis and arsenic intoxication.</span></p>

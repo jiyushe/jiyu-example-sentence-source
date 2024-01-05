@@ -1,5 +1,7 @@
 # justine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justine.md)
+
 <p><span class="chinese">最终贾斯汀仅用36分钟以6-3拿下第一盘。</span><span class="english">Justine won the first set 6-3 in 36 minutes.</span></p>
 
 <p><span class="chinese">贾斯汀在其发球局抓住她的首个赛点以6-1最终取胜。</span><span class="english">Justine won her first match point at 6-1 on serve.</span></p>

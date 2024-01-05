@@ -1,5 +1,7 @@
 # 卧床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wochuang.md)
+
 <p><span class="chinese">当你发烧时，最好就是卧床休息。</span><span class="english">When you have a fever, in bed.</span></p>
 
 <p><span class="chinese">服用这药并卧床休息。</span><span class="english">Take this medicine and stay in bed.</span></p>

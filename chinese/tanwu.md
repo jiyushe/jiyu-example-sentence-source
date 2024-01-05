@@ -1,5 +1,7 @@
 # 贪污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanwu.md)
+
 <p><span class="chinese">我想，他们贪污了不少。</span><span class="english">I suppose they embezzle a lot.</span></p>
 
 <p><span class="chinese">他们贪污挪用公款使商行破产了。</span><span class="english">Their embezzlement bankrupted the firm.</span></p>

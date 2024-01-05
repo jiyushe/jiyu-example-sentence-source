@@ -1,5 +1,7 @@
 # powerless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/powerless.md)
+
 <p><span class="chinese">无力的，恩。</span><span class="english">Powerless. Uh huh.</span></p>
 
 <p><span class="chinese">痛恨自己无能为力或被轻视</span><span class="english">Hates being powerless or trivialized</span></p>

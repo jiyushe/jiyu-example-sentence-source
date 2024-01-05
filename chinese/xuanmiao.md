@@ -1,5 +1,7 @@
 # 玄妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanmiao.md)
+
 <p><span class="chinese">生活可能会十分玄妙。</span><span class="english">Life can be very mysterious.</span></p>
 
 <p><span class="chinese">信仰的玄妙力量。</span><span class="english">The impalpable power of faith.</span></p>

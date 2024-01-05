@@ -1,5 +1,7 @@
 # 干板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganban.md)
+
 <p><span class="chinese">全息干板膜的厚度是全息干板的重要参数之一。</span><span class="english">Thin-film thickness is one of the most important parameters for holographic plate.</span></p>
 
 <p><span class="chinese">得到了三种全息干板的高衍射效率。</span><span class="english">The high diffraction efficiency of three kinds of holographic plates have been obtained.</span></p>

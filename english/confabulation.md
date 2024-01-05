@@ -1,5 +1,7 @@
 # confabulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confabulation.md)
+
 <p><span class="chinese">虚构是虚假记忆的重要类型之一。</span><span class="english">Confabulation is an important type of false memory.</span></p>
 
 <p><span class="chinese">在餐厅里，我们遇到了我们往后7天的交谈对象。</span><span class="english">In the restaurant, we met us hereafter the confabulation object for 7 days.</span></p>

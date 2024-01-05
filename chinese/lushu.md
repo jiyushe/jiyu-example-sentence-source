@@ -1,5 +1,7 @@
 # 路数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lushu.md)
+
 <p><span class="chinese">然而，足球运动员是知道头球路数的。</span><span class="english">However, soccer players know that there is a proper way to head the ball.</span></p>
 
 <p><span class="chinese">高智商科幻电影通常有两种截然不同的路数。</span><span class="english">High-concept science-fiction movies tend to go in two different directions.</span></p>

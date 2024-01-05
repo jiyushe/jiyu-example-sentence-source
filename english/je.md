@@ -1,5 +1,7 @@
 # je
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/je.md)
+
 <p><span class="chinese">我是拿破仑！</span><span class="english">Je suis,Napoleon!</span></p>
 
 <p><span class="chinese">我要往里昂打电话，对方付费。</span><span class="english">Je voudrais tl phoner Lyon, en PCV.</span></p>

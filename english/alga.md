@@ -1,5 +1,7 @@
 # alga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alga.md)
+
 <p><span class="chinese">褐藻胶是海藻提取物。</span><span class="english">Algin was refined from marine alga.</span></p>
 
 <p><span class="chinese">怀孕期间能食用螺旋藻么？？？</span><span class="english">During be pregnant can edible helix alga? ? ?</span></p>

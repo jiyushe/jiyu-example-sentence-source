@@ -1,5 +1,7 @@
 # preeminent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preeminent.md)
+
 <p><span class="chinese">外王则是指卓越的“治平”社会功德。</span><span class="english">Fine morality is preeminent "Governing" society benefaction.</span></p>
 
 <p><span class="chinese">出生于巴士拉的阿·哈什姆是那个时代的思想先驱者。</span><span class="english">Born in Basra, al-Haytham was a preeminent thinker of his age.</span></p>

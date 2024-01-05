@@ -1,5 +1,7 @@
 # mountaineer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mountaineer.md)
+
 <p><span class="chinese">老山民也想照顾孩子。</span><span class="english">The old mountaineer also wanted custody of the children.</span></p>
 
 <p><span class="chinese">美国电力公司正计划在旗下的西弗吉尼亚登山家电厂开展测试项目。</span><span class="english">AEP is planning a test project at its Mountaineer plant in West Virginia.</span></p>

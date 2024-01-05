@@ -1,5 +1,7 @@
 # superior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superior.md)
+
 <p><span class="chinese">那影片演员阵容坚强。</span><span class="english">The film has a superior cast.</span></p>
 
 <p><span class="chinese">这是最高级别的自杀。</span><span class="english">This is the superior suicide.</span></p>

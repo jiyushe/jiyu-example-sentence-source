@@ -1,5 +1,7 @@
 # asme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asme.md)
+
 <p><span class="chinese">我担心同样的冷漠也存在于我们对自己所有官能和意识的使用上。</span><span class="english">The asme lethargy, I am afraid, characterizes the use of our faculties and senses.</span></p>
 
 <p><span class="chinese">其油脂的脂肪酸组成与橄榄油、茶油相似，是良好的食用烹调油。</span><span class="english">Its oil is of the asme fatty acid composition as olive oil or tea oil, and its meal could be used as food or feed.</span></p>

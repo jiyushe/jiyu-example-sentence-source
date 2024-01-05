@@ -1,5 +1,7 @@
 # romaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romaine.md)
+
 <p><span class="chinese">罗马生菜，培根粒，烤面包块，意式干奶酪和凯撒沙拉酱。</span><span class="english">Romaine lettuce, bacon bits, croutons, parmesan & home-made caesar dressing.</span></p>
 
 <p><span class="chinese">至于胎动是说像小动物拌落毛样的是男孩。</span><span class="english">As regards the movement is that small animals like Romaine mix kind of a boy.</span></p>

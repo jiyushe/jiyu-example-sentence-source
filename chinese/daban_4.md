@@ -1,5 +1,7 @@
 # 打扮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daban_4.md)
+
 <p><span class="chinese">凯莉爱打扮。</span><span class="english">Kally loves dressing up.</span></p>
 
 <p><span class="chinese">凯丽喜爱打扮。</span><span class="english">Kally loves dressing up.</span></p>

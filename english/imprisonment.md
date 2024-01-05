@@ -1,5 +1,7 @@
 # imprisonment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprisonment.md)
+
 <p><span class="chinese">他被判处无期徒刑。</span><span class="english">He was condemned to life imprisonment.</span></p>
 
 <p><span class="chinese">债务是幸福的监牢。</span><span class="english">Debt is an imprisonment to our happiness.</span></p>

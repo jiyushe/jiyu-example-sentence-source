@@ -1,5 +1,7 @@
 # depreciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depreciation.md)
+
 <p><span class="chinese">毁誉无动于衷，荣誉在所不计。——李泽厚。</span><span class="english">Be indifferent to depreciation or honor.</span></p>
 
 <p><span class="chinese">他们注销了500镑作为机器折旧费。</span><span class="english">They wrote off 500 for depreciation of machinery.</span></p>

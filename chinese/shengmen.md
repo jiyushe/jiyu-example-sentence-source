@@ -1,5 +1,7 @@
 # 声门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmen.md)
+
 <p><span class="chinese">门打开时，吧嗒一声门儿碰着墙。</span><span class="english">The door unbolted, whacked back against the wall.</span></p>
 
 <p><span class="chinese">探讨声门型喉癌的CT诊断价值。</span><span class="english">To analyse the diagnostic value of CT for glottic carcinoma.</span></p>

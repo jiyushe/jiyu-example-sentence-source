@@ -1,5 +1,7 @@
 # crown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crown.md)
+
 <p><span class="chinese">未经苦难，得不到荣冠。</span><span class="english">No cross, no crown.</span></p>
 
 <p><span class="chinese">她拒不接受王位。</span><span class="english">She refused the crown.</span></p>

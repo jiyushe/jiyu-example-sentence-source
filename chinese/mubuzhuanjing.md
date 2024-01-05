@@ -1,5 +1,7 @@
 # 目不转睛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubuzhuanjing.md)
+
 <p><span class="chinese">她目不转睛地盯着橱窗。</span><span class="english">She glues her eyes to the show window.</span></p>
 
 <p><span class="chinese">她目不转睛地看着老人的嘴。</span><span class="english">Her gaze rested on the old man's mouth.</span></p>

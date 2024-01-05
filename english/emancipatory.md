@@ -1,5 +1,7 @@
 # emancipatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emancipatory.md)
+
 <p><span class="chinese">但我完全不同意伊斯兰原教旨主义有关解放的潜力的思想。</span><span class="english">But I reject totally the idea of Islamic fundamentalism's emancipatory potential.</span></p>
 
 <p><span class="chinese">流行文化不只是承载主流意识形态的工具，流行文化亦是一种解放的文化资源。</span><span class="english">On the contrary, it should be taken as a cultural resource of emancipatory possibilities.</span></p>

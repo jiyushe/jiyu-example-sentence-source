@@ -1,5 +1,7 @@
 # dexter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dexter.md)
+
 <p><span class="chinese">我是德克斯特埃默森。</span><span class="english">This is dexter emerson.</span></p>
 
 <p><span class="chinese">我们活在希望之中。</span><span class="english">We live in hope Dexter.</span></p>

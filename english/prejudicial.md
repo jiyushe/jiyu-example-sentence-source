@@ -1,5 +1,7 @@
 # prejudicial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prejudicial.md)
+
 <p><span class="chinese">抽烟太多对健康不利。</span><span class="english">Too much smoking is prejudicial to health.</span></p>
 
 <p><span class="chinese">在家庭里，父母也会对漂亮的孩子偏心眼。</span><span class="english">In the family, the parents will be also prejudicial to the attractive child.</span></p>

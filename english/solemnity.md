@@ -1,5 +1,7 @@
 # solemnity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solemnity.md)
+
 <p><span class="chinese">三三成对地，我们将要大张盛宴。</span><span class="english">We'll hold a feast in great solemnity.</span></p>
 
 <p><span class="chinese">法官严肃地拿起了小木槌。</span><span class="english">The judge took up the gavel with solemnity.</span></p>

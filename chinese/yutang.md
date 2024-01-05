@@ -1,5 +1,7 @@
 # 鱼塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yutang.md)
+
 <p><span class="chinese">不带鱼网，别去鱼塘。</span><span class="english">Don't go to the fishpond without a net.</span></p>
 
 <p><span class="chinese">在绿荫如盖的树旁有一个鱼塘。</span><span class="english">There was a fish pond near the shady tree.</span></p>

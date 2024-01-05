@@ -1,5 +1,7 @@
 # 巧取豪夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoquhaoduo.md)
+
 <p><span class="chinese">贫穷是不能靠对富人的巧取豪夺来消灭的。</span><span class="english">Poverty could not be eliminated by soaking the rich.</span></p>
 
 <p><span class="chinese">为了能捞到想得到的东西，不惜煞费苦心，巧取豪夺。</span><span class="english">They grabbed what they could get for the sake of what was to be got.</span></p>

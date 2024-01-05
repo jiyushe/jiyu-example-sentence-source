@@ -1,5 +1,7 @@
 # 寓意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyi_1.md)
+
 <p><span class="chinese">这个故事的寓意？</span><span class="english">Moral of the story?</span></p>
 
 <p><span class="chinese">我在想我的梦有什么寓意。</span><span class="english">I wonder what my dream means.</span></p>

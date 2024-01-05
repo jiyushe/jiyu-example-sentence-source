@@ -1,5 +1,7 @@
 # abloom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abloom.md)
+
 <p><span class="chinese">译这是一个玫瑰盛开的花园。</span><span class="english">This is a garden abloom with roses.</span></p>
 
 <p><span class="chinese">野草正开满着纤小的紫花。</span><span class="english">The weeds were abloom with tiny purple blossoms.</span></p>

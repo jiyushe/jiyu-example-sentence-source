@@ -1,5 +1,7 @@
 # liposoluble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liposoluble.md)
+
 <p><span class="chinese">目的优选白花丹参中脂溶性成分的最佳提取工艺。</span><span class="english">OBJECTIVE Optimizing extraction craft of liposoluble constituent in Baihua Danshen.</span></p>
 
 <p><span class="chinese">方法采用气相色谱-质谱-计算机联用技术，分析穿龙薯蓣油状物的成分。</span><span class="english">Makino. Methods The the liposoluble components from the aerial parts of Dioscorea nipponica.</span></p>

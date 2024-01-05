@@ -1,5 +1,7 @@
 # bola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bola.md)
+
 <p><span class="chinese">海鸣王。蓝色的涂装很赞。武器包括了枪和流星锤。</span><span class="english">Kaimeioh. Blue painting looks sooooooo awesome. Weapon includes a gun and bola.</span></p>
 
 <p><span class="chinese">本公司以了解使用这个打每一方的责任事件是一次意外。</span><span class="english">The insurers use this BOLA to assess how liable each party is in the event of an accident.</span></p>

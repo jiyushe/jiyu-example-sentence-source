@@ -1,5 +1,7 @@
 # embellish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embellish.md)
+
 <p><span class="chinese">改变背景或修饰火焰。</span><span class="english">Change the background or embellish the flames.</span></p>
 
 <p><span class="chinese">我们以新地毯，灯和图画布置我们的房间。</span><span class="english">We embellish our room with new rug, lamp, and picture.</span></p>

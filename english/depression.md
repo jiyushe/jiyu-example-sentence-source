@@ -1,5 +1,7 @@
 # depression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depression.md)
+
 <p><span class="chinese">抑郁是什么？</span><span class="english">What Is Depression?</span></p>
 
 <p><span class="chinese">萧条的经济使他破产了。</span><span class="english">The depression smashed him.</span></p>

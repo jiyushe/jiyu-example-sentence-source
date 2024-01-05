@@ -1,5 +1,7 @@
 # 探监
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanjian.md)
+
 <p><span class="chinese">牧师这次探监没有意义。</span><span class="english">The minister's visit to the prison was not instructive.</span></p>
 
 <p><span class="chinese">探监之前，她必须先接受搜身，然后被带到一个斯巴达式的简陋食堂，这就是他们见面的地方。</span><span class="english">She is strip-searched, and taken into a spartan canteen.</span></p>

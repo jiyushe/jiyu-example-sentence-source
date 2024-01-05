@@ -1,5 +1,7 @@
 # 滚瓜烂熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gungualanshu.md)
+
 <p><span class="chinese">这演员把台词背得滚瓜烂熟了。</span><span class="english">The actor had his lines down cold.</span></p>
 
 <p><span class="chinese">我把唐诗背得滚瓜烂熟。</span><span class="english">I can recite many Tang poems by heart.</span></p>

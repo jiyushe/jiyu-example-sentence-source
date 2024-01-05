@@ -1,5 +1,7 @@
 # diatomaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diatomaceous.md)
+
 <p><span class="chinese">硅藻土是百年前水生植物沉淀下来的遗骸。</span><span class="english">Diatomaceous earths are the skeletal remains of the tiny aquatic plants deposited centuries ago.</span></p>
 
 <p><span class="chinese">研究了填加硅藻土作除臭纸的除臭效果。</span><span class="english">In this paper, the adsorption of diatomaceous earth which is applied to deodorized paper is determined.</span></p>

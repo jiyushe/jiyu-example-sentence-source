@@ -1,5 +1,7 @@
 # 多面手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duomianshou.md)
+
 <p><span class="chinese">多面手仍然很难找到。</span><span class="english">Generalists are still hard to obtain.</span></p>
 
 <p><span class="chinese">所有多面手水平各不相同。</span><span class="english">All generalists are not created equal.</span></p>

@@ -1,5 +1,7 @@
 # lune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lune.md)
+
 <p><span class="chinese">纳尼亚必须去支援国王伦恩。</span><span class="english">Narnia must go to the aid of King Lune.</span></p>
 
 <p><span class="chinese">我不记得了，克莱尔。对，克莱尔。德。鲁恩。</span><span class="english">Mm, I don't remember, Claire. Oh, the Claire de Lune.</span></p>

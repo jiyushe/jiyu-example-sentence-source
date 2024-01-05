@@ -1,5 +1,7 @@
 # catalyze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalyze.md)
+
 <p><span class="chinese">我们能够推动清洁能源的发展吗？</span><span class="english">Can we catalyze clean energy growth?</span></p>
 
 <p><span class="chinese">这将极大促进地外星系研究。</span><span class="english">This will greatly catalyze exoplanet research.</span></p>

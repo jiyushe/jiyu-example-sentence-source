@@ -1,5 +1,7 @@
 # 乐谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueqi.md)
+
 <p><span class="chinese">他一张张地翻乐谱。</span><span class="english">He leafed through the music.</span></p>
 
 <p><span class="chinese">这些先生们看乐谱吗</span><span class="english">Could these gentlemen read music?</span></p>

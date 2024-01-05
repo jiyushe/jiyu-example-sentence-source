@@ -1,5 +1,7 @@
 # 月末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuemo.md)
+
 <p><span class="chinese">每个月的月末他领工资。</span><span class="english">He collects his salary at the end of each month.</span></p>
 
 <p><span class="chinese">月末，提供所有的分类账凭证。</span><span class="english">Prepares all Journal Vouchers for month-end closing.</span></p>

@@ -1,5 +1,7 @@
 # 洗耳恭听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiergongting.md)
+
 <p><span class="chinese">说吧,我洗耳恭听。</span><span class="english">Go on.I’m all ears.</span></p>
 
 <p><span class="chinese">可以。我会洗耳恭听。</span><span class="english">Please. I'm all ears.</span></p>

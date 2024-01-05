@@ -1,5 +1,7 @@
 # 士族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizu_1.md)
+
 <p><span class="chinese">山东士族具有文化性和地方性。</span><span class="english">Shantung literati was cultural and regional.</span></p>
 
 <p><span class="chinese">门阀士族是地主阶级中的一个特权阶层。</span><span class="english">The powerful family hereditary scholar class is in a landlord class's privileged stratum.</span></p>

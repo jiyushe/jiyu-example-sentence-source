@@ -1,5 +1,7 @@
 # 开绿灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kailvdeng.md)
+
 <p><span class="chinese">高考期间交管部门会给贴有这种黄色标志的出租车开绿灯放行。</span><span class="english">In a further move, green lights will be given to taxis with the yellow sign.</span></p>
 
 <p><span class="chinese">这个城市违法活动大开绿灯的现象是全国最严重的，对此市长要负主要责任。</span><span class="english">The Mayor is largely responsible for this town being the most wide open in the country.</span></p>

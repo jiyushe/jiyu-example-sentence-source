@@ -1,5 +1,7 @@
 # disfunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disfunction.md)
+
 <p><span class="chinese">目的探讨前列地尔注射剂对慢性肾功能不全的疗效。</span><span class="english">Objective To study efficiency of prostaglandin EI for chronic renal disfunction.</span></p>
 
 <p><span class="chinese">肌腱组织工程的发展为肌腱损伤的修复提供了新的希望。</span><span class="english">The development of tissue engineering cast a new light to the treatment of organ disfunction.</span></p>

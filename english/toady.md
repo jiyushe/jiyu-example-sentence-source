@@ -1,5 +1,7 @@
 # toady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toady.md)
+
 <p><span class="chinese">今天我向你们承诺。</span><span class="english">I promise you toady.</span></p>
 
 <p><span class="chinese">我今天没什么可讲的。</span><span class="english">I have nothing to say toady.</span></p>

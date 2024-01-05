@@ -1,5 +1,7 @@
 # 惊诧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingcha.md)
+
 <p><span class="chinese">他工作效率之高让我惊诧。</span><span class="english">I was amazed at his efficiency.</span></p>
 
 <p><span class="chinese">他带着迷茫惊诧的神情望着我。</span><span class="english">He looked at me in blank amazement.</span></p>

@@ -1,5 +1,7 @@
 # 定时炸弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshizhadan.md)
+
 <p><span class="chinese">为什么他们听不到市场这只定时炸弹的滴答声呢？</span><span class="english">Why can't they hear this market timebomb ticking?</span></p>
 
 <p><span class="chinese">前美海军官员伯纳德说，领海问题仍是一个定时炸弹。</span><span class="english">The territorial issue remains the time bomb, Mr. Cole said.</span></p>

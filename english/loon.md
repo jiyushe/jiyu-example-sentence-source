@@ -1,5 +1,7 @@
 # loon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loon.md)
+
 <p><span class="chinese">至多每年还有一次潜水鸟要来。</span><span class="english">At most, it tolerates one annual loon.</span></p>
 
 <p><span class="chinese">然而，你也不能把卡扎菲仅仅看成一个漫画里的疯子。</span><span class="english">Yet Qaddafi can't just be dismissed as a comic loon.</span></p>

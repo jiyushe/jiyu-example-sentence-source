@@ -1,5 +1,7 @@
 # proselytize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proselytize.md)
+
 <p><span class="chinese">聪明人总会告诉你答案。</span><span class="english">A wise man will not proselytize you.</span></p>
 
 <p><span class="chinese">不要变节你的工作或观念。</span><span class="english">Do not proselytize your work or ideas.</span></p>

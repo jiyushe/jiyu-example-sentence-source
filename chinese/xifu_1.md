@@ -1,5 +1,7 @@
 # 媳妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifu_1.md)
+
 <p><span class="chinese">地板湿了，媳妇老婆我们那口子婆滑到了句号。</span><span class="english">The floor wet, the old lady had slipped.</span></p>
 
 <p><span class="chinese">好。好。谁让你是我的媳妇呢？</span><span class="english">All right. You're my wife after all. Come on.</span></p>

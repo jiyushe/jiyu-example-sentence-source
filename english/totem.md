@@ -1,5 +1,7 @@
 # totem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totem.md)
+
 <p><span class="chinese">可奈喜欢她的图腾吗?为什么?。</span><span class="english">Did Kenai like his totem?And why?</span></p>
 
 <p><span class="chinese">那不就是一种图腾崇拜啊？</span><span class="english">Isn't that a type of totem worship?</span></p>

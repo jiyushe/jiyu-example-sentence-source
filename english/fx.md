@@ -1,5 +1,7 @@
 # fx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fx.md)
+
 <p><span class="chinese">外汇储备已成为一种权力资源.</span><span class="english">FX reserves have become a power resource.</span></p>
 
 <p><span class="chinese">外汇20内阁是由15毫米杨木胶合板。</span><span class="english">The FX 20 cabinet is made of 15mm poplar plywood.</span></p>

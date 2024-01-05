@@ -1,5 +1,7 @@
 # 颂扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songyang.md)
+
 <p><span class="chinese">人生是一种美，颂扬它。</span><span class="english">Life is beauty—praise it.</span></p>
 
 <p><span class="chinese">他作了一个颂扬性的演讲。</span><span class="english">He made a speech of panegyric.</span></p>

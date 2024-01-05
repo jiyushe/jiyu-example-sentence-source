@@ -1,5 +1,7 @@
 # suburb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suburb.md)
+
 <p><span class="chinese">布莱克希斯是伦敦的一个郊区。</span><span class="english">Blackheath is suburb of London.</span></p>
 
 <p><span class="chinese">他想在郊区安个家。</span><span class="english">He wanted to home in the suburb.</span></p>

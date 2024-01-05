@@ -1,5 +1,7 @@
 # goldberg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldberg.md)
+
 <p><span class="chinese">可是开彩了，戈德堡没有中。</span><span class="english">But the lottery would come and Goldberg wouldn't win.</span></p>
 
 <p><span class="chinese">这又是一个小题大做的机器，这台机器的样子将会像码头一样。</span><span class="english">Another Rube Goldberg machine, it was to be built like a pier.</span></p>

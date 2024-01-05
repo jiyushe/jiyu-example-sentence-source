@@ -1,5 +1,7 @@
 # 红包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongbao.md)
+
 <p><span class="chinese">今年您收到红包了吗？</span><span class="english">Have you received any bonus?</span></p>
 
 <p><span class="chinese">红包里面装着钱。</span><span class="english">The envelopes contain money.</span></p>

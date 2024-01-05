@@ -1,5 +1,7 @@
 # 响动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdong.md)
+
 <p><span class="chinese">那只猫对任何响动都很警觉。</span><span class="english">The cat is alert to every sound and movement.</span></p>
 
 <p><span class="chinese">巴尔多审慎的耳朵是不会放过任何轻微的响动的。</span><span class="english">Bardo's jealous ear was alive to the slight movement.</span></p>

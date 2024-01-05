@@ -1,5 +1,7 @@
 # temp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temp.md)
+
 <p><span class="chinese">维卡软化温度。</span><span class="english">Vicat softening temp.</span></p>
 
 <p><span class="chinese">好的，temp里是什么？</span><span class="english">Well, what's in temp?</span></p>

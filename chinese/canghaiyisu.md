@@ -1,5 +1,7 @@
 # 沧海一粟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canghaiyisu.md)
+
 <p><span class="chinese">但这两个村庄只是沧海一粟。</span><span class="english">But these villages are just a drop in the bucket.</span></p>
 
 <p><span class="chinese">我们知道，在这一方面我们只不过是沧海一粟。</span><span class="english">We know that in this respect we are part of a crowd.</span></p>

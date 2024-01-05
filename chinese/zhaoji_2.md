@@ -1,5 +1,7 @@
 # 着急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoji_2.md)
+
 <p><span class="chinese">什幺事让您这幺着急呢?</span><span class="english">What is your hurry?</span></p>
 
 <p><span class="chinese">客户们，先别着急。</span><span class="english">Don’t worry, clients.</span></p>

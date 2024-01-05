@@ -1,5 +1,7 @@
 # polder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polder.md)
+
 <p><span class="chinese">通过大通湖典型圩垸的实例计算，验证了这一模型和解法的有效性和优越性。</span><span class="english">The validity of this model is proved by a case study of a typical polder area in Datong lake.</span></p>
 
 <p><span class="chinese">我国南方圩区土壤肥沃，水网密布，资源丰富。</span><span class="english">The southern polder area of China has fertility soil, variegated rivers and plentiful natural resources.</span></p>

@@ -1,5 +1,7 @@
 # 层次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cengci.md)
+
 <p><span class="chinese">第一层次是”公众刻板印象“</span><span class="english">There's "public."</span></p>
 
 <p><span class="chinese">蛋糕有层次。</span><span class="english">Cakes have layers.</span></p>

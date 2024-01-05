@@ -1,5 +1,7 @@
 # deflate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflate.md)
+
 <p><span class="chinese">一句尖锐的话足以使她泄气。</span><span class="english">One sharp remark is enough to deflate her.</span></p>
 
 <p><span class="chinese">继房价连续多年疯涨之后，中国的房地产泡沫目前正开始漏气。</span><span class="english">After years of housing prices gone wild, China’s property bubble is starting to deflate.</span></p>

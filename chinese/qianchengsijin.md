@@ -1,5 +1,7 @@
 # 前程似锦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchengsijin.md)
+
 <p><span class="chinese">“鹏”象征着展翅高飞，前程似锦。</span><span class="english">"Peng" symbolizes the fly, for the future.</span></p>
 
 <p><span class="chinese">我希望所有的朋友都前程似锦。</span><span class="english">I hope all my friends have a bright future.</span></p>

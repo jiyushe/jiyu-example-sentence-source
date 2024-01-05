@@ -1,5 +1,7 @@
 # prednisone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prednisone.md)
+
 <p><span class="chinese">对于病情很重的患者，我们也确实在使用泼尼松进行治疗。</span><span class="english">I am kind of a born-again Prednisone person and I used to not use it that much.</span></p>
 
 <p><span class="chinese">刺五加注射液联合强的松治疗ITP疗效可靠。</span><span class="english">It has reliable effect to treat ITP with Acanthopanex Injection and Prednisone.</span></p>

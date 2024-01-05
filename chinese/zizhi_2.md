@@ -1,5 +1,7 @@
 # 自知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhi_2.md)
+
 <p><span class="chinese">尽管我自知已早逾华龄。</span><span class="english">Although I know my days are past the best.</span></p>
 
 <p><span class="chinese">自知不自见，自爱不自贵。</span><span class="english">It does not see itself, not from your love.</span></p>

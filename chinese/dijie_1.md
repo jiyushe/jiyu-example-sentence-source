@@ -1,5 +1,7 @@
 # 缔结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijie_1.md)
+
 <p><span class="chinese">缔结盟约以效忠国王。</span><span class="english">They covenanted in loyalty to the king.</span></p>
 
 <p><span class="chinese">他们缔结盟约以效忠国王。</span><span class="english">They covenanted in loyalty to the king.</span></p>

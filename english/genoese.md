@@ -1,5 +1,7 @@
 # genoese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genoese.md)
+
 <p><span class="chinese">弩兵们同时还配有长剑，以备近身肉搏。</span><span class="english">For use in melee Genoese Crossbowmen are also equipped with a long sword.</span></p>
 
 <p><span class="chinese">马可回家后不久，热那亚人在一次海边战役中抓到了他。</span><span class="english">Not long after Marco came home, the Genoese caught him during a battle at sea.</span></p>

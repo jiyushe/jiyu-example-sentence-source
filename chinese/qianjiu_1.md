@@ -1,5 +1,7 @@
 # 迁就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjiu_1.md)
+
 <p><span class="chinese">不过，只要彼此互相迁就，还是能相处得不错。</span><span class="english">With compromise, it can work.</span></p>
 
 <p><span class="chinese">重新堕落哟-迁就的女娃！</span><span class="english">And new pervert a reconciled maid!</span></p>

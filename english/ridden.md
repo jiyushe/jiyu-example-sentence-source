@@ -1,5 +1,7 @@
 # ridden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridden.md)
+
 <p><span class="chinese">我们开车兜兜风好吗？</span><span class="english">Shall we go for a ridden a car?</span></p>
 
 <p><span class="chinese">艇长曾很厉害地压制他。</span><span class="english">The captain had ridden him hard.</span></p>

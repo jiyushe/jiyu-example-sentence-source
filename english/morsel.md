@@ -1,5 +1,7 @@
 # morsel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morsel.md)
+
 <p><span class="chinese">拈起一撮食物供养我。</span><span class="english">He offered me a morsel of food.</span></p>
 
 <p><span class="chinese">可是今天的夜，有些冷。</span><span class="english">But today's night, a morsel chilly.</span></p>

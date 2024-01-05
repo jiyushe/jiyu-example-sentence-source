@@ -1,5 +1,7 @@
 # 铁板钉钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiebandingding.md)
+
 <p><span class="chinese">2011年，欧元区将面临更大的困境几乎是铁板钉钉。</span><span class="english">An even bigger mess seems all but certain in 2011.</span></p>
 
 <p><span class="chinese">人们应该记住我们的建议并非铁板钉钉。</span><span class="english">People should remember that our proposals aren't carved in stone.</span></p>

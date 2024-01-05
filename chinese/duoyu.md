@@ -1,5 +1,7 @@
 # 多余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoyu.md)
+
 <p><span class="chinese">神学是多余的。</span><span class="english">Theology is unnecessary.</span></p>
 
 <p><span class="chinese">多余的食物作为脂肪贮存起来。</span><span class="english">Excess food is stored as fat.</span></p>

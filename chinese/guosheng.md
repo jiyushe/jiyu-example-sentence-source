@@ -1,5 +1,7 @@
 # 过剩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guosheng.md)
+
 <p><span class="chinese">市场存货过剩。</span><span class="english">The market is overstocked.</span></p>
 
 <p><span class="chinese">他精力过剩。</span><span class="english">He had an excess of energy.</span></p>

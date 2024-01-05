@@ -1,5 +1,7 @@
 # irritatingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritatingly.md)
+
 <p><span class="chinese">这首歌听起来非常熟悉。</span><span class="english">The song is irritatingly familiar.</span></p>
 
 <p><span class="chinese">这可能听上去像是一个抽象或虔诚得让人恼火的请求。</span><span class="english">That might sound like an irritatingly abstract or pious plea.</span></p>

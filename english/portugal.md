@@ -1,5 +1,7 @@
 # portugal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portugal.md)
+
 <p><span class="chinese">葡萄牙可能就是下一个。</span><span class="english">Portugal may well be next.</span></p>
 
 <p><span class="chinese">葡萄牙波尔图的夏季里的一天。</span><span class="english">A summer day in Porto, Portugal.</span></p>

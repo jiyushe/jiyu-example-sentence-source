@@ -1,5 +1,7 @@
 # 生息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxi_1.md)
+
 <p><span class="chinese">这债券生息。</span><span class="english">The bond bears interest.</span></p>
 
 <p><span class="chinese">我悄无生息地走进去一看，哦！</span><span class="english">I went into the quiet affair to a look, oh!</span></p>

@@ -1,5 +1,7 @@
 # chivalrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chivalrous.md)
+
 <p><span class="chinese">这麽做虽非侠义之道，但却是邪恶地有效。</span><span class="english">It 's not chivalrous to do so, but it is viciously effective.</span></p>
 
 <p><span class="chinese">男孩，我最近遇见了一个骑士的少女，我应该给她什么？</span><span class="english">Boy, I met a chivalrous girl recently, what should I give her?</span></p>

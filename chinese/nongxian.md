@@ -1,5 +1,7 @@
 # 农闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongxian.md)
+
 <p><span class="chinese">每年秋季，总会有一段农闲间隙，这是种蚕豆的时候。</span><span class="english">Each fall, there is always a slack space, which is kind of a time when broad bean.</span></p>
 
 <p><span class="chinese">在这里，一到农闲季节，几乎家家都作泥人。</span><span class="english">In the slack seasons, nearly all families in Wuxi stayed at home to make clay figurines.</span></p>

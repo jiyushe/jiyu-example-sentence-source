@@ -1,5 +1,7 @@
 # hydra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydra.md)
+
 <p><span class="chinese">在研究范围内，30℃的水螅个体最小。</span><span class="english">Hydra got the minimum body size at 30℃.</span></p>
 
 <p><span class="chinese">他们的对手是三头六臂的妖怪。</span><span class="english">They were fighting a hydra headed monster.</span></p>

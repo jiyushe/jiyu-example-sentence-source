@@ -1,5 +1,7 @@
 # 害群之马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiqunzhima.md)
+
 <p><span class="chinese">一只腐羊害及全群。害群之马。</span><span class="english">Arotten sheep infects the whole flock.</span></p>
 
 <p><span class="chinese">这个人是家庭中的害群之马。</span><span class="english">This man is the black sheep of the family.</span></p>

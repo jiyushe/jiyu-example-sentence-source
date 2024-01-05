@@ -1,5 +1,7 @@
 # 迸发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bengfa.md)
+
 <p><span class="chinese">那是我迸发灵感之时。</span><span class="english">That is my inspired time.</span></p>
 
 <p><span class="chinese">火焰跳跃着迸发出火星。</span><span class="english">The flames leaped and sparkled.</span></p>

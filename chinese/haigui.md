@@ -1,5 +1,7 @@
 # 海龟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haigui.md)
+
 <p><span class="chinese">海龟与红色莫霍克。</span><span class="english">Turtles with red mohawk.</span></p>
 
 <p><span class="chinese">海龟们把2N做为止损点。</span><span class="english">The Turtles used a 2N stop.</span></p>

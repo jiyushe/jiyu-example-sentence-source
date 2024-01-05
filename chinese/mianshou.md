@@ -1,5 +1,7 @@
 # 面授
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshou.md)
+
 <p><span class="chinese">你觉得面授辅导课有帮助吗？</span><span class="english">Do you find the tutorial helpful?</span></p>
 
 <p><span class="chinese">此乃兼读制面授课程。</span><span class="english">This is a part-time face-to-face programme.</span></p>

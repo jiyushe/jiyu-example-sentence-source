@@ -1,5 +1,7 @@
 # 路途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lutu.md)
+
 <p><span class="chinese">良伴同行路途短。</span><span class="english">Good company makes short miles.</span></p>
 
 <p><span class="chinese">主啊,任何犠牲,任何路途,我都愿意。</span><span class="english">At any cost, dear Lord, by my road!</span></p>

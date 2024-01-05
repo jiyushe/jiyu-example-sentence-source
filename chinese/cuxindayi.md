@@ -1,5 +1,7 @@
 # 粗心大意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxindayi.md)
+
 <p><span class="chinese">他工作时粗心大意。</span><span class="english">He did his work negligently.</span></p>
 
 <p><span class="chinese">他因粗心大意而受到责备。</span><span class="english">He was taxed with negligence.</span></p>

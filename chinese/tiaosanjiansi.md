@@ -1,5 +1,7 @@
 # 挑三拣四
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaosanjiansi.md)
+
 <p><span class="chinese">他对工作从不挑三拣四。</span><span class="english">He is never choosy about his job.</span></p>
 
 <p><span class="chinese">不要养成挑三拣四的习惯。</span><span class="english">Don't form a habit of being choosy.</span></p>

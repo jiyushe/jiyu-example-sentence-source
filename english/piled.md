@@ -1,5 +1,7 @@
 # piled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piled.md)
+
 <p><span class="chinese">他把它们堆起来。</span><span class="english">He piled them.</span></p>
 
 <p><span class="chinese">干草捆好后再堆起来。</span><span class="english">The hay was baled and piled.</span></p>

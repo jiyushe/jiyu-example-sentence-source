@@ -1,5 +1,7 @@
 # enthusiast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthusiast.md)
+
 <p><span class="chinese">再添置一套发烧级的音响。</span><span class="english">And then purchase a set of audio enthusiast.</span></p>
 
 <p><span class="chinese">另一方面是发烧级游戏机。</span><span class="english">The other is an enthusiast class gaming machine.</span></p>

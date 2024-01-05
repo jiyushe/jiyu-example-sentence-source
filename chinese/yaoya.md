@@ -1,5 +1,7 @@
 # 咬牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoya.md)
+
 <p><span class="chinese">糙齿龙会大声咀嚼，格格地咬牙。</span><span class="english">Trachodon would chew and chomp.</span></p>
 
 <p><span class="chinese">每次使用前后检查咬牙。</span><span class="english">Inspect teether before and after each use.</span></p>

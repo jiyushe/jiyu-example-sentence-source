@@ -1,5 +1,7 @@
 # 平展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzhan.md)
+
 <p><span class="chinese">五个两手伸平展开的长度。</span><span class="english">The length of five arm spans.</span></p>
 
 <p><span class="chinese">茎平展的白色绢毛。</span><span class="english">Stems spreading white sericeous.</span></p>

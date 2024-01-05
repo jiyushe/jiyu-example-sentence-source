@@ -1,5 +1,7 @@
 # dimer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimer.md)
+
 <p><span class="chinese">其中的两个亚单位不相同的二聚体。</span><span class="english">A dimer in which the two subunits are different.</span></p>
 
 <p><span class="chinese">以二聚体模型解释了反斯托克斯荧光频移效应。</span><span class="english">The large peak shift is explained by a dimer model.</span></p>

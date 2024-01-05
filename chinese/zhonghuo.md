@@ -1,5 +1,7 @@
 # 重活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonghuo.md)
+
 <p><span class="chinese">是重活，他都抢着干。</span><span class="english">He robs of all heavy work.</span></p>
 
 <p><span class="chinese">女孩子也干不了什么重活。</span><span class="english">The girls also do heavy work.</span></p>

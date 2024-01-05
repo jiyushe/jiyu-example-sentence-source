@@ -1,5 +1,7 @@
 # resistibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resistibility.md)
+
 <p><span class="chinese">不同生长阶段小杆线虫有明显不同的氯消毒抵抗力。</span><span class="english">The different growth stages of Rhabditis sp. Appears very different resistibility to chlorination.</span></p>
 
 <p><span class="chinese">研究结果表明，斜生栅藻对铜最敏感，而月形藻对铜有很强的抵抗能力。</span><span class="english">It was found that S. obliquus was most sensitive to copper but C. lunula had a strong resistibility to copper.</span></p>

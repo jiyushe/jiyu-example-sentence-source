@@ -1,5 +1,7 @@
 # anorak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anorak.md)
+
 <p><span class="chinese">她穿着防水衣。</span><span class="english">She's wearing an anorak.</span></p>
 
 <p><span class="chinese">她头发烧焦了，带风帽的夹克也烧掉了。</span><span class="english">Her hair was singed and her anorak was burnt.</span></p>

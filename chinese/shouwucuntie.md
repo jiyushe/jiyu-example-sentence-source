@@ -1,5 +1,7 @@
 # 手无寸铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwucuntie.md)
+
 <p><span class="chinese">我是手无寸铁的"</span><span class="english">I am unarmed."</span></p>
 
 <p><span class="chinese">出动坦克车对付手无寸铁的学生。</span><span class="english">Tanks were sent in agai t unarmed students.</span></p>

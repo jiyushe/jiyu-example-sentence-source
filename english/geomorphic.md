@@ -1,5 +1,7 @@
 # geomorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geomorphic.md)
+
 <p><span class="chinese">地貌与新构造运动在成矿中占有重要地位。</span><span class="english">Geomorphic and new tectonic movement are important to mineralization.</span></p>
 
 <p><span class="chinese">河流阶地是研究地面抬升的最直接的地貌证据之一。</span><span class="english">River terrace is one of the direct geomorphic evidences of surface uplift.</span></p>

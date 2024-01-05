@@ -1,5 +1,7 @@
 # 天门冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianmendong.md)
+
 <p><span class="chinese">它也是天门冬氨醯苯丙氨酸甲酯的两种成分之一。</span><span class="english">It is one of the two components of aspartame.</span></p>
 
 <p><span class="chinese">氰化物可以作一个天门冬酰胺的酰胺氮前体。</span><span class="english">Cyanide can serve as precursor for the amide nitrogen of asparagine.</span></p>

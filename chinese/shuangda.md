@@ -1,5 +1,7 @@
 # 双打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangda.md)
+
 <p><span class="chinese">我是说男子双打。</span><span class="english">I mean men's double.</span></p>
 
 <p><span class="chinese">简和汤姆赢了混合双打。</span><span class="english">Jane and Tom won the mixed doubles.</span></p>

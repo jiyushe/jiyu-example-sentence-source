@@ -1,5 +1,7 @@
 # intercommunity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercommunity.md)
+
 <p><span class="chinese">民族艺术审美价值的共同性广泛存在。</span><span class="english">The intercommunity of ethnic art taste value is a common existence.</span></p>
 
 <p><span class="chinese">在本文中，我们研究了共同性关系是如何影响组织社区的成长的。</span><span class="english">In this study, we examine how intercommunity relationships affect the growth of organizational communities.</span></p>

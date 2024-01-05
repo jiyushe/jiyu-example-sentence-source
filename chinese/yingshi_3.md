@@ -1,5 +1,7 @@
 # 英石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshi_3.md)
+
 <p><span class="chinese">我的目标是在今年年底达到57英石。</span><span class="english">My goal is to be 57st by the end of the year.</span></p>
 
 <p><span class="chinese">他的体重为十五英石，即两百一十英镑或九十五公斤。</span><span class="english">He had a weight of 15 stone or 210 pounds or 95 kilograms.</span></p>

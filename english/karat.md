@@ -1,5 +1,7 @@
 # karat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karat.md)
+
 <p><span class="chinese">凯瑞特说，他的政党永远不会同意印度成为“美国的小夥伴”。</span><span class="english">Karat says his party will never agree to become a "junior partner of the United States".</span></p>
 
 <p><span class="chinese">强烈控诉中国云南省丽江市玉龙县法院应该立案的案子不立案，且不出具不受理的裁决书！</span><span class="english">Charging that court of yulong county didn't accept my case and didn't karat finding book!</span></p>

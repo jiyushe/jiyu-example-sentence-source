@@ -1,5 +1,7 @@
 # emissive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emissive.md)
+
 <p><span class="chinese">发射光色即使在黑暗中也会照射出来。</span><span class="english">Emissive color is given off even in darkness.</span></p>
 
 <p><span class="chinese">圆形偏光镜用于改善发射显示器的可见性。</span><span class="english">Circular polarizers are used to improve the viewability of emissive displays.</span></p>

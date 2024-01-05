@@ -1,5 +1,7 @@
 # 耐寒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naihan.md)
+
 <p><span class="chinese">其四耐寒怕热。</span><span class="english">Fourth cold Heat intolerance.</span></p>
 
 <p><span class="chinese">看来还是一种耐寒的植物。</span><span class="english">It must be a cold-resistant plant.</span></p>

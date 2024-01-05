@@ -1,5 +1,7 @@
 # 开司米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaisimi.md)
+
 <p><span class="chinese">羊毛，开司米还有浅色丝绸。</span><span class="english">Wools, cashmeres, and light colored silks.</span></p>
 
 <p><span class="chinese">也许这会是一件没有扣子的开司米羊毛衫。</span><span class="english">Maybe it's a cashmere cardigan without buttons.</span></p>

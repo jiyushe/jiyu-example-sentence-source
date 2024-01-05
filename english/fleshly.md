@@ -1,5 +1,7 @@
 # fleshly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleshly.md)
+
 <p><span class="chinese">因为肉体将我束缚。</span><span class="english">For I am bound with fleshly band.</span></p>
 
 <p><span class="chinese">所以在这个例子中，血统并不代表什么。</span><span class="english">Thus fleshly descent meant nothing in this instance.</span></p>

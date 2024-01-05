@@ -1,5 +1,7 @@
 # legend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legend.md)
+
 <p><span class="chinese">她是一个传奇。</span><span class="english">She is a legend.</span></p>
 
 <p><span class="chinese">舞的传说。</span><span class="english">The Legend of Hime.</span></p>

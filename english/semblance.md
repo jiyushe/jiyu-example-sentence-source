@@ -1,5 +1,7 @@
 # semblance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semblance.md)
+
 <p><span class="chinese">我们甚至还够不上冒充伪装。</span><span class="english">We are not even semblance.</span></p>
 
 <p><span class="chinese">那些云有著大船的外貌。</span><span class="english">Those clouds have the semblance of a large ship.</span></p>

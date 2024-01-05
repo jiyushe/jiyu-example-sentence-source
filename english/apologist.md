@@ -1,5 +1,7 @@
 # apologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apologist.md)
+
 <p><span class="chinese">我不打算为针灸还是其他的啥辩论。</span><span class="english">I am not an apologist for acupuncture or anything else.</span></p>
 
 <p><span class="chinese">中国最著名的作家是一名改革派还是一位护教者？</span><span class="english">Is China's most eminent writer a reformer or an apologist?</span></p>

@@ -1,5 +1,7 @@
 # 胡荽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/husui.md)
+
 <p><span class="chinese">胡荽和胡荽叶是同一种香料。</span><span class="english">Coriander and cilantro are the same spice.</span></p>
 
 <p><span class="chinese">熟了以后，再加入剩馀的胡荽菜。</span><span class="english">Once cooked, add the remainder of the coriander.</span></p>

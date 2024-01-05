@@ -1,5 +1,7 @@
 # 漠不关心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mobuguanxin.md)
+
 <p><span class="chinese">他的声音漠不关心。</span><span class="english">Unconcern in his voice.</span></p>
 
 <p><span class="chinese">他耸耸肩，漠不关心的样子。</span><span class="english">He shrugs, indifferently.</span></p>

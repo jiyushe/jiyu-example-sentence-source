@@ -1,5 +1,7 @@
 # 尸身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishen_2.md)
+
 <p><span class="chinese">干尸身上的精美纹身有何深意？</span><span class="english">What did the mummy's elaborate tattoos mean?</span></p>
 
 <p><span class="chinese">差斥的尸身终于摆在了验尸台上。</span><span class="english">Poor denounced the corpse was finally placed in the postmortem stage.</span></p>

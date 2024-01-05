@@ -1,5 +1,7 @@
 # 身世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshi_1.md)
+
 <p><span class="chinese">她的身世中有一个神秘之处。</span><span class="english">There was a mystery hanging over her antecedents.</span></p>
 
 <p><span class="chinese">奥巴马父母的身世截然不同。</span><span class="english">Obama’s parents came from vastly different backgrounds.</span></p>

@@ -1,5 +1,7 @@
 # raft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raft.md)
+
 <p><span class="chinese">救生艇在奥怀希河。</span><span class="english">Raft the Owyhee River.</span></p>
 
 <p><span class="chinese">于是我的皮筏漂流梦就这样灰飞烟灭了。</span><span class="english">The raft dream was dead.</span></p>

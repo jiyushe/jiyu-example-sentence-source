@@ -1,5 +1,7 @@
 # nep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nep.md)
+
 <p><span class="chinese">棉结在线检测系统中的光源选择。</span><span class="english">Selection of light source for on-line nep detection system.</span></p>
 
 <p><span class="chinese">因此，上调NEP在AD病的治疗中是非常有前景的。</span><span class="english">So, it is very promising to up-regulate NEP in the therapy of AD.</span></p>

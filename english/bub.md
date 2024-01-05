@@ -1,5 +1,7 @@
 # bub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bub.md)
+
 <p><span class="chinese">我没有，我是叫老大，真是的。</span><span class="english">I just call them, bub.</span></p>
 
 <p><span class="chinese">洗澡盆的水龙头漏水。</span><span class="english">The bath bub tap is leaking.</span></p>

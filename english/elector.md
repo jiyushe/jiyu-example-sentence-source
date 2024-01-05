@@ -1,5 +1,7 @@
 # elector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elector.md)
+
 <p><span class="chinese">什么是选民登记证？</span><span class="english">What is an Elector Information Card?</span></p>
 
 <p><span class="chinese">本人已登记为地方选区的选民。</span><span class="english">I am a registered elector for a geographical constituency.</span></p>

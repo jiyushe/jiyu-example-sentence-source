@@ -1,5 +1,7 @@
 # piping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piping.md)
+
 <p><span class="chinese">她在给衣服滚边。</span><span class="english">She is piping up her dress.</span></p>
 
 <p><span class="chinese">小鸟黎明时就开始叫了。</span><span class="english">The birds began piping at daybreak.</span></p>

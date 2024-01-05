@@ -1,5 +1,7 @@
 # beeline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beeline.md)
+
 <p><span class="chinese">光是沿着直线传播的。</span><span class="english">Light diffuses alone the beeline.</span></p>
 
 <p><span class="chinese">采用标准直线导轨。</span><span class="english">Using standard beeline guide rail.</span></p>

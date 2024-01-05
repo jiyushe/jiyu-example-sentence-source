@@ -1,5 +1,7 @@
 # 怜恤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxu.md)
+
 <p><span class="chinese">怜恤的人有福了！因为他们必蒙怜恤。</span><span class="english">Blessed are the merciful , for they will be shown mercy.</span></p>
 
 <p><span class="chinese">不知怜恤寡妇，也不知加惠孤儿。</span><span class="english">They shall not pity the widow, nor do good to the fatherless.</span></p>

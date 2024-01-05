@@ -1,5 +1,7 @@
 # hydrogel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrogel.md)
+
 <p><span class="chinese">然而他拿出一个勺子并吃起水凝胶来。</span><span class="english">And he took out a spoon and ate the hydrogel.</span></p>
 
 <p><span class="chinese">水凝胶具有抗自由基及抗细菌的特性。</span><span class="english">Hydrogel is anti-oxidative and anti-microbial.</span></p>

@@ -1,5 +1,7 @@
 # golan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/golan.md)
+
 <p><span class="chinese">在戈兰高地，大约有八十万叙利亚人背景离乡。</span><span class="english">In the Golan Heights, an estimated 80, 000 Syrians fled.</span></p>
 
 <p><span class="chinese">作家埃里希奥利和甘戈兰高地建立的漫画书。</span><span class="english">Writers Erich Origen and Gan Golan created the comic book.</span></p>

@@ -1,5 +1,7 @@
 # liven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liven.md)
+
 <p><span class="chinese">在他发言之后会议开始活跃起来。</span><span class="english">The meeting began to liven up after he spoke.</span></p>
 
 <p><span class="chinese">在树林中散散步总是可以让我立刻开心起来。</span><span class="english">A walk in the woods always liven me up in no time.</span></p>

@@ -1,5 +1,7 @@
 # typeface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typeface.md)
+
 <p><span class="chinese">Solex字体样本书.</span><span class="english">Solex Typeface Specimen Book.</span></p>
 
 <p><span class="chinese">哪个字体最适合这个设计？</span><span class="english">Which typeface is perfect for this design?</span></p>

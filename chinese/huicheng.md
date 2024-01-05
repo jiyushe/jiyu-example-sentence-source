@@ -1,5 +1,7 @@
 # 回程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huicheng.md)
+
 <p><span class="chinese">在下面回程那里你能见到‘莫’？</span><span class="english">Can you see Morl down back there?</span></p>
 
 <p><span class="chinese">我想要一张回程不定期的头等往返票。</span><span class="english">I want a first-class open return.</span></p>

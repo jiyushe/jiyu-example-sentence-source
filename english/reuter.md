@@ -1,5 +1,7 @@
 # reuter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reuter.md)
+
 <p><span class="chinese">路透社提供新闻时不浪费一点时间。</span><span class="english">Reuter never waste a moment in providing the news.</span></p>
 
 <p><span class="chinese">路透社还称，昨晚在柏林有几个谣言在广泛流传。</span><span class="english">The wildest rumours were circulating in Berlin last night, adds Reuter.</span></p>

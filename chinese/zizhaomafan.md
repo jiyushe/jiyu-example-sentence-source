@@ -1,5 +1,7 @@
 # 自找麻烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhaomafan.md)
+
 <p><span class="chinese">那样他们就算自找麻烦了。</span><span class="english">That's what gets them into trouble.</span></p>
 
 <p><span class="chinese">你最好还是走吧，别自找麻烦！</span><span class="english">Don't ask for trouble. You'd better run away.</span></p>

@@ -1,5 +1,7 @@
 # hue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hue.md)
+
 <p><span class="chinese">一张带着蓝色光晕的脸。</span><span class="english">A face in bluish hue.</span></p>
 
 <p><span class="chinese">这一切都是黑色的。</span><span class="english">All this was black of hue.</span></p>

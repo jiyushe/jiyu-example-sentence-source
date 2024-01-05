@@ -1,5 +1,7 @@
 # metalanguage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metalanguage.md)
+
 <p><span class="chinese">元语言具有双重性。</span><span class="english">Metalanguage has dual natures.</span></p>
 
 <p><span class="chinese">元语言是一个有序排列类似逻辑。</span><span class="english">An ordered metalanguage is analogous to ordered logic.</span></p>

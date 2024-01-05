@@ -1,5 +1,7 @@
 # 地区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqu.md)
+
 <p><span class="chinese">朝新地区移动。</span><span class="english">Moving to new area.</span></p>
 
 <p><span class="chinese">苏丹西部达尔富尔地区是恐怖主义么？</span><span class="english">Is Darfur terrorism?</span></p>

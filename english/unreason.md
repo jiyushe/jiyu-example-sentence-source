@@ -1,5 +1,7 @@
 # unreason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreason.md)
+
 <p><span class="chinese">他是枝繁叶茂的无理性之蛇发妖树。</span><span class="english">It is a hydra-headed tree of unreason with a thousand roots.</span></p>
 
 <p><span class="chinese">而那些非理性的力量则在无益的倾轧中互相毁灭。</span><span class="english">The forces of unreason destroy one another in futile strife.</span></p>

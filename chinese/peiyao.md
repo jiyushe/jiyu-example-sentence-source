@@ -1,5 +1,7 @@
 # 配药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiyao.md)
+
 <p><span class="chinese">把这药方拿到配药处去配药。</span><span class="english">Take this prescription to the chemist 's.</span></p>
 
 <p><span class="chinese">这是药方。待会儿你拿到药房去配药。</span><span class="english">Here is a prescription. Take it to the chemist’s.</span></p>

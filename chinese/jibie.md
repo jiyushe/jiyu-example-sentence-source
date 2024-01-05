@@ -1,5 +1,7 @@
 # 级别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibie.md)
+
 <p><span class="chinese">链接器级别。</span><span class="english">Linker level.</span></p>
 
 <p><span class="chinese">高级别血管肉瘤。</span><span class="english">High grade angiosarcoma.</span></p>

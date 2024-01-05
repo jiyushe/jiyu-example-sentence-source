@@ -1,5 +1,7 @@
 # aerobatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerobatic.md)
+
 <p><span class="chinese">成为特技队的一员是非常危险的。</span><span class="english">Being part of aerobatic team is dangerous.</span></p>
 
 <p><span class="chinese">花样飞行在机场上空，高度2000米。</span><span class="english">Aerobatic flights over airfield up to 2000m.</span></p>

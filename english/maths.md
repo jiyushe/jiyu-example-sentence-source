@@ -1,5 +1,7 @@
 # maths
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maths.md)
+
 <p><span class="chinese">她是我们的数学教师。</span><span class="english">She's our maths teacher.</span></p>
 
 <p><span class="chinese">他的数学比我学得好。</span><span class="english">He surpassed me in maths.</span></p>

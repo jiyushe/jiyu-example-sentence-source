@@ -1,5 +1,7 @@
 # 首倡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouchang_1.md)
+
 <p><span class="chinese">由被压迫阶级首倡的人权，永远是全人类的珍宝。</span><span class="english">Initiated by the oppressed class of human rights will always be the treasures of all mankind.</span></p>
 
 <p><span class="chinese">因之，首倡应由立法时代过渡到严肃执法时代。</span><span class="english">So we urge that the lawmaking era should be transmitted to a new era of serious enforcement of law.</span></p>

@@ -1,5 +1,7 @@
 # forbid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbid.md)
+
 <p><span class="chinese">①，他禁止吸烟。</span><span class="english">He forbid smoking.</span></p>
 
 <p><span class="chinese">表示“禁止某人做某事”。</span><span class="english">forbid sb.to do sth.</span></p>

@@ -1,5 +1,7 @@
 # 砖头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuantou.md)
+
 <p><span class="chinese">这是一座砖头房。</span><span class="english">This is a brick house.</span></p>
 
 <p><span class="chinese">然后就会像砖头一样沉下去。</span><span class="english">Then I swim down like a brick.</span></p>

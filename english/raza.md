@@ -1,5 +1,7 @@
 # raza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raza.md)
+
 <p><span class="chinese">帕特里夏福克斯是研究在国民议会的La拉扎副主任。</span><span class="english">Patricia Foxen is the associate director of research at the National Council of La Raza.</span></p>
 
 <p><span class="chinese">五月，首相优素福·拉扎·吉拉尼称中国是巴"最好的朋友"。</span><span class="english">In May, Prime Minister Yousuf Raza Gilani described China as his country's "best friend".</span></p>

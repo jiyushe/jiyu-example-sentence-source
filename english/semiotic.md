@@ -1,5 +1,7 @@
 # semiotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiotic.md)
+
 <p><span class="chinese">把人本主义，心理学，符号学和设计糅合到一起，我们得到的是“交互设计”。</span><span class="english">Put together, humanism, psychology, semiotic and design.</span></p>
 
 <p><span class="chinese">红灯在这样的语境里，就有了它的意义。</span><span class="english">The red light is intelligible, in other words, within that semiotic system.</span></p>

@@ -1,5 +1,7 @@
 # 工业国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyeguo.md)
+
 <p><span class="chinese">我选择了几个，我认为人的好味道，而且七大工业国评价。</span><span class="english">I chose a few that I thought were in good taste and are G-Rated.</span></p>
 
 <p><span class="chinese">毛希望他的国家通过“大跃进”一步跨进工业国的行列，不惜任何代价。</span><span class="english">Mao wanted his society to “leap forward” into the ranks of industrialized nations, at any cost.</span></p>

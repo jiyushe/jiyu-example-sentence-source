@@ -1,5 +1,7 @@
 # booklet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booklet.md)
+
 <p><span class="chinese">这地图可折成小册子。</span><span class="english">The map folds up into a booklet.</span></p>
 
 <p><span class="chinese">使用测试手册当作草稿纸。</span><span class="english">Use your test booklet for scratch paper.</span></p>

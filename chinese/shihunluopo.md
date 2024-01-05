@@ -1,5 +1,7 @@
 # 失魂落魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihunluopo.md)
+
 <p><span class="chinese">你看起来有点失魂落魄的。</span><span class="english">You look a little freaked.</span></p>
 
 <p><span class="chinese">这么多的人，失魂落魄，承受着悲哀。</span><span class="english">So many, fearful, took with them their sorrow.</span></p>

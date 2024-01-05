@@ -1,5 +1,7 @@
 # 生性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxing.md)
+
 <p><span class="chinese">他生性十分随意</span><span class="english">He was very informal.</span></p>
 
 <p><span class="chinese">她生性爱好音乐。</span><span class="english">She has a bent for music.</span></p>

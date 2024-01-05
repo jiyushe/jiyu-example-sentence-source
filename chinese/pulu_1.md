@@ -1,5 +1,7 @@
 # 铺路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pulu_1.md)
+
 <p><span class="chinese">我们还侵占它们的栖息地，铺路盖房子。</span><span class="english">Or pave their habitats.</span></p>
 
 <p><span class="chinese">政府用混凝土铺路。</span><span class="english">The government concreted the road over.</span></p>

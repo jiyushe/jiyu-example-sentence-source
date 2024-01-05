@@ -1,5 +1,7 @@
 # agony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agony.md)
+
 <p><span class="chinese">他疼得直打滚。</span><span class="english">He writhed in agony.</span></p>
 
 <p><span class="chinese">母亲用吻来消除他的痛苦。</span><span class="english">Mother kissed his agony away.</span></p>

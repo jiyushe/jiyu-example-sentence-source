@@ -1,5 +1,7 @@
 # fervently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervently.md)
+
 <p><span class="chinese">无论如何，他们热切地希望这样。</span><span class="english">They fervently hoped so, at any rate.</span></p>
 
 <p><span class="chinese">他们的要求将遭到严词拒绝。</span><span class="english">Their claims will be fervently denied.</span></p>

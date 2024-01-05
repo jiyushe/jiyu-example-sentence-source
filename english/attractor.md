@@ -1,5 +1,7 @@
 # attractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attractor.md)
+
 <p><span class="chinese">他们一般是大全能蜉蝣吸引花纹。</span><span class="english">Is that they make great general all-purpose mayfly attractor patterns.</span></p>
 
 <p><span class="chinese">同时在这种等离子体混沌中还发现了低维奇怪吸引子。</span><span class="english">A low dimension strange attractor has been found for this kind of plasma chaos.</span></p>

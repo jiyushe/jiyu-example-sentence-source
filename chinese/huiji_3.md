@@ -1,5 +1,7 @@
 # 汇寄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiji_3.md)
+
 <p><span class="chinese">款子是通过银行汇寄的。</span><span class="english">Remittance was made through a bank.</span></p>
 
 <p><span class="chinese">我们能否将利润汇寄到国外？</span><span class="english">Can we remit our profit to foreign countries?</span></p>

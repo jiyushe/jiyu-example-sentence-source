@@ -1,5 +1,7 @@
 # lordly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lordly.md)
+
 <p><span class="chinese">那个家族拥有一座气派的大厦。</span><span class="english">The family owns a lordly mans ion.</span></p>
 
 <p><span class="chinese">增加了很难得到的堂皇的钢铁盾牌。</span><span class="english">Added Lordly status very rare chance for Steel Shield.</span></p>

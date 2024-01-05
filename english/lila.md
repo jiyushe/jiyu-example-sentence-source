@@ -1,5 +1,7 @@
 # lila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lila.md)
+
 <p><span class="chinese">我是李娜。请找你妈妈听电话。</span><span class="english">This is Lila. Please call your mom.</span></p>
 
 <p><span class="chinese">莱拉在哪里买的那些名贵的衣服？</span><span class="english">Where did Lila buy those great clothes?</span></p>

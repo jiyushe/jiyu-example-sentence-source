@@ -1,5 +1,7 @@
 # hollywood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hollywood.md)
+
 <p><span class="chinese">好莱坞计分法。</span><span class="english">Hollywood Scoring.</span></p>
 
 <p><span class="chinese">我住在好莱坞。</span><span class="english">I live in Hollywood.</span></p>

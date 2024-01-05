@@ -1,5 +1,7 @@
 # lay 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lay.md)
+
 <p><span class="chinese">我平服自己激动的心情。</span><span class="english">I lay my excitement.</span></p>
 
 <p><span class="chinese">就躺在角落处的一张床上。</span><span class="english">In a far corner lay.</span></p>

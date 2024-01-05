@@ -1,5 +1,7 @@
 # duster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duster.md)
+
 <p><span class="chinese">去给我找把掸子来。</span><span class="english">Go and find a duster for me.</span></p>
 
 <p><span class="chinese">她用抹布把房间擦得干干净净。</span><span class="english">She went over the room with a duster.</span></p>

@@ -1,5 +1,7 @@
 # putt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putt.md)
+
 <p><span class="chinese">穿上你的外套。</span><span class="english">Putt on your coat.</span></p>
 
 <p><span class="chinese">把你的手放在书桌下。</span><span class="english">Putt your hand under your desk.</span></p>

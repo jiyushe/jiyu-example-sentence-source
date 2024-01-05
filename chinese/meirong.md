@@ -1,5 +1,7 @@
 # 美容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meirong.md)
+
 <p><span class="chinese">性爱是一种美容美体。</span><span class="english">Sex is a beauty treatment.</span></p>
 
 <p><span class="chinese">你有美容养生之道吗？</span><span class="english">Do you have a beauty regimen?</span></p>

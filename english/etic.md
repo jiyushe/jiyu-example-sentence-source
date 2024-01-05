@@ -1,5 +1,7 @@
 # etic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etic.md)
+
 <p><span class="chinese">主客位研究视野中的彝族世界。</span><span class="english">The Yi world in the field of vision of emic and etic research.</span></p>
 
 <p><span class="chinese">着位法和语言法可能是怎样在家庭研究的进程中反映出来的呢？</span><span class="english">How might the emic and etic approaches be reflected in the study of family processes?</span></p>

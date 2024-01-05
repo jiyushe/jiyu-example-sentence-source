@@ -1,5 +1,7 @@
 # holiday 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holiday.md)
+
 <p><span class="chinese">假日饭食。</span><span class="english">Holiday meals.</span></p>
 
 <p><span class="chinese">它是一个假日。</span><span class="english">It is a holiday.</span></p>

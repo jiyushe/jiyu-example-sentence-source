@@ -1,5 +1,7 @@
 # alden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alden.md)
+
 <p><span class="chinese">艾咪在沼泽地里发现一窝野雁的蛋。</span><span class="english">Amy Alden finds a nest of Goose's eggs.</span></p>
 
 <p><span class="chinese">奥尔登和莫林斯于1630年乘"五月花"号到达北美大陆。</span><span class="english">Alden and Mullins arrived on the Mayflower in 1630.</span></p>

@@ -1,5 +1,7 @@
 # compulsory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compulsory.md)
+
 <p><span class="chinese">引航是非强制的。</span><span class="english">Pilotage is not compulsory.</span></p>
 
 <p><span class="chinese">这项汽车保险是强制性的。</span><span class="english">The car insurance is compulsory.</span></p>

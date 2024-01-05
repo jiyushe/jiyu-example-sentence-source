@@ -1,5 +1,7 @@
 # 辩护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhu.md)
+
 <p><span class="chinese">她则为她们辩护。</span><span class="english">She defended them.</span></p>
 
 <p><span class="chinese">竭力为它们辩护。</span><span class="english">Fight to defend them.</span></p>

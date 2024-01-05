@@ -1,5 +1,7 @@
 # tracery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracery.md)
+
 <p><span class="chinese">喜欢的窗饰是哪种？</span><span class="english">Which kinds is favorite tracery?</span></p>
 
 <p><span class="chinese">我们住的这座楼有21层，有着或红，黄色花纹的外墙。</span><span class="english">The house we live in has 21 stories with red and yellow tracery outer wall.</span></p>

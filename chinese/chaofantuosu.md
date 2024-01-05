@@ -1,5 +1,7 @@
 # 超凡脱俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaofantuosu.md)
+
 <p><span class="chinese">阿斯塔纳干净整洁，秩序井然，超凡脱俗。</span><span class="english">Astana is clean, orderly and seemingly sedated.</span></p>
 
 <p><span class="chinese">把握今天！让你的生命超凡脱俗！</span><span class="english">Carpe Diem! Seize the day! Make your lives extraordinary!</span></p>

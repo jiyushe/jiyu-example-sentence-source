@@ -1,5 +1,7 @@
 # 压路机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaluji.md)
+
 <p><span class="chinese">那台压路机把松软的土碾平了。</span><span class="english">The road roller crushed the soft dirt.</span></p>
 
 <p><span class="chinese">蒸汽压路机用来修筑道路。</span><span class="english">A steam roller is used in making and repairing roads.</span></p>

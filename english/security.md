@@ -1,5 +1,7 @@
 # security
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/security.md)
+
 <p><span class="chinese">不再有国内安全保护。</span><span class="english">No more homeland security.</span></p>
 
 <p><span class="chinese">安全和质量风险。</span><span class="english">Security and quality risks.</span></p>

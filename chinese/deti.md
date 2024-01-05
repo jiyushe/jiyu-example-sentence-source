@@ -1,5 +1,7 @@
 # 得体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deti.md)
+
 <p><span class="chinese">所有的人都穿着得体的衣服。</span><span class="english">All of them wore in nice garments.</span></p>
 
 <p><span class="chinese">是我心衣饰的得体仪容。</span><span class="english">Is but the seemly raiment of my heart.</span></p>

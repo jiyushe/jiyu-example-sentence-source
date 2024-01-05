@@ -1,5 +1,7 @@
 # 头筹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touchou.md)
+
 <p><span class="chinese">比赛开始的时候形势大好，斯皮德以一记精彩的进球拔得头筹。</span><span class="english">It all started so promisingly when Speed scored a tremendous first goal.</span></p>
 
 <p><span class="chinese">最有意思的是，曾拔得百大性感男人头筹的好莱坞巨星布拉德·皮特也不幸入围了这一“最不性感男人榜”。</span><span class="english">Even actor Brad Pitt made the list, as the newspaper's 100th-least sexy man.</span></p>

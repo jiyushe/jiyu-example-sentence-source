@@ -1,5 +1,7 @@
 # 私生子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishengzi.md)
+
 <p><span class="chinese">那个小男孩是个私生子。</span><span class="english">The little boy is a lovechild.</span></p>
 
 <p><span class="chinese">它就会是命运的无父的私生子。</span><span class="english">It might for Fortunes bastard be unfathered.</span></p>

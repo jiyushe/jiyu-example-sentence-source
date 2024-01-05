@@ -1,5 +1,7 @@
 # porter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porter.md)
+
 <p><span class="chinese">科尔·波特</span><span class="english">Cole Porter.</span></p>
 
 <p><span class="chinese">我需要找一个挑夫。</span><span class="english">I need a porter.</span></p>

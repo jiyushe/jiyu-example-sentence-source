@@ -1,5 +1,7 @@
 # 顶呱呱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingguagua.md)
+
 <p><span class="chinese">他工作是顶呱呱的。</span><span class="english">He was good at his job.</span></p>
 
 <p><span class="chinese">嘿！那是一部顶呱呱的车。</span><span class="english">Hey, that's a funky car.</span></p>

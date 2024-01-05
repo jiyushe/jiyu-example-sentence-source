@@ -1,5 +1,7 @@
 # chiaroscuro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiaroscuro.md)
+
 <p><span class="chinese">卡拉瓦乔以其对明暗对照法的巧妙运用而出名。</span><span class="english">Caravaggio is famous for his use of chiaroscuro.</span></p>
 
 <p><span class="chinese">是可塑性还是明暗处理?。</span><span class="english">Was it the plasticity or was it the chiaroscuro?</span></p>

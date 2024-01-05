@@ -1,5 +1,7 @@
 # 哨兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaobing.md)
+
 <p><span class="chinese">已经给这位哨兵布置哨位了吗?。</span><span class="english">Has the guard been posted?</span></p>
 
 <p><span class="chinese">他记起了哨兵同盟。</span><span class="english">He remembered the Sentinels.</span></p>

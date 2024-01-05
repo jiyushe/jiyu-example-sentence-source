@@ -1,5 +1,7 @@
 # 匆匆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcong_1.md)
+
 <p><span class="chinese">别来去匆匆。</span><span class="english">Don't be in a hurry.</span></p>
 
 <p><span class="chinese">她匆匆吃了午餐。</span><span class="english">She made a hasty lunch.</span></p>

@@ -1,5 +1,7 @@
 # deactivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deactivate.md)
+
 <p><span class="chinese">停用事件监视器。</span><span class="english">Deactivate the event monitor.</span></p>
 
 <p><span class="chinese">关闭日志功能最好的方法是什么？</span><span class="english">What is the best way to deactivate logging?</span></p>

@@ -1,5 +1,7 @@
 # 炒鱿鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaoyouyu.md)
+
 <p><span class="chinese">我听说戴维被炒鱿鱼了。</span><span class="english">Hi, Maggy, Did you hear about David?</span></p>
 
 <p><span class="chinese">我昨天真是祸不单行。老板把我炒鱿鱼，我太太又吵着要离婚。</span><span class="english">My boss fired me and my wife asked for a divorce.</span></p>

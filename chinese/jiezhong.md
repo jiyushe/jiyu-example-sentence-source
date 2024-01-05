@@ -1,5 +1,7 @@
 # 接踵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhong.md)
+
 <p><span class="chinese">四月过去，五月接踵来到。</span><span class="english">And after April, when May follows.</span></p>
 
 <p><span class="chinese">大风里，我的青春希望接踵熄灭。</span><span class="english">But the hopes of youth fall thick in the blast.</span></p>

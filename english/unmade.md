@@ -1,5 +1,7 @@
 # unmade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmade.md)
+
 <p><span class="chinese">他坐在凌乱的床上，盯着房间里的迷你吧台。</span><span class="english">He sat down on his unmade bed and looked at the mini bar.</span></p>
 
 <p><span class="chinese">进了卧室，她坐在未整理的床铺上，喝着酒。</span><span class="english">In the bedroom she sat on the unmade bed and sipped the drink.</span></p>

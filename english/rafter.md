@@ -1,5 +1,7 @@
 # rafter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rafter.md)
+
 <p><span class="chinese">木头梁或椽子语源。</span><span class="english">A wooden beam or rafter.</span></p>
 
 <p><span class="chinese">只是依然安静的看着上上下下的人。</span><span class="english">But still quiet at the rafter.</span></p>

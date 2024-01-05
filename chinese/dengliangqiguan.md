@@ -1,5 +1,7 @@
 # 等量齐观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengliangqiguan.md)
+
 <p><span class="chinese">这两部小说差得太远了，怎么能等量齐观呢？</span><span class="english">How can you equate one with the other?</span></p>
 
 <p><span class="chinese">幸福和财富不能等量齐观。</span><span class="english">One can not identify happiness with wealth.</span></p>

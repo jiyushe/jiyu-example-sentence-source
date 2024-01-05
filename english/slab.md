@@ -1,5 +1,7 @@
 # slab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slab.md)
+
 <p><span class="chinese">德国国会大厦的墙壁板。</span><span class="english">The slab of Reichstag wall.</span></p>
 
 <p><span class="chinese">要仔细铺好每一块石板。</span><span class="english">Carefully lay each slab in place.</span></p>

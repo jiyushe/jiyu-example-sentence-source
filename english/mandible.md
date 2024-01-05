@@ -1,5 +1,7 @@
 # mandible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandible.md)
+
 <p><span class="chinese">一种系在颚下的帽子。</span><span class="english">Having a mandible or mandibles.</span></p>
 
 <p><span class="chinese">影响前牙由于小下颌。</span><span class="english">Impacted anterior teeth due to a small mandible.</span></p>

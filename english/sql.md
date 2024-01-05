@@ -1,5 +1,7 @@
 # sql
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sql.md)
+
 <p><span class="chinese">支持所有常用的SQL数据类型。</span><span class="english">Support for all common SQL data-types.</span></p>
 
 <p><span class="chinese">运行安装程序，上面有删除选项。</span><span class="english">Run setup. exe and select remove SQL Server.</span></p>

@@ -1,5 +1,7 @@
 # metallocene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallocene.md)
+
 <p><span class="chinese">茂金属催化剂是用在生产这种材料。</span><span class="english">A metallocene catalyst was used in the production of this material.</span></p>
 
 <p><span class="chinese">针对茂金属催化剂负载化过程中所产生的废溶剂开展了相关的回收工艺研究。</span><span class="english">The recovery and reuse of waste solvent from the loading process of metallocene catalyst were studied.</span></p>

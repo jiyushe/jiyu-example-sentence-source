@@ -1,5 +1,7 @@
 # 告终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaozhong.md)
+
 <p><span class="chinese">我那段十年的婚姻以离婚告终。</span><span class="english">My 10-year marriage ended in divorce.</span></p>
 
 <p><span class="chinese">全剧以哈姆雷特被谋杀然而告终。</span><span class="english">The play ends up with Hamlet's murder.</span></p>

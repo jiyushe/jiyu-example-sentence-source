@@ -1,5 +1,7 @@
 # yaws
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yaws.md)
+
 <p><span class="chinese">能否根除雅司病？</span><span class="english">Can yaws be eradicated?</span></p>
 
 <p><span class="chinese">每年都会出现新的雅司病病例。</span><span class="english">New cases of yaws appear every year.</span></p>

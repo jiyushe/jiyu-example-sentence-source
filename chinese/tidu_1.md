@@ -1,5 +1,7 @@
 # 提督
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tidu_1.md)
+
 <p><span class="chinese">这船由提督指挥。</span><span class="english">The ship is commanded by the general.</span></p>
 
 <p><span class="chinese">将军和提督能左右着一支军队。</span><span class="english">Generals and Admirals can make or break a military.</span></p>

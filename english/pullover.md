@@ -1,5 +1,7 @@
 # pullover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pullover.md)
+
 <p><span class="chinese">这件羊毛套衫你穿很合身。</span><span class="english">This pullover fits you well.</span></p>
 
 <p><span class="chinese">我妈给我织了一件套头的毛衣。</span><span class="english">My mother knitted me a pullover.</span></p>

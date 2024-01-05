@@ -1,5 +1,7 @@
 # 悬铃木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanlingmu.md)
+
 <p><span class="chinese">睢宁公园的悬铃木，她们见证了很多爱情故事。</span><span class="english">Sunning Park's London Planetrees. They Witness many love story.</span></p>
 
 <p><span class="chinese">一条老狗的吠声传来，狗拴在那棵悬铃木上。</span><span class="english">She heard the barking of an old dog that was chained to the sycamore tree.</span></p>

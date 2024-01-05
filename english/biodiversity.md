@@ -1,5 +1,7 @@
 # biodiversity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biodiversity.md)
+
 <p><span class="chinese">这个区域还是生物多样性的宝库。</span><span class="english">And the region remains a trove of biodiversity.</span></p>
 
 <p><span class="chinese">探讨了各群丛的物种多样性特征。</span><span class="english">The biodiversity character of each type was analysed.</span></p>

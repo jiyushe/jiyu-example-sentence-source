@@ -1,5 +1,7 @@
 # cadastre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadastre.md)
+
 <p><span class="chinese">另外，还设计了地籍实体的属性信息。</span><span class="english">In addition, the attribute information of Cadastre entity would be also designed.</span></p>
 
 <p><span class="chinese">作者着重阐述了RTK技术的基本原理和在地籍图根控制测量中的应用。</span><span class="english">The paper deals with RTKs basic principle and its application to cadastre surveying.</span></p>

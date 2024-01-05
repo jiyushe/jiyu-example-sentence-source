@@ -1,5 +1,7 @@
 # 送风机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songfengji.md)
+
 <p><span class="chinese">一般通风设备、空调箱、送风机等。</span><span class="english">General Ventilators, Mark-up air systems, Fan coil unit etc.</span></p>
 
 <p><span class="chinese">我已起动了第一台送风机，下一步我们该干什么呢？</span><span class="english">I have started the first forced draft fan. What shall we do next?</span></p>

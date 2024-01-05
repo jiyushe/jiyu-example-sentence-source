@@ -1,5 +1,7 @@
 # needlepoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/needlepoint.md)
+
 <p><span class="chinese">它也常用于绒绣。</span><span class="english">It is also often used in needlepoint.</span></p>
 
 <p><span class="chinese">椅子上针织靠垫是我的外祖母Gagi做的。</span><span class="english">The needlepoint pillow on it was done by my grandmother, Gagi.</span></p>

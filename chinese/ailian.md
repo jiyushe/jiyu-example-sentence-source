@@ -1,5 +1,7 @@
 # 哀怜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ailian.md)
+
 <p><span class="chinese">我得到了很多哀怜。</span><span class="english">I got a lot of pity.</span></p>
 
 <p><span class="chinese">这是你的哀怜派对。</span><span class="english">It's your pity party.</span></p>

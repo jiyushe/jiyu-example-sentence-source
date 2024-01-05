@@ -1,5 +1,7 @@
 # 解职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhi_5.md)
+
 <p><span class="chinese">最后终于以杜孙二人双双解职了事。</span><span class="english">In the end, both were relieved.</span></p>
 
 <p><span class="chinese">他因不诚实而被解职。</span><span class="english">He was discharged for dishonesty.</span></p>

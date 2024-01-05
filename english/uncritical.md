@@ -1,5 +1,7 @@
 # uncritical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncritical.md)
+
 <p><span class="chinese">这是一篇不加批评的文章。</span><span class="english">This is an uncritical article.</span></p>
 
 <p><span class="chinese">弗兰克·科莫德爵士饱含深情，却不乏批评。</span><span class="english">Sir Frank is affectionate, but not uncritical.</span></p>

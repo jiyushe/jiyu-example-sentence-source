@@ -1,5 +1,7 @@
 # diabolical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diabolical.md)
+
 <p><span class="chinese">他这一手是一个居心叵测的大阴谋。</span><span class="english">This maneuver of his is a diabolical conspiracy.</span></p>
 
 <p><span class="chinese">他这一手是一个居心叵测的大阴谋。</span><span class="english">This manoeuvre of his is a diabolical conspiracy.</span></p>

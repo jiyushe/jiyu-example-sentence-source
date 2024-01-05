@@ -1,5 +1,7 @@
 # 勤务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinwu.md)
+
 <p><span class="chinese">军队的后方勤务工作，须重新调整。</span><span class="english">The army's rear services should be readjusted.</span></p>
 
 <p><span class="chinese">值护航警卫勤务之士兵拥有被保护地位。</span><span class="english">Soldiers on duty as safeguards occupy a protected status.</span></p>

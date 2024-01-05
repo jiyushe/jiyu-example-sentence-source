@@ -1,5 +1,7 @@
 # pater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pater.md)
+
 <p><span class="chinese">彼得是个严格的人。</span><span class="english">Pater is a strict person.</span></p>
 
 <p><span class="chinese">他签发给我文档写的是1975年的日期。</span><span class="english">The pater he hors me get a 1975 date.</span></p>

@@ -1,5 +1,7 @@
 # 轮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzi.md)
+
 <p><span class="chinese">轮子安正了吗?。</span><span class="english">Is the wheel true ?</span></p>
 
 <p><span class="chinese">手提箱上的轮子。</span><span class="english">Wheels on suitcases.</span></p>

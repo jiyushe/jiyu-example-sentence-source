@@ -1,5 +1,7 @@
 # brewing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brewing.md)
+
 <p><span class="chinese">一场灾祸正在酿成。</span><span class="english">A catastrophe is brewing.</span></p>
 
 <p><span class="chinese">你们在策划什么阴谋?</span><span class="english">What plot are you brewing?</span></p>

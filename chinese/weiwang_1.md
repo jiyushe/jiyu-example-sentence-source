@@ -1,5 +1,7 @@
 # 围网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwang_1.md)
+
 <p><span class="chinese">剂，或与电力围网或障碍。</span><span class="english">Repellents, or with electrical seines or barriers.</span></p>
 
 <p><span class="chinese">作为一个小公司，Ecolofish拥有五艘“钱袋”围网拖船。</span><span class="english">A small company, Ecolofish owns five purse seiners.</span></p>

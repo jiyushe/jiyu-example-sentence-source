@@ -1,5 +1,7 @@
 # spellbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spellbound.md)
+
 <p><span class="chinese">心情茫然的时候是最冷静的吗？</span><span class="english">Be the soberest when is the mood spellbound ?</span></p>
 
 <p><span class="chinese">所有在场的人都似乎被这乐曲迷住了。</span><span class="english">All present seemed to be spellbound by the melody.</span></p>

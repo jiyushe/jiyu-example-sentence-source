@@ -1,5 +1,7 @@
 # randomization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randomization.md)
+
 <p><span class="chinese">正因为这样，随机地址空间已经成为流行的内存地址管理方式。</span><span class="english">Thus address space randomization has become popular.</span></p>
 
 <p><span class="chinese">方法在一项双盲临床研究中，225例成年病人被随机分组。</span><span class="english">METHODS In a double-blind trial, 225 adults underwent randomization.</span></p>

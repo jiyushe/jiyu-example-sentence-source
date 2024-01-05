@@ -1,5 +1,7 @@
 # slept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slept.md)
+
 <p><span class="chinese">我睡得很沉。</span><span class="english">I slept badly.</span></p>
 
 <p><span class="chinese">婴儿睡着觉。</span><span class="english">The baby slept.</span></p>

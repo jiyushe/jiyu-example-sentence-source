@@ -1,5 +1,7 @@
 # 家常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiachang.md)
+
 <p><span class="chinese">今晚是最后期限了，或许还能和你们说说家常。</span><span class="english">Tonight is thelast night at home.</span></p>
 
 <p><span class="chinese">不要在家常琐事上浪费时间。</span><span class="english">Don't waste time on domestic trivialities.</span></p>

@@ -1,5 +1,7 @@
 # 阵法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenfa_1.md)
+
 <p><span class="chinese">采用动态刚度阵法计算船体总振动的固有频率。</span><span class="english">Dynamic Stiffness Matrix Method is applied to compute vibration of ship hull.</span></p>
 
 <p><span class="chinese">中国古代的军队在兵锋初利的殷代就开始使用阵法。</span><span class="english">China ancient army begins to use the tactical deployment of troops in Yin dynasty.</span></p>

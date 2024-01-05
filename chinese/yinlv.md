@@ -1,5 +1,7 @@
 # 音律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinlv.md)
+
 <p><span class="chinese">尽管我略懂一点点音律</span><span class="english">Though I know a little about music</span></p>
 
 <p><span class="chinese">再让我们看看这首诗的音律。</span><span class="english">Let me go back to the sound of this work.</span></p>

@@ -1,5 +1,7 @@
 # 雾霭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuai_2.md)
+
 <p><span class="chinese">一切都笼罩在雾霭中。</span><span class="english">At evening the lake hazed over.</span></p>
 
 <p><span class="chinese">五月雾霭绕窗梁。</span><span class="english">May mists, for the casements, fetch.</span></p>

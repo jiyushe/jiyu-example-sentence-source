@@ -1,5 +1,7 @@
 # bridegroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridegroom.md)
+
 <p><span class="chinese">这辆车里没有新郎。</span><span class="english">There's no bridegroom in that trap.</span></p>
 
 <p><span class="chinese">新郎和新娘一起从婚纱影楼出发。</span><span class="english">Bride and bridegroom start from Mohandseen.</span></p>

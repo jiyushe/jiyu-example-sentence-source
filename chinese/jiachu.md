@@ -1,5 +1,7 @@
 # 家畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiachu.md)
+
 <p><span class="chinese">马，狗，猫，牛及猪都是家畜。</span><span class="english">The cat' strayed from home.</span></p>
 
 <p><span class="chinese">必须除掉家畜身上的虱子。</span><span class="english">The livestocks must be deticked.</span></p>

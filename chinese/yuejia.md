@@ -1,5 +1,7 @@
 # 越加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuejia.md)
+
 <p><span class="chinese">我倒越加急于想进去看看这个房间。</span><span class="english">I was all the more eager to see the room.</span></p>
 
 <p><span class="chinese">水的温度越高，咖啡的香味就越加醇厚！</span><span class="english">The hotter the water, the better the taste.</span></p>

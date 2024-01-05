@@ -1,5 +1,7 @@
 # cryostat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryostat.md)
+
 <p><span class="chinese">当测量完成时，从低温恒温器中取出样品。</span><span class="english">The sample can be removed from the cryostat when the measurements are complete.</span></p>
 
 <p><span class="chinese">对低温保持器的外形结构、机械减震系统进行了详细的描述。</span><span class="english">The configuration of flow cryostat and its mechanical damping system were described.</span></p>

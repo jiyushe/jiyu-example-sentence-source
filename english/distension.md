@@ -1,5 +1,7 @@
 # distension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distension.md)
+
 <p><span class="chinese">我仍然感觉腹部胀痛。</span><span class="english">I still feel abdominal distension and pain.</span></p>
 
 <p><span class="chinese">就象你说的那样——胀麻。</span><span class="english">It's exactly what you said- distension and numbness.</span></p>

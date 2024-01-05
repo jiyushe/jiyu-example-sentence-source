@@ -1,5 +1,7 @@
 # 分封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfeng.md)
+
 <p><span class="chinese">那时分封的王希律，听见耶稣的名声</span><span class="english">At that time Herod the tetrarch heard of the fame of Jesus</span></p>
 
 <p><span class="chinese">那时分封的王希律，听见耶稣的名声</span><span class="english">At that time Herod the tetrarch heard the reports about Jesus</span></p>

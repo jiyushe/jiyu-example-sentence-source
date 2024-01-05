@@ -1,5 +1,7 @@
 # 正品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengpin_1.md)
+
 <p><span class="chinese">但是你找不到任何正品的。</span><span class="english">But you can't find any originals.</span></p>
 
 <p><span class="chinese">这种伏特加酒是正品。</span><span class="english">The vodka was the genuine article.</span></p>

@@ -1,5 +1,7 @@
 # 固执
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhi.md)
+
 <p><span class="chinese">我们都挺固执的。</span><span class="english">We are both stubborn.</span></p>
 
 <p><span class="chinese">我的朋友很固执。</span><span class="english">My friend is stubborn.</span></p>

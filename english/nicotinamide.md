@@ -1,5 +1,7 @@
 # nicotinamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicotinamide.md)
+
 <p><span class="chinese">他用烟酰胺使动物镇静。</span><span class="english">He used nicotinamide to tranquilize the animal.</span></p>
 
 <p><span class="chinese">提出了烟酰胺电化学反应的机理。</span><span class="english">The PPy film can catalyze the reduction reaction of nicotinamide.</span></p>

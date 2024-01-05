@@ -1,5 +1,7 @@
 # reserves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reserves.md)
+
 <p><span class="chinese">这些托管机构都有保护区。</span><span class="english">All of them have reserves.</span></p>
 
 <p><span class="chinese">于是，我参加了军事预备队。</span><span class="english">So I enlisted in the Reserves.</span></p>

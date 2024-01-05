@@ -1,5 +1,7 @@
 # tamponade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamponade.md)
+
 <p><span class="chinese">全组无纵隔感染及急性心包填塞并发症。</span><span class="english">No complications of mediastinal infection or acute pericardial tamponade were found.</span></p>
 
 <p><span class="chinese">心包穿刺引流是解除心包填塞简单、安全、有效的方法。</span><span class="english">Pericardiocentesis is a simple, safe and effective therapy for acute cardiac tamponade.</span></p>

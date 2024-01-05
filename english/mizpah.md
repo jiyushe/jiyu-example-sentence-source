@@ -1,5 +1,7 @@
 # mizpah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mizpah.md)
+
 <p><span class="chinese">撒母耳在米斯巴制伏非利士人</span><span class="english">Samuel Subdues the Philistines at Mizpah</span></p>
 
 <p><span class="chinese">耶弗他在米斯巴将自己的一切话陈明在耶和华面前。</span><span class="english">And he repeated all his words before the LORD in Mizpah.</span></p>

@@ -1,5 +1,7 @@
 # tippy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tippy.md)
+
 <p><span class="chinese">为什么蒂皮非得死？</span><span class="english">Why did Tippy have to die?</span></p>
 
 <p><span class="chinese">我走在我的周围毛尖脚趾。</span><span class="english">I walk around on my tippy toes.</span></p>

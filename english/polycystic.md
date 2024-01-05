@@ -1,5 +1,7 @@
 # polycystic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polycystic.md)
+
 <p><span class="chinese">先天性多囊肾是一种先天性的疾病。</span><span class="english">Congenital polycystic kidney disease is a congenital disease.</span></p>
 
 <p><span class="chinese">目的探讨多囊肾的CT诊断价值。</span><span class="english">Objective Evaluation of CT in the diagnosis of polycystic kidney.</span></p>

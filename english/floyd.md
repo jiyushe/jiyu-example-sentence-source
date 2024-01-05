@@ -1,5 +1,7 @@
 # floyd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floyd.md)
+
 <p><span class="chinese">库托和小梅区别太大了。</span><span class="english">Both Cotto and Floyd are far too different.</span></p>
 
 <p><span class="chinese">史蒂夫曾为雷·佛罗伊德和格雷德·诺曼做球童。</span><span class="english">Steve has caddied for Ray Floyd and Greg Norman.</span></p>

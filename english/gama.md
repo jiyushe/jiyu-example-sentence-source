@@ -1,5 +1,7 @@
 # gama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gama.md)
+
 <p><span class="chinese">据报道利物浦一月份希望引进达伽马的新星尼尔顿。</span><span class="english">Liverpool are poised for a January move for Vasco da Gama starlet Nilton.</span></p>
 
 <p><span class="chinese">达伽马和哥伦布扩大了人们认识的世界，哥白尼则扩大了宇宙的范畴。</span><span class="english">Vasco da Gama and Columbus enlarged the world, and Copernicus enlarged the heavens.</span></p>

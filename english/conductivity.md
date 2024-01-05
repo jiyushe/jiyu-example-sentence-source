@@ -1,5 +1,7 @@
 # conductivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conductivity.md)
+
 <p><span class="chinese">热传导真空计。</span><span class="english">Thermal Conductivity Vacuum Gauge.</span></p>
 
 <p><span class="chinese">此导电的电离气体就是等离子气体。</span><span class="english">This conductivity is ionized gas plasma gas.</span></p>

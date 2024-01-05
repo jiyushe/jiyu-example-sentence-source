@@ -1,5 +1,7 @@
 # inflict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflict.md)
+
 <p><span class="chinese">请不要把你的思想强加给我。</span><span class="english">Don't inflict your ideas on me.</span></p>
 
 <p><span class="chinese">不要伤害任何人。</span><span class="english">Don't inflict damage on any person.</span></p>

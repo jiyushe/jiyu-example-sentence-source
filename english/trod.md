@@ -1,5 +1,7 @@
 # trod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trod.md)
+
 <p><span class="chinese">他踩到我的脚趾了。</span><span class="english">He trod on my toes.</span></p>
 
 <p><span class="chinese">这个农奴被蹂躏致死。</span><span class="english">The serf was trod to death.</span></p>

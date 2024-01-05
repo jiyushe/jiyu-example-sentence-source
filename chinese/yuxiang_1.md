@@ -1,5 +1,7 @@
 # 预想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxiang_1.md)
+
 <p><span class="chinese">他没有预想到这点。</span><span class="english">He’d not expected that.</span></p>
 
 <p><span class="chinese">您预想的变更类型是什么？</span><span class="english">What types of changes are you envisioning?</span></p>

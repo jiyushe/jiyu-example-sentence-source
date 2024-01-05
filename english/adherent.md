@@ -1,5 +1,7 @@
 # adherent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adherent.md)
+
 <p><span class="chinese">伊斯兰教的信徒或追随者。</span><span class="english">A believer in or adherent of Islam.</span></p>
 
 <p><span class="chinese">还有那个“遗老”指的究竟是谁？</span><span class="english">Besides, who on earth is the old adherent?</span></p>

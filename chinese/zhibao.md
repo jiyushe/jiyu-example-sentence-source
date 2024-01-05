@@ -1,5 +1,7 @@
 # 植保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibao.md)
+
 <p><span class="chinese">用头盖骨做盆莳植保守微型盆景。</span><span class="english">Use human skull as a pot to grow a traditional mini-bonsai.</span></p>
 
 <p><span class="chinese">农户是植保经济系统的一个组成部分。</span><span class="english">The farmer is one of the components in the plant protection economic system.</span></p>

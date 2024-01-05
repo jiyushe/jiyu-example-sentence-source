@@ -1,5 +1,7 @@
 # 新星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxing_4.md)
+
 <p><span class="chinese">这是一颗新星！</span><span class="english">It was a nova!</span></p>
 
 <p><span class="chinese">凤岗有没有小新星。</span><span class="english">Fenggang has no new star.</span></p>

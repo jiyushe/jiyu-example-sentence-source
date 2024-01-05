@@ -1,5 +1,7 @@
 # hanoverian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanoverian.md)
+
 <p><span class="chinese">那时，几营汉诺威军队向后折回了。</span><span class="english">Nevertheless, some Hanoverian battalions yielded.</span></p>
 
 <p><span class="chinese">德国汉诺威保留GRASSHOPPER欧洲分销中心的地位。</span><span class="english">Hanoverian maintains its position of being the sales centre of GRASSHOPPER.</span></p>

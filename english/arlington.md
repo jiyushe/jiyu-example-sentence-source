@@ -1,5 +1,7 @@
 # arlington
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arlington.md)
+
 <p><span class="chinese">阿灵顿和其它站点土壤用自由的防御者被填装。</span><span class="english">The soil of Arlington and other sites is filled with liberty's defenders.</span></p>
 
 <p><span class="chinese">早上在阿林顿国家公墓发现了一具腐烂的尸体。</span><span class="english">A decomposed corpse was found this morning at Arlington National Cemetery.</span></p>

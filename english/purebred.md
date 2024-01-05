@@ -1,5 +1,7 @@
 # purebred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purebred.md)
+
 <p><span class="chinese">哪里卖纯种松狮啊？</span><span class="english">Where to sell purebred chow ah?</span></p>
 
 <p><span class="chinese">他们只知道马利是条纯种拉布拉多犬。</span><span class="english">All they knew was that this Lab was a purebred.</span></p>

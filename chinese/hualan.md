@@ -1,5 +1,7 @@
 # 花篮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hualan.md)
+
 <p><span class="chinese">他正在精编花篮，真是认真仔细啊。</span><span class="english">He is knitting a flower basket most carefully.</span></p>
 
 <p><span class="chinese">这个草编花篮十分精致。</span><span class="english">This reed-woven flower basket is very refined.</span></p>

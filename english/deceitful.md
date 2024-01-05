@@ -1,5 +1,7 @@
 # deceitful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceitful.md)
+
 <p><span class="chinese">他说的是骗人的鬼话。</span><span class="english">What he said is deceitful words.</span></p>
 
 <p><span class="chinese">没有人会赞赏狡狯的人。</span><span class="english">No one can admire a deceitful man.</span></p>

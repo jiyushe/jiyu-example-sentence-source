@@ -1,5 +1,7 @@
 # 尘埃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenai.md)
+
 <p><span class="chinese">那样它是的尘埃！</span><span class="english">So mote it be!</span></p>
 
 <p><span class="chinese">一场阵雨于尘埃不再飞扬。</span><span class="english">A shower has laid the dust.</span></p>

@@ -1,5 +1,7 @@
 # omicron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omicron.md)
+
 <p><span class="chinese">指挥“伊卡洛斯”号去奥米克戎区找到上将。</span><span class="english">Take the Icarus to the Omicron sector to find the Admiral.</span></p>
 
 <p><span class="chinese">一旦“伊卡洛斯”号修复，你就能返回奥米克戎区。</span><span class="english">Once the Icarus is repaired you can return to Omicron Sector.</span></p>

@@ -1,5 +1,7 @@
 # 动物园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongwuyuan.md)
+
 <p><span class="chinese">动物园在我们学校的东南面。</span><span class="english">The zoo is our school.</span></p>
 
 <p><span class="chinese">我乘这车去动物园对吗?。</span><span class="english">Am I right for the zoo?</span></p>

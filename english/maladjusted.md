@@ -1,5 +1,7 @@
 # maladjusted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maladjusted.md)
+
 <p><span class="chinese">这是当代儿童--心理学的不停啼哭，失调。</span><span class="english">It is the ringing cry of modern child psychology, maladjusted.</span></p>
 
 <p><span class="chinese">据传独生子女都很自私、孤独、适应能力差。</span><span class="english">The only child was rumored to be selfish, lonely and maladjusted.</span></p>

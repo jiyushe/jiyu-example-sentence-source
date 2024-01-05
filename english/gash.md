@@ -1,5 +1,7 @@
 # gash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gash.md)
+
 <p><span class="chinese">他是一位聪明忠诚的村夫。</span><span class="english">He was a gash an'faithful tyke.</span></p>
 
 <p><span class="chinese">寺庙有从的一个巨大的砍得恨深的伤口柴刀吹。</span><span class="english">The temple had a huge gash from a hatchet-blow.</span></p>

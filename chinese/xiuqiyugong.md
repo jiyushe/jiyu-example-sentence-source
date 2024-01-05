@@ -1,5 +1,7 @@
 # 休戚与共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqiyugong.md)
+
 <p><span class="chinese">爱是休戚与共。</span><span class="english">Love is sharing.</span></p>
 
 <p><span class="chinese">与一切有着人类面孔的事情休戚与共？</span><span class="english">Solidarity with everything that has a human face?</span></p>

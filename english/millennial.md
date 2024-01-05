@@ -1,5 +1,7 @@
 # millennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millennial.md)
+
 <p><span class="chinese">破坏「古典前千禧年派」的观点。</span><span class="english">Does undercut a classic pre- millennial outlook.</span></p>
 
 <p><span class="chinese">我室友的寓言正符合这世纪之交的气候。</span><span class="english">My roommate's fable fits this pre- millennial climate perfectly.</span></p>

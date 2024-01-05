@@ -1,5 +1,7 @@
 # intuitionistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuitionistic.md)
+
 <p><span class="chinese">采用复性高亮液晶屏，清晰、直观。</span><span class="english">Adopt plural liquid screen, with clear and intuitionistic seeing.</span></p>
 
 <p><span class="chinese">本文研究了一个群G上的直觉L模糊子群。</span><span class="english">In this paper, we study the intuitionistic L-fuzzy subgroups on a group G.</span></p>

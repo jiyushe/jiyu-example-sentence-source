@@ -1,5 +1,7 @@
 # hermaphrodite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermaphrodite.md)
+
 <p><span class="chinese">澄清关于两性体的谣言。</span><span class="english">Disprove that whole hermaphrodite rumor.</span></p>
 
 <p><span class="chinese">现在看来塞门亚女士确实是个双性人。</span><span class="english">It now appears that Ms Semenya is indeed a hermaphrodite.</span></p>

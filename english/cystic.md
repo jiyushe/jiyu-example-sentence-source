@@ -1,5 +1,7 @@
 # cystic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cystic.md)
+
 <p><span class="chinese">胆囊结石帮忙进来看看！</span><span class="english">Cystic stone helps come in look!</span></p>
 
 <p><span class="chinese">膀胱鳞癌可以治愈吗？</span><span class="english">Can be cystic scale cancer cured?</span></p>

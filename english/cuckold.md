@@ -1,5 +1,7 @@
 # cuckold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuckold.md)
+
 <p><span class="chinese">成为戴绿帽者的状况。</span><span class="english">To make a cuckold of.</span></p>
 
 <p><span class="chinese">一天，一只乌龟在散步。</span><span class="english">A day , one cuckold are taking a walk.</span></p>

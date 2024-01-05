@@ -1,5 +1,7 @@
 # explanatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explanatory.md)
+
 <p><span class="chinese">它们的名称本身就颇具解释性。</span><span class="english">Their names are fairly self explanatory.</span></p>
 
 <p><span class="chinese">让他们简单、直接，并具备解释性。</span><span class="english">Make them simple, direct, and explanatory.</span></p>

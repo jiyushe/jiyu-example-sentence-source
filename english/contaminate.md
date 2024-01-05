@@ -1,5 +1,7 @@
 # contaminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contaminate.md)
+
 <p><span class="chinese">灌溉水也会污染食物。</span><span class="english">Water can contaminate food during irrigation.</span></p>
 
 <p><span class="chinese">现在则要穿实验室服装,这样才不会污染加工过程。</span><span class="english">Now you wear lab coat so you don't contaminate toner processing.</span></p>

@@ -1,5 +1,7 @@
 # 定理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingli_2.md)
+
 <p><span class="chinese">定理是自由的吗？</span><span class="english">Are theorems freedom?</span></p>
 
 <p><span class="chinese">这就是动能定理。</span><span class="english">This is the work-energy theorem.</span></p>

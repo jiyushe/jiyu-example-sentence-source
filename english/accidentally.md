@@ -1,5 +1,7 @@
 # accidentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accidentally.md)
+
 <p><span class="chinese">不小心你就会大吐特吐。</span><span class="english">You might accidentally puke.</span></p>
 
 <p><span class="chinese">我不小心把玻璃杯摔了。</span><span class="english">I accidentally broke a glass.</span></p>

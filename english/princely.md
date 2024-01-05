@@ -1,5 +1,7 @@
 # princely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/princely.md)
+
 <p><span class="chinese">俄国曾是一个君主制国家</span><span class="english">Muscovy was a princely state.</span></p>
 
 <p><span class="chinese">原不一样是我们的职司和前程。</span><span class="english">Unlike are we, unlike, o princely heart!</span></p>

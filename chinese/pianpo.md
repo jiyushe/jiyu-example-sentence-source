@@ -1,5 +1,7 @@
 # 偏颇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianpo.md)
+
 <p><span class="chinese">当然，我或许过于偏颇。</span><span class="english">Of course, I'm biased.</span></p>
 
 <p><span class="chinese">在偏颇的路上小心翼翼地踏步。</span><span class="english">Each careful step along the byway.</span></p>

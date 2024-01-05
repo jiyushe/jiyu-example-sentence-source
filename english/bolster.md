@@ -1,5 +1,7 @@
 # bolster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolster.md)
+
 <p><span class="chinese">我支持你。</span><span class="english">I'll bolster you up.</span></p>
 
 <p><span class="chinese">为什么不鼓励这种小生意呢？</span><span class="english">Why not bolster that small-business spirit?</span></p>

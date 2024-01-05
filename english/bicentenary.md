@@ -1,5 +1,7 @@
 # bicentenary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicentenary.md)
+
 <p><span class="chinese">该城的二百周年纪念日明年即将到来。</span><span class="english">The town will have its bicentenary next year.</span></p>
 
 <p><span class="chinese">你们有二百周年的纪念邮票吗？</span><span class="english">Do you have the memorial postage stamps for the bicentenary ?</span></p>

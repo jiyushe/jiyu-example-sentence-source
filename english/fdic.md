@@ -1,5 +1,7 @@
 # fdic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fdic.md)
+
 <p><span class="chinese">花旗集团、FDIC和亿康先达均拒绝就此发表评论。</span><span class="english">Citi, the FDIC and Egon Zehnder declined to comment.</span></p>
 
 <p><span class="chinese">IPC之于证券业,如同FDIC之于银行业</span><span class="english">This is the securities' analog of the FDIC in banking.</span></p>

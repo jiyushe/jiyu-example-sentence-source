@@ -1,5 +1,7 @@
 # nonionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonionic.md)
+
 <p><span class="chinese">它与非离子表面活性剂复配增溶效果不明显。</span><span class="english">The solubility increase is not obvious with nonionic surfactants added.</span></p>
 
 <p><span class="chinese">血清中的离子和非离子物质都参与形成血清渗透。</span><span class="english">Both ionic and nonionic substances in the serum contribute to the osmolality.</span></p>

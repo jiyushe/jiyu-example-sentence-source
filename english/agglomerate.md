@@ -1,5 +1,7 @@
 # agglomerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglomerate.md)
+
 <p><span class="chinese">集块岩是一种火山性角砾石。</span><span class="english">An agglomerate is a volcanic breccia.</span></p>
 
 <p><span class="chinese">粉状、粒状、团块状物料干燥。</span><span class="english">Powder, granule, agglomerate material drying.</span></p>

@@ -1,5 +1,7 @@
 # 脱稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuogao.md)
+
 <p><span class="chinese">你哪会儿才能脱稿？</span><span class="english">When can you get the draft ready?</span></p>
 
 <p><span class="chinese">丹也是据说他脱稿了吗-终于做完了?。</span><span class="english">So does Dan. Did you hear he finished his? Oh, it finally has an ending?</span></p>

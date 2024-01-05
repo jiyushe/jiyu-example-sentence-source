@@ -1,5 +1,7 @@
 # stonewall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stonewall.md)
+
 <p><span class="chinese">那天晚上，李与他的高级将领——史东旺·杰克逊会谈。</span><span class="english">Lee met that night with his top general, Stonewall Jackson.</span></p>
 
 <p><span class="chinese">在斯通威尔.杰克逊部队的帮助下，李将军的计划开始行动了。</span><span class="english">With the help of Stonewall Jackson's army, Lee's plan worked.</span></p>

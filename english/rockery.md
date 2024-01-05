@@ -1,5 +1,7 @@
 # rockery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rockery.md)
+
 <p><span class="chinese">做假山也是一样的。</span><span class="english">Do rockery is the same.</span></p>
 
 <p><span class="chinese">迎面是巨大的假山。</span><span class="english">In the face of enormous rockery.</span></p>

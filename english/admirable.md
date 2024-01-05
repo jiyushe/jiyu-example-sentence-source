@@ -1,5 +1,7 @@
 # admirable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admirable.md)
+
 <p><span class="chinese">他的精神可佩。</span><span class="english">His spirit is admirable.</span></p>
 
 <p><span class="chinese">秋天是极好的节令。</span><span class="english">Autumn is a admirable division.</span></p>

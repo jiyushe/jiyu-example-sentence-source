@@ -1,5 +1,7 @@
 # 正轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggui_1.md)
+
 <p><span class="chinese">希望他能够痛改前非，走上正轨。</span><span class="english">I hope he can redeem himself.</span></p>
 
 <p><span class="chinese">然而现在整支球队都在慢慢走上正轨。</span><span class="english">But then the whole team is gelling now.</span></p>

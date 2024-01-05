@@ -1,5 +1,7 @@
 # 脚癣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxuan.md)
+
 <p><span class="chinese">如何预防脚癣？</span><span class="english">How Can I Prevent It?</span></p>
 
 <p><span class="chinese">严重的脚癣能让把人逼疯。</span><span class="english">A bad case of athlete's foot can drive you hopping mad.</span></p>

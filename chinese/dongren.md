@@ -1,5 +1,7 @@
 # 动人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongren.md)
+
 <p><span class="chinese">在我看来你非常美艳动人！</span><span class="english">You look gorgeous to me.</span></p>
 
 <p><span class="chinese">她是个妩媚动人的女孩。</span><span class="english">She is an attractive girl.</span></p>

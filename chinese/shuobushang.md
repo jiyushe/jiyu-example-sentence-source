@@ -1,5 +1,7 @@
 # 说不上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuobushang.md)
+
 <p><span class="chinese">说不上来，真的。</span><span class="english">Can not say, really.</span></p>
 
 <p><span class="chinese">这说不上是纯粹的幸福。</span><span class="english">It is not an unmixed blessing.</span></p>

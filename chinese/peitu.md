@@ -1,5 +1,7 @@
 # 培土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peitu.md)
+
 <p><span class="chinese">爸爸伤心地捧起万年青，重新为它培土。</span><span class="english">Dad sadly evergreen victory, for it to re-earth.</span></p>
 
 <p><span class="chinese">修剪后施玫瑰花肥，培土。</span><span class="english">After pruning, apply a rose fertiliser and mulch.</span></p>

@@ -1,5 +1,7 @@
 # 难产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanchan.md)
+
 <p><span class="chinese">他们还在难产的时候使用产钳。</span><span class="english">They also used forceps for difficult births.</span></p>
 
 <p><span class="chinese">结论胎膜早破与难产的关系密切。</span><span class="english">Conclusions The PROM is the cause of dystocia.</span></p>

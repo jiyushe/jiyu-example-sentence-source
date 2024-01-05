@@ -1,5 +1,7 @@
 # 以权谋私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiquanmousi.md)
+
 <p><span class="chinese">我相信他没有以权谋私。</span><span class="english">I believe that he did not do it for personal gain.</span></p>
 
 <p><span class="chinese">环境署监察长使惠特曼从以权谋私的指责中得以开脱。</span><span class="english">Whitman was cleared of the conflict by the EPA inspector general.</span></p>

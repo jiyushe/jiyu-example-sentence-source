@@ -1,5 +1,7 @@
 # ream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ream.md)
+
 <p><span class="chinese">本系统牵引件采用新型双铰链条。</span><span class="english">The system draught parts adopt new double ream chains.</span></p>
 
 <p><span class="chinese">修护受损的强胞令细胞再生。</span><span class="english">Injured cell ream of repair and maintenance cell rebirth.</span></p>

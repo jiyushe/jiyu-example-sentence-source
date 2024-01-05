@@ -1,5 +1,7 @@
 # aileron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aileron.md)
+
 <p><span class="chinese">副翼反应迟钝。</span><span class="english">Aileron response sluggish.</span></p>
 
 <p><span class="chinese">拉起，斤斗，副翼滚转。</span><span class="english">Pullup, Backflip, And Aileron Roll.</span></p>

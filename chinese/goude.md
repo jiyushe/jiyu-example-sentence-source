@@ -1,5 +1,7 @@
 # 购得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goude.md)
+
 <p><span class="chinese">您可以在亚马逊上购得。</span><span class="english">You can buy it from Amazon.</span></p>
 
 <p><span class="chinese">我不必出卖灵魂来购得幸福。</span><span class="english">I need not sell my soul to buy bliss.</span></p>

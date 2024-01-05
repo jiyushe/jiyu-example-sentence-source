@@ -1,5 +1,7 @@
 # 刨花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baohua.md)
+
 <p><span class="chinese">一阵风把刨花吹得到处乱飞。</span><span class="english">A gust of wind fluttered the shavings wood.</span></p>
 
 <p><span class="chinese">刨花模压制品生产工艺的研究。</span><span class="english">Study on the process of molded particleboard products.</span></p>

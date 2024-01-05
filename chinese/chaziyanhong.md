@@ -1,5 +1,7 @@
 # 姹紫嫣红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaziyanhong.md)
+
 <p><span class="chinese">虽然是姹紫嫣红的春天。</span><span class="english">Though it was a colorful spring.</span></p>
 
 <p><span class="chinese">你的花园将绿草成茵，姹紫嫣红。</span><span class="english">Your garden will be full of green grass and gay flowers.</span></p>

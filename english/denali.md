@@ -1,5 +1,7 @@
 # denali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denali.md)
+
 <p><span class="chinese">我筹算去攀登阿拉斯加州的德纳里山。</span><span class="english">I'm planning to climb Mount Denali in Blaska.</span></p>
 
 <p><span class="chinese">我打算去攀登阿拉斯加州的德纳里山。</span><span class="english">I’m planning to climb Mount Denali in Alaska.</span></p>

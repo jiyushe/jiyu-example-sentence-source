@@ -1,5 +1,7 @@
 # seraphim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seraphim.md)
+
 <p><span class="chinese">这些都是复仇天使。</span><span class="english">These were the seraphim.</span></p>
 
 <p><span class="chinese">提香炉的撒拉弗的脚步声响在有簇饰的地板。</span><span class="english">Swung by Seraphim whose foot-falls tinkled on the tufted floor.</span></p>

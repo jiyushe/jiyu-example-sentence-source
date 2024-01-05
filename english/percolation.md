@@ -1,5 +1,7 @@
 # percolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percolation.md)
+
 <p><span class="chinese">漏失类型主要为渗漏和有进无出的大漏。</span><span class="english">The main leakage losses are percolation and big leakage.</span></p>
 
 <p><span class="chinese">这相当于干化机理的渗滤阶段。</span><span class="english">This corresponds to the percolation phase of the drying mechanism.</span></p>

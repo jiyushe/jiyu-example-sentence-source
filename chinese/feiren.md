@@ -1,5 +1,7 @@
 # 非人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiren.md)
+
 <p><span class="chinese">“非人即佛，”坦山回答说。</span><span class="english">"A Buddha," answered Tanzan.</span></p>
 
 <p><span class="chinese">非人人生来都是作帝王的。</span><span class="english">But all men are not born to reign.</span></p>

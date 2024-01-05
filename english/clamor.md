@@ -1,5 +1,7 @@
 # clamor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamor.md)
+
 <p><span class="chinese">但这也许会招致一场喧嚣。</span><span class="english">However, it might cause a clamor.</span></p>
 
 <p><span class="chinese">辩论被反对方的一声叫喊打断。</span><span class="english">The debate was interrupted by a clamor of opposition.</span></p>

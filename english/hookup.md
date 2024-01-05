@@ -1,5 +1,7 @@
 # hookup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hookup.md)
+
 <p><span class="chinese">公司派了一个人来装电话。</span><span class="english">The company sent a man to hookup the telephone.</span></p>
 
 <p><span class="chinese">他们从相好到分手仅仅过了一个月。</span><span class="english">It is only one month from their hookup to their breakup.</span></p>

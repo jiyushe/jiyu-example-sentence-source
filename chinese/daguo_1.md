@@ -1,5 +1,7 @@
 # 大过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguo_1.md)
+
 <p><span class="chinese">他的神远远大过巴力和亚他斯录。</span><span class="english">His God was greater than Baal or Ashtoreth.</span></p>
 
 <p><span class="chinese">他生性悍勇，力大过人。</span><span class="english">He has an intrepid disposition, and great strength.</span></p>

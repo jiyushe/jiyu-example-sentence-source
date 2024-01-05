@@ -1,5 +1,7 @@
 # spotter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spotter.md)
+
 <p><span class="chinese">他又看了侦察员一眼。</span><span class="english">He glanced at his Spotter again.</span></p>
 
 <p><span class="chinese">2008年某车展上的巨型拖拉机轮胎。</span><span class="english">Titan tractor tire spotter at the SEMA 2008 auto show.</span></p>

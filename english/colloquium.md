@@ -1,5 +1,7 @@
 # colloquium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colloquium.md)
+
 <p><span class="chinese">谁组织的讨论会？</span><span class="english">Who organizes the Colloquium?</span></p>
 
 <p><span class="chinese">学术讨论会有三个目标。</span><span class="english">The colloquium had three goals.</span></p>

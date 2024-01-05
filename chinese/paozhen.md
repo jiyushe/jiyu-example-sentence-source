@@ -1,5 +1,7 @@
 # 疱疹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paozhen.md)
+
 <p><span class="chinese">病毒性疱疹的治疗?。</span><span class="english">The cure of virus sex bleb ?</span></p>
 
 <p><span class="chinese">疱疹病毒通过体液传播。</span><span class="english">HSV spreads through body fluids.</span></p>

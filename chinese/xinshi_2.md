@@ -1,5 +1,7 @@
 # 信士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshi_2.md)
+
 <p><span class="chinese">你们只应该信托真主，如果你们是信士的话。</span><span class="english">But on Allah put your trust if ye have faith.</span></p>
 
 <p><span class="chinese">它是对所有信士的年度培训课程。</span><span class="english">This is an annual training program for all believers.</span></p>

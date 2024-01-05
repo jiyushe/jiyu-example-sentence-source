@@ -1,5 +1,7 @@
 # 欢畅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanchang_1.md)
+
 <p><span class="chinese">很欢畅见到你，苏姨娘。</span><span class="english">Good to meet you, Aunty Su.</span></p>
 
 <p><span class="chinese">令所有的山谷欢畅激荡！</span><span class="english">Making all the vales rejoice!</span></p>

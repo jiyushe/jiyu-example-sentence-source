@@ -1,5 +1,7 @@
 # bandstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandstand.md)
+
 <p><span class="chinese">怎样才能搭一个室外音乐台呢？</span><span class="english">How do you make a bandstand?</span></p>
 
 <p><span class="chinese">迪克·克拉克的“美国音乐台“就是从那时候开始的。</span><span class="english">"American Bandstand" with Dick Clark had started up.</span></p>

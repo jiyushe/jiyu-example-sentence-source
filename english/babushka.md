@@ -1,5 +1,7 @@
 # babushka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babushka.md)
+
 <p><span class="chinese">老实说，我还从来没见过一个不性感的俄罗斯女人——这位金发美人当然也不例外。</span><span class="english">I'm never met a non-sexy Russian woman. And this blond babushka is no exception.</span></p>
 
 <p><span class="chinese">直到今天，也没有人知道巴布什卡夫人到底是谁，她的身份是什么。</span><span class="english">To this day, no one knows who the Babushka Woman is or what she was doing there.</span></p>

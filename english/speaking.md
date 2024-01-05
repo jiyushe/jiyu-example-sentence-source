@@ -1,5 +1,7 @@
 # speaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speaking.md)
+
 <p><span class="chinese">公众演讲。</span><span class="english">Do public speaking.</span></p>
 
 <p><span class="chinese">我喜欢说法语。</span><span class="english">I like speaking French.</span></p>

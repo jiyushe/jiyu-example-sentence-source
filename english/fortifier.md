@@ -1,5 +1,7 @@
 # fortifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortifier.md)
+
 <p><span class="chinese">食物总是一种伟大的强化剂。</span><span class="english">The plate has always been a great fortifier.</span></p>
 
 <p><span class="chinese">用于营养食品和婴幼儿食品的营养强化。</span><span class="english">Used as a fortifier in baby foods and nutrition.</span></p>

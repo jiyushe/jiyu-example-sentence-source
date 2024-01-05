@@ -1,5 +1,7 @@
 # notes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notes.md)
+
 <p><span class="chinese">我边听边记着笔记。</span><span class="english">I took notes.</span></p>
 
 <p><span class="chinese">笔记借我抄。</span><span class="english">Lend me your notes.</span></p>

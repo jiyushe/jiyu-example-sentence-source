@@ -1,5 +1,7 @@
 # saltation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saltation.md)
+
 <p><span class="chinese">这种类型的搬运称为河底滚沙。</span><span class="english">This type of transport is called saltation.</span></p>
 
 <p><span class="chinese">可能我的思想跳跃太快了！</span><span class="english">My thought saltation has been possibly very quick!</span></p>

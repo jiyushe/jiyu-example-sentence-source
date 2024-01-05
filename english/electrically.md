@@ -1,5 +1,7 @@
 # electrically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrically.md)
+
 <p><span class="chinese">手动电动按摩器。</span><span class="english">Manual electrically operated massager.</span></p>
 
 <p><span class="chinese">所有的膜都是带电的</span><span class="english">All membranes are electrically charged.</span></p>

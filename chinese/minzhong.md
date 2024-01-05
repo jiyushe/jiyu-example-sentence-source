@@ -1,5 +1,7 @@
 # 民众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzhong.md)
+
 <p><span class="chinese">在这些事上，民众是对的。</span><span class="english">On this, the public are right.</span></p>
 
 <p><span class="chinese">而民众也对他表明了赞同。</span><span class="english">And the people agreed with him.</span></p>

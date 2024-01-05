@@ -1,5 +1,7 @@
 # downstairs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downstairs.md)
+
 <p><span class="chinese">他下楼去。</span><span class="english">He went downstairs.</span></p>
 
 <p><span class="chinese">我一会儿在楼下见你。</span><span class="english">I will meet you downstairs.</span></p>

@@ -1,5 +1,7 @@
 # 贸易风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoyifeng.md)
+
 <p><span class="chinese">亚洲贸易风有限公司是一家澳大利亚贸易公司。</span><span class="english">Asian trade wind, Ltd. is an Australian trading company.</span></p>
 
 <p><span class="chinese">他只消凭贸易风吹在身上的感觉和帆的动向就能知道。</span><span class="english">Only needed the feel of the trade wind and the drawing of the sail.</span></p>

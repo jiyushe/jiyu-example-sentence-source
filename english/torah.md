@@ -1,5 +1,7 @@
 # torah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torah.md)
+
 <p><span class="chinese">哲人们告诉我们，托拉是上帝无限的智慧。</span><span class="english">The sages tell us that the torah is Gd's infinite knowledge.</span></p>
 
 <p><span class="chinese">丈夫满足自己妻子的性需要是一种义务。</span><span class="english">Torah obligates the husband to meet the sexual needs of his wife.</span></p>

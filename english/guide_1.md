@@ -1,5 +1,7 @@
 # guide 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guide_1.md)
+
 <p><span class="chinese">我需要一份电视报。</span><span class="english">I need a TV guide.</span></p>
 
 <p><span class="chinese">你需要一位导游吗？</span><span class="english">Do you need a guide?</span></p>

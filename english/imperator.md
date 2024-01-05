@@ -1,5 +1,7 @@
 # imperator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperator.md)
+
 <p><span class="chinese">影片的下集中，凯撒被行刺，她又将目标转向大将军马克？</span><span class="english">In the movie last part , Caesar assassinates , she changes the goal imperator Mark ?</span></p>
 
 <p><span class="chinese">在胡萝卜种株内检查出雄性不孕植株。</span><span class="english">Some male sterile plants were found in a seed field of the carrot variety " Imperator ."</span></p>

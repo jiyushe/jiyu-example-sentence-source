@@ -1,5 +1,7 @@
 # depart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depart.md)
+
 <p><span class="chinese">飞机什么时候出港？</span><span class="english">When does the plane depart?</span></p>
 
 <p><span class="chinese">弃恶从善。</span><span class="english">Depart from evil and do good.</span></p>

@@ -1,5 +1,7 @@
 # metronome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metronome.md)
+
 <p><span class="chinese">那节拍器摆动着显示节拍。</span><span class="english">The metronome vibrated the beat.</span></p>
 
 <p><span class="chinese">在慢慢增加速度的时候，节拍器也常被用到。</span><span class="english">A metronome might be used for this gradual speed-up.</span></p>

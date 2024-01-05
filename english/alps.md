@@ -1,5 +1,7 @@
 # alps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alps.md)
+
 <p><span class="chinese">我们背着背包游览阿尔卑斯山脉。</span><span class="english">We went backpacking in the Alps.</span></p>
 
 <p><span class="chinese">阿尔卑斯山正在长高还是变矮？</span><span class="english">Are the Alps growing or shrinking?</span></p>

@@ -1,5 +1,7 @@
 # formalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formalize.md)
+
 <p><span class="chinese">那么该如何体制化这一观念呢？</span><span class="english">How to formalize this idea?</span></p>
 
 <p><span class="chinese">你们可以很容易地形式化了，好。</span><span class="english">You can formalize very easily. Okay.</span></p>

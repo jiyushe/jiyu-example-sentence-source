@@ -1,5 +1,7 @@
 # comprehension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprehension.md)
+
 <p><span class="chinese">我的听解很好。</span><span class="english">I have good hearing comprehension.</span></p>
 
 <p><span class="chinese">你会惊奇地发现自己的理解力是多么的好。</span><span class="english">You will be surprised how good your comprehension is.</span></p>

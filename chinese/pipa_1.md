@@ -1,5 +1,7 @@
 # 噼啪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pipa_1.md)
+
 <p><span class="chinese">蜡烛噼啪爆响着熄灭了。</span><span class="english">The candle sputtered out.</span></p>
 
 <p><span class="chinese">鞭炮在头顶上空噼啪地爆响。</span><span class="english">The fireworks cracked overhead.</span></p>

@@ -1,5 +1,7 @@
 # 导引
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoyin.md)
+
 <p><span class="chinese">它们如何彼此导引与承继？</span><span class="english">Why does one lead to or entail the other?</span></p>
 
 <p><span class="chinese">用雷射导引的飞弹非常精确。</span><span class="english">Laser-guided missiles are extremely accurate.</span></p>

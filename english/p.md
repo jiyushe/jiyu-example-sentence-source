@@ -1,5 +1,7 @@
 # p
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/p.md)
+
 <p><span class="chinese">同上。</span><span class="english">Ibid., p. 82.</span></p>
 
 <p><span class="chinese">还有，我爱你。</span><span class="english">P.S. I love you.</span></p>

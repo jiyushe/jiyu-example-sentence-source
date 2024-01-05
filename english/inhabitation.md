@@ -1,5 +1,7 @@
 # inhabitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhabitation.md)
+
 <p><span class="chinese">思考与探求新世纪的居住模式也已迫在眉睫。</span><span class="english">Searching for new mode of inhabitation is urgent in the new age.</span></p>
 
 <p><span class="chinese">城市和农村是两种主要的人类居住群落。</span><span class="english">Cities and countryside are the main inhabitation communities for human being.</span></p>

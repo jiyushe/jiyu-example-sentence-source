@@ -1,5 +1,7 @@
 # 一起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqi.md)
+
 <p><span class="chinese">和我们一起飞翔！</span><span class="english">Fly with us!</span></p>
 
 <p><span class="chinese">和我一起坐车.</span><span class="english">Ride with me.</span></p>

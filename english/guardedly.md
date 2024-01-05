@@ -1,5 +1,7 @@
 # guardedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guardedly.md)
+
 <p><span class="chinese">枪支爱好者现在十分庆幸。</span><span class="english">Gun-lovers are guardedly jubilant.</span></p>
 
 <p><span class="chinese">其它经济学家则保持着谨慎的乐观。</span><span class="english">Other economists are guardedly optimistic.</span></p>

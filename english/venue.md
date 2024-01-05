@@ -1,5 +1,7 @@
 # venue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venue.md)
+
 <p><span class="chinese">找一个可以自带酒水的场地。</span><span class="english">Find a BYOB venue.</span></p>
 
 <p><span class="chinese">世界媒体峰会的会场在哪里？</span><span class="english">Where is the venue for WMS?</span></p>

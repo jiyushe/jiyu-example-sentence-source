@@ -1,5 +1,7 @@
 # 估计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji.md)
+
 <p><span class="chinese">我们可以重新估计。</span><span class="english">We can  reevaluate.</span></p>
 
 <p><span class="chinese">本世纪估计是不可能了。</span><span class="english">Not in this century.</span></p>

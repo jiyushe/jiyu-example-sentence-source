@@ -1,5 +1,7 @@
 # boulogne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boulogne.md)
+
 <p><span class="chinese">定期往返于多佛和布伦之间的渡轮。</span><span class="english">The ferry that plies between dover and boulogne.</span></p>
 
 <p><span class="chinese">只要一个半小时就可以到布洛涅或加来。</span><span class="english">It only takes an hour and a half to get to Boulogne or Calais.</span></p>

@@ -1,5 +1,7 @@
 # violist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violist.md)
+
 <p><span class="chinese">为什么说中提琴手像恐怖分子？</span><span class="english">Why is a violist like a terrorist?</span></p>
 
 <p><span class="chinese">有个中提琴手死了咋办？</span><span class="english">What do you do with a dead violist?</span></p>

@@ -1,5 +1,7 @@
 # brilliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brilliance.md)
+
 <p><span class="chinese">但是来了一个天才。</span><span class="english">But here's the brilliance.</span></p>
 
 <p><span class="chinese">这正是比伯的才华所在。</span><span class="english">This is the brilliance of Bieber.</span></p>

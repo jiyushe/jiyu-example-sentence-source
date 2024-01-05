@@ -1,5 +1,7 @@
 # diaphragmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaphragmatic.md)
+
 <p><span class="chinese">转变为横隔膜呼吸需要全神贯注的练习。</span><span class="english">Switching to diaphragmatic breathing takes concentrated practice.</span></p>
 
 <p><span class="chinese">目的探讨大鼠膈淋巴液形成的机制。</span><span class="english">Objective To study the formation mechanism of diaphragmatic lymph in rats.</span></p>

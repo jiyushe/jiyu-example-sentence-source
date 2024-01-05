@@ -1,5 +1,7 @@
 # lather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lather.md)
+
 <p><span class="chinese">他们要狠揍你一顿。</span><span class="english">They will lather your hide.</span></p>
 
 <p><span class="chinese">压出泡沫得到中，揉搓泡沫，冲洗晾干。</span><span class="english">Pump into hands, lather vigorously, rinse and dry.</span></p>

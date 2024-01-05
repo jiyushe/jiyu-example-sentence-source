@@ -1,5 +1,7 @@
 # 捶胸顿足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixiongdunzu.md)
+
 <p><span class="chinese">马克捶胸顿足，痛不欲生。</span><span class="english">Mark beat his breast in agony.</span></p>
 
 <p><span class="chinese">这个老妇人伤心地捶胸顿足地哭着、号着。</span><span class="english">The old woman beat her breast and cried in anguish.</span></p>

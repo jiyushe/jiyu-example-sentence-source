@@ -1,5 +1,7 @@
 # 照准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozhun.md)
+
 <p><span class="chinese">讨论了空间照准标志的形状和实验精度。</span><span class="english">It discusses the form and testing precision of the spatial sighting mark.</span></p>
 
 <p><span class="chinese">“我知道”那盲人说，“可我总得先要找到它的脑袋，然后好照准它的屁股给它一脚啊！”</span><span class="english">"I know , "said the blind man, "but I got to find his head before I can kick his ass".</span></p>

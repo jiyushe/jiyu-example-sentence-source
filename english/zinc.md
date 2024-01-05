@@ -1,5 +1,7 @@
 # zinc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zinc.md)
+
 <p><span class="chinese">锌矿砂及其精矿。</span><span class="english">Zinc ores and concentrates.</span></p>
 
 <p><span class="chinese">过氧化钡加锌粉。</span><span class="english">Barium peroxide and zinc dust.</span></p>

@@ -1,5 +1,7 @@
 # 酒糟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzao.md)
+
 <p><span class="chinese">奈特龙网也可用于酒糟作为分隔。</span><span class="english">Netlon mesh can also be used as a stillage separator.</span></p>
 
 <p><span class="chinese">空气中飘荡着猪饲料中酒糟冒出的不锈钢管味道。</span><span class="english">The air reeked of distillers' grains mixed in the pig feed.</span></p>

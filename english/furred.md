@@ -1,5 +1,7 @@
 # furred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furred.md)
+
 <p><span class="chinese">硬水使水壶生了垢。</span><span class="english">Hard water furred the kettle.</span></p>
 
 <p><span class="chinese">她身上穿着“貂皮”衣服。</span><span class="english">She furred herself with ermine.</span></p>

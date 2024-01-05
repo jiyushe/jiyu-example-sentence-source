@@ -1,5 +1,7 @@
 # professor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/professor.md)
+
 <p><span class="chinese">他是一位老教授。</span><span class="english">He is an old professor.</span></p>
 
 <p><span class="chinese">教授坐了下来，无以对答。</span><span class="english">The professor sat down.</span></p>

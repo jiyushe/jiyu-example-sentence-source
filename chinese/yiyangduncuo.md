@@ -1,5 +1,7 @@
 # 抑扬顿挫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyangduncuo.md)
+
 <p><span class="chinese">他抑扬顿挫地朗诵诗歌。</span><span class="english">He read the poems with cadence.</span></p>
 
 <p><span class="chinese">她讲话的声音柔和而抑扬顿挫，有些威尔士口音。</span><span class="english">Her voice had a soft Welsh lilt to it.</span></p>

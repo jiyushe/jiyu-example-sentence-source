@@ -1,5 +1,7 @@
 # cactus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cactus.md)
+
 <p><span class="chinese">行，仙人掌如何？</span><span class="english">Okay, how about cactus?</span></p>
 
 <p><span class="chinese">它是我的掌上盆景-----仙人球。</span><span class="english">It is my palm bonsai ----- cactus.</span></p>

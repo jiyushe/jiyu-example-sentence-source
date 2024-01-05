@@ -1,5 +1,7 @@
 # 蔑视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mieshi.md)
+
 <p><span class="chinese">其他人蔑视他的行为。</span><span class="english">The others despised his deeds.</span></p>
 
 <p><span class="chinese">对这种人我只是蔑视。</span><span class="english">A real man disdains flatterers.</span></p>

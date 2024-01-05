@@ -1,5 +1,7 @@
 # 植根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigen.md)
+
 <p><span class="chinese">觉得相当植根日本了。</span><span class="english">I feel fairly rooted in Japan.</span></p>
 
 <p><span class="chinese">这个使命“深深植根于企业文化之中”，他补充道。</span><span class="english">That mission is "deeply engrained in the culture, " he adds.</span></p>

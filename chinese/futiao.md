@@ -1,5 +1,7 @@
 # 辐条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/futiao.md)
+
 <p><span class="chinese">但你能进入到这些“辐条“中吗？</span><span class="english">Could you walk into these spokes?</span></p>
 
 <p><span class="chinese">但我通过声音拧紧辐条。</span><span class="english">But I tighten the spokes by sound.</span></p>

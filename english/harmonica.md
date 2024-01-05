@@ -1,5 +1,7 @@
 # harmonica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmonica.md)
+
 <p><span class="chinese">关于口琴又怎样呢？</span><span class="english">What about on a harmonica?</span></p>
 
 <p><span class="chinese">我很喜欢口琴草堂。</span><span class="english">I like Harmonica University.</span></p>

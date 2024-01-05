@@ -1,5 +1,7 @@
 # 方巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangjin_1.md)
+
 <p><span class="chinese">我飞快的往头上盖上一块黑色方巾，拼命跑到楼下。</span><span class="english">I threw a chador over my head as fast as I could and rushed downstairs.</span></p>
 
 <p><span class="chinese">我穿着从美术室拿来的工作服，把用方巾盖着头发。</span><span class="english">I was wearing a smock from the art room, and had my hair tucked into a kerchief.</span></p>

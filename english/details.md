@@ -1,5 +1,7 @@
 # details
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/details.md)
+
 <p><span class="chinese">她没有给出细节.</span><span class="english">She gave no details.</span></p>
 
 <p><span class="chinese">更多细节请看1143页。</span><span class="english">For details see Page 1143.</span></p>

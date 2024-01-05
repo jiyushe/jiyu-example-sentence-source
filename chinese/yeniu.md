@@ -1,5 +1,7 @@
 # 野牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeniu.md)
+
 <p><span class="chinese">美洲野牛在一个温泉附近吃草。</span><span class="english">Bison graze near a hot spring.</span></p>
 
 <p><span class="chinese">他们用长矛刺死了一头野牛。</span><span class="english">They stuck a bison with spears.</span></p>

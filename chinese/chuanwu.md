@@ -1,5 +1,7 @@
 # 船坞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanwu.md)
+
 <p><span class="chinese">在我之后的这个图是个船坞</span><span class="english">This is the shipyard behind.</span></p>
 
 <p><span class="chinese">一般在干船坞中进行。</span><span class="english">We will do this in a drydock.</span></p>

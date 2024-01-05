@@ -1,5 +1,7 @@
 # variability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variability.md)
+
 <p><span class="chinese">还有就是音高的变化。</span><span class="english">The second is pitch variability.</span></p>
 
 <p><span class="chinese">死亡的可变性又如何？</span><span class="english">What about the variability of death?</span></p>

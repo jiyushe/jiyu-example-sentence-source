@@ -1,5 +1,7 @@
 # unavoidable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unavoidable.md)
+
 <p><span class="chinese">一场决斗是不可避免的。</span><span class="english">One meeting was unavoidable.</span></p>
 
 <p><span class="chinese">间歇的桔黄色是无法避免的</span><span class="english">intermittent oranges are unavoidable</span></p>

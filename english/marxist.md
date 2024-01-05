@@ -1,5 +1,7 @@
 # marxist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marxist.md)
+
 <p><span class="chinese">她对马克思主义经典著作作了深刻的研究。</span><span class="english">She was deeply read in the Marxist classics.</span></p>
 
 <p><span class="chinese">这是马克思主义预言的一种折光。</span><span class="english">This is a refraction of Marxist predictions.</span></p>

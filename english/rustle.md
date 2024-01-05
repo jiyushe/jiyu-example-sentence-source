@@ -1,5 +1,7 @@
 # rustle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rustle.md)
+
 <p><span class="chinese">我们听到树叶沙沙响。</span><span class="english">We heard a rustle of leaves.</span></p>
 
 <p><span class="chinese">神身上的一种声息，一阵风。</span><span class="english">A rustle in the god. A galed.</span></p>

@@ -1,5 +1,7 @@
 # 肺腑之言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifuzhiyan.md)
+
 <p><span class="chinese">我今晚听到的也是你的肺腑之言。</span><span class="english">That's what I hears tonight.</span></p>
 
 <p><span class="chinese">听了朋友的话，她的肺腑之言让我茫然。</span><span class="english">After listening to friends, she let me remark at a loss.</span></p>

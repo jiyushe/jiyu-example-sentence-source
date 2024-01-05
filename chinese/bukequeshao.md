@@ -1,5 +1,7 @@
 # 不可缺少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukequeshao.md)
+
 <p><span class="chinese">水是植物不可缺少的。</span><span class="english">Water is indispensable to plants.</span></p>
 
 <p><span class="chinese">不可缺少，就像太阳和烛光…</span><span class="english">Most quiet need, by sun and candle-light.</span></p>

@@ -1,5 +1,7 @@
 # glamourous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glamourous.md)
+
 <p><span class="chinese">深灰色墙壁创造出一种优雅而迷人的特殊氛围。</span><span class="english">Deep grey painted walls create a look that's both refined and glamourous.</span></p>
 
 <p><span class="chinese">作为一个女人和母亲，大部分我买的东西称不上独特或有趣，比方说卫生纸。</span><span class="english">Being a woman and a mother, most of the things I buy are not glamourous or exciting.</span></p>

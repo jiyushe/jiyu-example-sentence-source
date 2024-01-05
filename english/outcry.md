@@ -1,5 +1,7 @@
 # outcry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outcry.md)
+
 <p><span class="chinese">这已经开创了公开叫价。</span><span class="english">This has created a public outcry.</span></p>
 
 <p><span class="chinese">每当我们改变它，我都要强烈抗议。</span><span class="english">Whenever we change it, I have an outcry.</span></p>

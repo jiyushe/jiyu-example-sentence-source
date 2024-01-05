@@ -1,5 +1,7 @@
 # 克山病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keshanbing.md)
+
 <p><span class="chinese">目的探索克山病病因。</span><span class="english">Objective To explore the cause of Keshan disease.</span></p>
 
 <p><span class="chinese">目的报告关于克山病病因的研究结果。</span><span class="english">Objective To report the studies on the cause of Keshan disease.</span></p>

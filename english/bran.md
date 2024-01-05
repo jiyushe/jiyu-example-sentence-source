@@ -1,5 +1,7 @@
 # bran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bran.md)
+
 <p><span class="chinese">她用麸皮喂牛。</span><span class="english">She feed the cow with bran.</span></p>
 
 <p><span class="chinese">我会多吃一些冰激凌，少吃一些米。</span><span class="english">I would eat more ice cream and less bran.</span></p>

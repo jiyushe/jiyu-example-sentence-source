@@ -1,5 +1,7 @@
 # paymaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paymaster.md)
+
 <p><span class="chinese">肯出好价钱，不愁没人干。</span><span class="english">A good paymaster is never in want of workmen.</span></p>
 
 <p><span class="chinese">精明的掌钱人是他人钱包的主宰者。</span><span class="english">The good paymaster is lord of another mans purse.</span></p>

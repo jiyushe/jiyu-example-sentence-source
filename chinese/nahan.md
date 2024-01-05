@@ -1,5 +1,7 @@
 # 呐喊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nahan.md)
+
 <p><span class="chinese">为什么呐喊？</span><span class="english">Why shout loudly?</span></p>
 
 <p><span class="chinese">“会使你想呐喊起来！”</span><span class="english">“Makes you want to cry!</span></p>

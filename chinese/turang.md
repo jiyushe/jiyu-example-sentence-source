@@ -1,5 +1,7 @@
 # 土壤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/turang.md)
+
 <p><span class="chinese">风化壳和土壤。</span><span class="english">Regolith and soil.</span></p>
 
 <p><span class="chinese">平均土壤热通量为-1。</span><span class="english">The average Gt was -1.</span></p>

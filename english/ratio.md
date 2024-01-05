@@ -1,5 +1,7 @@
 # ratio 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratio.md)
+
 <p><span class="chinese">我的上传下载比例是多少?。</span><span class="english">So, what's MY ratio?</span></p>
 
 <p><span class="chinese">受害比率。</span><span class="english">Victimization ratio.</span></p>

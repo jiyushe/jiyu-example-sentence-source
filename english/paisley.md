@@ -1,5 +1,7 @@
 # paisley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paisley.md)
+
 <p><span class="chinese">这是鲍勃·派斯利所使用的一种策略。</span><span class="english">It was a tactic Bob Paisley employed.</span></p>
 
 <p><span class="chinese">佩斯利最近启动了他的“水二多雨及怀德”之旅。</span><span class="english">Paisley recently kicked off his "H2O II Wetter and Wilder" tour.</span></p>

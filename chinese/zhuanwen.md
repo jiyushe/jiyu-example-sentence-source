@@ -1,5 +1,7 @@
 # 撰文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanwen.md)
+
 <p><span class="chinese">就这个话题，我稍后会撰文作深入阐释。</span><span class="english">I will have an in depth article on this topic soon.</span></p>
 
 <p><span class="chinese">每每闻知游客撰文忽悠，许多网友就来报名。</span><span class="english">Every time when Wanderer wrote, many bloggers came to join.</span></p>

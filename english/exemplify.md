@@ -1,5 +1,7 @@
 # exemplify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exemplify.md)
+
 <p><span class="chinese">可以以此观念为例深思一段圣训。</span><span class="english">Pondering on one hadith can exemplify this notion.</span></p>
 
 <p><span class="chinese">王尔德的戏剧是风尚喜剧的典范。</span><span class="english">The plays of Wilds exemplify the comedy of manners.</span></p>

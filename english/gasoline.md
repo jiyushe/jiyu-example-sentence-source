@@ -1,5 +1,7 @@
 # gasoline 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasoline.md)
+
 <p><span class="chinese">她喝出汽油的味道。</span><span class="english">She tasted gasoline.</span></p>
 
 <p><span class="chinese">汽油溶解油脂。</span><span class="english">Gasoline cuts oil and grease.</span></p>

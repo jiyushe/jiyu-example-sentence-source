@@ -1,5 +1,7 @@
 # 重檐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyan_1.md)
+
 <p><span class="chinese">湖心亭是一座三层重檐楼阁式的古亭。</span><span class="english">Huxin Pavilion is a three-story, double-eave ancient structure.</span></p>
 
 <p><span class="chinese">该坊形制为四柱三门三重檐、三开间牌楼坊。</span><span class="english">There are four column, three gates, three brims , three openings in the archway.</span></p>

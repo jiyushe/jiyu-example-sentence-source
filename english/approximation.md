@@ -1,5 +1,7 @@
 # approximation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approximation.md)
+
 <p><span class="chinese">这是小角度的近似值。</span><span class="english">It is small-angle approximation.</span></p>
 
 <p><span class="chinese">沃格尔近似法?。</span><span class="english">VAM? Vogel' s Approximation Method?</span></p>

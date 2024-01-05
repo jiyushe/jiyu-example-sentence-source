@@ -1,5 +1,7 @@
 # debby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debby.md)
+
 <p><span class="chinese">万圣节快乐！</span><span class="english">Happy Halloween Debby.</span></p>
 
 <p><span class="chinese">桑迪比黛比小。</span><span class="english">Sandy's younger than Debby.</span></p>

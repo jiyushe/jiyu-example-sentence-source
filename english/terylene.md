@@ -1,5 +1,7 @@
 # terylene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terylene.md)
+
 <p><span class="chinese">腱细胞与涤纶的相容性较差，在几丁质上无细胞附着。</span><span class="english">The compatibility between tenocyte and terylene was poor.</span></p>
 
 <p><span class="chinese">涤纶有色纱在本周市场交易量偏少。</span><span class="english">Terylene colored yarns in market trading volume low this week.</span></p>

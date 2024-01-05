@@ -1,5 +1,7 @@
 # covenant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covenant.md)
+
 <p><span class="chinese">可是圣约人的计策成功了。</span><span class="english">The Covenant ploy, however, had worked.</span></p>
 
 <p><span class="chinese">“在那里”立约的神来了！</span><span class="english">How near their God in covenant is brought!</span></p>

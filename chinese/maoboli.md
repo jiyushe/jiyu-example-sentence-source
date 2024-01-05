@@ -1,5 +1,7 @@
 # 毛玻璃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoboli.md)
+
 <p><span class="chinese">毛玻璃是半透明的。</span><span class="english">Frosted glass is translucent.</span></p>
 
 <p><span class="chinese">使用带毛玻璃塞子的培养瓶。</span><span class="english">Incubation bottles with ground-glass stoppers are utilized.</span></p>

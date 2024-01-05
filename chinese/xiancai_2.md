@@ -1,5 +1,7 @@
 # 苋菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiancai_2.md)
+
 <p><span class="chinese">田间长了许多野苋菜。</span><span class="english">There are many wild goosefoots in the field.</span></p>
 
 <p><span class="chinese">苋菜红指示剂具有安全性和实用价值。</span><span class="english">Amaranth red pigment has security and practical value.</span></p>

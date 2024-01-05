@@ -1,5 +1,7 @@
 # sanctity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctity.md)
+
 <p><span class="chinese">寺庙有一种神圣的氛围。</span><span class="english">Temples have an air of sanctity.</span></p>
 
 <p><span class="chinese">将它与威胁到它神性的东西区别隔离开。</span><span class="english">So separation from that which threatens its sanctity.</span></p>

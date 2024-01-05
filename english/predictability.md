@@ -1,5 +1,7 @@
 # predictability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predictability.md)
+
 <p><span class="chinese">具有可预测性是很有好处的。</span><span class="english">Predictability is good.</span></p>
 
 <p><span class="chinese">也许那就是可预测性的定义？</span><span class="english">Maybe that's the definition of predictability?</span></p>

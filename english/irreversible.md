@@ -1,5 +1,7 @@
 # irreversible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreversible.md)
+
 <p><span class="chinese">这里的膨胀过程是不可逆的。</span><span class="english">It's an irreversible expansion.</span></p>
 
 <p><span class="chinese">可逆过程中才成立，而这是个不可逆过程。</span><span class="english">This is an irreversible process.</span></p>

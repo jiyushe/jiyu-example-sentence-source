@@ -1,5 +1,7 @@
 # 倾轧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingya.md)
+
 <p><span class="chinese">同时，各公司也在互相倾轧。</span><span class="english">Firms are also suing each other.</span></p>
 
 <p><span class="chinese">小朝廷里充溢阴谋阴谋、倾轧纷争。</span><span class="english">The court with little tricks, faction disputes.</span></p>

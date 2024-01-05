@@ -1,5 +1,7 @@
 # brains
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brains.md)
+
 <p><span class="chinese">我伤透了脑筋。</span><span class="english">I beat my brains.</span></p>
 
 <p><span class="chinese">就好像我们是没脑子覃辉。</span><span class="english">Like we h. e no brains.</span></p>

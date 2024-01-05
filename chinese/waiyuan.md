@@ -1,5 +1,7 @@
 # 外援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiyuan.md)
+
 <p><span class="chinese">去年外援锐减。</span><span class="english">The foreign aid evaporated last year.</span></p>
 
 <p><span class="chinese">但是这样的外援项目屈指可数。</span><span class="english">But such projects are few and far between.</span></p>

@@ -1,5 +1,7 @@
 # 砂子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shazi_2.md)
+
 <p><span class="chinese">他沿着结冰的路撒砂子.</span><span class="english">He sprinkled sand along the icy path.</span></p>
 
 <p><span class="chinese">她把大米中的砂子筛选掉。</span><span class="english">She sifted the sand out from the rice.</span></p>

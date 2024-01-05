@@ -1,5 +1,7 @@
 # 天下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxia.md)
+
 <p><span class="chinese">修身齐家博爱天下。</span><span class="english">Charity begins at home.</span></p>
 
 <p><span class="chinese">是大权在手，纵横天下？</span><span class="english">Power is at hand, the sun?</span></p>

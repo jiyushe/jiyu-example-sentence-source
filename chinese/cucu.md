@@ -1,5 +1,7 @@
 # 粗粗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cucu.md)
+
 <p><span class="chinese">那动物的皮毛红里透黄，鼻子长长的，尾巴粗粗的。</span><span class="english">It had yellowish-red fur, a long nose and a thick tail.</span></p>
 
 <p><span class="chinese">线装书竟用红铅笔划粗粗的线。</span><span class="english">Otherwise, I use a red pencil to draw heavy underlines.</span></p>

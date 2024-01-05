@@ -1,5 +1,7 @@
 # sobriety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sobriety.md)
+
 <p><span class="chinese">但在他悲伤地清醒之中，却深藏着空虚。</span><span class="english">But hollow in his sad sobriety.</span></p>
 
 <p><span class="chinese">如果你做金融，那麽手表除了传递时间资讯以外，还必须传递一种稳重感。</span><span class="english">If you're in finance, sobriety is all your watch must offer beyond the time.</span></p>

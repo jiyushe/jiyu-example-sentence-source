@@ -1,5 +1,7 @@
 # covalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covalent.md)
+
 <p><span class="chinese">他创造了共价键这一概念。</span><span class="english">And he coined the term covalent bonding.</span></p>
 
 <p><span class="chinese">共价键的定义是什么？</span><span class="english">What's the definition of the covalent bond?</span></p>

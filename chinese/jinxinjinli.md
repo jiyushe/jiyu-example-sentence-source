@@ -1,5 +1,7 @@
 # 尽心尽力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxinjinli.md)
+
 <p><span class="chinese">在反对种族歧视的斗争中我会绝对尽心尽力。</span><span class="english">I am very committed in the fight against racism.</span></p>
 
 <p><span class="chinese">窃以为斑竹已经尽心尽力了。</span><span class="english">I think that the webmaster makes out already very good.</span></p>

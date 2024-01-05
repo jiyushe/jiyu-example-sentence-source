@@ -1,5 +1,7 @@
 # 料斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaodou.md)
+
 <p><span class="chinese">适用于皮带秤，料斗秤。</span><span class="english">Suitable for weighing belts and hoper scales.</span></p>
 
 <p><span class="chinese">每班工作完成后，必须清洗车厢和料斗。</span><span class="english">Must clean the dust bin and hopper after work.</span></p>

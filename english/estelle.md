@@ -1,5 +1,7 @@
 # estelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estelle.md)
+
 <p><span class="chinese">我是冯华，是贵院吴加骋同学的妈妈。</span><span class="english">I am Feng Hua, Estelle Wu's mother.</span></p>
 
 <p><span class="chinese">“当然，就是给你的，”埃斯特尔姨妈说道。</span><span class="english">"Yes, of course, " said my Aunt Estelle.</span></p>

@@ -1,5 +1,7 @@
 # 飞毛腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feimaotui.md)
+
 <p><span class="chinese">有点像上海的飞毛腿。</span><span class="english">A bit like FHL in Shanghai.</span></p>
 
 <p><span class="chinese">小明在黄队是队里的飞毛腿。</span><span class="english">Xiao-Ming Huang team is team Scud.</span></p>

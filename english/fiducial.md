@@ -1,5 +1,7 @@
 # fiducial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiducial.md)
+
 <p><span class="chinese">我们增加了两个打机点，请看Q2处。</span><span class="english">We have added 2 fiducial marks. See Q2.</span></p>
 
 <p><span class="chinese">如何完成基准分段的船台定位?。</span><span class="english">How to finish the berth fixed position of fiducial section?</span></p>

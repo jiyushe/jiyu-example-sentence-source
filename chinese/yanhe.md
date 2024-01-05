@@ -1,5 +1,7 @@
 # 沿河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhe.md)
+
 <p><span class="chinese">他们沿河行驶。</span><span class="english">They boated down the river.</span></p>
 
 <p><span class="chinese">我正沿河而行。</span><span class="english">I'm walking along the river.</span></p>

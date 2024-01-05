@@ -1,5 +1,7 @@
 # 任人唯亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenweiqin.md)
+
 <p><span class="chinese">执政党自大傲慢、任人唯亲、贪污腐败。</span><span class="english">The ruling party is arrogant, nepotistic and corrupt.</span></p>
 
 <p><span class="chinese">你该庆幸，倘若你没有在这种任人唯亲的公司工作。</span><span class="english">Consider your- self fortunate if you do not work for this type of company.</span></p>

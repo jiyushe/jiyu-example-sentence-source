@@ -1,5 +1,7 @@
 # 老伙计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laohuoji.md)
+
 <p><span class="chinese">嘿，老伙计，你还得干活呀，咦？</span><span class="english">Hello, old chap, you got to work, hey?</span></p>
 
 <p><span class="chinese">好啊，尝尝这个怎么样，老伙计。</span><span class="english">All right, try this one on for size, big boy.</span></p>

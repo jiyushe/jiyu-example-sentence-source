@@ -1,5 +1,7 @@
 # constipated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constipated.md)
+
 <p><span class="chinese">我便秘了。给我点泻药。</span><span class="english">I'm constipated. I need some laxative.</span></p>
 
 <p><span class="chinese">假若便秘就应该多吃粗糙食物。</span><span class="english">If you're constipated you should eat more roughage.</span></p>

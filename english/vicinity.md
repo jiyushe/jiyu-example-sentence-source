@@ -1,5 +1,7 @@
 # vicinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicinity.md)
+
 <p><span class="chinese">它好像在嘴的附近</span><span class="english">It seems to be in the vicinity of the mouth.</span></p>
 
 <p><span class="chinese">这家一年的收入在一万五千美元左右。</span><span class="english">The family's annual income is in the vicinity of 000.</span></p>

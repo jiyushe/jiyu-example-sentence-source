@@ -1,5 +1,7 @@
 # swine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swine.md)
+
 <p><span class="chinese">明珠暗投。</span><span class="english">Cast pearls before swine.</span></p>
 
 <p><span class="chinese">还记得猪流感或千年虫吗？</span><span class="english">Do you remember swine flu?</span></p>

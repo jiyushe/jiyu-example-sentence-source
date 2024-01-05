@@ -1,5 +1,7 @@
 # 先头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantou.md)
+
 <p><span class="chinese">您先头没有看见有杆枪对着您瞄准吗？</span><span class="english">Did you see a gun aimed at you?</span></p>
 
 <p><span class="chinese">先头部队打响了。</span><span class="english">The advance detachment has engaged the enemy.</span></p>

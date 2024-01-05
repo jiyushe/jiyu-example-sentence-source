@@ -1,5 +1,7 @@
 # betide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betide.md)
+
 <p><span class="chinese">不幸降临于可怜的士兵身上。</span><span class="english">Woe betide the poor soldier.</span></p>
 
 <p><span class="chinese">这预兆表明会产生较好的效果。</span><span class="english">The omens betide better results.</span></p>

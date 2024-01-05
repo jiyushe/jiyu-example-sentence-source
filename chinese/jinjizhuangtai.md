@@ -1,5 +1,7 @@
 # 紧急状态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjizhuangtai.md)
+
 <p><span class="chinese">州长宣布紧急状态。</span><span class="english">The governor declared a state of emergency.</span></p>
 
 <p><span class="chinese">我们把军事戒备从紧急状态降至待命状态。</span><span class="english">We downgraded the military alert from emergency to standby.</span></p>

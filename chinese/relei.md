@@ -1,5 +1,7 @@
 # 热泪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/relei.md)
+
 <p><span class="chinese">热泪从她脸上流下。</span><span class="english">Tears streamed down her cheeks.</span></p>
 
 <p><span class="chinese">他们拥抱在一起，流出了幸福的热泪。</span><span class="english">They hugged and shed happy tears.</span></p>

@@ -1,5 +1,7 @@
 # downtrend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downtrend.md)
+
 <p><span class="chinese">开始也在呈下降趋势。</span><span class="english">Stratis is also in a downtrend.</span></p>
 
 <p><span class="chinese">对我而言,这看来仍像个下跌趋势.</span><span class="english">This still looks like a downtrend to me.</span></p>

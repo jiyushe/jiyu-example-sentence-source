@@ -1,5 +1,7 @@
 # feb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feb.md)
+
 <p><span class="chinese">2月26日是我的木瓜姐姐的生日。</span><span class="english">Feb 26 is my sister pawpaw's birthday.</span></p>
 
 <p><span class="chinese">我们收到了您2010年2月1日的来信。</span><span class="english">We received your letter on Feb.1 2010.</span></p>

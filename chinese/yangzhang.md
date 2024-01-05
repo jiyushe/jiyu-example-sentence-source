@@ -1,5 +1,7 @@
 # 仰仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzhang.md)
+
 <p><span class="chinese">作为政治官员，我可全仰仗着你们了。</span><span class="english">As political officers, I'm counting on you.</span></p>
 
 <p><span class="chinese">他仰仗着他父亲的权势。</span><span class="english">He referred himself to his father's power and influence.</span></p>

@@ -1,5 +1,7 @@
 # albanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albanian.md)
+
 <p><span class="chinese">官方语言是阿而巴尼亚语。</span><span class="english">The official language is Albanian.</span></p>
 
 <p><span class="chinese">会议被阿尔巴尼亚的领土收复主义者所中断。</span><span class="english">The meeting is disrupted by Albanian irredentist.</span></p>

@@ -1,5 +1,7 @@
 # 飘浮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaofu_2.md)
+
 <p><span class="chinese">灰土飘浮于空中。</span><span class="english">Dust floats in the air.</span></p>
 
 <p><span class="chinese">天空中飘浮着一朵白云。</span><span class="english">A white cloud floated in the sky.</span></p>

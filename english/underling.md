@@ -1,5 +1,7 @@
 # underling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underling.md)
+
 <p><span class="chinese">一旦是下僚，永远都是一个下僚。</span><span class="english">Once an underling, always an underling.</span></p>
 
 <p><span class="chinese">教授狡诘地笑着接了一句。</span><span class="english">The professor smiles sagely at the underling.</span></p>

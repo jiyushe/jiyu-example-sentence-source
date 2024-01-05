@@ -1,5 +1,7 @@
 # 行风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfeng.md)
+
 <p><span class="chinese">探讨医院的行风建设。</span><span class="english">To explore the industrial quality construction of hospital.</span></p>
 
 <p><span class="chinese">玄武空象何所依，行风静云瑶台舞。</span><span class="english">By air as any of the basalt, MORALS static cloud Yaotai dance.</span></p>

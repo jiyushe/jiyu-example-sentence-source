@@ -1,5 +1,7 @@
 # affirmatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affirmatory.md)
+
 <p><span class="chinese">确定大三阳的化验项目？</span><span class="english">Affirmatory big the assay project of 3 this world?</span></p>
 
 <p><span class="chinese">目前，影片确定将由大卫·阿耶执导，并将于2016年上映。</span><span class="english">Current, film is affirmatory will by David Aye hold guide, will show 2016.</span></p>

@@ -1,5 +1,7 @@
 # mine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mine.md)
+
 <p><span class="chinese">博维是我的。</span><span class="english">Bove is mine.</span></p>
 
 <p><span class="chinese">我也有我的理解。</span><span class="english">I have the mine.</span></p>

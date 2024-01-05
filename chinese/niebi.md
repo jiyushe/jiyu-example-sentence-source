@@ -1,5 +1,7 @@
 # 镍币
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niebi.md)
+
 <p><span class="chinese">野牛镍币开始设计与1911年。</span><span class="english">The Buffalo Nickle was firstly designed in 1911.</span></p>
 
 <p><span class="chinese">挠痒者在绰号"镍币"上刺了个勾号。</span><span class="english">The tickler pricked atick on the nickname Nickel.</span></p>

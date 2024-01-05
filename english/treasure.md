@@ -1,5 +1,7 @@
 # treasure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treasure.md)
+
 <p><span class="chinese">玩宝物抽丝！</span><span class="english">Play Treasure Snagging!</span></p>
 
 <p><span class="chinese">爱树就是爱惜生命。</span><span class="english">Aiki is the treasure life.</span></p>

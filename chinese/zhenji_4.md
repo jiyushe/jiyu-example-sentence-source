@@ -1,5 +1,7 @@
 # 针剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenji_4.md)
+
 <p><span class="chinese">没有给她输液，没有给她供氧，没有给她注射针剂，没有急救措施。</span><span class="english">No drip, no oxygen mask, no injections, no resuscitation.</span></p>
 
 <p><span class="chinese">我觉得这些针剂更像是刀子，它们在刺我、在戳我。</span><span class="english">I'm pricked and probed by what feels like knives, not needles.</span></p>

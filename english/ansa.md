@@ -1,5 +1,7 @@
 # ansa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ansa.md)
+
 <p><span class="chinese">我们必须忍受，这让我们很痛苦。</span><span class="english">We must bear it and it causes us to suffer," she told ANSA.</span></p>
 
 <p><span class="chinese">据安莎通讯社报道，一名人员当场被逮捕。</span><span class="english">A man was arrested at the scene, according to the Ansa news agency.</span></p>

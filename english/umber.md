@@ -1,5 +1,7 @@
 # umber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umber.md)
+
 <p><span class="chinese">我有一些事情要做…</span><span class="english">Have an umber of things to do.</span></p>
 
 <p><span class="chinese">为了去上班，他乘17路公交车到一个宾馆。</span><span class="english">To get to work, he takes the umber 17 bus to a hotel.</span></p>

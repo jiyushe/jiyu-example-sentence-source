@@ -1,5 +1,7 @@
 # obstetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obstetric.md)
+
 <p><span class="chinese">结论HELLP综合征是一种严重的产科并发症。</span><span class="english">Conclusion HELLP syndrome is a severe obstetric complication.</span></p>
 
 <p><span class="chinese">产科套餐是否包括剖腹生产服务？</span><span class="english">Is Caesarian Section covered by the Obstetric Package service?</span></p>

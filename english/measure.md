@@ -1,5 +1,7 @@
 # measure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measure.md)
+
 <p><span class="chinese">你量量我的尺寸，好吗？</span><span class="english">Can you measure me?</span></p>
 
 <p><span class="chinese">它衡量了什么？</span><span class="english">What does it measure?</span></p>

@@ -1,5 +1,7 @@
 # oracular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oracular.md)
+
 <p><span class="chinese">“孩子”是MGMT的第三支单曲的专辑玄妙壮观。</span><span class="english">Kids" is the third single from MGMT's album Oracular Spectacular."</span></p>
 
 <p><span class="chinese">现代的占卜术中，最需要改进的焦点就是如何去提问一个问题。</span><span class="english">Central to this modern oracular technology of change are the questions we ask.</span></p>

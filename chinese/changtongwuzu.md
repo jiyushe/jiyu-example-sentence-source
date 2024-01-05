@@ -1,5 +1,7 @@
 # 畅通无阻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changtongwuzu.md)
+
 <p><span class="chinese">而这在很大程度上是畅通无阻。</span><span class="english">And that's largely been unhindered.</span></p>
 
 <p><span class="chinese">如今求知之路畅通无阻。</span><span class="english">The path to knowledge is now unbarred.</span></p>

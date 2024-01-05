@@ -1,5 +1,7 @@
 # 磷肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linfei.md)
+
 <p><span class="chinese">这种磷肥的主要原料就是磷灰石。</span><span class="english">The main material of the phosphate fertilizer is apatite.</span></p>
 
 <p><span class="chinese">钾肥和锌肥的施用，有利于甜菜对磷肥和氮肥的利用。</span><span class="english">Applying of K and Zn was favourable for the utilization of P and N.</span></p>

@@ -1,5 +1,7 @@
 # 烟波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbo_1.md)
+
 <p><span class="chinese">鼓击春雷，直破烟波远远回。</span><span class="english">Drum-Spring Thunder broke straight back to Yanbo far.</span></p>
 
 <p><span class="chinese">在颐和园这个皇家故居与园林中，游人们已经挤满了拱廊，另一些人则在烟波鳞鳞的昆明湖上泛舟。</span><span class="english">Already visitors are teeming through its archways and paddling boats on its misty lake.</span></p>

@@ -1,5 +1,7 @@
 # 留神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushen_1.md)
+
 <p><span class="chinese">一扇小门趁我稍不留神。</span><span class="english">A slim door got in past my guard.</span></p>
 
 <p><span class="chinese">留神别蹭在没干的油漆上。</span><span class="english">Be careful not to rub against the wet paint.</span></p>

@@ -1,5 +1,7 @@
 # 自然而然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranerran.md)
+
 <p><span class="chinese">自然而然，你希望有所作为。</span><span class="english">Naturally, you want to do something.</span></p>
 
 <p><span class="chinese">死亡是一种自然而然的超凡人圣。</span><span class="english">It is a sort of natural canonization.</span></p>

@@ -1,5 +1,7 @@
 # tenant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenant.md)
+
 <p><span class="chinese">您的房客是否有租契？</span><span class="english">Does your tenant have a lease?</span></p>
 
 <p><span class="chinese">你要找新的租客吗？</span><span class="english">Are you looking for a new tenant?</span></p>

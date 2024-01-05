@@ -1,5 +1,7 @@
 # choroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choroid.md)
+
 <p><span class="chinese">脉络膜的或与脉络膜有关的。</span><span class="english">Of or relating to the choroid.</span></p>
 
 <p><span class="chinese">同样脉络丛也可能随年龄增长而钙化。</span><span class="english">Choroid plexus may become calcified with age as well.</span></p>

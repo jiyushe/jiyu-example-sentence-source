@@ -1,5 +1,7 @@
 # 剪发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianfa_1.md)
+
 <p><span class="chinese">不要剪发，只要修面。</span><span class="english">No haircut, just a shave.</span></p>
 
 <p><span class="chinese">所以我剪发免费，染发也免费。</span><span class="english">So I get free haircut, free hair colours.</span></p>

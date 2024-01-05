@@ -1,5 +1,7 @@
 # catgut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catgut.md)
+
 <p><span class="chinese">医用羊肠线，适用于妇科手术。</span><span class="english">The catgut suture applies to Gynaecologic surgery.</span></p>
 
 <p><span class="chinese">而羊肠类的塑料线也比金属线的来的响亮。</span><span class="english">Catgut and type of plastic than metal lines to the loud.</span></p>

@@ -1,5 +1,7 @@
 # 俯冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuchong.md)
+
 <p><span class="chinese">那只鹰收拢双翅做俯冲。</span><span class="english">The eagle drooped its wings.</span></p>
 
 <p><span class="chinese">他又一次俯冲下去进行轰炸。</span><span class="english">He nosedived again for bombing.</span></p>

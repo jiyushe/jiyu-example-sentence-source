@@ -1,5 +1,7 @@
 # install 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/install.md)
+
 <p><span class="chinese">安装补丁。</span><span class="english">Install the patch.</span></p>
 
 <p><span class="chinese">安装该软件。</span><span class="english">Install the software.</span></p>

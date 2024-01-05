@@ -1,5 +1,7 @@
 # 惊呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghu.md)
+
 <p><span class="chinese">她惊呼，“谁会盯孩子们的梢？</span><span class="english">Who's stalking the kids there?</span></p>
 
 <p><span class="chinese">你的妹妹开始惊呼。</span><span class="english">And your sister starts to scream.</span></p>

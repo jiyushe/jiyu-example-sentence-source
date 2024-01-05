@@ -1,5 +1,7 @@
 # forever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forever.md)
+
 <p><span class="chinese">傻女，我爱你直到永远！</span><span class="english">I love U forever !</span></p>
 
 <p><span class="chinese">羲，我永远支持你！</span><span class="english">Forever Support U !</span></p>

@@ -1,5 +1,7 @@
 # resolutely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resolutely.md)
+
 <p><span class="chinese">他毅然决然地重返前线。</span><span class="english">He resolutely went back to the front.</span></p>
 
 <p><span class="chinese">我们坚决反对大国沙文主义。</span><span class="english">We resolutely oppose great power chauvinism.</span></p>

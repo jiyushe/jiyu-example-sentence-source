@@ -1,5 +1,7 @@
 # sequelae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequelae.md)
+
 <p><span class="chinese">没有发生死亡或明显的神经后遗症。</span><span class="english">There were no deaths or apparent neurologic sequelae.</span></p>
 
 <p><span class="chinese">早期的后遗症包括在各种平面的截肢。</span><span class="english">Early sequelae included amputations at a variety of levels.</span></p>

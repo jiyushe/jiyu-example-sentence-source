@@ -1,5 +1,7 @@
 # divert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divert.md)
+
 <p><span class="chinese">我本能的反应是转移我的目光。</span><span class="english">I divert my sight by instinct.</span></p>
 
 <p><span class="chinese">他总能搬出新玩意去娱悦小孩子。</span><span class="english">He can always invent a new game to divert the children.</span></p>

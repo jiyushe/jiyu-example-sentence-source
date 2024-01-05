@@ -1,5 +1,7 @@
 # 孤僻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gupi.md)
+
 <p><span class="chinese">熊是不合群的孤僻的动物。</span><span class="english">Bears are asocial secretive animals.</span></p>
 
 <p><span class="chinese">你野心勃勃、孤僻且太主观。</span><span class="english">You're ambitious, seclusive and too subjective.</span></p>

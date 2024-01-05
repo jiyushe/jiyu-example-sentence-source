@@ -1,5 +1,7 @@
 # 音阶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjie.md)
+
 <p><span class="chinese">这叫做八度音阶</span><span class="english">This is called an octave.</span></p>
 
 <p><span class="chinese">升高的音阶增加紧张感</span><span class="english">Scales that go up add tension.</span></p>

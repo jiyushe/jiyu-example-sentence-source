@@ -1,5 +1,7 @@
 # ilo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ilo.md)
+
 <p><span class="chinese">同时，国民政府对国际劳工局的直接干预也置若罔闻。</span><span class="english">The government even turned a deaf ear to the direct intervention by the ILO.</span></p>
 
 <p><span class="chinese">对职业安全卫生的关注，历来是国际劳工组织使命的核心部分。</span><span class="english">Concern for occupational safety and health is the central part of ILO mission.</span></p>

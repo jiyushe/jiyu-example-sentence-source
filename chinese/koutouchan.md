@@ -1,5 +1,7 @@
 # 口头禅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koutouchan.md)
+
 <p><span class="chinese">我们的口头禅是吃得好过得好。</span><span class="english">Our mantra is eat well and live well.</span></p>
 
 <p><span class="chinese">那是我的口头禅。</span><span class="english">That gets close to my involvement in life.</span></p>

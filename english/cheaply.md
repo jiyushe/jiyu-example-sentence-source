@@ -1,5 +1,7 @@
 # cheaply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheaply.md)
+
 <p><span class="chinese">看起来像廉价品。</span><span class="english">Look cheaply made.</span></p>
 
 <p><span class="chinese">布朗夫妇给你搭伙，收费会很便宜。</span><span class="english">The Browns will board you very cheaply.</span></p>

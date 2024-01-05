@@ -1,5 +1,7 @@
 # 常例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changli.md)
+
 <p><span class="chinese">按常例我该拒绝。</span><span class="english">I should refuse.</span></p>
 
 <p><span class="chinese">按常例我该拒绝。</span><span class="english">I say no once for all.</span></p>

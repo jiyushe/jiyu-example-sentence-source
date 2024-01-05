@@ -1,5 +1,7 @@
 # kangaroo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kangaroo.md)
+
 <p><span class="chinese">小袋鼠拿到了那根骨头。</span><span class="english">The baby kangaroo has it.</span></p>
 
 <p><span class="chinese">袋鼠在前面的囊袋状。</span><span class="english">Kangaroo pouch pocket at front.</span></p>

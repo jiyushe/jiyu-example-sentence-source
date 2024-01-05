@@ -1,5 +1,7 @@
 # fresher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fresher.md)
+
 <p><span class="chinese">新鲜的绿叶蔬菜更嫩，味道也更美。</span><span class="english">Fresher greens are more tender and tastier.</span></p>
 
 <p><span class="chinese">我拉上窗帘，顿时觉得心胸开朗，格外清新。</span><span class="english">I close the curtain now, feeling broader, fresher.</span></p>

@@ -1,5 +1,7 @@
 # sadly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadly.md)
+
 <p><span class="chinese">我悲伤地说。</span><span class="english">I said, sadly.</span></p>
 
 <p><span class="chinese">他伤心地笑了。</span><span class="english">He smiled sadly.</span></p>

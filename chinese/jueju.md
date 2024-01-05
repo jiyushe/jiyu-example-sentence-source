@@ -1,5 +1,7 @@
 # 绝句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueju.md)
+
 <p><span class="chinese">绝句和断章。</span><span class="english">Rhyme and broken chapter.</span></p>
 
 <p><span class="chinese">却学得了诗词、颂歌、绝句来替代。</span><span class="english">And has learned poetry, odes, and quatrains instead.</span></p>

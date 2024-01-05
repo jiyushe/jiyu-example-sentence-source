@@ -1,5 +1,7 @@
 # elderly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elderly.md)
+
 <p><span class="chinese">这是一对老年夫妇了。</span><span class="english">This is an elderly couple.</span></p>
 
 <p><span class="chinese">老野猴也跑过来。</span><span class="english">And elderly monkey comes over.</span></p>

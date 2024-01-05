@@ -1,5 +1,7 @@
 # 细致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhi.md)
+
 <p><span class="chinese">单宁很强壮，却很细致。</span><span class="english">The tannins are strong but fine.</span></p>
 
 <p><span class="chinese">德布西是细致又喧闹的吗？</span><span class="english">Is Debussy both subtle and blatant?</span></p>

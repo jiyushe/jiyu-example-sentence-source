@@ -1,5 +1,7 @@
 # mapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mapper.md)
+
 <p><span class="chinese">然后，选择持久性映射程序组件。</span><span class="english">Then, choose the persistence mapper component.</span></p>
 
 <p><span class="chinese">clj-record是一个类似于ActiveRecord的ORM映射器。</span><span class="english">clj-record is an ActiveRecord-like ORM mapper.</span></p>

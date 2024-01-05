@@ -1,5 +1,7 @@
 # misallocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misallocation.md)
+
 <p><span class="chinese">这只会导致大规模的资金分配不当。</span><span class="english">The result could only be a massive misallocation of capital.</span></p>
 
 <p><span class="chinese">那么误读，歪曲，抑或是分配不当到底谁是罪魁祸首呢？</span><span class="english">So which was it, misperception, misrepresentation, or misallocation?</span></p>

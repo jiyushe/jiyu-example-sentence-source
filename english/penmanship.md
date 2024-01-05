@@ -1,5 +1,7 @@
 # penmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penmanship.md)
+
 <p><span class="chinese">你是说笔杆子还行，是吗？</span><span class="english">You mean your penmanship is good? Is thatit?</span></p>
 
 <p><span class="chinese">我嫂子认识一位书法大师，他的作品很值钱呢。</span><span class="english">My sister-in-law knew a master of penmanship whose work is expensive.</span></p>

@@ -1,5 +1,7 @@
 # doorbell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doorbell.md)
+
 <p><span class="chinese">于是他按响了门铃。</span><span class="english">He rings the doorbell.</span></p>
 
 <p><span class="chinese">我再次按下了门铃。</span><span class="english">I rang the doorbell again.</span></p>

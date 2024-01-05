@@ -1,5 +1,7 @@
 # 上访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfang_2.md)
+
 <p><span class="chinese">赵亮和他的〈上访〉均被提及。</span><span class="english">Zhao and "Petition" were actually mentioned by name.</span></p>
 
 <p><span class="chinese">准备上访先获罪社会黑不黑…</span><span class="english">Petition for first convicted of social black not black?</span></p>

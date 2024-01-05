@@ -1,5 +1,7 @@
 # subjection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjection.md)
+
 <p><span class="chinese">征服这些造反派花了很长时间。</span><span class="english">The subjection of the rebels took a long time.</span></p>
 
 <p><span class="chinese">征服印第安人用了很长的时间。</span><span class="english">The subjection of the Indians took a long time.</span></p>

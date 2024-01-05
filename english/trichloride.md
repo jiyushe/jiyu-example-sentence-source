@@ -1,5 +1,7 @@
 # trichloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichloride.md)
+
 <p><span class="chinese">当传感器暴露在三氯化物中时，有很大变化。</span><span class="english">Significant changes have been noted where sensors were exposed to trichloride.</span></p>
 
 <p><span class="chinese">对用三氯化磷和醇合成亚磷酸二烷基酯方法进行了改进。</span><span class="english">The method for synthesizing dialkyl phosphite from phosphorus trichloride was improved.</span></p>

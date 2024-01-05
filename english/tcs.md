@@ -1,5 +1,7 @@
 # tcs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tcs.md)
+
 <p><span class="chinese">我愿意加入学校年刊筹备小组。</span><span class="english">I'm willing to be a volunteer in preparing for TCS yearbook.</span></p>
 
 <p><span class="chinese">详情请参阅培训行事历上有关活动附件。</span><span class="english">Please refer to the attachment of the event posted on the TCS for details.</span></p>

@@ -1,5 +1,7 @@
 # suit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suit.md)
+
 <p><span class="chinese">这套衣服好染吗?</span><span class="english">Will this suit dye?</span></p>
 
 <p><span class="chinese">用某一风格设计或者剪裁。</span><span class="english">A suit of voguish cut.</span></p>

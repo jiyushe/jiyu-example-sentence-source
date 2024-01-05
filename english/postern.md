@@ -1,5 +1,7 @@
 # postern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postern.md)
+
 <p><span class="chinese">这是一个后门病毒。</span><span class="english">This is a postern virus.</span></p>
 
 <p><span class="chinese">后门边由精致的黑板报。</span><span class="english">The postern by exquisite blackboard newspaper.</span></p>

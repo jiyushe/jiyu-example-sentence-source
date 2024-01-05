@@ -1,5 +1,7 @@
 # schooner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schooner.md)
+
 <p><span class="chinese">希腊纵帆船在西班牙搁浅了。</span><span class="english">The Greek schooner ran aground off Spain.</span></p>
 
 <p><span class="chinese">他喝了一大酒杯啤酒后醉倒了。</span><span class="english">He drank a schooner of beer and became drunken.</span></p>

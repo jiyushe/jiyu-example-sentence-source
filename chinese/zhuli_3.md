@@ -1,5 +1,7 @@
 # 助理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuli_3.md)
+
 <p><span class="chinese">我和我的助理。</span><span class="english">No, I and my assistant.</span></p>
 
 <p><span class="chinese">是去当经理助理。</span><span class="english">As an assistant manager!</span></p>

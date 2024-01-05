@@ -1,5 +1,7 @@
 # 似是而非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishierfei.md)
+
 <p><span class="chinese">一切事情都变得似是而非了。</span><span class="english">Everything is paradoxical.</span></p>
 
 <p><span class="chinese">这是一个似是而非的伪问题。</span><span class="english">This is a specious puppet.</span></p>

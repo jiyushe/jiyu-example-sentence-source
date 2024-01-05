@@ -1,5 +1,7 @@
 # doctoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctoral.md)
+
 <p><span class="chinese">今年我刚参加到一个博士项目中。</span><span class="english">This is my first year in a doctoral program.</span></p>
 
 <p><span class="chinese">陈国南博士，教授，博士生导师。</span><span class="english">Dr. Guonan Chen, Professor, Doctoral Advisor, Prof.</span></p>

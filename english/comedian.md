@@ -1,5 +1,7 @@
 # comedian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comedian.md)
+
 <p><span class="chinese">喜剧演员比尔·伯尔如此说道。</span><span class="english">Comedian Bill Burr.</span></p>
 
 <p><span class="chinese">艾美奖的获得者，喜剧演员</span><span class="english">Emmy-winning comedian and actor</span></p>

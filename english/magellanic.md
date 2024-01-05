@@ -1,5 +1,7 @@
 # magellanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magellanic.md)
+
 <p><span class="chinese">另外两个麦哲伦星系均为X星系的十倍以上。</span><span class="english">The two Magellanic are each about ten times larger.</span></p>
 
 <p><span class="chinese">它们以大小麦哲伦云为人们所知。</span><span class="english">They're known as the Large and Small Magellanic Clouds.</span></p>

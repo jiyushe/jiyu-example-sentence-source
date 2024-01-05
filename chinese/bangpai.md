@@ -1,5 +1,7 @@
 # 帮派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangpai.md)
+
 <p><span class="chinese">我们还和其他帮派打架。</span><span class="english">We also fought with other gangs.</span></p>
 
 <p><span class="chinese">他已经和那个帮派组织决裂了。</span><span class="english">He has already broken with that gang.</span></p>

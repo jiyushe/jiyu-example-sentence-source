@@ -1,5 +1,7 @@
 # postmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postmen.md)
+
 <p><span class="chinese">在邮局。他们是邮递员。</span><span class="english">In the post office. They are postmen.</span></p>
 
 <p><span class="chinese">这条狗咬了邮递员的腿。</span><span class="english">The dog has nipped the postmen on the leg.</span></p>

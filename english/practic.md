@@ -1,5 +1,7 @@
 # practic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practic.md)
+
 <p><span class="chinese">为什么医生管他们所做的事情叫做“实习、实践”？</span><span class="english">Why is it that doctors call what they do " practic"?</span></p>
 
 <p><span class="chinese">不符合准则或规范的人不服从，或拒绝被既定的信仰，风俗，或规则约束的人。</span><span class="english">One who does not conform to, or refuses to be bound by, accepted beliefs, customs, or practic es.</span></p>

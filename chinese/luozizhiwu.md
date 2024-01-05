@@ -1,5 +1,7 @@
 # 裸子植物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luozizhiwu.md)
+
 <p><span class="chinese">具有黄色木质的裸子植物树木的任何一种。</span><span class="english">Any of various gymnospermous trees having yellow wood.</span></p>
 
 <p><span class="chinese">裸子植物次生木质部的进化趋势。</span><span class="english">Evolutionary trends in secondary xylem of gymnosperms.</span></p>

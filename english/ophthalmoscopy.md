@@ -1,5 +1,7 @@
 # ophthalmoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmoscopy.md)
+
 <p><span class="chinese">通过直接和间接检眼镜观察即可作出诊断。</span><span class="english">Diagnosis is made by direct and indirect ophthalmoscopy.</span></p>
 
 <p><span class="chinese">更加复杂的工具还有扫描激光检眼镜。</span><span class="english">For more complicated procedures, scanning laser ophthalmoscopy is available.</span></p>

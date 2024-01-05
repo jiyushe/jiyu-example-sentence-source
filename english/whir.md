@@ -1,5 +1,7 @@
 # whir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whir.md)
+
 <p><span class="chinese">我们听到了机器声。</span><span class="english">We heard the machine whir.</span></p>
 
 <p><span class="chinese">时间的金色翅膀飕飕的飞逝过去了。</span><span class="english">Time flew past with a whir of golden wings.</span></p>

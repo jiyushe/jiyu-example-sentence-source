@@ -1,5 +1,7 @@
 # 醍醐灌顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tihuguanding.md)
+
 <p><span class="chinese">对于新上任的这个市场管理者来说，这次约见无异于醍醐灌顶。</span><span class="english">For the incoming regulator, the meeting was a wake-up call.</span></p>
 
 <p><span class="chinese">据说爱情令人盲目，而友谊却能让人醍醐灌顶。</span><span class="english">It is said the love is blind but friendship is clairvoyant.</span></p>

@@ -1,5 +1,7 @@
 # reflection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflection.md)
+
 <p><span class="chinese">什么是反射?</span><span class="english">What is Reflection?</span></p>
 
 <p><span class="chinese">它可能只是镜象。</span><span class="english">It could be on reflection.</span></p>

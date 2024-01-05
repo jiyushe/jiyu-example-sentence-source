@@ -1,5 +1,7 @@
 # 开发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifa.md)
+
 <p><span class="chinese">开发你的潜能。</span><span class="english">Unlock your potential.</span></p>
 
 <p><span class="chinese">基于资产的开发。</span><span class="english">Asset-based development.</span></p>

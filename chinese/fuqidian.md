@@ -1,5 +1,7 @@
 # 夫妻店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqidian.md)
+
 <p><span class="chinese">亲爱的，咱们开个夫妻店怎么样？</span><span class="english">Shall we open a shop by ourselves, darling?</span></p>
 
 <p><span class="chinese">我很乐意免费为那些夫妻店建立一个网站，而这个网站是可以在博客上免费搜索的。</span><span class="english">Still, it's a free website, and I'm offering my help up for free.</span></p>

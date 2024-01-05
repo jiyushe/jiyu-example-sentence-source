@@ -1,5 +1,7 @@
 # incompetence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompetence.md)
+
 <p><span class="chinese">浮躁是无能的同义语。</span><span class="english">Impetuosity is the synonym of incompetence.</span></p>
 
 <p><span class="chinese">珍丽由于能力不够没能胜任这个工作。</span><span class="english">Jenny failed her job due to her incompetence.</span></p>

@@ -1,5 +1,7 @@
 # deserved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deserved.md)
+
 <p><span class="chinese">罪有应得。</span><span class="english">You deserved it.</span></p>
 
 <p><span class="chinese">这倒也是他应得的荣誉。</span><span class="english">And he deserved it too.</span></p>

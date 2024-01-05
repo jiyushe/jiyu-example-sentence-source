@@ -1,5 +1,7 @@
 # reek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reek.md)
+
 <p><span class="chinese">你好好洗了洗她么，臭佬？</span><span class="english">You give her a good wash, Reek?</span></p>
 
 <p><span class="chinese">你闻到发霉烟草的臭味了吗？</span><span class="english">Do you smell the reek of stale tobacco?</span></p>

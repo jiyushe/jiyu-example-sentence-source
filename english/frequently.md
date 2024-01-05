@@ -1,5 +1,7 @@
 # frequently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frequently.md)
+
 <p><span class="chinese">我现在还经常这样做。</span><span class="english">I still do this frequently.</span></p>
 
 <p><span class="chinese">我常骑自行车。</span><span class="english">I ride a bicycle frequently.</span></p>

@@ -1,5 +1,7 @@
 # textural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textural.md)
+
 <p><span class="chinese">采用固体发和酵母分离技术提高酒的品质。</span><span class="english">High solid ferments and yeast leescontract to highlight textural qualities.</span></p>
 
 <p><span class="chinese">根据孔隙结构特征，将葡萄花油层储层分成4类。</span><span class="english">Based on textural characters of pore, reservoir is divided into 4 categories.</span></p>

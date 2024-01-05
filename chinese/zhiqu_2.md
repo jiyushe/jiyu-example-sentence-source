@@ -1,5 +1,7 @@
 # 知趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqu_2.md)
+
 <p><span class="chinese">友情是知趣相投的共享。</span><span class="english">Friendship means sharing same interests.</span></p>
 
 <p><span class="chinese">老板一来，她立刻变得知趣多了。</span><span class="english">When the boss comes, she knows her place.</span></p>

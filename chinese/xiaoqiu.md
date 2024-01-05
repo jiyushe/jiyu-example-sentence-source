@@ -1,5 +1,7 @@
 # 削球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqiu.md)
+
 <p><span class="chinese">你用的削球不和。</span><span class="english">You didn't use the slice a lot.</span></p>
 
 <p><span class="chinese">注意他的反手削球。</span><span class="english">Pay attention to his backhand chop.</span></p>

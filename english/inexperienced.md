@@ -1,5 +1,7 @@
 # inexperienced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexperienced.md)
+
 <p><span class="chinese">让一个没有经验的人当总统？</span><span class="english">With an inexperienced man as President?</span></p>
 
 <p><span class="chinese">刚从林子里捕获的老虎对那些没有经验的人是不合适的，所以就不推荐了。</span><span class="english">Tigers fresh from the bush are not recommended for the inexperienced.</span></p>

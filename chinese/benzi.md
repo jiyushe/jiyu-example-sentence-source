@@ -1,5 +1,7 @@
 # 本子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benzi.md)
+
 <p><span class="chinese">一大滴眼泪“啪”地落在我的本子上。</span><span class="english">A huge tear plopped onto the page.</span></p>
 
 <p><span class="chinese">那是云云的书和本子。</span><span class="english">Those are Yunyun's book and notebook.</span></p>

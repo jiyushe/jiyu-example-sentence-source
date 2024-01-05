@@ -1,5 +1,7 @@
 # easiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easiness.md)
+
 <p><span class="chinese">生命是非常美好的，如果生活中充满了从容与自信的话。</span><span class="english">Life is happier if it is full of easiness and assuredness.</span></p>
 
 <p><span class="chinese">这种药的副作用之一就是容易上瘾。</span><span class="english">One of the side effects of this drug is the easiness of habit-forming.</span></p>

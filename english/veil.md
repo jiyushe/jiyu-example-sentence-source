@@ -1,5 +1,7 @@
 # veil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veil.md)
+
 <p><span class="chinese">她掀起面罩。</span><span class="english">She raised her veil.</span></p>
 
 <p><span class="chinese">白纱礼服和罩纱。</span><span class="english">A white dress and veil.</span></p>

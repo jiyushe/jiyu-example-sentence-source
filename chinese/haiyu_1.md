@@ -1,5 +1,7 @@
 # 海鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyu_1.md)
+
 <p><span class="chinese">中国近海鱼产丰富。</span><span class="english">Fish teem in Chinese waters.</span></p>
 
 <p><span class="chinese">在海钓中狂钓海鱼。</span><span class="english">Make a wild catch when sea fishing.</span></p>

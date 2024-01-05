@@ -1,5 +1,7 @@
 # hyssop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyssop.md)
+
 <p><span class="chinese">海索草包含有一种脂肪酸，激励皮肤再生长。</span><span class="english">Hyssop contains a fatty acid that stimulates the skin to reproduce.</span></p>
 
 <p><span class="chinese">海索草提醒我们尊重我们自己，并尊重生命之舞中的所有其他人。</span><span class="english">Hyssop reminds us to honor ourselves and honor all others in the dance of life.</span></p>

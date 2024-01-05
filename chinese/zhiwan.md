@@ -1,5 +1,7 @@
 # 枝蔓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwan.md)
+
 <p><span class="chinese">她是年轻的，开朗的，似乎性格的枝蔓没有被外界修饰过。</span><span class="english">She is young, cheerful, it seems that character has not been outside dendrite embellished.</span></p>
 
 <p><span class="chinese">如果这井口被枝蔓完全覆盖，你就再也不能回到你的时代了！</span><span class="english">If these branches completely cover the well you will never be able to go back to your time.</span></p>

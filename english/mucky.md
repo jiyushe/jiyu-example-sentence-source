@@ -1,5 +1,7 @@
 # mucky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucky.md)
+
 <p><span class="chinese">那把椅子搞到相当脏，还有点霉湿。</span><span class="english">And the chair is becoming quite mucky and damp.</span></p>
 
 <p><span class="chinese">连云港地区的软土是海相淤泥和淤泥质土。</span><span class="english">Lianyungang marine soft clay is muck and mucky soil.</span></p>

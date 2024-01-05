@@ -1,5 +1,7 @@
 # rater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rater.md)
+
 <p><span class="chinese">因此，评分员培训过程并没有像预期的那样效果明显。</span><span class="english">So the rater training process was not as effective as we have expected.</span></p>
 
 <p><span class="chinese">公司拥有现代化的生产设备和相当完备的配套设施。</span><span class="english">It owns modern produce equipment and rater complete necessary facilities.</span></p>

@@ -1,5 +1,7 @@
 # socratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socratic.md)
+
 <p><span class="chinese">我们大部分课用的是我们叫做苏格拉底方法进行教学的，</span><span class="english">So most of our classes are taught by what we call Socratic method</span></p>
 
 <p><span class="chinese">因此医学院没有苏格拉底式的对话也就不足为奇了。</span><span class="english">We should not be surprised there is no Socratic dialogue with Hippocrates.</span></p>

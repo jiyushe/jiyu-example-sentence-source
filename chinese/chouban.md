@@ -1,5 +1,7 @@
 # 筹办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouban.md)
+
 <p><span class="chinese">这是为自己们体育教师筹办地。</span><span class="english">It's for our P. E. teacher.</span></p>
 
 <p><span class="chinese">你筹办一小我私人住在这搭吗？</span><span class="english">Bre you gonna live here alone?</span></p>

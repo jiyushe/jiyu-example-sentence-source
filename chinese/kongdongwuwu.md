@@ -1,5 +1,7 @@
 # 空洞无物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongdongwuwu.md)
+
 <p><span class="chinese">他的话听来空洞无物。</span><span class="english">His words rang hollow.</span></p>
 
 <p><span class="chinese">他的演说空洞无物。</span><span class="english">His speech had no guts in it.</span></p>

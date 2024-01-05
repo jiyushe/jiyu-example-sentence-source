@@ -1,5 +1,7 @@
 # largeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/largeness.md)
+
 <p><span class="chinese">媒体规模大并不一定是坏事。</span><span class="english">Largeness as such is not bad.</span></p>
 
 <p><span class="chinese">一普通和大之的母亲。</span><span class="english">A ordinary and largeness mother.</span></p>

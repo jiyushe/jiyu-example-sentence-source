@@ -1,5 +1,7 @@
 # tannoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tannoy.md)
+
 <p><span class="chinese">广播里传来了一条消息。</span><span class="english">A message came over the Tannoy.</span></p>
 
 <p><span class="chinese">在天朗研发部门的结论是。</span><span class="english">The Tannoy R &D department concluded that.</span></p>

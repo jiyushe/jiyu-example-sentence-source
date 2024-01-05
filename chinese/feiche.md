@@ -1,5 +1,7 @@
 # 飞车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiche.md)
+
 <p><span class="chinese">最旁边的在玩极品飞车？</span><span class="english">Do your best, you are the best.</span></p>
 
 <p><span class="chinese">可能是飞车抢夺。</span><span class="english">May be an aerodyne to scramble.</span></p>

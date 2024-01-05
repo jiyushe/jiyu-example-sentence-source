@@ -1,5 +1,7 @@
 # 仅只
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhi.md)
+
 <p><span class="chinese">现在，你仍旧仅只是一个梦而以。</span><span class="english">Now you're just a dream.</span></p>
 
 <p><span class="chinese">仅只是眼睑，如此琐细。</span><span class="english">Merely lid. How trivial it is.</span></p>

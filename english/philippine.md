@@ -1,5 +1,7 @@
 # Philippine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philippine.md)
+
 <p><span class="chinese">他只抽劣质的灰色菲律宾雪茄。</span><span class="english">He consumed vile gray philippine ropes.</span></p>
 
 <p><span class="chinese">菲律宾前总统阿基诺因逝世。</span><span class="english">Former Philippine president Aquino dies.</span></p>

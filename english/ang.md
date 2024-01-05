@@ -1,5 +1,7 @@
 # ang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ang.md)
+
 <p><span class="chinese">他的胡须又白又长。</span><span class="english">His beard is white ang long.</span></p>
 
 <p><span class="chinese">我爱李安，他是个真男人！</span><span class="english">I love Ang Lee. He's the man.</span></p>

@@ -1,5 +1,7 @@
 # 夜宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyan.md)
+
 <p><span class="chinese">包括打击歌曲“夜宴”的派对带。</span><span class="english">Includes the hit song "Banquet" by Bloc Party band.</span></p>
 
 <p><span class="chinese">西餐夜宴的人均消费为每位888元人民币。</span><span class="english">Banquet food for each per capita consumption of 888 yuan.</span></p>

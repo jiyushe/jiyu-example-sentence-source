@@ -1,5 +1,7 @@
 # apothecary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apothecary.md)
+
 <p><span class="chinese">药剂师问谁病了？</span><span class="english">The apothecary inquired who was ill?</span></p>
 
 <p><span class="chinese">在“药剂师专柜”，唐从不穿白大褂。</span><span class="english">At the Apothecary Shoppe, Don never wears a white coat.</span></p>

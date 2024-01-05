@@ -1,5 +1,7 @@
 # tankage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tankage.md)
+
 <p><span class="chinese">所有筒槽和与之相连接的水槽为平轧钢板制造。</span><span class="english">C. All tankage and connecting flumes are boiler plate.</span></p>
 
 <p><span class="chinese">生物二沉池的轴安装在水泥池中。</span><span class="english">Bio-Clarifier shaft is supplied to be installed in concrete tankage.</span></p>

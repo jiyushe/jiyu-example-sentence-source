@@ -1,5 +1,7 @@
 # 勋章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzhang.md)
+
 <p><span class="chinese">是的，我得到了紫心勋章。</span><span class="english">Yeah, I got a Purple Heart.</span></p>
 
 <p><span class="chinese">获奖战术已获得一面黑甲勋章。</span><span class="english">Earn at least one Onyx medal.</span></p>

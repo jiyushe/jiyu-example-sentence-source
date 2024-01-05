@@ -1,5 +1,7 @@
 # resonance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resonance.md)
+
 <p><span class="chinese">向外，向整个大宇宙去寻求共鸣。</span><span class="english">It seeks for resonance from macrocosm.</span></p>
 
 <p><span class="chinese">另附共鸣箱及击槌。</span><span class="english">With acoustic resonance box and beater.</span></p>

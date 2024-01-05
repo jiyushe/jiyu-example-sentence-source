@@ -1,5 +1,7 @@
 # 捏合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niehe_1.md)
+
 <p><span class="chinese">行星溶解，捏合机，三辊轧机。</span><span class="english">Planetary-Dissolver, Kneader, Triple roll mill.</span></p>
 
 <p><span class="chinese">本书的问题是，他把三本不同的书捏合为一本，但却不那么成功。</span><span class="english">The problem is that this is three books trying to be one and not always succeeding.</span></p>

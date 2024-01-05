@@ -1,5 +1,7 @@
 # physiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physiology.md)
+
 <p><span class="chinese">因此女人任由她生理的摆布。</span><span class="english">So the woman was at the mercy of her physiology.</span></p>
 
 <p><span class="chinese">植物生物技术育种及逆境生理。</span><span class="english">Plant bio-technology breeding and adversity physiology.</span></p>

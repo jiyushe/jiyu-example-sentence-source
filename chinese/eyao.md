@@ -1,5 +1,7 @@
 # 扼要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eyao.md)
+
 <p><span class="chinese">让我们扼要重述。</span><span class="english">Let's recap.</span></p>
 
 <p><span class="chinese">扼要重述新闻报道中的扼要重述。</span><span class="english">A recapitulation, as of a news report.</span></p>

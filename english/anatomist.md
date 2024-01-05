@@ -1,5 +1,7 @@
 # anatomist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatomist.md)
+
 <p><span class="chinese">法国的解剖学家，他发现了胸导管。</span><span class="english">French anatomist who discovered the thoracic duct.</span></p>
 
 <p><span class="chinese">英国的动物学家和比较解剖学家，反对达尔文的进化论。</span><span class="english">English zoologist and comparative anatomist who opposed Darwin's evolution theory.</span></p>

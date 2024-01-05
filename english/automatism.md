@@ -1,5 +1,7 @@
 # automatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automatism.md)
+
 <p><span class="chinese">发作时的主要症状为自动症。</span><span class="english">Attack of the main symptoms of automatism.</span></p>
 
 <p><span class="chinese">这样的自动作用的本质为何？</span><span class="english">What might the nature of such automatism be?</span></p>

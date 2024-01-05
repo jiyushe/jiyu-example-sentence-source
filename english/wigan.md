@@ -1,5 +1,7 @@
 # wigan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wigan.md)
+
 <p><span class="chinese">什么时候能看到你再次比赛？对阵维根？</span><span class="english">When do we see you on the pitch next? Wigan?</span></p>
 
 <p><span class="chinese">他在对米杜士堡和韦根一役中，表现非常出色。</span><span class="english">He did really well against Middlesbrough and Wigan.</span></p>

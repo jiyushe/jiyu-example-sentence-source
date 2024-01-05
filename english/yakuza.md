@@ -1,5 +1,7 @@
 # yakuza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yakuza.md)
+
 <p><span class="chinese">在过去由黑社会说了算的建筑行业也是一样。</span><span class="english">Same thing in construction, which used to be dominated by yakuza.</span></p>
 
 <p><span class="chinese">他每个月都向黑帮交纳保护费。</span><span class="english">Mr. Lee pays the yakuza a monthly protection fee for the privilege.</span></p>

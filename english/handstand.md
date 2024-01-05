@@ -1,5 +1,7 @@
 # handstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handstand.md)
+
 <p><span class="chinese">刚吃了饭就开始倒立。</span><span class="english">Just dined began handstand.</span></p>
 
 <p><span class="chinese">他做了一个二指禅。</span><span class="english">He did a two-finger handstand.</span></p>

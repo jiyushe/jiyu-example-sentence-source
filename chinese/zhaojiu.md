@@ -1,5 +1,7 @@
 # 照旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaojiu.md)
+
 <p><span class="chinese">你们报的是到岸价照旧离岸价?。</span><span class="english">do you quote cig or fob?</span></p>
 
 <p><span class="chinese">敬辞您要喝茶照旧咖啡?。</span><span class="english">Would you like tea or coffee?</span></p>

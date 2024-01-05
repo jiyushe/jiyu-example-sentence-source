@@ -1,5 +1,7 @@
 # 印痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhen.md)
+
 <p><span class="chinese">它是生活烙下的印痕。</span><span class="english">It is the mark of life.</span></p>
 
 <p><span class="chinese">他给自己的马匹烙上了印痕。</span><span class="english">He scored on his horses.</span></p>

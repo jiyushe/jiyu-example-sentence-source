@@ -1,5 +1,7 @@
 # 斤两
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinliang.md)
+
 <p><span class="chinese">香蕉是按斤两出售。</span><span class="english">Bananas are sold by weight.</span></p>
 
 <p><span class="chinese">那家商店售货斤两不足。</span><span class="english">They give short weight in that store.</span></p>

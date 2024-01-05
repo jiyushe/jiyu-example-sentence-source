@@ -1,5 +1,7 @@
 # 万众一心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzhongyixin.md)
+
 <p><span class="chinese">我们万众一心。</span><span class="english">Our million hearts beating as one.</span></p>
 
 <p><span class="chinese">起来！起来！起来！我们万众一心。</span><span class="english">Arise! Arise! Arise! Be united as one!</span></p>

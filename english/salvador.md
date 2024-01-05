@@ -1,5 +1,7 @@
 # salvador
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvador.md)
+
 <p><span class="chinese">你所看到的这条街是萨尔瓦多·达利设计的</span><span class="english">The Streets As Seen by Salvador Dali</span></p>
 
 <p><span class="chinese">请你介绍一下中国跟萨尔瓦多的关系？</span><span class="english">Could you  outline China's ties with Salvador?</span></p>

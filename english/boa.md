@@ -1,5 +1,7 @@
 # boa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boa.md)
+
 <p><span class="chinese">她脖子上围着一条粉色长羽毛围巾。</span><span class="english">She wore a large pink boa around her neck.</span></p>
 
 <p><span class="chinese">这是一个独特的形态的博阿压缩。</span><span class="english">This is a distinct morph of boa constrictor.</span></p>

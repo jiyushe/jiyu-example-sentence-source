@@ -1,5 +1,7 @@
 # 神龛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenkan.md)
+
 <p><span class="chinese">这就是那座神龛的结局，他自身都难保，如何守护人？</span><span class="english">So that was the end of the shrine.</span></p>
 
 <p><span class="chinese">他进了屋，在神龛前念了经文。</span><span class="english">He entered and recited a sutra before the family shrine.</span></p>

@@ -1,5 +1,7 @@
 # conservatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservatory.md)
+
 <p><span class="chinese">他在音乐学院学习的是美声唱法。</span><span class="english">He learned to bel canto in a conservatory.</span></p>
 
 <p><span class="chinese">哪所大学？---新英格兰艺术学校？</span><span class="english">Which college --the New England Conservatory?</span></p>

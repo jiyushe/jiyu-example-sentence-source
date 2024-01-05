@@ -1,5 +1,7 @@
 # 主犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufan.md)
+
 <p><span class="chinese">这个主犯被判无期徒刑。</span><span class="english">The principal criminal was sentenced to life imprisonment.</span></p>
 
 <p><span class="chinese">赖昌星，福建晋江人，厦门某特大走私案主犯。</span><span class="english">Lai, Jinjiang, Fujian, Xiamen smuggling case of a principal.</span></p>

@@ -1,5 +1,7 @@
 # 早稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaodao.md)
+
 <p><span class="chinese">中国计划增加早稻播种面积。</span><span class="english">China expects higher rice planting acre.</span></p>
 
 <p><span class="chinese">早稻的丰收季节即将到来。</span><span class="english">The harvest season for early rice is about to come.</span></p>

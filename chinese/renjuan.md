@@ -1,5 +1,7 @@
 # 认捐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjuan.md)
+
 <p><span class="chinese">在线循环礼物和认捐并未包括在数据分析中。</span><span class="english">Online recurring gifts and pledges are not included in the data analysis.</span></p>
 
 <p><span class="chinese">潘基文还将参加一次联合国和东盟联合举办的救助强热带风暴灾民认捐大会。</span><span class="english">The U.N. chief will also attend a joint U.N.-ASEAN donors conference for the cyclone victims.</span></p>

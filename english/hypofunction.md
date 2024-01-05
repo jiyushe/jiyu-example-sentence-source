@@ -1,5 +1,7 @@
 # hypofunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypofunction.md)
+
 <p><span class="chinese">结论OSAHS可引起记忆功能减退。</span><span class="english">Conclusion OSAHS can result in memory hypofunction.</span></p>
 
 <p><span class="chinese">轻度肝肾功能不良者仍可伸用。</span><span class="english">The mild hepatorenal hypofunction still might extend uses.</span></p>

@@ -1,5 +1,7 @@
 # interflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interflow.md)
+
 <p><span class="chinese">我们认为，它们在语言使用过程中相互渗透。</span><span class="english">Term and common words are in an interflow in language use.</span></p>
 
 <p><span class="chinese">接着，我们可以通过与政府的交流来获得更多的帮助。</span><span class="english">Then, we could find more help to interflow with government.</span></p>

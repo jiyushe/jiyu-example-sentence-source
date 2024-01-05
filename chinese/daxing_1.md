@@ -1,5 +1,7 @@
 # 大姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxing_1.md)
+
 <p><span class="chinese">他家在古代可是有威望的大姓。</span><span class="english">In ancient times his family was both large, and reputable.</span></p>
 
 <p><span class="chinese">谢朓，是出身世族大姓、受过良好文化教养、拥有多面才华的人物。</span><span class="english">Born in a noble family, Xie Tiao was well educated and had super talent.</span></p>

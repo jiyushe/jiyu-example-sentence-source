@@ -1,5 +1,7 @@
 # 双职工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangzhigong.md)
+
 <p><span class="chinese">那么双职工家庭吃什么呢？</span><span class="english">So what do working families eat?</span></p>
 
 <p><span class="chinese">单职工和双职工家庭都可能需要更多的保险。</span><span class="english">Both one- and two-income households probably need more.</span></p>

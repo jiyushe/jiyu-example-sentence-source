@@ -1,5 +1,7 @@
 # 卷土重来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juantuchonglai.md)
+
 <p><span class="chinese">如今，46岁的皮考斯基和54岁的特劳纳卷土重来。</span><span class="english">Now Pitkowsky, 46, and Trauner, 54, are back.</span></p>
 
 <p><span class="chinese">卷土重来，变形金刚和玩偶！</span><span class="english">Revenge Of The Fallen, Transformers And Doll!</span></p>

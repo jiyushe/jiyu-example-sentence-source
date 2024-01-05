@@ -1,5 +1,7 @@
 # taken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taken.md)
+
 <p><span class="chinese">谁把我的钢笔拿走了?</span><span class="english">Who has taken my pen?</span></p>
 
 <p><span class="chinese">照过最后一张相片。</span><span class="english">Are taken a picture of.</span></p>

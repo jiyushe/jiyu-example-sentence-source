@@ -1,5 +1,7 @@
 # 野驴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yelv.md)
+
 <p><span class="chinese">很好。公野驴回到了他野驴妈妈的家中。</span><span class="english">Fine. The wild ass boy came home to his wild ass mother.</span></p>
 
 <p><span class="chinese">驴是非洲野驴的一种已驯化的品种。</span><span class="english">The donkey is a domesticated form of the African wild ass.</span></p>

@@ -1,5 +1,7 @@
 # 上士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshi.md)
+
 <p><span class="chinese">约翰w。肯尼迪上士——我们在那幢建筑物里发现了一些葫芦。</span><span class="english">SFC JOHN w. KENNEDY- We found gourds in that building.</span></p>
 
 <p><span class="chinese">萧辉让金妈妈选了上士，中士，下士。</span><span class="english">Xiao Hui let gold mother chose a staff sergeant, sarge, corporal.</span></p>

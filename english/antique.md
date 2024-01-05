@@ -1,5 +1,7 @@
 # antique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antique.md)
+
 <p><span class="chinese">他是一名古董商。</span><span class="english">He is a dealer in antique.</span></p>
 
 <p><span class="chinese">古董杰里马奥尼假人。</span><span class="english">An antique Jerry Mahoney dummy.</span></p>

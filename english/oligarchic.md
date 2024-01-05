@@ -1,5 +1,7 @@
 # oligarchic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oligarchic.md)
+
 <p><span class="chinese">两个寡头政权都没能持续哪怕一年。</span><span class="english">Neither oligarchic regime lasted even as long as a year.</span></p>
 
 <p><span class="chinese">恰恰相反，它在平衡几个寡头团体发挥作用。</span><span class="english">Rather, it functions by balancing several oligarchic groups within the system.</span></p>

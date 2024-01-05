@@ -1,5 +1,7 @@
 # imagination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imagination.md)
+
 <p><span class="chinese">学习不能凭空想象。</span><span class="english">Studing can't be imagination.</span></p>
 
 <p><span class="chinese">她的想象力非常丰富。</span><span class="english">She has plenty of imagination.</span></p>

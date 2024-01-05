@@ -1,5 +1,7 @@
 # 上朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangchao.md)
+
 <p><span class="chinese">他们将行囊装在杰克的小型巴士上朝北开去。</span><span class="english">So they loaded up Jack's minivan and headed north.</span></p>
 
 <p><span class="chinese">有东西爬到我的腿上，又往上朝我的下巴爬行。</span><span class="english">Something climbed onto my leg and crept up to my chin.</span></p>

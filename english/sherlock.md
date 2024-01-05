@@ -1,5 +1,7 @@
 # sherlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sherlock.md)
+
 <p><span class="chinese">我的名字叫夏洛克‧福尔摩斯。</span><span class="english">My name is Sherlock Holmes.</span></p>
 
 <p><span class="chinese">这是神夏最好的一集吗？</span><span class="english">Is it the best Sherlock ever?</span></p>

@@ -1,5 +1,7 @@
 # orthography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthography.md)
+
 <p><span class="chinese">但是革命可能会是改革文字。</span><span class="english">It might, however, be reforming orthography.</span></p>
 
 <p><span class="chinese">总之，必须加上对拼法她的名字。</span><span class="english">A word must be added on the orthography of her name.</span></p>

@@ -1,5 +1,7 @@
 # 身败名裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenbaiminglie.md)
+
 <p><span class="chinese">她把自己搞得身败名裂。</span><span class="english">She was shipwrecked by herself.</span></p>
 
 <p><span class="chinese">我现在可以品尝他身败名裂的眼泪了！</span><span class="english">I can taste the tears of his defeat now!</span></p>

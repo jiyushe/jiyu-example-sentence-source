@@ -1,5 +1,7 @@
 # 药力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoli.md)
+
 <p><span class="chinese">他对盘尼西林无耐药力。</span><span class="english">He can't tolerate penicillin.</span></p>
 
 <p><span class="chinese">药力开始发作。</span><span class="english">The medicine began to take effect.</span></p>

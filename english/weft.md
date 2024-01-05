@@ -1,5 +1,7 @@
 # weft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weft.md)
+
 <p><span class="chinese">的经纬线数是相同的。</span><span class="english">The warp and weft thread count is the same.</span></p>
 
 <p><span class="chinese">一个纬纱是一根单纬线，故有此名。</span><span class="english">A pick is a single weft thread, hence the term.</span></p>

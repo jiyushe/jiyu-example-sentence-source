@@ -1,5 +1,7 @@
 # noontime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noontime.md)
+
 <p><span class="chinese">参加中午或下班后的锻炼班。</span><span class="english">Enroll in a noontime or an after-work exercise class.</span></p>
 
 <p><span class="chinese">人们开车的数百个在繁忙的中午。</span><span class="english">People drove up by the hundreds during the busy noontime.</span></p>

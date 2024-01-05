@@ -1,5 +1,7 @@
 # dazzlingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dazzlingly.md)
+
 <p><span class="chinese">真是白得耀眼的房间呐！</span><span class="english">Oh, what a dazzlingly white room!</span></p>
 
 <p><span class="chinese">定是珍奇异宝，如此夺目璀璨。</span><span class="english">So dazzlingly radiant, it must be treasure rare.</span></p>

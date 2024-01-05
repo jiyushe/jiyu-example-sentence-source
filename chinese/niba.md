@@ -1,5 +1,7 @@
 # 泥巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niba.md)
+
 <p><span class="chinese">那里大部分还是泥巴路。</span><span class="english">Most roads are unpaved.</span></p>
 
 <p><span class="chinese">你这个肮脏的泥巴种！</span><span class="english">You filthy little mudblood!</span></p>

@@ -1,5 +1,7 @@
 # 何苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heku.md)
+
 <p><span class="chinese">何苦乃尔?</span><span class="english">Why bother like this?</span></p>
 
 <p><span class="chinese">缐一个人好好过，何苦在爱情里沦落。</span><span class="english">A person live in love, why reduced.</span></p>

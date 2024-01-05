@@ -1,5 +1,7 @@
 # unconsumed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconsumed.md)
+
 <p><span class="chinese">结果还有三分之一没有吃掉，剩在桌面上。</span><span class="english">When we left, there were still about one third of unconsumed food on the table.</span></p>
 
 <p><span class="chinese">对于离职员工，要求收回服装不足使用年限部分的成本费。</span><span class="english">For staff who leave the service, they are required to compensate the cost of the items unconsumed.</span></p>

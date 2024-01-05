@@ -1,5 +1,7 @@
 # 顽症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzheng_1.md)
+
 <p><span class="chinese">癌症是一种顽症。</span><span class="english">Canser is a stubborn disease.</span></p>
 
 <p><span class="chinese">癌症是一种顽症。</span><span class="english">Cancer is a persistent ailment.</span></p>

@@ -1,5 +1,7 @@
 # propagandize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propagandize.md)
+
 <p><span class="chinese">我们不需要他们进行宣传。</span><span class="english">We don't need to propagandize them.</span></p>
 
 <p><span class="chinese">你只能做到宣传的效果。</span><span class="english">He replied that I could only propagandize.</span></p>

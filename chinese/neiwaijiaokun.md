@@ -1,5 +1,7 @@
 # 内外交困
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiwaijiaokun.md)
+
 <p><span class="chinese">那个国家目前内外交困。</span><span class="english">That country is beset with difficulties at home and abroad.</span></p>
 
 <p><span class="chinese">此时的杨志内外交困，陷于人生最低谷。</span><span class="english">The diplomacy inside right now Yang Zhi is tired, cereal of sink life lowest.</span></p>

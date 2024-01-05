@@ -1,5 +1,7 @@
 # residence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/residence.md)
+
 <p><span class="chinese">史密斯公馆.</span><span class="english">Smith residence.</span></p>
 
 <p><span class="chinese">居住地在河北省保定市。</span><span class="english">Residence at Baoding City.</span></p>

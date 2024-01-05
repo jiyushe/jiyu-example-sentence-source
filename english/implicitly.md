@@ -1,5 +1,7 @@
 # implicitly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implicitly.md)
+
 <p><span class="chinese">服务器隐含地具有这种权限。</span><span class="english">The server has this privilege implicitly.</span></p>
 
 <p><span class="chinese">资料夹的锁定是隐含递迴。</span><span class="english">Locks on folders are implicitly recursive.</span></p>

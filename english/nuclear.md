@@ -1,5 +1,7 @@
 # nuclear 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuclear.md)
+
 <p><span class="chinese">什么是核反应？</span><span class="english">What Is a Nuclear Reaction?</span></p>
 
 <p><span class="chinese">原子物理是我的专业。</span><span class="english">Nuclear Physics is my major.</span></p>

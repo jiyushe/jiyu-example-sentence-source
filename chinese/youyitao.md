@@ -1,5 +1,7 @@
 # 有一套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyitao.md)
+
 <p><span class="chinese">我说我修东西可是有一套。</span><span class="english">I am a real Mr. Fix-it.</span></p>
 
 <p><span class="chinese">你对女人真有一套。</span><span class="english">You have a way with women.</span></p>

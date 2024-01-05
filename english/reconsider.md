@@ -1,5 +1,7 @@
 # reconsider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconsider.md)
+
 <p><span class="chinese">布里奇能否再考虑考虑？</span><span class="english">Could Bridge yet reconsider?</span></p>
 
 <p><span class="chinese">我会重新考虑我的结论。</span><span class="english">I will reconsider my conclusion.</span></p>

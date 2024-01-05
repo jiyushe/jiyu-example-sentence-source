@@ -1,5 +1,7 @@
 # 繁体字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fantizi.md)
+
 <p><span class="chinese">这是以前常用的繁体字。</span><span class="english">Those are traditional characters.</span></p>
 
 <p><span class="chinese">于GB2312中与BIG5相对应繁体字编码转换。</span><span class="english">BIG5 to GB2312 with characters that corresponds to data conversion.</span></p>

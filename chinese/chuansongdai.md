@@ -1,5 +1,7 @@
 # 传送带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuansongdai.md)
+
 <p><span class="chinese">传送带可以正常工作吗？</span><span class="english">Is the conveyor belt working?</span></p>
 
 <p><span class="chinese">采用KVP塑钢流化专用传送带。</span><span class="english">KVP plastic steer carry belt.</span></p>

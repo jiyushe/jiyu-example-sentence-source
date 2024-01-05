@@ -1,5 +1,7 @@
 # 正义感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengyigan.md)
+
 <p><span class="chinese">正义感，公平并尊重他人</span><span class="english">Sense of justice, fairness &respect for others</span></p>
 
 <p><span class="chinese">此人具有强烈的正义感，做事光明磊落。</span><span class="english">The man had a keen sense of justice and fair play.</span></p>

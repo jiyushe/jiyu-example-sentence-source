@@ -1,5 +1,7 @@
 # harmonise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmonise.md)
+
 <p><span class="chinese">我认为这幅画的颜色会跟墙很调和。</span><span class="english">I'd like the colours to harmonise.</span></p>
 
 <p><span class="chinese">有两个调节钮来校准武器和瞄准具。</span><span class="english">Two adjusting screws harmonise the guns with the sight.</span></p>

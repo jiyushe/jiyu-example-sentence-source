@@ -1,5 +1,7 @@
 # 马后炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mahoupao.md)
+
 <p><span class="chinese">谢谢你放的马后炮。</span><span class="english">Thanks for your belated advice.</span></p>
 
 <p><span class="chinese">仅有的完美的科学就是马后炮。</span><span class="english">The only perfect science is hind-sight.</span></p>

@@ -1,5 +1,7 @@
 # grommet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grommet.md)
+
 <p><span class="chinese">将橡胶密封索环推进孔中。</span><span class="english">Push the grommet into the hole.</span></p>
 
 <p><span class="chinese">扣眼长流苏不在话下封闭。</span><span class="english">Grommet cinch closure with long tassels.</span></p>

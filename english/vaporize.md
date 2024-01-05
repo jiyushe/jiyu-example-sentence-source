@@ -1,5 +1,7 @@
 # vaporize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaporize.md)
+
 <p><span class="chinese">而电子香烟是利用气化内部含有的尼古丁的液体的原理制成的。</span><span class="english">E-cigarettes vaporize liquid containing nicotine.</span></p>
 
 <p><span class="chinese">一些液体会蒸发，以填充额外的空间。</span><span class="english">Some liquid will vaporize to fill the additional space.</span></p>

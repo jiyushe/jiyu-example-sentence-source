@@ -1,5 +1,7 @@
 # unnecessary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unnecessary.md)
+
 <p><span class="chinese">这本不必要。</span><span class="english">This is unnecessary.</span></p>
 
 <p><span class="chinese">神学是多余的。</span><span class="english">Theology is unnecessary.</span></p>

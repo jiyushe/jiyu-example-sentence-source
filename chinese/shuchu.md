@@ -1,5 +1,7 @@
 # 输出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuchu.md)
+
 <p><span class="chinese">没有输出？</span><span class="english">No output?</span></p>
 
 <p><span class="chinese">任何的输出品列出在一。</span><span class="english">Any export listed in a.</span></p>

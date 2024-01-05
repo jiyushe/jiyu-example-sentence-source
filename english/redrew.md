@@ -1,5 +1,7 @@
 # redrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redrew.md)
+
 <p><span class="chinese">这部小说差劲地刷新了女性罗曼史的版图。</span><span class="english">The novel which, raunchily, redrew the map of women's romance.</span></p>
 
 <p><span class="chinese">无论他多久再拉它，不幸地，顶尖的工作是六月。</span><span class="english">No matter how often he redrew it, unfortunately, the top task was Jun.</span></p>

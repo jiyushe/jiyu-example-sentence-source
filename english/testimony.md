@@ -1,5 +1,7 @@
 # testimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testimony.md)
+
 <p><span class="chinese">他所作的证据是可疑的。</span><span class="english">The testimony given by him is dubious.</span></p>
 
 <p><span class="chinese">证词与报告吻合。</span><span class="english">The testimony tallies with the report.</span></p>

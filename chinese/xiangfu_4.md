@@ -1,5 +1,7 @@
 # 降伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfu_4.md)
+
 <p><span class="chinese">他以祈祷来降伏了对手。</span><span class="english">He prayed down his rival.</span></p>
 
 <p><span class="chinese">我的爱面貌一新，而死神降伏。</span><span class="english">My love looks fresh, and death to me subscribes.</span></p>

@@ -1,5 +1,7 @@
 # chemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemistry.md)
+
 <p><span class="chinese">我的专业是化学.</span><span class="english">I major in Chemistry.</span></p>
 
 <p><span class="chinese">是化学奖。</span><span class="english">He got it in chemistry.</span></p>

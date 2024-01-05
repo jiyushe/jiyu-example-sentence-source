@@ -1,5 +1,7 @@
 # 下同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiatong.md)
+
 <p><span class="chinese">要求到达“上下同欲者胜“的境界。</span><span class="english">Required to reach "up and down with those who want to win" the state.</span></p>
 
 <p><span class="chinese">“上下同欲者胜”，说的就是只有上下一心才能获取胜利。</span><span class="english">Down with the desire to win ', that is the only one mind in order to obtain victory.</span></p>

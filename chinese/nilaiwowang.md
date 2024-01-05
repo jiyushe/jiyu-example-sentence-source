@@ -1,5 +1,7 @@
 # 你来我往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nilaiwowang.md)
+
 <p><span class="chinese">婚姻不一定是你来我往的拳击。</span><span class="english">Marriage doesn't have to be boxing.</span></p>
 
 <p><span class="chinese">二人你来我往，互不相让。</span><span class="english">Two people you to me to, are eyeball.</span></p>

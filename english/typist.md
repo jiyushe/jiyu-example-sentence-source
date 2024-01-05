@@ -1,5 +1,7 @@
 # typist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typist.md)
+
 <p><span class="chinese">他的母亲是个打字员。</span><span class="english">His mother was a typist.</span></p>
 
 <p><span class="chinese">她至多是个称职的打字员。</span><span class="english">At best she is an adequate typist.</span></p>

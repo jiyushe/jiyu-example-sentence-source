@@ -1,5 +1,7 @@
 # suckling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suckling.md)
+
 <p><span class="chinese">哺乳是哺乳动物的本能。</span><span class="english">Suckling is an instinct in mammals.</span></p>
 
 <p><span class="chinese">我们的特色菜是烤乳猪。</span><span class="english">Our restaurant specializes in roasted suckling pig.</span></p>

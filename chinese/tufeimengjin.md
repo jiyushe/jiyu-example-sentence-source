@@ -1,5 +1,7 @@
 # 突飞猛进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tufeimengjin.md)
+
 <p><span class="chinese">他们的生意突飞猛进。</span><span class="english">Their business has grown by leaps and bounds.</span></p>
 
 <p><span class="chinese">沙尼起步很慢，但在最后一圈中突飞猛进。</span><span class="english">Shani started out slow but dug deep on his final lap.</span></p>

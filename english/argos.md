@@ -1,5 +1,7 @@
 # argos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argos.md)
+
 <p><span class="chinese">在阿尔戈斯建立一个国会。</span><span class="english">Construct a Capitol on Argos.</span></p>
 
 <p><span class="chinese">把珀罗普斯带到阿尔戈斯的高原。</span><span class="english">Bring Pelops to the plateau in Argos.</span></p>

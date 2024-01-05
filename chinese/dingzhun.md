@@ -1,5 +1,7 @@
 # 定准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhun.md)
+
 <p><span class="chinese">要花开定准，又更与花盟。</span><span class="english">Dingzhun to bloom, but also more and spend League.</span></p>
 
 <p><span class="chinese">公共汽车星期日行驶不一定准能赚钱。</span><span class="english">It is not always economic for buses to run on Sunday.</span></p>

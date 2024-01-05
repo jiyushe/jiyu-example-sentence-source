@@ -1,5 +1,7 @@
 # bogged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bogged.md)
+
 <p><span class="chinese">计划陷于停顿。</span><span class="english">The scheme bogged down.</span></p>
 
 <p><span class="chinese">我们的讨论僵住了。</span><span class="english">Our discussions bogged down.</span></p>

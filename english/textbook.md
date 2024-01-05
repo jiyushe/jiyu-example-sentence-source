@@ -1,5 +1,7 @@
 # textbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textbook.md)
+
 <p><span class="chinese">这是教材</span><span class="english">Here is the textbook.</span></p>
 
 <p><span class="chinese">我去拿我的课本。</span><span class="english">I'm fetching my textbook.</span></p>

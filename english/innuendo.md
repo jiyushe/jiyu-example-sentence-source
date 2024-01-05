@@ -1,5 +1,7 @@
 # innuendo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innuendo.md)
+
 <p><span class="chinese">你那句含沙射影的说“忠诚的战士”是什么意思？</span><span class="english">What's this innuendo comment about "- loyal soldiers -"?</span></p>
 
 <p><span class="chinese">他一直受到新闻界指桑骂槐的影射。</span><span class="english">He had been subject to a campaign of innuendo in the press.</span></p>

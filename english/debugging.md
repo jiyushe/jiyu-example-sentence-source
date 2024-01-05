@@ -1,5 +1,7 @@
 # debugging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debugging.md)
+
 <p><span class="chinese">关于调试我们来说几句。</span><span class="english">So a word about debugging.</span></p>
 
 <p><span class="chinese">这就需要我们去调试了。</span><span class="english">That gets us to debugging.</span></p>

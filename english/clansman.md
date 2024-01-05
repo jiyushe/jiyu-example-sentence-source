@@ -1,5 +1,7 @@
 # clansman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clansman.md)
+
 <p><span class="chinese">燎祭之典后被周族人所承袭并有所增益。</span><span class="english">"Liao sacrifice"was inherited anddeveloped by Zhou clansman.</span></p>
 
 <p><span class="chinese">我们能够为正在努力的胡姓族人做些什么？</span><span class="english">Can we be surnamed what does the clansman do for diligent Hu?</span></p>

@@ -1,5 +1,7 @@
 # 头饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toushi_2.md)
+
 <p><span class="chinese">你该考虑一下冠状头饰。</span><span class="english">You might consider a tiara.</span></p>
 
 <p><span class="chinese">她将新娘拱形头饰用花缠起来。</span><span class="english">She twined the bridal arch with flowers.</span></p>

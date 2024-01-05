@@ -1,5 +1,7 @@
 # areola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/areola.md)
+
 <p><span class="chinese">和乳晕之间的压力。</span><span class="english">And the pressure between the areola.</span></p>
 
 <p><span class="chinese">她注意到我的乳晕颜色深了，而且厚了。</span><span class="english">She noted that my areola darkened and thickened.</span></p>

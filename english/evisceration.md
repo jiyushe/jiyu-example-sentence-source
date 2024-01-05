@@ -1,5 +1,7 @@
 # evisceration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evisceration.md)
+
 <p><span class="chinese">将禽只放入冰水中预冷后取出内脏。</span><span class="english">After chilling the birds in iced water, evisceration takes place.</span></p>
 
 <p><span class="chinese">目的探讨眼部恶性肿瘤患者行眼眶内容物剜出术的护理。</span><span class="english">Objective To study nursing of evisceration of orbit malignant tumor.</span></p>

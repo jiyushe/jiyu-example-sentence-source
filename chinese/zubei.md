@@ -1,5 +1,7 @@
 # 祖辈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zubei.md)
+
 <p><span class="chinese">佩林家的祖辈是美国西部人。</span><span class="english">Palin’s roots are in the American West.</span></p>
 
 <p><span class="chinese">祖辈辈都住居在这片土地上的农民。</span><span class="english">They are farmers whose forefathers lived on this land.</span></p>

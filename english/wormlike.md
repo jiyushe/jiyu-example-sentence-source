@@ -1,5 +1,7 @@
 # wormlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wormlike.md)
+
 <p><span class="chinese">在马达加斯加成为它今天的样子之前，就已经有这种蠕虫似的生物驻扎了。</span><span class="english">Wormlike creatures inhabited Madagascar before it was Madagascar.</span></p>
 
 <p><span class="chinese">有的毛毛虫长大变成蝴蝶，有的像毛虫一样蠕动的东西长成蛾子。</span><span class="english">Some caterpillars grow into butterflies. Other wormlike wriggling things become moths.</span></p>

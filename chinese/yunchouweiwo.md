@@ -1,5 +1,7 @@
 # 运筹帷幄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunchouweiwo.md)
+
 <p><span class="chinese">可别小看丹·布朗运筹帷幄的能力。</span><span class="english">Don't doubt the Dan Brown juggernaut.</span></p>
 
 <p><span class="chinese">我自己在文字编织的世界里运筹帷幄。</span><span class="english">My own writing strategies of the world of knitting.</span></p>

@@ -1,5 +1,7 @@
 # 周日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouri.md)
+
 <p><span class="chinese">上周日我在农场拔萝卜了。</span><span class="english">I up carrots on the farm.</span></p>
 
 <p><span class="chinese">周日早上，不见不散！</span><span class="english">See you on Sunday morning!</span></p>

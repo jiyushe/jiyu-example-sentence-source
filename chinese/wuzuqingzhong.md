@@ -1,5 +1,7 @@
 # 无足轻重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzuqingzhong.md)
+
 <p><span class="chinese">我认为它无足轻重。</span><span class="english">I esteem it worthless.</span></p>
 
 <p><span class="chinese">我认为她是无足轻重的。</span><span class="english">I think she bulks small.</span></p>

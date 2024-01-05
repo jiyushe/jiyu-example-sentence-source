@@ -1,5 +1,7 @@
 # unclaimed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unclaimed.md)
+
 <p><span class="chinese">无人认领的被捐赠给慈善机构。</span><span class="english">Unclaimed items are donated to charity.</span></p>
 
 <p><span class="chinese">我们没有地方容纳每一条没人认领的狗。</span><span class="english">We don't have room for every unclaimed dog.'</span></p>

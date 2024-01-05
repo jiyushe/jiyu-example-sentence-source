@@ -1,5 +1,7 @@
 # inundate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inundate.md)
+
 <p><span class="chinese">水淹没了曼谷。</span><span class="english">Floodwaters inundate the city.</span></p>
 
 <p><span class="chinese">“泛滥”的第一个意思是“江河湖泊的水溢出而淹没”。</span><span class="english">To be in flood, to flood, to overflow, to inundate.</span></p>

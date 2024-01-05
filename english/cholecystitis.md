@@ -1,5 +1,7 @@
 # cholecystitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cholecystitis.md)
+
 <p><span class="chinese">她是胆囊炎开刀。</span><span class="english">She had been operated on cholecystitis.</span></p>
 
 <p><span class="chinese">糜烂性胃炎，胆囊炎怎么治疗?。</span><span class="english">Erosion sex gastritis, how is cholecystitis treated?</span></p>

@@ -1,5 +1,7 @@
 # bond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bond.md)
+
 <p><span class="chinese">血缘是纽带。</span><span class="english">Blood does bond.</span></p>
 
 <p><span class="chinese">想和老爸黏在一起？</span><span class="english">Want to bond with dad?</span></p>

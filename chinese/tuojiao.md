@@ -1,5 +1,7 @@
 # 脱胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuojiao.md)
+
 <p><span class="chinese">实验室中脱胶后的丝蛋白。</span><span class="english">Degummed silk in the laboratory.</span></p>
 
 <p><span class="chinese">如果声音沉闷，说明有脱胶的地方。</span><span class="english">If voice boring on a unglued traffic.</span></p>

@@ -1,5 +1,7 @@
 # 越境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuejing.md)
+
 <p><span class="chinese">他们正在等着着越境进入中国。</span><span class="english">They are waiting to cross the nearby Chinese border.</span></p>
 
 <p><span class="chinese">他们还保证通过协调各国的质量标准来改善越境贸易。</span><span class="english">They also pledged to improve cross-border trading by harmonizing quality standards.</span></p>

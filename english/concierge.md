@@ -1,5 +1,7 @@
 # concierge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concierge.md)
+
 <p><span class="chinese">他是一个五星级饭店的大厅副理。</span><span class="english">He is a concierge at a five-star hotel.</span></p>
 
 <p><span class="chinese">我非常熟悉礼宾部的接待工作。</span><span class="english">I am familiar with the work of Concierge.</span></p>

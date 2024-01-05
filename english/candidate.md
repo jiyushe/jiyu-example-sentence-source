@@ -1,5 +1,7 @@
 # candidate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candidate.md)
+
 <p><span class="chinese">我是极好的苗子。</span><span class="english">I am a perfect candidate.</span></p>
 
 <p><span class="chinese">我的考号是什么？</span><span class="english">What is my candidate number?</span></p>

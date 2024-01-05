@@ -1,5 +1,7 @@
 # 记取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiqu_1.md)
+
 <p><span class="chinese">记取苦涩的一课。</span><span class="english">Remember the bitter lesson.</span></p>
 
 <p><span class="chinese">愿你记取这次教训。</span><span class="english">Wish you remember this lesson.</span></p>

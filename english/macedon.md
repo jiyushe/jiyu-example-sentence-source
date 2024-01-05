@@ -1,5 +1,7 @@
 # macedon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macedon.md)
+
 <p><span class="chinese">远处站着的是马其顿的军队。</span><span class="english">In the distance stands the army of Macedon.</span></p>
 
 <p><span class="chinese">马其顿被分成四个罗马附属的共和国。</span><span class="english">Macedon was divided into four Roman client republics.</span></p>

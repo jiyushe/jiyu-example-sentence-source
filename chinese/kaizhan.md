@@ -1,5 +1,7 @@
 # 开展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizhan.md)
+
 <p><span class="chinese">如何开展一场竞选？</span><span class="english">How do you campaign?</span></p>
 
 <p><span class="chinese">四要大力开展科技指导服务。</span><span class="english">technology services.</span></p>

@@ -1,5 +1,7 @@
 # 思索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sisuo.md)
+
 <p><span class="chinese">我在思索我有什春昧粝碌?。</span><span class="english">When I'm done here?</span></p>
 
 <p><span class="chinese">和智者生活，时时勤于思索。</span><span class="english">With the wise Man Living'sThinking.</span></p>

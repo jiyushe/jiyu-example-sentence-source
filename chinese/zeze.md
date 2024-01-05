@@ -1,5 +1,7 @@
 # 啧啧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeze.md)
+
 <p><span class="chinese">很难再让人啧啧称奇。</span><span class="english">It's hard to say "gee whiz" anymore.</span></p>
 
 <p><span class="chinese">啧啧啧，如果您想找人帮忙您找错人了。</span><span class="english">If you want help, gentlemen, you ve come to the wrong man.</span></p>

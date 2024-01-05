@@ -1,5 +1,7 @@
 # inverter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inverter.md)
+
 <p><span class="chinese">与漏极开路输出的六反相器。</span><span class="english">Hex inverter with open-drain outputs.</span></p>
 
 <p><span class="chinese">这种换流器是矩形波控制。</span><span class="english">The inverter is square-wave controlled.</span></p>

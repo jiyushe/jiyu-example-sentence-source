@@ -1,5 +1,7 @@
 # 嫂嫂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saosao.md)
+
 <p><span class="chinese">我嫂嫂怀孕了。</span><span class="english">My sister-in-law is pregnant.</span></p>
 
 <p><span class="chinese">“昨天，”她嫂嫂说。</span><span class="english">Yesterday!' said her sister-in-law.</span></p>

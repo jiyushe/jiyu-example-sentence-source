@@ -1,5 +1,7 @@
 # mds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mds.md)
+
 <p><span class="chinese">白血病这种血癌最后可能导致死亡。</span><span class="english">Mylodysplastic syndrome or MDS is a leukemia and eventually death.</span></p>
 
 <p><span class="chinese">今年年初，MDS与BAE系统公司建立了生产地基武器的合资企业。</span><span class="english">Early this year, MDS forged a joint venture with BAE Systems for land-based weaponry.</span></p>

@@ -1,5 +1,7 @@
 # 味道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidao.md)
+
 <p><span class="chinese">味道怎么样</span><span class="english">How is it?</span></p>
 
 <p><span class="chinese">你味道不好。</span><span class="english">You smell.</span></p>

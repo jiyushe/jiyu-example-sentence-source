@@ -1,5 +1,7 @@
 # 跳蚤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaozao.md)
+
 <p><span class="chinese">雪貂会不会生跳蚤？</span><span class="english">Can ferrets get fleas?</span></p>
 
 <p><span class="chinese">现在快滚吧，小跳蚤。</span><span class="english">Now go away, little flea.</span></p>

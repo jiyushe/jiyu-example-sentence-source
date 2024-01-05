@@ -1,5 +1,7 @@
 # finance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finance.md)
+
 <p><span class="chinese">当时我从事的是金融业,</span><span class="english">I was working in finance</span></p>
 
 <p><span class="chinese">这就是理财的作用。</span><span class="english">That's what finance is about.</span></p>

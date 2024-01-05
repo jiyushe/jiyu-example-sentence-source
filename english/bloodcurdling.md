@@ -1,5 +1,7 @@
 # bloodcurdling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodcurdling.md)
+
 <p><span class="chinese">最恐怖的事是什么？</span><span class="english">Most what is bloodcurdling thing?</span></p>
 
 <p><span class="chinese">最恐怖的表情是什么？</span><span class="english">Most what is bloodcurdling expression?</span></p>

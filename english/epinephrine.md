@@ -1,5 +1,7 @@
 # epinephrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epinephrine.md)
+
 <p><span class="chinese">肾上腺素可以隔着衣服注射。</span><span class="english">The epinephrine injection may be applied through clothing.</span></p>
 
 <p><span class="chinese">这是因为你的身体给你注射了一剂强效的肾上腺素。</span><span class="english">Your body has just given you a powerful dose of epinephrine.</span></p>

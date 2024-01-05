@@ -1,5 +1,7 @@
 # coi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coi.md)
+
 <p><span class="chinese">COI序列碱基中共有481个变异位点。</span><span class="english">There were 481 variation locuses in the COI sequences.</span></p>
 
 <p><span class="chinese">而源于前第三系碳酸盐岩的可能性较小。</span><span class="english">There is less possibility that COi originated from pre-Tertiary carbonate rocks.</span></p>

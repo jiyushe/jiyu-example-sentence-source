@@ -1,5 +1,7 @@
 # censer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/censer.md)
+
 <p><span class="chinese">这是一个精致的香炉。</span><span class="english">This is a delicate censer.</span></p>
 
 <p><span class="chinese">从这活的香囊，卧室中的香炉。</span><span class="english">Living sachet, censer for the bedroom.</span></p>

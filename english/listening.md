@@ -1,5 +1,7 @@
 # listening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listening.md)
+
 <p><span class="chinese">不会倾听。</span><span class="english">Not listening.</span></p>
 
 <p><span class="chinese">你倾听着。</span><span class="english">And you listening.</span></p>

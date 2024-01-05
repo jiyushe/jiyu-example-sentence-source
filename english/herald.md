@@ -1,5 +1,7 @@
 # herald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herald.md)
+
 <p><span class="chinese">番红花是春天来临的前兆。</span><span class="english">The crocus is a herald of spring.</span></p>
 
 <p><span class="chinese">还只是喧闹春天的传令兵。</span><span class="english">And only herald to the gaudy spring.</span></p>

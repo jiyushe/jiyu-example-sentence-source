@@ -1,5 +1,7 @@
 # isomorphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomorphic.md)
+
 <p><span class="chinese">他们是“同源的”或者是“同构的”。</span><span class="english">They are "homologous" or isomorphic.</span></p>
 
 <p><span class="chinese">可能是不同的两个同构的图。</span><span class="english">May be different for two isomorphic graphs.</span></p>

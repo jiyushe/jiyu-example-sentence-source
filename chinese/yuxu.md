@@ -1,5 +1,7 @@
 # 语序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxu.md)
+
 <p><span class="chinese">这是一个宾语从句，注意语序。</span><span class="english">This is an objective clause. Notice the word order.</span></p>
 
 <p><span class="chinese">将括弧内的词按正确的语序排好。</span><span class="english">Put the words in parentheses in their correct order.</span></p>

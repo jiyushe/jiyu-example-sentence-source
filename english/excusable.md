@@ -1,5 +1,7 @@
 # excusable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excusable.md)
+
 <p><span class="chinese">这是个可原谅的错误。</span><span class="english">This is an excusable mistake.</span></p>
 
 <p><span class="chinese">但在和他们对抗中，又觉得他们情有可原！</span><span class="english">But how excusable he feels it even while holding out against it!</span></p>

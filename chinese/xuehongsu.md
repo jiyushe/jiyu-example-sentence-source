@@ -1,5 +1,7 @@
 # 血红素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehongsu.md)
+
 <p><span class="chinese">这一结构叫做血红素基因。</span><span class="english">This structure is called the heme group.</span></p>
 
 <p><span class="chinese">非亚铁血红素和癌症之间没有联系。</span><span class="english">The non-heme iron has not been linked with cancer.</span></p>

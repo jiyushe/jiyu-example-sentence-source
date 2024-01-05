@@ -1,5 +1,7 @@
 # prefix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefix.md)
+
 <p><span class="chinese">另一个是具有前置词的命名空间。</span><span class="english">Another is a namespace with a prefix.</span></p>
 
 <p><span class="chinese">这些类名称以一个点前缀开始。</span><span class="english">The class names begin with a dot prefix.</span></p>

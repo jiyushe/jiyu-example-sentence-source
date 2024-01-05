@@ -1,5 +1,7 @@
 # 民族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzu.md)
+
 <p><span class="chinese">他们是游猎民族。</span><span class="english">They were hunting nomads.</span></p>
 
 <p><span class="chinese">她永远属于所有的民族。</span><span class="english">She belongs to all nations.</span></p>

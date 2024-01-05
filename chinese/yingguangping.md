@@ -1,5 +1,7 @@
 # 荧光屏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingguangping.md)
+
 <p><span class="chinese">雷达兵目不转睛地注视着荧光屏。</span><span class="english">The radarman's eyes were glued to the screen.</span></p>
 
 <p><span class="chinese">电视观众把双眼盯住荧光屏。</span><span class="english">The TV watchers fixed their eyes on the screen.</span></p>

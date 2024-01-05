@@ -1,5 +1,7 @@
 # amsterdam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amsterdam.md)
+
 <p><span class="chinese">我们可以在阿姆斯特丹给船补给。</span><span class="english">We can store in Amsterdam.</span></p>
 
 <p><span class="chinese">好的,就以阿姆斯特丹为例</span><span class="english">So, here we have Amsterdam.</span></p>

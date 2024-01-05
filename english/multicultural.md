@@ -1,5 +1,7 @@
 # multicultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multicultural.md)
+
 <p><span class="chinese">好多不同的人，多种文化。</span><span class="english">lots of different kinds of people, multicultural.</span></p>
 
 <p><span class="chinese">多元文化的颤抖不过是一个快乐的副产品。</span><span class="english">The multicultural frisson is no more than a happy by-product.</span></p>

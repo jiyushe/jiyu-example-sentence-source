@@ -1,5 +1,7 @@
 # tora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tora.md)
+
 <p><span class="chinese">托拉搏拉山的战斗要比通常描述的更为混乱。</span><span class="english">The combat at Tora Bora was a good deal more chaotic than usually described.</span></p>
 
 <p><span class="chinese">沙在前面带路，我们穿过一条狭长的小溪上漂浮的巨砺，爬上小山，进入托拉搏拉山洞。</span><span class="english">Shah leads me across the boulders of a narrow creek and up a hill into the Tora Bora caves.</span></p>

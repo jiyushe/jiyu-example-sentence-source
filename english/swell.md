@@ -1,5 +1,7 @@
 # swell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swell.md)
+
 <p><span class="chinese">您的脚肿了吗？</span><span class="english">Do your feet swell?</span></p>
 
 <p><span class="chinese">他的脚踝肿起来了。</span><span class="english">His ankles began to swell.</span></p>

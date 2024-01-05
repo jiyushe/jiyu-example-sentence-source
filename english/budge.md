@@ -1,5 +1,7 @@
 # budge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/budge.md)
+
 <p><span class="chinese">但政府拒绝作出让步。</span><span class="english">The government refused to budge.</span></p>
 
 <p><span class="chinese">谁也挪不动那个很重的箱子。</span><span class="english">No one could budge the heavy box.</span></p>

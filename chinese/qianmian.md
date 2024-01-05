@@ -1,5 +1,7 @@
 # 前面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianmian.md)
+
 <p><span class="chinese">请往前面走。</span><span class="english">Please go ahead.</span></p>
 
 <p><span class="chinese">双向拉链前面。</span><span class="english">Two-way zip front.</span></p>

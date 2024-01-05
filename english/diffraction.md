@@ -1,5 +1,7 @@
 # diffraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffraction.md)
+
 <p><span class="chinese">电子衍射产生了。</span><span class="english">Electron diffraction was born. Electron.</span></p>
 
 <p><span class="chinese">立体，干涉和衍射。</span><span class="english">Stereoscopy, interference and diffraction.</span></p>

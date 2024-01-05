@@ -1,5 +1,7 @@
 # hie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hie.md)
+
 <p><span class="chinese">你怎么还不赶快回家?</span><span class="english">Why don't you hie home?</span></p>
 
 <p><span class="chinese">结论CT诊断HIE较有优势，但应密切结合临床。</span><span class="english">Conclusion CT diagnosing HIE is value, but should be unite clinical.</span></p>

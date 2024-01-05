@@ -1,5 +1,7 @@
 # 查禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chajin_1.md)
+
 <p><span class="chinese">查禁教友派信徒和女巫。</span><span class="english">Quakers and witches are banned.</span></p>
 
 <p><span class="chinese">他们威胁要查禁此书。</span><span class="english">They threatened to ban the book.</span></p>

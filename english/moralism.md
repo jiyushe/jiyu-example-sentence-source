@@ -1,5 +1,7 @@
 # moralism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moralism.md)
+
 <p><span class="chinese">一种简单的基督教道德主义劝告人不要自私。</span><span class="english">A simple christian moralism counsels men to be unselfish.</span></p>
 
 <p><span class="chinese">第三，这种比喻性语言意味着对道德丰义的反拨。</span><span class="english">Thirdly, the metaphoric language means the counteraction of moralism.</span></p>

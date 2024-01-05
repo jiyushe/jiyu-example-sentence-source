@@ -1,5 +1,7 @@
 # workability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workability.md)
+
 <p><span class="chinese">由于混凝土和易性较差，易产生离析泌水。</span><span class="english">As a result of poor workability of concrete, easy bleeding isolation.</span></p>
 
 <p><span class="chinese">但物理激发对新拌混凝土工作性造成一定的不利影响。</span><span class="english">But physical excitation has a bad effect on the workability of fresh concrete.</span></p>

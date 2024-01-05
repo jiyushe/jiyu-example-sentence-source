@@ -1,5 +1,7 @@
 # 活化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohua.md)
+
 <p><span class="chinese">肺癌局部T细胞多处于非活化状态。</span><span class="english">Most of T cells were non-activated.</span></p>
 
 <p><span class="chinese">锎252中子活化分析…</span><span class="english">CFNAA Cf-252 neutron activation analysis?</span></p>

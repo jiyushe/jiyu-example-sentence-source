@@ -1,5 +1,7 @@
 # turbopump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbopump.md)
+
 <p><span class="chinese">涡轮泵是液体火箭发动机的重要组成部份。</span><span class="english">Turbopump is an important part in liquid rocket engine.</span></p>
 
 <p><span class="chinese">发动机与供应系统的交界是在涡轮泵的进口法兰盘处。</span><span class="english">The engine-feed system interface is at the turbopump inlet flanges.</span></p>

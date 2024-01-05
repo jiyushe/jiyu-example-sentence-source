@@ -1,5 +1,7 @@
 # harrisburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harrisburg.md)
+
 <p><span class="chinese">哈里斯堡邮局员工的射击俱乐部</span><span class="english">Harrisburg Postal Employee Gun Club.</span></p>
 
 <p><span class="chinese">3月31日，卡特决定要亲自造访哈里斯堡。</span><span class="english">By Saturday, March 31, Carter had decided to pay a personal visit to Harrisburg.</span></p>

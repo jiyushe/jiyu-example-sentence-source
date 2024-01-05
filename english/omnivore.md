@@ -1,5 +1,7 @@
 # omnivore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omnivore.md)
+
 <p><span class="chinese">我是一个失败的杂食者。</span><span class="english">I am a failed omnivore.</span></p>
 
 <p><span class="chinese">但是我也不会介意你是否是杂食动物。</span><span class="english">But I don’t care if you’re an omnivore.</span></p>

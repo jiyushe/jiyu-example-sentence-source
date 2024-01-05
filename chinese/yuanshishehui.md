@@ -1,5 +1,7 @@
 # 原始社会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshishehui.md)
+
 <p><span class="chinese">这些是原始社会的遗物。</span><span class="english">These are the survivals from the primitive society.</span></p>
 
 <p><span class="chinese">到原始社会后期，舞蹈日趋成熟。</span><span class="english">These dances had ripen by the end of the primitive society.</span></p>

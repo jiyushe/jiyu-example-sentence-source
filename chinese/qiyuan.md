@@ -1,5 +1,7 @@
 # 祈愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyuan.md)
+
 <p><span class="chinese">我们还能为谁祈愿！</span><span class="english">Who do we pray for!</span></p>
 
 <p><span class="chinese">我们为谁祈愿？</span><span class="english">Who do we pray for?</span></p>

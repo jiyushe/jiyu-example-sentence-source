@@ -1,5 +1,7 @@
 # decarboxylation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decarboxylation.md)
+
 <p><span class="chinese">它最先是由苯甲酸脱羧而得到的。</span><span class="english">It was originally obtained by decarboxylation of benzoic acid.</span></p>
 
 <p><span class="chinese">芳香羧酸进行脱羧反应是一个例外。</span><span class="english">One exception is the decarboxylation of aromatic carboxylic acids.</span></p>

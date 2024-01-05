@@ -1,5 +1,7 @@
 # 铁环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiehuan.md)
+
 <p><span class="chinese">阿谁孩子在滚铁环。</span><span class="english">The chellold was rolling a hoop.</span></p>
 
 <p><span class="chinese">铁环沿人行道滚动。</span><span class="english">The hoop rolled along the pavement.</span></p>

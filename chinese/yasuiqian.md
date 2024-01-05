@@ -1,5 +1,7 @@
 # 压岁钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasuiqian.md)
+
 <p><span class="chinese">磕头拜年，父母给压岁钱。</span><span class="english">They will give us new year money.</span></p>
 
 <p><span class="chinese">那我在中国也要准备压岁钱了。</span><span class="english">So I should also prepare "lucky money" in China.</span></p>

@@ -1,5 +1,7 @@
 # shizuoka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shizuoka.md)
+
 <p><span class="chinese">铃木伸吾于1964年出生于日本静冈县。</span><span class="english">Suzuki was born in Shizuoka Prefecture, Japan in 1964.</span></p>
 
 <p><span class="chinese">该诉讼于11日在静冈县地方法院滨松支部进行了判决。</span><span class="english">The action on the 11th District Court in Hamamatsu, Shizuoka branch for the verdict.</span></p>

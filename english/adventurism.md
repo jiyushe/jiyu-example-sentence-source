@@ -1,5 +1,7 @@
 # adventurism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventurism.md)
+
 <p><span class="chinese">这不过是宅着做冒险的主题需求罢了。</span><span class="english">It's just sedentary adventurism in need of a subject.</span></p>
 
 <p><span class="chinese">多年以来，它一直利用自己的否决权使得朝鲜的政治冒险主义不在联合国的议事日程上。</span><span class="english">For years it had used the threat of its veto to keep North Korean adventurism off the Security Council's agenda.</span></p>

@@ -1,5 +1,7 @@
 # thrips
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrips.md)
+
 <p><span class="chinese">螨类和蓟马类为低风险检疫性有害生物。</span><span class="english">Acaribs and thrips are regarded as low-risk quarantining pests.</span></p>
 
 <p><span class="chinese">烟蓟马是杂草地和苜蓿田的优势害虫。</span><span class="english">Thrips tabaci Lindemau was a dominant pest species in both fields.</span></p>

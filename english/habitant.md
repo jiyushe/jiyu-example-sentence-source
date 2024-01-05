@@ -1,5 +1,7 @@
 # habitant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitant.md)
+
 <p><span class="chinese">蓝藻，地球上最原始的居民，成为了2050年的答案。</span><span class="english">Algae, the most native habitant on the earth, may be the final answer in 2050.</span></p>
 
 <p><span class="chinese">揭示牛羚为适应生态环境所采取的生态对策。</span><span class="english">The paper reveals takin′s ecological Countermeasure for adaptation of the habitant.</span></p>

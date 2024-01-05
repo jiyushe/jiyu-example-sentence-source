@@ -1,5 +1,7 @@
 # redraw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redraw.md)
+
 <p><span class="chinese">现在我们把这个重新画为零。</span><span class="english">So now we'll redraw this as zero.</span></p>
 
 <p><span class="chinese">并且，他打算亲自重新绘制。</span><span class="english">And he intends to redraw it himself.</span></p>

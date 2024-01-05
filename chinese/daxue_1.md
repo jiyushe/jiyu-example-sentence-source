@@ -1,5 +1,7 @@
 # 大雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxue_1.md)
+
 <p><span class="chinese">这可是大雪啊!</span><span class="english">This is some snow!</span></p>
 
 <p><span class="chinese">太多的大雪在十一月。</span><span class="english">Too much snow in November.</span></p>

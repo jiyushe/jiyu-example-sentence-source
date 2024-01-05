@@ -1,5 +1,7 @@
 # woodruff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodruff.md)
+
 <p><span class="chinese">但德韦恩伍德拉夫并没有就此停止。</span><span class="english">But Dwayne Woodruff did not stop there.</span></p>
 
 <p><span class="chinese">伍德拉夫进了橄榄球起草于1979年。</span><span class="english">Woodruff was drafted into the NFL in 1979.</span></p>

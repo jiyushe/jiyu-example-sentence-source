@@ -1,5 +1,7 @@
 # 响器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqi.md)
+
 <p><span class="chinese">文中首先引入运用电声原理设计人工混响器的准则。</span><span class="english">In this paper, the formulae are indicated firstly to design artificial reverberator.</span></p>
 
 <p><span class="chinese">传说中的EMT-140模拟板混响器。状态良好，效果一流。</span><span class="english">The legendary EMT-140 Analog Plate Reverb. In great condition with world class effects.</span></p>

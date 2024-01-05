@@ -1,5 +1,7 @@
 # gentleman 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentleman.md)
+
 <p><span class="chinese">做一个绅士。</span><span class="english">Be a gentleman.</span></p>
 
 <p><span class="chinese">那位男士吗</span><span class="english">Gentleman here?</span></p>

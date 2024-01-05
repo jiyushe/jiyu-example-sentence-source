@@ -1,5 +1,7 @@
 # 花露水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hualushui.md)
+
 <p><span class="chinese">用花露水，很有用的。</span><span class="english">With toilet water, very useful.</span></p>
 
 <p><span class="chinese">他们使用花露水和爽身粉。</span><span class="english">They carry toilet waters and perfumed powders.</span></p>

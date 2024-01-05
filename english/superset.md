@@ -1,5 +1,7 @@
 # superset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superset.md)
+
 <p><span class="chinese">这个平台曾被喻为元语言或语言超集。</span><span class="english">The platform has been likened to a meta language or language superset.</span></p>
 
 <p><span class="chinese">这些“超级课程“之所以“超级“,是因为它们是知识的精华部分。</span><span class="english">And these are super sections in just that they are superset of the class.</span></p>

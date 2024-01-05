@@ -1,5 +1,7 @@
 # 犯不着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanbuzhao.md)
+
 <p><span class="chinese">你犯不着去抱怨。</span><span class="english">It is beneath you to complain.</span></p>
 
 <p><span class="chinese">犯不着把时间浪费在我这儿。</span><span class="english">You're wasting your time with me.</span></p>

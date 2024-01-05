@@ -1,5 +1,7 @@
 # 转折点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhedian.md)
+
 <p><span class="chinese">这会是一个大的转折点。</span><span class="english">It will be a huge change.</span></p>
 
 <p><span class="chinese">这，便是一切的转折点。</span><span class="english">That was the turning point.</span></p>

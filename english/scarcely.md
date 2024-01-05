@@ -1,5 +1,7 @@
 # scarcely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scarcely.md)
+
 <p><span class="chinese">这种食物难以咽下。</span><span class="english">This food is scarcely eatable.</span></p>
 
 <p><span class="chinese">他勉勉强强能写自己的名字。</span><span class="english">He can scarcely write his name.</span></p>

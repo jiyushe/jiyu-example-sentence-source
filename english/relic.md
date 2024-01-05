@@ -1,5 +1,7 @@
 # relic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relic.md)
+
 <p><span class="chinese">使我不再像那个蹒跚的老太婆。</span><span class="english">As if I were a doddering old relic.</span></p>
 
 <p><span class="chinese">和别人对话已经成为上个时代的遗物了。</span><span class="english">Conversation is a relic of a bygone age.</span></p>

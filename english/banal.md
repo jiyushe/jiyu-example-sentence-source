@@ -1,5 +1,7 @@
 # banal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banal.md)
+
 <p><span class="chinese">他讲了一些老套话作为开场白。</span><span class="english">He preluded with some banal remarks.</span></p>
 
 <p><span class="chinese">忙碌平凡的一天就这样开始了。</span><span class="english">Then, a busyness but banal day was began.</span></p>

@@ -1,5 +1,7 @@
 # outboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outboard.md)
+
 <p><span class="chinese">尾挂机船装有舷外发动机的船。</span><span class="english">A boat with an outboard motor.</span></p>
 
 <p><span class="chinese">力舷外机火花塞。</span><span class="english">Force outboard engine spark plugs.</span></p>

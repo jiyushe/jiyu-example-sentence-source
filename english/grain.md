@@ -1,5 +1,7 @@
 # grain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grain.md)
+
 <p><span class="chinese">谷子已种上了。</span><span class="english">The grain has swon.</span></p>
 
 <p><span class="chinese">粒径分析?。</span><span class="english">Grain size analysis?</span></p>

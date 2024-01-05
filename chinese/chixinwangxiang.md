@@ -1,5 +1,7 @@
 # 痴心妄想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chixinwangxiang.md)
+
 <p><span class="chinese">这是痴心妄想。</span><span class="english">This is wishful thinking.</span></p>
 
 <p><span class="chinese">如果没有，还是别痴心妄想了。</span><span class="english">If not, don't even think about it.</span></p>

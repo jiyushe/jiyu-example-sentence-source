@@ -1,5 +1,7 @@
 # 酒色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuse.md)
+
 <p><span class="chinese">酒色掏空男人的腰包。</span><span class="english">Wine and wenches empty men's purses.</span></p>
 
 <p><span class="chinese">酒色明亮，淡麦杆色略带一丝青绿。</span><span class="english">Bright white straw with a green tint.</span></p>

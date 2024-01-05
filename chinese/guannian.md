@@ -1,5 +1,7 @@
 # 观念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guannian.md)
+
 <p><span class="chinese">西哥特人是一种观念。</span><span class="english">And a Visigoth is an idea.</span></p>
 
 <p><span class="chinese">绝妙的观念决非偶然。</span><span class="english">Good ideas are no accident.</span></p>

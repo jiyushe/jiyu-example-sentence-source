@@ -1,5 +1,7 @@
 # fluorometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorometric.md)
+
 <p><span class="chinese">方法应用荧光测定法进行体外酶活性测定。</span><span class="english">Methods Fluorometric assay was used to test the activity of the enzyme in vitro.</span></p>
 
 <p><span class="chinese">建立了分子荧光法测定富硒油菜籽中硒含量的快速测定方法。</span><span class="english">Determination of selenium content in rapeseed by fluorometric method was studied.</span></p>

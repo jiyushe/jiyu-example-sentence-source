@@ -1,5 +1,7 @@
 # commentator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commentator.md)
+
 <p><span class="chinese">那么一名称职的解说员应当具备哪些条件呢？</span><span class="english">What makes a good commentator?</span></p>
 
 <p><span class="chinese">奥利金是一个伟大的圣经注释者。</span><span class="english">Origen was a great biblical commentator.</span></p>

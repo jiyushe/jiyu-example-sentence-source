@@ -1,5 +1,7 @@
 # 货单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huodan.md)
+
 <p><span class="chinese">订货货单编号是0018。</span><span class="english">It 's number 0018.</span></p>
 
 <p><span class="chinese">这货物与货单不符。</span><span class="english">These goods do not correspond with the list.</span></p>

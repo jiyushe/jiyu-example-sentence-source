@@ -1,5 +1,7 @@
 # smallness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smallness.md)
+
 <p><span class="chinese">还有一点很重要，就是朱迪亚的渺小性。</span><span class="english">The next really important thing is the smallness of Judea.</span></p>
 
 <p><span class="chinese">进而，这位母亲想到了脆弱、纤小以及生命的美丽。</span><span class="english">The mother could consider the weakness, smallness and beauty of life.</span></p>

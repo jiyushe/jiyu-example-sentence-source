@@ -1,5 +1,7 @@
 # 良性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangxing.md)
+
 <p><span class="chinese">“这是一个良性循环”。</span><span class="english">It’s a virtuous circle.</span></p>
 
 <p><span class="chinese">所以是个良性循环。</span><span class="english">So that's a virtuous cycle.</span></p>

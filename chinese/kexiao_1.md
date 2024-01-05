@@ -1,5 +1,7 @@
 # 可笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexiao_1.md)
+
 <p><span class="chinese">他们看起来真可笑。</span><span class="english">They look silly.</span></p>
 
 <p><span class="chinese">真可笑，竟说出这种话来！</span><span class="english">What a laugh to say that!</span></p>

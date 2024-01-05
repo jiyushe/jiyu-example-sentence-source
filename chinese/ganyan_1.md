@@ -1,5 +1,7 @@
 # 敢言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyan_1.md)
+
 <p><span class="chinese">在马华公会中，有些领袖是敢怒敢言的。</span><span class="english">In MCA, there is some leaders who dare to speak.</span></p>
 
 <p><span class="chinese">古地多圮，时哉不敢言。</span><span class="english">Destroyed the ancient and more, dare not made when Weizai.</span></p>

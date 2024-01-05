@@ -1,5 +1,7 @@
 # aging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aging.md)
+
 <p><span class="chinese">什么是老化？</span><span class="english">What is aging?</span></p>
 
 <p><span class="chinese">酒藏越久，其味越醇。</span><span class="english">Wine deepens on aging.</span></p>

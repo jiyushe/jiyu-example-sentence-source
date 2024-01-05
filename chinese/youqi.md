@@ -1,5 +1,7 @@
 # 尤其
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqi.md)
+
 <p><span class="chinese">尤其是在比赛中。</span><span class="english">Especially at the race.</span></p>
 
 <p><span class="chinese">尤其是阿尔及利亚人？</span><span class="english">Particularly Algerians?</span></p>

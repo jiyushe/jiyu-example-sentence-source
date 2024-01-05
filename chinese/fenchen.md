@@ -1,5 +1,7 @@
 # 粉尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenchen.md)
+
 <p><span class="chinese">切勿吸入粉尘。</span><span class="english">S22 Do not breathe dust.</span></p>
 
 <p><span class="chinese">用传感器检测粉尘量。</span><span class="english">Sensors monitor the dust levels.</span></p>

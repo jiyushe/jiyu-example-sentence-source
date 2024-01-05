@@ -1,5 +1,7 @@
 # mixing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mixing.md)
+
 <p><span class="chinese">我在拌和配料做蛋糕。</span><span class="english">I'm mixing a cake.</span></p>
 
 <p><span class="chinese">这是由于混合的过程和。</span><span class="english">Because of the mixing process.</span></p>

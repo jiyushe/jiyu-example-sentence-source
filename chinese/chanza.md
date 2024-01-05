@@ -1,5 +1,7 @@
 # 掺杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanza.md)
+
 <p><span class="chinese">其它掺杂剂也在研究中。</span><span class="english">Other dopants have also been studied.</span></p>
 
 <p><span class="chinese">生活中的欢乐总是掺杂着悲哀的。</span><span class="english">Life's joy is ever dashed with sorrow.</span></p>

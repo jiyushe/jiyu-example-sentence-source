@@ -1,5 +1,7 @@
 # choriocarcinoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choriocarcinoma.md)
+
 <p><span class="chinese">卵巢绒癌是最罕见的妇科恶性肿瘤。</span><span class="english">Ovarian choriocarcinoma is one of the rarest gynecologic malignant tumors.</span></p>
 
 <p><span class="chinese">绒毛膜癌是一种对化疗敏感的实体肿瘤。</span><span class="english">Choriocarcinoma is one of solid tumors which are sensitive to chemotherapy.</span></p>

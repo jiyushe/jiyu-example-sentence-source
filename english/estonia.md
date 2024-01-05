@@ -1,5 +1,7 @@
 # estonia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estonia.md)
+
 <p><span class="chinese">同时，拉脱维亚和爱沙尼亚也不满这一举动，这两个国家在苏联时期接收了大量的苏联移民，因此不愿采取剧烈的变革。</span><span class="english">It also displeased Estonia and Latvia.</span></p>
 
 <p><span class="chinese">爱沙尼亚在1920-1921年是国际公认的国家。</span><span class="english">Estonia was then recognized internationally in 1920 and 1921.</span></p>

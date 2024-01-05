@@ -1,5 +1,7 @@
 # 功夫片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfupian.md)
+
 <p><span class="chinese">我刚刚看了一部精彩的功夫片。</span><span class="english">I've just seen a marvelous Kungfu movie.</span></p>
 
 <p><span class="chinese">这500部电影不能光靠功夫片和喜剧片。</span><span class="english">We cannot make 500 films based only on kung fu and comedy.</span></p>

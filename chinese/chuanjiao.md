@@ -1,5 +1,7 @@
 # 传教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanjiao.md)
+
 <p><span class="chinese">传教福音。</span><span class="english">He evangelizes the gospel.</span></p>
 
 <p><span class="chinese">传教目的并不在此。</span><span class="english">Missions is not that goal.</span></p>

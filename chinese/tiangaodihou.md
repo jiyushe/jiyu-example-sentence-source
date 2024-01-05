@@ -1,5 +1,7 @@
 # 天高地厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangaodihou.md)
+
 <p><span class="chinese">那次惨重的失败才使他们猛然知道天高地厚。</span><span class="english">That disastrous failure brought them back to reality.</span></p>
 
 <p><span class="chinese">那次惨重的失败才使他们猛然知道天高地厚。</span><span class="english">That bad failure brought them down to earth with a bump.</span></p>

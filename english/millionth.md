@@ -1,5 +1,7 @@
 # millionth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millionth.md)
+
 <p><span class="chinese">1微秒就是一百万分之一秒。</span><span class="english">A microsecond is a millionth of a second.</span></p>
 
 <p><span class="chinese">难的是坚持走一百步，一千步，一百万步。</span><span class="english">It was the hundredth, the thousandth, the millionth that was hard.</span></p>

@@ -1,5 +1,7 @@
 # reliability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reliability.md)
+
 <p><span class="chinese">压合度良好的高信赖度铁帽。</span><span class="english">Good reliability fitting by cap.</span></p>
 
 <p><span class="chinese">它涉及到速度和可靠性。</span><span class="english">It's about speed and reliability.</span></p>

@@ -1,5 +1,7 @@
 # businesswoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/businesswoman.md)
+
 <p><span class="chinese">我说不清，我觉得她是个聪明的女商人，</span><span class="english">I don't know, I think she's a smart businesswoman</span></p>
 
 <p><span class="chinese">她很快就适应她职业妇女的角色了。</span><span class="english">She soon settled into her new role as Businesswoman.</span></p>

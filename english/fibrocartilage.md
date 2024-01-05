@@ -1,5 +1,7 @@
 # fibrocartilage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrocartilage.md)
+
 <p><span class="chinese">软骨原细胞随后开始产生纤维软骨。</span><span class="english">Chondroblasts then begin to produce a type of cartilage called fibrocartilage.</span></p>
 
 <p><span class="chinese">胎儿关节唇软骨中有血管存在，但血管的数量随胎龄增加而减少。</span><span class="english">The number of the blood vessels in the fibrocartilage will decrease with the age of the fetus.</span></p>

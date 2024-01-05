@@ -1,5 +1,7 @@
 # climactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climactic.md)
+
 <p><span class="chinese">今天是峰会的最后一天，也是据称将迎来会议高潮的一天。</span><span class="english">It is the final, supposedly climactic day of the conference.</span></p>
 
 <p><span class="chinese">影片的最高潮枪战发生在一条小城街道上，这将决定杰克的命运。</span><span class="english">A climactic shootout on a village street will determine his fate.</span></p>

@@ -1,5 +1,7 @@
 # 新址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhi_4.md)
+
 <p><span class="chinese">负责新址开展。</span><span class="english">I do new site development.</span></p>
 
 <p><span class="chinese">把那桥一段一段地运到了新址。</span><span class="english">The bridge is move piece by piece to a new site.</span></p>

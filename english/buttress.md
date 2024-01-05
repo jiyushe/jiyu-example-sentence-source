@@ -1,5 +1,7 @@
 # buttress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttress.md)
+
 <p><span class="chinese">并且官方数字也可以支持这一观点。</span><span class="english">Official figures buttress that view.</span></p>
 
 <p><span class="chinese">覆盖扶壁顶部的山墙状的石头。</span><span class="english">A gable-shaped stone that crowns a buttress.</span></p>

@@ -1,5 +1,7 @@
 # suspender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suspender.md)
+
 <p><span class="chinese">从德国战壕中发现的吊裤带。</span><span class="english">A suspender found in a German dugout.</span></p>
 
 <p><span class="chinese">总结了吊杆破损的表现、原因和机理。</span><span class="english">The reason and mechanism of the suspender damage are generalized.</span></p>

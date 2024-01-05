@@ -1,5 +1,7 @@
 # rebellious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebellious.md)
+
 <p><span class="chinese">他全体的生活都是反水的。</span><span class="english">He has all his life been rebellious.</span></p>
 
 <p><span class="chinese">笑是危险的而且具有叛逆性。</span><span class="english">Laughter is dangerous and rebellious.</span></p>

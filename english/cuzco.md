@@ -1,5 +1,7 @@
 # cuzco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuzco.md)
+
 <p><span class="chinese">大多数身为统治者的木乃伊被保存在库斯科。</span><span class="english">Most of the mummies of the rulers were kept in Cuzco.</span></p>
 
 <p><span class="chinese">在库斯科地区泥石流总共已使5人丧生。</span><span class="english">In total, slides have killed five people in the Cuzco region.</span></p>

@@ -1,5 +1,7 @@
 # unintelligent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unintelligent.md)
+
 <p><span class="chinese">这似乎是愚昧的行为。</span><span class="english">It appears to be unintelligent behavior.</span></p>
 
 <p><span class="chinese">与其说他不聪明，不如说他未受过教育。</span><span class="english">He is not so unintelligent as uneducated.</span></p>

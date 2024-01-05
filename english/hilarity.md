@@ -1,5 +1,7 @@
 # hilarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilarity.md)
+
 <p><span class="chinese">一名50岁的英国人，死于致命狂笑。</span><span class="english">A 50 year-old English, died due to fatal hilarity.</span></p>
 
 <p><span class="chinese">不过，每天早晨穿衣服还是制造了一点小小的欢娱。</span><span class="english">Still it makes for a bit of hilarity in the tent every morning.</span></p>

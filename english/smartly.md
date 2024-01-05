@@ -1,5 +1,7 @@
 # smartly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smartly.md)
+
 <p><span class="chinese">他机敏地截住球。</span><span class="english">He fielded the ball smartly.</span></p>
 
 <p><span class="chinese">他巧妙地将球接住。</span><span class="english">He fielded the ball smartly.</span></p>

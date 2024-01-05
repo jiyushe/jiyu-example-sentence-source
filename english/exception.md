@@ -1,5 +1,7 @@
 # exception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exception.md)
+
 <p><span class="chinese">没有例外。</span><span class="english">Without exception.</span></p>
 
 <p><span class="chinese">诚实例外。</span><span class="english">Good-faith exception.</span></p>

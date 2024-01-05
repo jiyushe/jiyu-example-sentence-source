@@ -1,5 +1,7 @@
 # 浓烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonglie.md)
+
 <p><span class="chinese">他身上有一股浓烈的烟草味。</span><span class="english">He smells of strong tobacco.</span></p>
 
 <p><span class="chinese">有些花有浓烈的香味。</span><span class="english">Some flowers have strong smell.</span></p>

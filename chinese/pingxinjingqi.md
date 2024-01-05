@@ -1,5 +1,7 @@
 # 平心静气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingxinjingqi.md)
+
 <p><span class="chinese">平心静气地打开笔记本电脑箱</span><span class="english">Quietly and calmly open up your laptop case.</span></p>
 
 <p><span class="chinese">出现这种情况应平心静气地找原因。</span><span class="english">Happen to be looking for reasons dispassionately.</span></p>

@@ -1,5 +1,7 @@
 # misogyny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misogyny.md)
+
 <p><span class="chinese">“厌女症”患者指的是讨厌、不喜欢、不信任、或者虐待女性的人。</span><span class="english">Misogyny is the hatred of, contempt for, or prejudice against women or girls.</span></p>
 
 <p><span class="chinese">巫术的艺术史常常是歧视女性的。</span><span class="english">The one constant throughout the history of the art of witchcraft is misogyny.</span></p>

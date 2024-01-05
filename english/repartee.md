@@ -1,5 +1,7 @@
 # repartee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repartee.md)
+
 <p><span class="chinese">我很喜欢听他们妙语连珠的对答。</span><span class="english">I enjoy listening to their witty repartee.</span></p>
 
 <p><span class="chinese">暴力是文盲常采用的巧妙应答。</span><span class="english">Violence is the repartee of the illiterate.</span></p>

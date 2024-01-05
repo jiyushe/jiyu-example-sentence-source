@@ -1,5 +1,7 @@
 # jailbreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jailbreak.md)
+
 <p><span class="chinese">这就是越狱应用程序商店。</span><span class="english">This is the jailbreak app store.</span></p>
 
 <p><span class="chinese">越狱使设备成为你想要的样子。</span><span class="english">A jailbreak lets your device be how you want it.</span></p>

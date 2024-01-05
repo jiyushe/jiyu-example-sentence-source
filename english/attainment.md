@@ -1,5 +1,7 @@
 # attainment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attainment.md)
+
 <p><span class="chinese">难道这是办不到的吗?</span><span class="english">Could it be said that it is impossible of attainment?</span></p>
 
 <p><span class="chinese">那是她孜孜以求的正果。</span><span class="english">It was her diligently strive after the attainment of.</span></p>

@@ -1,5 +1,7 @@
 # fujian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fujian.md)
+
 <p><span class="chinese">福建省九牧轻工集团有限公司。</span><span class="english">Fujian Jomoo Light Group Co. , Ltd.</span></p>
 
 <p><span class="chinese">我来自福建省福清市。</span><span class="english">I am from Fuqing City, Fujian Province.</span></p>

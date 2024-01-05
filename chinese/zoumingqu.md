@@ -1,5 +1,7 @@
 # 奏鸣曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoumingqu.md)
+
 <p><span class="chinese">大调双钢琴奏鸣曲，作品448号，第一乐章。</span><span class="english">Sonata in D major for 2 Pianos, KV. 448</span></p>
 
 <p><span class="chinese">节目单中有两首莫扎特的奏鸣曲。</span><span class="english">The programme includes two Mozart sonatas.</span></p>

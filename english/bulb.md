@@ -1,5 +1,7 @@
 # bulb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulb.md)
+
 <p><span class="chinese">灯泡已烧断了。</span><span class="english">Turn on the light bulb.</span></p>
 
 <p><span class="chinese">灯泡的价格急降。</span><span class="english">The price of a bulb plunged.</span></p>

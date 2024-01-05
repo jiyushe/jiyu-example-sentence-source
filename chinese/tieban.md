@@ -1,5 +1,7 @@
 # 铁板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieban.md)
+
 <p><span class="chinese">将华夫铁板调至中温预热。</span><span class="english">Preheat waffle iron to medium high.</span></p>
 
 <p><span class="chinese">房子全是木制的，房顶有刷有红漆的铁板制成。</span><span class="english">All the house were of wood with red-painted iron roofs.</span></p>

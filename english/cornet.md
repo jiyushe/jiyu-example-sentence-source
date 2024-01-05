@@ -1,5 +1,7 @@
 # cornet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornet.md)
+
 <p><span class="chinese">我看到一个小孩在吃冰淇淋蛋卷。</span><span class="english">I saw a small boy licking an ice-cream cornet.</span></p>
 
 <p><span class="chinese">我看见她正坐在角落里，盯着那个女孩。</span><span class="english">I see her sitting in the cornet staring at that girl.</span></p>

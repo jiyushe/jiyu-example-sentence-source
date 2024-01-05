@@ -1,5 +1,7 @@
 # 巫女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wunv.md)
+
 <p><span class="chinese">夜之巫女随之而来！</span><span class="english">When the Night Witches come!</span></p>
 
 <p><span class="chinese">你不用介意，这是巫女的职责。</span><span class="english">Don't you matter. This is my duty.</span></p>

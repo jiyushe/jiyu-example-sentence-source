@@ -1,5 +1,7 @@
 # muppet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muppet.md)
+
 <p><span class="chinese">这是贾尼丝的木偶表演长毛绒玩具。</span><span class="english">This is a Janice The Muppet Show Plush Toy.</span></p>
 
 <p><span class="chinese">那是“布偶”，它都明文写在你的租约上。</span><span class="english">That's a "Muppet. " It's all spelled out in your lease.</span></p>

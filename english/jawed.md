@@ -1,5 +1,7 @@
 # jawed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jawed.md)
+
 <p><span class="chinese">老板责骂那些懒惰的工人。</span><span class="english">The boss jawed the lazy workers.</span></p>
 
 <p><span class="chinese">一位名叫贾韦德.艾哈迈德的店主目睹了那次袭击。</span><span class="english">Shopkeeper Jawed Ahmad was nearby.</span></p>

@@ -1,5 +1,7 @@
 # 鸿毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongmao_1.md)
+
 <p><span class="chinese">这位哲学家认为死亡轻如鸿毛。</span><span class="english">The philosopher thinks that death is as light as a feather.</span></p>
 
 <p><span class="chinese">正如他所说的，他‘轻如鸿毛’，他象一个舞者。</span><span class="english">He was 'light as a feather', as he puts it. He was like a dancer.</span></p>

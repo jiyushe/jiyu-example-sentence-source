@@ -1,5 +1,7 @@
 # measured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measured.md)
+
 <p><span class="chinese">电容的丈量单元是法拉。</span><span class="english">It is measured in farads.</span></p>
 
 <p><span class="chinese">如何衡量毒性？</span><span class="english">How is virulence measured?</span></p>

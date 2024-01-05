@@ -1,5 +1,7 @@
 # coxal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coxal.md)
+
 <p><span class="chinese">胸部丰满、腰细、臀部肥厚。</span><span class="english">Bosom plump, waist is fine, coxal fleshy.</span></p>
 
 <p><span class="chinese">同时发生的腰、大腿和臀部肌肉的痉挛可加重病情。</span><span class="english">Coinstantaneous waist, ham and coxal sarcous convulsion can accentuate illness.</span></p>

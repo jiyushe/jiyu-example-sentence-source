@@ -1,5 +1,7 @@
 # adorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adorable.md)
+
 <p><span class="chinese">也可以理解成“我很可爱”。</span><span class="english">" It also says, "I'm adorable.</span></p>
 
 <p><span class="chinese">这是上天安排的可爱的埋伏！</span><span class="english">Adorable ambuscades of providence!</span></p>

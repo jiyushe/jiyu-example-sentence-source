@@ -1,5 +1,7 @@
 # inguinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inguinal.md)
+
 <p><span class="chinese">腹股沟淋巴结肿大的药物治疗控制方法？</span><span class="english">Of inguinal lymph node enlargement medication control method?</span></p>
 
 <p><span class="chinese">股癣是一种真菌在腹股沟区的瘙痒性皮炎。</span><span class="english">Tinea cruris is a fungal pruritic dermatitis in the inguinal region.</span></p>

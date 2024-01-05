@@ -1,5 +1,7 @@
 # presuming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presuming.md)
+
 <p><span class="chinese">你竟胆敢来指点我怎么开汽车？</span><span class="english">Are you presuming to tell me how to drive my car?</span></p>
 
 <p><span class="chinese">假设她真的说了这些话，你会感到意外吗？</span><span class="english">Presuming this is what she actually said, does this surprise you?</span></p>

@@ -1,5 +1,7 @@
 # narrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrate.md)
+
 <p><span class="chinese">你可以尝试去叙述那件事。</span><span class="english">You can try to narrate that thing.</span></p>
 
 <p><span class="chinese">你能吿诉我你的电话号码吗？</span><span class="english">Would you narrate me your call digit?</span></p>

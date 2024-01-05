@@ -1,5 +1,7 @@
 # 疫情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqing_1.md)
+
 <p><span class="chinese">什么叫特大流行疫情？</span><span class="english">What is a pandemic?</span></p>
 
 <p><span class="chinese">因此，美国离疫情爆发也许仅一步之遥。</span><span class="english">So perhaps a U. S. outbreak was a near-miss.</span></p>

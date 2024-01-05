@@ -1,5 +1,7 @@
 # afferent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afferent.md)
+
 <p><span class="chinese">可以把传出耦合看作传入耦合的逆转。</span><span class="english">Think of efferent coupling as the inverse of afferent coupling.</span></p>
 
 <p><span class="chinese">传入耦合比较难判断，但是更有价值。</span><span class="english">Afferent coupling is harder to determine and much more valuable.</span></p>

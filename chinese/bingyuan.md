@@ -1,5 +1,7 @@
 # 兵员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuan.md)
+
 <p><span class="chinese">拿破仑自以为兵员充足，有恃无恐。</span><span class="english">Nepoleon from think the soldier is ample, there is Shi have no perhaps.</span></p>
 
 <p><span class="chinese">大流士义兵员众多为优势，亚历山大则凭战略取胜。</span><span class="english">If Darius has put his faith in numbers, Alexander will rely on strategy.</span></p>

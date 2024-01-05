@@ -1,5 +1,7 @@
 # rummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rummy.md)
+
 <p><span class="chinese">播放流行的金罗美牌游戏！</span><span class="english">Play the popular Gin Rummy game!</span></p>
 
 <p><span class="chinese">我爱你超过酒鬼的絮叨。</span><span class="english">I love you more than gin rummy is a bore.</span></p>

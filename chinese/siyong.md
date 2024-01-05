@@ -1,5 +1,7 @@
 # 私用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyong.md)
+
 <p><span class="chinese">虚拟私用网络服务?。</span><span class="english">Vnet? Virtual Private Network Service?</span></p>
 
 <p><span class="chinese">既然是私用，那么就可以是心里想要的任何一样东西。</span><span class="english">Play can be anything your heart desires.</span></p>

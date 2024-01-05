@@ -1,5 +1,7 @@
 # inestimable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inestimable.md)
+
 <p><span class="chinese">这个案子的政治影响是不可估量的。</span><span class="english">The political implications of this case are inestimable.</span></p>
 
 <p><span class="chinese">他们作出了难以估量的重大贡献。</span><span class="english">They have made a contribution of inestimable importance.</span></p>

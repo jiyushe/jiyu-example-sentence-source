@@ -1,5 +1,7 @@
 # bolter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolter.md)
+
 <p><span class="chinese">锚杆钻机气动马达是该设备的核心部件。</span><span class="english">Pneumatic motor is a kernel part of the roof bolter.</span></p>
 
 <p><span class="chinese">她赋有魅力而且事业成功的丈夫这时却成了脱僵野马。</span><span class="english">Nick, her charming and successful husband, became a bolter.</span></p>

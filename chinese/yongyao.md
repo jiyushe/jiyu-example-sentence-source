@@ -1,5 +1,7 @@
 # 用药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyao.md)
+
 <p><span class="chinese">他用药一直过量。</span><span class="english">He's been overdosing himself.</span></p>
 
 <p><span class="chinese">用药过量可致死。</span><span class="english">Over-dosage can produce death.</span></p>

@@ -1,5 +1,7 @@
 # normal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normal_1.md)
+
 <p><span class="chinese">还是普通版？</span><span class="english">Normal?</span></p>
 
 <p><span class="chinese">他是我的普通朋友。</span><span class="english">Es mi amigo normal.</span></p>

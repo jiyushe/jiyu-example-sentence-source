@@ -1,5 +1,7 @@
 # 稀世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishi_3.md)
+
 <p><span class="chinese">稀世珍宝倒没有。</span><span class="english">There is no rare treasure here.</span></p>
 
 <p><span class="chinese">这岛上有什么稀世珍宝吗？</span><span class="english">What rare treasures does it have?</span></p>

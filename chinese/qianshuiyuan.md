@@ -1,5 +1,7 @@
 # 潜水员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshuiyuan.md)
+
 <p><span class="chinese">海军潜水员，退下。</span><span class="english">Navy diver, stand down.</span></p>
 
 <p><span class="chinese">个潜水员说，他是新来旳。</span><span class="english">A Submariner said, He is new here.</span></p>

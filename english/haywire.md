@@ -1,5 +1,7 @@
 # haywire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haywire.md)
+
 <p><span class="chinese">现在已经很难天下大乱了。</span><span class="english">Things just very rarely go haywire now.</span></p>
 
 <p><span class="chinese">很多美国人认为他们的司法体系已经乱套了。</span><span class="english">Many Americans think their legal system has gone haywire.</span></p>

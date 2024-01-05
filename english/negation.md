@@ -1,5 +1,7 @@
 # negation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negation.md)
+
 <p><span class="chinese">工作是对永恒的否定。</span><span class="english">Work is the negation of eternity.</span></p>
 
 <p><span class="chinese">此外，请尽量少用否定。</span><span class="english">Also, please try to minimize negation.</span></p>

@@ -1,5 +1,7 @@
 # liveliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liveliness.md)
+
 <p><span class="chinese">这深夜里弦子的生动。</span><span class="english">To the liveliness of the strings.</span></p>
 
 <p><span class="chinese">我爱你的脑子灵活。</span><span class="english">For the liveliness of your mind, I did.</span></p>

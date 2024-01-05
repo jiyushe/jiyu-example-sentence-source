@@ -1,5 +1,7 @@
 # slogging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slogging.md)
+
 <p><span class="chinese">他猛击了一名看守，然后成功地逃跑了。</span><span class="english">He effected his escape by slogging a guard.</span></p>
 
 <p><span class="chinese">我们真的需要一个更大规模的经济刺激计划。但这将艰难进行。</span><span class="english">We really do need a bigger stimulus. But it's going to be hard slogging.</span></p>

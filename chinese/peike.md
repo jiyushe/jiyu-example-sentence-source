@@ -1,5 +1,7 @@
 # 陪客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peike.md)
+
 <p><span class="chinese">我希望你该留下陪客。</span><span class="english">I expect you to stay and eat.</span></p>
 
 <p><span class="chinese">如果走不开，至少陪客人走几步。</span><span class="english">When this is not possible, take the guest the first three steps.</span></p>

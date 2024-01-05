@@ -1,5 +1,7 @@
 # 偶然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouran.md)
+
 <p><span class="chinese">偶然的一次对望！</span><span class="english">Accidental time look!</span></p>
 
 <p><span class="chinese">我来自偶然。</span><span class="english">I come from fortuity.</span></p>

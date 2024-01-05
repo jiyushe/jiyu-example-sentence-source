@@ -1,5 +1,7 @@
 # 油泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youni.md)
+
 <p><span class="chinese">这表需要擦油泥。</span><span class="english">The watch needs cleaning and oiling.</span></p>
 
 <p><span class="chinese">哈哈，油泥、陶泥是我最擅长的了。</span><span class="english">Haha, sludge, clay is my best at the.</span></p>

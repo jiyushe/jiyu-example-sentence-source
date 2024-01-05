@@ -1,5 +1,7 @@
 # blocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blocking.md)
+
 <p><span class="chinese">交通阻塞。</span><span class="english">Traffic blocking.</span></p>
 
 <p><span class="chinese">这里我开始填色。</span><span class="english">Here I start blocking out colors.</span></p>

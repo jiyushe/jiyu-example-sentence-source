@@ -1,5 +1,7 @@
 # haggard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haggard.md)
+
 <p><span class="chinese">他肥强枯槁，望下去一正不幸相。</span><span class="english">He was thin and haggard and he looked miserable.</span></p>
 
 <p><span class="chinese">由于失眠，她的脸憔悴难看。</span><span class="english">Her face was drawn and haggard from sleeplessness.</span></p>

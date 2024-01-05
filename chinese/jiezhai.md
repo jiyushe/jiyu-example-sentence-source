@@ -1,5 +1,7 @@
 # 借债
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezhai.md)
+
 <p><span class="chinese">你借债是不明智的。</span><span class="english">It was unwise of you to get into debt.</span></p>
 
 <p><span class="chinese">他宁肯不吃，也不愿借债。</span><span class="english">Rather than borrow, he went without food.</span></p>

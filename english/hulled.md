@@ -1,5 +1,7 @@
 # hulled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hulled.md)
+
 <p><span class="chinese">只一枚鱼雷就把敌舰舰身穿了个洞。</span><span class="english">The enemy's vessel was hulled with only one torpedo.</span></p>
 
 <p><span class="chinese">割，筛清和去壳以后才出售。</span><span class="english">Rice is gathered, cleaned and hulled before being sold.</span></p>

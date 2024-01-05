@@ -1,5 +1,7 @@
 # abandonment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abandonment.md)
+
 <p><span class="chinese">两小时的放纵。</span><span class="english">Two hours of abandonment.</span></p>
 
 <p><span class="chinese">遗弃罪是一种传统型的犯罪。</span><span class="english">The crime of abandonment is a kind of traditional crime.</span></p>

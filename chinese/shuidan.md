@@ -1,5 +1,7 @@
 # 税单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuidan.md)
+
 <p><span class="chinese">这是我零四到零五年的税单。</span><span class="english">Here is my salary tax form from 2004 to 2005.</span></p>
 
 <p><span class="chinese">一定要把你的名字签在海关报税单上面。</span><span class="english">Please be sure to put your signature to the customs form.</span></p>

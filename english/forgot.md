@@ -1,5 +1,7 @@
 # forgot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgot.md)
+
 <p><span class="chinese">是的，我们全忘了。</span><span class="english">Yes, we forgot.</span></p>
 
 <p><span class="chinese">我忘了带书包。</span><span class="english">I forgot my bag.</span></p>

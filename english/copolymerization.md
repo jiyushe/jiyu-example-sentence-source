@@ -1,5 +1,7 @@
 # copolymerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copolymerization.md)
+
 <p><span class="chinese">研完了影响共聚反应的因素。</span><span class="english">Factors effecting the copolymerization were studied.</span></p>
 
 <p><span class="chinese">采用共聚合的方法，确可提高凝胶的相变温度。</span><span class="english">RESULTS LCSTs of gels were increased by the method of copolymerization.</span></p>

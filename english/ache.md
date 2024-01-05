@@ -1,5 +1,7 @@
 # ache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ache.md)
+
 <p><span class="chinese">我有一个地方隐痛。</span><span class="english">I feel a dull ache.</span></p>
 
 <p><span class="chinese">仅仅是肚子有点痛。</span><span class="english">It was only a tummy ache.</span></p>

@@ -1,5 +1,7 @@
 # stuart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stuart.md)
+
 <p><span class="chinese">约翰·斯图尔特·穆勒生于1806年。</span><span class="english">John Stuart Mill was born in 1806.</span></p>
 
 <p><span class="chinese">斯图尔病了，所以换了我去。</span><span class="english">Stuart was ill, so I went instead.</span></p>

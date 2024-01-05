@@ -1,5 +1,7 @@
 # 偏旁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianpang.md)
+
 <p><span class="chinese">你知道这个字的偏旁部首吗？</span><span class="english">Do you know the radical of this word?</span></p>
 
 <p><span class="chinese">学习一个新的笔画“撇点”和三个新的偏旁部首“讠”、“亻”和“女”。</span><span class="english">Learn a new stroke and recognize three new radicals.</span></p>

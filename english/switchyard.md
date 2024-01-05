@@ -1,5 +1,7 @@
 # switchyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switchyard.md)
+
 <p><span class="chinese">断路器控制回路的合闸线圈和接触器烧毁现象是变电运行工作中经常遇到的普遍问题。</span><span class="english">The burn of circuit breaker closing coils and contactors is a common problem in the switchyard operates.</span></p>
 
 <p><span class="chinese">它被称为“绿色山羊”。它已在罗斯维尔的“联合太平洋”铁路公司的向四处延伸的调车场中心运行。</span><span class="english">It's called the Green Goat, and it's in service at Union Pacific's sprawling switchyard hub in Roseville.</span></p>

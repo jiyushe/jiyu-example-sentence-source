@@ -1,5 +1,7 @@
 # 呢喃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ninan.md)
+
 <p><span class="chinese">我想念妹妹睡梦中的呢喃。</span><span class="english">I missed my sister's sleepy mumbles.</span></p>
 
 <p><span class="chinese">古老的榆树林中鸽子的呢喃。</span><span class="english">The moan of doves in immemorial elms.</span></p>

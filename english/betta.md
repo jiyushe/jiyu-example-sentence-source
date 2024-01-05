@@ -1,5 +1,7 @@
 # betta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betta.md)
+
 <p><span class="chinese">斗鱼喜欢生活在罐子里吗？</span><span class="english">Is betta likes to live in jars?</span></p>
 
 <p><span class="chinese">我该如何处置新购买的斗鱼？</span><span class="english">What do I do for a new bought betta?</span></p>

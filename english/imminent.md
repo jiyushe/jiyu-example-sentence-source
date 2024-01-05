@@ -1,5 +1,7 @@
 # imminent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imminent.md)
+
 <p><span class="chinese">癌症的征服为期不远。</span><span class="english">The conquest of cancer is imminent.</span></p>
 
 <p><span class="chinese">那是必然的，可是却不会很快来临。</span><span class="english">It is inevitable, but it is not imminent.</span></p>

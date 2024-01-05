@@ -1,5 +1,7 @@
 # 愿意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyi_2.md)
+
 <p><span class="chinese">他愿意教。</span><span class="english">Yes, he would.</span></p>
 
 <p><span class="chinese">我敢肯定没有一个人愿意。</span><span class="english">I am sure no one.</span></p>

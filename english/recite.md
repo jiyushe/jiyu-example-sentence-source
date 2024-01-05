@@ -1,5 +1,7 @@
 # recite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recite.md)
+
 <p><span class="chinese">该轮到我背书了。</span><span class="english">It's my turn to recite.</span></p>
 
 <p><span class="chinese">谁会背诵课文？</span><span class="english">Who can recite the text?</span></p>

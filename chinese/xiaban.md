@@ -1,5 +1,7 @@
 # 下班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaban.md)
+
 <p><span class="chinese">在下班时间致电。</span><span class="english">Call during off hours.</span></p>
 
 <p><span class="chinese">你什么时候能下班？</span><span class="english">When do you finish work?</span></p>

@@ -1,5 +1,7 @@
 # 淀粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianfen.md)
+
 <p><span class="chinese">淀粉糖生产技术。</span><span class="english">Corn sugar technology.</span></p>
 
 <p><span class="chinese">新鲜火腿肉，水，玉米淀粉。</span><span class="english">Fresh Ham, Water, Corn Starch.</span></p>

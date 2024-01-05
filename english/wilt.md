@@ -1,5 +1,7 @@
 # wilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilt.md)
+
 <p><span class="chinese">他好像在畏缩。</span><span class="english">He seemed to wilt.</span></p>
 
 <p><span class="chinese">你别皱眉好吗？</span><span class="english">Wilt thou not frown?</span></p>

@@ -1,5 +1,7 @@
 # injunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injunction.md)
+
 <p><span class="chinese">因此，马克·吐温的训谕依然正确。</span><span class="english">So Mark Twain’s injunction stands.</span></p>
 
 <p><span class="chinese">军政府废除了禁令。</span><span class="english">The military government dissolved the injunction.</span></p>

@@ -1,5 +1,7 @@
 # 假相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxiang_1.md)
+
 <p><span class="chinese">但不要被这个简单的假相所欺骗。</span><span class="english">But don't let the simplicity fool you.</span></p>
 
 <p><span class="chinese">先生，假相当中如何能包含真理？</span><span class="english">Sir, how can the false contain the truth?</span></p>

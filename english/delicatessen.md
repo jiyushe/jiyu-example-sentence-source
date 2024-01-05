@@ -1,5 +1,7 @@
 # delicatessen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delicatessen.md)
+
 <p><span class="chinese">我会给你买佳肴！用不锈钢盛的！</span><span class="english">I'll buy you a delicatessen in stainless steel!</span></p>
 
 <p><span class="chinese">熟食一般不需另加烹调便可食用。</span><span class="english">Delicatessen usually require little preparation for serving.</span></p>

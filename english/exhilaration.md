@@ -1,5 +1,7 @@
 # exhilaration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhilaration.md)
+
 <p><span class="chinese">亢奋地安慰自己，你的黄，有我一份。</span><span class="english">I can comfort myself with exhilaration that I have a share in its being yellow.</span></p>
 
 <p><span class="chinese">我感觉到一种奇怪的放松和失望参半的心情，既愉快又倍感空虚。</span><span class="english">I felt a strange mixture of relief and disappointment, exhilaration and emptiness.</span></p>

@@ -1,5 +1,7 @@
 # 没收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moshou.md)
+
 <p><span class="chinese">她的电话被没收。</span><span class="english">Her phone was confiscated.</span></p>
 
 <p><span class="chinese">把矮人的锤子没收了。</span><span class="english">Took hammer away from midget.</span></p>

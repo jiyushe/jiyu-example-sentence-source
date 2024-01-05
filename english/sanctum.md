@@ -1,5 +1,7 @@
 # sanctum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctum.md)
+
 <p><span class="chinese">你必须知道暗黑破坏神内在的圣域是隐藏在五个封印后面。</span><span class="english">Know that Diablo 's innermost sanctum is hidden by five seals.</span></p>
 
 <p><span class="chinese">在学习心灵圣所之后心灵之火不再减少法力消耗。</span><span class="english">Inner Fire no longer consumes mana after learning Inner Sanctum.</span></p>

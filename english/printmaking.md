@@ -1,5 +1,7 @@
 # printmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printmaking.md)
+
 <p><span class="chinese">制作版画的方法有很多种。</span><span class="english">There are many methods of printmaking.</span></p>
 
 <p><span class="chinese">最古老的版画制作形式是木刻版画。</span><span class="english">The oldest form of printmaking is the woodcut.</span></p>

@@ -1,5 +1,7 @@
 # vl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vl.md)
+
 <p><span class="chinese">中心分类页面则由VL委员会维护。</span><span class="english">The central Catalog pages are maintained by the Council of the VL.</span></p>
 
 <p><span class="chinese">VL的主要事务现由经过选举产生的委员会进行协调处理。</span><span class="english">The central affairs of the VL are now co-ordinated by an elected council.</span></p>

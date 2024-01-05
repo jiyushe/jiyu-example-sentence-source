@@ -1,5 +1,7 @@
 # 众人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongren_1.md)
+
 <p><span class="chinese">他从断头台上下来时，他的目光里有种东西使众人肃然退立。</span><span class="english">The scaffold is a vision.</span></p>
 
 <p><span class="chinese">愿恩惠常与你们众人同在。</span><span class="english">Grace be with you all. Amen.</span></p>

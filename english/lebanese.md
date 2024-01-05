@@ -1,5 +1,7 @@
 # Lebanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lebanese.md)
+
 <p><span class="chinese">许多黎巴嫩人将哈里里的死归咎于叙利亚。</span><span class="english">Many Lebanese blamed Syria for Mr Hariri's murder.</span></p>
 
 <p><span class="chinese">黎巴嫩囚犯问题是一个敏感的问题。</span><span class="english">There is a sensitive issue about Lebanese prisoners.</span></p>

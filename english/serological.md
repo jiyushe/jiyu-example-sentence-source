@@ -1,5 +1,7 @@
 # serological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serological.md)
+
 <p><span class="chinese">重楼属植物的免疫血清学研究。</span><span class="english">Serological investigation of some taxa of Paris genus.</span></p>
 
 <p><span class="chinese">抗C群脑膜炎球菌抗体免疫应答良好。</span><span class="english">The serological response to group C meningococci is good.</span></p>

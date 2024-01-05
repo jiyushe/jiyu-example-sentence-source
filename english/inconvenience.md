@@ -1,5 +1,7 @@
 # inconvenience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconvenience.md)
+
 <p><span class="chinese">这一耽搁造成很大不便。</span><span class="english">The delay caused great inconvenience.</span></p>
 
 <p><span class="chinese">对于给您带来的不便，我深感抱歉。</span><span class="english">I'm terribly sorry for the inconvenience.</span></p>

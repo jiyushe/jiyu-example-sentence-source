@@ -1,5 +1,7 @@
 # 手眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyan_1.md)
+
 <p><span class="chinese">我的手眼协调能力是零。</span><span class="english">My hand-eye coordination is zero.</span></p>
 
 <p><span class="chinese">呼，手眼协调好累喔！</span><span class="english">Whoa, hand-eye coordination is real tiring!</span></p>

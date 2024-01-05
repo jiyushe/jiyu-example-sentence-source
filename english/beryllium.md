@@ -1,5 +1,7 @@
 # beryllium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beryllium.md)
+
 <p><span class="chinese">例如铍二正离子，非常小，带2个单位正电。</span><span class="english">Look at beryllium 2 plus, very tiny, charge plus two.</span></p>
 
 <p><span class="chinese">其中，X射线入射窗的窗材是铝或铍。</span><span class="english">The X-ray input window is made of aluminum or beryllium.</span></p>

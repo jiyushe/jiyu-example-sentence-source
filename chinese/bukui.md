@@ -1,5 +1,7 @@
 # 不愧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukui.md)
+
 <p><span class="chinese">真不愧是浪漫派。</span><span class="english">Romantic.</span></p>
 
 <p><span class="chinese">哎呀，不愧是老搭档啊。</span><span class="english">Oho, you are a true partner.</span></p>

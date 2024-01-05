@@ -1,5 +1,7 @@
 # 浸透
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintou_1.md)
+
 <p><span class="chinese">藉此你灵浸透全人。</span><span class="english">Thy Spirit will me saturate.</span></p>
 
 <p><span class="chinese">他的衬衫浸透了汗水。</span><span class="english">His shirt was steeped with sweat.</span></p>

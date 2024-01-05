@@ -1,5 +1,7 @@
 # poky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poky.md)
+
 <p><span class="chinese">波基，掩护我。我要行动了。</span><span class="english">Poky , cover me. I'm going in.</span></p>
 
 <p><span class="chinese">他们住在一个逼仄的小套间里。</span><span class="english">They live in a poky little flat.</span></p>

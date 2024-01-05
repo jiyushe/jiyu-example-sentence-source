@@ -1,5 +1,7 @@
 # blackguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackguard.md)
+
 <p><span class="chinese">我觉得你是个大坏蛋。</span><span class="english">I think you are a blackguard.</span></p>
 
 <p><span class="chinese">我以前以为他是坏人。</span><span class="english">I used to think he was a blackguard.</span></p>

@@ -1,5 +1,7 @@
 # stealthily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stealthily.md)
+
 <p><span class="chinese">晨光悄悄地穿过百叶窗。</span><span class="english">Dawn through the shutter stealthily.</span></p>
 
 <p><span class="chinese">费根蹑手蹑足了厨房的楼梯。</span><span class="english">Fagin stealthily descended the kitchen stairs.</span></p>

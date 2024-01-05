@@ -1,5 +1,7 @@
 # rowland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rowland.md)
+
 <p><span class="chinese">母爱是一种巨大的火焰。——罗曼。罗兰。</span><span class="english">Maternal love is a huge flame. Roman roman. Rowland.</span></p>
 
 <p><span class="chinese">很乾净，明亮，位于最理想的罗兰岗区。</span><span class="english">Very clean and bright in the most desirable Rowland Heights Area.</span></p>

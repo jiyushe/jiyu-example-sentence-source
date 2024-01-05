@@ -1,5 +1,7 @@
 # bare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bare.md)
+
 <p><span class="chinese">我囊空如洗。</span><span class="english">I am bare in purse.</span></p>
 
 <p><span class="chinese">桌子光秃秃的。</span><span class="english">The table was bare.</span></p>

@@ -1,5 +1,7 @@
 # logistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logistics.md)
+
 <p><span class="chinese">什么是物流园区?。</span><span class="english">What is the "Logistics Zone"mean?</span></p>
 
 <p><span class="chinese">上海虹辉物流有限公司?。</span><span class="english">Shanghai Honghui Logistics Co. , Ltd.</span></p>

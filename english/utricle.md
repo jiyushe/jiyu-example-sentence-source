@@ -1,5 +1,7 @@
 # utricle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utricle.md)
+
 <p><span class="chinese">胞果卵圆形，种子黑褐色。</span><span class="english">Utricle egg circle, the seed is black Brown.</span></p>
 
 <p><span class="chinese">胞果近球形，种子肾形，棕色，光亮。</span><span class="english">Utricle is close globose , seminal kidney form, brown, shining.</span></p>

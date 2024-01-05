@@ -1,5 +1,7 @@
 # 聚精会神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujinghuishen.md)
+
 <p><span class="chinese">聚精会神，保持平静和安宁。</span><span class="english">Internal peace, harmony and foucs.</span></p>
 
 <p><span class="chinese">听众都在聚精会神地听着。</span><span class="english">The audience are absorbed in listening.</span></p>

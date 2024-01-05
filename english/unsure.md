@@ -1,5 +1,7 @@
 # unsure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsure.md)
+
 <p><span class="chinese">现在，他们也心神不定。</span><span class="english">Now they are unsure.</span></p>
 
 <p><span class="chinese">我还不能确定究竟什么是爱。</span><span class="english">I am still unsure of what love is.</span></p>

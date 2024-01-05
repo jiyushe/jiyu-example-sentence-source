@@ -1,5 +1,7 @@
 # 打架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajia.md)
+
 <p><span class="chinese">他经常打架</span><span class="english">He got into fights.</span></p>
 
 <p><span class="chinese">哦，那更像一场打架，你确实说过。</span><span class="english">More of a fight, and yes.</span></p>

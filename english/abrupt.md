@@ -1,5 +1,7 @@
 # abrupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abrupt.md)
+
 <p><span class="chinese">请原谅我这个唐突的问题。</span><span class="english">Excuse me for my abrupt question.</span></p>
 
 <p><span class="chinese">他的粗率无礼的举止触怒了她。</span><span class="english">She was offended by his abrupt manner.</span></p>

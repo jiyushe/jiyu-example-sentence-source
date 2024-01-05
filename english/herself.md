@@ -1,5 +1,7 @@
 # herself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herself.md)
+
 <p><span class="chinese">你自己一个人去泰安？</span><span class="english">Taian you go herself?</span></p>
 
 <p><span class="chinese">她把自己关在里面。</span><span class="english">She barred herself in.</span></p>

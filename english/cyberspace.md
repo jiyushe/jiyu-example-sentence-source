@@ -1,5 +1,7 @@
 # cyberspace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyberspace.md)
+
 <p><span class="chinese">赛柏空间不在你们的疆界之内。</span><span class="english">Cyberspace does not lie within your borders.</span></p>
 
 <p><span class="chinese">哈，中国人和印度人在网上互喷。</span><span class="english">Aaah, Indians and Chinese fighting in cyberspace.</span></p>

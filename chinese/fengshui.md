@@ -1,5 +1,7 @@
 # 风水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshui.md)
+
 <p><span class="chinese">你还懂风水啊？</span><span class="english">You understand geomancy?</span></p>
 
 <p><span class="chinese">用风水来增加你的活力。</span><span class="english">Boost your energy with feng shui.</span></p>

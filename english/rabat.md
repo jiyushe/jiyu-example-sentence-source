@@ -1,5 +1,7 @@
 # rabat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabat.md)
+
 <p><span class="chinese">我现在正在拉巴特市中心，许多示威者已经聚集在这里。</span><span class="english">I'm in the centre of Rabat where hundreds of protesters have gathered.</span></p>
 
 <p><span class="chinese">在别墅或宫殿，为“私人住宅的意大利”，是位于拉巴特镇。</span><span class="english">The villa or palazzo, Italian for "private residence", is located in the town of Rabat.</span></p>

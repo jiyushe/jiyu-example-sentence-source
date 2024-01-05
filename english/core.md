@@ -1,5 +1,7 @@
 # core 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/core.md)
+
 <p><span class="chinese">人性讲堂</span><span class="english">Inner Core</span></p>
 
 <p><span class="chinese">不过这个问题有一个核心么？</span><span class="english">But is there a core?</span></p>

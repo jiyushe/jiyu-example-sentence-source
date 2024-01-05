@@ -1,5 +1,7 @@
 # republish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/republish.md)
+
 <p><span class="chinese">用户可以编辑他们的项目并重新发布。</span><span class="english">Users can edit projects and republish them.</span></p>
 
 <p><span class="chinese">下面一行是文章版权事项</span><span class="english">You may republish this article with the following credit line</span></p>

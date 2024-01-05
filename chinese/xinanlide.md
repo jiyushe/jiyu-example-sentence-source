@@ -1,5 +1,7 @@
 # 心安理得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinanlide.md)
+
 <p><span class="chinese">不要将水或“圣泉”视为心安理得之物。</span><span class="english">Don't take water or “Elixir” for granted.</span></p>
 
 <p><span class="chinese">雅博达姆也表示，他当时买下这尊雕塑时也心安理得。</span><span class="english">Mr Aboutaam also says the statue was bought in good faith.</span></p>

@@ -1,5 +1,7 @@
 # gladiator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gladiator.md)
+
 <p><span class="chinese">这是真正的斗士的气魄。</span><span class="english">That is the true gladiator feeling.</span></p>
 
 <p><span class="chinese">鹅卵石皮革黑角斗士凉鞋。</span><span class="english">Pebbled leather gladiator sandals in black.</span></p>

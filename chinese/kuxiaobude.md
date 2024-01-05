@@ -1,5 +1,7 @@
 # 哭笑不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuxiaobude.md)
+
 <p><span class="chinese">让我那位朋友哭笑不得。</span><span class="english">Let my friend know.</span></p>
 
 <p><span class="chinese">让我哭笑不得。</span><span class="english">Let me dumbfounding.</span></p>

@@ -1,5 +1,7 @@
 # 虚脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xutuo.md)
+
 <p><span class="chinese">她虚脱的躺在这个房间的地板上。</span><span class="english">She is collapsed on the cell floor.</span></p>
 
 <p><span class="chinese">一整天工作下来，我都快虚脱了。</span><span class="english">I'm dog-tired after working for a whole day.</span></p>

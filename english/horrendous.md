@@ -1,5 +1,7 @@
 # horrendous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horrendous.md)
+
 <p><span class="chinese">这个赛季真够可怕的。</span><span class="english">"It has been a horrendous season, " said Dott.</span></p>
 
 <p><span class="chinese">他不明白自己怎么也居然成为了恐怖的第三十五号修正案的辩护士了。</span><span class="english">How, he wondered, had he become a champion of the horrendous 35th Amendment ?</span></p>

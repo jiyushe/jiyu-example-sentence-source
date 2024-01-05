@@ -1,5 +1,7 @@
 # 靠不住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaobuzhu.md)
+
 <p><span class="chinese">但这种说法是靠不住的。</span><span class="english">But it's unreliable.</span></p>
 
 <p><span class="chinese">他说谎，大吹牛皮，他靠不住。</span><span class="english">He lies, he bluffs, he's unreliable.</span></p>

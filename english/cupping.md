@@ -1,5 +1,7 @@
 # cupping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupping.md)
+
 <p><span class="chinese">拔火罐是怎么回事?</span><span class="english">What’s cupping?</span></p>
 
 <p><span class="chinese">我很想很想拔火罐。</span><span class="english">I am dying for a cupping treatment.</span></p>

@@ -1,5 +1,7 @@
 # conspicuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conspicuously.md)
+
 <p><span class="chinese">如果他还在生气，肯家会保持沉默。</span><span class="english">If he's still angry, he's conspicuously silent.</span></p>
 
 <p><span class="chinese">标有明显的逃生通道吗？</span><span class="english">B. 11.13 Are escape routes conspicuously marked?</span></p>

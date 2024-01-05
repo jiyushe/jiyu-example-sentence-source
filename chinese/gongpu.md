@@ -1,5 +1,7 @@
 # 公仆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongpu.md)
+
 <p><span class="chinese">各位人民公仆，早上好啊！</span><span class="english">Good morning, fellow public servants.</span></p>
 
 <p><span class="chinese">斯卡拉是一个能干的国民公仆。</span><span class="english">Scala was a meritorious public servant.</span></p>

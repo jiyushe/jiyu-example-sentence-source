@@ -1,5 +1,7 @@
 # defragment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defragment.md)
+
 <p><span class="chinese">如何对文件系统进行碎片整理？</span><span class="english">How can I defragment a file system?</span></p>
 
 <p><span class="chinese">如何监测碎片整理操作</span><span class="english">How to monitor the defragment operation</span></p>

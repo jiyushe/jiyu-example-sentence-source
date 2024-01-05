@@ -1,5 +1,7 @@
 # ochratoxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ochratoxin.md)
+
 <p><span class="chinese">防止咖啡中的赭曲霉毒素A污染</span><span class="english">Prevention of Ochratoxin A contamination in coffee</span></p>
 
 <p><span class="chinese">谷类作物和谷类作物产品中赭曲霉素A的测定。</span><span class="english">Determination of ochratoxin A in cereals and cereal products.</span></p>

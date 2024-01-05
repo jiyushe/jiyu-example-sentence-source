@@ -1,5 +1,7 @@
 # scaler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scaler.md)
+
 <p><span class="chinese">使用的连接耦合不适合。</span><span class="english">Use a coupling compatible with this scaler.</span></p>
 
 <p><span class="chinese">其他染色的部分硬的，要用刮除器把他刮掉。</span><span class="english">The other stain is hard. It has to be scraped away with a scaler.</span></p>

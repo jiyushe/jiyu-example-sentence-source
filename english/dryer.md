@@ -1,5 +1,7 @@
 # dryer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dryer.md)
+
 <p><span class="chinese">拔下干衣机的插头。</span><span class="english">Unplug your dryer.</span></p>
 
 <p><span class="chinese">清理掉干衣机的棉絮。</span><span class="english">Clean out dryer lint.</span></p>

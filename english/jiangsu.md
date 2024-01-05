@@ -1,5 +1,7 @@
 # jiangsu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiangsu.md)
+
 <p><span class="chinese">你是江苏那里人?。</span><span class="english">Where the person you are in Jiangsu?</span></p>
 
 <p><span class="chinese">那么江苏市哪个男科比较好？</span><span class="english">So jiangsu city which male is better?</span></p>

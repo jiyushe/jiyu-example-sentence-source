@@ -1,5 +1,7 @@
 # 西乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyue_1.md)
+
 <p><span class="chinese">安全的天然替代万络和西乐葆。</span><span class="english">Safe natural alternative to Vioxx "and" Celebrex.</span></p>
 
 <p><span class="chinese">最短点是在摩洛哥的蓬塔-西乐斯和西班牙的蓬塔-奥利沃洛斯之间。</span><span class="english">Shortest point is between Punta Oliveros in Spain and Punta Cires in Morocco.</span></p>

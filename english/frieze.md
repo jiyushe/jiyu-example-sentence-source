@@ -1,5 +1,7 @@
 # frieze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frieze.md)
+
 <p><span class="chinese">弗雷兹博览会的创始人之一兼主任阿曼达？</span><span class="english">Amanda Sharp, co-founder and director of Frieze thinks not.</span></p>
 
 <p><span class="chinese">最有趣的装饰是发现雕刻的柱子和一个石头牌楼。</span><span class="english">The most interesting ornamentation is found on a frieze and an arch-stone.</span></p>

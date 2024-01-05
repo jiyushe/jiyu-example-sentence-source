@@ -1,5 +1,7 @@
 # diplomatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diplomatically.md)
+
 <p><span class="chinese">对这种人必须有外交手腕但又寸步不让。</span><span class="english">They had to be dealt with diplomatically but firmly.</span></p>
 
 <p><span class="chinese">好好利用告别的面谈，婉转的解释你的立场。</span><span class="english">Take advantage of exit interviews, and diplomatically explain your stance.</span></p>

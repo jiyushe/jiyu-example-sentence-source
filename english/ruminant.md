@@ -1,5 +1,7 @@
 # ruminant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruminant.md)
+
 <p><span class="chinese">全被那些反刍的害人虫给毁了。</span><span class="english">That was denuded by these ruminant pests.</span></p>
 
 <p><span class="chinese">用作食物的反刍动物的胃的内层。</span><span class="english">Lining of the stomach of a ruminant used as food.</span></p>

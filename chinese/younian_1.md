@@ -1,5 +1,7 @@
 # 有年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/younian_1.md)
+
 <p><span class="chinese">贺卡已行之有年。</span><span class="english">"The" card for years.</span></p>
 
 <p><span class="chinese">请问一卡通有年费吗?。</span><span class="english">Is there an annual fee?</span></p>

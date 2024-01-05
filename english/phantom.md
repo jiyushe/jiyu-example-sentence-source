@@ -1,5 +1,7 @@
 # phantom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phantom.md)
+
 <p><span class="chinese">会发生幻像读。</span><span class="english">A phantom read can occur.</span></p>
 
 <p><span class="chinese">幽灵似的骑马人在夜间催马而过。</span><span class="english">Phantom horsemen rode by in the night.</span></p>

@@ -1,5 +1,7 @@
 # torino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torino.md)
+
 <p><span class="chinese">我是都灵来的，你知道都灵吗？</span><span class="english">I myself am from Torino. You know Torino?</span></p>
 
 <p><span class="chinese">弗罗西诺内和都灵也联系过我。</span><span class="english">Also Frosinone and Torino have contacted me.</span></p>

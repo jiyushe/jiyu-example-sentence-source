@@ -1,5 +1,7 @@
 # 限量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianliang_1.md)
+
 <p><span class="chinese">这是一把限量款的吉他喔！</span><span class="english">It's a guitar-limited edition!</span></p>
 
 <p><span class="chinese">不饮酒或限量飮酒。</span><span class="english">No drinking or drinking properly.</span></p>

@@ -1,5 +1,7 @@
 # lightless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightless.md)
+
 <p><span class="chinese">她在黑暗的房间中走来走去。</span><span class="english">She walked around in the lightless room.</span></p>
 
 <p><span class="chinese">满天都是小星星？是暗无天日的蝙蝠洞！</span><span class="english">A starlit sky? No, it's a lightless bat cave!</span></p>

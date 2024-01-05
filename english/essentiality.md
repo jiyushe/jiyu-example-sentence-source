@@ -1,5 +1,7 @@
 # essentiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essentiality.md)
+
 <p><span class="chinese">绘制曲线的重要性是众所周知的。</span><span class="english">The essentiality of protracting curve was known.</span></p>
 
 <p><span class="chinese">让我强调一下我们做的这笔订单的重要性。</span><span class="english">Let me emphasize the essentiality of this order we made.</span></p>

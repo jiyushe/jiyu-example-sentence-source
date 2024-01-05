@@ -1,5 +1,7 @@
 # 交心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxin.md)
+
 <p><span class="chinese">被出卖的，永远是交心的那个。</span><span class="english">Betrayed, is always the best.</span></p>
 
 <p><span class="chinese">而事实上，从没一个上司会对你真的交心。</span><span class="english">In fact, a boss will never talk to you.</span></p>

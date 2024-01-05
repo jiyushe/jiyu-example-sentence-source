@@ -1,5 +1,7 @@
 # immoderate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immoderate.md)
+
 <p><span class="chinese">他们的要求可能是不合理。</span><span class="english">Their demands might be immoderate.</span></p>
 
 <p><span class="chinese">狂欢一段不加限制的。</span><span class="english">A period of unrestrained, immoderate self-indulgence.</span></p>

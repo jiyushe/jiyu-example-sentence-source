@@ -1,5 +1,7 @@
 # 整饬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengchi_1.md)
+
 <p><span class="chinese">四百余条街整饬。</span><span class="english">There are over four hundred orderly streets.</span></p>
 
 <p><span class="chinese">被迻译的外国诗歌，都具有整饬的形式和良好的音乐性。</span><span class="english">The poems selected for translation bear trim form and musical quality.</span></p>

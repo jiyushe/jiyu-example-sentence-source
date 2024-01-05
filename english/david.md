@@ -1,5 +1,7 @@
 # david
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/david.md)
+
 <p><span class="chinese">安静点，大卫。</span><span class="english">Be quiet, David.</span></p>
 
 <p><span class="chinese">我是王大卫。</span><span class="english">This is David Wang.</span></p>

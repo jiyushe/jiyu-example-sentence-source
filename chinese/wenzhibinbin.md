@@ -1,5 +1,7 @@
 # 文质彬彬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhibinbin.md)
+
 <p><span class="chinese">文质彬彬的你出现在我的眼前！</span><span class="english">Elegant you appear in front of my eyes!</span></p>
 
 <p><span class="chinese">和以前谁人我们所认识的文质彬彬的女孩相比，她已是判若两人。</span><span class="english">She was a far cry from the elegant girl we used to know.</span></p>

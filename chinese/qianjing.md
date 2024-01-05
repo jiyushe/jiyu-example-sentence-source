@@ -1,5 +1,7 @@
 # 虔敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjing.md)
+
 <p><span class="chinese">敬畏上主是知识的虔敬。</span><span class="english">The fear of the Lord is the religiousness of knowledge.</span></p>
 
 <p><span class="chinese">同样一种苦痛、虔敬、辛酸的情感充满了他的心。</span><span class="english">The same sad, piercing, religious sentiment filled his heart.</span></p>

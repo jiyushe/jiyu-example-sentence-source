@@ -1,5 +1,7 @@
 # hawkish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawkish.md)
+
 <p><span class="chinese">强硬的乔相信格利德站遭到了分裂分子的进攻。</span><span class="english">The hawkish Cho believed the Separatists had attacked Glid Station.</span></p>
 
 <p><span class="chinese">同属鹰派的副总统迪克·切尼，也看到了他影响力的日薄西山。</span><span class="english">Dick Cheney, the hawkish vice-president, has seen his influence wane.</span></p>

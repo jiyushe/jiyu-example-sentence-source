@@ -1,5 +1,7 @@
 # lees
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lees.md)
+
 <p><span class="chinese">你看的那本杂志我不喜欢。</span><span class="english">Esa revista que lees no me gusta.</span></p>
 
 <p><span class="chinese">酒渣慢慢地沉淀下来。</span><span class="english">The lees of wine gradually subside.</span></p>

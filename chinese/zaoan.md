@@ -1,5 +1,7 @@
 # 早安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoan.md)
+
 <p><span class="chinese">早安，杰米。</span><span class="english">Good morning, Jamie.</span></p>
 
 <p><span class="chinese">早安，我是彩虹色的花。</span><span class="english">Morning, I'm a colorful flower.</span></p>

@@ -1,5 +1,7 @@
 # 真实性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshixing.md)
+
 <p><span class="chinese">永恒真理诸法是真实性。</span><span class="english">The reality of all dharma.</span></p>
 
 <p><span class="chinese">那是一种缺乏鉴赏力和真实性的胡诌。</span><span class="english">It was a jumble without taste or truth.</span></p>

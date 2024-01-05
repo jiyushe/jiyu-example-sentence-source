@@ -1,5 +1,7 @@
 # 特立独行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teliduxing.md)
+
 <p><span class="chinese">她独树一帜，特立独行。</span><span class="english">She's totally unique and cool.</span></p>
 
 <p><span class="chinese">但是亚巴顿总是特立独行。</span><span class="english">But Abaddon was always one apart.</span></p>

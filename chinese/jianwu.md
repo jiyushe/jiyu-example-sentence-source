@@ -1,5 +1,7 @@
 # 奸污
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianwu.md)
+
 <p><span class="chinese">三个月后，亚雷奸污了她。</span><span class="english">Three months later, Ya-lei raped her.</span></p>
 
 <p><span class="chinese">大卫的一个儿子奸污了他同父异母的妹妹。</span><span class="english">One of David's sons raped his step-sister.</span></p>

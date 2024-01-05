@@ -1,5 +1,7 @@
 # absorbability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbability.md)
+
 <p><span class="chinese">吸液性能是吸液原纸的一项主要性能指标。</span><span class="english">Absorbability is an important property of waterleaf base paper.</span></p>
 
 <p><span class="chinese">结论PVC输液袋对依诺沙星的吸附作用不明显。</span><span class="english">Conclusion PVC infusion sets have no absorbability on enoxacin.</span></p>

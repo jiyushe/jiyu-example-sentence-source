@@ -1,5 +1,7 @@
 # glamor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glamor.md)
+
 <p><span class="chinese">这就是辩论的力量和魅力！</span><span class="english">This is the power of glamor of debate!</span></p>
 
 <p><span class="chinese">然而好莱坞并没有完全丧失它的魅力。</span><span class="english">Yet Hollywood has not lost all its glamor.</span></p>

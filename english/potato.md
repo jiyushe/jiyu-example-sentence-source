@@ -1,5 +1,7 @@
 # potato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potato.md)
+
 <p><span class="chinese">真是一个烫手山芋。</span><span class="english">Hot potato.</span></p>
 
 <p><span class="chinese">不，我要烤土豆。</span><span class="english">No, a baked potato.</span></p>

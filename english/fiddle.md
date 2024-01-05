@@ -1,5 +1,7 @@
 # fiddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiddle.md)
+
 <p><span class="chinese">今天有没有马头琴独奏？</span><span class="english">Is there a solo of that fiddle?</span></p>
 
 <p><span class="chinese">别搬弄枪栓。</span><span class="english">Don't fiddle with the rifle bolt.</span></p>

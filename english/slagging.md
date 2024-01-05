@@ -1,5 +1,7 @@
 # slagging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slagging.md)
+
 <p><span class="chinese">为什么每个人都结渣小康中国？</span><span class="english">Why is everyone slagging off China?</span></p>
 
 <p><span class="chinese">控制锅炉负荷，尽可能避免锅炉结焦。</span><span class="english">Two, boiler load control, as far as possible to avoid slagging.</span></p>

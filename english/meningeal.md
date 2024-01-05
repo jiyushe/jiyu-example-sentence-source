@@ -1,5 +1,7 @@
 # meningeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meningeal.md)
+
 <p><span class="chinese">脑膜瘤和胶质瘤是一样的吗？</span><span class="english">Are meningeal tumour and colloid tumour same?</span></p>
 
 <p><span class="chinese">并能改善血瘀动物的脑膜微循环障碍。</span><span class="english">TFK could improve blood viscosity and the meningeal microcirculation.</span></p>

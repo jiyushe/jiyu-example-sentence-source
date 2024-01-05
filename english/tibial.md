@@ -1,5 +1,7 @@
 # tibial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tibial.md)
+
 <p><span class="chinese">股骨头下方胫骨骨折的恢复？</span><span class="english">Is femur head lower part tibial of fracture restore?</span></p>
 
 <p><span class="chinese">胫骨的假体周围骨折不常见。</span><span class="english">Tibial periprosthetic fractures are far less common.</span></p>

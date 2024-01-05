@@ -1,5 +1,7 @@
 # orb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orb.md)
+
 <p><span class="chinese">一个浮动的球状物在Mt。</span><span class="english">A floating orb in Mt.</span></p>
 
 <p><span class="chinese">使用一个大铁球作武器。</span><span class="english">Attacks with a large steel orb.</span></p>

@@ -1,5 +1,7 @@
 # vhf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vhf.md)
+
 <p><span class="chinese">自动调节甚高频接收器现在普遍应用于汽车。</span><span class="english">Auto-tuning VHF receivers are now common in cars.</span></p>
 
 <p><span class="chinese">通讯联系用无线电甚高频16频道。</span><span class="english">Communication links with the radio on VHF channel 16.</span></p>

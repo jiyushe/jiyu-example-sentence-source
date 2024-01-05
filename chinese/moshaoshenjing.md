@@ -1,5 +1,7 @@
 # 末梢神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moshaoshenjing.md)
+
 <p><span class="chinese">在人体内的长期存在的乙烷导致的结果是大范围的末梢神经系统衰竭。</span><span class="english">lts of hexane in humans is extensive peripheral nervous system failure.</span></p>
 
 <p><span class="chinese">下嘴唇末梢神经坏死…应该算是小残疾吧…</span><span class="english">Milo 's mouth is crooked because he was born with dead nerve endings in his lower lip.</span></p>

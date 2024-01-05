@@ -1,5 +1,7 @@
 # heaviness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heaviness.md)
+
 <p><span class="chinese">我心中的沉重感消失了。</span><span class="english">The heaviness in my heart vanished.</span></p>
 
 <p><span class="chinese">我突然感到有种巨大的沉重感压迫着我。</span><span class="english">An enormous heaviness was coming over me.</span></p>

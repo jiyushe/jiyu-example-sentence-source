@@ -1,5 +1,7 @@
 # cannot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannot.md)
+
 <p><span class="chinese">我们不能。</span><span class="english">We cannot.</span></p>
 
 <p><span class="chinese">没有，我不能出远门。</span><span class="english">No, I cannot.</span></p>

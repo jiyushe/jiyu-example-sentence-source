@@ -1,5 +1,7 @@
 # comparability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparability.md)
+
 <p><span class="chinese">珍珠与贝壳珍珠层具有较多的相似性，但也存在很多不同。</span><span class="english">There is much comparability between pearl and nacre in shells.</span></p>
 
 <p><span class="chinese">岩石在各个应力水平下的蠕变曲线具有几何相似性。</span><span class="english">Under different stress states, rock creep curves show the behavior of geometry- comparability.</span></p>

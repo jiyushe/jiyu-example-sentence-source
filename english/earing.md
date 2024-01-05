@@ -1,5 +1,7 @@
 # earing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earing.md)
+
 <p><span class="chinese">玉米该抽穗了。</span><span class="english">The corn should be earing up.</span></p>
 
 <p><span class="chinese">他全身上下都穿着黑衣服。</span><span class="english">He was in black from crew to earing.</span></p>

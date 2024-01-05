@@ -1,5 +1,7 @@
 # podiatrist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/podiatrist.md)
+
 <p><span class="chinese">不用说，如果你的足部持续疼痛，那么你必须看足科医生了。</span><span class="english">Needless to say, you have to see a podiatrist if you experience consistent pain in your feet.</span></p>
 
 <p><span class="chinese">避免脚部受伤害，有鸡眼，胼胝或者向内生长的脚趾甲及时请足病医生治疗。</span><span class="english">Avoid injury to your feet. Have corns , calluses, or ingrown toenails treated by a podiatrist.</span></p>

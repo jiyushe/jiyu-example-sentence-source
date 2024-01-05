@@ -1,5 +1,7 @@
 # 梦想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengxiang_1.md)
+
 <p><span class="chinese">要有一个梦想。</span><span class="english">Have a dream.</span></p>
 
 <p><span class="chinese">那是我的梦想。</span><span class="english">It was my dream.</span></p>

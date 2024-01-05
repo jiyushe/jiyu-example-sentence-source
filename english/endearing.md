@@ -1,5 +1,7 @@
 # endearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endearing.md)
+
 <p><span class="chinese">她的角色都不太讨人喜欢。</span><span class="english">Her characters are not very endearing.</span></p>
 
 <p><span class="chinese">这些就是业米希人，一个屹立不动令人喜爱的民族。</span><span class="english">These are the Amish, an enduring and endearing people.</span></p>

@@ -1,5 +1,7 @@
 # crew 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crew.md)
+
 <p><span class="chinese">我想剪个小平头。</span><span class="english">I want a crew cut.</span></p>
 
 <p><span class="chinese">全体船员弃船逃生。</span><span class="english">The whole crew deserted.</span></p>

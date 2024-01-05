@@ -1,5 +1,7 @@
 # demean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demean.md)
+
 <p><span class="chinese">他不愿降低身份当个懒工人。</span><span class="english">He would not demean himself to a lazy worker.</span></p>
 
 <p><span class="chinese">我们没有去那里，使他们能够贬低我们。</span><span class="english">We did not go there so that they can demean us.</span></p>

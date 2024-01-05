@@ -1,5 +1,7 @@
 # orbiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orbiter.md)
+
 <p><span class="chinese">百年灵轨道器3的一面。</span><span class="english">A side view of the Breitling Orbiter 3.</span></p>
 
 <p><span class="chinese">我国近日将择机发射第五颗北斗导航卫星。</span><span class="english">China to launch fifth orbiter for its own 'GPS'.</span></p>

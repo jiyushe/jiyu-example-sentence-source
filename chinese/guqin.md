@@ -1,5 +1,7 @@
 # 古琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guqin.md)
+
 <p><span class="chinese">我们的古琴一直放置在客厅。</span><span class="english">Our clavichord is kept in the living-room.</span></p>
 
 <p><span class="chinese">中国古琴文化传统浓厚，源流悠长。</span><span class="english">Chinese guqin culture has a long tradition and standing.</span></p>

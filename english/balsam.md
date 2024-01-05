@@ -1,5 +1,7 @@
 # balsam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balsam.md)
+
 <p><span class="chinese">为什么说凤仙花“急不可待”？</span><span class="english">Why might balsam be described as impatient?</span></p>
 
 <p><span class="chinese">冷杉分泌出一种质地优良的松树胶。</span><span class="english">The firs perspire a fine balsam of turpentine.</span></p>

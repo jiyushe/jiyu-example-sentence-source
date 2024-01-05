@@ -1,5 +1,7 @@
 # 双子座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangzizuo.md)
+
 <p><span class="chinese">双子座，是你的生辰。</span><span class="english">Go Gemini its your birthday.</span></p>
 
 <p><span class="chinese">双子座的人很友善。</span><span class="english">Geminis are really friendly people.</span></p>

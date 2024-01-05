@@ -1,5 +1,7 @@
 # swash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swash.md)
+
 <p><span class="chinese">而花式大写就不一样。</span><span class="english">Swash capitals however do.</span></p>
 
 <p><span class="chinese">慢一点，别把汤溅出来。</span><span class="english">Slowly, slowly. Don't swash the soup.</span></p>

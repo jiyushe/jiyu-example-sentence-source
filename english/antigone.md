@@ -1,5 +1,7 @@
 # antigone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antigone.md)
+
 <p><span class="chinese">迷茫，安提戈涅的行动去她的房间。</span><span class="english">Dazed, Antigone moves to go her room.</span></p>
 
 <p><span class="chinese">安提戈涅坚持认为，他不能救她。</span><span class="english">Antigone insists that he cannot save her.</span></p>

@@ -1,5 +1,7 @@
 # why
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/why.md)
+
 <p><span class="chinese">问为什么。</span><span class="english">Ask why.</span></p>
 
 <p><span class="chinese">为什么是2031年啊？</span><span class="english">Why 2031?</span></p>

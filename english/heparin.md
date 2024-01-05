@@ -1,5 +1,7 @@
 # heparin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heparin.md)
+
 <p><span class="chinese">肝素为首选的治疗剂。</span><span class="english">Heparin is the treatment of choice.</span></p>
 
 <p><span class="chinese">肝素可以从猪肠中提取而来。</span><span class="english">Heparin is derived from pig intestines.</span></p>

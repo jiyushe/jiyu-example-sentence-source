@@ -1,5 +1,7 @@
 # 写照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezhao.md)
+
 <p><span class="chinese">则是君子兰一个“君子”的写照。</span><span class="english">" Clivia is a "gentleman" itself.</span></p>
 
 <p><span class="chinese">这差不多就是萨姆的真实写照了。</span><span class="english">Which is more or less what Sam was.</span></p>

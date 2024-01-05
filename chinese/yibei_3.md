@@ -1,5 +1,7 @@
 # 贻贝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibei_3.md)
+
 <p><span class="chinese">牡蛎和贻贝筏式养殖和碎壳床养殖</span><span class="english">raft and cultch culture of oysters and mussels.</span></p>
 
 <p><span class="chinese">淡菜，即贻贝肉，水产品。</span><span class="english">Mussel is mussel meat, which is aquatic products.</span></p>

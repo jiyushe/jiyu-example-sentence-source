@@ -1,5 +1,7 @@
 # adduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adduct.md)
+
 <p><span class="chinese">在这一步，将步骤1的加合产物进行氟化。</span><span class="english">In this step, the adduct from step 1 is fluorinated.</span></p>
 
 <p><span class="chinese">一种双组份胺加成固化的环氧涂料。</span><span class="english">It's a two-component amine adduct cured epoxy paint.</span></p>

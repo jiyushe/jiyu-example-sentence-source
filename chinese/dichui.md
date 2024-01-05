@@ -1,5 +1,7 @@
 # 低垂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dichui.md)
+
 <p><span class="chinese">在风暴中松树低垂。</span><span class="english">The pines bowed low in the storm.</span></p>
 
 <p><span class="chinese">他因疲倦而低垂着双肩。</span><span class="english">His shoulders drooped with tiredness.</span></p>

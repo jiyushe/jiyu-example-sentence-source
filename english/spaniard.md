@@ -1,5 +1,7 @@
 # Spaniard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaniard.md)
+
 <p><span class="chinese">她嫁给一个西班牙人，最后住在巴赛隆纳。</span><span class="english">She married a Spaniard and finished up in Barcelona.</span></p>
 
 <p><span class="chinese">“他是一个伟大的球员，”科曼说。</span><span class="english">"He is a great footballer, " Koeman said of the Spaniard.</span></p>

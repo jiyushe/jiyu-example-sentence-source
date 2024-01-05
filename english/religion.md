@@ -1,5 +1,7 @@
 # religion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/religion.md)
+
 <p><span class="chinese">但是宗教不然。</span><span class="english">Religion is not.</span></p>
 
 <p><span class="chinese">它可是一门宗教？</span><span class="english">Is it a religion?</span></p>

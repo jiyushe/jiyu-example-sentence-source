@@ -1,5 +1,7 @@
 # strategy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategy.md)
+
 <p><span class="chinese">这个策略是好的。</span><span class="english">The strategy is good.</span></p>
 
 <p><span class="chinese">你的战略是什么？</span><span class="english">What was your strategy?</span></p>

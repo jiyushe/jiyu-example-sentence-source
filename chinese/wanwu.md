@@ -1,5 +1,7 @@
 # 万物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanwu.md)
+
 <p><span class="chinese">人是万物之灵。</span><span class="english">No man is content.</span></p>
 
 <p><span class="chinese">人是万物之灵。</span><span class="english">The style is the man.</span></p>

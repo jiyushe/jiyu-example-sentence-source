@@ -1,5 +1,7 @@
 # purgatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purgatory.md)
+
 <p><span class="chinese">祷告词是为炼狱中的灵魂念的。</span><span class="english">Prayers were said for souls in Purgatory.</span></p>
 
 <p><span class="chinese">丈夫冯矬子从那苦熬的炼狱中获释了。</span><span class="english">Husband von from from that for purgatory released.</span></p>

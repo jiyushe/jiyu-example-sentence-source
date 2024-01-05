@@ -1,5 +1,7 @@
 # 模本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moben_1.md)
+
 <p><span class="chinese">当然,它也是我们谈论最好的模本</span><span class="english">Certainly, it's a perfect model for what we're talking about.</span></p>
 
 <p><span class="chinese">中国传统艺术中的“图式”，指的是现成的造型模本。</span><span class="english">"Schema" that in Chinese traditional art, what to point is a ready-made shape mold originally.</span></p>

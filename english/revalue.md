@@ -1,5 +1,7 @@
 # revalue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revalue.md)
+
 <p><span class="chinese">更加频繁地对不动产进行重新估价如今已很平常。</span><span class="english">It is now usual to revalue property assets on a more regular basis.</span></p>
 
 <p><span class="chinese">它给予我一个机会来再评价或者改变我的看法而尊重它。</span><span class="english">It gives me a CHOICE to revalue or change my opinion and respect it.</span></p>

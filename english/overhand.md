@@ -1,5 +1,7 @@
 # overhand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overhand.md)
+
 <p><span class="chinese">在缝合处再缝一次。</span><span class="english">An overhand stitch or seam.</span></p>
 
 <p><span class="chinese">有助于缝纫工的缝制。</span><span class="english">An overhand stitch or seam.</span></p>

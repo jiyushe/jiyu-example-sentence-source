@@ -1,5 +1,7 @@
 # attend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attend.md)
+
 <p><span class="chinese">注意听我的话。</span><span class="english">Attend to my word.</span></p>
 
 <p><span class="chinese">参加会议。</span><span class="english">Attend conferences.</span></p>

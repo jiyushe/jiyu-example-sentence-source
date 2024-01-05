@@ -1,5 +1,7 @@
 # disambiguate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disambiguate.md)
+
 <p><span class="chinese">你能给这句话消除歧义吗。</span><span class="english">Can you disambiguate this statement?</span></p>
 
 <p><span class="chinese">主要的搜索引擎要求您消除您的请求的歧义了吗？</span><span class="english">Do the major search engines ask you to disambiguate your request?</span></p>

@@ -1,5 +1,7 @@
 # lanthanide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanthanide.md)
+
 <p><span class="chinese">我国稀土元素储量十分丰富，在已探明的稀土储量中，我国仍居第一位。</span><span class="english">China is rich in lanthanide reserves and still leads the first in the world.</span></p>
 
 <p><span class="chinese">这作用与镧系离子间呈现双峰变化关系。</span><span class="english">The magnitude of energy transfer presents the double peak effect to lanthanide.</span></p>

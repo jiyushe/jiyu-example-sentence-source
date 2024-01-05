@@ -1,5 +1,7 @@
 # 矫正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozheng.md)
+
 <p><span class="chinese">矫正驼背。</span><span class="english">Correction of kyphosis.</span></p>
 
 <p><span class="chinese">我需要作矫正术吗？</span><span class="english">Do I need to wear orthotics?</span></p>

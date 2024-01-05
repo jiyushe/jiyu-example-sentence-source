@@ -1,5 +1,7 @@
 # insula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insula.md)
+
 <p><span class="chinese">其中一个区域是脑岛。</span><span class="english">One such region is the insula.</span></p>
 
 <p><span class="chinese">岛叶皮层亦称为脑岛，它位于大脑内部深处。</span><span class="english">The insular cortex also known as the insula lies deep inside the brain.</span></p>

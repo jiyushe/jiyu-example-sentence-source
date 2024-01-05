@@ -1,5 +1,7 @@
 # mycobacterium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycobacterium.md)
+
 <p><span class="chinese">在临床医学中的图像。</span><span class="english">Images in clinical medicine. Mycobacterium marinum.</span></p>
 
 <p><span class="chinese">海洋性结核菌是少见的手部感染之原因。</span><span class="english">Mycobacterium marinum is an uncommon cause of hand infections.</span></p>

@@ -1,5 +1,7 @@
 # tubule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubule.md)
+
 <p><span class="chinese">肾近曲小管细胞的胞质内有大量溶酶体。</span><span class="english">A lot of lysosomes were seen in the cytoplasm of the renal proximal convoluted tubule cells.</span></p>
 
 <p><span class="chinese">集合管、近端、远端小管均可见明、暗两种类型上皮细胞。</span><span class="english">The light cells and dark cells can be observed in the collecting, proximal and distal tubule.</span></p>

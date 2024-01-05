@@ -1,5 +1,7 @@
 # license
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/license.md)
+
 <p><span class="chinese">我看看你的驾驶执照好吗？</span><span class="english">May I see your license?</span></p>
 
 <p><span class="chinese">我把驾照落在家里了。</span><span class="english">I left my license at home.</span></p>

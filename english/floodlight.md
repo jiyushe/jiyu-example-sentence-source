@@ -1,5 +1,7 @@
 # floodlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floodlight.md)
+
 <p><span class="chinese">目前大多采用大功率泛光灯作补偿光源。</span><span class="english">By now, the high-power floodlight has been adopted.</span></p>
 
 <p><span class="chinese">对泛光灯而言。投射在光束之外的散射光。</span><span class="english">Of a floodlight. The scattered light falling outside the beam.</span></p>

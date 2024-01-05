@@ -1,5 +1,7 @@
 # claret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claret.md)
+
 <p><span class="chinese">他一口喝干了一杯红葡萄酒。</span><span class="english">He drained a glass of claret.</span></p>
 
 <p><span class="chinese">去年我们贮存了很多红葡萄酒。</span><span class="english">We laid down a lot of claret last year.</span></p>

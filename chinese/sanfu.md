@@ -1,5 +1,7 @@
 # 三副
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanfu.md)
+
 <p><span class="chinese">他有三副圆规。</span><span class="english">He has two pairs of compasses.</span></p>
 
 <p><span class="chinese">三副，我们准备当地时间1300时开航。</span><span class="english">Third Officer, we are about to sail at 1300 LT.</span></p>

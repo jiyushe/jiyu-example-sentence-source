@@ -1,5 +1,7 @@
 # roulette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roulette.md)
+
 <p><span class="chinese">譬如，玩轮盘赌。</span><span class="english">For example, I am playing roulette.</span></p>
 
 <p><span class="chinese">投资者感觉他们是在玩俄罗斯轮盘赌。</span><span class="english">Investors felt they were playing Russian roulette.</span></p>

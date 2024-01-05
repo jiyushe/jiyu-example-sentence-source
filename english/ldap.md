@@ -1,5 +1,7 @@
 # ldap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ldap.md)
+
 <p><span class="chinese">最初，LDAP客户端通过网关访问目录服务。</span><span class="english">Initially, LDAP clients accessed gateways to the X. 500 directory service.</span></p>
 
 <p><span class="chinese">模式树是对像XML和LDAP等树形结构数据进行查询的基础。</span><span class="english">Pattern trees form a natural basis to query tree-structured data such as XML and LDAP.</span></p>

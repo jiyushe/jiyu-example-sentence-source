@@ -1,5 +1,7 @@
 # interior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interior.md)
+
 <p><span class="chinese">烤肉店内景。</span><span class="english">BBQ shop interior.</span></p>
 
 <p><span class="chinese">内政部贴边口袋。</span><span class="english">Interior welt pockets.</span></p>

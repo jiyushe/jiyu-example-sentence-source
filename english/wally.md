@@ -1,5 +1,7 @@
 # wally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wally.md)
+
 <p><span class="chinese">为什么？霍里叔叔。</span><span class="english">Why? Uncle Wally.</span></p>
 
 <p><span class="chinese">Wally为了吃到胡萝卜，只好回到笼子里。</span><span class="english">Wally wants to eat the carrot, so he goes back to his cage.</span></p>

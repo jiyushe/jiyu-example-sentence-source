@@ -1,5 +1,7 @@
 # 强逼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbi_1.md)
+
 <p><span class="chinese">我可以强逼自己喝下。</span><span class="english">I can force myself.</span></p>
 
 <p><span class="chinese">我不要再忍耐和强逼自己忘记从前。</span><span class="english">Do not let me alone, plz.</span></p>

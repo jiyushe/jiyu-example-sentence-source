@@ -1,5 +1,7 @@
 # inconceivably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconceivably.md)
+
 <p><span class="chinese">或，不可思议地除掉他。</span><span class="english">Or, not inconceivably getting rid of him.</span></p>
 
 <p><span class="chinese">岂有此理，他竟干出了如此蠢事！</span><span class="english">It was an inconceivably stupid thing to have done.</span></p>

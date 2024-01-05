@@ -1,5 +1,7 @@
 # 格格不入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gegeburu.md)
+
 <p><span class="chinese">这几乎和上流社会的生活格格不入，她说。</span><span class="english">This is hardly the high life, she says.</span></p>
 
 <p><span class="chinese">起初，那个新来的学生觉得格格不入。</span><span class="english">At first, the new student felt out of place.</span></p>

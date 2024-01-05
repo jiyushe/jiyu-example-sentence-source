@@ -1,5 +1,7 @@
 # clitoris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clitoris.md)
+
 <p><span class="chinese">然后，血液又经由血管从阴蒂输送出来。</span><span class="english">Veins then carry blood out of the clitoris.</span></p>
 
 <p><span class="chinese">雌性鲸鱼的阴蒂大约8厘米长。</span><span class="english">The clitoris of the female whale is about 8 cm. long.</span></p>

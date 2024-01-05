@@ -1,5 +1,7 @@
 # 字汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zihui.md)
+
 <p><span class="chinese">他的字汇量一定很多。</span><span class="english">His vocabulary must be huge.</span></p>
 
 <p><span class="chinese">你的字汇程度就到只到此吗？</span><span class="english">Is this the extent of your vocabularies?</span></p>

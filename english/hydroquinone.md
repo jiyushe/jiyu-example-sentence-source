@@ -1,5 +1,7 @@
 # hydroquinone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroquinone.md)
+
 <p><span class="chinese">其中最危险的一种成分是对苯二酚。</span><span class="english">One of the most dangerous is hydroquinone.</span></p>
 
 <p><span class="chinese">其中一个最危险的是对苯二酚。</span><span class="english">One of the most dangerous is hydroquinone.</span></p>

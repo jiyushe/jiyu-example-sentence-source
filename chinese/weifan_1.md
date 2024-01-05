@@ -1,5 +1,7 @@
 # 违犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifan_1.md)
+
 <p><span class="chinese">wwe又一次违犯了诺言。</span><span class="english">He skint his words once over again.</span></p>
 
 <p><span class="chinese">这种违犯规则者会受到惩罚吗？</span><span class="english">Would such rule-breakers be punished?</span></p>

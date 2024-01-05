@@ -1,5 +1,7 @@
 # malta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malta.md)
+
 <p><span class="chinese">那顿饭是在切斯特吃的还是在马耳他吃的？</span><span class="english">Was that meal in Chester or Malta?</span></p>
 
 <p><span class="chinese">有一天，我正前往马耳他一间具规模的宾馆。</span><span class="english">One a day ima gonna Malta to bigga ho.</span></p>

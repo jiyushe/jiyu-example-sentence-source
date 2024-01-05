@@ -1,5 +1,7 @@
 # 老气横秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoqihengqiu.md)
+
 <p><span class="chinese">请叫我彼得吧，“戴维斯先生”听起来老气横秋的。</span><span class="english">Peter, please. " Mr. Davis" makes me sound ancient.</span></p>
 
 <p><span class="chinese">工作上的种种压力使得约翰于中年时就已老气横秋。</span><span class="english">The stresses of business had beaten John to his knees in middle age.</span></p>

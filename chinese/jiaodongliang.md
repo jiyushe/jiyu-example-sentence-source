@@ -1,5 +1,7 @@
 # 角动量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodongliang.md)
+
 <p><span class="chinese">有了旋转的角动量。</span><span class="english">It has spin angular momentum.</span></p>
 
 <p><span class="chinese">我就是旋转的角动量。</span><span class="english">I am the spin angular momentum.</span></p>

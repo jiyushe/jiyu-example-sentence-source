@@ -1,5 +1,7 @@
 # 轻快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingkuai.md)
+
 <p><span class="chinese">他的脚步轻快。</span><span class="english">His step was springy.</span></p>
 
 <p><span class="chinese">他轻快地穿上外套。</span><span class="english">He popped his coat on.</span></p>

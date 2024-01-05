@@ -1,5 +1,7 @@
 # 身无分文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenwufenwen.md)
+
 <p><span class="chinese">其实他身无分文。</span><span class="english">He is in reality penniless.</span></p>
 
 <p><span class="chinese">他们把我们勒索得身无分文。</span><span class="english">They extorted every penny from us.</span></p>

@@ -1,5 +1,7 @@
 # puffiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puffiness.md)
+
 <p><span class="chinese">也是虚胖的缘由一。</span><span class="english">Puffiness of the reason is one.</span></p>
 
 <p><span class="chinese">天也容易造成眼部浮肿。</span><span class="english">Days are likely to cause eye puffiness.</span></p>

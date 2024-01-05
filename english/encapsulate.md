@@ -1,5 +1,7 @@
 # encapsulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encapsulate.md)
+
 <p><span class="chinese">花括号压缩了一行或多行代码。</span><span class="english">The curly braces to encapsulate one or more lines of code.</span></p>
 
 <p><span class="chinese">最后我们学习了如何封装枚举中的值。</span><span class="english">Finally, we learned how to encapsulate values in enumerations.</span></p>

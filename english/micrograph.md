@@ -1,5 +1,7 @@
 # micrograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micrograph.md)
+
 <p><span class="chinese">果蝇眼睛的电子显微图</span><span class="english">Electron Micrograph of Drosophila Fly’s Eyes.</span></p>
 
 <p><span class="chinese">一个单原子半导体的电子显微图。</span><span class="english">Electron micrograph of a single-atom transistor.</span></p>

@@ -1,5 +1,7 @@
 # 悟性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxing_2.md)
+
 <p><span class="chinese">相反地，它会让你成为一个更强更有悟性的投资者。</span><span class="english">It'll just make you a stronger and savvier investor.</span></p>
 
 <p><span class="chinese">这些成功故事主要关乎于悟性和选择。</span><span class="english">These success stories revolve strictly around perception and choice.</span></p>

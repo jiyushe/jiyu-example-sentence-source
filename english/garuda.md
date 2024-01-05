@@ -1,5 +1,7 @@
 # garuda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garuda.md)
+
 <p><span class="chinese">揭路荼是所有蛇的敌人。</span><span class="english">Garuda is the enemy of all snakes.</span></p>
 
 <p><span class="chinese">揭路荼赋予太阳以人性化，以及是蛇的天敌。</span><span class="english">Garuda personifies the sun, as well as'being the enemy of snakes.</span></p>

@@ -1,5 +1,7 @@
 # 卷宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanzong.md)
+
 <p><span class="chinese">我正在看这个案子的卷宗。</span><span class="english">I'm looking ather murder book now.</span></p>
 
 <p><span class="chinese">逢观景窗全部卷宗。</span><span class="english">It closes all folder viewing windows.</span></p>

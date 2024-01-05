@@ -1,5 +1,7 @@
 # totipotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totipotent.md)
+
 <p><span class="chinese">胚胎干细胞是两性的。</span><span class="english">Embryonic stem cells are totipotent.</span></p>
 
 <p><span class="chinese">对扩增后的ES细胞进行染色体和全能性检测。</span><span class="english">The totipotent and chromosome of the expanded ES cells were also examined.</span></p>

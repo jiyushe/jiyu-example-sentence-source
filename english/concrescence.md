@@ -1,5 +1,7 @@
 # concrescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concrescence.md)
+
 <p><span class="chinese">如何促进骨折的愈合一直是骨科领域中一个十分活跃的课题。</span><span class="english">How to promote fracture concrescence always is an active problem in osteology.</span></p>
 
 <p><span class="chinese">结果二组患者的治疗后症状缓解率和食管炎镜下愈合率均无显著性差异。</span><span class="english">Results The symptom alleviation rate and esophagitis gastroscope concrescence rate were not obviously different.</span></p>

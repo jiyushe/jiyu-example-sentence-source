@@ -1,5 +1,7 @@
 # eloise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eloise.md)
+
 <p><span class="chinese">艾萝依摇晃着玛丽简的手臂。</span><span class="english">Eloise shook Mary Jane's arm.</span></p>
 
 <p><span class="chinese">瑞摩娜被吓坏了，只是抬头看着艾萝依。</span><span class="english">Ramona, extremely frightened, just looked up at Eloise.</span></p>

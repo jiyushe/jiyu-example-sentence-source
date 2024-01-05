@@ -1,5 +1,7 @@
 # 何其
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heqi.md)
+
 <p><span class="chinese">何其相似乃尔!</span><span class="english">What a striking likeness!</span></p>
 
 <p><span class="chinese">何其相似乃尔?</span><span class="english">What a striking similarity!</span></p>

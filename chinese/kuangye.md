@@ -1,5 +1,7 @@
 # 旷野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangye.md)
+
 <p><span class="chinese">那路是旷野。</span><span class="english">This is a wilderness road.</span></p>
 
 <p><span class="chinese">我回家来啦，我在旷野上走迷路啦！</span><span class="english">I’ve lost my way on the moor!</span></p>

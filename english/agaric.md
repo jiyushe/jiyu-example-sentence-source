@@ -1,5 +1,7 @@
 # agaric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agaric.md)
+
 <p><span class="chinese">“黑”说的是黑木耳。</span><span class="english">"Black" said is black agaric.</span></p>
 
 <p><span class="chinese">毒蝇伞菌或者毒臭虫伞菌因何而得名？</span><span class="english">Why is the fly or bug agaric toadstool so named?</span></p>

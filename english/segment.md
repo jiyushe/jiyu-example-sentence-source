@@ -1,5 +1,7 @@
 # segment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/segment.md)
+
 <p><span class="chinese">好，几何学是怎么说的来着？</span><span class="english">The length of a line segment?</span></p>
 
 <p><span class="chinese">第三章，房地产市场的萧条。</span><span class="english">Segment three the Housing bust.</span></p>

@@ -1,5 +1,7 @@
 # 借镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejing.md)
+
 <p><span class="chinese">我自已学德语的经历可以给你们借镜。</span><span class="english">You can borrow from my experience in learning German.</span></p>
 
 <p><span class="chinese">生命里，每一次的成败都是未来的借镜。</span><span class="english">Every failure or success is a glimpse into the future.</span></p>

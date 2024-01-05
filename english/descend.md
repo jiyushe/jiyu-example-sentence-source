@@ -1,5 +1,7 @@
 # descend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descend.md)
+
 <p><span class="chinese">千条江河归大海。</span><span class="english">Rivers descend to the sea.</span></p>
 
 <p><span class="chinese">我决不干这种卑鄙的事情。</span><span class="english">I never descend to such meanness.</span></p>

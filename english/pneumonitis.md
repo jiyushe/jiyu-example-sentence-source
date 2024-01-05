@@ -1,5 +1,7 @@
 # pneumonitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumonitis.md)
+
 <p><span class="chinese">间质肺炎常伴有发热。</span><span class="english">Pneumonitis is usually associated with fever.</span></p>
 
 <p><span class="chinese">GVHD合并感染和间质性肺炎是主要死因。</span><span class="english">GVHD, infection and interstitial pneumonitis were the main causes of death.</span></p>

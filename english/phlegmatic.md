@@ -1,5 +1,7 @@
 # phlegmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phlegmatic.md)
+
 <p><span class="chinese">英国人的性格常说成是冷漠的。</span><span class="english">The British character is often said to be phlegmatic.</span></p>
 
 <p><span class="chinese">这些食物食物都会增加体内的粘液元素。</span><span class="english">These foods all increase the body's phlegmatic element.</span></p>

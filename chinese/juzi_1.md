@@ -1,5 +1,7 @@
 # 巨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzi_1.md)
+
 <p><span class="chinese">他是一位实业界巨子。</span><span class="english">He is a business tycoon.</span></p>
 
 <p><span class="chinese">现实上，将预示势力巨子的仔裤穿对于另有好些个隐讳。</span><span class="english">In fact, getting power jeans right involves lots of no's.</span></p>

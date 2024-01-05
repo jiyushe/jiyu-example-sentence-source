@@ -1,5 +1,7 @@
 # 风尘仆仆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengchenpupu.md)
+
 <p><span class="chinese">他又风尘仆仆地踏上了去中国的旅程。</span><span class="english">He was on his way to China again.</span></p>
 
 <p><span class="chinese">她看起来怏怏不乐，并且风尘仆仆需要沐浴一番。</span><span class="english">She looks unhappy and in dire need of a bath.</span></p>

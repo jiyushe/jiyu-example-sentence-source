@@ -1,5 +1,7 @@
 # 抚爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuai.md)
+
 <p><span class="chinese">无论是警告或者抚爱。</span><span class="english">In warning or in love.</span></p>
 
 <p><span class="chinese">在那种痛苦中，有人服侍，便是有人抚爱。</span><span class="english">To be served in distress is to be caressed.</span></p>

@@ -1,5 +1,7 @@
 # isozyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isozyme.md)
+
 <p><span class="chinese">籽粒中只有GS1同工酶的表达。</span><span class="english">Only GS1 isozyme expresses in the grain.</span></p>
 
 <p><span class="chinese">蝴蝶酯酶同工酶具有多态现象。</span><span class="english">The EST isozyme of butterflies possess polymorphosis.</span></p>

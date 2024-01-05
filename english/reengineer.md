@@ -1,5 +1,7 @@
 # reengineer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reengineer.md)
+
 <p><span class="chinese">第三种价值类型我们称之为亲密顾客型。</span><span class="english">So if its customer intimacy , then we reengineer our customer.</span></p>
 
 <p><span class="chinese">管理层可能决定只提取并再造工程某个关键组件。</span><span class="english">Management may decide to extract and reengineer some critical component only.</span></p>

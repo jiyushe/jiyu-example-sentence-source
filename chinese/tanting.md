@@ -1,5 +1,7 @@
 # 探听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanting.md)
+
 <p><span class="chinese">你已探听出他的看法吗？</span><span class="english">Have you sounded him out ?</span></p>
 
 <p><span class="chinese">她想从他那里探听些消息。</span><span class="english">She tried to pipe him off.</span></p>

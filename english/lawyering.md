@@ -1,5 +1,7 @@
 # lawyering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawyering.md)
+
 <p><span class="chinese">第九章是律师制度。</span><span class="english">Chapter 9 Lawyering System of China.</span></p>
 
 <p><span class="chinese">这些行为不仅粗鲁无礼，而且是差劲的业务表现。</span><span class="english">This is not only rude, but it’s also bad lawyering.</span></p>

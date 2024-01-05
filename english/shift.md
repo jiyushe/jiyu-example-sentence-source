@@ -1,5 +1,7 @@
 # shift 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shift.md)
+
 <p><span class="chinese">转移你的注视。</span><span class="english">Shift your gaze.</span></p>
 
 <p><span class="chinese">这是一个很大的转变。</span><span class="english">There is a major shift.</span></p>

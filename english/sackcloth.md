@@ -1,5 +1,7 @@
 # sackcloth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sackcloth.md)
+
 <p><span class="chinese">他早就悔恨自己的恶行了。</span><span class="english">He repented long ago in sackcloth and ashes for his misdeeds.</span></p>
 
 <p><span class="chinese">我缝麻布在我皮肤上，把我的角放在尘土中。</span><span class="english">I have sewed sackcloth upon my skin, and defiled my horn in the dust.</span></p>

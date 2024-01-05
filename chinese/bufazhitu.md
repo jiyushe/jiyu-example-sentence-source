@@ -1,5 +1,7 @@
 # 不法之徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufazhitu.md)
+
 <p><span class="chinese">那个不法之徒最后死于非命。</span><span class="english">The bad man died in his boots at last.</span></p>
 
 <p><span class="chinese">那些不法之徒是不会浪费任何时间的。</span><span class="english">The scavengers aren't wasting any time.</span></p>

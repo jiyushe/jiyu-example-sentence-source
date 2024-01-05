@@ -1,5 +1,7 @@
 # osteosarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteosarcoma.md)
+
 <p><span class="chinese">正式诊断结果是骨肉瘤。</span><span class="english">The official diagnosis was an osteosarcoma.</span></p>
 
 <p><span class="chinese">Bruce患了一种名为骨肉瘤的骨癌。</span><span class="english">Bruce was had bone cancer called osteosarcoma.</span></p>

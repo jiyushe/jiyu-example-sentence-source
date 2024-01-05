@@ -1,5 +1,7 @@
 # exempt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exempt.md)
+
 <p><span class="chinese">豁免的退休计划。完成第十五部份。</span><span class="english">Exempt retirement plans. Complete Part XV.</span></p>
 
 <p><span class="chinese">您是免检吗？请走这边。</span><span class="english">Are you exempt from checking? This way, please.</span></p>

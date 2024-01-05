@@ -1,5 +1,7 @@
 # 局势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushi_1.md)
+
 <p><span class="chinese">局势不稳。</span><span class="english">The situation was unstable.</span></p>
 
 <p><span class="chinese">紧张局势逐渐缓和了。</span><span class="english">The tension eased off slowly.</span></p>

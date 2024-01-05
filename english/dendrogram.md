@@ -1,5 +1,7 @@
 # dendrogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dendrogram.md)
+
 <p><span class="chinese">立视图式侧视图又叫树枝状图。</span><span class="english">The elevation or side view is known as a dendrogram.</span></p>
 
 <p><span class="chinese">用平均连锁聚类法构建了遗传相关聚类图。</span><span class="english">A clustering dendrogram was constructed using average linkage clustering.</span></p>

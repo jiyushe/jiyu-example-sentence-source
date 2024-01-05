@@ -1,5 +1,7 @@
 # formation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formation.md)
+
 <p><span class="chinese">士兵们溃逃。</span><span class="english">The troops broke formation and ran.</span></p>
 
 <p><span class="chinese">奥古斯都及罗马帝国的形成。</span><span class="english">Augustus and the formation of empire.</span></p>

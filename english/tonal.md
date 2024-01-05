@@ -1,5 +1,7 @@
 # tonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonal.md)
+
 <p><span class="chinese">在内侧的色调孔眼。</span><span class="english">Tonal eyelets at inner side.</span></p>
 
 <p><span class="chinese">比中灰为暗色调。</span><span class="english">Low key Tonal values darker than mid-grey.</span></p>

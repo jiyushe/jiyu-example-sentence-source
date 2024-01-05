@@ -1,5 +1,7 @@
 # pas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pas.md)
+
 <p><span class="chinese">原始生殖细胞的PAS反应呈阳性。</span><span class="english">The PAS reaction was of pGcs positive.</span></p>
 
 <p><span class="chinese">政治家是何许人也？政治家是啥玩意儿？</span><span class="english">N'est pas? Who is a statesman? What is a statesman?</span></p>

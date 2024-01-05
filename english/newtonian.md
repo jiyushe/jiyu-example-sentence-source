@@ -1,5 +1,7 @@
 # newtonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newtonian.md)
+
 <p><span class="chinese">它包含两部分</span><span class="english">So, Newtonian mechanics has two parts.</span></p>
 
 <p><span class="chinese">我们先来看看牛顿力学</span><span class="english">So, Newtonian mechanics is our first topic.</span></p>

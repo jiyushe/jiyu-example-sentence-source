@@ -1,5 +1,7 @@
 # excelled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excelled.md)
+
 <p><span class="chinese">所罗门智慧过人。</span><span class="english">Solomon excelled in wisdom.</span></p>
 
 <p><span class="chinese">她超过同时代的所有其他作家。</span><span class="english">She excelled all other authors of her day.</span></p>

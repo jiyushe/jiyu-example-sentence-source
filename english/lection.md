@@ -1,5 +1,7 @@
 # lection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lection.md)
+
 <p><span class="chinese">学员们一遍遍听着关于美国人民和他们“虚假”笑容的官方介绍。</span><span class="english">The students are listening to a lection on American people and their ‘fake’ smiles.</span></p>
 
 <p><span class="chinese">经书上的经再好，如果不去实践，那么它也仅仅是一些文字而已。</span><span class="english">The lection of classics is too better, If it is not practiced, is is nothing more than words.</span></p>

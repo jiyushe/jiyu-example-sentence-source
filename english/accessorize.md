@@ -1,5 +1,7 @@
 # accessorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessorize.md)
+
 <p><span class="chinese">因为她们会用不同的配件。</span><span class="english">Because they would all accessorize differently.</span></p>
 
 <p><span class="chinese">这套衣服比其他衣服更适合配置装饰品。</span><span class="english">This suit of clothes accessorize more easily than others.</span></p>

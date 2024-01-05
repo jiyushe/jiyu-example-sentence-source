@@ -1,5 +1,7 @@
 # 歧视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_4.md)
+
 <p><span class="chinese">真相无法性别歧视。</span><span class="english">The truth cannot be sexist.</span></p>
 
 <p><span class="chinese">Viveka意味着歧视。</span><span class="english">Viveka means discrimination.</span></p>

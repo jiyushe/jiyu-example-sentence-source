@@ -1,5 +1,7 @@
 # lawmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawmaker.md)
+
 <p><span class="chinese">中国立法委员呼吁禁止鲨鱼翅交易。</span><span class="english">Lawmaker urges shark fin trading ban.</span></p>
 
 <p><span class="chinese">朝鲜希望与韩国国会议员举行会谈。</span><span class="english">DPRK wants lawmaker talks with S. Korea.</span></p>

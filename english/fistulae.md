@@ -1,5 +1,7 @@
 # fistulae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fistulae.md)
+
 <p><span class="chinese">胸骨虞廔管是心脏手术之后罕见的合并症。</span><span class="english">Sternal fistulae are a seldom event after cardiac surgery.</span></p>
 
 <p><span class="chinese">瘘管可在肠袢间、膀胱和皮肤形成。</span><span class="english">Fistulae can form between loops of bowel , bladder , and skin.</span></p>

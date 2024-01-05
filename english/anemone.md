@@ -1,5 +1,7 @@
 # anemone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anemone.md)
+
 <p><span class="chinese">我不过是一朵银莲花。</span><span class="english">I am an mere anemone.</span></p>
 
 <p><span class="chinese">早上好，海葵和小丑鱼。</span><span class="english">Good day, sea anemone and clown fish.</span></p>

@@ -1,5 +1,7 @@
 # 飘飘然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaopiaoran.md)
+
 <p><span class="chinese">伙计，你最近这几天都一副飘飘然的样子。</span><span class="english">Man, you have been walking on air for days.</span></p>
 
 <p><span class="chinese">有一天我听见老师向我妈妈表扬我，感觉飘飘然。</span><span class="english">One day I heard my teacher praising me to my mother.</span></p>

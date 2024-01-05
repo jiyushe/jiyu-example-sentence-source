@@ -1,5 +1,7 @@
 # 相持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchi.md)
+
 <p><span class="chinese">战争处于相持阶段。</span><span class="english">The war was at a stalemate.</span></p>
 
 <p><span class="chinese">事实上，我们对这些疾病的围攻已处在最后的相持阶段。</span><span class="english">Indeed, we have these diseases cornered in a final stand-off.</span></p>

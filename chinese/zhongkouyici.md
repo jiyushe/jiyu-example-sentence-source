@@ -1,5 +1,7 @@
 # 众口一词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongkouyici.md)
+
 <p><span class="chinese">税收改革得到众口一词的称赞。</span><span class="english">The tax reform was met with unanimous applause.</span></p>
 
 <p><span class="chinese">黑客不傻，而众口一词在他们的世界里是很罕见的现象。</span><span class="english">Hackers are not stupid, and unanimity is very rare in this world.</span></p>

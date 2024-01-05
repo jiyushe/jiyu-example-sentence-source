@@ -1,5 +1,7 @@
 # quadrat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrat.md)
+
 <p><span class="chinese">每个小样方必须比整个基群丛更为统一。</span><span class="english">Each small quadrat must be more homogeneous than the sociation as a whole.</span></p>
 
 <p><span class="chinese">每个小样方必须比整个基群丛更为统一。</span><span class="english">Each small quadrat must be more homogenerous than the sociation as a whole.</span></p>

@@ -1,5 +1,7 @@
 # 慷慨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangkai.md)
+
 <p><span class="chinese">他慷慨地款待我们。</span><span class="english">He did us handsomely.</span></p>
 
 <p><span class="chinese">这是非常慷慨的陈词。</span><span class="english">A generous note there.</span></p>

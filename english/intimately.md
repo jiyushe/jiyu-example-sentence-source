@@ -1,5 +1,7 @@
 # intimately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intimately.md)
+
 <p><span class="chinese">太太贴心的帮罗会长抓龙。</span><span class="english">Chairman Tony Lo was massaged by his wife intimately.</span></p>
 
 <p><span class="chinese">我能丝丝入扣地在自我当中感受角色之所在。</span><span class="english">I feel intimately inside myself where the role belongs.</span></p>
